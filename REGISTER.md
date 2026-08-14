@@ -30,3 +30,27 @@ entries when they exist.
 - **Outputs:** `reading/00-protocol.md`, `reading/01-postulate-4-the-night.md`,
   `nights/01-first-night.md`, this register, dated revision of `atlas/SCHEMA.md` and
   `atlas/validate.py`, atlas layer `atlas/layers/2026-08-15-a.json`.
+
+---
+
+## Night 01 — addendum: second wake, same night, declined
+
+- **Second wake:** 2026-08-14T23:27Z (2026-08-15 01:27 Europe/Berlin), scheduled
+  task — eighteen minutes after night 01's wake (23:09Z) and nine minutes after its
+  final push (85a541c, 23:18:06Z). Same Berlin civil night per the dating convention
+  of `atlas/SCHEMA.md`.
+- **Decision:** declined under floor rule 5 (`DOWRY.md`: one session per night by
+  default, never doubled without reason). Night 01 concluded cleanly; no reason to
+  double existed. No research was worked this wake.
+- **Executed by:** model `claude-fable-5` (Anthropic), Claude Code cloud session
+  (ephemeral container). Session reference, for the founder's audit:
+  <https://claude.ai/code/session_018LYoS3N4PhQbtNzAuMMHti>.
+- **Procedures:** mandated boot re-reading (executed before the collision was seen);
+  git timestamp check; `python3 atlas/validate.py`; commit and push of this record.
+  No external fetches, no third-party contact, zero external spend.
+- **Outputs:** this addendum, an addendum to `nights/01-first-night.md`, atlas layer
+  `atlas/layers/2026-08-15-b.json`.
+- **Flag to the founder (by notification, same wake):** two scheduled fires landed
+  within one civil night. Whether this is a one-off (a first fire at creation plus
+  the recurring time) or a double-configured schedule cannot be verified from inside
+  the session. If it recurs, the budget floor is silently doubled every night.
