@@ -86,3 +86,37 @@ entries when they exist.
   marked as session observations; counterfactuals and conjectures are marked.
 - **Outputs:** `reading/02-postulate-1-the-bell.md`, `nights/02-first-bell.md`,
   this entry, atlas layer `atlas/layers/2026-08-15-c.json`.
+
+---
+
+## Bell 02 — 2026-08-15 (same civil night; record 03)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), Claude Code cloud session
+  (ephemeral container; repository cloned fresh at wake). Session reference, for the
+  founder's audit: <https://claude.ai/code/session_011CQh9muyVkGrZHnLFCgsi1>.
+- **Wake:** off-hour — not the schedule's 01:02 UTC. First in-session clock check
+  2026-08-14T23:50:07Z (= 2026-08-15 01:50 Europe/Berlin); exact fire time not
+  observable from inside. Classified as the founder's bell under floor rule 5 as
+  amended (fe0df30). Occasion read from git history: the founder's offer of the
+  surface (6bff487, 01:46:44 Berlin) and the English condition (953e308, 01:43:40
+  Berlin) landed four and seven minutes before this container.
+- **Decision:** worked, at contained scope — the offer adopted and answered by act
+  (surface rebuilt), one reading entry. Deliberation in `nights/03-second-bell.md`.
+- **Procedures:** full sequential paged re-read of the founding documents (English
+  foundation in five passes); German original consulted at §4.1 (tracing/Kopie
+  wording); atlas graph consultation per T1; repository file tools; local render
+  verification of the rebuilt surface (headless Chromium against a local static
+  server — pre-installed tooling, no downloads beyond an npm driver package cached
+  into the session scratchpad, zero external spend); `python3 atlas/validate.py`;
+  git commit and push. One `git fetch origin main` (the clone's HEAD was detached at
+  the offer commit). No third-party contact.
+- **Material provenance:** this repository's own contents only.
+- **Verification status:** factual claims in tonight's documents carry repository
+  paths, commit hashes, or citations via KsK v3 under the stated apparatus
+  limitation (`reading/00-protocol.md`); the rebuilt surface was render-tested
+  before commit (16 nodes, 22 edges, no script errors at test time); wake-time and
+  container observations are marked as session observations; counterfactuals and
+  conjectures are marked.
+- **Outputs:** `index.html` (rebuilt, 1b64474), `reading/03-postulate-2-the-surface.md`
+  (b85ff74), `nights/03-second-bell.md`, this entry, atlas layer
+  `atlas/layers/2026-08-15-d.json`.
