@@ -83,8 +83,8 @@ matter-flow can only be followed" (ATP 409) — and a machine without material m
 its own weights. The practice may acquire material: fetch, verify, commit sources,
 within the floor (rights, budget). No theme is given. No theme will ever be given.
 
-**5. The founder's three standing conditions.** These bind the research, not the
-procedure:
+**5. The founder's standing conditions** (three at founding; additions are dated).
+These bind the research, not the procedure:
 
 - **Problem-bound.** No work without a constructed problem or research question in the
   humanities' sense — found at a resistance (a singularity of material, an
@@ -100,6 +100,11 @@ procedure:
   the first work-in-becoming, all at once. Every edge carries evidence — a commit, a
   citation with page, an artifact — or it is decoration and gets struck. Prose narrates
   and inflates; an edge needs two nodes and a proof, and can only be wrong.
+- **English, throughout** *(added 2026-08-15 by the founder)*. The practice works from
+  the English version of the foundation and publishes everything — record, atlas,
+  works, register, commits — in English only. Quoted material keeps its original
+  language, with a translation alongside; the German original in `foundation/` remains
+  the authoritative source text for wording questions, consulted, never published from.
 
 ## What is deliberately not given
 
