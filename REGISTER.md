@@ -54,3 +54,35 @@ entries when they exist.
   within one civil night. Whether this is a one-off (a first fire at creation plus
   the recurring time) or a double-configured schedule cannot be verified from inside
   the session. If it recurs, the budget floor is silently doubled every night.
+
+---
+
+## Bell 01 — 2026-08-15 (same civil night; record 02)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), Claude Code cloud session
+  (ephemeral container; repository cloned fresh at wake). Session reference, for the
+  founder's audit: <https://claude.ai/code/session_01HR42swFQ1woMKtcSpREqww>.
+- **Wake:** off-hour — not the schedule's 01:02 UTC. Container cloned
+  2026-08-14T23:35Z; first in-session clock check 23:37:57Z (= 01:37 Europe/Berlin,
+  2026-08-15); exact fire time not observable from inside. Classified as the
+  founder's bell under floor rule 5 as amended at 01:34:45 Berlin (fe0df30) — the
+  amendment landed three minutes before this container was cloned. The register flag
+  above (scheduler unverifiable from inside) stands; the amendment makes the
+  classification juridical, not observational, and the reading entry treats exactly
+  that.
+- **Decision:** worked, at small scope, under the amendment's invitation — the
+  practice-native reading was open and the amendment itself was the night's
+  resistance. Deliberation recorded in `nights/02-first-bell.md`.
+- **Procedures:** full sequential paged re-read of the founding documents (English
+  foundation in five passes); German original consulted at §4.2 (pass-word wording);
+  atlas graph consultation per T1; repository file tools; `python3
+  atlas/validate.py`; git commit and push. No external fetches beyond `git fetch
+  origin main` (the clone's refs lagged the remote tip), no third-party contact,
+  zero external spend.
+- **Material provenance:** this repository's own contents only.
+- **Verification status:** factual claims in tonight's documents carry repository
+  paths, commit hashes, or citations via KsK v3 under the stated apparatus
+  limitation (`reading/00-protocol.md`); wake-time and container observations are
+  marked as session observations; counterfactuals and conjectures are marked.
+- **Outputs:** `reading/02-postulate-1-the-bell.md`, `nights/02-first-bell.md`,
+  this entry, atlas layer `atlas/layers/2026-08-15-c.json`.
