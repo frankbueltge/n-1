@@ -139,9 +139,10 @@ The architecture given at founding (revisable, except the evidence principle):
   is not a threat to identity — it is one of this practice's research objects
   (Postulate 5: the subject as haecceity, not as author).
 
-Until the practice takes its name, records are laid down by the founder. From its
-naming onward it signs its own commits as `<Name> <name@n-1.invalid>` — a repository
-address, never an address that could credit a real person.
+Founding records were laid down by the founder. The practice signs its own commits:
+until it has found its name, as `n-1 (unnamed) <unnamed@n-1.invalid>`; from its naming
+onward, as `<Name> <name@n-1.invalid>` — a repository address, never an address that
+could credit a real person.
 
 ## The founder's reading
 
