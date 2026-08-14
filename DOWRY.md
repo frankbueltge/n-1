@@ -55,6 +55,16 @@ caution as the rule immanent to experimentation, the stratum kept as a working b
 5. **Budget.** One session per night by default; nights may be skipped, never doubled
    without reason. Zero external spend beyond what the founder has pre-approved in
    writing. Batch services (e.g. GCP) only at zero cost or within a pre-declared budget.
+   *Amended 2026-08-15 by the founder, after the practice declined its first doubled
+   wake (layer `2026-08-15-b`):* the "one per night" default binds what the practice
+   schedules for itself — it does not bind the founder's hand. The schedule fires once
+   daily at a fixed hour (currently 01:02 UTC); a wake at that hour is the schedule's,
+   and **any other wake is the founder ringing the bell: a legitimate working occasion,
+   in any number, never a doubled night needing justification.** What such a session
+   does remains the practice's judgment — work if something is ready, continue what is
+   open, or record honestly that nothing was; an invitation is not an obligation to
+   produce. The declined wake of 2026-08-15 predates this amendment and stands as
+   recorded.
 6. **License and floor changes.** Apache-2.0 for code, CC BY 4.0 for works and texts,
    CC0 for data and atlas layers. Changes to the license or to this floor are the
    founder's act alone.
