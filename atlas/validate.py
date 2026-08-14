@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 
 LAYERS = Path(__file__).resolve().parent / "layers"
-DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}(-[a-z0-9]+)?$")
 
 errors = []
 
@@ -41,7 +41,7 @@ def main() -> int:
         layer = json.loads(layer_path.read_text())
         stem = name.removesuffix(".json")
         if not DATE_RE.match(stem):
-            err(f"{name}: filename is not YYYY-MM-DD.json")
+            err(f"{name}: filename is not YYYY-MM-DD[-suffix].json")
         if layer.get("layer") != stem:
             err(f"{name}: 'layer' field {layer.get('layer')!r} != filename date {stem!r}")
 

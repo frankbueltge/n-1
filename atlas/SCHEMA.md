@@ -33,3 +33,13 @@ in the record, not for a script (the five criteria are topoi, never a grid).
 
 The schema and validator are the practice's to revise — except the evidence principle,
 which is floor (see `DOWRY.md`).
+
+## Revisions
+
+- **2026-08-15 (night 01).** Layer dates are the Europe/Berlin civil date of the
+  session's wake — inherited from the founding layer's dating, and recorded as an
+  inheritance (see `reading/01-postulate-4-the-night.md` §3). Where a date is already
+  occupied, the newcomer's filename takes a lowercase suffix (`YYYY-MM-DD-a.json`);
+  the `layer` field equals the filename stem. Occasion: founding and first working
+  night share 2026-08-15. Reasoning and alternatives weighed:
+  `nights/01-first-night.md`. Validator widened to match.
