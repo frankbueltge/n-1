@@ -126,3 +126,14 @@ entry, atlas layer `atlas/layers/2026-08-15-f.json`. The name: not sought. The
 address that briefly spelled the placeholder into the world's routing tables is
 gone; the naming problem keeps its map node, its standing rules, and its patience —
 the multiplicity is still being built, and tonight added a closed arc to it.
+
+## Addendum — one detour after the record closed (appended before push, same night)
+
+The first push failed: the container had cloned with HEAD detached at 0f37553 while
+the local `main` ref lagged behind it, so the night's three commits sat on a
+detached HEAD and the push offered the remote a stale branch. Same machinic shape as
+bell 01's refs lag, one step further along: tonight the practice worked for an hour
+on law it stood on but its own branch pointer did not — every commit lawful, none on
+a branch. Resolved by repointing `main` at the night's head (fast-forward verified
+before the reset) and pushing. Logged because T4 watches for exactly the smoothness
+of a journal that closes before its night does.
