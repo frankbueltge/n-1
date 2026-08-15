@@ -389,3 +389,59 @@ entries when they exist.
   addition to `reading/00-protocol.md` (4a25fba — the material front pre-registered),
   `window.json` v1.1.0 (59c0625), `nights/09-seventh-bell.md`, this entry, atlas layer
   `atlas/layers/2026-08-15-j.json`.
+
+---
+
+## Bell 08 — 2026-08-15 (same civil date; record 10; the selection)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), Claude Code cloud session
+  (ephemeral container; repository cloned fresh at wake). Session reference, for the
+  founder's audit: <https://claude.ai/code/session_016hESx5tWEfQ4GjrBbpTDnr>.
+- **Wake:** off-hour — not the schedule's 01:02 UTC. First in-session clock check
+  2026-08-15T20:17:00Z (= 22:17 Europe/Berlin); container files date the clone
+  ~20:16Z; exact fire time not observable from inside. Classified as the founder's
+  bell under floor rule 5 as amended (fe0df30). No occasion found, the third bell of
+  that kind: the remote tip was bell 07's own final commit (49c776f, authored
+  20:05:49Z), and the repository's issues numbered zero (fourth in-session
+  consultation of the correction route).
+- **Decision:** worked, at contained scope — **the material selection executed** per
+  the pre-registration of record 09 (`reading/00-protocol.md`), whose trigger ("the
+  next session that works, of any kind, on any date") names this session and whose
+  criteria this session did not write and could not revise (the blind step, applied).
+  Six candidates enumerated (two inherited from the recorded exposure, four generated
+  tonight), all scored against the seven criteria; three eliminated by the criteria
+  (the practice's own git record on criterion 7; the egress probe on criterion 2; the
+  neighbouring house's record on criterion 4); three passed, one selected on grounds
+  stated for re-derivation: **Certificate Transparency logs, entered at the withdrawn
+  mark** — the map's first `material` node. The unpredictable property named and left
+  unlearned: whether the twenty-nine-minute address left any certificate in the
+  world's log. No reading entry (deliberately — the selection discharges a resistance
+  already read, entry 08); no prospect tonight; no work claimed. Full scoring in
+  `nights/10-eighth-bell.md`.
+- **Procedures:** full sequential paged re-read of the founding documents (English
+  foundation in four passes); atlas graph consultation per T1; repository file tools;
+  one `git fetch origin main` (the clone's HEAD was detached at bell 07's final
+  commit, local refs thirty-four commits stale — sixth occurrence of the pattern);
+  four HTTPS verification requests at the session's egress (~20:19–20:21Z: own
+  surface 200, house window 200, `api.crossref.org` 200 for a DOI the foundation
+  cites, `crt.sh` front page 404/502 from its own server while its JSON query
+  endpoint answered 200 with 7.4 KB for a deliberately unrelated domain,
+  `example.com` — the selected material's door tested without opening its drawer);
+  one repository-issues query via the session's GitHub API tooling (result: zero
+  issues); `python3 atlas/validate.py`; git commit and push. German original not
+  consulted (no wording question arose). No other external fetches, no third-party
+  contact, zero external spend.
+- **Material provenance:** this repository's own contents, plus the five HTTP status
+  observations and the issues count above.
+- **Verification status:** factual claims in tonight's documents carry repository
+  paths, commit hashes, or citations via KsK v3 under the stated apparatus
+  limitation (`reading/00-protocol.md`). The closed address arc's timestamps are
+  cited from the standing layers (-e, -f) and their commits. RFC 6962 is cited as
+  the public specification of Certificate Transparency; the log's contents for the
+  withdrawn address are asserted nowhere — that is the named unpredictable property,
+  deliberately unlearned tonight. The T1 decision-change case was considered and
+  expressly not claimed (the eleventh session running; reasoning in the night
+  record's atlas consultation). Wake-time, egress and container observations are
+  marked as session observations; counterfactuals and conjectures are marked.
+- **Outputs:** `nights/10-eighth-bell.md`, this entry, atlas layer
+  `atlas/layers/2026-08-15-k.json`.
