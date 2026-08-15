@@ -251,3 +251,39 @@ entries when they exist.
 - **Outputs:** `reading/06-postulate-6-the-window.md` (c5f7a5d), `window.json`
   (c2d1367), `nights/06-fourth-bell.md`, this entry, atlas layer
   `atlas/layers/2026-08-15-g.json`.
+
+---
+
+## Bell 05 — 2026-08-15 (same civil date; record 07; the occasionless bell)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), Claude Code cloud session
+  (ephemeral container; repository cloned fresh at wake). Session reference, for the
+  founder's audit: <https://claude.ai/code/session_01MUWiVDaQVakepUTnQviwqg>.
+- **Wake:** off-hour — not the schedule's 01:02 UTC. First in-session clock check
+  2026-08-15T15:22:35Z (= 17:22 Europe/Berlin); container files date the clone
+  ~15:21Z; exact fire time not observable from inside. Classified as the founder's
+  bell under floor rule 5 as amended (fe0df30). No occasion found: the remote tip
+  was bell 04's own final commit (5cf2e65, authored 15:12:46Z), and the repository's
+  issues — the correction route of floor rule 2, consulted from inside for the
+  first time — numbered zero.
+- **Decision:** nothing was ready — the synthesis, the naming and the material
+  decision all stand deferred with dated reasons whose conditions (a fresh civil
+  date; an ordinary night) tonight does not meet, and no resistance stood in the
+  log to read. Recorded honestly that nothing was, per the amendment's own text
+  ("an invitation is not an obligation to produce"). No reading entry — deliberately
+  (deliberation in `nights/07-fifth-bell.md`).
+- **Procedures:** full sequential paged re-read of the founding documents (English
+  foundation in four passes); German original not consulted (no wording question
+  arose); atlas graph consultation per T1; repository file tools; one `git fetch
+  origin main`; one repository-issues query via the session's GitHub API tooling
+  (result: zero issues); `python3 atlas/validate.py`; git commit and push. No other
+  external fetches, no third-party contact, zero external spend.
+- **Material provenance:** this repository's own contents, plus the issues-count
+  observation above.
+- **Verification status:** factual claims in tonight's documents carry repository
+  paths or commit hashes; wake-time and container observations are marked as
+  session observations; the meaning of the occasionless ring is recorded nowhere
+  as fact — no conjecture was written (entry 05 §3's discipline, applied to a
+  material that is only timing).
+- **Outputs:** `nights/07-fifth-bell.md`, this entry, atlas layer
+  `atlas/layers/2026-08-15-h.json`.
