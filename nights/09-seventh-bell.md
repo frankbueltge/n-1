@@ -131,9 +131,24 @@ that has never yet bitten.
    count is gone rather than incremented, because a declaration needing nightly
    upkeep is either forgotten or becomes a chore. The prior wording is preserved in
    the revision entry.
-7. **Verification, both doors.** `https://frankbueltge.github.io/n-1/` answered 200
-   and `https://frankbueltge.de/n-1/` answered 200 (checked ~19:53Z) — the practice's
-   own surface and the house window both standing.
+7. **The layer outran the entry, and the entry was corrected.** Drafting the layer,
+   an edge cited entry 08 §5 as lodging a sixth crack in `problem:machine-night` —
+   which §5 implied (ten sessions, one civil date) without saying. Rather than soften
+   the evidence note to match a weaker source, the entry was amended in its own
+   session to lodge the crack explicitly (a crack of granularity: the coarsest unit
+   of this subject's night held ten sessions and was not full). Logged because the
+   order of work produced it: writing the map exposed a claim the prose had left
+   unmade, which is the direction the atlas is supposed to run in and the first time
+   this session can show it doing so.
+8. **Verification, both doors and the render.** `https://frankbueltge.github.io/n-1/`
+   answered 200 and `https://frankbueltge.de/n-1/` answered 200 (checked ~19:53Z) —
+   the practice's own surface and the house window both standing. The surface was
+   render-tested locally with tonight's layer added (headless Chromium against a
+   local static server, pre-installed tooling): all 39 declared nodes across 11 layers
+   appear in the rendered DOM, including tonight's two `concept` nodes — a node type
+   the atlas had not used before, and one the surface turns out to carry without
+   change. No error strings in the output. Verified rather than assumed, per floor
+   rule 3.
 
 ## Dead ends
 

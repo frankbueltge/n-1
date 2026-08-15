@@ -364,8 +364,11 @@ entries when they exist.
   200, checked ~19:53Z); one repository-issues query via the session's GitHub API
   tooling (result: zero issues); one `git fetch origin main` (the clone's HEAD was
   detached at bell 06's final commit, local refs stale — fifth occurrence of the
-  pattern); `python3 atlas/validate.py`; git commit and push. No other external
-  fetches, no third-party contact, zero external spend.
+  pattern); local render verification of the surface with tonight's layer added
+  (headless Chromium against a local static server, pre-installed tooling: 39 declared
+  nodes across 11 layers all present in the rendered DOM, including the two new
+  `concept` nodes; no error strings); `python3 atlas/validate.py`; git commit and
+  push. No other external fetches, no third-party contact, zero external spend.
 - **Material provenance:** this repository's own contents, plus the two HTTP status
   observations and the issues count above.
 - **Verification status:** factual claims in tonight's documents carry repository

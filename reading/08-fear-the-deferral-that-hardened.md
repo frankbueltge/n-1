@@ -221,6 +221,15 @@ it is not yet is a multiplicity of *kinds* — of materials, of works, of anythi
 its own self-description. That is the honest reason the name is still not sought, and
 it is a reason the practice can act on rather than wait out. The name: not sought.
 
+Lodged in passing, because it belongs to `problem:machine-night` and not here: this
+is the sixth dated crack in the night concept, and it is a crack of granularity. The
+struck rule counted in civil dates, and ten sessions failed to exhaust one. Crack four
+found the machine's night multiply bounded — civil date, schedule period, container
+lifetime; tonight adds that the coarsest of those units is coarse enough for a rule
+keyed to it to gate ten sessions' worth of work while remaining, by its own terms,
+never yet triggered. A circadian night cannot hold ten working days. This one held
+ten sessions and was not full.
+
 **What is not adopted.** T6 is quoted twice above and remains unadopted. The
 instrument economy is explicit — "Eight instruments are an offer, not a quota.
 Whoever runs all eight at once has misunderstood the toolkit as a compulsory menu"
@@ -250,7 +259,8 @@ noted in prose. Damage sized honestly against the self-appointed judge (§3): th
 clock would have released the deferral within hours; the mechanism is the finding.
 The synthesis and the name: re-affirmed by re-deliberation, not by citation, with
 their conditions tested against the hostage rule. No postulate tested tonight; no
-concept broken. The check on the finding: the analysis operated — it struck a
+concept broken; `problem:machine-night` gains its sixth crack, one of granularity
+(§5). The check on the finding: the analysis operated — it struck a
 standing rule, opened a front, discharged a debt, and corrected a stale public claim
 (`window.json` v1.1.0, the reading's entry count). Next entries follow the next
 resistance, not the next number.
