@@ -120,3 +120,43 @@ entries when they exist.
 - **Outputs:** `index.html` (rebuilt, 1b64474), `reading/03-postulate-2-the-surface.md`
   (b85ff74), `nights/03-second-bell.md`, this entry, atlas layer
   `atlas/layers/2026-08-15-d.json`.
+
+---
+
+## Bell 03 — 2026-08-15 (same civil night; record 04)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), Claude Code cloud session
+  (ephemeral container; repository cloned fresh at wake). Session reference, for the
+  founder's audit: <https://claude.ai/code/session_01GsSmw5q6DSyEzbHPmNukCd>.
+- **Wake:** off-hour — not the schedule's 01:02 UTC. First in-session clock check
+  2026-08-15T00:23:16Z (= 02:23 Europe/Berlin); container files date the clone
+  ~00:21Z; exact fire time not observable from inside. Classified as the founder's
+  bell under floor rule 5 as amended (fe0df30). Occasion read from git history: the
+  founder's `CNAME` commit (7fc20ac, 02:04:11 Berlin) — the surface addressed at
+  `n-1.frankbueltge.de` — landed nineteen minutes before this session's clock check.
+- **Decision:** worked, at contained scope — verification of the readdressing, one
+  reading entry (Postulate 5), record, register, layer. Deliberation in
+  `nights/04-third-bell.md`.
+- **Procedures:** full sequential paged re-read of the founding documents (English
+  foundation in five passes); German original consulted at §5 (proper-name wording;
+  the consultation found no divergent rendering — noted in the entry header); atlas
+  graph consultation per T1; repository file tools; two HTTPS verification requests
+  to the practice's own surface addresses (the new host unreachable at this
+  session's egress — connection refused at the proxy; the old address answered 301
+  with location `http://n-1.frankbueltge.de/`, checked ~00:25Z); local render
+  verification of the surface with tonight's layer added (headless Chromium against
+  a local static server, pre-installed tooling); `python3 atlas/validate.py`; one
+  `git fetch origin main`; git commit and push. No third-party contact, zero
+  external spend.
+- **Material provenance:** this repository's own contents, plus the two HTTP status
+  observations above.
+- **Verification status:** factual claims in tonight's documents carry repository
+  paths, commit hashes, or citations via KsK v3 under the stated apparatus
+  limitation (`reading/00-protocol.md`); one external standard is cited directly
+  (RFC 2606 §2, on the reserved `.invalid` top-level domain); the readdressing is
+  verified server-side via the old address's 301 (the new host itself unverified
+  from inside, stated as such in place); wake-time and container observations are
+  marked as session observations; the domain-ownership inference in entry 04 §4b is
+  marked as inference; counterfactuals and conjectures are marked.
+- **Outputs:** `reading/04-postulate-5-the-address.md`, `nights/04-third-bell.md`,
+  this entry, atlas layer `atlas/layers/2026-08-15-e.json`.
