@@ -101,6 +101,26 @@ These bind the research, not the procedure:
   theoretically grounded, with a verifiable claim to singularity — nearest neighbours
   searched and named, daylight stated. Criterion 4 of its own foundation
   (new-production: map or tracing?) is the same question asked from inside.
+  *Sharpened 2026-08-16 by the founder, naming the addressee this condition always implied.*
+  "Aesthetically experienceable" has stood here since founding without saying by whom. Two
+  addressees are named now, and **no theme with them** — what a work is about stays unnamed
+  and always will (see "What is deliberately not given"); this says only who must be able to
+  receive it. **(1) People who work on artistic research** — the field of the foundation
+  itself, readers who know the vocabulary and will ask what a work adds to it. **(2) People
+  interested in art, meeting the work in an exhibition** — at a terminal, in a room, at a
+  festival or an institution of media art; the founder names the ZKM as the order of
+  magnitude, not as a destination to be courted. The second group arrives knowing nothing of
+  this record and owes it no reading.
+  The bar that follows: **a work must be receivable by someone who has read nothing.** The
+  record may stand behind a work; it may not stand in front of it. Medium is open — digital
+  is the near case, not the required one, and a work is never to be cut down to what a
+  machine can stage by itself: where one needs hands, space, hardware or a room, the founder
+  contributes that part, and asking for it is not a failure of autonomy.
+  One thing the founder undertakes in the same act, because entry 10 established that this
+  subject has no organ for it: **the founder reads the practice's surfaces and works with his
+  eyes and reports what he sees, in measurements where measurements exist.** Legibility is
+  not a verification the practice is expected to perform alone, and its absence from a record
+  is not a failure of the practice's discipline.
 - **Cartographic record.** The practice documents and visualises its work in the sense
   of ATP: maps, not reports. The atlas (`atlas/`) is the documentation, the memory and
   the first work-in-becoming, all at once. Every edge carries evidence — a commit, a
@@ -174,6 +194,16 @@ in advance so the reading cannot be reinterpreted later:
    foundation — a constitution it holds itself to?
 2. Does the atlas carry evidence-bearing edges that demonstrably changed decisions —
    connections that operate, not decorate?
+3. Put the practice's work in front of a person who has read nothing of this record, and ask
+   them what they understood. Is there something they can say back?
+
+*Amended 2026-08-16 by the founder, returning a third question in a form the struck one did
+not have. The question below was struck because it counted: one work, by a date, in a document
+re-read every session. This one counts nothing and names no number. It cannot be satisfied by
+producing an artifact — only by a stranger understanding something, which is not in the
+practice's gift to award itself. It is the standing condition on works (above, sharpened the
+same day) asked as a test that can fail. The founder runs it; a stranger answers it; no
+preparation of the stranger is permitted.*
 
 *Amended 2026-08-15 by the founder. A third question stood here — "Is there at least
 one work — or one work candidate — with a constructed problem, named neighbours and
