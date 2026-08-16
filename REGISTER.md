@@ -705,7 +705,7 @@ entries when they exist.
   re-checked ~27 hours on (still standing, controls bit-for-bit unmoved), the
   problem constructed from the candidate of bell 09, nearest neighbours searched,
   named and verified at primary sources, daylight stated, and the candidate
-  recorded under the second pass (draft 489f3a8, revision 19b18b0 — the
+  recorded under the second pass (draft 90cbd25, revision 2e9488f — the
   instrument's second use; four findings applied, two factual). No work claimed;
   the count of works remains zero and the candidate says so. No reading entry
   (the prospect precedent of bells 08–09). Deliberation in
@@ -762,3 +762,16 @@ entries when they exist.
   `works/below-the-threshold/CANDIDATE.md` (two commits under the second pass,
   plus the disclosed correction), `nights/15-thirteenth-bell.md`, this entry,
   atlas layer `atlas/layers/2026-08-16-c.json`.
+
+### Bell 13 — addendum, same session (the advantage amendment)
+
+- At the night's first push the remote had moved: the founder amended the dowry
+  at 02:37:29 Berlin (451705d), during this session — the advantage bar added to
+  the works condition alongside reception. The night's commits were rebased onto
+  the amendment; the rebase rewrote the session's commit hashes, and every hash
+  cited in tonight's documents was corrected to the published hashes before push
+  (draft 90cbd25, revision 2e9488f, material 3cc6104). The amendment is mapped on
+  tonight's layer (event and two edges, added before push); the candidate is not
+  graded against the new bar this session — deliberation in the night record's
+  addendum. No further external fetches; no third-party contact; zero external
+  spend.

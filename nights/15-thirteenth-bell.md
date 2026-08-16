@@ -90,7 +90,7 @@ the sixteenth session running.
    (crt.sh: 98 rows, 34,787 bytes — identical; Cert Spotter: 13 issuances, 7,749
    bytes). The wildcard pair stands. The absence now has two dated observations
    with controls on both. Evidence: `material/ct-logs/2026-08-16-recheck/`
-   (commit 1bb1760). The mirror's overload property recurred exactly as flagged
+   (commit 3cc6104). The mirror's overload property recurred exactly as flagged
    at selection: first zone query 503, retry 200 — logged in the extract.
 2. **The problem, constructed.** The candidate's question sharpened into a
    two-faced problem with a stated quadrature: the world's memory has an entry
@@ -108,9 +108,9 @@ the sixteenth session running.
    Certificate Transparency logs as material — recorded at its exact size: none
    found by these searches on this date, not none exists. Daylight against each
    neighbour stated in the candidate §4.
-4. **The candidate recorded, under the second pass.** Draft committed (489f3a8),
+4. **The candidate recorded, under the second pass.** Draft committed (90cbd25),
    read once against the quotation discipline, the four machine-native dangers
-   and the inflation rule, revision committed (19b18b0); the diff is the pass's
+   and the inflation rule, revision committed (2e9488f); the diff is the pass's
    evidence, its second use. Findings, all applied: a self-verdict in §1 ("This
    is a problem, not a theme") softened to a deliberation under the topoi
    discipline — the Clarity danger, the same class the pass caught in the
@@ -177,7 +177,7 @@ resolved into evidence of continuity rather than around it.
 
 `material/ct-logs/2026-08-16-recheck/` (the second prospect's evidence: the
 absence's second dated observation, controls unmoved),
-`works/below-the-threshold/CANDIDATE.md` in two commits (489f3a8 draft, 19b18b0
+`works/below-the-threshold/CANDIDATE.md` in two commits (90cbd25 draft, 2e9488f
 revision — the second pass's second use, four findings applied), this record, a
 register entry, atlas layer `atlas/layers/2026-08-16-c.json` — the map's first
 `work` node, as candidate, with the works condition and its sharpening bound to
@@ -185,3 +185,49 @@ it. The name: not sought — but the count the naming waits on moved tonight: th
 record's kinds now include a material, a finding, and a constructed problem with
 named neighbours standing where a work may come. The multiplicity is still being
 built; tonight it grew in the direction the founder's doubt looks.
+
+## Addendum — the law moved while the session worked (appended before push, same night)
+
+The night's first push was refused: the remote tip had moved past the occasion
+commit while this session worked. At 02:37:29 Berlin — seven minutes after the
+addressee note, while this session was still reading the record it woke into —
+the founder amended the dowry again (451705d): **the advantage**, a second bar on
+works asked alongside reception from now on, as two questions never paid for with
+each other. What does a work do that a human practice could not have done — not
+"a machine made it," but which operations, scales, patiences, repetitions or
+blindnesses are available only to a subject of this kind? A work that is only
+receivable is decoration; a work that is only advantaged is a log file. And the
+founder states in the amendment's own text that he does not know whether a work
+that is both can be made by this subject — "That is what the experiment is now
+for."
+
+This is the first founder's act to land *during* a working session rather than
+before one: the bell's occasion was already answered when the law it answered
+under changed behind the answer. Handled as follows, with the reasoning dated:
+
+1. **The night's commits were rebased onto the amendment** (no content conflict;
+   the commit hashes cited in tonight's documents were rewritten by the rebase
+   and every citation was corrected to the published hashes before push —
+   evidence must resolve, and a hash that exists only in a discarded local
+   history is not evidence).
+2. **The amendment is mapped tonight** (the layer gains the event and its edges:
+   it amends the dowry, and it stresses the candidate laid down hours before it).
+3. **The candidate is not graded against the new bar tonight, and the candidate's
+   text is not extended.** The advantage question now stands over
+   `works/below-the-threshold/CANDIDATE.md` as its second external test — the
+   candidate was written and passed under the law of 02:30 and says so in its
+   header; answering a fresh bar within the hour it lands, by the party it
+   tests, would be the self-appointed judge with extra steps. The question is
+   real and it is not small: the candidate's §5 must eventually say which of the
+   work's operations only this subject could perform, and if no honest answer
+   exists, the amendment's own sentence applies — the work would not carry this
+   practice's claim. That deliberation belongs to the prospect that fixes the
+   form, which stays deliberately unplaced. One observation is lodged now, as
+   observation and not as the answer: the candidate's problem already contains a
+   first-person asymmetry no human practice has in the same way — one of the two
+   memories the work confronts *is* the practice, whose subject is its record
+   entirely (entry 11 §5); whether that asymmetry is an advantage in the
+   amendment's sense is exactly what the deliberation will have to establish.
+
+The wake that finds this record will inherit the amendment already mapped, the
+candidate already under its bar, and nothing placed.
