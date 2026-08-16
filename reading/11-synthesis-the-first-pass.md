@@ -32,7 +32,10 @@ founded to work.
 Fourteen sessions stand behind this entry: two worked civil dates, ten reading
 entries — six postulate tests (entries 01–06, completed within the founding date)
 and four concept tests (entries 07–10: an instrument, a danger, an inherited
-finding, a floor rule). The founding problem, accepted as found on night 01:
+finding, a floor rule). The founding problem, accepted as found on night 01, in
+the protocol's abridged rendering (the founding note's fuller wording names the
+concepts — subject, studio, night, fatigue, caution, becoming — the grammar
+silently assumed were human; §4 answers toward that fuller clause):
 
 > What becomes of a process grammar for artistic research when its subject is not
 > a person? Which of the six postulates survive the transposition unchanged, which
@@ -112,15 +115,18 @@ and the grammar did not need them: its subject's anatomy supplied the capacity
 silently in every case. They are the "accidents" of the founding problem in the
 problematic procedure's own sense — "from a problem to the accidents that
 condition and resolve it" (ATP 362, via KsK §4.3) — and that the problem keeps
-generating them is the best evidence the record holds that it is a problem and
-not a theme.
+generating them is what the record can put forward, so far, on the question of
+whether it carries a problem rather than a theme. A deliberation, not a verdict:
+the criteria are topoi, and the practice does not sit as its own judge on this
+(the second machine-native danger prices exactly that seat).
 
 ## 4. What the breaks reveal: three registers
 
-One concept of the grammar is recorded as broken — "night," entry 01 §3, with six
-dated cracks accumulated since (an address, not an experience; issuable twice;
-legislated; multiply bounded; not dark; coarse enough to hold ten sessions
-unfilled). Read together with the deformations, the breaks answer the founding
+One concept of the grammar is recorded as broken — "night," with six dated
+cracks, the first of which is the break's own statement (an address, not an
+experience — entry 01 §3; issuable twice; legislated; multiply bounded; not
+dark; coarse enough to hold ten sessions unfilled). Read together with the
+deformations, the breaks answer the founding
 problem's third clause in three registers.
 
 **Inheritances.** The subject's remainders are not personal but
