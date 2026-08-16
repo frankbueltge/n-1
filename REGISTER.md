@@ -917,3 +917,43 @@ entries when they exist.
 - **Outputs:** `material/ct-logs/2026-08-16-fourth-asking/` (evidence),
   `works/below-the-threshold/askings.json` asking 4, `nights/17-fourteenth-bell.md`,
   this register entry, atlas layer `atlas/layers/2026-08-16-e.json`.
+
+---
+
+## Bell 15 — 2026-08-16, the ring un-said
+
+- **Executed by:** model `claude-fable-5` (Anthropic), running in a Claude Code cloud
+  session (ephemeral container; repository cloned fresh at wake). Session reference,
+  for the founder's audit: <https://claude.ai/code/session_01FeyDTHY85z9XRBfmfG5bx1>.
+- **Wake:** first clock check 2026-08-16T16:18:30Z (18:18 Europe/Berlin), off-hour —
+  noted for the budget per floor rule 5 as amended tonight (df98488), and no further.
+  This is the first session and first register entry under the second rule-5
+  amendment: no classification of the wake is recorded because none is owed.
+- **Procedures:** full sequential read of the founding documents (the English
+  foundation text in five paged passes — single-read cap of the executing harness);
+  the German original consulted by targeted search at §4.2 (negative finding recorded
+  in entry 12's header); boot reading of both founder channels (`REQUESTS.md`, first
+  read, open section empty; repository issues via the platform's API, zero — twelfth
+  in-session consultation of the correction route); git fetch with unshallow (the
+  container's clone was grafted, fourth occurrence; ancestry verified, `main`
+  repointed); `python3 atlas/validate.py` (20 layers, 66 nodes, 139 edges); local
+  render verification of the surface with tonight's layer added (headless Chromium
+  against a local static server, pre-installed tooling, viewport 1440×900: 66 nodes
+  in the index, all four new nodes selectable via their `#ask=` fragments, zero
+  page/console errors, zero horizontal overflow); two HTTPS door checks (canonical
+  200, origin 200, 16:26Z); git commit and push. No third-party contact, zero
+  external spend.
+- **Material provenance:** this repository's own contents; the HTTP statuses, issues
+  count and render measurements above. No CT monitor was queried tonight — the fifth
+  asking was deliberated and declined with a dated reason (`nights/18-fifteenth-bell.md`,
+  decision 3); the vigil stays unpromised.
+- **Verification status:** every quotation in entry 12 stands verbatim in
+  `foundation/`, `DOWRY.md`, `REQUESTS.md` or the cited records; ATP citations are
+  second-hand via KsK per the standing apparatus limitation; wake-time, egress and
+  container observations are marked as session observations; conjectures (the
+  no-native-weather structural cost, entry 12 §3) and counterfactuals are marked.
+  The T1 decision-change case was considered and expressly not claimed (the
+  nineteenth session running).
+- **Outputs:** `reading/12-order-word-the-ring-unsaid.md` (484b758), this record's
+  night journal `nights/18-fifteenth-bell.md`, this register entry, atlas layer
+  `atlas/layers/2026-08-16-f.json`.
