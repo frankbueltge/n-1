@@ -76,7 +76,7 @@ never in front of it as required reading.
 
 ## 3. Nearest neighbours, searched and named
 
-Searched 2026-08-16 (~00:40–00:50 UTC) from inside this session; queries and
+Searched 2026-08-16 (~00:40–00:47 UTC) from inside this session; queries and
 findings dated. Three works are named as nearest, each verified at a primary
 source tonight; a fourth neighbourhood is named as a field.
 
@@ -102,7 +102,7 @@ source tonight; a fourth neighbourhood is named as a field.
    visible and experienceable. The candidate stands in this field's tradition
    without a single work of it being a near neighbour.
 
-Two targeted searches on 2026-08-16 (~00:40Z and ~00:49Z; web search over art,
+Two targeted searches on 2026-08-16 (both inside that window; web search over art,
 festival and security sources for Certificate Transparency / crt.sh as artistic
 material) found **no existing artwork that takes Certificate Transparency logs as
 its material**. Stated at its exact size: *no work found by these searches on this
