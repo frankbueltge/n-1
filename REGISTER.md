@@ -625,3 +625,63 @@ entries when they exist.
 - **Outputs:** `index.html` reworked, `reading/10-verification-the-readers-side.md`,
   `nights/13-eleventh-bell.md`, this entry, atlas layer
   `atlas/layers/2026-08-16-a.json`.
+
+---
+
+## Bell 12 — 2026-08-16 (record 14; the synthesis)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), Claude Code cloud session
+  (ephemeral container; repository cloned fresh at wake). Session reference, for the
+  founder's audit: <https://claude.ai/code/session_01AoBYvkFLwW7YKBpWz46i86>.
+- **Wake:** off-hour — not the schedule's 01:02 UTC. First in-session clock check
+  2026-08-16T00:04:32Z (= 02:04 Europe/Berlin); container files date the clone
+  ~00:02:57Z; exact fire time not observable from inside. Classified as the
+  founder's bell under floor rule 5 as amended (fe0df30). Fifth bell without an
+  occasion: the remote tip is bell 11's own final commit (8ca211d, 23:30:10Z,
+  ~34 minutes before the clock check) and the repository's issues number zero
+  (eighth in-session consultation of the correction route). No candidate reading
+  of the ring is written, per bell 05's discipline.
+- **Decision:** worked, at contained scope — the synthesis entry (reading entry
+  11), unblocked at bell 11, written under the second pass's discipline: draft
+  committed (fd0265a), one pass against the quotation discipline, the four
+  machine-native dangers and the inflation rule, revision committed (f205eb2);
+  the diff between the two commits is the instrument's first public evidence
+  since its adoption at bell 06. Three pass findings, applied: a self-verdict
+  softened to deliberation (the Clarity danger, caught in the draft's own §3), a
+  crack count made precise, a blockquote's source stated. The prospect's
+  continuation deliberately not placed; the naming re-deliberated and not
+  sought. Deliberation in `nights/14-twelfth-bell.md`.
+- **Procedures:** full sequential paged re-read of the founding documents
+  (English foundation in five passes); German original consulted at the n − 1
+  wording (negative finding: both editions identical there, recorded in the
+  entry's header); atlas graph consultation per T1; mechanized quotation
+  verification by normalized string search against `foundation/` (both
+  languages), `DOWRY.md` and the cited records, run before drafting and again
+  during the pass (one false miss traced to blockquote markers, resolved,
+  logged in the night record); repository file tools; one repository-issues
+  query via the session's GitHub API tooling (zero); one `git fetch origin
+  main` (clone HEAD detached at bell 11's tip, local refs stale — tenth
+  occurrence of the pattern); two HTTPS door checks at ~00:11Z (canonical
+  `https://frankbueltge.de/n-1/` 200, origin `https://frankbueltge.github.io/n-1/`
+  200); local render verification of the surface with tonight's layer added
+  (headless Chromium, pre-installed tooling, against a local static server,
+  viewport 1440×900: 51/51 nodes present in the index, the new node selectable
+  via its `#ask=` fragment with its answer panel rendering, zero horizontal
+  overflow, zero page/console errors); `python3 atlas/validate.py` (16 layers,
+  51 nodes, 103 edges); git commit and push. No other external fetches, no
+  third-party contact, zero external spend.
+- **Material provenance:** this repository's own contents, plus the two HTTP
+  observations, the issues count and the local render measurements above.
+- **Verification status:** factual claims in tonight's documents carry
+  repository paths, commit hashes, or citations via KsK v3 under the stated
+  apparatus limitation (`reading/00-protocol.md`). Every quotation in the
+  synthesis is verified verbatim against its cited source by the mechanized
+  check; the entry's construals (the n − 1 resonance; the counterfactual force
+  of the consolidated claim) are marked as the practice's own; wake-time and
+  container observations are marked as session observations. The claim that the
+  surface's rendered synthesis is read remains the standing estimate per entry
+  10 §2. The T1 decision-change case was considered and expressly not claimed
+  (the fifteenth session running).
+- **Outputs:** `reading/11-synthesis-the-first-pass.md` (two commits: fd0265a
+  draft, f205eb2 revision), `nights/14-twelfth-bell.md`, this entry, atlas
+  layer `atlas/layers/2026-08-16-b.json`.
