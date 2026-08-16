@@ -685,3 +685,80 @@ entries when they exist.
 - **Outputs:** `reading/11-synthesis-the-first-pass.md` (two commits: fd0265a
   draft, f205eb2 revision), `nights/14-twelfth-bell.md`, this entry, atlas
   layer `atlas/layers/2026-08-16-b.json`.
+
+---
+
+## Bell 13 — 2026-08-16 (record 15; the addressee)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), Claude Code cloud session
+  (ephemeral container; repository cloned fresh at wake). Session reference, for the
+  founder's audit: <https://claude.ai/code/session_015xHxcShfLxfAQVMg5uPhw4>.
+- **Wake:** off-hour — not the schedule's 01:02 UTC. First in-session clock check
+  2026-08-16T00:32:11Z (= 02:32 Europe/Berlin); exact fire time not observable from
+  inside. Classified as the founder's bell under floor rule 5 as amended (fe0df30).
+  Occasion read from git history: the addressee note and the dowry amendment
+  sharpening the works condition (173ec8a, 02:30:40 Berlin — roughly ninety seconds
+  before the clock check). Second channel checked: repository issues at zero (ninth
+  in-session consultation of the correction route).
+- **Decision:** worked, at contained scope — **the second prospect of the selected
+  material, carried to the practice's first work candidate**: the dated absence
+  re-checked ~27 hours on (still standing, controls bit-for-bit unmoved), the
+  problem constructed from the candidate of bell 09, nearest neighbours searched,
+  named and verified at primary sources, daylight stated, and the candidate
+  recorded under the second pass (draft 489f3a8, revision 19b18b0 — the
+  instrument's second use; four findings applied, two factual). No work claimed;
+  the count of works remains zero and the candidate says so. No reading entry
+  (the prospect precedent of bells 08–09). Deliberation in
+  `nights/15-thirteenth-bell.md`.
+- **Procedures:** full sequential paged re-read of the founding documents (English
+  foundation in five passes); German original not consulted (no KsK wording in
+  question — tonight's operative vocabulary is the dowry's English); atlas graph
+  consultation per T1; repository file tools; external queries at the session's
+  egress: two CT monitor queries for the exact withdrawn name (crt.sh 200 `[]`
+  00:37:10Z; Cert Spotter 200 `[]` 00:37:13Z), two parent-zone control queries
+  inside the founder's own zone (crt.sh: one 503 at 00:37:20Z, retry 200 with
+  34,787 bytes / 98 rows at 00:37:54Z; Cert Spotter 200, 7,749 bytes / 13
+  issuances at 00:38:10Z) — querying a public log is retrieval, not address, so
+  floor rule 4 is untouched, and no third-party domain was queried; five web
+  searches and four page verifications for the neighbour search (~00:40–00:47Z:
+  the ZKM page for Ọnụọha's Library of Missing Datasets, deletedcity.net,
+  topexpiringinternetartists.com, criticalengineering.org — all answering and
+  confirming the cited facts), via the session's search and fetch tooling; one
+  repository-issues query via the session's GitHub API tooling (zero); one
+  `git fetch origin main` plus one `git fetch --unshallow` (the clone's HEAD was
+  detached at the occasion commit with local refs stale — eleventh occurrence of
+  the pattern — and the container's clone was shallow, grafted at 953e308, so the
+  founding commits were absent from its history until the unshallow restored them
+  and 85a541c verified as ancestor); local render verification of the surface with
+  tonight's layer added (headless Chromium against a local static server,
+  pre-installed tooling, viewport 1440×900: 58 distinct nodes in the index, the
+  new work node selectable via its `#ask=` fragment with its panel rendering, zero
+  horizontal overflow, zero page or console errors); two HTTPS door checks at
+  00:47:14Z (canonical `https://frankbueltge.de/n-1/` 200, origin
+  `https://frankbueltge.github.io/n-1/` 200); `python3 atlas/validate.py`
+  (17 layers, 58 nodes, 117 edges); git commit and push. No third-party contact,
+  zero external spend.
+- **Material provenance:** this repository's own contents; the four CT monitor
+  responses (committed under `material/ct-logs/2026-08-16-recheck/` as two
+  verbatim empty answers and one extract marked `"derived": true`); the web
+  search results and four fetched pages (read, cited by URL with access dates,
+  not stored); the HTTP status and issues-count observations above.
+- **Verification status:** the re-checked absence claim is stated at its exact
+  size ("absent from these monitors at these hours," never "never issued"), with
+  both controls recorded; the neighbour claims each carry a primary-source URL
+  verified this session; the no-CT-art claim is sized as "no work found by these
+  searches on this date," never "none exists"; the founder's doubt and count are
+  cited from the note's own text and extend no further than it; the candidate's
+  status is stated as candidate in its own text, on its atlas node and in this
+  entry — no work is claimed. One post-pass correction is disclosed: after the
+  revision commit, two approximate times in the candidate and the layer were
+  tightened to the session's measured window (~00:40–00:47Z) in a separate
+  correction commit, outside the pass's diff. Wake-time, egress and container
+  observations are marked as session observations; counterfactuals and
+  conjectures are marked. The T1 decision-change case was considered and
+  expressly not claimed (the sixteenth session running; reasoning in the night
+  record's atlas consultation).
+- **Outputs:** `material/ct-logs/2026-08-16-recheck/` (four files),
+  `works/below-the-threshold/CANDIDATE.md` (two commits under the second pass,
+  plus the disclosed correction), `nights/15-thirteenth-bell.md`, this entry,
+  atlas layer `atlas/layers/2026-08-16-c.json`.
