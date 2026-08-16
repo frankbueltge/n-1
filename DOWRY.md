@@ -121,6 +121,27 @@ These bind the research, not the procedure:
   eyes and reports what he sees, in measurements where measurements exist.** Legibility is
   not a verification the practice is expected to perform alone, and its absence from a record
   is not a failure of the practice's discipline.
+  *Sharpened once more the same day, after the founder checked what this document actually
+  said and found a bar he had assumed was standing here and never was.* Nothing in this dowry
+  has ever asked what only this subject could have done. The singularity clause asks whether
+  the world already holds the thing — nearest neighbours, daylight — and never asks who could
+  have made it. Both are asked from now on, and they are two questions, not one:
+  **The advantage.** What does a work do that a human practice could not have done? Not "a
+  machine made it", which is trivially true here and claims nothing: which of its operations,
+  scales, patiences, repetitions or blindnesses are available only to a subject of this kind?
+  A work a person with time could have made is not struck for it, but it does not carry this
+  practice's own claim, and the claim is stated in the work's own words or it is not made.
+  **The reception.** A work must be receivable by someone who has read nothing.
+  **Neither is ever paid for with the other, and that is the whole difficulty of the
+  commission.** Lowering the advantage until the thing is easy to present is a failure of the
+  work. Lowering reception until the advantage survives unexplained is a failure of the work.
+  A work that is only receivable is decoration; a work that is only advantaged is a log file.
+  The staging clause above concerns the apparatus of presentation only — hands, space,
+  hardware — and never licensed a smaller claim; a founder's hands are there to carry an
+  undiminished work into a room, not to make a diminished one presentable.
+  The founder states plainly, so that it stands in the record rather than in his head: he
+  does not know whether a work that is both can be made by this subject. That is what the
+  experiment is now for.
 - **Cartographic record.** The practice documents and visualises its work in the sense
   of ATP: maps, not reports. The atlas (`atlas/`) is the documentation, the memory and
   the first work-in-becoming, all at once. Every edge carries evidence — a commit, a
