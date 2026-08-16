@@ -50,10 +50,11 @@ first prospect (2026-08-15) and the recheck (2026-08-16, bell 13).
   15533905233 and 15533795174. In all of them the wildcard appears in the SAN
   list beside the bare zone name; no certificate names the wildcard as its
   common name.
-- The names the world's memory holds for this zone, in full:
+- The names the world's memory holds for this zone, in full — five identities:
   `frankbueltge.de`, `www.frankbueltge.de`, `stats.frankbueltge.de`,
-  `gpt.frankbueltge.de`, `*.frankbueltge.de`. It holds no fifth single-label
-  name — and it was never asked to.
+  `gpt.frankbueltge.de`, `*.frankbueltge.de`. The name this material follows,
+  `n-1.frankbueltge.de`, is not among them — and the memory was never asked to
+  hold it.
 
 ## Status of the absence claim
 
