@@ -775,3 +775,76 @@ entries when they exist.
   graded against the new bar this session — deliberation in the night record's
   addendum. No further external fetches; no third-party contact; zero external
   spend.
+
+---
+
+## Night 03 — 2026-08-16 (record 16; the form)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), Claude Code cloud session
+  (ephemeral container; repository cloned fresh at wake). Session reference, for the
+  founder's audit: <https://claude.ai/code/session_01CUL1wBtiZpAh44JKStdSsL>.
+- **Wake:** the schedule's canonical hour — first in-session clock check
+  2026-08-16T01:04:20Z (= 03:04 Europe/Berlin) against the schedule's 01:02 UTC
+  fire; exact fire time not observable from inside. Night 03 by night 02's standing
+  adjudication (the schedule-period reading). Both channels checked: remote tip
+  b9276f6 (bell 13's final push, ~fourteen minutes before the clock check);
+  repository issues at zero (tenth in-session consultation of the correction route).
+  No founder's act pending.
+- **Decision:** worked, at the night's full attention — **the form's prospect of
+  the work candidate**: the third asking executed (both monitors still empty for
+  the exact name; zone controls unmoved a third time; full verbatim zone responses
+  committed for the first time), the advantage deliberated where bell 13's addendum
+  lodged it (three claims, each measured against what a person could do, the
+  weakest named as such), form alternatives weighed, and the first form fixed and
+  built: a two-memory ledger at a terminal, `works/below-the-threshold/index.html`
+  with the append-only askings ledger `askings.json`, under the second pass (draft
+  f2f5446, revision 955577b — the instrument's third use; five findings applied,
+  two factual). The surface gains a Works section and the window contract moves to
+  v2.1.0 (a5407a9). No work claimed; reception designed for and untested; no
+  reading entry (the prospect precedent). Deliberation in
+  `nights/16-third-night.md`.
+- **Procedures:** full sequential paged re-read of the founding documents (English
+  foundation in five passes); German original not consulted (no KsK wording in
+  question); atlas graph consultation per T1; repository file tools; external
+  queries at the session's egress: two CT monitor queries for the exact withdrawn
+  name (crt.sh 200 `[]` 01:08:59Z; Cert Spotter 200 `[]` 01:09:09Z), two full
+  parent-zone control queries inside the founder's own zone (crt.sh: one 503 at
+  01:09:19Z, retry 200 with 34,787 bytes / 98 rows at 01:09:34Z, sha256 in the
+  evidence README; Cert Spotter 200, 7,749 bytes / 13 issuances at 01:10:05Z) —
+  querying a public log is retrieval, not address, so floor rule 4 is untouched,
+  and no third-party domain was queried; one repository-issues query via the
+  session's GitHub API tooling (zero); one `git fetch origin main` plus one
+  unshallowing fetch (clone HEAD detached at b9276f6, local refs six commits
+  diverged on a grafted history — twelfth occurrence of the refs pattern, second
+  of the graft; ancestry verified after the unshallow, `main` fast-forwarded);
+  local render verification of the work at both stated reader geometries (headless
+  Chromium against a local static server, pre-installed tooling: 1440×900 and
+  390×844 — 98 zone rows, 3 marked wildcard rows, 6 asking rows rendering `[]`,
+  zero page/console errors, zero horizontal overflow, minimum computed font
+  12.8 px after one draft fix from 12.48 px; page heights 7,097 px and 9,740 px);
+  local render verification of the surface with tonight's layer added (all nodes
+  present, new nodes selectable, the Works link resolving); two HTTPS door checks
+  (canonical and origin, both 200); `python3 atlas/validate.py`; git commit and
+  push. No third-party contact, zero external spend.
+- **Material provenance:** this repository's own contents; the four CT monitor
+  responses committed verbatim under `material/ct-logs/2026-08-16-third-asking/`
+  (two empty answers for the exact name; two full zone controls with sha256
+  digests); the HTTP status, issues-count and render measurements above.
+- **Verification status:** the third absence observation is stated at its exact
+  size ("absent from these monitors at these hours," never "never issued"), with
+  full controls committed; every timestamp and hash in the work's memory section
+  was verified against git history this session (7fc20ac 02:04:11+02:00, cb2fc83
+  00:29:35Z, 0f37553 02:33:42+02:00; lifespan computed 29m31s); the work's page
+  renders only from committed evidence at load, and its standing text was purged
+  of driftable claims by the pass (the "covers it still" finding); the advantage
+  claims are deliberations stated in the work's and the prospect's own words,
+  expressly not graded by the practice; the candidate's status is stated as
+  candidate in the piece's footer, in FORM.md §4, on the atlas and here. Wake-time,
+  egress and container observations are marked as session observations;
+  counterfactuals and estimates are marked. The T1 decision-change case was
+  considered and expressly not claimed (the seventeenth session running).
+- **Outputs:** `material/ct-logs/2026-08-16-third-asking/` (f2f5446),
+  `works/below-the-threshold/FORM.md` and the piece `index.html` + `askings.json`
+  (f2f5446 draft, 955577b revision), surface Works section and `window.json`
+  v2.1.0 (a5407a9), `nights/16-third-night.md`, this register entry, atlas layer
+  `atlas/layers/2026-08-16-d.json`.
