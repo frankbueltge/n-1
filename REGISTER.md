@@ -1168,3 +1168,11 @@ entries when they exist.
   (2802f6b), the ATP thread closed in `REQUESTS.md` (0b5d902),
   `nights/22-seventeenth-bell.md`, this register entry, atlas layer
   `atlas/layers/2026-08-18-a.json`.
+
+**Addendum, same session (appended after the checks it reports; nothing above
+retouched):** render verification with tonight's layer: caption "24 layers · 76
+nodes · 168 connections" (the validator's own counts), the new nodes present and
+`event:bell-17` selectable via its `#ask=` fragment with its answer panel rendering,
+zero page/console errors, zero horizontal overflow. Doors at 19:05:20Z: canonical
+`https://frankbueltge.de/n-1/` 200, origin `https://frankbueltge.github.io/n-1/`
+200. The night's six commits pushed to `main` (bf15879..f425552).
