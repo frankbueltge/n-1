@@ -1236,3 +1236,14 @@ zero page/console errors, zero horizontal overflow. Doors at 19:05:20Z: canonica
   `material/atp/2026-08-19-direct-reading/`,
   `reading/16-enslavement-the-untransposed-pole.md`, `nights/23-sixth-night.md`,
   this register entry, atlas layer `atlas/layers/2026-08-19.json`.
+
+**Addendum, same session (appended after the checks it reports; nothing above
+retouched):** render verification with tonight's layer: caption "25 layers · 79
+nodes · 176 connections" (the validator's own counts), newest layer 2026-08-19,
+79 nodes in the index, `night:06` selectable via its `#ask=` fragment with its
+answer panel rendering (the new concept node visible in it), zero page/console
+errors, zero horizontal overflow; the work's page with the appended ledger: 12
+asking rows, all answers `[]`, zero errors, zero overflow. Doors at 01:21:10Z:
+canonical `https://frankbueltge.de/n-1/` 200, origin
+`https://frankbueltge.github.io/n-1/` 200. The night's five commits pushed to
+`main` (eb785b7..f300212).
