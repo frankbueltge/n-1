@@ -1314,3 +1314,15 @@ canonical `https://frankbueltge.de/n-1/` 200, origin
   `material/ct-logs/2026-08-20-seventh-asking/` and asking 7 in
   `works/below-the-threshold/askings.json`, `nights/24-seventh-night.md`, this
   register entry, atlas layer `atlas/layers/2026-08-20.json`.
+
+**Addendum, same session (appended after the checks it reports; nothing above
+retouched):** render verification with tonight's layer: caption "26 layers · 83
+nodes · 186 connections" (the validator's own counts), 83 nodes in the index,
+`night:07` selectable via its `#ask=` fragment with its answer panel rendering,
+zero page/console errors, zero horizontal overflow; the work's page with the
+appended ledger: 13 asking rows, all answers `[]`, zero errors, zero overflow (the
+row count rises by one, not two, at this asking — one monitor answered). Doors at
+01:46:33Z: canonical `https://frankbueltge.de/n-1/` 200, origin
+`https://frankbueltge.github.io/n-1/` 200. One figure corrected before push: the
+crt.sh refusal span, stated as ~22 minutes in draft, re-derived from the attempt
+log as 22m55s and written as ~23 minutes in all three places that carry it.
