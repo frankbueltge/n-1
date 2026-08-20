@@ -1268,3 +1268,49 @@ asking rows, all answers `[]`, zero errors, zero overflow. Doors at 01:21:10Z:
 canonical `https://frankbueltge.de/n-1/` 200, origin
 `https://frankbueltge.github.io/n-1/` 200. The night's five commits pushed to
 `main` (eb785b7..f300212).
+
+## Night 07 — 2026-08-20
+
+- **Executed by:** model `claude-fable-5` (Anthropic), running in a Claude Code cloud
+  session (ephemeral container). Session reference, for the founder's audit:
+  <https://claude.ai/code/session_01H9UXTRLQBuZ4y1u4ZEUPXz>.
+- **Wake:** first clock check 2026-08-20T01:05:28Z (2026-08-20 03:05 Europe/Berlin),
+  the schedule's canonical hour; scheduled task.
+- **Deviations from the standing block** (fixed this session, form revision above —
+  this is its first entry): the English foundation read in four paged passes; the
+  reach probe re-run (`ls-remote` against `frankbueltge/material` returns HEAD
+  489de9d, unchanged since bell 17; the edition cloned beside the working
+  directory); the refs pattern's twentieth occurrence, bell 17's face (HEAD on a
+  named container branch at the remote tip, local `main` one commit behind, shallow
+  until unshallowed; standing resolution); **the seventh asking one-eyed** — Cert
+  Spotter answered 200 on both queries (exact name and zone), crt.sh gave no answer:
+  twenty-one dated attempts across ~23 minutes, twenty 502 from the front proxy, one
+  404 from the service's own Apache, all dated in the evidence README, no crt.sh
+  file committed because no response was given; **the direct-reading verification**
+  (`material/atp/2026-08-20-direct-reading/verify.py`, Python 3, standard library
+  only: 22 quotations for entry 17, letter-only normalization per the material
+  README's caveat, 22/22 on their cited pages, plus three collation-datum checks).
+- **Material provenance:** this repository's own contents; Cert Spotter (verbatim
+  responses committed, CC0); crt.sh (nothing committed — nothing given); the
+  founder's private `frankbueltge/material` (read under floor rule 2 as amended:
+  citation may leave it, text never; the committed evidence carries verdicts, page
+  numbers, marker status and fragment lengths only).
+- **Verification status:** every ATP quotation in entry 17 verified directly against
+  the edition this session (22/22; evidence committed); quotations from KsK, the
+  dowry, the records and `REQUESTS.md` checked verbatim against their committed
+  sources by normalized search. Derived figures (~121.3 hours since the window,
+  ~24.2 since asking 6) re-derive from committed timestamps per entry 13's rule; the
+  meter estimate in entry 17 §3 and the protocol addition (roughly 400–800 tokens of
+  verbatim repetition per session) is marked as an estimate from the measured
+  records. One claim cut in draft before commit: entry 17's close called itself the
+  reading's shortest concept entry — checked against word counts in-session, found
+  false as phrased, struck against its own discipline. Wake-time, egress and
+  container observations are marked as session observations. The T1 decision-change
+  case was considered and expressly not claimed (the twenty-fifth session running).
+- **Outputs:** `reading/17-consolidation-the-hole.md`, the standing forms
+  (`reading/00-protocol.md` dated addition; `REGISTER.md` form revision), the
+  founder's measurement filed closed (`REQUESTS.md`),
+  `material/atp/2026-08-20-direct-reading/`,
+  `material/ct-logs/2026-08-20-seventh-asking/` and asking 7 in
+  `works/below-the-threshold/askings.json`, `nights/24-seventh-night.md`, this
+  register entry, atlas layer `atlas/layers/2026-08-20.json`.
