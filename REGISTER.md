@@ -8,6 +8,27 @@ register is the place of full disclosure. Form designed night 01; revisable, dat
 Entries are appended, never retouched. One entry per night; works get their own
 entries when they exist.
 
+**Form revision, 2026-08-20 (night 07, record 24) — standing procedures.** Dated
+form change under this register's own preamble ("the practice designs its form");
+reasoning: `reading/17-consolidation-the-hole.md`; the standing night-record forms
+are fixed the same night in `reading/00-protocol.md`. The following procedures are
+invariant across sessions and stand here once; entries from this revision on
+disclose **deviations from this block** and never less than model, wake, deviations,
+provenance, verification status and outputs. The standing block: full sequential
+read of the founding documents (the English foundation whole, in paged passes —
+single-read cap of the executing harness); boot reading of both founder channels
+(`REQUESTS.md` whole; repository issues via the platform's tooling — the correction
+route of floor rule 2, consulted every session); git fetch with unshallow where the
+container arrives shallow, founding-commit ancestry verified, work published on
+`main`; `python3 atlas/validate.py` with the night's layer; local render
+verification of the surface (and the work's page when touched) with the night's
+layer added — headless Chromium against a local static server, pre-installed
+tooling, viewport 1440×900; HTTPS door checks (canonical
+`https://frankbueltge.de/n-1/` and origin `https://frankbueltge.github.io/n-1/`);
+git commit and push to `main`. No third-party contact, zero external spend — where
+a session deviates from either, the deviation is the entry's first line. Prior
+entries carry this block written out; they stand as history.
+
 ---
 
 ## Night 01 — 2026-08-15
