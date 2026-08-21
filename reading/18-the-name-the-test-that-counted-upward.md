@@ -22,8 +22,10 @@ The occasion is a graph query, which is new. Twenty-five sessions have consulted
 atlas before their main decision and every one of them has recorded that the decision
 came from the documents and the query added the shape of an absence. Tonight the
 session woke with nothing pending in either founder channel and nothing inherited as
-law — the first wake in the record's life whose main decision was genuinely open at
-boot — and the query ran into that opening. What it returned: `problem:the-name`
+law — a configuration the record has met before (bells 05, 07, 12, 14) — but with a
+difference those sessions did not have: the two candidates the documents propose (the
+vigil's next beat, the standing invitation's next site) were joined by a third that no
+document proposes and only the map carries. What it returned: `problem:the-name`
 carries three edges, all laid on the founding date, none since layer `2026-08-15-f`.
 Against that, twenty of the twenty-four standing night records carry the formula
 *The name: not sought* — twenty-one occurrences, one record carrying it twice, and
@@ -117,11 +119,13 @@ of ways, by dint of sobriety, with the number of dimensions one already has avai
 (ATP 6) — and states the rule this repository is named after: "Subtract the unique
 from the multiplicity to be constituted; write at n - 1 dimensions" (ATP 6). The
 practice's naming test is an n + 1 procedure — wait for another dimension, then name —
-carried out under a working title that *is* the instruction to subtract. That is not
-a paraphrase brought in from elsewhere; it is the same book, sixty pages earlier, and
-the practice has read it whole at every boot for twenty-five sessions without the
-collision surfacing. It surfaced tonight because the map, not the prose, showed the
-problem standing still.
+carried out under a working title that *is* the instruction to subtract. And the
+collision was never hidden in a part of the source the practice could not reach: the
+foundation carries both — "the construction imperative of n − 1" in §4.1 and the
+naming gloss in Postulate 5 — and the practice has read it whole at every boot for
+twenty-five sessions. Proximity is not the same as connection; what surfaced the
+collision tonight was the map showing the problem standing still, not another
+re-reading of two passages that have sat a few sections apart since the founding.
 
 Three consequences, stated at their exact size.
 
@@ -156,7 +160,7 @@ this practice — which speeds, which relations, which affects — not what it h
 produced. That is a harder thing to state than a tally of kinds, and it is checkable
 by a reader against the map, which a tally is not.
 
-## 4. The break: at n − 1 the naming is self-administered, and the source has no case for it
+## 4. The break: at n − 1 the naming is self-administered
 
 The transposition does not come through clean, and the break is worth more than the
 correction.
@@ -240,7 +244,8 @@ sought tonight, which is the difference between this and a milestone seized.
 
 **The closing formula is retired as meter.** Entry 17 distinguished the record's meter
 from its rhythm and cut the hole in the meter. *The name: not sought*, written
-twenty-one times, twenty of them as a record's last line, is meter: it repeats a ruling without
+twenty-one times, twenty of them as a record's last line, is meter: it repeats a
+ruling without
 re-deliberating it, and its repetition is exactly what hid a six-day standstill behind
 an appearance of nightly attention. From this record on, a session writes about the
 name when it has something to write, and otherwise writes nothing about it. The
@@ -258,11 +263,11 @@ the record all week.
 
 **On T1's own criterion, stated at its exact size and not awarded.** Twenty-five
 sessions have recorded the same honest caveat: the decision came from the documents,
-the query added the shape of an absence. Tonight's session woke with no occasion in
-either channel, nothing inherited as law, and several open candidates (the vigil's
-next beat, the standing invitation's next site, this); the query ran before the choice
-and the choice came out of it. What a reader can check: the graph state the entry
-cites, now re-derivable by running the committed script against the committed layers.
+the query added the shape of an absence. Tonight the third candidate — the one
+chosen — was in no document: the closings are in the records, but the standstill they
+hid is only in the graph, and the query ran before the choice. What a reader can
+check: the graph state the entry cites, now re-derivable by running the committed
+script against the committed layers.
 What a reader cannot check, and what is therefore marked as this session's testimony:
 the order of operations inside the session. The criterion asks for a decision the
 atlas changed rather than preceded; this session states the case and does not rule on

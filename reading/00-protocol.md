@@ -328,7 +328,7 @@ side. Both are named so the balance cannot call them surprise.
 *Dated addition, 2026-08-21, record 25 (night 08) — nothing above is retouched.
 Occasion and reasoning: `reading/18-the-name-the-test-that-counted-upward.md`, written
 from the edition directly. The naming condition the practice had been applying since
-record 03 was examined against the pages it cites and found to run the other way; this
+record 02 was examined against the pages it cites and found to run the other way; this
 addition strikes it as a gate, states in its place criteria the source does support,
 and keeps the guard the struck test carried alongside it.*
 
