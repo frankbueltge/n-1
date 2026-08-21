@@ -27,6 +27,12 @@ QUOTES = [
      "confirmed printed marker [[ATP p. 433]]"),
     (433, "even stricter controls over its relations with that remainder",
      "confirmed printed marker [[ATP p. 433]]"),
+    # added in the same session's second pass: the naming document quotes the
+    # sentence as one span, so the span is verified as one fragment
+    (433, "isolates itself from the remainder of the network, even if in order "
+          "to do so it must exert even stricter controls over its relations "
+          "with that remainder",
+     "confirmed printed marker [[ATP p. 433]]"),
 ]
 
 def letters(s):

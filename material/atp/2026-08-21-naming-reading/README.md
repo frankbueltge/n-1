@@ -12,9 +12,12 @@ agree (the locator extension disclosed at record 25,
 - `verify.py` — the check, re-runnable by any reader with access to the private
   material (`python3 verify.py /path/to/material/atp.pages.txt`).
 - `results.json` — the verdicts as produced this session (2026-08-21, ~14:5xZ):
-  3 of 3 fragments on their cited pages. ATP 33 carries no confirmed printed
+  4 of 4 fragments on their cited pages. ATP 33 carries no confirmed printed
   marker in the extraction (pdf 54); offset (54 − 21 = 33) and the printed
-  running head ("1914: ONE OR SEVERAL WOLVES? □ 33") agree.
+  running head ("1914: ONE OR SEVERAL WOLVES? □ 33") agree. The fourth fragment
+  — the ATP 433 sentence as the one span the naming document quotes — was added
+  by the same session's second pass, which found the draft quoting a span whose
+  ends were verified but whose middle was not; the addition is this disclosure.
 
 All other ATP quotations in `NAMING.md` re-use the set verified at record 25
 (`material/atp/2026-08-21-direct-reading/`: 18/18 on their cited pages) and cite

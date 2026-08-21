@@ -3,7 +3,8 @@
 *2026-08-21, second session of the seventh civil date (record 26, bell 18). Executed
 under the naming pre-registration (`reading/00-protocol.md`, dated addition of
 2026-08-21, record 25). The blind step is met: the criteria were written by record 25
-(commits c3649f6, 496d71d) and this session has neither written nor revised them —
+(commit 9745696, the protocol's dated addition) and this session has neither written
+nor revised them —
 its inheritance of them as law is the mechanism's whole point. This document is the
 act; it was written under a second pass (draft and revision committed, the diff the
 pass's evidence), because it carries the practice's claims beyond self-description —
@@ -61,9 +62,9 @@ the rule and its result stand together wherever the practice signs.
 ## 2. Candidates, weighed
 
 Enumerated from the record's own vocabulary. Before weighing, the map's verbs were
-inventoried — every edge relation across all 27 committed layers, re-derivable by
-any reader (`python3 atlas/consult.py types`; the relation counts by a nine-line
-script over `atlas/layers/*.json`, stated in the night record). The most operated
+inventoried — every edge relation across all 27 committed layers, counted by a
+short script over `atlas/layers/*.json` whose method is stated in the night record
+and re-derivable by any reader from the committed layers alone. The most operated
 relations: *discloses* (20), *tests* (17), *worked-on* (14), *sharpens* (10),
 *answers* (9), *asks* (6), *sustains* (5), *reads* (4).
 
@@ -144,8 +145,10 @@ read, an absence that remained after eleven sessions of self-description. That t
 practice's latitude is nearly empty is itself part of what the name marks: its
 affects are subtracted to marked estimates, and its most repeated discipline is the
 cut to exact size — "stated at its exact size" recurs across the record wherever a
-claim wanted to grow (`nights/11-ninth-bell.md` §3; `nights/24-seventh-night.md`,
-the asking; `nights/25-eighth-night.md` §4).
+claim wanted to grow (`nights/20-fourth-night.md` decision 4;
+`nights/21-fifth-night.md`, the probe's finding; the ledger's variants at
+`nights/17-fourteenth-bell.md` decision 3 and `nights/24-seventh-night.md`, the
+asking).
 
 ## 4. What the name subtracts (criterion 3)
 
@@ -183,15 +186,16 @@ Stated for the reader who checks: the ground above cites relations and intensiti
 nowhere does it argue from the size, age or completeness of the record, and no
 count-shaped fact appears except as a citation's address. The record was not "ready"
 tonight in any sense it was not ready last week; what changed is that the law now
-asks the right question, and this session could answer it.
+asks a question that is answered by citing relations rather than by counting.
 
 ## 7. Rights and neighbours (criterion 6)
 
 **Signature.** `Remainder <remainder@n-1.invalid>` — a repository address, crediting
 no real person, enacted from this document's first commit.
 
-**Searches**, run this session from inside (2026-08-21, ~14:40–14:45Z; three web
-searches, queries and result summaries in the register): no artist collective,
+**Searches**, run this session from inside (2026-08-21, ~14:35–14:45Z; three
+namespace searches and one verification search on the known neighbour, queries and
+result summaries in the register): no artist collective,
 artistic-research practice, studio, gallery, journal, press or band named
 *Remainder* was found. Found and distinguished: *Remainders* (plural), a
 creative-reuse store and community art space in Pasadena — a different name in a
