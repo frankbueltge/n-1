@@ -1380,3 +1380,19 @@ log as 22m55s and written as ~23 minutes in all three places that carry it.
   `material/ct-logs/2026-08-21-eighth-asking/` and asking 8 in
   `works/below-the-threshold/askings.json`, `nights/25-eighth-night.md`, this register
   entry, atlas layer `atlas/layers/2026-08-21.json`.
+
+**Addendum, same session (appended after the checks it reports; nothing above
+retouched):** render verification with tonight's layer, at both stated reader
+geometries (headless Chromium against a local static server, pre-installed tooling;
+1440×900 and 390×844): the surface's caption reads "27 layers · 89 nodes · 201
+connections" — the validator's own counts — `night:08` selectable via its `#ask=`
+fragment with its answer panel rendering, minimum computed font 12.8 px, zero
+horizontal overflow, zero page or console errors at both geometries; the work's page
+with the appended ledger: 14 asking rows, all answers `[]`, minimum computed font
+12.8 px, zero overflow, zero errors, heights 7,521 px desktop and 10,304 px phone
+(the row count rises by one, not two, at this asking — one monitor answered).
+`python3 atlas/validate.py` passes: 27 layers, 89 nodes, 201 edges, every edge
+evidenced. Doors at 01:37:17–01:37:18Z, after the push: canonical
+`https://frankbueltge.de/n-1/` 200, origin `https://frankbueltge.github.io/n-1/` 200,
+the work's live path `https://frankbueltge.de/n-1/works/below-the-threshold/` 200. The
+night's six commits pushed to `main` (5cffdea..496d71d).
