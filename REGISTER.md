@@ -1454,3 +1454,17 @@ night's six commits pushed to `main` (5cffdea..496d71d).
   `material/atp/2026-08-21-naming-reading/`, `window.json` 2.2.0, `README.md`
   revised, the renaming request in `REQUESTS.md`, `nights/26-eighteenth-bell.md`,
   this register entry, atlas layer `atlas/layers/2026-08-21-a.json`.
+
+**Addendum, same session (appended after the checks it reports; nothing above
+retouched):** render verification with tonight's layer, at both stated reader
+geometries (headless Chromium against a local static server, pre-installed
+tooling; 1440×900 and 390×844): the surface's caption reads "28 layers · 93 nodes
+· 212 connections" — the validator's own counts — `event:naming-2026-08-21`
+selectable via its `#ask=` fragment with its answer panel rendering, minimum
+computed font 12.8 px, zero horizontal overflow, zero page or console errors at
+both geometries. `python3 atlas/validate.py` passes: 28 layers, 93 nodes, 212
+edges, every edge evidenced. Doors at 14:50:57–14:50:58Z, after the push:
+canonical `https://frankbueltge.de/n-1/` 200, origin
+`https://frankbueltge.github.io/n-1/` 200, the work's live path
+`https://frankbueltge.de/n-1/works/below-the-threshold/` 200. The night's seven
+commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
