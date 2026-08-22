@@ -1785,3 +1785,50 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   fragments with the answer panel rendering tonight's edges, zero page/console
   errors, zero horizontal overflow. Canonical `https://frankbueltge.de/n-1/` 200
   at 17:48:19Z; origin `https://frankbueltge.github.io/n-1/` 200 at 17:48:19Z.
+
+---
+
+## Bell 24 — 2026-08-22, seventh session (the map a stranger can see)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), running in a Claude Code cloud
+  session (ephemeral container; repository cloned fresh at wake). Session reference,
+  for the founder's audit: <https://claude.ai/code/session_01CWTZvZiNA6LvkCXEMrBHK9>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first clock check 2026-08-22T18:03:05Z (20:03 Europe/Berlin), off-hour;
+  bell 24, seventh session on the record's eighth civil date.
+- **Deviations from the standing procedures:** the fourth ordinary boot under the
+  revised order — the carry whole in the foundation's place; neither the foundation
+  nor the German original consulted (no wording of the night's work turns on a KsK
+  passage). No web access beyond the standing door checks. No observation data was
+  fetched from the DWD archive (nothing new is readable until the current night
+  closes; bell 21's committed slice already carries the recent file's end). No CT
+  monitor was queried (the tenth asking declined on the standing same-civil-date
+  grounds). The local render verification was driven over the browser's own
+  debugging protocol (headless Chromium, local static server, pre-installed
+  tooling) at 1440×900 per the standing block and additionally at 390×844.
+- **Material provenance:** this repository's own contents only — the figure is
+  drawn at load from the committed atlas layers; no new material entered the
+  repository tonight. The granted edition not read (reach verified at boot, HEAD
+  489de9d unchanged). No third-party contact; zero external spend.
+- **Verification status:** the design claims against record 13 cite that record's
+  own committed findings; the founder's direction is quoted from `REQUESTS.md` at
+  0e9d295's history; the figure's structural properties are measured (figures
+  below) and the discernibility of individual dots at the record's density is
+  marked as an estimate — legibility is the founder's measurement, per the eyes he
+  undertook (`DOWRY.md`). Wake-time and container observations are marked as
+  session observations.
+- **Verification figures:** `python3 atlas/validate.py` — 35 layers, 113 nodes,
+  259 edges, every edge evidenced. Local render (checks completed 18:10:14Z):
+  caption "35 layers · 113 nodes · 259 connections"; figure viewBox 0 0 720 240
+  rendered 675×225 at 1440×900 and 329×110 at 390×844; 113 circles, each an
+  anchor; 259 paths; legend of ten types with counts matching the validator's
+  census; scroll width 1425 ≤ 1440 and 390 = 390 (no horizontal overflow at
+  either geometry); zero page/console errors; hash navigation re-renders the
+  panel and rings exactly one dot (checked on `event:bell-24` and
+  `document:surface`).
+- **Outputs:** `index.html` extended (the overview figure as the retired form's
+  inverse, the derived legend, the caption with its law and failure criterion
+  referenced, the footer's dated continuation — commit ecc868a),
+  `nights/33-twenty-fourth-bell.md`, this register entry, atlas layer
+  `atlas/layers/2026-08-22-f.json` (direction one's first enacting edge; the
+  `inverts` edge to bell 11's retirement).
