@@ -1579,3 +1579,5 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   clause's twelfth use, fourth entry from the edition directly),
   `nights/28-ninth-night.md`, this register entry, atlas layer
   `atlas/layers/2026-08-22-a.json`.
+- **Door checks, after the push:** canonical `https://frankbueltge.de/n-1/` 200 at
+  01:17:09Z; origin `https://frankbueltge.github.io/n-1/` 200 at 01:17:10Z.
