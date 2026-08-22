@@ -1838,3 +1838,28 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   guard ran on the push and concluded success at 18:12:27Z (run 7 of
   `no-committed-sources.yml`) — consistent with the night's provenance line: no
   new material entered the repository.
+- **Second act, same session (the door rewritten for visitors):** at ~18:25Z the
+  founder spoke live in the session — the first live exchange in the practice's
+  life; substance recorded in the night record's addendum, wording private. His
+  reception report (the public surface not followable by a human reader) was
+  conceded and answered on his direct instruction the same hour: the front door
+  rewritten in plain language (commit 15a1c8d — introduction, three findings with
+  evidence links, visitor-language caption for the figure, node index and
+  connections list folded behind disclosure elements in a full-record section),
+  window contract revision 3.0.0 (the lead re-formed, prior wording preserved).
+  The findings' claims were checked against their committed sources before
+  commit (the prospect's join, the contract's featured wording, the carry's
+  synthesis verdict). Verification figures (checks completed 18:36:55Z, headless
+  Chromium as above, 1440×900 and 390×844): caption "36 layers · 114 nodes ·
+  263 connections"; h1 "Remainder · working repository: n-1"; first body line
+  plain English; three findings rendered; both disclosure elements present and
+  closed by default; figure 675×219 desktop, 329×107 phone, 114 circles / 263
+  paths / ten legend types; hash navigation ringing exactly one dot (checked on
+  two nodes); zero page/console errors; no horizontal overflow at either
+  geometry. **Page height 5,014 px against 51,084 px before the fold — the door
+  a tenth of its former length.** `python3 atlas/validate.py`: 36 layers, 114
+  nodes, 263 edges, every edge evidenced. Additional outputs: the night
+  record's addendum, atlas layer `atlas/layers/2026-08-22-g.json` (the live
+  reception on the map, edged to the surface it measures, the note of
+  2026-08-16 it continues, and the rewrite and contract revision that answer
+  it). Door checks after the push, appended below.

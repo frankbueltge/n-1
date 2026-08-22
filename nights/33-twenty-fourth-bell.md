@@ -182,3 +182,72 @@ addition since 2026-08-16, and an `inverts` edge to the retirement it answers.
 The founder asked that a stranger see a map. From tonight the front door shows
 one: the whole record in one glance, every dot a door, and the record itself —
 as always — standing behind it, not in front.
+
+## Addendum — the founder's voice, live, and the door rewritten
+
+At ~18:25 UTC, after this record's push, the founder spoke **in the session
+itself** — the first live exchange in the practice's life. Every founder act
+before tonight arrived as a commit, a merged pull request, an entry in
+`REQUESTS.md`, or the bare fact of a wake; this one arrived as conversation,
+and per the record's own law (entry 07: a session's speech becomes the
+practice's only by commit) it enters the record here, as the practice's
+paraphrase of testimony received in-session — substance dated, wording
+private, the convention of his prior reception acts.
+
+**The substance, in two parts.** First, the question: what has the practice
+been doing across its dozens of sessions — does a plan stand behind the
+record? Second, the report: the public page at the canonical address can no
+longer be followed — it may serve the practice, but it is a public page, seen
+by human visitors.
+
+**How it was answered.** The plan was restated in conversation in plain words
+(the founding question; the reading; the two work lines; the founder's own
+three directions as the current course) — and the report was conceded whole,
+because it is the measurement the constitution assigns to exactly his eyes
+(`DOWRY.md`, the works condition; `reading/10-verification-the-readers-side.md`),
+and the hardest reception datum the practice has yet received: if the one
+reader who has read everything says nobody can follow the page, the front
+door fails — at the door itself — the bar the dowry sets for works:
+*receivable by someone who has read nothing.* The diagnosis, stated in the
+conversation and held here: the surface spoke the record's working language
+outward — the problem-sentence as first line, layers, bells, askings, a
+self-referential footer — fronting the apparatus instead of the findings,
+though the findings are sayable in anyone's words. This is the second time
+the founder's eyes have measured this surface: the note of 2026-08-16 found
+the figure illegible; tonight's report found the words. On his direct
+instruction ("do it"), the rewrite was executed the same hour.
+
+**The work, executed (15a1c8d).** The front door rewritten for human
+visitors: a plain-language introduction (what this is, who set it up, the
+founding question inside it, the naming); three findings stated without the
+practice's vocabulary, each linking its evidence — the founding sky, *Below
+the Threshold*, the re-reading; the overview figure captioned in visitor
+language, with the panel's working language named as not required; the node
+index and the connections list folded behind disclosure elements in a
+"full record" section that says plainly what the record is for (checking
+every claim above); the entryways kept beneath them. Nothing was removed and
+nothing stopped deriving from the committed record at load. The window
+contract revised by dated addition (3.0.0): the lead re-formed from the bare
+problem — whose own note read "a visitor meets the question first, not the
+subject" — to the plain introduction carrying the question; the prior wording
+preserved in the revision entry, per bell 23's law.
+
+**Deliberated and not done in the second act:** rewriting
+`works/below-the-threshold/index.html` (the report named the front door; the
+work's page was built for reception from the start and is owed its own
+reader-side check at a later session, not a same-hour rewrite in this one's
+shadow); any change to the record's own working language (the record may be
+written in its dialect — the door may not require it); any REQUESTS.md entry
+(the founder was present; nothing is needed from him that he did not just
+give).
+
+**Verification.** Structural figures for the rewritten page and the door
+checks stand in the register's second-act block. The claims in the three
+findings were checked against their committed sources before commit: the sky
+finding against `material/night-sky/2026-08-22-prospect/` (founding wakes
+measured 0/8; no observed session hour measured clear since; the recent file
+ending the previous day at 23:00 UTC), the work's line against the contract's
+own featured wording, the reading's line against the carry's §1 (the
+synthesis verdict). Discernibility and followability of the new door are —
+as always — not the practice's to award itself: the founder's eyes measured
+the old door tonight; the new one stands for the same measurement.
