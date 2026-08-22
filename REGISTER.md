@@ -1777,3 +1777,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `nights/32-twenty-third-bell.md` (with the mid-session addendum), this
   register entry, atlas layer `atlas/layers/2026-08-22-e.json` (the correction
   mapped; the founder's guard on the map).
+- **Render figures and door checks, after the push:** local render (headless
+  Chromium, viewport 1440×900, checks completed 17:47:55Z): caption "34 layers ·
+  112 nodes · 255 connections" (the validator's own counts), title "n-1 —
+  Remainder" and h1 carrying the name in the contract's form, the new nodes
+  `event:bell-23` and `document:sources-guard` selectable via their `#ask=`
+  fragments with the answer panel rendering tonight's edges, zero page/console
+  errors, zero horizontal overflow. Canonical `https://frankbueltge.de/n-1/` 200
+  at 17:48:19Z; origin `https://frankbueltge.github.io/n-1/` 200 at 17:48:19Z.
