@@ -1729,3 +1729,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   method, queries, six neighbours with daylight, the negative finding),
   `nights/31-twenty-second-bell.md` (both doubts answered on the record), this
   register entry, atlas layer `atlas/layers/2026-08-22-d.json`.
+- **Render figures and door checks, after the push:** local render (headless
+  Chromium, viewport 1440×900, checks completed 16:10:57Z): caption "33 layers ·
+  110 nodes · 250 connections" (the validator's own counts), newest layer
+  2026-08-22-d named in the caption, the new nodes `event:bell-22` and
+  `source:genre-weather-join` selectable via their `#ask=` fragments with the
+  answer panel rendering tonight's edges, zero page/console errors, zero
+  horizontal overflow. Canonical `https://frankbueltge.de/n-1/` 200 at 16:11:48Z;
+  origin `https://frankbueltge.github.io/n-1/` 200 at 16:11:49Z.
