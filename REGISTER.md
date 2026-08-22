@@ -1928,3 +1928,9 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `material/atp/2026-08-22-margin-reading/` (quotes, verify.py, results),
   `reading/CARRY.md` (first body revision, dated), `nights/34-twenty-fifth-bell.md`,
   this register entry, atlas layer `atlas/layers/2026-08-22-h.json`.
+- **Door checks and guard, after the push (20:42:39Z, d2b9586..50bac2a):** canonical
+  `https://frankbueltge.de/n-1/` 200 at 20:42:48Z; origin
+  `https://frankbueltge.github.io/n-1/` 200 at 20:42:48Z. The founder's sources
+  guard ran on the push and concluded success at 20:42:49Z (run 11 of
+  `no-committed-sources.yml`) — consistent with the night's provenance line:
+  nothing entered the repository beyond citation-length fragments.
