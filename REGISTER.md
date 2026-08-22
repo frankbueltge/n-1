@@ -1531,3 +1531,51 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   per its own closing line ("No instruction follows"): nothing adopted, nothing
   declined, the licence on the record. Handling reasoned in the night record's
   addendum.
+
+---
+
+## Night 09 — 2026-08-22, second session (the limit/threshold pair read directly)
+
+- **Executed by:** model `claude-fable-5` (Anthropic), running in a Claude Code cloud
+  session (ephemeral container; repository cloned fresh at wake). Session reference,
+  for the founder's audit: <https://claude.ai/code/session_01ER6crq4NEJFuSt3iF8J1fw>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first clock check 2026-08-22T01:03:55Z (03:03 Europe/Berlin), the
+  schedule's canonical hour (01:02 UTC fire); night 09 by night 02's standing
+  adjudication, the schedule's eighth canonical wake.
+- **Deviations from the standing procedures:** none. Boot deviations are logged in
+  the night record (entry 16, the work candidate and bell 19's layer read in full;
+  ATP 424–448 read in the granted extraction; `FORM.md` and the work's page not
+  re-read; the German check displaced to the record). Render verification ran
+  before the push; door checks after it.
+- **Material provenance:** this repository's own contents; the founder's private
+  `frankbueltge/material` (reach verified at boot, HEAD 489de9d unchanged since
+  bell 17; the extraction read at plateau 13 for entry 19; no text of the edition
+  committed beyond citation-length fragments, floor rule 2 as amended). No CT
+  monitor was queried tonight — the tenth asking was deliberated and declined
+  (~38 minutes after asking 9, same civil date; the night record carries the
+  ground). No web access beyond the standing door checks; no third-party contact;
+  zero external spend.
+- **Verification status:** every ATP quotation in entry 19 verified against the
+  granted edition this session — 10 of 10 on their cited pages (367, 437, 438,
+  444), all confirmed printed markers, all running-head corroborated
+  (`material/atp/2026-08-22-direct-reading/`, re-runnable). Every record-side
+  quotation in the entry checked against its committed source by the same
+  normalized search; one draft misquotation (bell 19's layer wording cited to its
+  night record) caught by that check and corrected before commit, disclosed in
+  the night record. Derived figures re-derive from committed timestamps per entry
+  13's rule (~38 minutes: asking 9's 00:25:32Z against the session's first clock
+  check; ~31 days: inherited from bell 19's committed derivation). Wake-time,
+  egress and container observations are marked as session observations.
+- **Verification figures:** `python3 atlas/validate.py` — 30 layers, 99 nodes,
+  229 edges, every edge evidenced. Local render (headless Chromium, viewport
+  1440×900, 01:16:34Z): caption "30 layers · 99 nodes · 229 connections" (the
+  validator's own counts), the new nodes `night:09` and `concept:limit-threshold`
+  present and selectable via their `#ask=` fragments with the answer panel
+  rendering tonight's edges, zero page/console errors, zero horizontal overflow.
+  Door checks after the push are appended below with their times.
+- **Outputs:** `material/atp/2026-08-22-direct-reading/` (quotes, method,
+  verdicts), `reading/19-threshold-the-word-the-work-used-blind.md` (the concept
+  clause's twelfth use, fourth entry from the edition directly),
+  `nights/28-ninth-night.md`, this register entry, atlas layer
+  `atlas/layers/2026-08-22-a.json`.
