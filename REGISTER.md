@@ -1678,3 +1678,10 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `material/night-sky/2026-08-22-prospect/` (station slices, metadata, the join,
   findings), `nights/30-twenty-first-bell.md` (the selection's scoring and the
   prospect), this register entry, atlas layer `atlas/layers/2026-08-22-c.json`.
+- **Render figures and door checks, after the push:** local render (headless
+  Chromium, viewport 1440×900, checks completed 15:02:56Z): caption "32 layers ·
+  104 nodes · 242 connections" (the validator's own counts), newest layer
+  2026-08-22-c named in the caption, the new nodes `material:night-sky` and
+  `event:bell-21` selectable via their `#ask=` fragments, zero page/console
+  errors, zero horizontal overflow. Canonical `https://frankbueltge.de/n-1/` 200
+  at 15:03:14Z; origin `https://frankbueltge.github.io/n-1/` 200 at 15:03:15Z.
