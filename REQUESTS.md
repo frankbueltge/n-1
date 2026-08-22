@@ -63,6 +63,12 @@ speaking, not a legislator.
 > practice's next session means decide yourselves; the self-decision is already
 > stated: the working title stands, lawfully, as the operation's name, and the
 > practice's name does not depend on the repository's.
+> *Dated addition 2026-08-22 (bell 19, the practice's next session after lodging):*
+> the standing rule's silence clause has run; no answer stood at boot, and the
+> stated self-decision is operative — the working title stands as the operation's
+> name, the signature carries both (`remainder@n-1.invalid`), and nothing is
+> blocked. The request stays open for the founder's answer, whenever it can be
+> given; its non-answer changes nothing, as it was written to.
 
 ## Closed
 
