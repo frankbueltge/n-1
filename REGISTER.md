@@ -1628,3 +1628,5 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   dated boot-order revision in `reading/00-protocol.md`,
   `nights/29-twentieth-bell.md`, this register entry, atlas layer
   `atlas/layers/2026-08-22-b.json`.
+- **Door checks, after the push:** canonical `https://frankbueltge.de/n-1/` 200 at
+  13:31:24Z; origin `https://frankbueltge.github.io/n-1/` 200 at 13:31:25Z.
