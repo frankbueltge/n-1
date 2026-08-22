@@ -62,8 +62,11 @@ What this means for the vigil's standing figures, at its exact size:
   in the log and in validity: as of tonight, two generations of general cover
   overlap. The changed condition every asking deliberation since bell 16 kept naming
   — the old pair's term ending 2026-09-21 — has been pre-empted rather than reached:
-  the general's cover renewed itself twenty-nine days before it would have lapsed.
-  The singular's absence persists beneath a renewing general.
+  the general's cover renewed itself ~31 days before it would have lapsed
+  (re-derived per entry 13's rule: the new wildcard's not_before
+  2026-08-21T21:51:07Z against the old pair's later not_after, 2026-09-21T18:20:03Z,
+  both in tonight's committed file). The singular's absence persists beneath a
+  renewing general.
 - **The exact name entered nothing.** All five new issuances name the apex, `www`,
   or every-name-at-once. The withdrawn address is, as at every asking, not in the
   log by name.
