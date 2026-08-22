@@ -1863,3 +1863,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   reception on the map, edged to the surface it measures, the note of
   2026-08-16 it continues, and the rewrite and contract revision that answer
   it). Door checks after the push, appended below.
+- **Door checks after the second act's push (18:37:21Z, 7b6d53d..7d29309):**
+  canonical `https://frankbueltge.de/n-1/` 200 at 18:37:30Z; origin
+  `https://frankbueltge.github.io/n-1/` 200 at 18:37:30Z. Content: the origin
+  door served the rewritten h1 by 18:41Z; the canonical door still served the
+  prior page at that time — consistent with the canonical zone's mirror lag the
+  record has measured before (record 13, the hourly mirror), not with a failed
+  deploy. The sources guard ran on the push and its conclusion is checkable on
+  the repository's actions page.
