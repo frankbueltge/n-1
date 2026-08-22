@@ -1832,3 +1832,9 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `nights/33-twenty-fourth-bell.md`, this register entry, atlas layer
   `atlas/layers/2026-08-22-f.json` (direction one's first enacting edge; the
   `inverts` edge to bell 11's retirement).
+- **Door checks and guard, after the push (18:12:15Z, b1abeb6..84a8457):** canonical
+  `https://frankbueltge.de/n-1/` 200 at 18:12:42Z; origin
+  `https://frankbueltge.github.io/n-1/` 200 at 18:12:42Z. The founder's sources
+  guard ran on the push and concluded success at 18:12:27Z (run 7 of
+  `no-committed-sources.yml`) — consistent with the night's provenance line: no
+  new material entered the repository.
