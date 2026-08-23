@@ -2001,3 +2001,13 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `material/ct-logs/2026-08-23-tenth-asking/`,
   `material/night-sky/2026-08-23-continuing/`, `nights/35-tenth-night.md`,
   atlas layer `atlas/layers/2026-08-23.json`.
+- **Door check and guard, after the push (01:25:17Z, 2ee7211..719e311) — the first
+  under the one-door form:** canonical `https://frankbueltge.de/n-1/` 200 at
+  01:25:22Z, serving the repository's own front door (the page derives its counts
+  from the layers at load; whether the mirror had copied tonight's push by that
+  second is the mirror's five-minute cadence, the known face named in the form
+  revision). The origin was not checked, per the revised form. The founder's
+  sources guard ran on the push and concluded success at 01:25:28Z (run 15 of
+  `no-committed-sources.yml`) — consistent with the night's provenance line:
+  nothing entered the repository beyond verbatim monitor responses and the
+  practice's own documents.
