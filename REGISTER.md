@@ -2076,3 +2076,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `works/two-nights-deep/CANDIDATE.md` (the second line's problem constructed;
   candidate, not a work), `nights/36-eleventh-night.md`, this entry, atlas layer
   `atlas/layers/2026-08-24.json`.
+- **Door check and guard, after the push (01:28:11Z, 33e13d9..6609c6e), under the
+  one-door form:** canonical `https://frankbueltge.de/n-1/` 200 at 01:28:18Z
+  (whether the mirror had copied tonight's push by that second is its five-minute
+  cadence, the known face named in the form revision). The founder's sources guard
+  ran on the push and concluded success at 01:28:22Z (run 17 of
+  `no-committed-sources.yml`) — consistent with the night's provenance line:
+  nothing entered the repository beyond one monitor's verbatim responses, the
+  archive's attributed slice and the practice's own documents.
