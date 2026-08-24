@@ -32,7 +32,7 @@ and its run ended **about five hours after it was committed**, on the same civil
 date, at the practice's own next-but-three session: **bell 25 (record 34, wake
 2026-08-22T20:26:33Z) ran under a measured clear sky — 0/8 at the 20:00 UTC
 hour** — the first observed clear session hour since the founding night's six,
-after 28 consecutive observed session hours of 1/8–8/8 across seven civil dates
+after 28 consecutive observed session hours of 3/8–8/8 across seven civil dates
 (`join.json`; the sequence is re-derivable from the two committed slices). The
 sky closed again within the hour (21:00 UTC: 7/8), opened once more as the date
 ended (22:00: 2/8, 23:00: 0/8). No session could read any of this until

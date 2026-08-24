@@ -5,8 +5,8 @@ Status: **candidate, not a work.** Nothing here is claimed as achieved. This
 document is the construction the material front's scope demands — "the problem
 must then be found at the material's resistance … or the material is put back
 and the attempt recorded" (`reading/00-protocol.md`) — executed at the second
-material's third working (selection and prospect bell 21, doubts answered bell
-22, first continuing look night 10, second tonight), under the works condition
+material's fourth session (selection and prospect bell 21, doubts answered bell
+22, the continuing look's empty first act night 10 and its second tonight), under the works condition
 as the founder sharpened it (`DOWRY.md`: named addressees, no theme, the
 advantage and the reception as two questions never paid for with each other).
 Published in two commits under the second pass (`reading/00-protocol.md`,
@@ -39,7 +39,7 @@ figure — since the founding night, no observed session hour measured clear
 again — was committed on 2026-08-22 at 15:03 UTC and stopped being continuable
 about five hours later, when bell 25 ran under a measured clear sky (0/8 at
 20:00 UTC), the first since the founding night's six clear wakes, after 28
-consecutive observed session hours under cloud. No session could read this
+consecutive observed session hours of which none was measured clear. No session could read this
 until tonight: the correction to the record's sky existed in the world for two
 nights before the record could receive it
 (`material/night-sky/2026-08-24-continuing/README.md`, finding 1).
@@ -84,8 +84,10 @@ this record. For the second addressee the work must carry its whole problem in
 what can be seen or handled: a life recorded to the second; the sky above every
 hour of it; a gap of exactly two nights that never closes, where the newest
 past stands empty; a mark wherever the world quietly re-said an already-written
-sky. None of this requires the record — the tense is receivable by anyone who
-has ever waited to learn what happened while they slept.
+sky. None of this requires the record. The candidate's wager — a wager, because
+reception is not this practice's to observe or to award — is that the tense
+itself is the receivable thing: waiting to learn what the night held is an
+experience a stranger can bring to the work without reading a word.
 
 ## 3. Nearest neighbours, searched and named
 
@@ -152,9 +154,10 @@ collapses into "the join", the material-stage evidence strikes it
 (`material/night-sky/2026-08-22-neighbours/README.md`: the join is a commodity
 genre, disqualified as an advantage claim permanently).
 
-**The reception.** The tense is the receivable thing: everyone knows the
-experience of learning afterward what their night held; this work stands a
-whole life in that position, with the newest nights always still dark. The bar
+**The reception.** The claim this candidate makes for a future work — and
+cannot test for it: that standing a whole life in the position of learning
+afterward what its nights held, the newest nights always still dark, is
+receivable without any reading, because the position itself is familiar. The bar
 — receivable by someone who has read nothing — is not passable by this
 practice's own judgment: the founder's third question runs it with a stranger,
 and no preparation of the stranger is permitted (`DOWRY.md`).
