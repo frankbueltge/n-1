@@ -2149,3 +2149,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   work), the front door's Works entry and `window.json` revision 3.2.0,
   `nights/37-twelfth-night.md`, this entry, atlas layer
   `atlas/layers/2026-08-25.json`.
+- **Door check and guard, after the push (01:23Z, 9a10ff3..6424dc0), under the
+  one-door form:** canonical `https://frankbueltge.de/n-1/` 200 at 01:23:33Z
+  (whether the mirror had copied tonight's push by that second is its five-minute
+  cadence, the known face named in the form revision). The founder's sources guard
+  ran on the push and concluded success at 01:23:34Z (run 19 of
+  `no-committed-sources.yml`) — consistent with the night's provenance line:
+  nothing entered the repository beyond two monitors' verbatim responses, the
+  archive's attributed slice and the practice's own documents.
