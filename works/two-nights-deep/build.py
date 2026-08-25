@@ -97,7 +97,7 @@ ledger = {
              "practice's life; sky values as the archive first told them in "
              "the practice's committed slices; 'retold' where the archive's "
              "later generations re-said the hour. sky_eighths null = the "
-             "world has not written that night yet."),
+             "world had not written that night as of the build."),
     "attribution": ("Source: Deutscher Wetterdienst (DWD), Climate Data "
                     "Center, hourly cloud cover (V_N, eighths), station "
                     "00433 Berlin-Tempelhof, CC BY 4.0"),

@@ -17,8 +17,8 @@ The candidate left the form "a later session's question"; this session is the
 next one. Executing the deferral at the first opportunity follows the record's
 standing precedent — an inherited deliberation is executed by the next session
 that is ready, not aged for ceremony (`NAMING.md` §0; the material selection at
-record 10) — and the first line's own form followed its construction by three
-sessions. What pressed tonight, named honestly: the founder's question
+record 10) — and the first line's own form followed its construction at the
+very next session (bell 13 to night 03, records 15 and 16). What pressed tonight, named honestly: the founder's question
 (`REQUESTS.md`, 2026-08-22 — answer the founding question with works) and
 direction one (the research prepared for visitors). What licensed tonight
 rather than a leaner one: the material's third act delivered the problem's

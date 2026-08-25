@@ -1,6 +1,6 @@
 {
  "work": "two-nights-deep",
- "note": "The work's ledger, derived from the committed record alone by build.py (FORM.md \u00a73). One entry per recorded wake of the practice's life; sky values as the archive first told them in the practice's committed slices; 'retold' where the archive's later generations re-said the hour. sky_eighths null = the world has not written that night yet.",
+ "note": "The work's ledger, derived from the committed record alone by build.py (FORM.md \u00a73). One entry per recorded wake of the practice's life; sky values as the archive first told them in the practice's committed slices; 'retold' where the archive's later generations re-said the hour. sky_eighths null = the world had not written that night as of the build.",
  "attribution": "Source: Deutscher Wetterdienst (DWD), Climate Data Center, hourly cloud cover (V_N, eighths), station 00433 Berlin-Tempelhof, CC BY 4.0",
  "sources": {
   "join": "material/night-sky/2026-08-25-continuing/join.json",
