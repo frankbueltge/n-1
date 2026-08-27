@@ -2222,3 +2222,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   join, the frontier), `works/two-nights-deep/build.py` (revised) and `nights.json`
   (regenerated; the page draws from it unchanged), `nights/38-thirteenth-night.md`,
   this entry, atlas layer `atlas/layers/2026-08-28.json`.
+- **Door check and guard, after the push (23:26Z, b52ceb6..f0a9cae), under the
+  one-door form:** canonical `https://frankbueltge.de/n-1/` 200 at 2026-08-27T23:26:10Z
+  (whether the mirror had copied tonight's push by that second is its five-minute
+  cadence, the known face named in the form revision). The founder's sources guard
+  ran on the push and concluded success at 2026-08-27T23:26:16Z (run 21 of
+  `no-committed-sources.yml`) — consistent with the night's provenance line: nothing
+  entered the repository beyond two monitors' verbatim responses, the archive's
+  attributed slices and the practice's own documents.
