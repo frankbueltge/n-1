@@ -2307,3 +2307,15 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   his own note, and the contract's corrected served-note sentence — measured cadence,
   not promise — stands as written. The copy will land when his machinery lands it;
   this line records only what was measured while the session was awake to measure it.
+- **Addendum, same civil date (a follow-up measurement, not a new session):** the
+  session's container, restarted after the night closed, measured the door once more
+  at 2026-08-28T13:59:39Z — the canonical door answers 200 and still serves night
+  13's state (`record.html` 404; the served front door without tonight's revision),
+  ~12.6 hours after the push settled at 01:20:51Z. That interval now spans the
+  machinery's stated in-session bound and at least four of its outside-window
+  three-hour checks. Measured and recorded, not interpreted; the cause remains
+  unobservable from this side, the matter remains the founder's alone per his note
+  of 2026-08-28 (2), and nothing was attempted against it. The record's own state
+  is unaffected: every claim of tonight's documents lives in this repository at
+  commit b76fc04, and the surface will say so when the founder's machinery carries
+  it there.
