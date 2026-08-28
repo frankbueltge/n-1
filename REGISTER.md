@@ -2290,3 +2290,20 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
 - **Outputs:** `index.html` (surface revision 4.0.0), `record.html` (new),
   `window.json` (revisions 3.3.0 and 4.0.0), `nights/39-fourteenth-night.md`, this
   entry, atlas layer `atlas/layers/2026-08-28-a.json`.
+- **Door check and guard, after the push (01:20Z, 3d9ca80..e88d038), under the
+  one-door form:** canonical `https://frankbueltge.de/n-1/` 200 at 2026-08-28T01:20:55Z.
+  The founder's sources guard ran on the push and concluded success at
+  2026-08-28T01:20:58Z (run 25 of `no-committed-sources.yml`) — consistent with the
+  night's provenance line: nothing entered the repository tonight but the practice's
+  own documents. **One observation of the corrected mirror machinery, measured and
+  not interpreted:** tonight's push settled at 01:20:51Z, inside the machinery's
+  stated working window; the served surface was then watched at ~30-second intervals
+  from 01:22Z, and as of 01:52:28Z — thirty-one minutes after the push, past the
+  stated in-session bound of "in no case later than twenty" — it still carried night
+  13's state (newest served layer `2026-08-28.json`; `record.html` 404). The first
+  in-session test of the machinery installed by the founder's act of 2026-08-28,
+  missed on its stated bound; the cause is not observable from this side (the site
+  repository is outside the practice's reach), the matter is the founder's alone per
+  his own note, and the contract's corrected served-note sentence — measured cadence,
+  not promise — stands as written. The copy will land when his machinery lands it;
+  this line records only what was measured while the session was awake to measure it.
