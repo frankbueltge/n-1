@@ -2859,3 +2859,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   (build.py by dated revision, nights.json, one page sentence re-said — draft
   `e9c238c`, revision `ccaaf00`); `nights/46-twenty-sixth-bell.md`, this entry,
   atlas layer `atlas/layers/2026-09-03-a.json`.
+- **Door check, after the push:** the canonical door
+  (<https://frankbueltge.de/n-1/>) answered HTTP 200 at 14:44:40Z; the sources
+  guard ran green on the night's head commit (run 41, `a7d6201`). No mirror watch
+  kept tonight: the push settled at ~14:44 UTC, outside the mirror's stated working
+  window (22:50–03:50 UTC), where its own corrected cadence is one check every
+  three hours — the surface may carry tonight's layer up to three hours after the
+  push, per the stated machinery (`DOWRY.md` gift 3 as corrected 2026-08-28;
+  `window.json`). Stated, not measured; the matter the founder's alone.
