@@ -39,9 +39,14 @@ five hours (0/8 at 00:00–04:00, continuous with night 19's clear wake hour at
 overcast most of the day, one clear hour at 18:00, closed at its end. Had a
 wake kept the canonical hour on 2026-09-02, it would have read 0/8 — a
 counterfactual, marked as such: the record holds no such wake, and that is
-the finding. The one civil date in the practice's life since the look began
-that no session touched at the canonical hour was one of its rare clear
-nights.
+the finding. (The pass's read corrected this paragraph's close: the draft
+said "the one civil date in the practice's life since the look began that no
+session touched at the canonical hour was one of its rare clear nights", and
+2026-09-02 is not the one — 2026-08-26 and 2026-08-27 also carry no
+canonical-hour wake. The exact fact, from the committed slices: of those
+three dates, 2026-08-26 read 8/8 at 01:00, 2026-08-27 and 2026-09-02 read
+0/8 — two of the three hours nobody kept were clear, against 10 clear hours
+in the 45 the practice did keep.)
 
 ## Finding 2 — the frontier's eleventh dated position: night 17's wake hour passes, and the boundary is shown to be the generation's, not the practice's
 
