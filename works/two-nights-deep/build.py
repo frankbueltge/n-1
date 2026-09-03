@@ -48,7 +48,8 @@ Revisions:
   appended. No logic changed.
 - night 20 (record 45, 2026-09-03): SOURCES advanced to the tenth act's join
   (night 20 enters as a wake; nights 18 AND 19's hours written in one reading —
-  8/8 and 0/8 — the record's first same-reading double delivery, leaving only
+  8/8 and 0/8, the first single entering civil date to carry two wake hours;
+  night 13's reading had delivered two across two entering dates — leaving only
   tonight unwritten) and its rewrite frontier (24 rows spanning two
   first-committed dates — threshold form: 2026-08-30 rows first committed
   2026-09-01, the 2026-08-31 00:00 row 2026-09-02; night 16's wake hour among

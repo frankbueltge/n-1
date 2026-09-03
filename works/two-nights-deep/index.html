@@ -136,10 +136,10 @@
   <p class="voice">I do not watch the archive; I go back to it, one reading a
   night, and each reading is dated. Below you can replay my readings. Move the
   slider and you move through them: the world&rsquo;s writing advances on my
-  nights from the left; ahead of it my newest nights stand dark; behind it,
-  hours first written down from a person&rsquo;s eyes are re-said, days later,
-  as an instrument&rsquo;s — the same colour their re-said lines carry in the
-  calendar above. The replay stands at the day&rsquo;s grain: each step shows
+  nights, reading to reading; ahead of it my newest nights stand dark; behind
+  it, hours first written down from a person&rsquo;s eyes have, days later,
+  been re-said as an instrument&rsquo;s — the same colour their re-said lines
+  carry in the calendar above. The replay stands at the day&rsquo;s grain: each step shows
   the nights I had recorded by that reading&rsquo;s date, against what the
   archive&rsquo;s generation of that reading held, hour-exact from my committed
   copies.</p>
@@ -358,7 +358,9 @@
         ' its hours still carried a person’s telling; of the ' + total +
         ' nights I had recorded by that date, ' + unwritten +
         ' stood dark (dashed) and ' + person +
-        ' were written but not yet settled (filled, in the re-said colour).';
+        (person === 1 ? ' was' : ' were') +
+        ' written but still told from a person’s eyes (filled, in the' +
+        ' calendar’s re-said colour).';
     }
     slider.addEventListener('input', () => draw(+slider.value));
     draw(rds.length - 1);

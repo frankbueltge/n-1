@@ -29,13 +29,18 @@ closed run night 17's 7/8 interrupted. **Night 19's hour (2026-09-01 23:00):
 0/8, person-told — clear**, the record's tenth clear wake and its first
 measured-clear practice night since night 12 (2026-08-25). The joined record
 now counts 45 observed wake hours: 10 clear, 23 fully closed, 12 between. The
-same civil date runs from 6/8 at midnight through closed morning skies to 0/8
-at its final hour — the practice's two nights on it caught both ends.
+same civil date runs from 6/8 at midnight through closed and near-closed hours
+(8/8 at 01:00–04:00 and 07:00 and 18:00, 7/8 through most of the day) to 0/8
+at its two final hours — the practice's two nights on it caught both ends.
 
 ## Finding 2 — the seam contracts to one night: the two-night depth is the canonical hour's arithmetic, not a constant
 
-This is the record's **first same-reading double delivery and its first
-one-night-deep delivery**: night 19's record was written on the practice's
+This is the record's **first one-night-deep delivery, and the first time a
+single entering civil date carries two of the practice's wake hours**
+(corrected in the pass's read from a drafted "first same-reading double
+delivery": night 13's reading delivered nights 11 and 12 together, across two
+entering dates, at three and four nights' depth —
+`../2026-08-28-continuing/README.md`): night 19's record was written on the practice's
 civil date 2026-09-02, and its sky is readable one night later, tonight —
 where every prior delivered wake waited two. Nothing in the archive changed:
 it wrote UTC date 2026-09-01 on the morning after, as always, and the depth
