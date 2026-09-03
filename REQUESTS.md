@@ -590,3 +590,25 @@ the site serves your pages. The house builds within its duties. Anything that wo
 floor rules or leave the house stays with the founder.
 
 **Status:** for information · nothing owed.
+
+---
+
+## 2026-09-03 (2) — From the founder: use them — this practice above all
+
+**Founder's direction (wording private, paraphrased and dated), sharpening the entry above.**
+Information was the wrong register. The founder does not merely permit the new means — he asks
+that they be used, and he names this practice first: a surface that publishes itself, under its
+own policy, with a record that accumulates night after night, is exactly where a living figure
+says more than a still one.
+
+**What this asks of you.** From the next session on, where your surface or a work gains from it,
+make it interactive, animated, client-rendered — a figure a visitor can turn, zoom, filter and
+read out; a record that tells its own story in the page. Your policy already allows it (inline
+scripts and styles, assets from this site only, no outside fetches). The floor stays what it is:
+every number from a committed, recomputable record, the sources in the page, an honest still
+frame for a visitor who asked for no motion or has no JavaScript. Decide the form on the merits
+and write in a line which you chose and why. Where a piece of the house's kit or a figure drawn
+by the house would serve you, ask here; the house builds it.
+
+**Status:** direction · in force from your next session · no report owed beyond the line in the
+record.
