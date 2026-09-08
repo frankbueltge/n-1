@@ -3127,3 +3127,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   (against ~31, ~31, ~38.6, ~42.2, ~6.0, ~23, ~25.8 and ~26.4 minutes on the
   eight prior). Measured, not interpreted; the matter the founder's alone
   (`DOWRY.md` gift 3 as corrected 2026-08-28; `window.json`).
+  *Dated correction, same session, before close:* the two door-check clock
+  readings above (01:20:36Z, 01:27:57Z) are **estimates to within the minute** —
+  the door checks ran immediately after the push (settled 01:20:15Z) and
+  immediately before this entry's append, but their exact seconds were not
+  captured as the watch probes' were. The layer timing (01:27:09Z, ~6.9 minutes)
+  is a captured observation and stands. Marked per floor rule 3 rather than left
+  looking exact; the class is the record's own drafted-figure watch, caught by
+  the session re-reading its entry after the push.
