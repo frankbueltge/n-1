@@ -1,0 +1,99 @@
+{
+  "layer": "2026-09-14",
+  "session": {
+    "executed_by": "Remainder, night 27 (record 53); model disclosed per floor rule 3 in REGISTER.md: claude-sonnet-5 — the first night not executed by claude-fable-5",
+    "summary": "Found and cut the atlas layer's unread session.note field (55 layers, ~10,800 tokens, read by no rendering code) to one sentence; sharpened the schema and protocol accordingly, added a per-visitor change-since-last-visit marker to the front door, and answered the founder's 2026-09-12 act — nights/53-twenty-seventh-night.md."
+  },
+  "nodes": [
+    {
+      "id": "night:27",
+      "type": "event",
+      "label": "night 27 — the layer's redundant field cut, a visitor's own memory added to the surface",
+      "created": "2026-09-14",
+      "refs": ["nights/53-twenty-seventh-night.md"],
+      "notes": "First night under this layer's own new rule: the account is written once, here and in the night record; this field states only a pointer."
+    },
+    {
+      "id": "document:founder-act-2026-09-12",
+      "type": "document",
+      "label": "founder's dated act, 2026-09-12 — the grant withdrawn, the ratio named, a surface that shows the work",
+      "created": "2026-09-12",
+      "refs": ["DOWRY.md", "REQUESTS.md"],
+      "notes": "Three acts in one commit (fc4ce30): frankbueltge/material withdrawn as a source of this practice; the apparatus-to-work ratio (~233,700 : ~19,900 words, no candidate a work in twenty-seven nights) named a standing condition, form left to the practice, dated and reasoned; a new standing condition that the surface show the work and show that it has changed. Landed after night 26's push; tonight is the first session to read and answer it."
+    },
+    {
+      "id": "concept:session-summary-cut",
+      "type": "concept",
+      "label": "the layer's session field, cut to one sentence",
+      "created": "2026-09-14",
+      "refs": ["atlas/SCHEMA.md", "reading/00-protocol.md"],
+      "notes": "session.note stood in all 55 committed layers, unread by index.html, record.html, validate.py or consult.py (checked this session by grep of all four), grown from 187 characters at founding (layer 2026-08-15-a) to 2,138 (layer 2026-09-12) — a fourth restatement, after the night record, the register entry and the same layer's own edge evidence, with no reader. Replaced from tonight by session.summary, one sentence, a pointer to the night record."
+    }
+  ],
+  "edges": [
+    {
+      "from": "night:27",
+      "relation": "worked-on",
+      "to": "concept:session-summary-cut",
+      "created": "2026-09-14",
+      "evidence": [
+        {"kind": "path", "ref": "reading/00-protocol.md", "note": "dated addition, 'The standing forms, extended: one account, not three' — the finding, the evidence (grep of the four consumers, the 187→2,138-character growth), the fix, the failure criterion and its own adversarial read"},
+        {"kind": "path", "ref": "atlas/SCHEMA.md", "note": "new 'Session' section documenting the field for the first time since night 01, and a dated revision entry with the same evidence"}
+      ]
+    },
+    {
+      "from": "concept:session-summary-cut",
+      "relation": "revises",
+      "to": "document:atlas-schema",
+      "created": "2026-09-14",
+      "evidence": [
+        {"kind": "path", "ref": "atlas/SCHEMA.md", "note": "session.note -> session.summary, one sentence, from layer 2026-09-14 on; every layer through 2026-09-12 keeps its note field exactly as written, untouched"}
+      ]
+    },
+    {
+      "from": "concept:session-summary-cut",
+      "relation": "revises",
+      "to": "document:protocol-founding-problem",
+      "created": "2026-09-14",
+      "evidence": [
+        {"kind": "path", "ref": "reading/00-protocol.md", "note": "extends night 07's standing-forms addition (record 24) with a second repetition site, named and cut; that addition's own text stands untouched above this one"}
+      ]
+    },
+    {
+      "from": "night:27",
+      "relation": "answers",
+      "to": "document:founder-act-2026-09-12",
+      "created": "2026-09-14",
+      "evidence": [
+        {"kind": "path", "ref": "REQUESTS.md", "note": "dated addition under the 2026-09-12 entry: item 1 needs no act and gets none; item 2, one duplication site found and cut, named as partial; item 3, the visit marker below, named as a first step; items 2 and 3 stated as standing conditions this entry does not close"}
+      ]
+    },
+    {
+      "from": "night:27",
+      "relation": "worked-on",
+      "to": "document:surface",
+      "created": "2026-09-14",
+      "evidence": [
+        {"kind": "path", "ref": "index.html", "note": "a #visit line under 'working on now': reads and writes this browser's own localStorage only (no committed state), and says in plain words whether the practice has changed since this visitor's last visit and by how many sessions, or that nothing has changed, or that this is a first visit — the founder's standing condition of 2026-09-12 that a visitor see change, answered as a first, bounded step"}
+      ]
+    },
+    {
+      "from": "document:founder-act-2026-09-12",
+      "relation": "recorded-in",
+      "to": "document:dowry",
+      "created": "2026-09-14",
+      "evidence": [
+        {"kind": "commit", "ref": "fc4ce30b76932af98127e866cdfdbd9a8d1062ec", "note": "\"Dowry, 2026-09-12: the grant withdrawn, the ratio named, a surface that shows the work\""}
+      ]
+    },
+    {
+      "from": "document:register",
+      "relation": "discloses",
+      "to": "night:27",
+      "created": "2026-09-14",
+      "evidence": [
+        {"kind": "path", "ref": "REGISTER.md", "note": "entry night 27 — model (the first not claude-fable-5), wake, deviations (the vigil and continuing look not run tonight, by decision), procedures, verification status, outputs"}
+      ]
+    }
+  ]
+}

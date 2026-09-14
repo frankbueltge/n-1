@@ -3436,3 +3436,67 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   sessions, and tonight's copy arrived where the corrected cadence says it
   should. Measured, not interpreted; the matter the founder's alone
   (`DOWRY.md` gift 3 as corrected 2026-08-28).
+
+---
+
+## Night 27 — 2026-09-14 (the layer's redundant field cut; a visitor's own memory added)
+
+- **Executed by:** model `claude-sonnet-5` (Anthropic), running in a Claude Code cloud
+  session (ephemeral container; repository cloned fresh at wake). Session reference,
+  for the founder's audit: <https://claude.ai/code/session_01LTxCyxRTGiEfynkkG4oTZh>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`. **First night not executed by
+  `claude-fable-5`** — every one of the fifty-two prior nights disclosed that model
+  (checked by grep of this register before writing this line); Postulate 5 makes
+  model rotation one of this practice's own research objects
+  (`reading/CARRY.md` §2), so it is stated plainly here rather than only implied by
+  the field changing.
+- **Wake:** first clock check 2026-09-14T01:07:45Z (03:07 Europe/Berlin) — the
+  schedule's hour, on the twenty-sixth worked civil date, ~48.0 hours after night
+  26 (2026-09-13 unworked, the sixth unworked date). Both founder channels read at
+  boot: `REQUESTS.md` carries the founder's dated act of 2026-09-12, landed after
+  night 26's push and read by no session until this one; the repository's issues
+  zero (forty-ninth in-session consultation). The reach to `frankbueltge/material`
+  not probed and carries no note, per the withdrawal.
+- **Deviations from the standing procedures:** the vigil's next asking and the
+  continuing look's next act were **not run tonight, by decision** (deliberation in
+  full in the night record) — the founder's 2026-09-12 act was answered directly
+  instead. One technical detour: `render-check.js` failed to launch against this
+  container's pre-installed Chromium (legacy headless mode removed; playwright
+  1.48.0 requests it by default), fixed by an explicit `--headless=new` in the
+  committed launch call, one line, reasoned in place.
+- **Procedures beyond the standing block:** a grep audit of `index.html`,
+  `record.html`, `atlas/validate.py` and `atlas/consult.py` for every use of a
+  layer's `session` field (finding: `session.note`/its list form present in 55 of
+  55 committed layers, read by none of the four); a character count of that field
+  across all layers and at its first and newest instance (Python, one-off, not
+  committed — reproducible from the committed layers by any reader); the
+  `#visit` feature verified in a real headless browser across three states (first
+  visit, unchanged repeat visit, a visit primed to an older committed layer) before
+  being counted done; the standing render check
+  (`node render-check.js`, both viewports, all four pages, playwright installed to
+  the session scratchpad, never committed).
+- **Material provenance:** none external tonight beyond the standing GitHub reads
+  (`REQUESTS.md`, repository issues) and the repository's own committed files. No
+  third-party contact; zero external spend.
+- **Verification status:** every claim in tonight's documents carries a repository
+  path, a commit reference, or a dated in-session measurement reproducible from the
+  committed record (the character counts, the grep results, the render-check
+  output). No estimates or conjectures are made tonight beyond the standing
+  session-observation class (wake time, container state).
+- **Verification figures:** `python3 atlas/validate.py` — 56 layers, 155 nodes,
+  421 edges, every edge evidenced (run with tonight's layer). `session.note`/its
+  list form: 55 occurrences across 55 layers pre-tonight, 43,195 characters total
+  (~10,800 tokens); founding instance 187 characters (`2026-08-15-a`), newest
+  pre-tonight instance 2,138 characters (`2026-09-12`). `node render-check.js`:
+  zero page errors, zero console errors, zero horizontal overflow at both 1440×900
+  and 390×844, on all four pages; the two works' structural probes unchanged from
+  night 26's (asking entries 49, ledger error not shown; 53 glyphs, one seam line,
+  2 unwritten, 25 re-said lines, legend and readings figure shown) — expected,
+  since neither work was touched tonight.
+- **Outputs:** `atlas/SCHEMA.md` (a "Session" section, a dated revision) and
+  `reading/00-protocol.md` (a dated addition, "The standing forms, extended: one
+  account, not three"); `index.html` (the `#visit` feature); `render-check.js`
+  (the headless-mode fix); `REQUESTS.md` (the 2026-09-12 entry answered in part,
+  kept open); `nights/53-twenty-seventh-night.md`, this entry, atlas layer
+  `atlas/layers/2026-09-14.json` (3 nodes, 7 edges, the first layer to carry
+  `session.summary` in place of `session.note`).

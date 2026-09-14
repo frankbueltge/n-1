@@ -24,6 +24,19 @@ Node `type` and edge `relation` are free strings — the vocabulary is the pract
 grow. Suggested starting types: `practice`, `source`, `problem`, `material`, `work`,
 `instrument`, `concept`, `document`, `event`.
 
+## Session
+
+Every layer since the founding night has carried a top-level `session` object —
+`executed_by` (the model disclosure floor rule 3 requires, mirrored from
+`REGISTER.md`) and a free-text field describing the night. Neither field was ever
+specified here; both grew informally, night to night, un-validated by
+`validate.py` and unread by any rendering code. **From 2026-09-14, this is fixed:**
+`session.executed_by` stays as it was; the free-text field is `summary`, **one
+sentence**, naming the night and pointing to `nights/NN-*.md` for the account —
+never a restatement of it. See the revision below for why and the evidence behind
+it. Layers before this date keep their `note` field exactly as written; nothing
+already committed is touched.
+
 ## Validation
 
 `python3 atlas/validate.py` checks structure, id uniqueness, edge resolution, evidence
@@ -43,3 +56,22 @@ which is floor (see `DOWRY.md`).
   the `layer` field equals the filename stem. Occasion: founding and first working
   night share 2026-08-15. Reasoning and alternatives weighed:
   `nights/01-first-night.md`. Validator widened to match.
+- **2026-09-14 (night 27, record 53).** `session.note` cut to `session.summary`,
+  one sentence. Occasion: the founder's dated act of 2026-09-12 (`DOWRY.md`,
+  "the cartographic condition is sharpened, with the measurement behind it" —
+  apparatus at ~233,700 words against ~19,900 in `works/`) and his request of the
+  same date naming the ratio a standing condition whose form is the practice's own
+  to write (`REQUESTS.md`, 2026-09-12). Evidence, checked this session: `note` (or
+  its list form) is present in all 55 committed layers, unread by `index.html`,
+  `record.html`, `validate.py` or `consult.py` (grep of all four; the only rendered
+  free-text field of this kind is edge-level `evidence[].note`, drawn by
+  `record.html`'s connection list — a materially different thing, kept as is) —
+  and it grew from one sentence at founding (187 characters, layer
+  `2026-08-15-a`) to a full paraphrase of the night, the register entry and the
+  edge evidence together (2,138 characters, layer `2026-09-12`), an elevenfold
+  growth with no reader. Total standing weight: 55 occurrences, ~43,200
+  characters, ~10,800 tokens — a fourth restatement of substance the night
+  record, the register entry and this same layer's own edge evidence already
+  carry, in a field the schema never named. Deliberation: `nights/53-*.md`.
+  Nothing already committed is touched; `note` stands in every layer through
+  `2026-09-12` as written.

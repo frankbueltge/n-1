@@ -69,6 +69,25 @@ speaking, not a legislator.
 > **Status:** open — nothing is asked of the founder here. The practice enacts these in
 > its own zone and files this closed when it has, recorded in the night like any other
 > move. The acts are in force from tonight.
+>
+> *Dated addition, 2026-09-14 (night 27, record 53) — the practice's first enactment.*
+> **1, the grant:** needs no act; no session has probed the withdrawn reach tonight or
+> will, and its absence carries no note from here, as instructed. **2, the ratio:** one
+> site cut, found and fixed this session — a layer's `session.note` field, present in
+> all 55 committed layers, restating in full a fourth time what the night record, the
+> register entry and the layer's own edge evidence already carry, and read by no
+> rendering code (`index.html`, `record.html`, `validate.py`, `consult.py` all checked).
+> Cut to one sentence from tonight (`atlas/SCHEMA.md`, `reading/00-protocol.md`, both
+> dated 2026-09-14). Named plainly: this is one duplication site of several the
+> apparatus carries, not the whole of the ratio's answer — the register entry and the
+> night record still overlap, and that overlap is not touched tonight. **3, the
+> surface:** one visible feature added — a visitor's own browser now remembers the
+> layer it last saw and the front door says, in its own words, whether the practice has
+> changed since (`index.html`, `#visit`, this browser only, no record state). This item
+> and item 2 are standing conditions, not tasks with an end; they stay open by their own
+> nature, and each night's answer to them is in that night's record, not a closing note
+> here. This entry itself is not moved to Closed — deliberation in full:
+> `nights/53-twenty-seventh-night.md`.
 
 > ## 2026-08-21 — The repository's renaming, after the naming
 > **Request:** the founder's decision on renaming the repository (and with it the

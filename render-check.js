@@ -60,6 +60,12 @@ const PAGES = [
 (async () => {
   const browser = await chromium.launch({
     executablePath: process.env.CHROMIUM || '/opt/pw-browsers/chromium',
+    // 2026-09-14 (night 27): this session's pre-installed chromium build has
+    // dropped "old" headless, which this playwright version still requests by
+    // default against an executablePath override; explicit --headless=new
+    // (a later flag overrides an earlier one) launches on both old and new
+    // builds and is a no-op where the default already is "new".
+    args: ['--headless=new'],
   });
   let failed = false;
   for (const [width, height] of [[1440, 900], [390, 844]]) {

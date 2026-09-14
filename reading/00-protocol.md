@@ -473,3 +473,72 @@ night is the work's), the untransposed remainder was already invisible under the
 wholesale re-read (entry 16 documents that), and entry 19 shows the remedy that
 exists — reading at the source where the material stresses — working. Both are
 named so the balance cannot call them surprise.
+
+## The standing forms, extended: one account, not three
+
+*Dated addition, 2026-09-14, record 53 (night 27) — nothing above is retouched.
+Occasion: the founder's dated act of 2026-09-12 (`DOWRY.md`, "the cartographic
+condition is sharpened, with the measurement behind it") and his request of the
+same date (`REQUESTS.md`) naming apparatus-to-work at roughly twelve to one and
+handing the practice the ratio as a standing condition, form left to the
+practice, "dated and reasoned... The founder names the ratio, not the format."
+This addition is the practice's first written answer. Deliberation:
+`nights/53-twenty-seventh-night.md`.*
+
+**The finding.** Night 07's addition above cut the boot section's repetition.
+It left a second, larger site untouched: a working night's substance — what a
+front did, what it found — is written out in full up to **four times**: the
+night record (T4's proper home for it), the register entry (floor rule 3's
+disclosure), the atlas layer's edge evidence (`evidence[].note`, read by
+`record.html`'s connection list — legitimately rendered, kept as is), and the
+same layer's top-level `session.note` (or its list form), which this session's
+grep of `index.html`, `record.html`, `validate.py` and `consult.py` finds
+**unread by all four** — present in every one of 55 committed layers, and grown
+from one sentence at founding (187 characters) to a full fourth paraphrase
+(2,138 characters, layer `2026-09-12`) with no reader for any of it. Full
+accounting and the schema-side fix: `atlas/SCHEMA.md`, revision 2026-09-14.
+
+**What changes.** From tonight, a layer's `session` field carries `executed_by`
+and one sentence, `summary` — naming the night and pointing to its record, never
+restating it. The night record stays the single place a front's account is
+written whole; the register entry adds only what T4 and floor rule 3 require and
+the night record does not already carry as prose (paths, hashes, counts, model
+disclosure); edge evidence notes stay as they are, because they are read. This
+does not touch `REGISTER.md`'s own form or the night record's own length —
+both remain what night 07's addition already weighed, and the audit question
+(entry 06 §2: did tonight's writing spend tomorrow's reading well?) still
+governs them. This addition closes one site, the one this session could verify
+was pure and reads nowhere; it is not offered as the whole of the ratio's
+answer.
+
+**What does not change tonight, named rather than left silent.** The register
+entry and the night record still overlap substantially — both are read by
+different audiences (T4's following-journal and floor rule 3's disclosure ledger
+have different owners) and collapsing them was not attempted tonight; a future
+session's resistance, if the overlap is shown to cost more than the two
+audiences are worth. Nor does this addition reduce a single word already
+committed — history is continued, never retouched (floor rule 2); the effect is
+on growth from here, exactly as night 07's addition was.
+
+*Failure criterion.* Struck if a `summary` written under this rule is later shown
+to omit information a reader needed and could get nowhere else on the layer or
+its cited night record — that is, if the cut removed a real reader's access
+rather than a duplicate; or if a future session shows `session.note`'s longer
+form was in fact read by some tool this session's grep missed. Struck on
+trigger, strike published; balance at the founder's reading regardless of
+outcome.
+
+*Adversarial read of this addition (same session, before first use).* Two
+weaknesses, named now. **First,** the cut is small against the measured ratio —
+roughly 10,800 tokens of standing text, against an apparatus the founder
+measured at hundreds of thousands, and against a *growth rate* the addition
+barely touches, since `session.note` was one field among several that grow
+every night. This is named rather than oversold: it is the site this session
+could prove was read by nothing, not the site that costs the most. **Second,**
+"one sentence" is not a bright line, and a future session under deadline
+pressure could let `summary` grow the way `note` did, unwatched, because
+nothing enforces the count except a reader's judgment — the same weakness
+night 07's addition named in its own deviations-only logging. Accepted rather
+than patched, for the same reason: the alternative is a script grading prose,
+which is the self-appointed judge again. Both are named so the balance cannot
+call either a surprise.
