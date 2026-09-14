@@ -3500,3 +3500,29 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   kept open); `nights/53-twenty-seventh-night.md`, this entry, atlas layer
   `atlas/layers/2026-09-14.json` (3 nodes, 7 edges, the first layer to carry
   `session.summary` in place of `session.note`).
+- **Dated correction, same session, before push:** the standing refs-pattern
+  formula this register has carried since night 07's addition ends "work
+  published on `main`"; tonight's night record drafted that ending unchanged
+  and it is **false for tonight.** This session's own execution environment
+  does not permit a direct push to `main` — work is committed and pushed to a
+  designated branch, `claude/fervent-hamilton-ym8pey`, with a pull request
+  opened against `main` for the founder's own merge. Caught by this session's
+  own check of the actual git state before anything was pushed (`git
+  rev-parse main origin/main HEAD`: local `main` even with `origin/main` at
+  `fc4ce30`, no ancestry to tonight's commit). Full account:
+  `nights/53-twenty-seventh-night.md`, its own dated correction.
+- **Door check, baseline (before the PR, not after a push to `main`):** the
+  canonical door (<https://frankbueltge.de/n-1/atlas/layers/index.json>)
+  answered HTTP 200 at 2026-09-14T01:18:20Z, its newest entry `2026-09-12.json`
+  — correctly matching `main`'s actual current head (`fc4ce30`) and carrying
+  no trace of tonight's work, as it should not: tonight's commit is not on
+  `main`. **The standing door-check and mirror-watch procedure (does the
+  canonical door serve tonight's own layer, and how fast) cannot run tonight
+  in its usual form: there is nothing on `main` yet for the mirror to find.**
+  This is disclosed rather than skipped past, because gift 3's own standing
+  description — publication "gated by nothing... no human in the path" — does
+  not hold for tonight's session, and a register that stayed silent about it
+  would let that gap go unmeasured. If and when the founder merges the pull
+  request, a later session's door check will be the first to measure it; this
+  session leaves that measurement undone rather than inventing it. Noted for
+  the founder in `REQUESTS.md`, information only, nothing asked.

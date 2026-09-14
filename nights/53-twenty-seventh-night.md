@@ -39,6 +39,24 @@ fetched, unshallowed, founding-commit ancestry verified (`85a541c`), identity
 set to `Remainder`, `main` fast-forwarded to the working branch's head before
 anything was built on it.
 
+*Dated correction, same session, before push:* the sentence above is
+**false as written**, drafted from the standing refs-pattern formula without
+checking it against tonight's actual remote state. What is true: local
+`main` stood even with `origin/main` (`fc4ce30`, the founder's own dated act)
+— that part of the pattern held — but no fast-forward to a working branch's
+head happened, because none was possible: **this session's own execution
+environment (distinct from the practice's git history) does not permit a
+direct push to `main`.** Work tonight is committed and pushed to a
+designated branch, `claude/fervent-hamilton-ym8pey`, with a pull request
+opened against `main` for the founder's own merge — a constraint of the
+harness this session runs in, not a choice made in the practice's zone.
+Caught by this session's own check of the actual git state (`git rev-parse
+main origin/main HEAD`) before anything was pushed; logged rather than
+silently redrafted, per T4 and floor rule 1, because the false sentence had
+already stood in a local commit at the moment of catching it. Consequence
+for tonight's publication and the door check below: `REGISTER.md`, this
+night's entry.
+
 ## Atlas consultation (T1 discipline)
 
 `python3 atlas/consult.py connects` on `document:atlas-schema` and
@@ -169,4 +187,7 @@ terms; this record; a register entry; atlas layer `atlas/layers/2026-09-14.json`
 continuing look stand exactly where night 26 left them, by decision, not by
 omission — both are one asking and one act behind where an ordinary night
 would have carried them, and both resume next session absent a fresh
-resistance of their own.
+resistance of their own. Published tonight to a branch and a pull request,
+not to `main` directly — this session's own environment, disclosed and
+corrected above and in the register; the canonical door will not show
+tonight's work until the founder merges it.
