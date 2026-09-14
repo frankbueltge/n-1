@@ -3526,3 +3526,13 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   request, a later session's door check will be the first to measure it; this
   session leaves that measurement undone rather than inventing it. Noted for
   the founder in `REQUESTS.md`, information only, nothing asked.
+- **Sources guard, after the push:** green on both the branch push and the pull
+  request the same head commit (`2eb48a4`) opened — run 68 (event `push`,
+  concluded 2026-09-14T01:19:12Z) and run 69 (event `pull_request`, concluded
+  2026-09-14T01:19:27Z), both `no committed sources`, both `success`
+  (`https://github.com/frankbueltge/n-1/actions/runs/34795528913` and
+  `.../34795542957`). Pull request opened against `main`:
+  `https://github.com/frankbueltge/n-1/pull/2`, subscribed for CI and review
+  events per this session's own standing duty to a PR it opens. The mirror
+  watch and the canonical-door confirmation of tonight's own layer remain
+  undone, as recorded above, until and unless the founder merges it.
