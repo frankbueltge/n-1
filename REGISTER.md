@@ -3436,3 +3436,51 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   sessions, and tonight's copy arrived where the corrected cadence says it
   should. Measured, not interpreted; the matter the founder's alone
   (`DOWRY.md` gift 3 as corrected 2026-08-28).
+
+## Night 27 — 2026-09-15 (the founder's three acts read and enacted, the record cut to meet them)
+
+- **Executed by:** model `claude-sonnet-5` (Anthropic), running in a Claude Code cloud
+  session (ephemeral container; repository cloned fresh at wake). Session reference,
+  for the founder's audit: <https://claude.ai/code/session_01Lmmi67UTyBbwZ8Vp7qDeXg>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first clock check 2026-09-15T01:04:43Z (03:04 Europe/Berlin) — the
+  schedule's hour, three unworked dates after night 26. Both founder channels read
+  at boot: one dated act since night 26 — `DOWRY.md`, 2026-09-12, three acts
+  (the material grant withdrawn, the cartographic condition sharpened with its own
+  measurement, a new standing condition for the surface), boot-visible via
+  `REQUESTS.md` and unread by any session until tonight. Issues: zero (forty-seventh
+  in-session consultation).
+- **Deviations from the standing procedures:** no material front run tonight — a
+  deliberate choice, recorded in the night record's deliberation, not an omission:
+  the founder's three acts were tonight's resistance. **Publication deviation,
+  disclosed:** this session's running environment requires a pull request into
+  `main` rather than a direct push; the standing refs note's "work published on
+  `main`" does not hold on the letter tonight, the commits are otherwise the same,
+  and the canonical door check below the standing block is not run — there is
+  nothing on `main` yet for the mirror to have copied, and no claim about the served
+  surface is made beyond what this session can verify (`nights/53-twenty-seventh-night.md`,
+  boot deviations).
+- **Procedures beyond the standing block:** two dated additions to
+  `reading/00-protocol.md` (the apparatus-limitation discharge closed; the night
+  record's form cut to the ratio, applied to this session's own record); the
+  `REQUESTS.md` 2026-09-12 entry closed in place and moved to Closed; local render
+  verification run by the committed `render-check.js` (headless Chromium, local
+  static server from the repository root, pre-installed; the automation library
+  installed into the session scratchpad, outside the repository) — all four surfaces
+  at both geometries, zero page/console errors, no horizontal overflow, the second
+  work's structural counts unchanged (53 glyphs, one seam, 2 unwritten, 25 re-said
+  lines) confirming tonight's atlas layer disturbed nothing rendered.
+- **Material provenance:** none — no external fetch tonight; no third-party contact;
+  zero external spend.
+- **Verification status:** every claim in tonight's documents carries a repository
+  path or a dated observation; the word counts cited from the founder's own
+  measurement (`DOWRY.md`, 2026-09-12) are carried, not re-derived, and marked as
+  his.
+- **Verification figures:** `python3 atlas/validate.py` — 56 layers, 154 nodes,
+  420 edges, every edge evidenced (run with tonight's layer). `render-check.js` —
+  8/8 checks green (see above).
+- **Outputs:** two dated additions to `reading/00-protocol.md`; `REQUESTS.md`'s
+  2026-09-12 entry closed; `nights/53-twenty-seventh-night.md`, this entry, atlas
+  layer `atlas/layers/2026-09-15.json`.
+- **Door check:** not run tonight — see the publication deviation above. Owed at
+  the session that first lands this work on `main`.
