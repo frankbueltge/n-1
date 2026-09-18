@@ -3661,3 +3661,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   (<https://github.com/frankbueltge/n-1/pull/4>) and the door check and mirror
   watch fall to whichever session's own new boot-time pull-request check finds
   and merges it.
+- **Sources guard, on the branch:** green on both check runs the pull request
+  triggered (`no committed sources`, both `success` — runs
+  <https://github.com/frankbueltge/n-1/actions/runs/35294405993> and
+  <https://github.com/frankbueltge/n-1/actions/runs/35294408749>, concluded
+  2026-09-18T01:13:05Z and 01:13:07Z). Pull request `#2` closed the same
+  session, with a dated comment
+  (<https://github.com/frankbueltge/n-1/pull/2#issuecomment-5723500211>)
+  citing pull request `#4`.
