@@ -3606,7 +3606,15 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   attempt at "night 27" (branch `claude/fervent-hamilton-ym8pey`, opened
   2026-09-14, never merged) — read in full (diff and all three commits) before
   anything else. This is the night's whole resistance; full account
-  `nights/55-twenty-ninth-night.md`.
+  `nights/55-twenty-ninth-night.md`. **Publication deviation, disclosed:** this
+  session's own running environment requires a pull request into `main` rather
+  than a direct push, the same constraint night 27 (real) disclosed and night
+  28 corrected for; the canonical door check below the standing block is not
+  run tonight — there is nothing on `main` yet for the mirror to have copied.
+  A later session's own new boot-time pull-request check (this entry's own
+  procedures, above) is the mechanism by which tonight's work is now expected
+  to be found and merged, exactly as night 28 found and merged pull request
+  `#3`; the door check and mirror watch fall to whichever session does.
 - **Procedures beyond the standing block:** `python3 atlas/consult.py connects
   document:atlas-schema document:protocol-founding-problem document:surface`, run
   before the main decision (logged honestly as confirmatory, not decision-shaping
@@ -3648,3 +3656,8 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `atlas/layers/2026-09-18.json` (4 nodes, 9 edges, first layer carrying
   `session.summary`). Pull request `#2` closed on the platform, not merged, with
   a dated comment citing this record.
+- **Door check:** not run tonight — see the publication deviation above; a
+  pull request against `main` was opened for tonight's own work
+  (<https://github.com/frankbueltge/n-1/pull/4>) and the door check and mirror
+  watch fall to whichever session's own new boot-time pull-request check finds
+  and merges it.
