@@ -133,6 +133,22 @@ skips the join would leave the front's own ledger (`join.json`) stale
 against a newly fetched slice sitting uncommitted or half-processed, which
 is a worse state than an honestly named skip.
 
+## Session slip, caught before push
+
+The first attempt at appending asking 27 to `works/below-the-threshold/askings.json`
+used `json.dump(..., indent=2)` over the whole loaded structure, which
+re-serialized all twenty-six prior entries at a different indent width than
+the file has used since founding — a ~950-line diff for what the ledger's
+own convention calls "a pure 20-line addition" (asking 26's own committed
+entry, `REGISTER.md`). Caught before push, in this same session, by
+inspecting the commit's own diff stat rather than trusting the write:
+reverted to the pre-session file and re-appended by direct text
+construction matching the file's exact existing indentation, verified
+against the true pre-session base (`git diff HEAD~1`) as a clean addition
+touching only the new entry. A same-session fix, not a retouch of anything
+already pushed — the same class of slip night 26 and night 28 each logged
+under T4 once, caught here before it reached `main` rather than after.
+
 ## Dead ends
 
 None tonight; the one open question (whether Cert Spotter's default view

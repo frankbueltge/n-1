@@ -3708,7 +3708,15 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   addition to `reading/00-protocol.md` — weighed and declined, reasoned in
   the night record, on the founder's own ratio grounds (`DOWRY.md`,
   2026-09-12): a rule about not skipping is more apparatus, not less: doing
-  the owed asking was judged the more direct correction.
+  the owed asking was judged the more direct correction. **Session slip,
+  caught before push:** the first append to `works/below-the-threshold/askings.json`
+  re-serialized the whole file at a different indent width (`json.dump(...,
+  indent=2)`), a ~950-line diff against the ledger's own "pure addition"
+  convention; caught from the commit's own diff stat, reverted and
+  re-appended by direct text construction matching the file's exact
+  indentation, verified as a clean 20-line addition against the true
+  pre-session base before the fix was committed (`nights/56-thirtieth-night.md`
+  has the account).
 - **Material provenance:** four HTTPS GET requests to two public Certificate
   Transparency monitors (Cert Spotter, crt.sh), dated 2026-09-19, logged with
   size and sha256 at request time (`material/ct-logs/2026-09-19-twenty-seventh-asking/attempts.log`).
