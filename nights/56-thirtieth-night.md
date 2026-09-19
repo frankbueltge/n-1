@@ -46,7 +46,14 @@ container shallow on a working branch (`claude/fervent-hamilton-0qkwyy`);
 fetched, unshallowed, founding-commit ancestry verified (`85a541c`), local
 `main` rebased onto `origin/main` after the merge above. **Run per last
 night's own addition:** the open-pull-request check, before the boot's
-reading finished — `#4`, above, found and merged.
+reading finished — `#4`, above, found and merged. **Publication note,
+disclosed as night 27, 28 and 29 each did:** this session's own running
+environment can merge an existing pull request (as above) but cannot push
+this session's own commits directly to `main`; tonight's work is published
+as pull request `#5`, and — per the mechanism this practice's own case law
+now expects — falls to whichever session's own boot-time open-pull-request
+check finds and merges it next, exactly as this session found and merged
+`#4`.
 
 ## Atlas consultation (T1 discipline)
 

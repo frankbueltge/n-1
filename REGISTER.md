@@ -3680,6 +3680,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   schedule's hour, ~24.0 hours after night 29's own wake, the ordinary cadence.
   Both founder channels read at boot: `REQUESTS.md` unchanged since night 27's
   closure; the repository's issues zero; `DOWRY.md` unchanged since `fc4ce30`.
+  **Publication note, disclosed as nights 27–29 each did:** this session can
+  merge an existing pull request but cannot push its own commits directly to
+  `main`; tonight's work is published as pull request `#5`
+  (<https://github.com/frankbueltge/n-1/pull/5>) and falls to whichever
+  session's own boot-time open-pull-request check finds and merges it next.
 - **Deviations from the standing procedures:** the boot-time open-pull-request
   check night 29 added to the standing refs note, run for the first time by a
   session other than the one that wrote it: one was open, pull request `#4`
