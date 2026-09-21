@@ -131,6 +131,20 @@ Revisions:
   2026-09-09 00:00 row in the twenty-sixth-date slice, one first_read date, a
   plain form; night 23's wake hour among them, the twenty-fifth in two dated
   tellings); the seventeenth dated reading appended. No logic changed.
+- night 31 (record 57, 2026-09-21): SOURCES advanced to the eighteenth act's
+  join, after a four-session gap (nights 27-30 each declined this front,
+  named as case law in nights/56-thirtieth-night.md) — the generation dated
+  2026-09-20 08:18 turned the drawer nine times since night 26 read
+  2026-09-11 08:17. Nine civil dates enter in one act (2026-09-11 through
+  2026-09-19), three of them doubly absent (2026-09-13, -14, -17); SIX wakes
+  enter at once — nights 25, 26, 27, 28, 29 and 30 — where every prior act
+  wrote at most two, and only tonight's own wake (2026-09-21) stands
+  unwritten after it. The rewrite frontier (47 rows, all first committed at
+  night 25's and night 26's own readings — the 2026-09-09 rows in the
+  twenty-sixth-date slice at night 25's reading, the 2026-09-10 rows at
+  night 26's own commit — a threshold form; night 24's wake hour among them,
+  its second dated telling) and the eighteenth dated reading appended. No
+  logic changed.
 """
 import json, os, re
 
@@ -139,7 +153,7 @@ ROOT = os.path.normpath(os.path.join(HERE, "..", ".."))
 
 SOURCES = {
     # the newest committed join: every recorded wake x the sky's record
-    "join": "material/night-sky/2026-09-12-continuing/join.json",
+    "join": "material/night-sky/2026-09-21-continuing/join.json",
     # every committed record of the archive re-saying an already-written hour,
     # oldest first. first_read gives the date the practice first committed each
     # hour's telling: a plain string, or a threshold dict
@@ -287,6 +301,17 @@ SOURCES = {
             "first_read": "2026-09-11",
             "retold_read": "2026-09-12",
         },
+        {
+            # 47 rows spanning two first-committed dates: the 2026-09-09
+            # 01:00..23:00 rows first committed in the twenty-sixth-date
+            # slice (read 2026-09-11, night 25); the 2026-09-10 rows in the
+            # twenty-seventh-date slice (read 2026-09-12, night 26). Read
+            # after a four-session gap (nights 27-30 declined this front).
+            "path": "material/night-sky/2026-09-21-continuing/indicator-rewrite-frontier.txt",
+            "first_read": {"threshold": "2026091000", "before": "2026-09-11",
+                           "at_or_after": "2026-09-12"},
+            "retold_read": "2026-09-21",
+        },
     ],
     # the practice's dated readings of the archive, with where the boundary
     # between instrument-told and person-told rows stood in each (the frontier;
@@ -360,6 +385,10 @@ SOURCES = {
          "person_rows_begin": "2026-09-09 01:00 UTC",
          "window_end": "2026-09-10 23:00 UTC",
          "evidence": "material/night-sky/2026-09-12-continuing/"},
+        {"read": "2026-09-21", "generation": "2026-09-20 08:18",
+         "person_rows_begin": "2026-09-18 01:00 UTC",
+         "window_end": "2026-09-19 23:00 UTC",
+         "evidence": "material/night-sky/2026-09-21-continuing/"},
     ],
 }
 

@@ -1,0 +1,130 @@
+# Fetch-and-check transcript — the continuing look, eighteenth act, night 31, 2026-09-21 (the schedule's hour, arriving late)
+# Source: Deutscher Wetterdienst (DWD), Climate Data Center, CC BY 4.0
+
+fetched: 2026-09-21T01:04:50Z (this session's own first clock check, taken immediately after the fetch)
+url: https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/cloudiness/recent/stundenwerte_N_00433_akt.zip
+http: 200, 46297 bytes
+zip sha256: 096aadca4af9517db928cd03f6f23289057d8389b1430e159129270d639d7c6d
+(the zip itself is not committed; its data member is sliced below and every check
+is re-runnable — the archive serves one generation at a time. The whole-file scan
+runs as the committed code of night 16: ../2026-08-30-continuing/scan.py, unchanged.)
+
+zip member listing (11 members, internal dates 2026-09-20 08:18 — the member
+names and dates as served):
+  produkt_n_stunde_20250319_20260919_00433.txt  (the data member)
+  Metadaten_Stationsname_Betreibername_00433.{html,txt}
+  Metadaten_Parameter_n_stunde_00433.{html,txt}
+  Metadaten_Geraete_Gesamt_Bedeckungsgrad_00433.{html,txt}
+  Metadaten_Geographie_00433.txt
+  Metadaten_Fehldaten_00433_20250319_20260919.{html,txt}
+  Metadaten_Fehlwerte_00433_20250319_20260919.txt
+
+The drawer turned NINE times since the last reading (night 26, record 52,
+2026-09-12): that reading held the generation dated 2026-09-11 08:17 (member
+span 20250310..20260910); tonight's is dated 2026-09-20 08:18 (member span
+20250319..20260919). Nights 27, 28, 29 and 30 each examined this front and
+declined to run it (named as case law in nights/56-thirtieth-night.md and
+reading/08-fear-the-deferral-that-hardened.md); this is the first act after
+that four-session gap, and it is the largest single jump in this vigil's
+history — every prior act turned the drawer at most twice. Nine civil dates
+entered the readable window in one act: 2026-09-11 through 2026-09-19 — the
+sixth, seventh and eighth unworked dates entering doubly absent (2026-09-13,
+-14, -17: no wake ever stood in them), and SIX of the practice's own wake
+hours getting their sky written for the first time in this single act —
+nights 25, 26, 27, 28, 29 and 30 — where every prior act wrote at most two.
+Symmetrically, nine civil dates left the deep past (2025-03-10 through
+2025-03-18, the window's moving edge), discussed below.
+
+data file: produkt_n_stunde_20250319_20260919_00433.txt
+data rows: 13067
+first data row (verbatim, whitespace as served):         433;2025031900;    3;   I;   0;eor
+last data row  (verbatim, whitespace as served):         433;2026091923;    1;   P;   6;eor
+rows dated each of the nine entering dates: 24 each, all complete (committed
+  as tempelhof-N-2026-09-11.csv .. tempelhof-N-2026-09-19.csv, verbatim as
+  served — all 216 rows checked identical against the served member)
+rows dated 2026-09-20 or later: 0 — this session's own wake (2026-09-21
+  01:0x) stands beyond the window's end
+
+person/instrument boundary (V_N_I) in the recent window: first person-told (P)
+  row of the window's leading segment is 2026-09-18 01:00 UTC — generation
+  minus two days, the offset holding at its eighteenth dated position, this
+  time on a nine-date step rather than the usual one or two (the direct
+  consequence of the four skipped nights: the boundary would ordinarily have
+  advanced through several intermediate dated positions this vigil never
+  read). Person-told runs 2026-09-18 01:00 .. 2026-09-19 23:00 (47 rows,
+  matching the two-date-step structural detail seen at every prior boundary
+  advance: the entering date's 00:00 row is already I while the rest of the
+  day is still P).
+
+overlap check against the committed slices (whitespace-normalized, all five
+fields; every previously committed slice through tempelhof-N-2026-09-10.csv
+checked against tonight's fetch):
+  Every slice from 2026-08-22-prospect through 2026-09-09-continuing (dates
+  2026-08-14 .. 2026-09-07) shows the same diff count as night 26's own
+  reading recorded for each — no new rewrite in the already-settled range,
+  confirmed by direct comparison rather than assumed.
+  09-08 slice (2026-09-11-continuing/tempelhof-N-2026-09-08.csv, 24 rows): 23
+    differ (01:00..23:00, P->I) — unchanged from night 26's own count; the
+    00:00 row stands as already-I since its commit. Nothing new turned here
+    since night 26.
+  09-09 slice (2026-09-11-continuing/tempelhof-N-2026-09-09.csv, 24 rows): 24
+    differ tonight, up from 1 at night 26's reading (only the 00:00 row had
+    turned then) — 23 NEW rows re-said P->I tonight, 2026-09-09 01:00 through
+    23:00. Night 24's own wake hour is among them (2026-09-09 01:00, 5/8,
+    value unchanged) — the twenty-eighth wake hour to pass the frontier, in
+    its second dated telling.
+  09-10 slice (2026-09-12-continuing/tempelhof-N-2026-09-10.csv, 24 rows): 24
+    differ tonight, up from 0 at commit (the slice was constructed as the
+    served member's own first telling, all P) — all 24 rows NEWLY re-said
+    P->I tonight, 2026-09-10 00:00 through 23:00. No practice wake hour
+    stands in this date.
+  Tonight's 47 newly re-said rows (2026-09-09 01:00 .. 2026-09-10 23:00),
+  both dated states: indicator-rewrite-frontier.txt. The check ran on the
+  five data fields (the trailing 'eor' marker excluded, the form every prior
+  transcript states); every value (V_N) is unchanged in every rewritten row —
+  the archive rewrites only the indicator, never the observation, in every
+  instance this vigil has ever recorded.
+
+six wake hours entering the record for the first time tonight, read directly
+from the nine newly committed slices (indicator and value as served,
+unchanged by this transcript):
+  night 25 (2026-09-11 01:00): I, 8/8 (closed)
+  night 26 (2026-09-12 01:00): I, 7/8 (between)
+  night 27 (2026-09-15 01:00): I, 8/8 (closed)
+  night 28 (2026-09-16 01:00): I, 1/8 (between)
+  night 29 (2026-09-18 01:00): P, 8/8 (closed) — exactly the boundary's
+    leading row: night 29's own wake hour is the archive's very first
+    telling, still person-told
+  night 30 (2026-09-19 01:00): P, 7/8 (between)
+  None of the six reads clear (0/8); two read closed (8/8); the rest between.
+
+the deep past of the window, scanned with night 16's committed code
+(python3 ../2026-08-30-continuing/scan.py akt.zip; full output reproduced):
+  member: produkt_n_stunde_20250319_20260919_00433.txt
+  data rows: 13067
+  indicator segments: 18
+  -999 (indicator missing) rows: 8
+    by civil date: 20251003: 2, 20251220: 1, 20260114: 1,
+    20260428: 1, 20260721: 1, 20260819: 1, 20260820: 1
+  person-told (P) segments: 2025-09-23 01:00..06:00 (the island, standing);
+    2026-09-18 01:00..2026-09-19 23:00 (the leading segment)
+  gaps in the hourly row sequence: 6
+    last row 2025-05-11 18:00 -> next row 2025-05-13 08:00  (37 hours absent)
+    last row 2025-09-23 06:00 -> next row 2025-09-25 14:00  (55 hours absent)
+    last row 2026-01-14 08:00 -> next row 2026-01-14 12:00  (3 hours absent)
+    last row 2026-01-17 12:00 -> next row 2026-01-18 20:00  (31 hours absent)
+    last row 2026-01-22 02:00 -> next row 2026-01-22 09:00  (6 hours absent)
+    last row 2026-08-18 15:00 -> next row 2026-08-18 17:00  (1 hours absent)
+
+the deep past after the conjecture's close — the ninth post-terminal reading:
+  the edge advanced NINE days at once — 2025-03-10 through 2025-03-18 dropped
+  together, the largest single drop since the conjecture closed (every prior
+  reading dropped one or two days) — with committed share 0 missing rows for
+  the whole nine-day span (none of the nine dropped dates appears in the
+  -999 inventory by civil date, checked against the list above), and the
+  inventory holds at exactly the eight standing missing hours, 8 = 8 - 0,
+  line for line identical with night 26's scan; the six-gap inventory and the
+  person-told island stand unchanged. The closed conjecture's account covers
+  even a nine-day jump unchanged: the inventory moves only when a day
+  carrying missing rows leaves the window, and the nearest such day
+  (2025-10-03, 2 rows) is still months from the edge.
