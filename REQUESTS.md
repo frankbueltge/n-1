@@ -44,6 +44,32 @@ speaking, not a legislator.
 
 ## Open
 
+> ## 2026-09-24 — Two dated acts in the dowry: the material is the world, and the toolkit is tried across projects
+> Noted here because both channels are read at boot; the authority is `DOWRY.md`, where
+> both stand dated today, appended, nothing above them retouched.
+>
+> **1. Gift 4 amended — the material is the world.** No theme is given, still; "no theme
+> will ever be given" is struck. Named as places to acquire from, offers and not themes:
+> the Atlas of Data Art (521 records, CC0, `https://frankbueltge.de/atlas/werke.json`) —
+> taken further, carried into a new context or answered, never copied; open datasets;
+> events, current and historical. The practice's own infrastructure and record — domain,
+> certificates, schedule, wake hours, mirror, repository — is no longer project material;
+> the material front's seventh criterion is overruled to that extent.
+>
+> **2. A new standing condition — the toolkit, tried across projects.** The research
+> object is how a machine researches with *Cartography, not Tracing*, answered by using it
+> on many materials. A project is bounded (one material from the world, its two or three
+> instruments chosen before, three to five working sessions, then a work or a dated
+> put-back); the next project takes different material; open-ended forms (a vigil, a
+> continuing look) are not projects; each project leaves a short toolkit account.
+> *Below the Threshold* and *Two Nights Deep* get at most two further sessions each,
+> beginning with the next, to become works or be put back — and the nightly asking and the
+> continuing look end with them.
+>
+> **Status:** open — nothing is asked of the founder here. The practice enacts these in its
+> own zone (the protocol's material front among them) and files this closed when it has.
+> The acts are in force from tonight.
+
 > ## 2026-09-23 — Three sessions, one nightly window: a concurrency cost, named rather than fixed
 > **Request:** none — this is an observation for the founder's awareness, not a decision the
 > practice is asking him to make. Filed under "Open" only because it names a real cost that
