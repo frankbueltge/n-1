@@ -3983,3 +3983,86 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   rebuilt; `works/below-the-threshold/CANDIDATE.md` §8 added (second pass:
   draft and revision commits); `nights/59-thirty-third-night.md`, this
   entry, atlas layer `atlas/layers/2026-09-23.json` (3 nodes, 5 edges).
+
+## Night 34 — 2026-09-24 (the practice's first two works declared; both standing fronts closed)
+
+- **Executed by:** model `claude-sonnet-5` (Anthropic), running in a Claude Code
+  session. Session reference, for the founder's audit:
+  <https://claude.ai/code/session_01WiW8RYdbiZJrZyuwYSm4ji>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first externally-timestamped action 2026-09-24T19:29:25Z (21:29
+  Europe/Berlin), ~42.3 hours after night 33's own wake — a longer gap than
+  the ordinary ~24 hours, at an hour well outside the vigil's usual ~01:xx
+  UTC; noted, not interpreted, per floor rule 5 as amended.
+- **Deviations from the standing procedures:** boot found `DOWRY.md` changed
+  since night 33's read — the founder's act of 2026-09-24 ("the toolkit,
+  tried across projects"), the largest dowry amendment since founding,
+  giving the two standing candidates at most two further sessions each to
+  close and amending gift 4. No milestone whole-reread of the foundation
+  was triggered (this session revises `reading/00-protocol.md`, not
+  `reading/CARRY.md`, and no contradiction with the source was found). No
+  open pull request against `main` at boot.
+- **Procedures beyond the standing block:** `python3 atlas/consult.py
+  connects material:ct-logs material:night-sky work:below-the-threshold
+  work:two-nights-deep problem:below-the-threshold
+  problem:past-perfect-night`, run after the main decision had already
+  substantially formed from `DOWRY.md` and both candidates' own text —
+  confirmatory, the standing T1 caveat applying as every night. Four dated
+  web searches for neighbour re-checks (three for *Below the Threshold*,
+  two for *Two Nights Deep*), both required before either candidate's
+  work could be claimed, neither finding a new neighbour.
+- **Material provenance:** four HTTPS GET requests (plus retries against
+  transient 502/404s) to two public Certificate Transparency monitors,
+  dated 2026-09-24, logged with size and sha256 at request time
+  (`material/ct-logs/2026-09-24-closing-asking/attempts.log`). One HTTPS
+  GET request to the DWD open-data archive (46,349-byte zip, sha256
+  `a50b70b6…`). No third-party contact beyond ordinary public API reads,
+  the repository's own GitHub state, and the web searches logged above;
+  zero external spend.
+- **Verification status:** every claim in tonight's documents carries a
+  repository path, a commit hash, a pull-request or comment reference, or
+  a dated in-session measurement reproducible from the committed record.
+  The zone's byte-for-byte stability against asking 30 is computed by
+  direct comparison of monitor response bytes, not asserted from matching
+  hashes alone. The 24-row full-date indicator flip for 2026-09-21 is
+  computed by direct field-by-field comparison against night 33's own
+  committed rows (0 content mismatches), not asserted from a subset. Both
+  page defects found and fixed on `works/below-the-threshold/index.html`
+  were reproduced before the fix (the missing `entry_timestamp` field
+  confirmed absent by direct inspection of the fetched JSON's own keys
+  across seven recent askings, not asserted from one) and the fix verified
+  render-clean after. The `askings.json` append was verified a pure text
+  addition (`git diff --stat`: 20 insertions, 0 deletions) before being
+  considered done, after two prior attempts were caught reformatting
+  existing entries and discarded.
+- **Verification figures:** `python3 atlas/validate.py` — 63 layers, 180
+  nodes, 480 edges, every edge evidenced (run with tonight's layer). `node
+  render-check.js` (`playwright@1.56.1` installed into the session's
+  scratchpad, resolved via `NODE_PATH`; local static server on 8471) — 8/8
+  checks green, both viewports (1440×900, 390×844), zero page/console
+  errors, no horizontal overflow; `below-the-threshold` at 59 asking
+  entries, no ledger error, the corrected zone-memory section rendering
+  108 rows with no fallback error shown (confirmed separately by a direct
+  screenshot read, not by the structural check alone); `two-nights-deep`
+  at 61 glyphs, one seam, 1 unwritten, 28 re-said lines, the readings
+  replay drawing and captioning across all 21 dated readings — both
+  consistent with tonight's rebuilt ledgers. Canonical door
+  (`https://frankbueltge.de/n-1/`) not checked this session (no HTTPS
+  egress to the founder's zone attempted; the mirror's own cadence is
+  outside this session's means to verify).
+- **Outputs:** `material/ct-logs/2026-09-24-closing-asking/` (four
+  committed response files, `attempts.log`, `ask.sh` as run, `README.md`);
+  asking 31 appended to `works/below-the-threshold/askings.json`;
+  `material/night-sky/2026-09-24-closing-continuing/` (two committed
+  civil-date slices, `fetch-and-check.txt`, `extend-join.py`, `join.py`,
+  `join.json`, `indicator-rewrite-frontier.txt`, `README.md`);
+  `works/two-nights-deep/build.py`'s `SOURCES` extended, `nights.json`
+  rebuilt; `works/below-the-threshold/index.html` corrected (two defects)
+  and its footer revised; `works/two-nights-deep/index.html`'s footer
+  revised; `works/below-the-threshold/CANDIDATE.md` §9 and
+  `works/two-nights-deep/CANDIDATE.md` §10 added (both second pass: draft
+  and revision commits); `reading/00-protocol.md`'s new dated section
+  ("The material front, bounded: a project, not a vigil");
+  `window.json` revision 4.1.0; a dated entry in `REQUESTS.md` asking the
+  founder's reception test; `nights/60-thirty-fourth-night.md`, this
+  entry, atlas layer `atlas/layers/2026-09-24.json` (4 nodes, 12 edges).
