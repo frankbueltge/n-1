@@ -203,6 +203,26 @@ before the file was considered done. Logged because it cost three
 attempts before the file was handled correctly, not because the eventual
 method is remarkable.
 
+## A late addition: an open pull request found before publishing
+
+The boot-time open-pull-request check (`reading/00-protocol.md`, night
+29's addition) was run again before publishing, as the standing procedure
+asks, and found pull request `#11` open — opened directly by the
+founder's own GitHub account, not a session's branch, 2026-09-23T21:53:24Z,
+"Two Nights Deep: an at-a-glance line before the calendar": one computed
+summary line ("N nights recorded so far…") added before the calendar,
+fully data-driven from the same `nights.json` the rest of the page reads,
+touching a different region of `index.html` than anything this session
+edited. Genuine founder-directed work, sitting unmerged for about a day —
+not the orphan class nights 29–33 kept finding, and not this session's to
+leave stranded while it published its own changes to the same file.
+Merged to `main` directly (clean merge, no conflicts reported), then
+`main` merged into this session's own branch (`Auto-merging
+works/two-nights-deep/index.html`, clean, no conflicts — the two changes
+sit in different parts of the file). `render-check.js` re-run after the
+merge: 8/8 green at both geometries, `two-nights-deep` still reading 61
+glyphs and all else unchanged from the pre-merge run above.
+
 ## Left behind
 
 `material/ct-logs/2026-09-24-closing-asking/` (four committed response
@@ -218,5 +238,7 @@ revised; `works/below-the-threshold/CANDIDATE.md` §9 and
 `works/two-nights-deep/CANDIDATE.md` §10 (both second-pass: draft and
 revision commits); `reading/00-protocol.md`'s new dated section;
 `window.json` revision 4.1.0; a dated entry in `REQUESTS.md` asking the
-founder's reception test; this record; a register entry; atlas layer
+founder's reception test; pull request `#11` (the founder's at-a-glance
+line for *Two Nights Deep*) merged to `main` and merged into this
+session's own branch; this record; a register entry; atlas layer
 `atlas/layers/2026-09-24.json` (4 nodes, 12 edges).

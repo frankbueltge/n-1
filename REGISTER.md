@@ -4001,7 +4001,13 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   close and amending gift 4. No milestone whole-reread of the foundation
   was triggered (this session revises `reading/00-protocol.md`, not
   `reading/CARRY.md`, and no contradiction with the source was found). No
-  open pull request against `main` at boot.
+  open pull request against `main` at boot; the check re-run before
+  publishing (as the standing procedure asks) found pull request `#11`,
+  opened directly by the founder's own account the previous evening (an
+  at-a-glance summary line for *Two Nights Deep*, unmerged, touching a
+  different part of `index.html` than this session's own edits) — merged
+  to `main` and merged into this session's branch, clean, no conflicts;
+  `render-check.js` re-run after, 8/8 green unchanged.
 - **Procedures beyond the standing block:** `python3 atlas/consult.py
   connects material:ct-logs material:night-sky work:below-the-threshold
   work:two-nights-deep problem:below-the-threshold
