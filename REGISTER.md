@@ -4072,3 +4072,59 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `window.json` revision 4.1.0; a dated entry in `REQUESTS.md` asking the
   founder's reception test; `nights/60-thirty-fourth-night.md`, this
   entry, atlas layer `atlas/layers/2026-09-24.json` (4 nodes, 12 edges).
+
+## Night 35 — 2026-09-25 (the first bounded project opened: Earth's rotation)
+
+- **Executed by:** a Claude Code session configured for model
+  `claude-opus-5-5` (Anthropic), with fallbacks `claude-opus-5[1m]`,
+  `claude-opus-4-8[1m]`; the serving model can differ from the configured
+  one and is not otherwise observable to the session. Session reference, for
+  the founder's audit:
+  <https://claude.ai/code/session_019ud8idAkxKbmoykSJ7Xz1T>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first clock check 2026-09-24T22:19:45Z (00:19 Europe/Berlin),
+  ~2.8 hours after night 34's own first action; noted, not interpreted.
+- **Deviations from the standing procedures:** the open-pull-request check
+  found pull request `#12` (night 34, a parallel session, unmerged, current
+  base). Not merged and not duplicated: this session's branch
+  (`claude/focused-pasteur-jxu6f1`) is built on #12's head (`41ef33f`), so
+  its own pull request carries #12's commits until #12 lands. Publication is
+  by pull request; this session's environment is directed to its own branch.
+  T1 consultation ran after the main decision (see the night record).
+- **Procedures beyond the standing block:** KsK ch. 6 consulted whole
+  (instrument choice). `python3 atlas/consult.py connects
+  problem:the-material document:material-preregistration`.
+- **Material provenance:** HTTPS GETs to `hpiers.obspm.fr` (EOP 20 C04
+  series, `Leap_Second.dat`, Bulletin C 52–72 and the current bulletin),
+  `data.iana.org` (`leap-seconds.list`), `www.bipm.org` (Resolution 4 of 2022,
+  the 28th CGPM pages, the Draft Resolutions PDF and the CCTF report PDF),
+  `frankbueltge.de/atlas/werke.json` (the Atlas of Data Art). Every file's
+  size and sha256 is logged in
+  `material/earth-rotation/2026-09-25-prospect/fetch.log`. Two web searches
+  through a search service (neighbour probe). Reachability checks without
+  body reads to `datacenter.iers.org` (connection reset),
+  `earthquake.usgs.gov`, `api.gbif.org`, `www.ietf.org`. No third-party
+  contact beyond public reads; zero external spend. The PDF text was
+  extracted with `pypdf`, installed into a scratch virtual environment
+  outside the repository.
+- **Verification status:** every figure in the prospect is printed by the
+  committed `derive.py` from the hashed source bytes. One internal check is
+  reported: the daily length-of-day sum against the change in UT1−UTC since
+  2017 (+0.5844 s vs −0.5842 s). Quotations were checked word by word against
+  the fetched text; the PDF quotations come from a text extraction, whose
+  spacing is not claimed. A neighbour snippet (Trubkovich, *Leap Second*,
+  2012) is marked unverified. Machine-attributed counterfactuals in
+  `JOURNAL.md` are marked as estimates.
+- **Verification figures:** `python3 atlas/validate.py`: 64 layers, 188
+  nodes, 492 edges, every edge evidenced. `node render-check.js` (global
+  playwright via `NODE_PATH`, local server on 8471): first run 7/8. At
+  390×844 `record.html` overflowed on tonight's BIPM URL; the overflow was
+  confirmed caused by the new layer by re-running without it, fixed in
+  `record.html`'s CSS, then 8/8. The map legend reads "project 1" after the
+  `index.html` change.
+- **Outputs:** `projects/earth-rotation/` (`SELECTION.md`, `PROJECT.md`,
+  `JOURNAL.md`, `ASSEMBLAGE.md`); `material/earth-rotation/2026-09-25-prospect/`
+  (`README.md`, `derive.py`, `derived.txt`, `fetch.log`); `index.html`
+  (`project` type drawn); `record.html` (long addresses wrap);
+  `nights/61-thirty-fifth-night.md`; this entry; atlas layer
+  `atlas/layers/2026-09-25.json` (8 nodes, 12 edges).
