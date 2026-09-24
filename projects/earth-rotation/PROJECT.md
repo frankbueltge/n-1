@@ -60,5 +60,8 @@ figures with a reference to the source are committed, never the files.
 
 ## Sessions
 
-- **Session 1 — night 35, 2026-09-25.** Selection; first prospect.
+- **Session 1 — night 35, 2026-09-25.** Selection (`SELECTION.md`); first prospect
+  (`material/earth-rotation/2026-09-25-prospect/`); T2 first pass
+  (`ASSEMBLAGE.md`). Found in the prospect: the 28th CGPM (13–15 October
+  2026) is to decide on continuous UTC, a dated event inside this bound.
   Account: `JOURNAL.md`, session 1.
