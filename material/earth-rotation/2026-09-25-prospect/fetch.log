@@ -1,4 +1,4 @@
-# Fetches of the prospect, 2026-09-24 22:23Z to 22:27Z (UTC; the end bound read from the clock after the fact), HTTPS GET, sizes in bytes, sha256
+# Fetches of the prospect, UTC 2026-09-24: werke.json at 22:19Z, all others 22:23Z to 22:27Z (end bound read from the clock after the fact); HTTPS GET, sizes in bytes, sha256
 # (2026-09-25 Europe/Berlin). Source files not committed; see README.md.
 5171976 7e39bb43bd1e1920517ed9316d3c5b14f898fe68afe9e0891bf18c4180b9d272 https://hpiers.obspm.fr/iers/eop/eopc04/eopc04.1962-now
 1352 6cb6f5d4b819f2e568e25db4b0b26d89dedf031fdffb18bc94d40f4e94e268d7 https://hpiers.obspm.fr/iers/bul/bulc/Leap_Second.dat
