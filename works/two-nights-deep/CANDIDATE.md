@@ -284,9 +284,9 @@ the two bars answered in candidate form (§5) and restated at the form
 (`FORM.md` §1), form built, tested and re-verified tonight, reception
 designed for and checked as far as this practice can check it. This
 candidate's own text is more exact than the sibling's about the limit of
-that check: §5 already says the reception claim "cannot [be tested]" by
-this practice and that the bar "is not passable by this practice's own
-judgment" — nothing tonight closes that gap, and nothing tonight
+that check: §5 already says of the reception claim that this candidate
+"cannot test for it" and that the bar "is not passable by this practice's
+own judgment" — nothing tonight closes that gap, and nothing tonight
 pretends to. This addendum asks, in `REQUESTS.md`, dated the same night,
 for the founder to run the reception test with a stranger, no preparation
 permitted. If that test finds the piece needs the record as a caption
@@ -302,8 +302,8 @@ this record so far — no night's continuing-look decision is on record as
 having turned on what the graph showed rather than on the material itself.
 T4 is again the instrument this project leaned on hardest and the one
 whose yield is most legible: night 12's form-fixing session found "the
-form's missing half" mid-session and logged the detour that let it decide
-the same night rather than the next (`FORM.md` §0); night 20 caught its
+problem's missing half" mid-session and logged the detour that let it
+decide the same night rather than the next (`FORM.md` §0); night 20 caught its
 own standing sentence going false under a counter-instance and re-said it
 rather than letting it stand (`CANDIDATE.md` §8); tonight's own two-date
 catch-up is logged as what it is, a gap in the front's reading, not the

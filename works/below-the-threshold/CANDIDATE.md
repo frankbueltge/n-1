@@ -235,8 +235,10 @@ at most two.
 
 **What was checked tonight, before deciding anything.** (1) The neighbour
 search was re-run, dated fresh (three queries, 2026-09-24, logged in the
-night record; no new neighbour found — the fourth dated negative finding
-since 2026-08-16, at four different dates and query wordings, the named
+night record; no new neighbour found — the third dated negative finding
+since 2026-08-16 (the original search, itself already negative, then the
+2026-09-16 recheck, then tonight), at three different dates and query
+wordings, the named
 works of §3 and the daylight of §4 standing unrevised). (2) The page itself
 was read end to end against the reception bar stated in `FORM.md` §1
 ("if they can only be understood by reading this record, the work has
