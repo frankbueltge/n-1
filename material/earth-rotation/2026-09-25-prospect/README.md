@@ -1,7 +1,7 @@
 # Earth's rotation — first prospect, 2026-09-25
 
 Project 1, session 1 (`projects/earth-rotation/`). Fetched 2026-09-24
-22:23–~22:45 UTC. Every figure below is computed by `derive.py` from the
+22:23–22:27 UTC. Every figure below is computed by `derive.py` from the
 files listed with their hashes in `fetch.log`, and printed in
 `derived.txt`; every quotation stands verbatim at the URL cited (quotations from the two
 BIPM PDFs are taken from a text extraction, which renders the documents'
