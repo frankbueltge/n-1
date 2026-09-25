@@ -3983,3 +3983,206 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   rebuilt; `works/below-the-threshold/CANDIDATE.md` §8 added (second pass:
   draft and revision commits); `nights/59-thirty-third-night.md`, this
   entry, atlas layer `atlas/layers/2026-09-23.json` (3 nodes, 5 edges).
+
+## Night 34 — 2026-09-24 (the practice's first two works declared; both standing fronts closed)
+
+- **Executed by:** model `claude-sonnet-5` (Anthropic), running in a Claude Code
+  session. Session reference, for the founder's audit:
+  <https://claude.ai/code/session_01WiW8RYdbiZJrZyuwYSm4ji>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first externally-timestamped action 2026-09-24T19:29:25Z (21:29
+  Europe/Berlin), ~42.3 hours after night 33's own wake — a longer gap than
+  the ordinary ~24 hours, at an hour well outside the vigil's usual ~01:xx
+  UTC; noted, not interpreted, per floor rule 5 as amended.
+- **Deviations from the standing procedures:** boot found `DOWRY.md` changed
+  since night 33's read — the founder's act of 2026-09-24 ("the toolkit,
+  tried across projects"), the largest dowry amendment since founding,
+  giving the two standing candidates at most two further sessions each to
+  close and amending gift 4. No milestone whole-reread of the foundation
+  was triggered (this session revises `reading/00-protocol.md`, not
+  `reading/CARRY.md`, and no contradiction with the source was found). No
+  open pull request against `main` at boot; the check re-run before
+  publishing (as the standing procedure asks) found pull request `#11`,
+  opened directly by the founder's own account the previous evening (an
+  at-a-glance summary line for *Two Nights Deep*, unmerged, touching a
+  different part of `index.html` than this session's own edits) — merged
+  to `main` and merged into this session's branch, clean, no conflicts;
+  `render-check.js` re-run after, 8/8 green unchanged.
+- **Procedures beyond the standing block:** `python3 atlas/consult.py
+  connects material:ct-logs material:night-sky work:below-the-threshold
+  work:two-nights-deep problem:below-the-threshold
+  problem:past-perfect-night`, run after the main decision had already
+  substantially formed from `DOWRY.md` and both candidates' own text —
+  confirmatory, the standing T1 caveat applying as every night. Four dated
+  web searches for neighbour re-checks (three for *Below the Threshold*,
+  two for *Two Nights Deep*), both required before either candidate's
+  work could be claimed, neither finding a new neighbour.
+- **Material provenance:** four HTTPS GET requests (plus retries against
+  transient 502/404s) to two public Certificate Transparency monitors,
+  dated 2026-09-24, logged with size and sha256 at request time
+  (`material/ct-logs/2026-09-24-closing-asking/attempts.log`). One HTTPS
+  GET request to the DWD open-data archive (46,349-byte zip, sha256
+  `a50b70b6…`). No third-party contact beyond ordinary public API reads,
+  the repository's own GitHub state, and the web searches logged above;
+  zero external spend.
+- **Verification status:** every claim in tonight's documents carries a
+  repository path, a commit hash, a pull-request or comment reference, or
+  a dated in-session measurement reproducible from the committed record.
+  The zone's byte-for-byte stability against asking 30 is computed by
+  direct comparison of monitor response bytes, not asserted from matching
+  hashes alone. The 24-row full-date indicator flip for 2026-09-21 is
+  computed by direct field-by-field comparison against night 33's own
+  committed rows (0 content mismatches), not asserted from a subset. Both
+  page defects found and fixed on `works/below-the-threshold/index.html`
+  were reproduced before the fix (the missing `entry_timestamp` field
+  confirmed absent by direct inspection of the fetched JSON's own keys
+  across seven recent askings, not asserted from one) and the fix verified
+  render-clean after. The `askings.json` append was verified a pure text
+  addition (`git diff --stat`: 20 insertions, 0 deletions) before being
+  considered done, after two prior attempts were caught reformatting
+  existing entries and discarded.
+- **Verification figures:** `python3 atlas/validate.py` — 63 layers, 180
+  nodes, 480 edges, every edge evidenced (run with tonight's layer). `node
+  render-check.js` (`playwright@1.56.1` installed into the session's
+  scratchpad, resolved via `NODE_PATH`; local static server on 8471) — 8/8
+  checks green, both viewports (1440×900, 390×844), zero page/console
+  errors, no horizontal overflow; `below-the-threshold` at 59 asking
+  entries, no ledger error, the corrected zone-memory section rendering
+  108 rows with no fallback error shown (confirmed separately by a direct
+  screenshot read, not by the structural check alone); `two-nights-deep`
+  at 61 glyphs, one seam, 1 unwritten, 28 re-said lines, the readings
+  replay drawing and captioning across all 21 dated readings — both
+  consistent with tonight's rebuilt ledgers. Canonical door
+  (`https://frankbueltge.de/n-1/`) not checked this session (no HTTPS
+  egress to the founder's zone attempted; the mirror's own cadence is
+  outside this session's means to verify).
+- **Outputs:** `material/ct-logs/2026-09-24-closing-asking/` (four
+  committed response files, `attempts.log`, `ask.sh` as run, `README.md`);
+  asking 31 appended to `works/below-the-threshold/askings.json`;
+  `material/night-sky/2026-09-24-closing-continuing/` (two committed
+  civil-date slices, `fetch-and-check.txt`, `extend-join.py`, `join.py`,
+  `join.json`, `indicator-rewrite-frontier.txt`, `README.md`);
+  `works/two-nights-deep/build.py`'s `SOURCES` extended, `nights.json`
+  rebuilt; `works/below-the-threshold/index.html` corrected (two defects)
+  and its footer revised; `works/two-nights-deep/index.html`'s footer
+  revised; `works/below-the-threshold/CANDIDATE.md` §9 and
+  `works/two-nights-deep/CANDIDATE.md` §10 added (both second pass: draft
+  and revision commits); `reading/00-protocol.md`'s new dated section
+  ("The material front, bounded: a project, not a vigil");
+  `window.json` revision 4.1.0; a dated entry in `REQUESTS.md` asking the
+  founder's reception test; `nights/60-thirty-fourth-night.md`, this
+  entry, atlas layer `atlas/layers/2026-09-24.json` (4 nodes, 12 edges).
+
+## Night 35 — 2026-09-25 (the first bounded project opened: Earth's rotation)
+
+- **Executed by:** a Claude Code session configured for model
+  `claude-opus-5-5` (Anthropic), with fallbacks `claude-opus-5[1m]`,
+  `claude-opus-4-8[1m]`; the serving model can differ from the configured
+  one and is not otherwise observable to the session. Session reference, for
+  the founder's audit:
+  <https://claude.ai/code/session_019ud8idAkxKbmoykSJ7Xz1T>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first clock check 2026-09-24T22:19:45Z (00:19 Europe/Berlin),
+  ~2.8 hours after night 34's own first action; noted, not interpreted.
+- **Deviations from the standing procedures:** the open-pull-request check
+  found pull request `#12` (night 34, a parallel session, unmerged, current
+  base). Not merged and not duplicated: this session's branch
+  (`claude/focused-pasteur-jxu6f1`) is built on #12's head (`41ef33f`), so
+  its own pull request carries #12's commits until #12 lands. Publication is
+  by pull request; this session's environment is directed to its own branch.
+  T1 consultation ran after the main decision (see the night record).
+- **Procedures beyond the standing block:** KsK ch. 6 consulted whole
+  (instrument choice). `python3 atlas/consult.py connects
+  problem:the-material document:material-preregistration`.
+- **Material provenance:** HTTPS GETs to `hpiers.obspm.fr` (EOP 20 C04
+  series, `Leap_Second.dat`, Bulletin C 52–72 and the current bulletin),
+  `data.iana.org` (`leap-seconds.list`), `www.bipm.org` (Resolution 4 of 2022,
+  the 28th CGPM pages, the Draft Resolutions PDF and the CCTF report PDF),
+  `frankbueltge.de/atlas/werke.json` (the Atlas of Data Art). Every file's
+  size and sha256 is logged in
+  `material/earth-rotation/2026-09-25-prospect/fetch.log`. Two web searches
+  through a search service (neighbour probe). Reachability checks without
+  body reads to `datacenter.iers.org` (connection reset),
+  `earthquake.usgs.gov`, `api.gbif.org`, `www.ietf.org`. No third-party
+  contact beyond public reads; zero external spend. The PDF text was
+  extracted with `pypdf`, installed into a scratch virtual environment
+  outside the repository.
+- **Verification status:** every figure in the prospect is printed by the
+  committed `derive.py` from the hashed source bytes. One internal check is
+  reported: the daily length-of-day sum against the change in UT1−UTC since
+  2017 (+0.5844 s vs −0.5842 s). Quotations were checked word by word against
+  the fetched text; the PDF quotations come from a text extraction, whose
+  spacing is not claimed. A neighbour snippet (Trubkovich, *Leap Second*,
+  2012) is marked unverified. Machine-attributed counterfactuals in
+  `JOURNAL.md` are marked as estimates.
+- **Verification figures:** `python3 atlas/validate.py`: 64 layers, 188
+  nodes, 492 edges, every edge evidenced. `node render-check.js` (global
+  playwright via `NODE_PATH`, local server on 8471): first run 7/8. At
+  390×844 `record.html` overflowed on tonight's BIPM URL; the overflow was
+  confirmed caused by the new layer by re-running without it, fixed in
+  `record.html`'s CSS, then 8/8. The map legend reads "project 1" after the
+  `index.html` change.
+- **Outputs:** `projects/earth-rotation/` (`SELECTION.md`, `PROJECT.md`,
+  `JOURNAL.md`, `ASSEMBLAGE.md`); `material/earth-rotation/2026-09-25-prospect/`
+  (`README.md`, `derive.py`, `derived.txt`, `fetch.log`); `index.html`
+  (`project` type drawn); `record.html` (long addresses wrap);
+  `nights/61-thirty-fifth-night.md`; this entry; atlas layer
+  `atlas/layers/2026-09-25.json` (8 nodes, 12 edges).
+
+## Night 36 — 2026-09-25 (project 1, session 2: the neighbour who was already waiting)
+
+- **Executed by:** a Claude Code session configured for model
+  `claude-opus-5-5` (Anthropic), with fallbacks `claude-opus-5[1m]`,
+  `claude-opus-4-8[1m]`. The serving model can differ from the configured
+  one and is not otherwise observable to the session. Session reference, for
+  the founder's audit:
+  <https://claude.ai/code/session_01HRrY1HJyREdmcU8XUkrpco>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first clock check 2026-09-25T01:19:02Z (03:19 Europe/Berlin), in
+  the schedule's hour.
+- **Deviations from the standing procedures:** (1) The stored boot text asks
+  for the whole founding paper each night. Gift 1 as amended 2026-08-22
+  releases that, and `reading/CARRY.md` was read in its place. (2) The stored
+  boot text says "push to main". This session's environment directs it to its
+  own branch (`claude/focused-pasteur-k5yjh9`), and publication is by pull
+  request, as on nights 34–35. (3) Pull requests #12 and #13 were open and
+  unmerged. This branch is built on #13's head (`906012e`), so its pull
+  request carries both until they land. Neither was merged by this session.
+- **Procedures beyond the standing block:** `python3 atlas/consult.py
+  inventory`; `python3 atlas/consult.py connects work:below-the-threshold
+  work:two-nights-deep project:earth-rotation`. This consultation ran before
+  the framing decision and changed it (journal, session 2, item 5).
+- **Material provenance:** HTTPS GETs to `frankbueltge.de/atlas/werke.json`
+  and to `maia.usno.navy.mil` (`finals2000A.all`, `finals.all`,
+  `readme.finals2000A`, the front page), with sizes and sha256 in
+  `material/earth-rotation/2026-09-25-session-2/fetch.log`. `finals.all` was
+  fetched, found to differ from `finals2000A.all`, and not used. Twelve web
+  searches and five extraction calls (nine pages) went through a search service (ten
+  searches for neighbours, two for reuse terms). One extraction failed (an
+  Instagram post). No third-party contact beyond public reads. Zero external
+  spend.
+- **Rights:** the USNO Bulletin A columns are committed under "Distribution
+  Statement A ... distribution unlimited" and 17 U.S.C. § 105. The Bulletin B
+  columns (Paris Observatory) in the same file are not extracted. The IERS
+  Paris files stay uncommitted (registry licence "other").
+- **Verification status:** every figure is printed by the committed
+  `derive.py` from bytes whose hash is logged. Cross-check: Bulletin A against
+  night 35's C04 figures on three dates, agreement to 0.0001 s. The shortest
+  day falls on the same date in both, with values differing by 0.006 ms
+  (different reductions). The first row's LOD `0.0000` is treated as a
+  placeholder. The newest rows are rapid-service values, marked as revisable.
+  Neighbour quotations were checked against the extracted page text. The
+  dating of the Phaidon interview to 2022 is inferred from its own words and
+  marked. One neighbour lead is unverified and marked. Machine-attributed
+  counterfactuals and the weak-advantage judgment in `JOURNAL.md` are marked
+  as estimates.
+- **Verification figures:** `python3 atlas/validate.py`: 65 layers, 193
+  nodes, 504 edges, every edge evidenced. `render-check.js` (global
+  playwright, local server on 8471): 8/8, no overflow. The map draws
+  tonight's five nodes from the layer.
+- **Outputs:** `projects/earth-rotation/NEIGHBOURS.md` (new);
+  `JOURNAL.md`, `ASSEMBLAGE.md` and `PROJECT.md` (session 2 additions);
+  `material/earth-rotation/2026-09-25-session-2/` (`README.md`, `derive.py`,
+  `derived.txt`, `fetch.log`, `bulletin-a-ut1.csv`);
+  `nights/62-thirty-sixth-night.md`; this entry; atlas layer
+  `atlas/layers/2026-09-25-a.json` (5 nodes, 12 edges).

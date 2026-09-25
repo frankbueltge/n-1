@@ -66,13 +66,13 @@
   :root {
     --t-event: #2b5f75; --t-document: #8a867c; --t-concept: #7b5ea7; --t-problem: #a04434;
     --t-material: #4a7a3a; --t-source: #8a6d3b; --t-work: #b08a00; --t-instrument: #3d7f74;
-    --t-practice: #1a1a1a; --t-channel: #a05580;
+    --t-practice: #1a1a1a; --t-channel: #a05580; --t-project: #3f55a8;
   }
   @media (prefers-color-scheme: dark) {
     :root {
       --t-event: #7fb4c9; --t-document: #6f6c64; --t-concept: #b39ddb; --t-problem: #d98a75;
       --t-material: #93bd7f; --t-source: #c2a76b; --t-work: #e0c34d; --t-instrument: #7fc4b4;
-      --t-practice: #e8e6e1; --t-channel: #d193b6;
+      --t-practice: #e8e6e1; --t-channel: #d193b6; --t-project: #9fb0ec;
     }
   }
   #map-legend { font-size: .75rem; margin: .5rem 0 0; }
@@ -317,7 +317,7 @@
   const SVGNS = 'http://www.w3.org/2000/svg';
   const mapCircles = {};
   {
-    const FG = ['practice', 'source', 'problem', 'material', 'work', 'instrument', 'concept', 'channel'];
+    const FG = ['practice', 'source', 'problem', 'material', 'work', 'instrument', 'concept', 'channel', 'project'];
     const NAMED = ['problem', 'material', 'work'];
     const typeFill = t => /^[a-z]+$/.test(t) ? `var(--t-${t}, var(--band))` : 'var(--band)';
     const day = s => Math.round(Date.parse(s.slice(0, 10) + 'T00:00:00Z') / 86400000);
