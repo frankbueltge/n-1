@@ -4128,3 +4128,61 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   (`project` type drawn); `record.html` (long addresses wrap);
   `nights/61-thirty-fifth-night.md`; this entry; atlas layer
   `atlas/layers/2026-09-25.json` (8 nodes, 12 edges).
+
+## Night 36 — 2026-09-25 (project 1, session 2: the neighbour who was already waiting)
+
+- **Executed by:** a Claude Code session configured for model
+  `claude-opus-5-5` (Anthropic), with fallbacks `claude-opus-5[1m]`,
+  `claude-opus-4-8[1m]`. The serving model can differ from the configured
+  one and is not otherwise observable to the session. Session reference, for
+  the founder's audit:
+  <https://claude.ai/code/session_01HRrY1HJyREdmcU8XUkrpco>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first clock check 2026-09-25T01:19:02Z (03:19 Europe/Berlin), in
+  the schedule's hour.
+- **Deviations from the standing procedures:** (1) The stored boot text asks
+  for the whole founding paper each night. Gift 1 as amended 2026-08-22
+  releases that, and `reading/CARRY.md` was read in its place. (2) The stored
+  boot text says "push to main". This session's environment directs it to its
+  own branch (`claude/focused-pasteur-k5yjh9`), and publication is by pull
+  request, as on nights 34–35. (3) Pull requests #12 and #13 were open and
+  unmerged. This branch is built on #13's head (`906012e`), so its pull
+  request carries both until they land. Neither was merged by this session.
+- **Procedures beyond the standing block:** `python3 atlas/consult.py
+  inventory`; `python3 atlas/consult.py connects work:below-the-threshold
+  work:two-nights-deep project:earth-rotation`. This consultation ran before
+  the framing decision and changed it (journal, session 2, item 5).
+- **Material provenance:** HTTPS GETs to `frankbueltge.de/atlas/werke.json`
+  and to `maia.usno.navy.mil` (`finals2000A.all`, `finals.all`,
+  `readme.finals2000A`, the front page), with sizes and sha256 in
+  `material/earth-rotation/2026-09-25-session-2/fetch.log`. `finals.all` was
+  fetched, found to differ from `finals2000A.all`, and not used. Twelve web
+  searches and five extraction calls (nine pages) went through a search service (ten
+  searches for neighbours, two for reuse terms). One extraction failed (an
+  Instagram post). No third-party contact beyond public reads. Zero external
+  spend.
+- **Rights:** the USNO Bulletin A columns are committed under "Distribution
+  Statement A ... distribution unlimited" and 17 U.S.C. § 105. The Bulletin B
+  columns (Paris Observatory) in the same file are not extracted. The IERS
+  Paris files stay uncommitted (registry licence "other").
+- **Verification status:** every figure is printed by the committed
+  `derive.py` from bytes whose hash is logged. Cross-check: Bulletin A against
+  night 35's C04 figures on three dates, agreement to 0.0001 s. The shortest
+  day falls on the same date in both, with values differing by 0.006 ms
+  (different reductions). The first row's LOD `0.0000` is treated as a
+  placeholder. The newest rows are rapid-service values, marked as revisable.
+  Neighbour quotations were checked against the extracted page text. The
+  dating of the Phaidon interview to 2022 is inferred from its own words and
+  marked. One neighbour lead is unverified and marked. Machine-attributed
+  counterfactuals and the weak-advantage judgment in `JOURNAL.md` are marked
+  as estimates.
+- **Verification figures:** `python3 atlas/validate.py`: 65 layers, 193
+  nodes, 504 edges, every edge evidenced. `render-check.js` (global
+  playwright, local server on 8471): 8/8, no overflow. The map draws
+  tonight's five nodes from the layer.
+- **Outputs:** `projects/earth-rotation/NEIGHBOURS.md` (new);
+  `JOURNAL.md`, `ASSEMBLAGE.md` and `PROJECT.md` (session 2 additions);
+  `material/earth-rotation/2026-09-25-session-2/` (`README.md`, `derive.py`,
+  `derived.txt`, `fetch.log`, `bulletin-a-ut1.csv`);
+  `nights/62-thirty-sixth-night.md`; this entry; atlas layer
+  `atlas/layers/2026-09-25-a.json` (5 nodes, 12 edges).
