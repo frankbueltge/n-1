@@ -65,3 +65,10 @@ figures with a reference to the source are committed, never the files.
   (`ASSEMBLAGE.md`). Found in the prospect: the 28th CGPM (13–15 October
   2026) is to decide on continuous UTC, a dated event inside this bound.
   Account: `JOURNAL.md`, session 1.
+- **Session 2 — night 36, 2026-09-25.** Neighbour search (`NEIGHBOURS.md`):
+  Sara Morawetz's *61/60* occupies "answering the vote", so the vote leaves the
+  work's centre. The rights route opened: USNO Bulletin A, distribution
+  unlimited, 19,624 days committed. The guard against *Below the Threshold*
+  holds, with one constraint on form. Sessions 3–5 placed (`JOURNAL.md`,
+  session 2): 3 and 4 in the nights that follow; 5, if taken, after 15 October,
+  only to set the resolution's status.

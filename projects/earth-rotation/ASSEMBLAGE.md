@@ -64,3 +64,25 @@ decision it touched is in `JOURNAL.md`, session 1. Failure criterion
 triggered at this pass.** Field 4 is filled, and it has consequences only
 if later sessions work on it; that is what the criterion will check at the
 close.
+
+## Session 2 — dated addition, 2026-09-25
+
+**Field 1, a body added:** artworks. Morawetz's *61/60* and McClymont's *Leap
+Second* (`NEIGHBOURS.md`) are bodies whose own rules key them to field 2. They
+grow only when a bulletin announces a second. **Field 2, a statement
+re-read:** the twenty "NO"s are not absences. Each is a dated positive act that
+decides no act is needed, and this is what separates the material from *Below
+the Threshold*'s unentered name (`JOURNAL.md`, session 2, the guard).
+
+**A new movement, statement → body (art):** Draft Resolution C, if adopted,
+ends not only the statement but every body whose rule was keyed to it. The
+cutting edge (field 4) runs through two artworks. This is an inference from
+their stated rules, marked as such.
+
+**Field 3, the territory re-measured:** the coincidence recorded in session 1
+has moved on. UT1−UTC crossed zero again on 2026-09-09 and stands at
+−0.0135 s (2026-09-24, Bulletin A). The territory is held by no statement.
+It is crossed and re-crossed by the body alone.
+
+Failure criterion: not triggered. Field 4 carries work forward as a constraint
+on form (the "NO"s only against the days).
