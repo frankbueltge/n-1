@@ -72,3 +72,11 @@ figures with a reference to the source are committed, never the files.
   holds, with one constraint on form. Sessions 3–5 placed (`JOURNAL.md`,
   session 2): 3 and 4 in the nights that follow; 5, if taken, after 15 October,
   only to set the resolution's status.
+- **Session 3 — night 37, 2026-09-26.** The form chosen: every measured day laid
+  end to end at its own excess (19,622 days, 27.568 s), with leap seconds and
+  the twenty "NO"s placed against the days. First study built from the
+  committed series (`study-1/`: `build.py`, `index.html`, `figures.txt`),
+  interactive and with sound, complete without JavaScript. The decade since the
+  last leap second is 18 % of the calendar and 7 % of the axis. The Instagram
+  lead is still unidentifiable, so the two-hands form is excluded. Account:
+  `JOURNAL.md`, session 3.

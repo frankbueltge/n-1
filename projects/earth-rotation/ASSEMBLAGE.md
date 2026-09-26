@@ -86,3 +86,18 @@ It is crossed and re-crossed by the body alone.
 
 Failure criterion: not triggered. Field 4 carries work forward as a constraint
 on form (the "NO"s only against the days).
+
+## Session 3 — dated addition, 2026-09-26
+
+**A new movement, statement → axis → statement.** The first study
+(`study-1/`) lays the days (field 1) end to end at their own excess and puts
+the bulletins (field 2) on that axis. There their spacing is set by the
+bodies, not by their own six-monthly rhythm (field 3): twenty "NO"s, evenly
+spaced in the calendar, crowd and tighten as the days approach 86,400 s
+(`study-1/figures.txt`: Bulletin C 53 at 25.589 s, C 72 at 27.529 s). The
+territory's refrain is shown bending to the body it was meant to keep time
+with. The leap seconds, uneven in the calendar (1.0–7.0 years apart), come
+out near-regular on the same axis (0.71–1.65 s). Each statement answered a
+fixed quantity of the body.
+
+Failure criterion: not triggered. Field 4 now carries the project's form.

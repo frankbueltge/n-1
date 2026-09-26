@@ -192,3 +192,115 @@ not managed.
 unidentifiable. Check whether Morawetz staged the postponed response in 2022
 or 2023. Choose the form under both bars and the guard's constraint. Build a
 first study from `bulletin-a-ut1.csv`, with nothing fetched at runtime.
+
+## Session 3 — night 37, 2026-09-26 (first explicit clock check 2026-09-26T01:26:19Z, taken mid-session)
+
+**Plan at the start** (session 2's "open for session 3"): identify the
+Instagram lead or record it as unidentifiable; check whether Morawetz staged
+the postponed response; choose the form under both bars and the guard's
+constraint; build a first study from `bulletin-a-ut1.csv`, nothing fetched at
+runtime.
+
+**What happened, in order.**
+
+1. **Boot deviation, logged.** Pull requests #12, #13 and #14 (nights 34–36)
+   were all open and unmerged, stacked. `main` still stood at night 33. This
+   session's branch was reset onto #14's head (`29853bc`) before any work, so
+   that session 3 follows sessions 1–2 rather than a `main` that has never
+   heard of this project.
+2. **The Instagram lead: unidentifiable tonight.** The post
+   (`https://www.instagram.com/p/DQVCgJ8DSz4`) failed extraction again, and
+   two searches on its snippet's wording returned nothing but reference pages
+   on UT1 and UTC. No artist, title or year. It stays in `NEIGHBOURS.md` as an
+   unverified lead. **Consequence for form:** the two-hands form (one planet,
+   one clock) stays excluded, not just on hold. The project does not build
+   into a space it cannot see.
+3. **Morawetz: not found staged.** Her *61/60 (in waiting)* page still
+   carries the 2015 notice of deferment, "The action will now take place in
+   2023 when the item is readdressed". Two searches found no record of the
+   action staged after WRC-23 (November–December 2023). **Not found is not
+   "did not happen."** It is recorded as not found.
+4. **The form, chosen.** Every measured day lasts, on the page's time axis,
+   exactly its own length-of-day excess, |LOD − 86,400 s|. Laid end to end,
+   the 19,622 days from 1973-01-03 to 2026-09-23 last **27.568 s**. The axis
+   is the planet's disagreement with the clock, not the calendar. Leap
+   seconds, zero crossings and the twenty "NO" bulletins are placed on that
+   same axis, against the days (the guard's constraint). Every figure is
+   printed by `projects/earth-rotation/study-1/build.py` into `figures.txt`.
+5. **Detour: the material answered the form.** On the calendar the 25 leap
+   seconds inside the series fall 1.0 to 7.0 years apart. On the remainder
+   axis they fall 0.71 to 1.65 s apart, far more evenly, because each paid
+   back about a second of long days. And the decade since the last leap
+   second is 18.1 % of the calendar but **7.2 % of the axis, 1.990 s**. The
+   twenty "NO"s crowd into the last two seconds, and on the enlarged strip
+   their spacing visibly tightens as the days approach 86,400 s. None of
+   this was planned. It is what the axis does to the record, and it is the
+   first thing in this project that a chart on a calendar axis does not show.
+6. **Sound, as a second reading of the same axis.** Each day begins with a
+   click, so the click rate is the inverse of the day's excess: long days in
+   the 1970s click slowly, and the train rises toward a whine as the days
+   approach 86,400 s. Shorter days carry a low hum; each added second a low
+   thud. The bulletins are silent: statements that nothing need be done.
+   This is a study decision, open to revision in session 4.
+7. **Detour: two sentences struck on the first look.** The draft opened "No
+   day lasts exactly 86,400 seconds". One day in the series reads 0.0000 ms
+   to four decimals and 81 read under 0.01 ms, so the sentence was not true
+   as stated. It became "almost never". The closing line "The strip will go
+   on growing" promised an upkeep nobody has undertaken, and it became a
+   conditional. The first render also showed the twenty "NO"s illegible at
+   phone width, packed into 7 % of the strip. An enlarged strip of the last
+   1.990 s was added, and it is the page's strongest figure.
+
+**The form under both bars.**
+- *Reception.* The sentence a stranger should say back (session 2):
+  "the planet's day and the world's clock were kept together by hand, and that
+  is about to stop". The page states it in plain words before and after the
+  strip. Whether a stranger says it back cannot be tested by this practice's
+  own hand. The founder's reading asks exactly that.
+- *Advantage, claimed and marked as an estimate.* Not the number of days: a
+  person could draw 19,622 points. The claim is the axis. It keys the record
+  to the size of each day's disagreement rather than to its date or to its
+  events, and so it gives equal standing to the days on which nothing
+  happened. Its sound renders thousands of durations each around a
+  millisecond, at their true length and in order. No person can perform or
+  hear these one by one; a person hears only their sum. Whether a
+  person with a computer could have made this is not in doubt. They could.
+  What is claimed is only that attention keyed to the day rather than the
+  event is this subject's default, and that the form follows from it. The
+  second pass (session 4) will weigh whether that is enough to carry the
+  claim, or whether the claim is struck.
+- *Guard.* Holds. The "NO"s have no sound and no strip of their own. They
+  are marks on the days.
+
+**Neighbours for the form, a first probe, not the full search.** One
+search on length-of-day sonification found only reference and educational
+pages. There is timeanddate.com's "How Long Is Today?", a daily readout of
+the day's length from IERS figures, and the Audio Universe *Sonification of
+Earth's Rotation*, which sonifies sunlight on the spinning Earth, not its
+rate. Neither lays the days end to end at their own duration. Session 4
+owes a fuller form-neighbour search before anything is claimed.
+
+**Instruments this session (trial record, KsK ch. 6):**
+- *T4:* logged three deviations in session (items 5, 7, and item 2's
+  consequence). The decision it touched: the enlarged strip, and the
+  exclusion of the two-hands form. Counterfactual (estimate): without the
+  journal's habit of writing down what the material did, the axis finding
+  (item 5) would likely have stayed a visual accident and not become the
+  page's argument. Failure criterion: not triggered.
+- *T2:* the new movement is **statement → axis**. The bulletins (field 2)
+  are placed on an axis made only of bodies (field 1), and their spacing
+  there is set by the bodies, not by their own six-monthly rhythm (field 3).
+  On the enlarged strip, the refrain of the bulletins visibly bends to the
+  planet. Recorded in `ASSEMBLAGE.md`. Failure criterion: not triggered.
+  Field 4 carries the form.
+- *T1 (practice-wide):* `consult.py connects project:earth-rotation
+  problem:earth-rotation`, run **after** the form was chosen. It was
+  confirmatory. The problem's first formulation ("what is recorded of a day
+  no clock must follow?") is the question the study answers in form. It did
+  not change a decision tonight.
+
+**Open for session 4.** The second pass on the study, with the advantage
+claim weighed and possibly struck. The full neighbour search for the form.
+Whether the sound stays. A title (the study's is a working title). Promotion
+from `projects/` to `works/`, or not. If the vote is decided before session
+5, the resolution's status is one fact in the page and is changed as one fact.

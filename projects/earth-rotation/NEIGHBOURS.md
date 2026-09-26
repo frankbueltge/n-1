@@ -104,3 +104,24 @@ a finding. The work takes the days and not the events: every measured day
 between the statements, including the days of agreement no statement made. It
 is not a response to the decision. It is the record of what the decision stops
 answering.
+
+## Session 3 — dated addition, 2026-09-26
+
+- **The unverified Instagram lead:** still unidentifiable. Extraction of
+  `https://www.instagram.com/p/DQVCgJ8DSz4` failed again, and two searches on
+  its snippet's wording found nothing. It stays unverified. The form it would
+  occupy (two hands, planet and clock) is excluded from this project.
+- **Morawetz, the postponed response:** `http://saramorawetz.com/6160-in-waiting`
+  still carries the 2015 notice ("The action will now take place in 2023 when
+  the item is readdressed"). No record of it being staged after WRC-23 was
+  found in two searches. Not found, and not claimed as not having happened.
+- **Neighbours for the form chosen tonight** (every day laid end to end at its
+  own excess; `study-1/`), a first probe only: timeanddate.com, "How Long Is
+  Today?" (`https://www.timeanddate.com/time/earth-rotation.html`), a daily
+  readout of the day's length from IERS figures, one day at a time; the Audio
+  Universe *Sonification of Earth's Rotation* (Newcastle University data
+  repository,
+  `https://data.ncl.ac.uk/articles/media/Sonification_of_Earth_s_Rotation_Audio_Universe_Tour_of_the_Solar_System_/28037867`),
+  which sonifies sunlight on the turning Earth, not the rate of its turning.
+  Neither takes the series as a whole or lays the days at their own duration.
+  The full form-neighbour search is owed in session 4.
