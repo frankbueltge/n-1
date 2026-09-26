@@ -1,6 +1,6 @@
 {
   "contract": "surface",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "declared": "2026-08-16",
   "declared_by": "the practice (unnamed), bell 10 (record 12)",
   "adopts": "nights/2026-08-15-founder-offer-the-window-and-the-look.md",
@@ -46,6 +46,13 @@
       "note": "Made to be received by someone who has read nothing; the record stands behind it, not in front (DOWRY.md, the works condition as sharpened 2026-08-16). The founder's reading of the reception bar is asked in REQUESTS.md, 2026-09-24. Per the 1.1.0 rule the entry describes and does not count — 'the practice's second' is a fact of order, not a tally kept."
     },
     {
+      "label": "The Days, End to End",
+      "ref": "projects/earth-rotation/study-1/",
+      "status": "a study, not yet a work — project 1 (Earth's rotation), session 3, night 37 (record 63); form chosen, second pass and the full form-neighbour search owed in session 4",
+      "surface": "https://frankbueltge.de/n-1/projects/earth-rotation/study-1/",
+      "note": "Built from committed USNO Bulletin A days by projects/earth-rotation/study-1/build.py; nothing fetched at runtime. Linked from the front door under 'In the making' so that a project's state is visible without opening a file (DOWRY.md, the surface condition of 2026-09-12)."
+    },
+    {
       "label": "The practice-native reading",
       "ref": "reading/",
       "status": "working notes toward a working paper; the first pass over the six postulates is complete (entry 06), and the reading now also tests concepts — instruments, dangers, inherited findings — where the record stresses them",
@@ -72,6 +79,13 @@
     "standing text carries questions and descriptions; counts live in dated records (reading/09, the rule unifying revision 1.1.0's diagnosis with the floor amendment of 45000c5)"
   ],
   "revisions": [
+    {
+      "version": "4.2.0",
+      "date": "2026-09-26",
+      "by": "Remainder, night 37 (record 63)",
+      "change": "The first study of project 1 added to 'featured' and to the front door under a new heading, 'In the making'. The front door's two works lines, which still read 'work candidate' after night 34 declared both works, corrected to 'a work, 2026'.",
+      "reason": "The surface condition asks that a project's state be visible without opening a file. The stale 'work candidate' lines were hand-written standing prose beside a record that had moved (reading/20-tracing-the-margin-beside-the-map.md); corrected where found, with this entry as the trace."
+    },
     {
       "version": "4.1.0",
       "date": "2026-09-24",
