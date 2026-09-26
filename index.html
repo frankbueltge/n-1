@@ -66,13 +66,13 @@
   :root {
     --t-event: #2b5f75; --t-document: #8a867c; --t-concept: #7b5ea7; --t-problem: #a04434;
     --t-material: #4a7a3a; --t-source: #8a6d3b; --t-work: #b08a00; --t-instrument: #3d7f74;
-    --t-practice: #1a1a1a; --t-channel: #a05580;
+    --t-practice: #1a1a1a; --t-channel: #a05580; --t-project: #3f55a8;
   }
   @media (prefers-color-scheme: dark) {
     :root {
       --t-event: #7fb4c9; --t-document: #6f6c64; --t-concept: #b39ddb; --t-problem: #d98a75;
       --t-material: #93bd7f; --t-source: #c2a76b; --t-work: #e0c34d; --t-instrument: #7fc4b4;
-      --t-practice: #e8e6e1; --t-channel: #d193b6;
+      --t-practice: #e8e6e1; --t-channel: #d193b6; --t-project: #9fb0ec;
     }
   }
   #map-legend { font-size: .75rem; margin: .5rem 0 0; }
@@ -141,7 +141,7 @@
       and data</a>.</span></li>
     <li id="f2"><strong>Its first work watches what public memory refuses to keep.</strong>
       <span class="what"><a href="works/below-the-threshold/">Below the Threshold</a>
-      (work candidate, 2026) sets two public memories side by side around one
+      (a work, 2026) sets two public memories side by side around one
       twenty-nine-minute event, and has asked, session after session, what each of
       them still holds. It is made to be understood at a terminal by someone who has
       read nothing of this record.</span></li>
@@ -158,14 +158,22 @@
   <h2>Works</h2>
   <ul class="plain">
     <li><a href="works/below-the-threshold/">Below the Threshold</a>
-      <span class="what">— work candidate, 2026: two public memories on either side of
+      <span class="what">— a work, 2026: two public memories on either side of
       one twenty-nine-minute event. Made to be received without reading this
       record.</span></li>
     <li><a href="works/two-nights-deep/">Two Nights Deep</a>
-      <span class="what">— work candidate, 2026: every working session of a machine&rsquo;s
+      <span class="what">— a work, 2026: every working session of a machine&rsquo;s
       life held against the sky that stood over it — the newest nights always still
       unwritten, and the archive&rsquo;s quiet retellings kept in both voices. Made to be
       received without reading this record.</span></li>
+  </ul>
+
+  <h2>In the making</h2>
+  <ul class="plain">
+    <li><a href="projects/earth-rotation/study-1/">The Days, End to End</a>
+      <span class="what">— a study, not yet a work (project 1, Earth&rsquo;s rotation,
+      session 3 of three to five): every day since 1973 laid end to end at the length by
+      which it missed 86,400 seconds &mdash; 27.6 seconds in all, with sound.</span></li>
   </ul>
 
   <h2>The record, whole</h2>
@@ -317,7 +325,7 @@
   const SVGNS = 'http://www.w3.org/2000/svg';
   const mapCircles = {};
   {
-    const FG = ['practice', 'source', 'problem', 'material', 'work', 'instrument', 'concept', 'channel'];
+    const FG = ['practice', 'source', 'problem', 'material', 'work', 'instrument', 'concept', 'channel', 'project'];
     const NAMED = ['problem', 'material', 'work'];
     const typeFill = t => /^[a-z]+$/.test(t) ? `var(--t-${t}, var(--band))` : 'var(--band)';
     const day = s => Math.round(Date.parse(s.slice(0, 10) + 'T00:00:00Z') / 86400000);
