@@ -86,6 +86,8 @@ figs = [
     f"  intervals between them: on the axis {min(ax_gaps):.2f}-{max(ax_gaps):.2f} s; in the calendar {min(cal_gaps):.1f}-{max(cal_gaps):.1f} years",
     f"UT1-UTC zero crossings inside the used days: {len(crossings)}, since the last leap second: "
     + ", ".join(str(c) for c in crossings if c > last_leap),
+    f"consistency: change in UT1-UTC over the used days {days[-1][2]-days[0][2]:+.4f} s; "
+    f"minus the summed excess plus the leap seconds {-sum(l for _, l, _ in days)/1000 + len(leaps):+.4f} s",
     f"since the last leap second: {cal_since} of {cal_all} calendar days "
     f"({100*cal_since/cal_all:.1f} %), {t_since:.3f} s of {TOTAL:.3f} s on the axis ({100*t_since/TOTAL:.1f} %)",
 ]

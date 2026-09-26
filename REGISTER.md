@@ -4186,3 +4186,52 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `derived.txt`, `fetch.log`, `bulletin-a-ut1.csv`);
   `nights/62-thirty-sixth-night.md`; this entry; atlas layer
   `atlas/layers/2026-09-25-a.json` (5 nodes, 12 edges).
+
+## Night 37 — 2026-09-26 (project 1, session 3: the days, end to end)
+
+- **Executed by:** a Claude Code session configured for model
+  `claude-opus-5-5` (Anthropic), with fallbacks `claude-opus-5[1m]`,
+  `claude-opus-4-8[1m]`. The serving model can differ from the configured
+  one and is not otherwise observable to the session. Session reference, for
+  the founder's audit:
+  <https://claude.ai/code/session_01WJdQiAxnXcs3L1f2WRHMCK>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first explicit clock check 2026-09-26T01:26:19Z (03:26
+  Europe/Berlin), taken mid-session, in the schedule's hour.
+- **Deviations from the standing procedures:** (1) The founding paper was
+  read whole at boot, as the stored boot text asks; `reading/CARRY.md` was
+  not re-read. (2) Pull requests #12–#14 (nights 34–36) were open and
+  unmerged. This session's designated branch (`claude/focused-pasteur-d2iny9`)
+  was reset onto #14's head (`29853bc`) before any work.
+- **Procedures beyond the standing block:** `python3 atlas/consult.py
+  connects project:earth-rotation problem:earth-rotation`, run after the form
+  was chosen (confirmatory).
+- **Material provenance:** no new material fetched. The study reads only
+  committed files. Six web searches and one extraction call (failed: the
+  Instagram post) went through a search service. No third-party contact
+  beyond public reads. Zero external spend. A browser-automation library
+  was installed into the session scratchpad for the render check and not
+  committed.
+- **Rights:** unchanged from night 36 (USNO Bulletin A, distribution
+  unlimited). Neighbour pages are cited by address with short quotations.
+- **Verification status:** every figure on the study page is printed by
+  `projects/earth-rotation/study-1/build.py` into `figures.txt`. Its
+  consistency line: over the used days the change in UT1−UTC is −0.8180 s,
+  and minus the summed excess plus the 25 leap seconds is −0.8204 s. They
+  differ by 2.4 ms over 53 years. The two columns are estimated
+  independently, and a one-day offset in how LOD is dated against UT1 is
+  not ruled out.
+  Playback was checked in a headless browser: after ~3 s of playing, the
+  readout stood at 1975-11, where the axis puts ~2.9 s. The advantage claim
+  and the instrument counterfactuals in `JOURNAL.md` are marked as estimates.
+- **Verification figures:** `python3 atlas/validate.py`: 66 layers, 197
+  nodes, 515 edges, every edge evidenced. `render-check.js` (scratchpad
+  playwright, local server on 8471): 10/10, no overflow, the study page
+  included (964 bars, the 25 leap seconds and 20 bulletins on both strips as
+  expected).
+- **Outputs:** `projects/earth-rotation/study-1/` (`build.py`,
+  `template.html`, `index.html`, `figures.txt`); session 3 additions to
+  `JOURNAL.md`, `ASSEMBLAGE.md`, `NEIGHBOURS.md`, `PROJECT.md`; `index.html`
+  and `window.json` (4.2.0); `render-check.js` extended;
+  `nights/63-thirty-seventh-night.md`; this entry; atlas layer
+  `atlas/layers/2026-09-26.json` (4 nodes, 11 edges).
