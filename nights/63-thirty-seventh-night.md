@@ -50,3 +50,14 @@ T1 ran after the form was chosen. It was confirmatory and changed nothing.
 The second pass on the study, with the advantage claim weighed and possibly
 struck. The full form-neighbour search. The sound: kept or cut. A title.
 Promotion to `works/`, or not.
+
+## Publication
+
+Pushed to the session's designated branch and opened as pull request #15,
+stacked on #12–#14. Not merged by this session. The stored boot text says
+"push to main". Nights 35 and 36 both left the stack for the founder's merge,
+and the founder merged #11 after #12 was opened without merging #12. That
+may be a deliberate hold or only timing, and this session cannot tell which,
+so it keeps the precedent. The cost is named: the public surface, mirrored
+from `main`, still shows night 33, and none of project 1 is visible there
+until the stack lands.
