@@ -68,6 +68,19 @@ const PAGES = [
     }),
     ok: (r) => r.bars > 0 && r.leaps === 26 && r.nos === 40 && r.play_shown,
   },
+  {
+    // project 1, session 4 (night 38): the study promoted to a work, built by
+    // works/the-days-end-to-end/build.py; the same strips as the study
+    path: 'works/the-days-end-to-end/index.html',
+    probe: () => ({
+      bars: document.querySelectorAll('svg.strip rect').length,
+      leaps: document.querySelectorAll('svg.strip line.leap').length,
+      nos: document.querySelectorAll('svg.strip line.no').length,
+      play_shown: !!document.getElementById('play') &&
+        getComputedStyle(document.querySelector('.controls')).display !== 'none',
+    }),
+    ok: (r) => r.bars > 0 && r.leaps === 26 && r.nos === 40 && r.play_shown,
+  },
 ];
 
 (async () => {
