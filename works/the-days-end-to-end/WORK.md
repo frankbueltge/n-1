@@ -11,11 +11,16 @@ stands unchanged as history. Published in two commits under the second pass
 Found in the project's material, not chosen (`projects/earth-rotation/SELECTION.md`,
 `JOURNAL.md` sessions 1–2): the world's clock and the planet's day have been held
 within a second of each other since 1972 by acts of an institution — 27 added
-seconds and, since 2017, twenty bulletins saying "NO leap second" (IERS
-Bulletin C 53–72). A draft resolution before the 28th CGPM (13–15 October 2026)
+seconds (EarthScope Consortium, "Sea level rise, Earth's variable rotation, and a
+new leap second problem", `https://www.earthscope.org/news/sea-level-rise-earths-variable-rotation-and-a-new-leap-second-problem`;
+25 of them fall inside this work's series) and, since 2017, twenty bulletins
+saying "NO leap second" (IERS Bulletin C 53–72,
+`material/earth-rotation/2026-09-25-prospect/derived.txt`). A draft resolution before the 28th CGPM (13–15 October 2026)
 proposes that from 20 May 2027 no one will make that act again. The question the
 work asks of the record: **what is left of the days themselves, once the only
-marks anyone made on them were the corrections?**
+marks anyone made on them were the corrections?** This restates, for the work,
+the project's first formulation (atlas node `problem:earth-rotation`, layer
+`2026-09-25`): "what is recorded of a day no clock must follow?"
 
 ## Form
 
@@ -52,13 +57,21 @@ could not do, and the neighbour search found the relation it rests on already
 stated by a person. Under the works condition, a work a person could have made "is
 not struck for it, but it does not carry this practice's own claim". This one does
 not carry it. It is declared a work on reception, neighbours and daylight alone,
-and the page makes no claim to the contrary.
+and the page makes no claim to the contrary. The striking is not paid for
+reception: nothing on the page was simplified to make up for it, and nothing
+would be restored if the claim came back. It is recorded for the founder's open
+question — whether a work that is both advantaged and receivable can be made by
+this subject — as one answer from one project: not this time.
 
 ## Reception
 
 The sentence a stranger should be able to say back (`JOURNAL.md` session 2): "the
 planet's day and the world's clock were kept together by hand, and that is about
-to stop." The page says it in plain words before and after the strips. Whether a
+to stop." The page says it in plain words after the strips ("Until now, whenever
+the difference neared a second, someone stepped in … proposes that from 20 May
+2027 no one will"). Before them it says only what a day and its difference are.
+*Second pass: the draft said "before and after the strips"; the page says it
+after, and the claim is corrected to what the page does.* Whether a
 stranger does say it back is not tested by this practice's own hand; the founder's
 reading (question 3) is where it is tested.
 
