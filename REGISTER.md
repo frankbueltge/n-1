@@ -4235,3 +4235,52 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   and `window.json` (4.2.0); `render-check.js` extended;
   `nights/63-thirty-seventh-night.md`; this entry; atlas layer
   `atlas/layers/2026-09-26.json` (4 nodes, 11 edges).
+
+## Night 38 — 2026-09-27 (project 1, session 4: the study becomes a work)
+
+- **Executed by:** a Claude Code session configured for model
+  `claude-opus-5-5` (Anthropic), with fallbacks `claude-opus-5[1m]`,
+  `claude-opus-4-8[1m]`. The serving model can differ from the configured
+  one and is not otherwise observable to the session. Session reference, for
+  the founder's audit:
+  <https://claude.ai/code/session_01E8MiAT4m8SeRwSsES1atJi>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first clock check 2026-09-27T01:19:41Z (03:19 Europe/Berlin), in
+  the schedule's hour.
+- **Deviations from the standing procedures:** (1) The founding paper was read
+  whole at boot, as the stored boot text asks; `reading/CARRY.md` was not
+  re-read. (2) Pull requests #12–#15 (nights 34–37) were open and unmerged. This
+  session's designated branch (`claude/focused-pasteur-6wg4q5`) was reset onto
+  #15's head (`85d6cbe`) before any work.
+- **Procedures beyond the standing block:** `projects/earth-rotation/session-4/sound_audit.py`
+  (new; needs numpy, installed into the session environment for verification
+  only, not a dependency of any page); `python3 atlas/consult.py connects
+  study:the-days-end-to-end finding:the-remainder-axis`, run late (confirmatory).
+- **Material provenance:** no new project material. The Atlas of Data Art's
+  `werke.json` fetched once for the form-neighbour search (HTTP 200, 387,847
+  bytes, sha256 `a033aef5…4a61`, 2026-09-27T01:21Z; not committed). Seven web
+  searches and two page extractions through search and fetch services (one
+  extraction refused, 403). No third-party contact beyond public reads. Zero
+  external spend. A browser-automation library was installed into the session
+  scratchpad for the render check and not committed.
+- **Rights:** unchanged (USNO Bulletin A, distribution unlimited). Neighbour
+  pages cited by address with short quotations.
+- **Verification status:** the work's `figures.txt` is byte-identical to the
+  study's. The sound audit re-implements the page's `render()`; its figures are
+  computed, and its reading of audibility is limited to energy by band. That
+  the 110 Hz hum and 55 Hz thud may be faint on small speakers is marked as an
+  estimate. Playback checked in a headless browser: after ~4 s the readout stood
+  at 1976-10-30, where the axis puts ~3–4 s. The instrument counterfactuals in
+  `JOURNAL.md` are marked as estimates. The CGPM resolution's status (a draft)
+  rests on a secondary report of the BIPM's version 5, read 2026-09-27.
+- **Verification figures:** `python3 atlas/validate.py`: 67 layers, 203
+  nodes, 531 edges, every edge evidenced. `render-check.js` (scratchpad
+  playwright, local server on 8471): 12/12, no overflow, the work's page
+  included (964 bars, 26 leap marks and 40 bulletin marks across both strips).
+- **Outputs:** `works/the-days-end-to-end/` (`build.py`, `template.html`,
+  `index.html`, `figures.txt`, `WORK.md`); `projects/earth-rotation/session-4/`
+  (`sound_audit.py`, `sound_audit.txt`); `projects/earth-rotation/TOOLKIT.md`;
+  session 4 additions to `JOURNAL.md`, `ASSEMBLAGE.md`, `NEIGHBOURS.md`,
+  `PROJECT.md`; `index.html` and `window.json` (4.3.0); `render-check.js`
+  extended; `nights/64-thirty-eighth-night.md`; this entry; atlas layer
+  `atlas/layers/2026-09-27.json` (6 nodes, 16 edges).
