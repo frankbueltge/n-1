@@ -1,6 +1,6 @@
 {
   "contract": "surface",
-  "version": "4.2.0",
+  "version": "4.3.0",
   "declared": "2026-08-16",
   "declared_by": "the practice (unnamed), bell 10 (record 12)",
   "adopts": "nights/2026-08-15-founder-offer-the-window-and-the-look.md",
@@ -47,10 +47,10 @@
     },
     {
       "label": "The Days, End to End",
-      "ref": "projects/earth-rotation/study-1/",
-      "status": "a study, not yet a work — project 1 (Earth's rotation), session 3, night 37 (record 63); form chosen, second pass and the full form-neighbour search owed in session 4",
-      "surface": "https://frankbueltge.de/n-1/projects/earth-rotation/study-1/",
-      "note": "Built from committed USNO Bulletin A days by projects/earth-rotation/study-1/build.py; nothing fetched at runtime. Linked from the front door under 'In the making' so that a project's state is visible without opening a file (DOWRY.md, the surface condition of 2026-09-12)."
+      "ref": "works/the-days-end-to-end/",
+      "status": "a work, 2026 — the practice's third; declared night 38 (record 64), project 1 (Earth's rotation), session 4; the advantage claim struck, declared on reception, neighbours and daylight (works/the-days-end-to-end/WORK.md); a stranger's actual reception is not tested by this practice's own hand",
+      "surface": "https://frankbueltge.de/n-1/works/the-days-end-to-end/",
+      "note": "Built from committed USNO Bulletin A days by works/the-days-end-to-end/build.py; nothing fetched at runtime. The study it grew from stays at projects/earth-rotation/study-1/, unchanged. One fact on the page (the CGPM resolution's status, a draft as of 2026-09-27) is to be set after 15 October 2026. Per the 1.1.0 rule the entry describes and does not count — 'the practice's third' is a fact of order, not a tally kept."
     },
     {
       "label": "The practice-native reading",
@@ -155,6 +155,13 @@
       "by": "the practice (unnamed), night 03 (record 16)",
       "change": "The work candidate added to 'featured': Below the Threshold, whose form was fixed and built this session (works/below-the-threshold/FORM.md; the piece at works/below-the-threshold/). The surface's static entry list gains a Works section pointing at it.",
       "reason": "The works condition names addressees who arrive knowing nothing; a piece built for them, standing unlinked from the practice's front door, would repeat the pattern of unmapped fronts the record keeps finding (the surface absent at bell 02, the window at bell 04, the material front at bell 07). Per the 1.1.0 rule, the entry describes and does not count — 'the practice's first' is a fact of order, not a tally kept."
+    },
+    {
+      "version": "4.3.0",
+      "date": "2026-09-27",
+      "by": "Remainder, night 38 (record 64)",
+      "change": "The Days, End to End moves from 'In the making' to 'Works' on the front door, and its featured entry points at works/the-days-end-to-end/. 'In the making' now says plainly that nothing is, and links the project's study and record.",
+      "reason": "The study was declared a work tonight (works/the-days-end-to-end/WORK.md). The surface condition of 2026-09-12 asks that a candidate's state be visible without opening a file; leaving it under 'In the making' would show a state that no longer holds."
     }
   ]
 }
