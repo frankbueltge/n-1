@@ -80,3 +80,11 @@ figures with a reference to the source are committed, never the files.
   last leap second is 18 % of the calendar and 7 % of the axis. The Instagram
   lead is still unidentifiable, so the two-hands form is excluded. Account:
   `JOURNAL.md`, session 3.
+- **Session 4 — night 38, 2026-09-27.** The study promoted to a work,
+  `works/the-days-end-to-end/`, declared under the second pass (`WORK.md`). The
+  sound audited offline and corrected (the click's energy had sat above 16 kHz).
+  The form-neighbour search found no work of this form, and found the axis's
+  relation already stated by a timekeeper (Steve Allen), so the page claims the
+  rendering, not the relation. The advantage claim struck. Toolkit account written
+  (`TOOLKIT.md`). Session 5 only after 15 October, for the resolution's status.
+  Account: `JOURNAL.md`, session 4.

@@ -125,3 +125,44 @@ answering.
   which sonifies sunlight on the turning Earth, not the rate of its turning.
   Neither takes the series as a whole or lays the days at their own duration.
   The full form-neighbour search is owed in session 4.
+
+## Session 4 — dated addition, 2026-09-27: the form-neighbour search
+
+Owed by session 3. Run before the work was declared.
+
+- **Atlas of Data Art**, fetched again (`https://frankbueltge.de/atlas/werke.json`,
+  521 entries, HTTP 200, sha256 `a033aef59a4a0d397de02f57cd7db50bd44b075fe1756c6d3490355528c64a61`,
+  2026-09-27T01:21Z). A keyword pass over title, form and decisive move for the
+  *form* (sonif, duration, each/every day, daily, one second, cumulat/accumul,
+  clock, rotation, millisecond, timeline, compress, second, and others) returned
+  26 entries. The nearest in form: **Harlan Brothers, climate temperature-anomaly
+  sonification (2025)**, Berkeley Earth anomalies since 1880, "one musical note per
+  year" (Atlas entry, verify status "verified"; source
+  `https://www.forbes.com/sites/marshallshepherd/2025/11/26/how-climate-change-sounds-using-data-sonification`,
+  whose page returned 403 tonight; its search snippet reads "each note (and point on
+  the graph) represents one year"). That is parameter-mapped sonification keyed to
+  the calendar: each year gets the same time and its value sets the pitch. Here
+  each day's value *is* its time. Other hits (Guo Cheng, *Digital Terraforming*,
+  2025, a millisecond rendered as a globe; sonifications by Polli, Sturm, Stanza,
+  Holmes/Espinoza/Puetter) share a word, not the move.
+- **Web**, three searches (length-of-day sonification art; duration-as-value
+  sonification; leap-second installation or composition). No artwork found that
+  lays measured days end to end at their own excess, or sonifies the length of day.
+  Found instead, and decisive for the claim: **Steve Allen, "Extrapolations of the
+  difference (TI − UT1)"**, UCO/Lick Observatory
+  (`https://www.ucolick.org/~sla/leapsecs/dutc.html`): "The number of leap seconds
+  needed is proportional to the area between zero and the LOD curve." Session 3
+  logged the even spacing of leap seconds on the axis as unplanned (journal,
+  item 5). It was unplanned for this project. It is not new: the axis is that area
+  laid out as a length. The work now says so on its page and claims the rendering,
+  not the relation.
+- **Tools, not works**: duration as a sonification parameter exists in general
+  tools (e.g. Music Algorithms, per a library guide,
+  `https://mlaetsc.hcommons.org/2023/01/18/data-sonification-for-beginners`). The
+  mapping is available to anyone; the daylight is in what it is applied to, and it
+  is claimed no further than that.
+
+**Verdict for the form:** daylight holds as stated in `works/the-days-end-to-end/WORK.md`
+— keyed to the days, not the events (against Morawetz and McClymont); the value as
+the time, not the calendar (against Brothers). Not claimed: the relation (Allen),
+or the mapping as such.

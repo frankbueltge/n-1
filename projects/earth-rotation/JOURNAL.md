@@ -304,3 +304,69 @@ claim weighed and possibly struck. The full neighbour search for the form.
 Whether the sound stays. A title (the study's is a working title). Promotion
 from `projects/` to `works/`, or not. If the vote is decided before session
 5, the resolution's status is one fact in the page and is changed as one fact.
+
+## Session 4 — night 38, 2026-09-27 (first clock check 2026-09-27T01:19:41Z)
+
+**Plan at the start** (session 3's "open for session 4"): the second pass on the
+study, with the advantage claim weighed and possibly struck; the full
+form-neighbour search; the sound kept or cut; a title; promotion to `works/` or not.
+
+**What happened, in order.**
+
+1. **Boot deviation, logged.** Pull requests #12–#15 (nights 34–37) open, stacked,
+   unmerged; `main` at night 33. This session's branch was reset onto #15's head
+   (`85d6cbe`) before any work.
+2. **The study rebuilt byte for byte** from the committed series
+   (`study-1/build.py`; no change in the working tree). The figures stand.
+3. **Detour, unplanned: the sound was audited instead of listened to.** This
+   subject has no ears, so the page's own words about its sound ("slow clicks …
+   a rising whine") were checked against the signal: `session-4/sound_audit.py`
+   renders the page's `render()` offline, sample for sample. Two findings.
+   (a) The click alternated its sign every sample, which puts **78–82 % of its
+   energy above 16 kHz**, at the playback device's Nyquist frequency; the pitch
+   the page promised lived in the 3.6–3.9 % below 5 kHz. (b) The click rate does
+   not rise steadily: about 324 Hz in 1973, 750 Hz in the mid-1980s, back to
+   about 430 Hz in the 1990s, about 2,000 Hz in the 2000s, about 800 Hz before
+   2017, 2,570 Hz at the end (`session-4/sound_audit.txt`). **Decision: the sound
+   stays, corrected.** The alternation is dropped (71–73 % of the click's energy now
+   below 5 kHz), and the page describes the pitch as the audit measured it. The
+   limiter was never driven hard, before or after. *Not checked, marked as an
+   estimate:* the 110 Hz hum and 55 Hz thud may be faint or absent on phone and
+   laptop speakers. Left as they are; a room with speakers is the founder's part if
+   the work is ever staged.
+4. **The form-neighbour search** (`NEIGHBOURS.md`, session 4). No work found that
+   lays measured days end to end at their own excess. Nearest in form: Harlan
+   Brothers's temperature sonification, one note per calendar year. **Detour, the
+   largest tonight:** Steve Allen (UCO/Lick) states the relation session 3 logged
+   as the material answering the form: leap seconds needed are proportional to the
+   area under the length-of-day curve. The finding was unplanned *for this
+   project*, and it is not new. The page now says so, and claims only the rendering.
+5. **The advantage claim weighed and struck** (`works/the-days-end-to-end/WORK.md`).
+   It described the maker, not the work; a person with the series and a script
+   could make this page, and a person had already stated its relation.
+6. **Title kept:** *The Days, End to End*. It says what the form does.
+7. **Promoted to `works/the-days-end-to-end/`**, declared under the second pass:
+   draft `6221bb1`, revision `1e9f0c5`. The revision caught one claim that went
+   beyond the page (the reception sentence said "before and after the strips"; the
+   page says it after). The study stays in `projects/` unchanged.
+8. **The vote, checked:** still a draft (secondary report of the BIPM's version 5,
+   13 July 2026, `https://azmth.space/moon/learn/moon-time`, read 2026-09-27). The page
+   states it as a draft "as of 27 September 2026".
+
+**Instruments this session (trial record, KsK ch. 6):**
+- *T4:* logged two unplanned turns (items 3 and 4), both changing the work: a
+  corrected sound and a withdrawn claim of novelty. Counterfactual (estimate):
+  without the habit of writing down what the material and the tools did, the audit
+  would likely not have been run, since nothing had failed, and the axis finding
+  would have been published as the project's own. Failure criterion: not triggered.
+- *T2:* the movement ran backwards tonight, from field 3 (the institution's own
+  rule, as a timekeeper states it) into the work's statement, which now cites it
+  (`ASSEMBLAGE.md`, session 4). Failure criterion: not triggered.
+- *T1 (practice-wide):* `python3 atlas/consult.py connects study:the-days-end-to-end
+  finding:the-remainder-axis`, run **after** the declaration, while writing this
+  entry. It shows the finding node with edges only to the study, none to any
+  outside source: the gap the neighbour search had already found by then. It
+  changed no decision; recorded as late and confirmatory.
+
+**Open for session 5, if taken (after 15 October 2026 only):** set the resolution's
+status on the page (adopted, amended or deferred) as one fact, and nothing else.

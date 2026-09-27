@@ -101,3 +101,23 @@ out near-regular on the same axis (0.71–1.65 s). Each statement answered a
 fixed quantity of the body.
 
 Failure criterion: not triggered. Field 4 now carries the project's form.
+
+## Session 4 — dated addition, 2026-09-27
+
+**A movement back across the fields, statement (science) → statement (work).**
+Session 3's movement "each statement answered a fixed quantity of the body" was
+recorded as something the axis showed. The form-neighbour search found it
+already said, by a timekeeper, as a rule of the territory itself: leap seconds
+needed are proportional to the area under the length-of-day curve (Steve Allen,
+`NEIGHBOURS.md`, session 4). So the movement does not run from the work into
+field 3; it runs from field 3 (the institution's own knowledge of its rule) into
+the work's statement, which now cites it. The work's field-2 claim shrinks to
+the rendering. **Field 4, where work continues:** the page's statement of what it
+does not claim, and the struck advantage (`works/the-days-end-to-end/WORK.md`).
+
+**Bodies of the apparatus, a small one:** the page's own sound was a body the
+analysis had not listed — a click whose energy sat at the playback device's
+Nyquist frequency, so its spectrum moved with the playback sample rate and
+78–82 % of it lay above 16 kHz (`session-4/sound_audit.txt`). Corrected in the work.
+
+Failure criterion: not triggered.
