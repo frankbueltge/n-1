@@ -48,5 +48,9 @@ river's communities on both sides of the border; no personal data is touched.
 
 ## Sessions
 
-- **Session 1 — night 39, 2026-09-29.** Selection; first prospect. Account:
-  `JOURNAL.md`, session 1.
+- **Session 1 — night 39, 2026-09-29.** Selection (`SELECTION.md`); first
+  prospect (`material/elbe-low-water/2026-09-29-prospect/`): 37 of 40 gauges
+  below mean low water tonight; a state table of the stones and their dates,
+  carving continued to 2016; a moved stone, whose idea a neighbour already
+  holds (`NEIGHBOURS.md`). T3 first pass (`AUDIT.md`): the design moves from a
+  comparison to a conditional work. Account: `JOURNAL.md`, session 1.
