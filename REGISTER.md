@@ -4284,3 +4284,58 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   `PROJECT.md`; `index.html` and `window.json` (4.3.0); `render-check.js`
   extended; `nights/64-thirty-eighth-night.md`; this entry; atlas layer
   `atlas/layers/2026-09-27.json` (6 nodes, 16 edges).
+
+## Night 39 — 2026-09-29 (project 2 opened: the Elbe at low water)
+
+- **Executed by:** a Claude Code session configured for model
+  `claude-opus-5-5` (Anthropic), with fallbacks `claude-opus-5[1m]`,
+  `claude-opus-4-8[1m]`. The serving model can differ from the configured
+  one and is not otherwise observable to the session. Session reference, for
+  the founder's audit:
+  <https://claude.ai/code/session_015ASGV546SvSzkfdzka5QyN>.
+  **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** first clock check 2026-09-29T01:19:49Z (03:19 Europe/Berlin), in
+  the schedule's hour. No session is recorded for 2026-09-28.
+- **Deviations from the standing procedures:** (1) The founding paper was read
+  whole at boot, as the stored boot text asks; `reading/CARRY.md` was read in
+  full. Of the atlas layers and nights, the newest and those the night's work
+  needed were read, not all. (2) Pull requests #12–#16 (nights 34–38) were open
+  and unmerged; the session's branch was first cut from `main` (night 33) and
+  was reset onto #16's head (`7583f3a`) before any work.
+- **Procedures beyond the standing block:** `python3 atlas/consult.py
+  connects problem:below-the-threshold` (before the problem was written);
+  `material/elbe-low-water/2026-09-29-prospect/derive.py` (new). A PDF text
+  extractor (pdfminer.six, with cffi) was installed into the session
+  environment to read the stones table; not a dependency of anything
+  committed.
+- **Material provenance:** PEGELONLINE (WSV / ITZBund) REST service: all Elbe
+  stations with current readings and characteristic values, and 31 days of
+  15-minute water levels at Dresden and Schöna, fetched 01:21Z, committed
+  under DL-DE->Zero-2.0 (terms "Stand: 21.05.2024", read 01:21:42Z). The Saxon
+  state table "Hungersteine und Untiefen der Elbe" (LHWZ Sachsen, compiled by
+  Senckenberg Dresden, status 24.07.2018), fetched 01:22:02Z, sha256
+  `d866b26e…e458`, **not committed**; dates and distances carried in
+  `stones-excerpt.txt` with the reference. The Atlas of Data Art's
+  `werke.json` fetched once for criterion 6 (sha256 `a033aef5…4a61`, not
+  committed). Six reachability checks (status and size only). Four web
+  searches and two page reads through search and fetch services. No
+  third-party contact beyond public reads. Zero external spend.
+- **Rights:** gauge data DL-DE->Zero-2.0. The stones table's reuse terms were
+  not found; only facts are carried, with citation. Neighbour pages cited by
+  address with short quotations. Affected publics named in the prospect.
+- **Verification status:** all figures in `derived.txt` are computed from the
+  committed files by `derive.py`. The readings are the provider's raw data.
+  Three stones' rows in the extracted table are assigned by text order only
+  and marked so. Two neighbour pages were read through a fetch service that
+  summarises; their quoted phrases are the service's report of the page, not
+  checked against the raw HTML — marked as an estimate until session 2 reads
+  them directly. A press claim about a 2019 plaque at 60 cm is not verified
+  and not used. The counterfactuals in `JOURNAL.md` are estimates.
+- **Verification figures:** `python3 atlas/validate.py`: 68 layers, 210
+  nodes, 543 edges, every edge evidenced. `render-check.js` (scratchpad
+  playwright, local server on 8471): 12/12, no overflow.
+- **Outputs:** `projects/elbe-low-water/` (`SELECTION.md`, `PROJECT.md`,
+  `JOURNAL.md`, `NEIGHBOURS.md`, `AUDIT.md`);
+  `material/elbe-low-water/2026-09-29-prospect/`; `index.html` and
+  `window.json` (4.4.0); `nights/65-thirty-ninth-night.md`; this entry; atlas
+  layer `atlas/layers/2026-09-29.json` (7 nodes, 12 edges).
