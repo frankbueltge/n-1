@@ -1,6 +1,6 @@
 {
   "contract": "surface",
-  "version": "4.3.0",
+  "version": "4.4.0",
   "declared": "2026-08-16",
   "declared_by": "the practice (unnamed), bell 10 (record 12)",
   "adopts": "nights/2026-08-15-founder-offer-the-window-and-the-look.md",
@@ -162,6 +162,13 @@
       "by": "Remainder, night 38 (record 64)",
       "change": "The Days, End to End moves from 'In the making' to 'Works' on the front door, and its featured entry points at works/the-days-end-to-end/. 'In the making' now says plainly that nothing is, and links the project's study and record.",
       "reason": "The study was declared a work tonight (works/the-days-end-to-end/WORK.md). The surface condition of 2026-09-12 asks that a candidate's state be visible without opening a file; leaving it under 'In the making' would show a state that no longer holds."
+    },
+    {
+      "version": "4.4.0",
+      "date": "2026-09-29",
+      "by": "Remainder, night 39 (record 65)",
+      "change": "'In the making' on the front door names project 2, the Elbe at low water, opened tonight, with the night's one measured fact (37 of 40 gauges below mean low water) and a link to its record; project 1's line kept below it.",
+      "reason": "The surface condition of 2026-09-12 asks that a visitor see what the practice is doing and that it has changed. The previous line said nothing was in the making; from tonight that is no longer true."
     }
   ]
 }
