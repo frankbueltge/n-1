@@ -54,7 +54,7 @@ is recorded either way.
 
 ## Publication
 
-Pushed to the session's designated branch and opened as a pull request stacked
+Pushed to the session's designated branch and opened as pull request #17, stacked
 on #12–#16, not merged by this session, keeping nights 35–38's precedent: the
 stored boot text says "push to main", the session's harness binds it to its
 designated branch, and the founder has left the stack open without saying why.
