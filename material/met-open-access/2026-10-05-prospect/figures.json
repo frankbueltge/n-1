@@ -1,6 +1,15 @@
 {
  "objects": 484956,
  "inverted": 205,
+ "width_quantiles": {
+  "0.1": 0,
+  "0.25": 0,
+  "0.5": 10,
+  "0.75": 99,
+  "0.9": 200,
+  "0.99": 870
+ },
+ "non_negative_width_n": 484751,
  "zero_zero": 1231,
  "width_zero": 157669,
  "width_eq_9": 12338,

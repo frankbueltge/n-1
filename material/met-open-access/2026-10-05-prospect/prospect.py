@@ -13,6 +13,9 @@ inv = [r for r in rows if r[4] < r[3]]
 out['inverted'] = len(inv)
 ok = [r for r in rows if r[4] >= r[3]]
 W = [r[4]-r[3] for r in ok]
+Ws = sorted(W)
+out['width_quantiles'] = {str(q): Ws[int(q*(len(Ws)-1))] for q in (.1,.25,.5,.75,.9,.99)}
+out['non_negative_width_n'] = len(W)
 out['zero_zero'] = sum(1 for r in ok if r[3] == 0 and r[4] == 0)
 out['width_zero'] = sum(1 for w in W if w == 0)
 # widths that are one short of a round span: a calendar convention (e.g. 1700-1799), not a measurement
