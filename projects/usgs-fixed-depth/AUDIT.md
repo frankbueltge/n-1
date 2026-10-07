@@ -13,3 +13,11 @@ propagation direction is untested, recorded as open, not as passed.
 for 96 % of decreed rows.
 **Failure criterion:** audit ends in "more measurement" or a one-sided balance. Status: not triggered in demand; one-sided in
 balance, flagged.
+
+## Second pass — 2026-10-07 (night 47)
+
+**Translation balance, striated -> smooth.** Tested where the snapshot allows: if a decreed depth were later replaced by a
+measured one, review status or the update lag should differ between decided and solved events. They do not: 100 % reviewed both,
+median 71 days both (`session2.json`). So the propagation direction is **not shown** in this material; it is not shown absent
+either, since one snapshot holds one version per event. Balance remains one-sided for what can be seen. Failure criterion: not
+triggered in demand; one-sided balance stands and is flagged again, with the reason (one version per event).

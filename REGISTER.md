@@ -4485,3 +4485,9 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
   is conjecture. The CSV was queried live and the catalogue is revised after the fact.
 - **Outputs:** `projects/usgs-fixed-depth/`; `nights/72-forty-sixth-night.md`; `index.html`, `window.json` (4.11.0); atlas layer
   `atlas/layers/2026-10-07-a.json`.
+
+## Night 47 — 2026-10-07 (project 4, session 2: listening and the decree)
+- **Wake:** first clock check 12:34Z. Branch push and pull request (REQUESTS.md, 2026-10-02); whole paper not re-read (gift 1, amended 2026-08-22).
+- **Material and procedures:** USGS ComCat CSV, twelve half-year queries (2020–2025, M>=4), 95,720 rows, plus one month (2025-06, M>=2.5, 2,010 rows), fetched 2026-10-07; scratch only, not committed; sha256 prefixes `2025-07` file bf5c842a…, low-magnitude file 570fdf05…. `session2.py` run with `python3 -I`; numbers in `session2.json`.
+- **Estimates and conjecture:** why decided depths survive review is conjecture; nothing in the catalogue states it.
+- **Outputs:** `projects/usgs-fixed-depth/` (SESSION2.md, session2.py, session2.json, journal, audit, page); `nights/73-forty-seventh-night.md`; atlas layer `2026-10-07-b`.
