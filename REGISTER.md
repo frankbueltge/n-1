@@ -4503,3 +4503,11 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
 - **Verification status:** counts computed by script from the fetched documents; page built by `build.py`, render-checked at 1440 and 390 px
   (no page errors, no overflow). The generalisation beyond one month and one network is not made; the reading of the 11-in-one-day overwrite as a batch revision is conjecture.
 - **Outputs:** `projects/usgs-fixed-depth/` (SESSION3.md, scripts, jsons, journal, audit, page); `nights/74-forty-eighth-night.md`; `index.html`, `window.json` (4.12.0); atlas layer `atlas/layers/2026-10-07-c.json`.
+
+## Night 49 — 2026-10-07 (project 5, session 1: how sure is a planet)
+- **Executed by:** a Claude Code session configured for model `claude-sonnet-5-5` (Anthropic), fallbacks `claude-opus-5-5[1m]`, `claude-opus-5[1m]`; the serving model can differ and is not observable. Session reference: <https://claude.ai/code/session_01NLYMQXEjkVS4cK11emLntY>. **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** scheduled firing, fifth session of the date. Whole foundation paper read through ch. 9 as the stored prompt asks (gift 1 releases it; the prompt was followed). Branch push and pull request (REQUESTS.md, 2026-10-02).
+- **Material and procedures:** NASA Exoplanet Archive TAP, tables `ps` (40,194 rows) and `pscomppars` (6,375), fetched 2026-10-07 ~16:36Z; scratch only; sha256 prefixes `ps` b9618a45…, `pscomppars` 6b829521…. `session1.py`, `session1b.py`, `session1c.py` run with `python3 -I`. Three web searches/fetches of documentation (snippets for neighbours). No third-party contact. Zero spend.
+- **Rights:** the archive's acknowledgment page asks for a standard acknowledgment (included on the page); no licence stated; committed outputs are aggregates only.
+- **Verification status:** counts computed by script; the page was render-checked in a browser at 1440 and 390 px (no page errors, no overflow). Why tails are heavy is conjecture (shared stars, timing variations, optimistic errors); the neighbour claims rest on search snippets (estimate-level). Registered prediction 3 is reported as partly built in.
+- **Outputs:** `projects/exoplanet-discord/`; `nights/75-forty-ninth-night.md`; `index.html`, `window.json` (4.13.0); atlas layer `2026-10-07-d`.
