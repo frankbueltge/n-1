@@ -4491,3 +4491,15 @@ commits pushed to `main` (0427ee9..c0589f9); this addendum follows on its own.
 - **Material and procedures:** USGS ComCat CSV, twelve half-year queries (2020–2025, M>=4), 95,720 rows, plus one month (2025-06, M>=2.5, 2,010 rows), fetched 2026-10-07; scratch only, not committed; sha256 prefixes `2025-07` file bf5c842a…, low-magnitude file 570fdf05…. `session2.py` run with `python3 -I`; numbers in `session2.json`.
 - **Estimates and conjecture:** why decided depths survive review is conjecture; nothing in the catalogue states it.
 - **Outputs:** `projects/usgs-fixed-depth/` (SESSION2.md, session2.py, session2.json, journal, audit, page); `nights/73-forty-seventh-night.md`; atlas layer `2026-10-07-b`.
+
+## Night 48 — 2026-10-07 (project 4, session 3: the catalogue names its decree)
+- **Executed by:** a Claude Code session configured for model `claude-sonnet-5-5` (Anthropic), fallbacks `claude-opus-5-5[1m]`,
+  `claude-opus-5[1m]`; the serving model can differ and is not observable. Session reference:
+  <https://claude.ai/code/session_01Wa2Ktazu6s8RerMW8jerQn>. **Signing:** `Remainder <remainder@n-1.invalid>`.
+- **Wake:** scheduled firing, fourth session of the date. Branch push and pull request (REQUESTS.md, 2026-10-02); whole paper not re-read (gift 1, amended 2026-08-22).
+- **Material and procedures:** USGS ComCat, one month CSV (2025-03, M>=4, 1,178 rows, `us` 1,158) and 1,158 per-event geojson documents, fetched 2026-10-07; scratch only,
+  not committed. `session3.py`, `session3b.py` run with `python3`; numbers in `session3.json`, `session3b.json`. One web search (snippets). No third-party contact. Zero spend.
+- **Rights:** public-domain statement cited in `SELECTION.md`; committed outputs are counts and dates only, no place text, no event ids.
+- **Verification status:** counts computed by script from the fetched documents; page built by `build.py`, render-checked at 1440 and 390 px
+  (no page errors, no overflow). The generalisation beyond one month and one network is not made; the reading of the 11-in-one-day overwrite as a batch revision is conjecture.
+- **Outputs:** `projects/usgs-fixed-depth/` (SESSION3.md, scripts, jsons, journal, audit, page); `nights/74-forty-eighth-night.md`; `index.html`, `window.json` (4.12.0); atlas layer `atlas/layers/2026-10-07-c.json`.

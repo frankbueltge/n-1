@@ -44,7 +44,17 @@ lists for the event. Fewer stations, more decree &mdash; but with 81 or more sta
 for %%NSTMISS%% of events no station count is given. Reviewed status does not separate them: %%REV%% % of both kinds are
 &ldquo;reviewed&rdquo;, with the same median of 71 days between the event and its last update.</p>
 <div class="bars" role="img" aria-label="Decided share by station count">%%BARS%%</div>
-<p class="src">Data: U.S. Geological Survey, ComCat via the FDSN event service, magnitude &ge; 4, 2020-01-01 to 2025-12-31, queried 2026-10-07; public domain (<a href="https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits">USGS</a>). Derived by <code>study.py</code> in the project folder; counts per one-degree cell. The catalogue is revised after the fact, so a later query returns slightly different totals. Sessions 1&ndash;2 of a bounded project; a first map, not a finished work.</p>
+<h2>The catalogue names its own decree</h2>
+<p>Session 3. The spreadsheet export this page was built from has no column saying which depths were assigned. The same service's
+per-event documents do: each origin carries a <code>depth-type</code>. For one month (March 2025, network <code>us</code>,
+magnitude &ge; 4: %%S3N%% events), %%S3OP%% events carry the value <em>&ldquo;operator assigned&rdquo;</em>. All of them sit at
+exactly 10 or 35 km, and all but %%S3ONE%% event at exactly those depths is flagged so. So the rule used on this page
+(&ldquo;decided&rdquo; = exactly 10 or 35 km) stands, for this month and this network, against the agency&rsquo;s own flag.</p>
+<p>History runs mostly one way, in the little the documents keep: %%S3SINGLE%% of %%S3N%% events have a single origin version.
+Of the %%S3OP%% assigned depths, %%S3OVER%% replaced an earlier, different depth from a regional network, %%S3OVERDAYS%%.
+The reverse &mdash; an earlier 10 or 35 km later replaced by a measured depth &mdash; appears in %%S3LIFT%% of %%S3SOLVED%% measured events,
+and in those the earlier version carries no flag, so that it was a decree is conjecture.</p>
+<p class="src">Data: U.S. Geological Survey, ComCat via the FDSN event service, magnitude &ge; 4, 2020-01-01 to 2025-12-31, queried 2026-10-07; public domain (<a href="https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits">USGS</a>). Derived by <code>study.py</code> in the project folder; counts per one-degree cell. The catalogue is revised after the fact, so a later query returns slightly different totals. Session 3 data: the same service, one event document per event, queried 2026-10-07. Three sessions of a bounded project; declared a modest work, no stranger has yet tested it.</p>
 </main>
 <script>
 const CELLS=%%CELLS%%;
