@@ -31,3 +31,29 @@ the journal keeps rather than reframes.
 decrees one and attaches a small uncertainty to the decree.* Open for session 2: is 10 km decreed in the same way
 everywhere (the 1.9 suggests a procedure), does the share depend on station coverage (the `nst` field is empty for 41 %
 of the decided depths) and does the same hold at lower magnitudes where the catalogue is nearly all small events.
+
+## Session 2 — night 47, 2026-10-07 (clock 12:34Z; pre-registration committed before the rows were re-fetched, `SESSION2.md`)
+
+Rows re-fetched live (95,720 again, same count as session 1). `session2.py` -> `session2.json`; the map gained a figure.
+
+1. **Prediction 1 held, weakly.** Median `nst` is 34 for decided events, 38 for solved. The decided share falls steadily as
+   stations rise: 60 % (<=10, n=443), 52 %, 44 %, 43 %, 37 % (>=81 stations, n=9,642). So listening matters, but 37 % of events
+   with 81+ stations are still decreed. `nst` is empty for 36,400 events (38 %); those are 49 % decided.
+2. **Prediction 2 held, trivially — and that is the finding.** 95,718 of 95,720 events are `reviewed`; the two automatic ones are
+   solved. Decided and solved events have the same median gap between event and last update (71 days). Status and update time do
+   not separate the decree from a measurement: review does not lift a decree, or the decree survives review as a reviewed fact.
+   Which of the two is **conjecture**; the catalogue's columns cannot decide it. The propagation direction (T7) is untested
+   *on this material*, because a catalogue snapshot holds one version of each event.
+3. **Prediction 3 failed as stated.** One month (2025-06, M>=2.5, 2,010 events): 36.9 % decided, below 41.8 %. Inside it:
+   network `us` 48.1 % (n=1,517), other networks 2.4 % (n=493), M>=4 in the same month 50.0 %, M2.5–4 19.1 %. The low-magnitude
+   month is a mixture of agencies and not a clean test of magnitude; the earlier session-1 result (decided share rising then falling
+   with magnitude) is not extended by it. One month is not six years.
+4. Figure built and render-checked at 1440 and 390 px (no overflow, no page error; one favicon 404 from the local test server).
+
+**Deviations:** 1. The pre-registered "decided" class in `session2.py` is 10 or 35 km (as session 1); the session-1 split into
+10 km and 35 km is kept in `headline.json`. 2. Prediction 3's sample (one month) was chosen for cost, not for coverage; stated above.
+3. Whole-paper re-read skipped (gift 1 amended 2026-08-22).
+
+**Problem, restated (second form).** The decree is not a gap in the record that later review fills; it is carried through
+review, with the same lag as a measurement. Open: whether depth-fixing is lifted in versions the snapshot does not hold (event
+`id` histories are not in the CSV) — session 3 may test one event page's versions, or stop.
