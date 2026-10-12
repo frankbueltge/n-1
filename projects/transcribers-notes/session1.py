@@ -1,14 +1,14 @@
 """Project 7, session 1: test the six registered predictions (SELECTION.md).
 
-Usage: python3 session1.py <scratch_dir> [exclude.json]
+Usage: python3 session1.py <scratch_dir> [verify.json]
 Reads sample.json and <scratch_dir>/txt/pg<n>.txt; writes session1.json (or session1_verified.json
-when an exclude file of pairs struck by reading is given) and pairs.json.
+when a verify file (pairs struck or repaired by reading) is given) and pairs.json.
 Patterns are those registered in SELECTION.md, written out here.
 """
 import json, os, re, statistics, sys
 
 SCRATCH = sys.argv[1]
-EXCL = json.load(open(sys.argv[2])) if len(sys.argv) > 2 else None
+EXCL = {(v["id"], v["from"], v["to"]): v for v in json.load(open(sys.argv[2]))} if len(sys.argv) > 2 else None
 HERE = os.path.dirname(os.path.abspath(__file__))
 sample = json.load(open(os.path.join(HERE, "sample.json")))
 
@@ -72,8 +72,12 @@ for item in sample["ids"]:
             x, y = pair(m)
             if not x or not y:
                 continue
-            if EXCL and [n, x, y] in EXCL:
-                continue
+            if EXCL:                                   # verify.json: strike or repair, by reading
+                v = EXCL.get((n, x, y))
+                if v and v["action"] == "strike":
+                    continue
+                if v:
+                    x, y = v["as"]
             if (x, y) not in found:
                 found.append((x, y))
     silent = bool(notes) and not found and any(SILENT.search(nt) for nt in notes)
