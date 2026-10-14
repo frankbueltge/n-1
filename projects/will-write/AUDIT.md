@@ -42,3 +42,19 @@ promise that answers with its words, as part A named; without the audit the sess
 marked as an **estimate**). After: the order-word reading made "Library" a clause with a function, not a keyword, and that is why all
 140 flagged contributions were read rather than the registered sample; 27 were struck, and the Commons series that is the session's
 finding exists only in the verified run. Not triggered.
+
+## C. Session 2, before the register is read
+
+**The register as the material's own translation test.** Session 1 measured what is *said* about the way back (the Library
+clause). Parliament keeps a second answer, not spoken but filed: for bills, a list of "will write letters" published beside the
+bill's other papers. The translation test (ATP 147) asks what passes and does not pass between regimes; here the register is the
+route by which the postsignifying letter is returned to the signifying centre, without anyone saying so in the chamber.
+
+**The order-word's other side.** A promise is a statement whose act is complete when it is said (ATP 80-81). The register is the
+only place in this material where the act's *consequence* is recorded. If the audit is to change anything, it changes what a mark
+on the page says: not only "promised a copy" or "did not", but "a letter on this bill came back in public within sixty days" or
+"none did". Named now so it can be checked after.
+
+**Exposure the audit itself creates.** Matching by bill and date cannot show that the letter returned is the letter promised
+(`SESSION2.md`). A mark that says "a letter came back" would claim more than the match shows; the page must say "a letter on this
+bill", or the audit has served the design it was meant to test.
