@@ -51,3 +51,27 @@
    way back stopped being spoken because it became a filing"** — for the 16-32 % of promises made on bills. For the rest
    (questions, general debates) there is no register, and the measured silence stands. The page must say this.
    (Item 9 first carried 20:39, by guess; corrected against the clock, 20:37:45.)
+11. 20:59 UTC. Q2 fetch complete after the restart loop (20 Commons years, 3,767 candidates; `q2.py` -> `q2_rows.json`: 3,233 hold a
+   promise; 109 hold a promise and the word Library). All 109 read at every occurrence of the word (122 windows), in a shuffled
+   order with no year shown (seed 60), verdicts written to `q2_verdicts.json` before `q2_test.py` was run: 73 copy, 36 other.
+   Two judgement calls, stated: conditional promises ("if it is any different, I will write ... and leave a copy") count as copy;
+   "I will place a copy of that letter" where the letter is one already sent counts as other.
+12. 21:00 UTC. Registered test (`q2_test.py` -> `q2.json`). **P10 held:** the Commons copy share 2001-2009 is 3.7 % (41 of 1,123),
+   2016-2024 1.3 % (19 of 1,514), 2.9 times. **P11 failed:** 2016 has 5 promised copies (registered "no year above 3"). With
+   session 1's verified years the Commons series 2000-2025 reads 7, 3, 5, 3, 6, 8, 10, 7, 5, 2, 4, 0, 3, 9, 1, 2, 5, 2, 2, 2, 1, 1,
+   3, 2, 2, 0. Not a turn in 2005 and not a cliff: a fade, from about six a year to about two, while the promises rose (about 140 a
+   year in the 2000s, about 190 in 2016-2024). 2025's zero is the low end of a run of ones and twos, and 2011 had a zero too.
+13. 21:00 UTC. **Found in reading, not asked by the plan:** four of the "other" contributions (2003-11-20, 2003-11-27, 2004-01-08,
+   2004-07-22; contribution ids `320f452e-3466-4941-8362-eab826e79f42`,
+   `7a558147-abaa-4664-8ab0-e12f31ba4b7e`, `3dd5be19-9d4c-41d4-8168-0dd5841a72a2`, `957bbafa-eea1-4907-a321-62d3c62d9e88`) are
+   members complaining that the formula itself, as a *written* answer ("I will write to the hon. Member and place a copy of my
+   letter in the Library"), was used to keep answers off the record: "a way of burying bad news because the true reply never
+   appears in Hansard", and, citing the Library, "427 of those replies where Ministers have never got around to writing" (2004-07-22).
+   So the Library clause the chamber counts was, in 2003-2004, a contested formula of written answers. The rise of spoken Library
+   promises in 2000-2007 sits in that dispute (conjecture: the record shows the dispute and the rise in the same years, not that one
+   caused the other). This also verifies the half of session 1's unverified web summary that said there was a dispute in the
+   2000s; the half about the Leader's undertaking is still not verified beyond the 2004-07-22 member's reference to "a written
+   statement designed to stop the abuse".
+14. 21:03 UTC. Page rebuilt (`build.py`): third mark state, "The return" filled, "The years between" added, the opening
+   sentence rewritten. The new chart was looked at in screenshots and redrawn once: its first form drew the copies on a different
+   scale under the same bar, so a reader would have read them as a share. Render checks ok at both widths.

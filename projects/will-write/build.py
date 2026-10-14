@@ -57,13 +57,17 @@ try:
     mx = max(Q2["commons_by_year"][str(y)]["promise"] for y in ys)
     bars = "".join(
         f'<div class="yb" title="{y}: {Q2["commons_by_year"][str(y)]["copy"]} of {Q2["commons_by_year"][str(y)]["promise"]}">'
-        f'<i style="height:{round(80 * Q2["commons_by_year"][str(y)]["promise"] / mx)}px"></i>'
-        f'<b style="height:{max(0, 6 * Q2["commons_by_year"][str(y)]["copy"])}px"></b><span>{str(y)[2:]}</span></div>' for y in ys)
+        f'<i style="height:{round(80 * Q2["commons_by_year"][str(y)]["promise"] / mx)}px;margin-top:{80 - round(80 * Q2["commons_by_year"][str(y)]["promise"] / mx)}px"></i>'
+        f'<span>{str(y)[2:]}</span>' + "<b></b>" * Q2["commons_by_year"][str(y)]["copy"] + '</div>' for y in ys)
+    BURY = next(r["debate_id"] for r in json.load(open("q2_rows.json"))["rows"] if r["id"] == "957bbafa-eea1-4907-a321-62d3c62d9e88")
     YEARS_BETWEEN = f"""<h2 id="between">The years between</h2>
 <p class="sm mut">Read with: <a href="#rate">the rate</a> (the ten sampled years) and <a href="#return">the return</a> (why the
 saying could stop).</p>
-<p>Every Commons year from {ys[0]} to {ys[-1]}, read the same way: grey is the number of promises to write (tallest {mx}), blue below
-it is the number that say a copy goes to the Library, one step per copy. {Q2["summary"]}</p>
+<p>Every Commons year from {ys[0]} to {ys[-1]}, read the same way: each grey bar is a year's promises to write (the tallest is {mx}), and
+under the year each blue square is one promise that says a copy goes to the Library. {Q2["summary"]} Not a turn, a fade, while the promises
+rose. The clause had a history of its own: in 2003 and 2004 members complained in the chamber that the same words, given as a written
+answer, kept replies off the record, "a way of burying bad news because the true reply never appears in Hansard"
+(<a href="https://hansard-api.parliament.uk/debates/debate/{BURY}.json">2004</a>).</p>
 <div class="yrs">{bars}</div>"""
 except OSError:
     pass
@@ -89,7 +93,8 @@ nav.ent{{display:flex;flex-wrap:wrap;gap:8px 18px;font:14px system-ui,sans-serif
 table{{border-collapse:collapse;font:13px system-ui,sans-serif;width:100%}}th,td{{padding:3px 6px;border-bottom:1px solid var(--line);text-align:right}}
 .tw{{overflow-x:auto}}.yrs{{display:flex;gap:3px;align-items:flex-end;overflow-x:auto;padding:8px 0}}
 .yb{{display:flex;flex-direction:column;align-items:center;font:10px system-ui,sans-serif;color:var(--mut);min-width:18px}}
-.yb i{{display:block;width:12px;background:var(--post)}}.yb b{{display:block;width:12px;background:var(--lib);margin-top:2px}}@media (max-width:600px){{.lane{{grid-template-columns:1fr}}}}
+.yb i{{display:block;width:12px;background:var(--post)}}.yb b{{display:block;width:10px;height:5px;background:var(--lib);margin-top:2px}}.yrs{{align-items:flex-start}}
+.yb{{justify-content:flex-start}}.yb i{{margin-top:auto}}@media (max-width:600px){{.lane{{grid-template-columns:1fr}}}}
 </style></head><body><main>
 <p class="sm mut">Remainder &middot; project 8, sessions 1-2 &middot; 2026-10-14</p>
 <h1>I will write</h1>
@@ -138,7 +143,8 @@ promises could not be matched to a bill and are left out.</p>
 {YEARS_BETWEEN}
 <h2 id="how">How this was found</h2>
 <p class="sm">The sample, the definitions and six predictions were written down and published before any promise was read
-(<a href="SELECTION.md">SELECTION.md</a>). Contributions were found with the Hansard API's phrase search and then read by a fixed
+(<a href="SELECTION.md">SELECTION.md</a>); session 2's matching rule, the years between and five more predictions likewise
+(<a href="SESSION2.md">SESSION2.md</a>; what happened: <a href="JOURNAL2.md">JOURNAL2.md</a>). Contributions were found with the Hansard API's phrase search and then read by a fixed
 pattern; a promise is "I/we will/shall [up to two words] write to", and a blue mark is a promise whose contribution names the Library: all {n_lib + 27} such contributions were read, and the 27 where the Library holds something else (a
 report, statistics, the British Library) are grey. What the search does not find is not counted, so every number is a floor. A random sample was read by hand to
 measure the pattern's errors: <a href="JOURNAL.md">JOURNAL.md</a>. Names of members are not shown; each sentence links to its debate.</p>
