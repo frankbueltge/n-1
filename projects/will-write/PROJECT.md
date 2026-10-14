@@ -9,3 +9,6 @@ Licence: Open Parliament Licence v3.0; no member is named in anything committed.
 Session 1 (2026-10-14, night 59): `fetch.py` (texts to scratch only), `session1.py` -> `session1.json` (registered) and
 `session1_rows.json` (rows without text), `excerpts.py` -> `excerpts.json` (one sentence per promise, names replaced), `build.py` ->
 `index.html`, `JOURNAL.md`, `AUDIT.md`, `NEIGHBOURS.md`.
+Also `probe_denominators.py` -> `probe_denominators.json` (the Lords step), `verify.py` -> `verify.json` and `session1_verified.json`.
+Predictions: 6 registered; 4 held (P1-P4), 2 failed (P5, P6), the same in the verified run. 2,645 promise contributions; 113 promise a
+copy for the Library (all 140 flagged read). No work declared.

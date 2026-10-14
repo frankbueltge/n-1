@@ -24,4 +24,6 @@ field for parliament, hansard, politician, minister, letter(s), promise, congres
 - **The Bills API register of "will write letters"** (publication type 44, `https://bills-api.parliament.uk/api/v1/PublicationTypes`).
   Parliament's own return path for promises made in bill debates. Not a work; the institution's answer to the same problem.
 
-Daylight, provisional: no work found counts the promise to write, or follows it to whether a letter came back into public view.
+Daylight, after session 1: no work found counts the promise to write, or reads each one for whether it says the answer will come back. The
+nearest (Beaubois) mines what parliament says; this reads the sentence by which an answer leaves the public record. No machine-only
+advantage is claimed yet.

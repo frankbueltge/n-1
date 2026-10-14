@@ -25,4 +25,20 @@ change what is counted or shown. A candidate change, named in advance so it can 
 
 ## B. After the data
 
-*(written when session 1's numbers are read)*
+**What passed.** 2,645 contributions in ten sampled years hold the sentence. Its forms barely vary across forty-five years ("I shall
+write to the noble Lord" in 1985, "I will write to the noble Lord" in 2025): an order-word in the strict sense, a formula whose
+force does not depend on what follows it. The count roughly doubled in the Commons and tripled in the Lords between the 1980s and the
+2020s (`session1.json`).
+
+**What passes back.** The clause that keeps a door from the letter to the public record ("and place a copy in the Library") is said
+with 113 of 2,645 promises, read one by one (`verify.json`). In the Lords it holds at a few in a hundred throughout and is spoken of
+as custom ("following the custom of the House", 1985). In the Commons it rose with the years 2000 and 2005 (7 and 8 promises) and is
+absent in 2025 (0 of 172). The translation test's answer, on this sample: the regime change goes one way more and more often, and
+the way back, which was never usual, is in the Commons's two latest sampled years almost no longer said (1 in 2020, 0 in 2025).
+What is measured is the saying, not the depositing: letters may reach the Library unannounced, and that is session 2's question.
+
+**Did the audit change the design?** Yes, before the data and once after. Before: the page's unit is the sentence, a mark per
+promise that answers with its words, as part A named; without the audit the session would have built a rate chart (a counterfactual,
+marked as an **estimate**). After: the order-word reading made "Library" a clause with a function, not a keyword, and that is why all
+140 flagged contributions were read rather than the registered sample; 27 were struck, and the Commons series that is the session's
+finding exists only in the verified run. Not triggered.

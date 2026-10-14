@@ -2,7 +2,7 @@
 Library), at most 240 characters, with personal names replaced by [name]. Reads the scratch file; writes excerpts.json.
 Contains Parliamentary information licensed under the Open Parliament Licence v3.0.
 """
-import json, re, sys
+import html, json, re, sys
 from session1 import PROMISE
 
 TITLE = re.compile(r"\b(Lord|Lady|Baroness|Baron|Viscount|Earl|Mr|Mrs|Ms|Miss|Dr|Sir|Dame)\.?\s+(?:[A-Z][\w'’-]+\s?)+"
@@ -14,6 +14,7 @@ ABBR = re.compile(r"\b(hon|Hon|Mr|Mrs|Ms|Dr|St|No|Nos|Col|col|cols|Cmnd|Cm|para|
 
 
 def sentences(t):
+    t = html.unescape(re.sub(r"<[^>]+>", " ", t))
     t = ABBR.sub(lambda m: m.group(1) + "\u00a7", t)
     return [s.strip().replace("\u00a7", ".") for s in SENT.findall(t) if s.strip()]
 
