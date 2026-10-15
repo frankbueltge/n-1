@@ -12,8 +12,9 @@
    year is not taken as a lifespan (it is more likely a span of years in the text), and a lifespan is searched only at its first
    valid match. The WGSBN volume rule (2020 + V) was checked against two more volumes' issue dates in the archive list (volume 4,
    2024; volume 5, 2025).
-4. 01:17 UTC. Neighbours searched (`NEIGHBOURS.md`): the Atlas of Data Art holds no work on minor planet names; Kildall's
+4. 01:16 UTC. Neighbours searched (`NEIGHBOURS.md`): the Atlas of Data Art holds no work on minor planet names; Kildall's
    *Celebrity Asteroid Journeys* and a *5000 Names* data story read; Holeš 2025 found on Crossref but its text answered 403 and is
    marked unread. None draws an age.
-5. 01:17 UTC. T6 round 1 written (`LINES.md`) before parsing. It added one consequence the selection had not made: no exact birth
+5. 01:16 UTC. T6 round 1 written (`LINES.md`) before parsing. It added one consequence the selection had not made: no exact birth
    year on the page, and five-year bands only for anyone under 25.
+   (Items 4-5 first carried 01:17, written ahead of the clock; corrected to 01:16 when the clock was read just after.)
