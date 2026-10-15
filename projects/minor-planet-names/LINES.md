@@ -29,3 +29,19 @@ to find what a record leaves out and draw the gap. Here the habit would turn a r
 
 **Lines of flight.** The question is not about the honourees but about the register: at what point in a life does an institution
 that thinks in millions of years write a person down?
+
+## Round 2 (session end, 01:55 UTC, after the page was built)
+
+- *Clarity, found in the page's own words.* The first draft said the discoverers' grandchildren were named "before they could
+  read". That is a wry line about a family's gift: a judge's tone, the danger round 1 named. **Consequence:** rewritten to "named as
+  infants and young children".
+- *Power, checked.* 153 living honourees were under 18 at naming; a script over the built page found none of them linked
+  (`build.py`; checked against `rows.json`). The 18- and 19-year-olds are linked and shown as "15-19": the link leads to an adult's
+  public record.
+- *Fear, unanswered.* The page is again one mark per item with a tap, the form of projects 7 and 8. It fits here (each dot is a
+  person, and the page must not show who), but it was not chosen against an alternative. Open for session 2.
+- *A danger of the material's, not the practice's, recorded only as observed:* the register names teachers because their students
+  were named (142 citations in the sample). Not judged.
+
+**Instrument balance after one session.** T6 produced two consequences the selection had not (no exact years under 25; one sentence
+rewritten), so its failure criterion did not trigger. It named the practice's own dangers, not only others'.
