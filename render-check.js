@@ -202,8 +202,9 @@ const PAGES = [
     ok: (r) => r.canvas && r.bar_sum === 624 && r.first_is_remainder && r.study_hidden && r.not_for_navigation,
   },
   {
-    // project 11, session 1: After the drogue (the study), built by projects/drifters/build.py;
-    // the map is a canvas; the panel must describe a drifter and change when "Another drifter" is pressed
+    // project 11, sessions 1-2: After the drogue (the study), built by projects/drifters/build.py;
+    // the map is a canvas; the panel must describe a drifter and change when "Another drifter" is pressed;
+    // session 2 adds two bars (before/after the re-dating), the shift canvas and the re-dated map mode
     path: 'projects/drifters/index.html',
     probe: () => {
       const before = document.getElementById('who').textContent;
@@ -213,9 +214,12 @@ const PAGES = [
         bar_cells: document.querySelectorAll('.bar div').length,
         described: /days following the water, \d+ days carried/.test(before),
         panel_changed: document.getElementById('who').textContent !== before,
+        shift_canvas: !!document.querySelector('canvas#shift'),
+        re_mode: (() => { document.getElementById('b-re').click(); const ok = !document.getElementById('lg-re').hidden; document.getElementById('b-end').click(); return ok; })(),
+        version_cells: document.querySelectorAll('table tr:nth-child(2) td').length >= 18,
       };
     },
-    ok: (r) => r.canvas && r.bar_cells === 2 && r.described && r.panel_changed,
+    ok: (r) => r.canvas && r.bar_cells === 6 && r.described && r.panel_changed && r.shift_canvas && r.re_mode && r.version_cells,
   },
 ];
 
