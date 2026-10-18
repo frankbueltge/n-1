@@ -1,0 +1,138 @@
+{
+ "fetched_utc": "2026-10-18T13:05:12Z",
+ "files": [
+  {
+   "file": "2013_06_30_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/2013_06_30_drogueoff.dat",
+   "bytes": 589115,
+   "rows": 13598,
+   "sha256": "c70e4e6990478ce23fe4d12f3e566979a032aed9dd6efbc4ef332933fbd8990f"
+  },
+  {
+   "file": "2013_04_16_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/2013_04_16_drogueoff.dat",
+   "bytes": 589115,
+   "rows": 13598,
+   "sha256": "dc63115c9d7191673b078729d61d4cd1cf59db434675f5d5d8d473f1eb673f72"
+  },
+  {
+   "file": "2012_02_17_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_02_17_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "e4e5ea3aef28d1d669e8591a71b5193c9ba25eba4aa80a2c743e6635444fdd9a"
+  },
+  {
+   "file": "2012_04_02_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_04_02_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "16ef4e22575a7dbb5c268e66535e8a5a71a437c424b756cc98fd2f8b8815c20a"
+  },
+  {
+   "file": "2012_04_13_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_04_13_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "1bc27b34ee5a2fbb99fd209df75ee6025a64e07d8b822eacdc5ae403722f5467"
+  },
+  {
+   "file": "2012_04_27_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_04_27_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "40dd96dd6fb549a38f5378159322db06b6f70e3f44fbddc04f1519daf0fda3d5"
+  },
+  {
+   "file": "2012_05_17_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_05_17_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "bd4af785163d1af22de74f05e856a23c7cb7a14403d4e85da40c8ecaf5cb480f"
+  },
+  {
+   "file": "2012_06_07_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_06_07_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "da34b19e488386b2e0128e1f0ea5fa92d8db7f99939ba30264840bab9cb98aa3"
+  },
+  {
+   "file": "2012_06_20_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_06_20_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "c92a675dc014189d728b3b41ff9eeabc87cbde75962b54f27cd51ed67e50d0ab"
+  },
+  {
+   "file": "2012_06_22_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_06_22_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "c07fbffc2be98c5fc3d57262fa5dfd86c4e26694e78336fda10b405207787994"
+  },
+  {
+   "file": "2012_06_29_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_06_29_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "d652c7743e2737d3d17fa3cc34bd6d157e2015ed624d8b8eccd2848ab68c6b56"
+  },
+  {
+   "file": "2012_07_13_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_07_13_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "30d27f2aa5d78466a58cf9b1b7a55f9a255480b79bed5b87bb1c5d122f6abddb"
+  },
+  {
+   "file": "2012_07_27_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_07_27_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "91566d6c97aaf87ec9b350f843a47cf8c93e5a9620f39b3329a34c16a82b3cab"
+  },
+  {
+   "file": "2012_08_31_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_08_31_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "a5ab3c1b792a6a9ab15ea4e68d75d490cd9ff12b718090feaac851cf3b91182c"
+  },
+  {
+   "file": "2012_10_19_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_10_19_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "3a1b3b2cf45cbb0da2f7d8a6ba048b72468c5000dd9a538ed30a6876a33fb704"
+  },
+  {
+   "file": "2012_11_15_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2012_11_15_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "594349131ee47e5d63496e7d72b9f9dd4c28fd26aa218093a4904caac714e56f"
+  },
+  {
+   "file": "2013_02_14_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2013_02_14_drogueoff.dat",
+   "bytes": 588240,
+   "rows": 13578,
+   "sha256": "2a6f65732b92b940da5f6f5b1536fb6b11193caebd3d69a0e93563eba3ec092e"
+  },
+  {
+   "file": "2013_03_05_drogueoff.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/phod/lumpkin/droguedetect/archive/2013_03_05_drogueoff.dat",
+   "bytes": 588455,
+   "rows": 13583,
+   "sha256": "24b0bd70ea6ba4b2201032bed4ad27f335263bf8fb366471eee011fc2fc30006"
+  },
+  {
+   "file": "dirfl_10001_15000.old",
+   "url": "https://www.aoml.noaa.gov/ftp/pub/phod/buoydata/dirfl_10001_15000.old",
+   "bytes": 600000,
+   "rows": 5000,
+   "sha256": "df09d7c8e2eccdf5ccb282b433b0828a17a499541e2dd6052e73fff2c6ddd88c"
+  }
+ ]
+}

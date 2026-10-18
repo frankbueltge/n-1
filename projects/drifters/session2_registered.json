@@ -1,0 +1,48 @@
+{
+ "file": "2013_06_30_drogueoff.dat",
+ "parsed_rows": 13580,
+ "bad_rows": 15,
+ "joined": 13493,
+ "joined_share": 0.9936,
+ "value_kinds": {
+  "orig": {
+   "date": 13438,
+   "still_on": 109,
+   "uncertain": 33
+  },
+  "auto": {
+   "date": 13580
+  },
+  "manual": {
+   "date": 13557,
+   "uncertain": 11,
+   "still_on": 12
+  }
+ },
+ "comparable": 13460,
+ "classes": {
+  "earlier": 3556,
+  "held": 9643,
+  "later": 261,
+  "not_comparable": 33
+ },
+ "earlier_share": 0.2642,
+ "following_to_carried_days": 1080270,
+ "carried_to_following_days": 33534,
+ "ratio": 32.21,
+ "share_of_s1_carried": 0.1635,
+ "median_earlier_shift": 166.8,
+ "agree_n": 13493,
+ "agree": 12471,
+ "agree_share": 0.9243,
+ "study_end": "2010-11-19",
+ "predictions": {
+  "P8 >= 5000 rows": true,
+  "P9 >= 95% ids in directory": true,
+  "P10 >= 30% moved earlier": false,
+  "P11 F->C >= 5x C->F": true,
+  "P12 F->C >= 5% of s1 carried": true,
+  "P13 median earlier shift > 30 d": true,
+  "P14 directory agrees >= 80%": true
+ }
+}

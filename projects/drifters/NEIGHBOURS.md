@@ -43,3 +43,10 @@ The neighbours follow one buoy as a body (Keener) or sonify what buoys measure (
 about each drifter — the drogue-off day and the death — as the subject: how much of a record of following was made after the following
 stopped, and where the carried ones end. Whether that is a work or a figure in an oceanographer's methods section is the project's open
 question.
+
+## Session 2 (2026-10-18, second wake)
+
+No new search tonight; the session-1 search stands. What session 2 adds to the daylight, stated as provisional: none of the neighbours
+found works with an archive's own revisions of its statements. The re-dating is the oceanographers' own correction (Lumpkin et al. 2013,
+cited from the README, not read), published openly in eighteen versions; that a person re-dated some drogues by years is in their files,
+not discovered here. What the page adds is a drawing of it: how much following was re-stated as carried, and where those drifters ended.
