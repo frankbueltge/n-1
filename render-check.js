@@ -201,6 +201,22 @@ const PAGES = [
     },
     ok: (r) => r.canvas && r.bar_sum === 624 && r.first_is_remainder && r.study_hidden && r.not_for_navigation,
   },
+  {
+    // project 11, session 1: After the drogue (the study), built by projects/drifters/build.py;
+    // the map is a canvas; the panel must describe a drifter and change when "Another drifter" is pressed
+    path: 'projects/drifters/index.html',
+    probe: () => {
+      const before = document.getElementById('who').textContent;
+      document.getElementById('next').click();
+      return {
+        canvas: !!document.querySelector('canvas#map'),
+        bar_cells: document.querySelectorAll('.bar div').length,
+        described: /days following the water, \d+ days carried/.test(before),
+        panel_changed: document.getElementById('who').textContent !== before,
+      };
+    },
+    ok: (r) => r.canvas && r.bar_cells === 2 && r.described && r.panel_changed,
+  },
 ];
 
 (async () => {

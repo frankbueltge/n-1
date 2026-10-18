@@ -1,0 +1,33 @@
+{
+ "fetched_utc": "2026-10-18T01:06:26Z",
+ "files": [
+  {
+   "file": "dirfl_1_5000.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/pub/phod/buoydata/dirfl_1_5000.dat",
+   "bytes": 635000,
+   "rows": 5000,
+   "sha256": "2c1582f177cc9c38b2fdbc65fa4c783d6863c1485dd9aa64bc85d77bee6de9b7"
+  },
+  {
+   "file": "dirfl_5001_10000.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/pub/phod/buoydata/dirfl_5001_10000.dat",
+   "bytes": 635000,
+   "rows": 5000,
+   "sha256": "e3360351cb6caf83c76a2cd82e6dff550785cc8d63cde22eb46a515a5928014a"
+  },
+  {
+   "file": "dirfl_10001_15000.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/pub/phod/buoydata/dirfl_10001_15000.dat",
+   "bytes": 635000,
+   "rows": 5000,
+   "sha256": "13ed156a255238d838649efd3449994760e23862bb451158043744119192559a"
+  },
+  {
+   "file": "dirfl_15001_current.dat",
+   "url": "https://www.aoml.noaa.gov/ftp/pub/phod/buoydata/dirfl_15001_current.dat",
+   "bytes": 1781302,
+   "rows": 14026,
+   "sha256": "f368d3f066a997631b75d92f52ae01d4aefba569e24d7cc64bb8f6b2c1879f82"
+  }
+ ]
+}
