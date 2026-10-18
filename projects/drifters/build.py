@@ -1,4 +1,4 @@
-"""Build index.html from session1.json, explore1.json, rows.json, session2.json, explore2.json, rows2.json and template.html."""
+"""Build index.html (the study) and after-the-drogue/index.html (the work) from the session files and template.html."""
 import json
 s = json.load(open("session1.json")); e = json.load(open("explore1.json")); d = json.load(open("rows.json"))
 log = json.load(open("fetch_log.json"))
@@ -71,9 +71,40 @@ sub.update({"RE_FILE": f"{s2['parsed_rows']:,}", "RE_N": f"{s2['classes']['earli
             "AM_N": f"{am['differ_over_30_days']:,}", "AM_PCT": f"{am['share'] * 100:.0f}", "AM_E": f"{am['manual_earlier_than_auto_over_30']:,}",
             "V_HEAD": vh, "V_ROW": vr, "V_ID": hist["id"], "BIG_N": big["n"], "BIG_PCT": f"{big['share'] * 100:.0f}", "BIG_S": big["start_south_of_35S"],
             "AG_PCT": f"{s2['agree_share'] * 100:.0f}", "AG": f"{s2['agree']:,}", "AG_N": f"{s2['agree_n']:,}", "FETCHED2": log2["fetched_utc"][:10]})
-t = open("template.html").read()
+# session 3
+s3 = json.load(open("session3.json")); e3 = json.load(open("explore3.json")); d3 = json.load(open("rows3.json"))
+byid = {r["id"]: r for r in R}
+uid = [r[0] for r in d3["rows"] if r[5] == "unknown"]
+data["u"] = [[round(byid[i]["end_lat"], 1), round(byid[i]["end_lon"], 1), byid[i]["start"][:7], byid[i]["end"][:7]] for i in uid]
+sub["DATA"] = json.dumps(data, separators=(",", ":"))
+c3c = s3["classes"]; st = e3["their_directory_status_today"]; ud = e3["unknown_days_if_person_read"]
+sub.update({"AG_N_MINUS": f"{s3['population']:,}", "U_N": f"{c3c.get('unknown', 0):,}", "U_PCT": f"{s3['class_share']['unknown'] * 100:.0f}",
+            "OTH_N": c3c.get("other", 0), "AUT_N": c3c.get("automatic", 0), "AUT_N_FLEX": max(3, c3c.get("automatic", 0)),
+            "F_N": f"{e3['all_reworked_person_dated_first_day']:,}", "F_U": st.get("unknown", 0), "F_NEV": st.get("never", 0),
+            "F_LOST": st.get("lost", 0), "F_KEPT": st.get("kept", 0), "U_DAYS_K": f"{ud['carried'] / 1e3:.0f}",
+            "U_SHARE": f"{100 * (s['carried_days'] + ud['carried']) / (s['drogued_days'] + s['carried_days'] + ud['carried'] + ud['drogued']):.1f}"})
+words.update({"P15": "of the 1,022 the directory differs on, at least 25 % read 'unreadable'", "P16": "fewer than 10 % read the date of before the study",
+              "P17": "at least 20 % read the method's date", "P18": "of those with a date, more than half count more following than the person did",
+              "P19": "the directory differs more often for drifters put in 2005-2010 than before 2005"})
+found.update({"P15": f"{s3['class_share'].get('unknown', 0) * 100:.0f} %", "P16": f"{s3['class_share'].get('original', 0) * 100:.0f} %",
+              "P17": f"{s3['class_share'].get('automatic', 0) * 100:.1f} %", "P18": f"{s3['more_following']} of {s3['with_direction']}",
+              "P19": f"{s3['disagree_share_by_era']['2005-2010'] * 100:.1f} % against {s3['disagree_share_by_era']['before 2005'] * 100:.1f} %"})
+for k, v in s3["predictions"].items():
+    key = k.split()[0]
+    pr.append(f"<tr><td>{key}</td><td>{words[key]}</td><td>{found[key]}</td><td>{'held' if v else '<b>failed</b>'}</td></tr>")
+sub["PRED_ROWS"] = "".join(pr)
+t0 = open("template.html").read()
 for k, v in sub.items():
-    t = t.replace("{{" + k + "}}", str(v))
-assert "{{" not in t
-open("index.html", "w").write(t)
-print(len(t))
+    t0 = t0.replace("{{" + k + "}}", str(v))
+study = t0.replace("{{HEADLINE}}", '<p class="sm mut">Remainder &middot; project 11, sessions 1 to 3, the study behind the work '
+                   '<a href="after-the-drogue/"><i>After the Drogue</i></a> &middot; 2026-10-18</p>')
+assert "{{" not in study
+open("index.html", "w").write(study)
+import os, re
+work = re.sub(r"<!--study-->.*?<!--/study-->", "", t0, flags=re.S)
+work = work.replace("{{HEADLINE}}", '<p class="sm mut">Remainder &middot; <i>After the Drogue</i> &middot; 2026 &middot; a modest work '
+                    '(<a href="../">the study behind it</a>)</p>')
+assert "{{" not in work and "<!--study" not in work
+os.makedirs("after-the-drogue", exist_ok=True)
+open("after-the-drogue/index.html", "w").write(work)
+print(len(study), len(work))

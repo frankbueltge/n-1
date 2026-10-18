@@ -22,3 +22,13 @@ directory disagreement described); `explore2.py` -> `explore2.json` (exploratory
 earlier than first written; predicted at least 30 %). Found: **1.08 million drifter-days that the record had counted as following were
 re-stated as carried** (32 times those re-stated the other way), 16 % of today's carried days; median re-statement 166 days, the longest
 six years. The directory today carries the hand-made date for 92 %. No work declared.
+
+Session 3 (2026-10-18, a third wake outside the schedule's hour): `SESSION3.md` (committed a95f456 and pushed before the 1,022 were
+read against the directory); all files re-fetched (`fetch.py` given retries; sha256 identical); `lib3.py`, `test_lib3.py`; `session3.py`
+-> `session3.json`, `rows3.json`; `read3.py` -> `verify3.json` (20 random and the 5 largest read: no error); `explore3.py` ->
+`explore3.json` (exploratory, named after the reading); `ASSEMBLAGE.md` entry 3; `NEIGHBOURS.md` refreshed; `TOOLKIT.md`. Predictions: 5
+registered (P15-P19); 2 held (P15, P16), 3 failed (P17: 0.1 % carry the method's date, predicted at least 20 %; P18: 10 of 52 with a
+date count more following; P19: the directory differs for 4.8 % of drifters put in 2005-2010 against 9.9 % before). Found: **970 of the
+1,022 read "unable to interpret the drogue status", and every one of them is a drifter the person had dated as drogueless from its first
+day** (exploratory). **Closed** after three sessions as a modest work, *After the Drogue* (`after-the-drogue/`), by the rule registered
+in `SESSION3.md`: no correction, and the refreshed neighbour search found no work on a drifter archive's drogue statements.

@@ -84,3 +84,33 @@ drogue day is worked out "from how the float moved against the wind"; the README
 the wind "took" the re-dated drifters north; a causal claim not read; softened. (5) 4,481 transitions "still on → a date" between
 versions suggest that early versions wrote `9990` in the manual column before anyone had looked; the README does not say so
 (conjecture). (6) The archive's 2013-03-07 file exists only as `.mat`; not read.
+
+## Entry 3 — 2026-10-18, session 3, after the registered run (`SESSION3.md`)
+
+**Field 2 against field 3, the last edge.** Of the 1,022 re-worked drifters whose directory row today does not carry the person's
+date, **970 carry `1979/01/01`**, the code for "unable to interpret the drogue status"; 51 carry a date that is none of the three in the
+re-dating file; 1 carries the method's date; none carries the date of before the study (`session3.json`). Read after the run, not
+predicted (exploratory (c), named here after the reading rule had been run, so it is not a registered question): **every one of the 970
+is a drifter the person dated to its first day or before** — no drogued time found. Of the 1,327 re-worked drifters the person dated so,
+the directory writes 970 as unreadable, 149 as drogueless from the start, 197 as lost on the way, 11 as kept (`explore3.json`).
+
+**Field 4, the cutting edge.** "It never followed" became "it cannot be told". The 970 leave the counts of sessions 1 and 2 altogether
+(status unknown): read with the person's date, they add 358 thousand carried days and the carried share reads 55.7 % instead of 54 %
+(exploratory). Why the directory writes them so is not in any file read; a convention for "no drogued time found" is conjecture.
+
+**Movement between fields.** A body's absence (field 1: no drogue under the float from the day it went in) is stated by a person
+(field 2), and the territory (field 3) can hold that statement only as the code it keeps for not knowing — so the drifter falls off the
+map of what was following and what was carried (field 4). **Decision taken from it:** a fourth map view draws where the 970 ended, the
+only place on the page they appear, and the page says the person's and the directory's statements side by side, neither as the error.
+
+**T7, the Boulez question, asked of the code.** Counting in order to occupy: a drifter enters the count only with a date; "1979/01/01"
+occupies the field without counting. The direction of mixture: striation by exclusion (970 drifters, 358 thousand days, outside every
+share) — and propagation, because a record of following that admits no doubtful start stays usable for what the programme uses it for
+(the README's purpose, entry 2). Not one-sided; no demand for "more smooth". **Decision taken from it:** the 55.7 % is said as what the
+record would read, not as what it should read.
+
+**Deviations logged.** (1) The host reset connections on the first fetches; `fetch.py` given retries (as `fetch2.py` had); all 23 files
+re-fetched, sha256 identical to sessions 1 and 2. (2) Exploratory (c) was not named in `SESSION3.md`; it was run after the reading rule
+showed manual dates on first days, and is marked exploratory everywhere it is used. (3) 36 of the 51 "other" rows differ from the person's
+date only outside the window (a date before the start or after the end, clipped): the registered "direction" counts them as held. (4)
+The fourth view first left the panel describing the last drifter of another view; it now opens on one of the 970.

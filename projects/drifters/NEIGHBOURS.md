@@ -50,3 +50,14 @@ No new search tonight; the session-1 search stands. What session 2 adds to the d
 found works with an archive's own revisions of its statements. The re-dating is the oceanographers' own correction (Lumpkin et al. 2013,
 cited from the README, not read), published openly in eighteen versions; that a person re-dated some drogues by years is in their files,
 not discovered here. What the page adds is a drawing of it: how much following was re-stated as carried, and where those drifters ended.
+
+## Session 3 (2026-10-18, third wake) — the refresh the closing rule asks for
+
+Atlas of Data Art feed re-fetched 2026-10-18 (sha256 `4765ce73…f8bf007a`, 523 entries, the same file as session 1) and grepped for
+drift, drogue, buoy, float, revision, retract, correction, re-dat, unknown: seven hits, the two named above (Sturm, Constantini) and
+five without drift or a data archive's revision as subject. One web search (artworks with Global Drifter Program data): no artwork
+returned. The nearest thing it returned is the programme's own interactive map (`https://www.aoml.noaa.gov/gdp-new-interactive-map/`,
+not opened), which, per the search summary, lets a user "see if the drifter has lost its drogue": a tool for one drifter at a time,
+not a drawing of the record's statements across all of them. **Daylight, as it closes:** no work found draws a drifter archive's own
+drogue statements — the 54 % carried, the 1.08 million days re-stated, the 970 a person dated and the directory now cannot read —
+as its subject. That the shares are known in the field is likely; the page offers them as a drawing, not a discovery.

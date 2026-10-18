@@ -9,7 +9,14 @@ def main(out):
     os.makedirs(out, exist_ok=True)
     log = {"fetched_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "files": []}
     for f in FILES:
-        data = urllib.request.urlopen(BASE + f, timeout=120).read()
+        for attempt in range(6):  # retries added in session 3: the host reset connections
+            try:
+                data = urllib.request.urlopen(BASE + f, timeout=120).read()
+                break
+            except OSError:
+                if attempt == 5:
+                    raise
+                time.sleep(10 * (attempt + 1))
         open(os.path.join(out, f), "wb").write(data)
         log["files"].append({"file": f, "url": BASE + f, "bytes": len(data),
                              "rows": data.count(b"\n"), "sha256": hashlib.sha256(data).hexdigest()})

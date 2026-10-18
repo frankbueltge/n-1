@@ -1,0 +1,24 @@
+{
+ "unknown_n": 970,
+ "unknown_person_dated_first_day": 970,
+ "all_reworked_person_dated_first_day": 1327,
+ "their_directory_status_today": {
+  "unknown": 970,
+  "lost": 197,
+  "never": 149,
+  "kept": 11
+ },
+ "unknown_days_if_person_read": {
+  "drogued": 0,
+  "carried": 357781
+ },
+ "unknown_death_codes": {
+  "1": 182,
+  "2": 93,
+  "3": 670,
+  "4": 15,
+  "5": 7,
+  "6": 3
+ },
+ "note": "first day = the person's date within one day of the directory start, or before it"
+}
