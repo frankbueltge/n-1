@@ -23,4 +23,6 @@
 - **Built:** the study gains a section, a bar and the fourth view; the work is built from the same template without the study's blocks.
   `render-check.js` extended (all ok at 1440 and 390 px); screenshots looked at; one fix (the fourth view's panel); a still made.
 - **Surface:** `margin.json` (session, outcome, work), the noscript list, `window.json` 4.34.0.
+- **Housekeeping:** two Python cache files committed earlier in `projects/will-write/__pycache__/` removed with the night's commit
+  (the same kind of mistake removed in fea235a).
 - **Next:** project 12, on another material.
