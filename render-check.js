@@ -202,9 +202,9 @@ const PAGES = [
     ok: (r) => r.canvas && r.bar_sum === 624 && r.first_is_remainder && r.study_hidden && r.not_for_navigation,
   },
   {
-    // project 11, sessions 1-2: After the drogue (the study), built by projects/drifters/build.py;
+    // project 11, sessions 1-3: After the drogue (the study), built by projects/drifters/build.py;
     // the map is a canvas; the panel must describe a drifter and change when "Another drifter" is pressed;
-    // session 2 adds two bars (before/after the re-dating), the shift canvas and the re-dated map mode
+    // session 2 adds two bars (before/after the re-dating), the shift canvas and the re-dated map mode; session 3 a third bar
     path: 'projects/drifters/index.html',
     probe: () => {
       const before = document.getElementById('who').textContent;
@@ -219,7 +219,27 @@ const PAGES = [
         version_cells: document.querySelectorAll('table tr:nth-child(2) td').length >= 18,
       };
     },
-    ok: (r) => r.canvas && r.bar_cells === 6 && r.described && r.panel_changed && r.shift_canvas && r.re_mode && r.version_cells,
+    ok: (r) => r.canvas && r.bar_cells === 9 && r.described && r.panel_changed && r.shift_canvas && r.re_mode && r.version_cells,
+  },
+  {
+    // project 11, session 3: the work, After the Drogue, built from the same template without the study's blocks;
+    // session 3 adds a bar of the 1,022 (three cells) and a fourth map mode, the 970 dated by hand and now unreadable
+    path: 'projects/drifters/after-the-drogue/index.html',
+    probe: () => {
+      const before = document.getElementById('who').textContent;
+      document.getElementById('b-u').click();
+      document.getElementById('next').click();
+      const u = document.getElementById('who').textContent;
+      document.getElementById('b-end').click();
+      return {
+        canvas: !!document.querySelector('canvas#map'),
+        bar_cells: document.querySelectorAll('.bar div').length,
+        described: /days following the water, \d+ days carried/.test(before),
+        u_mode: /cannot be read/.test(u),
+        study_hidden: !/What was predicted/.test(document.body.textContent) && !document.querySelector('table tr:nth-child(2) td:nth-child(18)'),
+      };
+    },
+    ok: (r) => r.canvas && r.bar_cells === 9 && r.described && r.u_mode && r.study_hidden,
   },
 ];
 

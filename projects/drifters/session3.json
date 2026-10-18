@@ -1,0 +1,49 @@
+{
+ "population": 1022,
+ "classes": {
+  "unknown": 970,
+  "other": 51,
+  "automatic": 1
+ },
+ "class_share": {
+  "unknown": 0.9491,
+  "other": 0.0499,
+  "automatic": 0.001
+ },
+ "with_direction": 52,
+ "more_following": 10,
+ "less_following": 6,
+ "held_within_1_day": 36,
+ "days_more_following": 565,
+ "days_less_following": 117,
+ "median_more_following": 44.4,
+ "disagree_share_by_era": {
+  "before 2005": 0.0994,
+  "2005-2010": 0.0479
+ },
+ "joined_by_era": {
+  "before 2005": 7285,
+  "2005-2010": 6223
+ },
+ "explore_a_old_file": {
+  "in_old": 201,
+  "old_carries_manual": 5,
+  "old_does_not": 196,
+  "old_class_when_not": {
+   "unknown": 191,
+   "other": 5
+  }
+ },
+ "explore_b": {
+  "net_days_more_following": 449,
+  "s1_carried": 6607633,
+  "s1_carried_plus_net": 6608082
+ },
+ "predictions": {
+  "P15 >= 25% unknown": true,
+  "P16 < 10% original": true,
+  "P17 >= 20% automatic": false,
+  "P18 > half of directed point to more following": false,
+  "P19 disagree share 2005-2010 > before 2005": false
+ }
+}
