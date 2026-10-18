@@ -1,0 +1,96 @@
+{
+ "drifters": 29026,
+ "bad_rows": 0,
+ "duplicate_ids": 0,
+ "alive": 1364,
+ "dead": 27662,
+ "death_codes": {
+  "1": 6987,
+  "2": 2079,
+  "3": 18240,
+  "4": 86,
+  "5": 37,
+  "6": 233
+ },
+ "status": {
+  "lost": 16231,
+  "kept": 10284,
+  "never": 854,
+  "unknown": 988,
+  "alive_drogued": 669
+ },
+ "death_code_by_status": {
+  "lost": {
+   "1": 4613,
+   "3": 9881,
+   "2": 812,
+   "5": 23,
+   "4": 30,
+   "6": 191
+  },
+  "kept": {
+   "3": 7124,
+   "1": 1953,
+   "2": 1121,
+   "5": 7,
+   "6": 37,
+   "4": 41
+  },
+  "never": {
+   "3": 550,
+   "2": 53,
+   "1": 236,
+   "6": 2
+  },
+  "unknown": {
+   "3": 685,
+   "1": 185,
+   "2": 93,
+   "5": 7,
+   "4": 15,
+   "6": 3
+  },
+  "alive_drogued": {}
+ },
+ "known_status": 28038,
+ "drogued_days": 5550285,
+ "carried_days": 6607633,
+ "carried_share": 0.5435,
+ "dead_known": 26674,
+ "kept_to_end": 10283,
+ "kept_share": 0.3855,
+ "median_drogued_days_dead_known": 131.6,
+ "by_era": {
+  "before 2000": {
+   "n": 4772,
+   "median_drogued_days": 193.1,
+   "kept_share": 0.553,
+   "carried_share": 0.3571
+  },
+  "2000-2009": {
+   "n": 8195,
+   "median_drogued_days": 96.1,
+   "kept_share": 0.3025,
+   "carried_share": 0.6435
+  },
+  "2010 and after": {
+   "n": 13707,
+   "median_drogued_days": 139.7,
+   "kept_share": 0.3768,
+   "carried_share": 0.5422
+  }
+ },
+ "start_years": [
+  1979,
+  2025
+ ],
+ "predictions": {
+  "P1 >=25000 drifters": true,
+  "P2 quit >= half of dead": true,
+  "P3 aground > picked up": true,
+  "P4 kept to end < 25% (dead, known)": false,
+  "P5 carried days >= 35%": true,
+  "P6 median drogued days < 365": true,
+  "P7 2010+ median > 2000-2009 median": true
+ }
+}

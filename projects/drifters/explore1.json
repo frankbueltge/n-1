@@ -1,0 +1,45 @@
+{
+ "note": "exploratory, not registered in SELECTION.md",
+ "carried_over_3_years": {
+  "n": 1109,
+  "end_in_20_40_lat": 902,
+  "share": 0.8133,
+  "median_abs_end_lat": 30.9
+ },
+ "carried_1_to_3_years": {
+  "n": 4941,
+  "end_in_20_40_lat": 2797,
+  "share": 0.5661,
+  "median_abs_end_lat": 28.9
+ },
+ "kept_drogue_to_end": {
+  "n": 10283,
+  "end_in_20_40_lat": 3593,
+  "share": 0.3494,
+  "median_abs_end_lat": 26.2
+ },
+ "all_starts": {
+  "n": 29026,
+  "start_in_20_40_lat": 8093,
+  "share": 0.2788
+ },
+ "death_share_by_status": {
+  "kept": {
+   "1": 0.1899,
+   "2": 0.109,
+   "3": 0.6928
+  },
+  "lost": {
+   "1": 0.2967,
+   "2": 0.0522,
+   "3": 0.6354
+  },
+  "never": {
+   "1": 0.2806,
+   "2": 0.063,
+   "3": 0.654
+  }
+ },
+ "carried_dead_with_any_carried": 16390,
+ "carried_over_3_years_count": 1109
+}
