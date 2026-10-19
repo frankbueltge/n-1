@@ -1,0 +1,8 @@
+{
+ "url": "https://database.lichess.org/standard/lichess_db_standard_rated_2013-01.pgn.zst",
+ "bytes": 17761302,
+ "sha256": "aa40b3671fa3cf1072eb182892cd90b0e1e003a4a5943492f64b77e7f3fd1635",
+ "publisher_sha256": "aa40b3671fa3cf1072eb182892cd90b0e1e003a4a5943492f64b77e7f3fd1635",
+ "equal": true,
+ "fetched": "2026-10-19"
+}

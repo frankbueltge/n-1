@@ -275,6 +275,17 @@ const PAGES = [
     }),
     ok: (r) => r.mirror && r.panels === 13 && r.captioned && r.study_hidden,
   },
+  {
+    // project 13, session 1: Where each game leaves (the study), built by projects/departures/build.py;
+    // two inline SVG charts (36 and 37 bars), five tables, no account names
+    path: 'projects/departures/index.html',
+    probe: () => ({
+      charts: document.querySelectorAll('svg.ch').length,
+      bars: [...document.querySelectorAll('svg.ch')].map((s) => s.querySelectorAll('rect').length),
+      tables: document.querySelectorAll('table').length,
+    }),
+    ok: (r) => r.charts === 2 && r.bars[0] === 36 && r.bars[1] === 37 && r.tables === 3,
+  },
 ];
 
 (async () => {

@@ -1,0 +1,12 @@
+{
+ "tokens_not_canonical": 12836,
+ "games_with_such_a_token": 10168,
+ "kinds": {
+  "piece letter + full square": 11644,
+  "other": 1192
+ },
+ "canonical_never_depart": 1659,
+ "canonical_median_departure_ply": 9,
+ "canonical_mean_departure_ply": 9.229,
+ "canonical_longest_stem": 36
+}
