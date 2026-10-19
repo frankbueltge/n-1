@@ -40,7 +40,7 @@ estimates.*
 - **20:52** Page built (`build.py`, `template.html` → `index.html`); `render-check.js` extended, all pages ok at 1440 and 390 px.
   Screenshots looked at. Changed after looking: medians printed "8.0" (now 8); "different people" and "different players" claimed more
   than the data hold (a different pair of accounts need not be different people), now "different pairs of accounts". Not changed: at
-  390 px the chart labels are small (about 4 px tall, estimate), left for session 2's form work.
+  390 px the chart labels are small (about 5 px tall, estimate), left for session 2's form work.
 - **20:53** The advantage question, asked as registered: **not found tonight.** One database query does what this session did, in
   minutes; a person with the file and a laptop finds the same numbers. What might be a machine's here is not the count but the reading of
   121,332 games each against all others, at once, as one figure; whether that is a claim or a sentence is session 2's to test.
