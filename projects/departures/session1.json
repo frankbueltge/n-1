@@ -1,0 +1,481 @@
+{
+ "games": 121332,
+ "excluded": {},
+ "unparsed_for_positions": 0,
+ "never_depart": 1659,
+ "departing": 119673,
+ "median_departure_ply": 9,
+ "mean_departure_ply": 9.229,
+ "departure_hist": {
+  "2": 41,
+  "3": 639,
+  "4": 3016,
+  "5": 7238,
+  "6": 12369,
+  "7": 14816,
+  "8": 17248,
+  "9": 15012,
+  "10": 13879,
+  "11": 10571,
+  "12": 8214,
+  "13": 5515,
+  "14": 3885,
+  "15": 2356,
+  "16": 1684,
+  "17": 1048,
+  "18": 711,
+  "19": 412,
+  "20": 299,
+  "21": 237,
+  "22": 157,
+  "23": 78,
+  "24": 65,
+  "25": 58,
+  "26": 38,
+  "27": 16,
+  "28": 16,
+  "29": 24,
+  "30": 5,
+  "31": 6,
+  "32": 12,
+  "33": 2,
+  "34": 4,
+  "37": 2
+ },
+ "longest_stem": 36,
+ "position_later_count": 52230,
+ "band_median_departure": {
+  "<1400": [
+   8.0,
+   15072
+  ],
+  "1400-1799": [
+   9.0,
+   87498
+  ],
+  ">=1800": [
+   10.0,
+   16892
+  ],
+  "unrated": [
+   6,
+   211
+  ]
+ },
+ "identical_lists_top": [
+  [
+   17,
+   2
+  ],
+  [
+   17,
+   2
+  ],
+  [
+   17,
+   2
+  ],
+  [
+   16,
+   2
+  ],
+  [
+   16,
+   2
+  ],
+  [
+   14,
+   16
+  ],
+  [
+   14,
+   2
+  ],
+  [
+   13,
+   2
+  ],
+  [
+   13,
+   2
+  ],
+  [
+   13,
+   2
+  ],
+  [
+   13,
+   2
+  ],
+  [
+   13,
+   2
+  ],
+  [
+   12,
+   3
+  ],
+  [
+   12,
+   2
+  ],
+  [
+   12,
+   2
+  ],
+  [
+   12,
+   2
+  ],
+  [
+   12,
+   2
+  ],
+  [
+   12,
+   2
+  ],
+  [
+   11,
+   4
+  ],
+  [
+   11,
+   2
+  ]
+ ],
+ "identical_groups": 190,
+ "max_game_plies": 306,
+ "together": [
+  {
+   "ply": 1,
+   "games_at_least_this_long": 121332,
+   "still_shared": 121332
+  },
+  {
+   "ply": 2,
+   "games_at_least_this_long": 121332,
+   "still_shared": 121291
+  },
+  {
+   "ply": 3,
+   "games_at_least_this_long": 120805,
+   "still_shared": 120128
+  },
+  {
+   "ply": 4,
+   "games_at_least_this_long": 120420,
+   "still_shared": 116736
+  },
+  {
+   "ply": 5,
+   "games_at_least_this_long": 120266,
+   "still_shared": 109363
+  },
+  {
+   "ply": 6,
+   "games_at_least_this_long": 120101,
+   "still_shared": 96865
+  },
+  {
+   "ply": 7,
+   "games_at_least_this_long": 119992,
+   "still_shared": 81985
+  },
+  {
+   "ply": 8,
+   "games_at_least_this_long": 119698,
+   "still_shared": 64593
+  },
+  {
+   "ply": 9,
+   "games_at_least_this_long": 119535,
+   "still_shared": 49534
+  },
+  {
+   "ply": 10,
+   "games_at_least_this_long": 119252,
+   "still_shared": 35582
+  },
+  {
+   "ply": 11,
+   "games_at_least_this_long": 119041,
+   "still_shared": 24975
+  },
+  {
+   "ply": 12,
+   "games_at_least_this_long": 118747,
+   "still_shared": 16726
+  },
+  {
+   "ply": 13,
+   "games_at_least_this_long": 118511,
+   "still_shared": 11189
+  },
+  {
+   "ply": 14,
+   "games_at_least_this_long": 118131,
+   "still_shared": 7279
+  },
+  {
+   "ply": 15,
+   "games_at_least_this_long": 117880,
+   "still_shared": 4902
+  },
+  {
+   "ply": 16,
+   "games_at_least_this_long": 117423,
+   "still_shared": 3209
+  },
+  {
+   "ply": 17,
+   "games_at_least_this_long": 117067,
+   "still_shared": 2157
+  },
+  {
+   "ply": 18,
+   "games_at_least_this_long": 116579,
+   "still_shared": 1433
+  },
+  {
+   "ply": 19,
+   "games_at_least_this_long": 116224,
+   "still_shared": 1021
+  },
+  {
+   "ply": 20,
+   "games_at_least_this_long": 115628,
+   "still_shared": 722
+  },
+  {
+   "ply": 21,
+   "games_at_least_this_long": 115227,
+   "still_shared": 484
+  },
+  {
+   "ply": 22,
+   "games_at_least_this_long": 114633,
+   "still_shared": 327
+  },
+  {
+   "ply": 23,
+   "games_at_least_this_long": 114134,
+   "still_shared": 249
+  },
+  {
+   "ply": 24,
+   "games_at_least_this_long": 113461,
+   "still_shared": 184
+  },
+  {
+   "ply": 25,
+   "games_at_least_this_long": 112959,
+   "still_shared": 126
+  },
+  {
+   "ply": 26,
+   "games_at_least_this_long": 112220,
+   "still_shared": 88
+  },
+  {
+   "ply": 27,
+   "games_at_least_this_long": 111602,
+   "still_shared": 72
+  },
+  {
+   "ply": 28,
+   "games_at_least_this_long": 110749,
+   "still_shared": 56
+  },
+  {
+   "ply": 29,
+   "games_at_least_this_long": 110046,
+   "still_shared": 32
+  },
+  {
+   "ply": 30,
+   "games_at_least_this_long": 109100,
+   "still_shared": 27
+  },
+  {
+   "ply": 31,
+   "games_at_least_this_long": 108349,
+   "still_shared": 20
+  },
+  {
+   "ply": 32,
+   "games_at_least_this_long": 107289,
+   "still_shared": 8
+  },
+  {
+   "ply": 33,
+   "games_at_least_this_long": 106404,
+   "still_shared": 6
+  },
+  {
+   "ply": 34,
+   "games_at_least_this_long": 105318,
+   "still_shared": 2
+  },
+  {
+   "ply": 35,
+   "games_at_least_this_long": 104355,
+   "still_shared": 2
+  },
+  {
+   "ply": 36,
+   "games_at_least_this_long": 103117,
+   "still_shared": 2
+  },
+  {
+   "ply": 37,
+   "games_at_least_this_long": 102059,
+   "still_shared": 0
+  },
+  {
+   "ply": 38,
+   "games_at_least_this_long": 100712,
+   "still_shared": 0
+  },
+  {
+   "ply": 39,
+   "games_at_least_this_long": 99582,
+   "still_shared": 0
+  },
+  {
+   "ply": 40,
+   "games_at_least_this_long": 98183,
+   "still_shared": 0
+  },
+  {
+   "ply": 41,
+   "games_at_least_this_long": 96976,
+   "still_shared": 0
+  },
+  {
+   "ply": 42,
+   "games_at_least_this_long": 95549,
+   "still_shared": 0
+  },
+  {
+   "ply": 43,
+   "games_at_least_this_long": 94269,
+   "still_shared": 0
+  },
+  {
+   "ply": 44,
+   "games_at_least_this_long": 92668,
+   "still_shared": 0
+  },
+  {
+   "ply": 45,
+   "games_at_least_this_long": 91317,
+   "still_shared": 0
+  },
+  {
+   "ply": 46,
+   "games_at_least_this_long": 89676,
+   "still_shared": 0
+  },
+  {
+   "ply": 47,
+   "games_at_least_this_long": 88302,
+   "still_shared": 0
+  },
+  {
+   "ply": 48,
+   "games_at_least_this_long": 86617,
+   "still_shared": 0
+  },
+  {
+   "ply": 49,
+   "games_at_least_this_long": 85090,
+   "still_shared": 0
+  },
+  {
+   "ply": 50,
+   "games_at_least_this_long": 83317,
+   "still_shared": 0
+  },
+  {
+   "ply": 51,
+   "games_at_least_this_long": 81767,
+   "still_shared": 0
+  },
+  {
+   "ply": 52,
+   "games_at_least_this_long": 79979,
+   "still_shared": 0
+  },
+  {
+   "ply": 53,
+   "games_at_least_this_long": 78371,
+   "still_shared": 0
+  },
+  {
+   "ply": 54,
+   "games_at_least_this_long": 76494,
+   "still_shared": 0
+  },
+  {
+   "ply": 55,
+   "games_at_least_this_long": 74809,
+   "still_shared": 0
+  },
+  {
+   "ply": 56,
+   "games_at_least_this_long": 73002,
+   "still_shared": 0
+  },
+  {
+   "ply": 57,
+   "games_at_least_this_long": 71351,
+   "still_shared": 0
+  },
+  {
+   "ply": 58,
+   "games_at_least_this_long": 69548,
+   "still_shared": 0
+  },
+  {
+   "ply": 59,
+   "games_at_least_this_long": 67896,
+   "still_shared": 0
+  },
+  {
+   "ply": 60,
+   "games_at_least_this_long": 66113,
+   "still_shared": 0
+  }
+ ],
+ "predictions": {
+  "P1 median departure ply in [9,14]": {
+   "value": 9,
+   "held": true
+  },
+  "P2 at least 3% never depart": {
+   "value": 1.367,
+   "held": false
+  },
+  "P3 longest stem >= 40 plies": {
+   "value": 36,
+   "held": false
+  },
+  "P4 position departure later in >= 20%": {
+   "value": 43.644,
+   "held": true
+  },
+  "P5 >=1800 median at least 2 plies later than <1400": {
+   "value": [
+    10.0,
+    8.0
+   ],
+   "held": true
+  },
+  "P6 identical pair of >= 30 plies": {
+   "value": 17,
+   "held": false
+  }
+ },
+ "seconds": 172
+}
