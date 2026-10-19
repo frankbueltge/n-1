@@ -241,6 +241,25 @@ const PAGES = [
     },
     ok: (r) => r.canvas && r.bar_cells === 9 && r.described && r.u_mode && r.study_hidden,
   },
+  {
+    // project 12, session 1: Depending on who's counting (the study), built by projects/worldviews/build.py;
+    // the map is a canvas; choosing the Taiwan edition must report drawn-otherwise pieces; 34 editions in the select and the bars
+    path: 'projects/worldviews/index.html',
+    probe: () => {
+      const sel = document.getElementById('ed');
+      sel.value = 'twn'; sel.dispatchEvent(new Event('change'));
+      const said = document.getElementById('say').textContent;
+      sel.value = 'default'; sel.dispatchEvent(new Event('change'));
+      return {
+        canvas: !!document.querySelector('canvas#map'),
+        options: sel.options.length,
+        bars: document.querySelectorAll('#eb .b').length,
+        twn_said: /Taiwan: \d+ pieces/.test(said),
+        preds: document.querySelectorAll('table tr').length,
+      };
+    },
+    ok: (r) => r.canvas && r.options === 34 && r.bars === 33 && r.twn_said && r.preds === 8,
+  },
 ];
 
 (async () => {

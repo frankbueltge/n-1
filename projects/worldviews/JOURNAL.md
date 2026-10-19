@@ -32,3 +32,11 @@
 - **01:40** The corrected run was killed when the session's worker restarted, after all 33 editions and before the owners grid
   (`run2.log` stops at "vnm"). The progress lines already showed the correction's size: the edition for Germany moved 399,397 km²
   rather than the registered 311,869 (the United States 406,870 rather than 319,342). Finished files committed as a safeguard; the run restarted.
+- **02:05** Corrected run done: P2 turns (10.48 million km², 161 pieces), and the edition for Taiwan moves 9.69 million. Suspected
+  first as an artefact of the new key; checked: that edition holds one unit, ADMIN "Taiwan", code TWN, 9.48 million km², containing
+  Beijing, and no unit for China. It is the drawing, not the count. The reading rule re-run on the corrected pieces: 22 of 30 in Natural
+  Earth's disputed features, the other eight read (seven mainland pieces, Ashmore and Cartier). Detour on the page: the edition bars
+  were flattened by Taiwan's; the scale is now set by the next edition and Taiwan's bar marked off the scale. Counterfactual
+  (estimate): had the page kept the registered run, it would have said 0.93 million km² and named ISO as the edition that redraws most.
+- **02:20** Page render-checked (`render-check.js`, extended; all ok at 1440 and 390 px); screenshots looked at; one wording fix
+  ("white" was only true in dark mode).

@@ -1,19 +1,16 @@
 {
  "features": 99,
- "with_contested_land": 66,
+ "with_contested_land": 69,
  "drawn_alike": [
-  "W. Sahara",
-  "Israel",
-  "Donetsk People's Republic",
   "Abkhazia",
-  "Luhansk People's Republic",
   "South Ossetia",
-  "Artsakh",
   "Mayotte",
+  "Gaza",
   "Diego Garcia NSF",
   "Europa Island",
   "﻿Šarengrad Island",
   "Br. Indian Ocean Ter.",
+  "Pinnacle Is.",
   "Navassa I.",
   "Juan De Nova I.",
   "Gibraltar",
@@ -36,14 +33,14 @@
   "Peñón de Vélez de la Gomera",
   "Penon de Alhucemas"
  ],
- "contested_outside_features_km2": 9176.4,
+ "contested_outside_features_km2": 9345548.2,
  "rows": [
   {
    "name": "W. Sahara",
    "type": "Disputed",
    "area_km2": 178224.5,
-   "contested_km2": 462.6,
-   "share": 0.003
+   "contested_km2": 177993.7,
+   "share": 0.999
   },
   {
    "name": "Somaliland",
@@ -63,50 +60,50 @@
    "name": "Jammu and Kashmir",
    "type": "Disputed",
    "area_km2": 104574.6,
-   "contested_km2": 104367.1,
+   "contested_km2": 104389.8,
    "share": 0.998
   },
   {
    "name": "W. Sahara",
    "type": "Indeterminate",
    "area_km2": 90696.4,
-   "contested_km2": 90401.2,
-   "share": 0.997
+   "contested_km2": 90575.5,
+   "share": 0.999
   },
   {
    "name": "Arunachal Pradesh",
    "type": "Disputed",
    "area_km2": 68070.0,
-   "contested_km2": 67625.1,
-   "share": 0.993
+   "contested_km2": 67830.7,
+   "share": 0.996
   },
   {
    "name": "Gilgit-Baltistan",
    "type": "Disputed",
    "area_km2": 65236.9,
-   "contested_km2": 64998.9,
-   "share": 0.996
+   "contested_km2": 65050.7,
+   "share": 0.997
   },
   {
    "name": "North Borneo",
    "type": "Breakaway",
    "area_km2": 38738.8,
-   "contested_km2": 38211.5,
+   "contested_km2": 38198.1,
    "share": 0.986
   },
   {
    "name": "Taiwan",
    "type": "Disputed",
    "area_km2": 36381.7,
-   "contested_km2": 36014.5,
+   "contested_km2": 36006.7,
    "share": 0.99
   },
   {
    "name": "Aksai Chin",
    "type": "Disputed",
    "area_km2": 31005.4,
-   "contested_km2": 30843.8,
-   "share": 0.995
+   "contested_km2": 31005.4,
+   "share": 1.0
   },
   {
    "name": "Crimea",
@@ -119,14 +116,14 @@
    "name": "Israel",
    "type": "Disputed",
    "area_km2": 20785.2,
-   "contested_km2": 83.5,
-   "share": 0.004
+   "contested_km2": 20565.9,
+   "share": 0.989
   },
   {
    "name": "Halayib Triangle",
    "type": "Disputed",
    "area_km2": 18208.3,
-   "contested_km2": 17959.9,
+   "contested_km2": 17955.6,
    "share": 0.986
   },
   {
@@ -140,36 +137,36 @@
    "name": "Azad Kashmir",
    "type": "Disputed",
    "area_km2": 11966.5,
-   "contested_km2": 11912.9,
-   "share": 0.996
+   "contested_km2": 11906.3,
+   "share": 0.995
   },
   {
    "name": "Falkland Is.",
    "type": "Disputed",
    "area_km2": 11618.0,
-   "contested_km2": 10840.9,
-   "share": 0.933
+   "contested_km2": 10875.7,
+   "share": 0.936
   },
   {
    "name": "Abyei",
    "type": "Disputed",
    "area_km2": 10920.6,
-   "contested_km2": 10917.9,
-   "share": 1.0
+   "contested_km2": 10869.0,
+   "share": 0.995
   },
   {
    "name": "Kosovo",
    "type": "Disputed",
    "area_km2": 10895.1,
-   "contested_km2": 10760.7,
+   "contested_km2": 10759.3,
    "share": 0.988
   },
   {
    "name": "Donetsk People's Republic",
    "type": "Breakaway",
    "area_km2": 9424.3,
-   "contested_km2": 0.0,
-   "share": 0.0
+   "contested_km2": 9323.2,
+   "share": 0.989
   },
   {
    "name": "Junagadh and Manavadar",
@@ -189,15 +186,15 @@
    "name": "Luhansk People's Republic",
    "type": "Breakaway",
    "area_km2": 8281.2,
-   "contested_km2": 0.0,
-   "share": 0.0
+   "contested_km2": 8189.5,
+   "share": 0.989
   },
   {
    "name": "Belize",
    "type": "Disputed",
    "area_km2": 7983.9,
-   "contested_km2": 7845.3,
-   "share": 0.983
+   "contested_km2": 7853.8,
+   "share": 0.984
   },
   {
    "name": "Baykonur",
@@ -210,22 +207,22 @@
    "name": "West Bank",
    "type": "Disputed",
    "area_km2": 5739.1,
-   "contested_km2": 5676.7,
-   "share": 0.989
+   "contested_km2": 88.2,
+   "share": 0.015
   },
   {
    "name": "Shaksam Valley",
    "type": "Disputed",
    "area_km2": 5315.6,
-   "contested_km2": 5255.5,
-   "share": 0.989
+   "contested_km2": 5315.6,
+   "share": 1.0
   },
   {
    "name": "Kuril Is.",
    "type": "Disputed",
    "area_km2": 4958.9,
-   "contested_km2": 4598.8,
-   "share": 0.927
+   "contested_km2": 4601.8,
+   "share": 0.928
   },
   {
    "name": "South Ossetia",
@@ -238,57 +235,57 @@
    "name": "S. Georgia",
    "type": "Geo subunit",
    "area_km2": 3654.0,
-   "contested_km2": 3417.1,
-   "share": 0.935
+   "contested_km2": 3432.7,
+   "share": 0.939
   },
   {
    "name": "Lawa Headwaters",
    "type": "Disputed",
    "area_km2": 3510.8,
-   "contested_km2": 3401.4,
+   "contested_km2": 3400.9,
    "share": 0.969
   },
   {
    "name": "Ilemi Triangle",
    "type": "Disputed",
    "area_km2": 3415.6,
-   "contested_km2": 3394.8,
+   "contested_km2": 3393.5,
    "share": 0.994
   },
   {
    "name": "N. Cyprus",
    "type": "Disputed",
    "area_km2": 3319.5,
-   "contested_km2": 3276.8,
-   "share": 0.987
+   "contested_km2": 3280.2,
+   "share": 0.988
   },
   {
    "name": "Artsakh",
    "type": "Breakaway",
    "area_km2": 3132.9,
-   "contested_km2": 0.0,
-   "share": 0.0
+   "contested_km2": 3011.4,
+   "share": 0.961
   },
   {
    "name": "Transnistria",
    "type": "Breakaway",
    "area_km2": 3043.5,
-   "contested_km2": 2903.3,
+   "contested_km2": 2903.8,
    "share": 0.954
   },
   {
    "name": "Demchok",
    "type": "Disputed",
    "area_km2": 2269.6,
-   "contested_km2": 2203.3,
-   "share": 0.971
+   "contested_km2": 2269.6,
+   "share": 1.0
   },
   {
    "name": "Siachen Glacier",
    "type": "Indeterminate",
    "area_km2": 2088.0,
-   "contested_km2": 2079.5,
-   "share": 0.996
+   "contested_km2": 2088.0,
+   "share": 1.0
   },
   {
    "name": "Bir Tawil",
@@ -301,29 +298,29 @@
    "name": "Southern Patagonian Ice Field",
    "type": "Indeterminate",
    "area_km2": 1404.3,
-   "contested_km2": 1387.1,
-   "share": 0.988
+   "contested_km2": 1389.2,
+   "share": 0.989
   },
   {
    "name": "Bhutan (northwest valleys)",
    "type": "Disputed",
    "area_km2": 1238.7,
-   "contested_km2": 1218.7,
-   "share": 0.984
+   "contested_km2": 1225.9,
+   "share": 0.99
   },
   {
    "name": "Golan Heights",
    "type": "Indeterminate",
    "area_km2": 1194.9,
-   "contested_km2": 1149.8,
-   "share": 0.962
+   "contested_km2": 1169.7,
+   "share": 0.979
   },
   {
    "name": "Tirpani Valleys",
    "type": "Disputed",
    "area_km2": 1143.9,
-   "contested_km2": 1091.4,
-   "share": 0.954
+   "contested_km2": 1120.4,
+   "share": 0.979
   },
   {
    "name": "Korean Demilitarized Zone (north)",
@@ -336,15 +333,15 @@
    "name": "Korean Demilitarized Zone (south)",
    "type": "Overlay",
    "area_km2": 1096.9,
-   "contested_km2": 1001.4,
-   "share": 0.913
+   "contested_km2": 1026.1,
+   "share": 0.935
   },
   {
    "name": "Olivenza",
    "type": "Disputed",
    "area_km2": 593.2,
-   "contested_km2": 561.6,
-   "share": 0.947
+   "contested_km2": 567.9,
+   "share": 0.957
   },
   {
    "name": "Mayotte",
@@ -357,36 +354,36 @@
    "name": "Cyprus U.N. Buffer Zone",
    "type": "Indeterminate",
    "area_km2": 341.0,
-   "contested_km2": 285.6,
-   "share": 0.837
+   "contested_km2": 293.0,
+   "share": 0.859
   },
   {
    "name": "Bara Hotii Valleys",
    "type": "Disputed",
    "area_km2": 339.9,
-   "contested_km2": 299.1,
-   "share": 0.88
+   "contested_km2": 327.7,
+   "share": 0.964
   },
   {
    "name": "Gaza",
    "type": "Disputed",
    "area_km2": 339.8,
-   "contested_km2": 337.2,
-   "share": 0.993
+   "contested_km2": 2.5,
+   "share": 0.007
   },
   {
    "name": "Samdu Valleys",
    "type": "Disputed",
    "area_km2": 304.5,
-   "contested_km2": 268.9,
-   "share": 0.883
+   "contested_km2": 278.6,
+   "share": 0.915
   },
   {
    "name": "S. Sandwich Is.",
    "type": "Geo subunit",
    "area_km2": 286.6,
-   "contested_km2": 154.4,
-   "share": 0.539
+   "contested_km2": 177.4,
+   "share": 0.619
   },
   {
    "name": "Corner of Artigas",
@@ -406,50 +403,50 @@
    "name": "Bhutan (Chumbi salient)",
    "type": "Disputed",
    "area_km2": 146.5,
-   "contested_km2": 127.1,
-   "share": 0.867
+   "contested_km2": 135.6,
+   "share": 0.926
   },
   {
    "name": "Tiran and Sanafir Is.",
    "type": "Disputed",
    "area_km2": 90.6,
-   "contested_km2": 73.4,
-   "share": 0.81
+   "contested_km2": 79.1,
+   "share": 0.873
   },
   {
    "name": "East Jerusalem",
    "type": "Disputed",
    "area_km2": 66.6,
-   "contested_km2": 60.2,
-   "share": 0.904
+   "contested_km2": 58.7,
+   "share": 0.881
   },
   {
    "name": "Guantanamo Bay USNB",
    "type": "Lease",
    "area_km2": 65.5,
-   "contested_km2": 49.4,
-   "share": 0.754
+   "contested_km2": 49.5,
+   "share": 0.755
   },
   {
    "name": "Near Om Parvat",
    "type": "Disputed",
    "area_km2": 60.2,
-   "contested_km2": 46.4,
-   "share": 0.772
+   "contested_km2": 54.7,
+   "share": 0.909
   },
   {
    "name": "No Man's Land (Fort Latrun)",
    "type": "Disputed",
    "area_km2": 50.6,
-   "contested_km2": 38.2,
-   "share": 0.756
+   "contested_km2": 49.3,
+   "share": 0.976
   },
   {
    "name": "Ceuta",
    "type": "Geo subunit",
    "area_km2": 42.7,
-   "contested_km2": 31.7,
-   "share": 0.743
+   "contested_km2": 28.1,
+   "share": 0.658
   },
   {
    "name": "Diego Garcia NSF",
@@ -469,15 +466,15 @@
    "name": "Melilla",
    "type": "Geo subunit",
    "area_km2": 18.1,
-   "contested_km2": 15.5,
-   "share": 0.856
+   "contested_km2": 15.2,
+   "share": 0.839
   },
   {
    "name": "Shebaa Farms",
    "type": "Disputed",
    "area_km2": 17.9,
-   "contested_km2": 14.6,
-   "share": 0.816
+   "contested_km2": 12.9,
+   "share": 0.716
   },
   {
    "name": "Ilemi Triange",
@@ -490,8 +487,8 @@
    "name": "Spratly Is.",
    "type": "Indeterminate",
    "area_km2": 12.6,
-   "contested_km2": 3.2,
-   "share": 0.255
+   "contested_km2": 3.3,
+   "share": 0.259
   },
   {
    "name": "Abu Musa I.",
@@ -518,22 +515,22 @@
    "name": "Korean islands under UN jurisdiction",
    "type": "Overlay",
    "area_km2": 6.0,
-   "contested_km2": 2.4,
-   "share": 0.407
+   "contested_km2": 1.4,
+   "share": 0.239
   },
   {
    "name": "Paracel Is.",
    "type": "Geo unit",
    "area_km2": 5.8,
-   "contested_km2": 0.5,
-   "share": 0.084
+   "contested_km2": 0.3,
+   "share": 0.06
   },
   {
    "name": "Pinnacle Is.",
    "type": "Disputed",
    "area_km2": 5.3,
-   "contested_km2": 1.1,
-   "share": 0.2
+   "contested_km2": 0.0,
+   "share": 0.0
   },
   {
    "name": "Navassa I.",
@@ -574,8 +571,8 @@
    "name": "Brazilian Island",
    "type": "Indeterminate",
    "area_km2": 2.8,
-   "contested_km2": 1.7,
-   "share": 0.61
+   "contested_km2": 1.9,
+   "share": 0.672
   },
   {
    "name": "Glorioso Is.",
@@ -588,8 +585,8 @@
    "name": "Swains Island",
    "type": "Disputed",
    "area_km2": 1.9,
-   "contested_km2": 0.8,
-   "share": 0.401
+   "contested_km2": 1.1,
+   "share": 0.596
   },
   {
    "name": "Dragonja River",

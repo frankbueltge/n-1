@@ -35,3 +35,12 @@ have named in advance. Price (ATP 203): every such piece is somebody's home, and
   night record stays short.
 - *The others' dangers.* Natural Earth's own: a public-domain map used as a default by many publishers makes its de facto choice
   everyone's unseen choice. Noted, not judged.
+
+**After the run (same session).** The danger audit's first consequence was tested by the material at once. The headline number is
+dominated by one edition's drawing: in the edition for Taiwan's point of view, the mainland is "Taiwan". A judge would call that
+symbolic or call it a claim; the page does neither. It reports the unit, its name and its area, says that without it about 1.1 million
+km² remain (estimate), and keeps both numbers. *Clarity* also struck the practice's own line in another form: the registered owner
+key decided, by largest overlap, what a country "is" across editions, and that decision silently erased Western Sahara as drawn by
+22 editions. A rule that decides identity is a small judge; the correction keys countries by the code each edition gives them, so the
+editions name themselves. **Consequence for session 2:** read the 8 and 9 unnamed units of the Russian and Palestinian editions — what
+do editions do when they will name no one? — before any new count.

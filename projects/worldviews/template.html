@@ -18,7 +18,7 @@ select{font:14px system-ui,sans-serif;padding:5px 8px;border:1px solid var(--lin
 #say{position:sticky;bottom:0;background:var(--panel);border-top:1px solid var(--line);padding:12px 16px;font:14px/1.45 system-ui,sans-serif;max-height:45vh;overflow:auto}
 table{border-collapse:collapse;font:13px system-ui,sans-serif;width:100%}th,td{padding:3px 6px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
 .tw{overflow-x:auto}
-.eb{display:grid;grid-template-columns:minmax(90px,170px) 1fr;gap:2px 8px;font:12px/18px system-ui,sans-serif;align-items:center}
+.eb{display:grid;grid-template-columns:minmax(120px,300px) 1fr;gap:2px 8px;font:12px/18px system-ui,sans-serif;align-items:center}
 .eb div.b{height:12px;background:var(--c2);border-radius:2px}.eb div.b span{display:block;height:12px;background:var(--mut);border-radius:2px 0 0 2px}
 </style></head><body><main>
 <p class="sm mut">Project 12, session 1 · a study, not yet a work · 19 October 2026</p>
@@ -30,8 +30,12 @@ the home country's law and/or local conventions)": "between 246 and 258 countrie
 <a href="https://www.naturalearthdata.com/downloads/10m-cultural-vectors/">download page</a>). This page lays all 34 editions over one
 another and keeps only the land on which they do not agree.</p>
 <p class="big"><b>{{CONT}} km²</b> of land are drawn in a different country, or in none, depending on which of the 34 editions is opened:
-{{SHARE}} % of the land the default draws, in {{PIECES}} pieces. About <b>{{THREE}} km²</b> of it have three or more different owners
-across the editions.</p>
+{{SHARE}} % of the land the default draws, in {{PIECES}} pieces.</p>
+<p>Most of it is one edition's. The edition drawn for Taiwan's point of view has no country called China: one unit, named Taiwan,
+covers Taiwan and the whole of the mainland, {{TWN_UNIT}} km². In that edition {{TWN_FLOW}} km² the default gives to China lie in
+"Taiwan". Leave that one drawing aside and about {{REST}} km² remain on which the editions disagree (an estimate: the two overlap
+in places). About <b>{{THREE}} km²</b> have three or more different owners across the editions, and a few small islands in the South
+China Sea have five.</p>
 
 <div class="ctl"><label for="ed">Open the map as drawn for</label> <select id="ed"></select></div>
 <div class="map"><canvas id="map" width="1100" height="520" aria-label="World map; the land the 34 editions do not agree on is coloured; tap a piece to see who each edition gives it to"></canvas></div>
@@ -44,7 +48,7 @@ can be found. Equirectangular, 60&deg;S to 84&deg;N; Antarctica is drawn alike i
 <p>Measured against the default, because the default is the edition the publisher puts first, not because it is the true one. Dark: land
 the edition leaves in no country at all.</p>
 <div class="eb" id="eb"></div>
-<p class="sm mut">The edition for {{TOP}} redraws most ({{TOP_KM}} km²), most of it as land in no country; the edition for {{LOW}} redraws
+<p class="sm mut">The edition for {{TOP}} redraws most ({{TOP_KM}} km²); the ISO edition, next, leaves most of what it redraws in no country; the edition for {{LOW}} redraws
 least ({{LOW_KM}} km²).</p>
 
 <h2>What this page does not do</h2>
@@ -58,8 +62,9 @@ by its code, and a country split into parts is not counted as moved. Land in a d
 estimates at the map's 1:10 million detail. Seven predictions were written down before the editions were read in bulk
 (<a href="https://github.com/frankbueltge/n-1/blob/main/projects/worldviews/SELECTION.md">selection</a>). One error was found after the
 first run and corrected: a country drawn mostly on land the default gives another (an edition's Western Sahara, for one) had been matched
-to that other, and its move hidden. Both runs are kept. The 30 pieces read by hand ({{N_VER_IN}} of {{N_VER}}) all lie inside places
-Natural Earth itself lists as disputed or breakaway.</p>
+to that other, and its move hidden. Both runs are kept. Of 30 pieces read by hand, {{N_VER_IN}} lie inside places Natural Earth itself lists as disputed or
+breakaway; seven of the other eight are parts of mainland China and its islands drawn as Taiwan in one edition, and one is Ashmore and
+Cartier Islands, drawn as part of Australia in the ISO edition. None was a slip of the drawing.</p>
 <div class="tw"><table><tr><th></th><th>prediction</th><th>first run</th><th>corrected</th></tr>
 {{PRED_ROWS}}
 </table></div>
@@ -96,8 +101,8 @@ cv.addEventListener('click',ev=>{const r=cv.getBoundingClientRect(),mx=(ev.clien
  let best=-1,bd=1e9;D.pieces.forEach((p,i)=>{const[a,b,c,d]=p.bb;const dx=Math.max(X(a)-mx,0,mx-X(c)),dy=Math.max(Y(d)-my,0,my-Y(b));const dd=Math.hypot(dx,dy)+(X(c)-X(a))*(Y(b)-Y(d))*1e-4;if(dd<bd){bd=dd;best=i}});
  if(bd<14){pick=best;say(best);draw()}});
 sel.addEventListener('change',()=>{cur=sel.value;pick=-1;const n=D.pieces.filter(differs),a=n.reduce((s,p)=>s+p.a,0);
- document.getElementById('say').textContent=cur==='default'?'The default edition: every coloured piece is drawn otherwise in at least one other edition.':'Drawn for the point of view of '+ED[cur]+': '+n.length+' pieces, '+a.toLocaleString('en')+' km², drawn otherwise than in the default (white).';draw()});
-const eb=document.getElementById('eb'),mx=Math.max(...D.edlist.map(e=>e[1]));
-D.edlist.forEach(([k,m,l])=>{const a=document.createElement('div');a.textContent=k==='default'?'':ED[k];const b=document.createElement('div');b.className='b';b.style.width=(100*m/mx)+'%';b.title=m.toLocaleString('en')+' km²';const s=document.createElement('span');s.style.width=(100*l/Math.max(m,1))+'%';b.appendChild(s);eb.append(a,b)});
+ document.getElementById('say').textContent=cur==='default'?'The default edition: every coloured piece is drawn otherwise in at least one other edition.':'Drawn for the point of view of '+ED[cur]+': '+n.length+' pieces, '+a.toLocaleString('en')+' km², drawn otherwise than in the default (solid; the rest faded).';draw()});
+const eb=document.getElementById('eb'),mx=D.edlist[1][1]*1.25;
+D.edlist.forEach(([k,m,l])=>{const a=document.createElement('div');a.textContent=ED[k]+(m>mx?' — '+(m/1e6).toFixed(1)+' million km², off this scale':' — '+Math.round(m/1e3).toLocaleString('en')+'k');const b=document.createElement('div');b.className='b';b.style.width=Math.min(100,100*m/mx)+'%';b.title=m.toLocaleString('en')+' km²';const s=document.createElement('span');s.style.width=(100*l/Math.max(m,1))+'%';b.appendChild(s);eb.append(a,b)});
 draw();matchMedia('(prefers-color-scheme: dark)').addEventListener('change',draw);
 </script></body></html>

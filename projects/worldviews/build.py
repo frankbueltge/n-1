@@ -45,6 +45,8 @@ def main():
     rep = {"{{DATA}}": json.dumps(data, separators=(",", ":"), ensure_ascii=False),
            "{{CONT}}": f"{s['contested_km2']:,.0f}", "{{PIECES}}": str(s["contested_pieces"]),
            "{{THREE}}": f"{three:,.0f}", "{{PRED_ROWS}}": "\n".join(rows), "{{HELD}}": str(held),
+           "{{TWN_UNIT}}": "9,483,217", "{{TWN_FLOW}}": f"{s['editions']['twn']['flows_km2']['China -> Taiwan']:,.0f}",
+           "{{REST}}": f"{(s['contested_km2'] - s['editions']['twn']['flows_km2']['China -> Taiwan']) / 1e6:.1f} million",
            "{{N_VER}}": str(len(ver)), "{{N_VER_IN}}": str(sum(1 for v in ver if v["disputed_feature"])),
            "{{LAND}}": f"{s['default_land_km2'] / 1e6:,.1f}", "{{SHARE}}": f"{100 * s['contested_km2'] / s['default_land_km2']:.2f}",
            "{{TOP}}": ED[eds[0][0]], "{{TOP_KM}}": f"{eds[0][1]:,.0f}", "{{LOW}}": ED[eds[-1][0]], "{{LOW_KM}}": f"{eds[-1][1]:,.0f}"}
