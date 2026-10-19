@@ -1,0 +1,211 @@
+{
+ "unnamed_raw": [
+  {
+   "edition": "pse",
+   "index": 16,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_PS": "B17",
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 101,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_PS": "UUU",
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 167,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_PS": "B13",
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 169,
+   "fields": 168,
+   "nonblank": {
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 170,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_PS": "B74",
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 171,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_PS": "B92",
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 247,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_PS": "PFA",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 254,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_PS": "B21",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 255,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_PS": "KOD",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 73,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_RU": "B38",
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 140,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_RU": "C03",
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 141,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_RU": "C02",
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 171,
+   "fields": 168,
+   "nonblank": {
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 172,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_RU": "B92",
+    "featurecla": "Admin-0 country"
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 247,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_RU": "PFA",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 254,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_RU": "DEN",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 255,
+   "fields": 168,
+   "nonblank": {
+    "ADM0_A3_RU": "KOD",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6
+   }
+  }
+ ],
+ "unexplained_left": [
+  {
+   "edition": "gbr",
+   "area_km2": 2951.489076942602,
+   "point": [
+    42.095,
+    41.659
+   ],
+   "default_under": {
+    "Georgia": 2951.5
+   },
+   "disputed_features": [],
+   "edition_units_within_60km": [
+    {
+     "ADMIN": "Georgia",
+     "TYPE": "Sovereign country",
+     "km": 13.0
+    },
+    {
+     "ADMIN": "Turkey",
+     "TYPE": "Sovereign country",
+     "km": 13.3
+    }
+   ]
+  },
+  {
+   "edition": "usa",
+   "area_km2": 2951.489076942602,
+   "point": [
+    42.095,
+    41.659
+   ],
+   "default_under": {
+    "Georgia": 2951.5
+   },
+   "disputed_features": [],
+   "edition_units_within_60km": [
+    {
+     "ADMIN": "Georgia",
+     "TYPE": "Sovereign country",
+     "km": 13.0
+    },
+    {
+     "ADMIN": "Turkey",
+     "TYPE": "Sovereign country",
+     "km": 13.3
+    }
+   ]
+  }
+ ]
+}

@@ -256,9 +256,11 @@ const PAGES = [
         bars: document.querySelectorAll('#eb .b').length,
         twn_said: /Taiwan: \d+ pieces/.test(said),
         preds: document.querySelectorAll('table tr').length,
+        // session 2: the second map, "named by no one"
+        ncanvas: !!document.querySelector('canvas#nmap'),
       };
     },
-    ok: (r) => r.canvas && r.options === 34 && r.bars === 33 && r.twn_said && r.preds === 8,
+    ok: (r) => r.canvas && r.ncanvas && r.options === 34 && r.bars === 33 && r.twn_said && r.preds === 16,
   },
 ];
 

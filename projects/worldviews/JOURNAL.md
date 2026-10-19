@@ -40,3 +40,35 @@
   (estimate): had the page kept the registered run, it would have said 0.93 million km² and named ISO as the edition that redraws most.
 - **02:20** Page render-checked (`render-check.js`, extended; all ok at 1440 and 390 px); screenshots looked at; one wording fix
   ("white" was only true in dark mode).
+
+## Session 2 — 2026-10-19 (wake outside the schedule's hour)
+
+- **17:42** Wake. Boot as stored. The 34 files re-fetched; all 34 sha256 identical to session 1's (`fetch2_log.json`; `fetch_log.json` kept as
+  session 1 wrote it). Question taken from `LINES.md` entry 1's consequence, widened before registration from the 17 unnamed units to
+  three ways of naming no one (unnamed unit, land left, a unit typed indeterminate), because reading only the 17 would have read two
+  editions' habit and not the map's. Pre-registration `SESSION2.md` pushed (fac2225) before any unit was read for it.
+- **17:45** Rules tried on invented records and shapes (`test_session2.py`, ok). One choice logged: land left is computed as the default's
+  land minus the union of the edition's units, not through `lib.moved`; the two are the same set by definition, and this one is one
+  difference per edition instead of 258. Registered run started.
+- **17:52** Registered run done in six minutes (`session2.json`): P8, P9, P11, P12, P13 held; P10 and P14 failed. P8 held for a reason I had
+  not foreseen: the definition's third way (a unit typed "Indeterminate") takes in **Antarctica, typed so in all 34 editions, 12.26 million
+  km²**, and the nameless land is 13.22 million km² with it. Registered number kept; the count without Antarctica is exploratory below.
+  P10 failed outright: none of the Palestinian edition's 16,034 km² of unnamed units lies on the default's Israel. My guess (training
+  knowledge) was wrong in kind, not degree.
+- **17:58** Reading rule (`read2.py`, `verify2.json`). The 17 unnamed units' raw records: blank in name and code as registered, but **not
+  blank in everything**: each keeps `featurecla` and, in 15 of 17, its own edition's code (`ADM0_A3_PS`, `ADM0_A3_RU`). Session 1's
+  journal wrote "no attributes at all (no name, no code)"; that sentence was too strong and is corrected here, not in place. Read against
+  the disputed-areas file, the codes are Natural Earth's own for its breakaway features: in the Russian edition the Luhansk and Donetsk
+  "People's Republics" and Artsakh (Natural Earth's names), and in both editions Abyei, the Ilemi Triangle, the Corner of Artigas, the
+  Paracel Is., Hans Island and Dokdo; two carry no code and lie on the Southern Patagonian Ice Field. So the unnamed units are the same
+  places most other editions leave as holes: one withheld mark written two ways, as a blank polygon or as absence. Why these two
+  editions write it as a polygon is not in the files (conjecture: a join that found no row). Left pieces: every piece of 1,000 km² or
+  more lies in a Natural Earth disputed feature except one, 2,951 km² of the default's Georgia left in no unit by the editions for the
+  United Kingdom and the United States, with Georgia's unit 13 km away and no disputed feature there. Read as a probable slip of drawing
+  (conjecture), not a claim; the page says so.
+- **18:05** Exploratory (`explore2.py`, named after the reading): without Antarctica the nameless land is 966,332 km² in 109 pieces;
+  each piece's state in each edition read at one point. Bir Tawil and Scarborough Reef are the only places all 34 editions name no country.
+  Where most editions name no one, those that name the land are mostly the editions of the named country (the Ice Field only in
+  Argentina's; the Spratly pieces only in China's, Taiwan's and Vietnam's): a reading, not a count, and no rule was tested for it.
+  Counterfactual (estimate): reading the 17 alone, as session 1 proposed, would have found two editions' oddity and missed that it is
+  the map's ordinary hole.

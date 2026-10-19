@@ -1,6 +1,8 @@
-"""Build the session-1 study page (index.html) from session1.json, session1_registered.json, pieces.json, land.json, verify.json."""
+"""Build the study page (index.html): session 1 from session1.json, session1_registered.json, pieces.json, land.json, verify.json;
+session 2 from session2.json, explore2.json, nameless.json, verify2.json, codes.json."""
 import json
 import shapely
+from shapely.geometry import Point
 from shapely.geometry import shape, mapping
 
 ED = {"default": "the default (de facto)", "arg": "Argentina", "bdg": "Bangladesh", "bra": "Brazil", "chn": "China", "deu": "Germany",
@@ -16,6 +18,48 @@ def rnd(geom, nd):
     m = mapping(g)
     polys = m["coordinates"] if m["type"] == "MultiPolygon" else ([m["coordinates"]] if m["type"] == "Polygon" else [])
     return [[[[round(x, nd), round(y, nd)] for x, y in ring] for ring in poly] for poly in polys]
+
+P2 = {"P8": "The nameless land (all three ways, all 34 editions) is at least 800,000 km²",
+      "P9": "At least 6 editions other than ISO leave at least 1 km² of the default's land in no unit",
+      "P10": "More than half of the Palestinian edition's unnamed area lies on land the default draws as Israel",
+      "P11": "No unnamed unit is larger than 100,000 km²",
+      "P12": "The Russian edition's unnamed units lie on land the default gives to at least 3 units",
+      "P13": "The default types at least 3 of its units “Indeterminate”",
+      "P14": "More than half of the land the ISO edition leaves in no unit is one piece"}
+
+
+def session2(data, rep):
+    s2 = json.load(open("session2.json"))
+    ex = json.load(open("explore2.json"))
+    nl = json.load(open("nameless.json"))
+    v2 = json.load(open("verify2.json"))
+    codes = json.load(open("codes.json"))
+    raw = {(u["edition"], u["index"]): u["nonblank"] for u in v2["unnamed_raw"]}
+    unn = []
+    for u in s2["unnamed_units"]:
+        c = [v for k, v in raw[(u["edition"], u["index"])].items() if k.startswith("ADM0_A3")]
+        unn.append((Point(*u["point"]), c))
+    out = []
+    for f in nl:
+        g = shape(f["geom"])
+        cs = sorted({c for pt, cc in unn for c in cc if g.buffer(0.01).contains(pt)})
+        row = {"a": round(f["area_km2"]), "g": rnd(f["geom"], 3), "k": f["editions_naming_no_one"], "s": f["states"]}
+        if cs:
+            row["c"] = cs
+            row["cn"] = sorted({n for c in cs for n in codes[c]})
+        out.append(row)
+    data["nl"] = out
+    rows = []
+    for k, held in s2["predictions"].items():
+        pid = k.split()[0]
+        rows.append(f"<tr><td>{pid}</td><td>{P2[pid]}</td><td>{'held' if held else 'failed'}</td></tr>")
+    E = s2["editions"]
+    geo = [x for x in v2["unexplained_left"] if x["edition"] == "gbr"][0]["area_km2"]
+    ata = [u for u in s2["indeterminate_units"] if u["code"] == "ATA"][0]["area_km2"]
+    rep.update({"{{ATA}}": f"{ata:,.0f}", "{{NL}}": f"{ex['nameless_without_antarctica_km2']:,.0f}", "{{NLP}}": str(len(ex["pieces"])),
+                "{{UN_PSE}}": str(E["pse"]["unnamed_units"]), "{{UN_RUS}}": str(E["rus"]["unnamed_units"]),
+                "{{UN_KM}}": f"{E['pse']['unnamed_km2'] + E['rus']['unnamed_km2']:,.0f}", "{{GEO}}": f"{geo:,.0f}",
+                "{{PRED2_ROWS}}": "\n".join(rows), "{{HELD2}}": str(sum(s2["predictions"].values()))})
 
 
 def main():
@@ -50,6 +94,8 @@ def main():
            "{{N_VER}}": str(len(ver)), "{{N_VER_IN}}": str(sum(1 for v in ver if v["disputed_feature"])),
            "{{LAND}}": f"{s['default_land_km2'] / 1e6:,.1f}", "{{SHARE}}": f"{100 * s['contested_km2'] / s['default_land_km2']:.2f}",
            "{{TOP}}": ED[eds[0][0]], "{{TOP_KM}}": f"{eds[0][1]:,.0f}", "{{LOW}}": ED[eds[-1][0]], "{{LOW_KM}}": f"{eds[-1][1]:,.0f}"}
+    session2(data, rep)
+    rep["{{DATA}}"] = json.dumps(data, separators=(",", ":"), ensure_ascii=False)
     for k, v in rep.items():
         t = t.replace(k, v)
     open("index.html", "w").write(t)
