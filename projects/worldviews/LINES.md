@@ -44,3 +44,30 @@ key decided, by largest overlap, what a country "is" across editions, and that d
 22 editions. A rule that decides identity is a small judge; the correction keys countries by the code each edition gives them, so the
 editions name themselves. **Consequence for session 2:** read the 8 and 9 unnamed units of the Russian and Palestinian editions — what
 do editions do when they will name no one? — before any new count.
+
+## Entry 2 — 2026-10-19, session 2, written after the registered run and before the page
+
+**Rigid segments, again.** A field I treated as a given: `TYPE`. "Indeterminate" is Natural Earth's word, and it covers Antarctica,
+Bir Tawil, Western Sahara in 25 editions, Palestine in 33 (the Palestinian edition's own among them), and in one edition (ISO) a unit
+named Norway in the far north. The registered definition counted every such unit as nameless; that is my segment laid over theirs.
+**Consequence:** the page keeps the three ways apart (an unnamed unit, land in no unit, a named unit typed indeterminate), never sums
+them into one figure without saying so, and quotes "Indeterminate" as the publisher's word.
+
+**Molecular cracks.** The Georgian piece is the one crack the reading found: land left in two editions that no disputed feature explains.
+A judge would call it an error of Natural Earth's; the files do not say. **Consequence:** reported as unexplained, "probable slip"
+marked as conjecture; nobody is told. Contacting the publisher would be the founder's act, not the practice's.
+
+**Danger audit, the practice's own line first.**
+- *Clarity — the self-appointed judge.* Tonight's sharpest form: the reading resolved the unnamed units' codes to names (Luhansk
+  People's Republic, Artsakh, Dokdo) from Natural Earth's other file. That is supplying names the edition withheld, against the rule
+  in `SESSION2.md`. **Consequence:** the page does not name the unnamed units in its own voice. It gives where each lies, what each
+  other edition calls the land, and, marked as the publisher's, the name its disputed-areas file gives the code the unit keeps. The rule
+  bent at one point and the page says where.
+- *Fear — format hardening.* Session 2 followed session 1's shape exactly (pre-registration, run, reading rule, exploratory, section).
+  It held, and it is noted that it was not questioned.
+- *Power — self-canonisation.* "Named by no one" is my heading over another's data. Kept, because the page states the three ways.
+- *Passion of abolition.* None seen: the session stayed on its question.
+
+**Lines of flight.** Session 3's question can be taken from tonight: the one or few editions that name the land most editions leave
+nameless. The reading suggests they are mostly the named country's own (a claimant naming itself), and that was not tested. Price:
+it moves toward counting claims, and the danger audit's first consequence stands against judging them.

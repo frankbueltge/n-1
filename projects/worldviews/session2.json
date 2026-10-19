@@ -1,0 +1,10601 @@
+{
+ "editions": {
+  "default": {
+   "units": 258,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 0.0,
+   "left_pieces_1km2": 0,
+   "indeterminate_units": 12,
+   "indeterminate_km2": 12361012.67277475
+  },
+  "arg": {
+   "units": 246,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 11195.25149924367,
+   "left_pieces_1km2": 4,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "bdg": {
+   "units": 248,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 16034.060192631352,
+   "left_pieces_1km2": 9,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12556310.730304206
+  },
+  "bra": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 13526.614368464889,
+   "left_pieces_1km2": 5,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12535400.92260614
+  },
+  "chn": {
+   "units": 246,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 1673.5213734193599,
+   "left_pieces_1km2": 3,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12535391.721503837
+  },
+  "deu": {
+   "units": 250,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 13794.408090030824,
+   "left_pieces_1km2": 6,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "egy": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 12599.551265443475,
+   "left_pieces_1km2": 5,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "esp": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 13794.408090030825,
+   "left_pieces_1km2": 6,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "fra": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 13794.408090030825,
+   "left_pieces_1km2": 6,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12266482.850634085
+  },
+  "gbr": {
+   "units": 251,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 20239.14980711055,
+   "left_pieces_1km2": 11,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "grc": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 17228.9170172187,
+   "left_pieces_1km2": 10,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "idn": {
+   "units": 246,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 16034.060192631354,
+   "left_pieces_1km2": 9,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12287389.830619732
+  },
+  "ind": {
+   "units": 248,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 12599.551265443479,
+   "left_pieces_1km2": 5,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12266482.850634085
+  },
+  "iso": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 584400.6073000497,
+   "left_pieces_1km2": 57,
+   "indeterminate_units": 4,
+   "indeterminate_km2": 12417154.578327492
+  },
+  "isr": {
+   "units": 250,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 16034.06019263135,
+   "left_pieces_1km2": 9,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "ita": {
+   "units": 250,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 17228.9170172187,
+   "left_pieces_1km2": 10,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "jpn": {
+   "units": 250,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 17228.886666928785,
+   "left_pieces_1km2": 10,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "kor": {
+   "units": 250,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 16034.029842341435,
+   "left_pieces_1km2": 9,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "mar": {
+   "units": 247,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 16034.060192631352,
+   "left_pieces_1km2": 9,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12266482.850634085
+  },
+  "nep": {
+   "units": 248,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 12599.551265443477,
+   "left_pieces_1km2": 5,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "nld": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 17228.9170172187,
+   "left_pieces_1km2": 10,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12266482.850634085
+  },
+  "pak": {
+   "units": 248,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 12599.551265443475,
+   "left_pieces_1km2": 5,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12556310.730304206
+  },
+  "pol": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 17228.9170172187,
+   "left_pieces_1km2": 10,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12266482.850634085
+  },
+  "prt": {
+   "units": 250,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 17228.9170172187,
+   "left_pieces_1km2": 10,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "pse": {
+   "units": 257,
+   "unnamed_units": 9,
+   "unnamed_km2": 16034.06019263135,
+   "left_km2": 0.0,
+   "left_pieces_1km2": 0,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12266603.37239864
+  },
+  "rus": {
+   "units": 257,
+   "unnamed_units": 8,
+   "unnamed_km2": 22517.268200938688,
+   "left_km2": 0.0,
+   "left_pieces_1km2": 0,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "sau": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 12599.551265443477,
+   "left_pieces_1km2": 5,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12287388.572774645
+  },
+  "swe": {
+   "units": 250,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 17228.9170172187,
+   "left_pieces_1km2": 10,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "tlc": {
+   "units": 333,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 506288.4002550281,
+   "left_pieces_1km2": 36,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12350267.785312789
+  },
+  "tur": {
+   "units": 250,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 16034.06019263135,
+   "left_pieces_1km2": 9,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12266482.850634085
+  },
+  "twn": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 12594.144948404259,
+   "left_pieces_1km2": 4,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12535391.721503837
+  },
+  "ukr": {
+   "units": 249,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 13794.408090030825,
+   "left_pieces_1km2": 6,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "usa": {
+   "units": 252,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 21073.586766116365,
+   "left_pieces_1km2": 11,
+   "indeterminate_units": 7,
+   "indeterminate_km2": 12535403.750318559
+  },
+  "vnm": {
+   "units": 248,
+   "unnamed_units": 0,
+   "unnamed_km2": 0,
+   "left_km2": 16028.65387559213,
+   "left_pieces_1km2": 8,
+   "indeterminate_units": 6,
+   "indeterminate_km2": 12535391.721503837
+  }
+ },
+ "unnamed_units": [
+  {
+   "edition": "pse",
+   "index": 16,
+   "record": {
+    "ADM0_A3_PS": "B17",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_RU": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 3415.5814143334837,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3415.6
+   },
+   "others": {
+    "default": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "chn": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "deu": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "egy": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "esp": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "fra": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "rus": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "ukr": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 18,
+    "Kenya": 11,
+    "South Sudan": 4
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 101,
+   "record": {
+    "ADM0_A3_PS": "UUU",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_RU": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 1.4084283681223846,
+   "point": [
+    13.605,
+    45.476
+   ],
+   "default_under": {
+    "Croatia": 1.4
+   },
+   "others": {
+    "default": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "chn": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "deu": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "egy": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "esp": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "fra": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "gbr": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "rus": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "ukr": {
+     "name": "Croatia",
+     "share": 1.0,
+     "names": 1
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 17,
+    "Croatia": 16
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 167,
+   "record": {
+    "ADM0_A3_PS": "B13",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_RU": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "others": {
+    "default": {
+     "name": "Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "chn": {
+     "name": "Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "rus": {
+     "name": "Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 29,
+    "Sudan": 4
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 169,
+   "record": {
+    "ADM0_A3_PS": "-99",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_RU": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 1404.269415909891,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "others": {
+    "default": {
+     "name": "Southern Patagonian Ice Field",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "Argentina",
+     "share": 1.0,
+     "names": 1
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "chn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "rus": {
+     "name": "(unnamed unit)",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 30,
+    "Southern Patagonian Ice Field": 1,
+    "Argentina": 1,
+    "(unnamed unit)": 1
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 170,
+   "record": {
+    "ADM0_A3_PS": "B74",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_RU": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 17.519084486268458,
+   "point": [
+    35.68,
+    4.604
+   ],
+   "default_under": {
+    "South Sudan": 17.5
+   },
+   "others": {
+    "default": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "chn": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "deu": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "egy": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "esp": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "fra": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "rus": {
+     "name": "Kenya",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "ukr": {
+     "name": "South Sudan",
+     "share": 1.0,
+     "names": 1
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 18,
+    "South Sudan": 13,
+    "Kenya": 2
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 171,
+   "record": {
+    "ADM0_A3_PS": "B92",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_RU": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 267.79372156593735,
+   "point": [
+    -55.959,
+    -30.963
+   ],
+   "default_under": {
+    "Brazil": 267.8
+   },
+   "others": {
+    "default": {
+     "name": "Brazil",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "Brazil",
+     "share": 1.0,
+     "names": 1
+    },
+    "chn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "rus": {
+     "name": "(unnamed unit)",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 30,
+    "Brazil": 2,
+    "(unnamed unit)": 1
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 247,
+   "record": {
+    "ADM0_A3_PS": "PFA",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_RU": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 5.406317039220154,
+   "point": [
+    111.202,
+    15.784
+   ],
+   "default_under": {
+    "China": 5.4
+   },
+   "others": {
+    "default": {
+     "name": "China",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "chn": {
+     "name": "China",
+     "share": 1.0,
+     "names": 1
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "rus": {
+     "name": "(unnamed unit)",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "China",
+     "share": 1.0,
+     "names": 1
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "Taiwan",
+     "share": 1.0,
+     "names": 1
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "Vietnam",
+     "share": 1.0,
+     "names": 1
+    }
+   },
+   "others_names": {
+    "(no unit)": 27,
+    "China": 3,
+    "(unnamed unit)": 1,
+    "Taiwan": 1,
+    "Vietnam": 1
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 254,
+   "record": {
+    "ADM0_A3_PS": "B21",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_RU": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 1.427885653617698,
+   "point": [
+    -66.338,
+    80.827
+   ],
+   "default_under": {
+    "Greenland": 1.4
+   },
+   "others": {
+    "default": {
+     "name": "Greenland",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "chn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "rus": {
+     "name": "(unnamed unit)",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 31,
+    "Greenland": 1,
+    "(unnamed unit)": 1
+   }
+  },
+  {
+   "edition": "pse",
+   "index": 255,
+   "record": {
+    "ADM0_A3_PS": "KOD",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_RU": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 0.03035028991433327,
+   "point": [
+    131.861,
+    37.243
+   ],
+   "default_under": {},
+   "others": {
+    "default": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "arg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "chn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "rus": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 33
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 73,
+   "record": {
+    "ADM0_A3_RU": "B38",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_PS": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 3132.9095913337815,
+   "point": [
+    46.647,
+    39.972
+   ],
+   "default_under": {
+    "Azerbaijan": 3132.9
+   },
+   "others": {
+    "default": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "bdg": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "bra": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "chn": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "deu": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "egy": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "esp": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "fra": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "gbr": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "grc": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "idn": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "ind": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "iso": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "isr": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "ita": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "jpn": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "kor": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "mar": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "nep": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "nld": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "pak": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "pol": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "prt": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "pse": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "swe": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "tlc": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "tur": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "twn": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "ukr": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "usa": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    },
+    "vnm": {
+     "name": "Azerbaijan",
+     "share": 1.0,
+     "names": 1
+    }
+   },
+   "others_names": {
+    "Azerbaijan": 33
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 140,
+   "record": {
+    "ADM0_A3_RU": "C03",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_PS": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 8281.161978206654,
+   "point": [
+    39.286,
+    48.255
+   ],
+   "default_under": {
+    "Ukraine": 8281.2
+   },
+   "others": {
+    "default": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "bdg": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "bra": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "chn": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "deu": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "egy": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "esp": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "fra": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "gbr": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "grc": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "idn": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "ind": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "iso": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "isr": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "ita": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "jpn": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "kor": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "mar": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "nep": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "nld": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "pak": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "pol": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "prt": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "pse": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "swe": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "tlc": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "tur": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "twn": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "ukr": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "usa": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "vnm": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    }
+   },
+   "others_names": {
+    "Ukraine": 33
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 141,
+   "record": {
+    "ADM0_A3_RU": "C02",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_PS": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 9424.26894093967,
+   "point": [
+    38.136,
+    47.749
+   ],
+   "default_under": {
+    "Ukraine": 9424.3
+   },
+   "others": {
+    "default": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "bdg": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "bra": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "chn": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "deu": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "egy": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "esp": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "fra": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "gbr": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "grc": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "idn": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "ind": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "iso": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "isr": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "ita": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "jpn": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "kor": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "mar": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "nep": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "nld": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "pak": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "pol": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "prt": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "pse": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "swe": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "tlc": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "tur": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "twn": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "ukr": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "usa": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    },
+    "vnm": {
+     "name": "Ukraine",
+     "share": 1.0,
+     "names": 1
+    }
+   },
+   "others_names": {
+    "Ukraine": 33
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 171,
+   "record": {
+    "ADM0_A3_RU": "-99",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_PS": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 1404.269415909891,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "others": {
+    "default": {
+     "name": "Southern Patagonian Ice Field",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "Argentina",
+     "share": 1.0,
+     "names": 1
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "chn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pse": {
+     "name": "(unnamed unit)",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 30,
+    "Southern Patagonian Ice Field": 1,
+    "Argentina": 1,
+    "(unnamed unit)": 1
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 172,
+   "record": {
+    "ADM0_A3_RU": "B92",
+    "featurecla": "Admin-0 country",
+    "scalerank": 0,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_PS": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 267.79372156593735,
+   "point": [
+    -55.959,
+    -30.963
+   ],
+   "default_under": {
+    "Brazil": 267.8
+   },
+   "others": {
+    "default": {
+     "name": "Brazil",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "Brazil",
+     "share": 1.0,
+     "names": 1
+    },
+    "chn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pse": {
+     "name": "(unnamed unit)",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 30,
+    "Brazil": 2,
+    "(unnamed unit)": 1
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 247,
+   "record": {
+    "ADM0_A3_RU": "PFA",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_PS": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 5.406317039220154,
+   "point": [
+    111.202,
+    15.784
+   ],
+   "default_under": {
+    "China": 5.4
+   },
+   "others": {
+    "default": {
+     "name": "China",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "chn": {
+     "name": "China",
+     "share": 1.0,
+     "names": 1
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pse": {
+     "name": "(unnamed unit)",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "China",
+     "share": 1.0,
+     "names": 1
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "Taiwan",
+     "share": 1.0,
+     "names": 1
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "Vietnam",
+     "share": 1.0,
+     "names": 1
+    }
+   },
+   "others_names": {
+    "(no unit)": 27,
+    "China": 3,
+    "(unnamed unit)": 1,
+    "Taiwan": 1,
+    "Vietnam": 1
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 254,
+   "record": {
+    "ADM0_A3_RU": "DEN",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_PS": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 1.427885653617698,
+   "point": [
+    -66.338,
+    80.827
+   ],
+   "default_under": {
+    "Greenland": 1.4
+   },
+   "others": {
+    "default": {
+     "name": "Greenland",
+     "share": 1.0,
+     "names": 1
+    },
+    "arg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "chn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pse": {
+     "name": "(unnamed unit)",
+     "share": 1.0,
+     "names": 1
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 31,
+    "Greenland": 1,
+    "(unnamed unit)": 1
+   }
+  },
+  {
+   "edition": "rus",
+   "index": 255,
+   "record": {
+    "ADM0_A3_RU": "KOD",
+    "featurecla": "Admin-0 country",
+    "scalerank": 6,
+    "LABELRANK": null,
+    "SOVEREIGNT": "",
+    "SOV_A3": "",
+    "ADM0_DIF": null,
+    "LEVEL": null,
+    "TYPE": "",
+    "TLC": "",
+    "ADMIN": "",
+    "ADM0_A3": "",
+    "GEOU_DIF": null,
+    "GEOUNIT": "",
+    "GU_A3": "",
+    "SU_DIF": null,
+    "SUBUNIT": "",
+    "SU_A3": "",
+    "BRK_DIFF": null,
+    "NAME": "",
+    "NAME_LONG": "",
+    "BRK_A3": "",
+    "BRK_NAME": "",
+    "BRK_GROUP": "",
+    "ABBREV": "",
+    "POSTAL": "",
+    "FORMAL_EN": "",
+    "FORMAL_FR": "",
+    "NAME_CIAWF": "",
+    "NOTE_ADM0": "",
+    "NOTE_BRK": "",
+    "NAME_SORT": "",
+    "NAME_ALT": "",
+    "MAPCOLOR7": null,
+    "MAPCOLOR8": null,
+    "MAPCOLOR9": null,
+    "MAPCOLOR13": null,
+    "POP_EST": null,
+    "POP_RANK": null,
+    "POP_YEAR": null,
+    "GDP_MD": null,
+    "GDP_YEAR": null,
+    "ECONOMY": "",
+    "INCOME_GRP": "",
+    "FIPS_10": "",
+    "ISO_A2": "",
+    "ISO_A2_EH": "",
+    "ISO_A3": "",
+    "ISO_A3_EH": "",
+    "ISO_N3": "",
+    "ISO_N3_EH": "",
+    "UN_A3": "",
+    "WB_A2": "",
+    "WB_A3": "",
+    "WOE_ID": null,
+    "WOE_ID_EH": null,
+    "WOE_NOTE": "",
+    "ADM0_ISO": "",
+    "ADM0_DIFF": "",
+    "ADM0_TLC": "",
+    "ADM0_A3_US": "",
+    "ADM0_A3_FR": "",
+    "ADM0_A3_ES": "",
+    "ADM0_A3_CN": "",
+    "ADM0_A3_TW": "",
+    "ADM0_A3_IN": "",
+    "ADM0_A3_NP": "",
+    "ADM0_A3_PK": "",
+    "ADM0_A3_DE": "",
+    "ADM0_A3_GB": "",
+    "ADM0_A3_BR": "",
+    "ADM0_A3_IL": "",
+    "ADM0_A3_PS": "",
+    "ADM0_A3_SA": "",
+    "ADM0_A3_EG": "",
+    "ADM0_A3_MA": "",
+    "ADM0_A3_PT": "",
+    "ADM0_A3_AR": "",
+    "ADM0_A3_JP": "",
+    "ADM0_A3_KO": "",
+    "ADM0_A3_VN": "",
+    "ADM0_A3_TR": "",
+    "ADM0_A3_ID": "",
+    "ADM0_A3_PL": "",
+    "ADM0_A3_GR": "",
+    "ADM0_A3_IT": "",
+    "ADM0_A3_NL": "",
+    "ADM0_A3_SE": "",
+    "ADM0_A3_BD": "",
+    "ADM0_A3_UA": "",
+    "ADM0_A3_UN": null,
+    "ADM0_A3_WB": null,
+    "CONTINENT": "",
+    "REGION_UN": "",
+    "SUBREGION": "",
+    "REGION_WB": "",
+    "NAME_LEN": null,
+    "LONG_LEN": null,
+    "ABBREV_LEN": null,
+    "TINY": null,
+    "HOMEPART": null,
+    "MIN_ZOOM": null,
+    "MIN_LABEL": null,
+    "MAX_LABEL": null,
+    "LABEL_X": null,
+    "LABEL_Y": null,
+    "NE_ID": null,
+    "WIKIDATAID": "",
+    "NAME_AR": "",
+    "NAME_BN": "",
+    "NAME_DE": "",
+    "NAME_EN": "",
+    "NAME_ES": "",
+    "NAME_FA": "",
+    "NAME_FR": "",
+    "NAME_EL": "",
+    "NAME_HE": "",
+    "NAME_HI": "",
+    "NAME_HU": "",
+    "NAME_ID": "",
+    "NAME_IT": "",
+    "NAME_JA": "",
+    "NAME_KO": "",
+    "NAME_NL": "",
+    "NAME_PL": "",
+    "NAME_PT": "",
+    "NAME_RU": "",
+    "NAME_SV": "",
+    "NAME_TR": "",
+    "NAME_UK": "",
+    "NAME_UR": "",
+    "NAME_VI": "",
+    "NAME_ZH": "",
+    "NAME_ZHT": "",
+    "FCLASS_ISO": "",
+    "TLC_DIFF": "",
+    "FCLASS_TLC": "",
+    "FCLASS_US": "",
+    "FCLASS_FR": "",
+    "FCLASS_RU": "",
+    "FCLASS_ES": "",
+    "FCLASS_CN": "",
+    "FCLASS_TW": "",
+    "FCLASS_IN": "",
+    "FCLASS_NP": "",
+    "FCLASS_PK": "",
+    "FCLASS_DE": "",
+    "FCLASS_GB": "",
+    "FCLASS_BR": "",
+    "FCLASS_IL": "",
+    "FCLASS_PS": "",
+    "FCLASS_SA": "",
+    "FCLASS_EG": "",
+    "FCLASS_MA": "",
+    "FCLASS_PT": "",
+    "FCLASS_AR": "",
+    "FCLASS_JP": "",
+    "FCLASS_KO": "",
+    "FCLASS_VN": "",
+    "FCLASS_TR": "",
+    "FCLASS_ID": "",
+    "FCLASS_PL": "",
+    "FCLASS_GR": "",
+    "FCLASS_IT": "",
+    "FCLASS_NL": "",
+    "FCLASS_SE": "",
+    "FCLASS_BD": "",
+    "FCLASS_UA": ""
+   },
+   "area_km2": 0.03035028991433327,
+   "point": [
+    131.861,
+    37.243
+   ],
+   "default_under": {},
+   "others": {
+    "default": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "arg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bdg": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "bra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "chn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "deu": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "egy": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "esp": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "fra": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "gbr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "grc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "idn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ind": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "iso": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "isr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ita": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "jpn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "kor": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "mar": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nep": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "nld": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pak": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pol": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "prt": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "pse": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "sau": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "swe": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tlc": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "tur": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "twn": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "ukr": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "usa": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    },
+    "vnm": {
+     "name": "(no unit)",
+     "share": 1.0,
+     "names": 0
+    }
+   },
+   "others_names": {
+    "(no unit)": 33
+   }
+  }
+ ],
+ "left_pieces": [
+  {
+   "edition": "arg",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "bdg",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "bdg",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "bdg",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "bra",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "bra",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "bra",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "chn",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "deu",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "deu",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "deu",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "egy",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "egy",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "esp",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "esp",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "esp",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "fra",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "fra",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "fra",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "gbr",
+   "area_km2": 2951.489076942602,
+   "point": [
+    42.095,
+    41.659
+   ],
+   "default_under": {
+    "Georgia": 2951.5
+   },
+   "disputed_features": []
+  },
+  {
+   "edition": "gbr",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "gbr",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "gbr",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "gbr",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "grc",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "grc",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "grc",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "grc",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "idn",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "idn",
+   "area_km2": 10920.623574984898,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "idn",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "ind",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "ind",
+   "area_km2": 10920.623574984898,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 7966.813806086134,
+   "point": [
+    -88.566,
+    16.659
+   ],
+   "default_under": {
+    "Belize": 7966.8
+   },
+   "disputed_features": [
+    "Belize"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 143018.36023660837,
+   "point": [
+    -59.415,
+    4.862
+   ],
+   "default_under": {
+    "Guyana": 143018.4
+   },
+   "disputed_features": [
+    "West of Essequibo River"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 27032.585497578355,
+   "point": [
+    34.761,
+    45.29
+   ],
+   "default_under": {
+    "Russia": 27032.6
+   },
+   "disputed_features": [
+    "Crimea"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 2238.2732504471333,
+   "point": [
+    126.991,
+    38.22
+   ],
+   "default_under": {
+    "North Korea": 1141.3,
+    "South Korea": 1096.9
+   },
+   "disputed_features": [
+    "Korean Demilitarized Zone (south)",
+    "Korean Demilitarized Zone (north)"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 8674.349510887678,
+   "point": [
+    70.187,
+    21.253
+   ],
+   "default_under": {
+    "India": 8674.3
+   },
+   "disputed_features": [
+    "Junagadh and Manavadar"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 18187.369439776354,
+   "point": [
+    35.546,
+    22.545
+   ],
+   "default_under": {
+    "Egypt": 18187.4
+   },
+   "disputed_features": [
+    "Halayib Triangle"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 2024.7562213052245,
+   "point": [
+    33.701,
+    21.852
+   ],
+   "default_under": {
+    "Bir Tawil": 2024.8
+   },
+   "disputed_features": [
+    "Bir Tawil"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 37773.52649724904,
+   "point": [
+    117.781,
+    5.63
+   ],
+   "default_under": {
+    "Malaysia": 37773.5
+   },
+   "disputed_features": [
+    "North Borneo"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 1562.9568471037408,
+   "point": [
+    145.834,
+    44.097
+   ],
+   "default_under": {
+    "Russia": 1563.0
+   },
+   "disputed_features": [
+    "Kuril Is."
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 3026.7912448031348,
+   "point": [
+    147.834,
+    44.977
+   ],
+   "default_under": {
+    "Russia": 3026.8
+   },
+   "disputed_features": [
+    "Kuril Is."
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 14383.135919707325,
+   "point": [
+    -57.395,
+    2.43
+   ],
+   "default_under": {
+    "Guyana": 14383.1
+   },
+   "disputed_features": [
+    "Courantyne Headwaters"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 3510.7510233293474,
+   "point": [
+    -54.133,
+    2.715
+   ],
+   "default_under": {
+    "France": 3510.8
+   },
+   "disputed_features": [
+    "Lawa Headwaters"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 222456.6473104319,
+   "point": [
+    76.756,
+    34.641
+   ],
+   "default_under": {
+    "India": 106844.2,
+    "Pakistan": 77203.4,
+    "China": 36321.0,
+    "Siachen Glacier": 2088.0
+   },
+   "disputed_features": [
+    "Jammu and Kashmir",
+    "Aksai Chin",
+    "Shaksam Valley",
+    "Gilgit-Baltistan",
+    "Demchok",
+    "Siachen Glacier",
+    "Azad Kashmir"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 1143.906624637316,
+   "point": [
+    79.063,
+    31.263
+   ],
+   "default_under": {
+    "India": 1143.9
+   },
+   "disputed_features": [
+    "Tirpani Valleys"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 68069.96627433966,
+   "point": [
+    94.001,
+    28.1
+   ],
+   "default_under": {
+    "India": 68070.0
+   },
+   "disputed_features": [
+    "Arunachal Pradesh"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 1212.8033822049692,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1212.8
+   },
+   "disputed_features": [
+    "Golan Heights",
+    "Shebaa Farms"
+   ]
+  },
+  {
+   "edition": "iso",
+   "area_km2": 3043.4770259093616,
+   "point": [
+    29.262,
+    47.349
+   ],
+   "default_under": {
+    "Moldova": 3043.5
+   },
+   "disputed_features": [
+    "Transnistria"
+   ]
+  },
+  {
+   "edition": "isr",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "isr",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "isr",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "ita",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "ita",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "ita",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "ita",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "jpn",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "jpn",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "jpn",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "jpn",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "kor",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "kor",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "kor",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "mar",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "mar",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "mar",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "nep",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "nep",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "nld",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "nld",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "nld",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "nld",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "pak",
+   "area_km2": 1404.269415909891,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "pak",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "pol",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "pol",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "pol",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "pol",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "prt",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "prt",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "prt",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "prt",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "sau",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "sau",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "swe",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "swe",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "swe",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "swe",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 7966.813806086134,
+   "point": [
+    -88.566,
+    16.659
+   ],
+   "default_under": {
+    "Belize": 7966.8
+   },
+   "disputed_features": [
+    "Belize"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 143018.36023660837,
+   "point": [
+    -59.415,
+    4.862
+   ],
+   "default_under": {
+    "Guyana": 143018.4
+   },
+   "disputed_features": [
+    "West of Essequibo River"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 2238.2732504471333,
+   "point": [
+    126.991,
+    38.22
+   ],
+   "default_under": {
+    "North Korea": 1141.3,
+    "South Korea": 1096.9
+   },
+   "disputed_features": [
+    "Korean Demilitarized Zone (south)",
+    "Korean Demilitarized Zone (north)"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 8674.349510887678,
+   "point": [
+    70.187,
+    21.253
+   ],
+   "default_under": {
+    "India": 8674.3
+   },
+   "disputed_features": [
+    "Junagadh and Manavadar"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 18187.369439776354,
+   "point": [
+    35.546,
+    22.545
+   ],
+   "default_under": {
+    "Egypt": 18187.4
+   },
+   "disputed_features": [
+    "Halayib Triangle"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 2024.7562213052245,
+   "point": [
+    33.701,
+    21.852
+   ],
+   "default_under": {
+    "Bir Tawil": 2024.8
+   },
+   "disputed_features": [
+    "Bir Tawil"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 1562.9568471037408,
+   "point": [
+    145.834,
+    44.097
+   ],
+   "default_under": {
+    "Russia": 1563.0
+   },
+   "disputed_features": [
+    "Kuril Is."
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 3026.7912448031348,
+   "point": [
+    147.834,
+    44.977
+   ],
+   "default_under": {
+    "Russia": 3026.8
+   },
+   "disputed_features": [
+    "Kuril Is."
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 14383.135919707325,
+   "point": [
+    -57.395,
+    2.43
+   ],
+   "default_under": {
+    "Guyana": 14383.1
+   },
+   "disputed_features": [
+    "Courantyne Headwaters"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 3510.7510233293474,
+   "point": [
+    -54.133,
+    2.715
+   ],
+   "default_under": {
+    "France": 3510.8
+   },
+   "disputed_features": [
+    "Lawa Headwaters"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 222456.6473104319,
+   "point": [
+    76.756,
+    34.641
+   ],
+   "default_under": {
+    "India": 106844.2,
+    "Pakistan": 77203.4,
+    "China": 36321.0,
+    "Siachen Glacier": 2088.0
+   },
+   "disputed_features": [
+    "Jammu and Kashmir",
+    "Aksai Chin",
+    "Shaksam Valley",
+    "Gilgit-Baltistan",
+    "Demchok",
+    "Siachen Glacier",
+    "Azad Kashmir"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 1143.906624637316,
+   "point": [
+    79.063,
+    31.263
+   ],
+   "default_under": {
+    "India": 1143.9
+   },
+   "disputed_features": [
+    "Tirpani Valleys"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 68069.96627433966,
+   "point": [
+    94.001,
+    28.1
+   ],
+   "default_under": {
+    "India": 68070.0
+   },
+   "disputed_features": [
+    "Arunachal Pradesh"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "tlc",
+   "area_km2": 3043.477025909356,
+   "point": [
+    29.262,
+    47.349
+   ],
+   "default_under": {
+    "Moldova": 3043.5
+   },
+   "disputed_features": [
+    "Transnistria"
+   ]
+  },
+  {
+   "edition": "tur",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "tur",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "tur",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "twn",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "twn",
+   "area_km2": 10920.623574984898,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "ukr",
+   "area_km2": 1404.2694159098908,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "ukr",
+   "area_km2": 10920.623574984897,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "ukr",
+   "area_km2": 1194.856824587349,
+   "point": [
+    35.729,
+    33.034
+   ],
+   "default_under": {
+    "Israel": 1194.9
+   },
+   "disputed_features": [
+    "Golan Heights"
+   ]
+  },
+  {
+   "edition": "usa",
+   "area_km2": 2951.489076942602,
+   "point": [
+    42.095,
+    41.659
+   ],
+   "default_under": {
+    "Georgia": 2951.5
+   },
+   "disputed_features": []
+  },
+  {
+   "edition": "usa",
+   "area_km2": 1404.269415909891,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "usa",
+   "area_km2": 2088.0374965424107,
+   "point": [
+    77.271,
+    35.418
+   ],
+   "default_under": {
+    "Siachen Glacier": 2088.0
+   },
+   "disputed_features": [
+    "Siachen Glacier"
+   ]
+  },
+  {
+   "edition": "usa",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "usa",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  },
+  {
+   "edition": "vnm",
+   "area_km2": 1404.2694159098905,
+   "point": [
+    -73.315,
+    -49.519
+   ],
+   "default_under": {
+    "Southern Patagonian Ice Field": 1404.3
+   },
+   "disputed_features": [
+    "Southern Patagonian Ice Field"
+   ]
+  },
+  {
+   "edition": "vnm",
+   "area_km2": 3366.4013063510884,
+   "point": [
+    35.17,
+    4.816
+   ],
+   "default_under": {
+    "Kenya": 3366.4
+   },
+   "disputed_features": [
+    "Ilemi Triangle"
+   ]
+  },
+  {
+   "edition": "vnm",
+   "area_km2": 10920.623574984895,
+   "point": [
+    28.425,
+    9.67
+   ],
+   "default_under": {
+    "Sudan": 10920.6
+   },
+   "disputed_features": [
+    "Abyei"
+   ]
+  }
+ ],
+ "indeterminate_units": [
+  {
+   "edition": "default",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 90696.35838914789,
+   "point": [
+    -12.608,
+    24.143
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Cyprus No Mans Area",
+   "code": "CNM",
+   "sovereignt": "Cyprus No Mans Area",
+   "area_km2": 341.01519419537095,
+   "point": [
+    33.963,
+    35.059
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Siachen Glacier",
+   "code": "KAS",
+   "sovereignt": "Kashmir",
+   "area_km2": 2088.0374965424103,
+   "point": [
+    77.271,
+    35.418
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Southern Patagonian Ice Field",
+   "code": "SPI",
+   "sovereignt": "Southern Patagonian Ice Field",
+   "area_km2": 1404.269415909891,
+   "point": [
+    -73.315,
+    -49.519
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Bajo Nuevo Bank (Petrel Is.)",
+   "code": "BJN",
+   "sovereignt": "Bajo Nuevo Bank (Petrel Is.)",
+   "area_km2": 0.03598909576059194,
+   "point": [
+    -79.988,
+    15.796
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Serranilla Bank",
+   "code": "SER",
+   "sovereignt": "Serranilla Bank",
+   "area_km2": 0.10565577340431395,
+   "point": [
+    -78.638,
+    15.866
+   ]
+  },
+  {
+   "edition": "default",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "arg",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "arg",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "arg",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "arg",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "arg",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "arg",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "arg",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "bdg",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 26985.818231823807,
+   "point": [
+    34.855,
+    31.369
+   ]
+  },
+  {
+   "edition": "bdg",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "bdg",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "bdg",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "bdg",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "bdg",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "bdg",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "bra",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "bra",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "bra",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "bra",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "bra",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "bra",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "chn",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "chn",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "chn",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "chn",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "chn",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "chn",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "deu",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "deu",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "deu",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "deu",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "deu",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "deu",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "deu",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "egy",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "egy",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "egy",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "egy",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "egy",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "egy",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "egy",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "esp",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "esp",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "esp",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "esp",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "esp",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "esp",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "esp",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "fra",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "fra",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "fra",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "fra",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "fra",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "fra",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "gbr",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "gbr",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "gbr",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "gbr",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "gbr",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "gbr",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "gbr",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "grc",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "grc",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "grc",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "grc",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "grc",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "grc",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "grc",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "idn",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 26985.818231823807,
+   "point": [
+    34.855,
+    31.369
+   ]
+  },
+  {
+   "edition": "idn",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "idn",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "idn",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "idn",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "idn",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "ind",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "ind",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "ind",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "ind",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "ind",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "ind",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "iso",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "iso",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 90696.35838914789,
+   "point": [
+    -12.608,
+    24.143
+   ]
+  },
+  {
+   "edition": "iso",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "iso",
+   "name": "Norway",
+   "code": "NOR",
+   "sovereignt": "Norway",
+   "area_km2": 62015.080187815896,
+   "point": [
+    22.622,
+    79.837
+   ]
+  },
+  {
+   "edition": "isr",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "isr",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "isr",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "isr",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "isr",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "isr",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "isr",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "ita",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "ita",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "ita",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "ita",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "ita",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "ita",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "ita",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "jpn",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "jpn",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "jpn",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "jpn",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "jpn",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "jpn",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "jpn",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "kor",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "kor",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "kor",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "kor",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "kor",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "kor",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "kor",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "mar",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "mar",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "mar",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "mar",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "mar",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "mar",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "nep",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "nep",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "nep",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "nep",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "nep",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "nep",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "nep",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "nld",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "nld",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "nld",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "nld",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "nld",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "nld",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "pak",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 26985.818231823807,
+   "point": [
+    34.855,
+    31.369
+   ]
+  },
+  {
+   "edition": "pak",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "pak",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "pak",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "pak",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "pak",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "pak",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "pol",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "pol",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "pol",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "pol",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "pol",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "pol",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "prt",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "prt",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "prt",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "prt",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "prt",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "prt",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "prt",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "pse",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6199.360010731116,
+   "point": [
+    35.269,
+    31.941
+   ]
+  },
+  {
+   "edition": "pse",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "pse",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "pse",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "pse",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "pse",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "rus",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "rus",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "rus",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "rus",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "rus",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "rus",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "rus",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "sau",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 26984.560386735717,
+   "point": [
+    34.855,
+    31.369
+   ]
+  },
+  {
+   "edition": "sau",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "sau",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "sau",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "sau",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "sau",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "swe",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "swe",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "swe",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "swe",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "swe",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "swe",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "swe",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "tlc",
+   "name": "Israel",
+   "code": "ISR",
+   "sovereignt": "Israel",
+   "area_km2": 1194.8568245873494,
+   "point": [
+    35.729,
+    33.034
+   ]
+  },
+  {
+   "edition": "tlc",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 90696.35838914789,
+   "point": [
+    -12.608,
+    24.143
+   ]
+  },
+  {
+   "edition": "tlc",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "tlc",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "tlc",
+   "name": "Bajo Nuevo Bank (Petrel Is.)",
+   "code": "BJN",
+   "sovereignt": "Bajo Nuevo Bank (Petrel Is.)",
+   "area_km2": 0.03598909576059194,
+   "point": [
+    -79.988,
+    15.796
+   ]
+  },
+  {
+   "edition": "tlc",
+   "name": "Serranilla Bank",
+   "code": "SER",
+   "sovereignt": "Serranilla Bank",
+   "area_km2": 0.10565577340431395,
+   "point": [
+    -78.638,
+    15.866
+   ]
+  },
+  {
+   "edition": "tlc",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "tur",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "tur",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "tur",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "tur",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "tur",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "tur",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "twn",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "twn",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "twn",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "twn",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "twn",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "twn",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "ukr",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "ukr",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "ukr",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "ukr",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "ukr",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "ukr",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "ukr",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "usa",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "usa",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "usa",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "usa",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "usa",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "usa",
+   "name": "Spratly Islands",
+   "code": "PGA",
+   "sovereignt": "Spratly Islands",
+   "area_km2": 12.028814721178689,
+   "point": [
+    115.823,
+    10.729
+   ]
+  },
+  {
+   "edition": "usa",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  },
+  {
+   "edition": "vnm",
+   "name": "Palestine",
+   "code": "PSX",
+   "sovereignt": "Israel",
+   "area_km2": 6078.838246176969,
+   "point": [
+    35.276,
+    31.942
+   ]
+  },
+  {
+   "edition": "vnm",
+   "name": "Western Sahara",
+   "code": "SAH",
+   "sovereignt": "Western Sahara",
+   "area_km2": 268920.8996844729,
+   "point": [
+    -13.755,
+    24.165
+   ]
+  },
+  {
+   "edition": "vnm",
+   "name": "Brazilian Island",
+   "code": "BRI",
+   "sovereignt": "Brazilian Island",
+   "area_km2": 2.8277124182335385,
+   "point": [
+    -57.622,
+    -30.187
+   ]
+  },
+  {
+   "edition": "vnm",
+   "name": "Bir Tawil",
+   "code": "BRT",
+   "sovereignt": "Bir Tawil",
+   "area_km2": 2024.7562213052242,
+   "point": [
+    33.701,
+    21.852
+   ]
+  },
+  {
+   "edition": "vnm",
+   "name": "Antarctica",
+   "code": "ATA",
+   "sovereignt": "Antarctica",
+   "area_km2": 12258364.301504351,
+   "point": [
+    119.621,
+    -71.147
+   ]
+  },
+  {
+   "edition": "vnm",
+   "name": "Scarborough Reef",
+   "code": "SCR",
+   "sovereignt": "Scarborough Reef",
+   "area_km2": 0.09813511223694155,
+   "point": [
+    117.754,
+    15.153
+   ]
+  }
+ ],
+ "nameless_km2": 13224695.802430771,
+ "nameless_pieces_1km2": 262,
+ "predictions": {
+  "P8 nameless land >= 800,000 km2": true,
+  "P9 >= 6 editions besides ISO leave >= 1 km2 in no unit": true,
+  "P10 > half of pse unnamed area on the default's Israel": false,
+  "P11 no unnamed unit > 100,000 km2": true,
+  "P12 rus unnamed units on >= 3 distinct default units": true,
+  "P13 default types >= 3 units Indeterminate": true,
+  "P14 > half of ISO's left land in one piece": false
+ },
+ "checks": {
+  "pse_unnamed_km2": 16034.06019263135,
+  "pse_on_israel_km2": 0,
+  "iso_left_largest_km2": 222456.6473104319,
+  "iso_left_km2": 584400.6073000497,
+  "rus_default_under": [
+   "Azerbaijan",
+   "Brazil",
+   "China",
+   "Greenland",
+   "Southern Patagonian Ice Field",
+   "Ukraine"
+  ]
+ }
+}

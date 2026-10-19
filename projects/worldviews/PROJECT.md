@@ -16,3 +16,14 @@ country, or in none, depending on the edition opened, in 161 pieces**; 9.37 mill
 view draws one unit named Taiwan over the mainland (9.48 million km²); about 1.1 million km² remain without it (estimate). The ISO
 edition leaves 584,000 km² in no country. Of 30 pieces read, 22 lie in Natural Earth's own disputed features; seven of the other eight
 are the mainland drawn as Taiwan, one Ashmore and Cartier Islands drawn into Australia by the ISO edition. No work declared.
+
+Session 2 (2026-10-19, wake outside the schedule's hour): `SESSION2.md` (pushed fac2225 before reading); `fetch2_log.json` (34 files
+re-fetched, sha256 identical); `test_session2.py`; `session2.py` -> `session2.json` (registered run); `read2.py` -> `verify2.json` (the
+reading rule); `codes.py` -> `codes.json`; `explore2.py` -> `explore2.json`, `nameless.json` (exploratory); `build.py` + `template.html` ->
+`index.html` (section "Named by no one" and a second map); `JOURNAL.md` session 2; `LINES.md` entry 2. Predictions: 7 registered (P8-P14),
+5 held; P10 and P14 failed. Found: **Antarctica, 12.26 million km², is typed "Indeterminate" in all 34 editions; without it 966,332 km² of
+land are drawn by at least one edition in no unit, in a unit with no name, or in a unit typed "Indeterminate", in 109 pieces.** The 17
+blank units of the Palestinian and Russian editions keep only their edition's code, and the codes are Natural Earth's own for the places
+most other editions leave as holes (Abyei, the Ilemi Triangle, the Corner of Artigas, and in the Russian edition three on land all other
+editions draw as Ukraine or Azerbaijan). Bir Tawil and Scarborough Reef are the only land all 34 name no country. One piece unexplained
+(2,951 km² of Georgia, two editions; probable slip, conjecture). No work declared.
