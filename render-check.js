@@ -277,14 +277,26 @@ const PAGES = [
   },
   {
     // project 13, session 1: Where each game leaves (the study), built by projects/departures/build.py;
-    // two inline SVG charts (36 and 37 bars), five tables, no account names
+    // two inline SVG charts (36 and 37 bars), three tables, no account names.
+    // Session 2 (2026-10-20): the month as one figure (coast.png, 600x1000, loaded), its first-move labels
+    // and ply axis; the figure's own text is held to at least 11 CSS px (SESSION2.md, form criteria)
     path: 'projects/departures/index.html',
-    probe: () => ({
-      charts: document.querySelectorAll('svg.ch').length,
-      bars: [...document.querySelectorAll('svg.ch')].map((s) => s.querySelectorAll('rect').length),
-      tables: document.querySelectorAll('table').length,
-    }),
-    ok: (r) => r.charts === 2 && r.bars[0] === 36 && r.bars[1] === 37 && r.tables === 3,
+    probe: () => {
+      const fig = document.querySelector('.fig');
+      const img = fig && fig.querySelector('img');
+      const txt = fig ? [...fig.querySelectorAll('span, small')] : [];
+      return {
+        charts: document.querySelectorAll('svg.ch').length,
+        bars: [...document.querySelectorAll('svg.ch')].map((s) => s.querySelectorAll('rect').length),
+        tables: document.querySelectorAll('table').length,
+        figure_loaded: !!img && img.complete && img.naturalWidth === 600 && img.naturalHeight === 1000,
+        figure_labels: fig ? fig.querySelectorAll('.lab > span').length : 0,
+        figure_min_font: txt.length ? Math.min(...txt.map((e) => parseFloat(getComputedStyle(e).fontSize))) : 0,
+        figure_labels_inside: fig ? [...fig.querySelectorAll('.lab > span')].every((e) => e.getBoundingClientRect().left >= 0) : false,
+      };
+    },
+    ok: (r) => r.charts === 2 && r.bars[0] === 36 && r.bars[1] === 37 && r.tables === 3 &&
+      r.figure_loaded && r.figure_labels >= 5 && r.figure_min_font >= 11 && r.figure_labels_inside,
   },
 ];
 

@@ -24,3 +24,25 @@ server; the page says so.
 
 **Sobriety.** The page is two charts, two tables and one prose finding per section. Cut before building: a per-opening breakdown
 (Lichess's opening tags), because it would turn the study toward opening theory, which is the tracing the question starts from.
+
+## Session 2 — 2026-10-19/20, balance written at the session's end
+
+**Which aspect dominated.** The opening, as form: one image a visitor meets without the tables. But the opening was tried from inside the
+home (the same definitions, the same sorted tree), which is where KsK's T5 asks it to happen, at a point the territory made (ATP 311):
+the sort order that the departure count needed is the figure's composition. The hold was not lost; the session re-fetched, re-checked and
+recounted under the same rules before drawing.
+
+**Components of passage.** The dictionary order. It converts the tree (a structure for counting) into a surface (rows a stranger can
+look at) and back: every row is a run of neighbours in the tree.
+
+**Consolidation.** Interval: the amber is the figure's hole, and it holds the figure together; the copy is legible only against how much
+is not copy. Superposition: two rhythms in one image, the per-ply step left to right and the per-block step top to bottom, neither
+unifying the other.
+
+**Opening test.** Placed, not pressed: a work was within reach as a format (the figure plus a title would have looked like one) and the
+registered rule kept it a study section. One opening was **moved** by the test: the exploratory measurement points the form toward the
+visitor's own game rather than toward a larger image. That direction came from the material (96,388 shared beginnings fit in 206 KB),
+not from the session count.
+
+**Sobriety.** Cut: callouts on the image; a per-row pairs-of-accounts overlay (it would turn the figure toward who plays whom). Kept: one
+image, six labels, one axis, two sentences of caption.
