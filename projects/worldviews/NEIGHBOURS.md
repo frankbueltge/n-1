@@ -33,3 +33,25 @@ result's summary; none of the works was seen.*
 The Quartz hack compares named disputed areas in one publisher's tiles. This project counts **all land** in 34 published editions of one
 open map, without choosing in advance which areas are disputed: the contested land is whatever the editions disagree on, including what no
 list of disputes would name. Whether that is daylight enough is asked at close, with the work, not now.
+
+## Refreshed, session 3 (2026-10-19), before the closing decision
+
+Atlas of Data Art feed re-fetched (sha256 `4765ce73…`, identical to session 1's, 523 entries) and grepped for border, boundary,
+territory, sovereign, dispute, frontier, worldview, annex, point of view, self-portrait, own map, de jure, de facto: 21 hits. Beside the
+four above, nearest by word: **Marcela Armas, *I-Machinarius* (2008)**, "an inverted, gear-driven silhouette of Mexico … the nation's own
+map turned into a working machine" (the Atlas's words): one nation's map as an object, not its drawing against others'; **Wafaa Bilal,
+*and Counting…* (2010)**, "a borderless map of Iraq" tattooed with the dead: a map whose border is withheld, on a body. None compares how a
+country is drawn by its own map and by others'.
+
+One web search (artwork, each country drawn by its own claimed borders, Natural Earth; not seen, summaries only):
+
+- **Shilpa Gupta, *100 Hand Drawn Maps of My Country* (2007–ongoing)**
+  (`https://www.gallerychemould.com/artworks/3121-shilpa-gupta-100-hand-drawn-maps-of-my-country-2007-ongoing`): people asked to draw
+  their own country from memory, the drawings layered as composite outlines; per the summary, participants in Korea mostly drew North
+  and South as one. **The nearest neighbour found for session 3's question**: a country as drawn by its own, overlaid. Daylight: Gupta's
+  drawings are people's memories, many per country; here there is no person, only one publisher's reading of 31 countries' law, each set
+  against the same country as 33 other editions draw it, measured.
+- **Alighiero Boetti, *Mappa* (1971 onward)** (`https://afterall.org/publications/alighiero-e-boetti-mappa/`): the world's countries
+  embroidered in their flags, the series following changes of borders over time. One world map at a time, made by hand; not views side by side.
+- **Laith McGregor, *Drawing Room* (2024)**, and **Capucine Gros, *Borderline* (2012–)**: a world map with claims erased; the world's
+  borders embroidered. Borders as a material; no comparison of views.

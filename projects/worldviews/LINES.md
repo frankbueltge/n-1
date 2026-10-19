@@ -71,3 +71,29 @@ marked as conjecture; nobody is told. Contacting the publisher would be the foun
 **Lines of flight.** Session 3's question can be taken from tonight: the one or few editions that name the land most editions leave
 nameless. The reading suggests they are mostly the named country's own (a claimant naming itself), and that was not tested. Price:
 it moves toward counting claims, and the danger audit's first consequence stands against judging them.
+
+## Entry 3 — 2026-10-19, session 3, written after the reading and before the closing decision
+
+**Rigid segments.** The registered definition is a segment of mine: "excess" against the median of 33 makes the majority the bank. A
+majority of editions is not a fact about land; 22 editions drawing Western Sahara apart from Morocco is 22 of one publisher's readings.
+**Consequence:** the work says "as most of the other 33 editions draw it", never "its real size", and gives both numbers each time.
+
+**Molecular cracks.** The two rare names that are not self-named are the finding's cracks, and they are kept on the page, not dropped
+for the clean sentence: Palestine's own edition draws as Israel the land four other editions draw as Palestine; France's own edition
+names Clipperton Island apart, where only ISO draws it in France. A machine looking for a pattern would want 125 of 125.
+
+**Danger audit, the practice's own line first.**
+- *Clarity — the self-appointed judge.* Tonight's sentence, "no edition draws its own country smaller than the others do", is one step
+  from "every country claims more". That is not in the files: an edition is Natural Earth's reading of a country's law, and the
+  publisher made all 34. **Consequence:** the work's first sentence says whose maps these are; "claim" is not written in the practice's
+  voice; what the others name each piece is attributed, edition by edition.
+- *Fear — format hardening.* The closing rule is the form of projects 10 and 11 repeated: three sessions, a rule fixed before, a modest
+  work. Entry 1 named it, and tonight it was not broken. What differs is only the work's form (small multiples of 15 countries, one
+  mirror, a list of 16), not the project's. **Consequence:** stated in the toolkit account as a finding about the toolkit, not hidden; the
+  next project is not to close at session 3 by default, and its selection says so before it starts.
+- *Power — self-canonisation.* A work titled after a sentence about every country risks standing as a statement about the world. The
+  work says one publisher, one version, 34 files.
+- *Passion of abolition.* None seen.
+
+**Lines of flight.** The mirror (China and Taiwan, one polygon, each its own map's) is the line the work is drawn on. Price (ATP 203): it
+shows two states' readings as one figure, and the figure is the publisher's join, not either state's statement; the page says so.
