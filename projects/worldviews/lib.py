@@ -27,11 +27,30 @@ def unproject(geom):
     return shapely.transform(geom, f)
 
 
-def match(units, default_units):
-    """Key each unit of an edition to the default unit it overlaps most (its owner key). None if it overlaps none."""
+def match(units, default_units, codes=None, dcodes=None):
+    """Key each unit of an edition to a default unit (its owner key).
+
+    Registered rule: the default unit it overlaps most; None if it overlaps none. Correction of 2026-10-19 (JOURNAL.md, 01:55),
+    used when codes are given: a unit whose ADM0_A3 equals a default unit's is keyed to that unit; a unit with a blank code is its
+    own key ('unnamed:i'); only the rest fall back to the largest overlap. The registered rule keyed an edition's Western Sahara
+    (mostly land the default draws in Morocco) to Morocco, hiding the move.
+    """
     tree = STRtree([g for _, g in default_units])
+    bycode = {}
+    if dcodes is not None:
+        for (dk, _), c in zip(default_units, dcodes):
+            if c:
+                bycode.setdefault(c, dk)
     keys = []
-    for _, g in units:
+    for j, (_, g) in enumerate(units):
+        if codes is not None:
+            c = (codes[j] or "").strip()
+            if not c:
+                keys.append("unnamed:%d" % j)
+                continue
+            if c in bycode:
+                keys.append(bycode[c])
+                continue
         best, best_a = None, 0.0
         for i in tree.query(g):
             a = shapely.area(shapely.intersection(g, default_units[i][1]))
@@ -41,32 +60,51 @@ def match(units, default_units):
     return keys
 
 
-def moved(units, default_units):
+def moved(units, default_units, keys=None):
     """Pieces of land whose owner in the edition differs from the default.
 
     Returns a list of (default_key, edition_key, geometry). edition_key None = land of a default unit lying in
     no unit of the edition ('left'); default_key None = edition land lying in no default unit ('added').
+    Fast path (same definition): a default unit whose edition counterpart (the union of edition units keyed to it)
+    is geometrically identical moves nothing and is skipped.
     """
-    keys = match(units, default_units)
+    if keys is None:
+        keys = match(units, default_units)
+    dmap = dict(default_units)
+    by_key = {}
+    for (_, g), k in zip(units, keys):
+        by_key.setdefault(k, []).append(g)
+    etree = STRtree([g for _, g in units])
+    dtree = STRtree([g for _, g in default_units])
     out = []
-    tree = STRtree([g for _, g in units])
     for dk, dg in default_units:
-        covered = []
-        for i in tree.query(dg):
-            inter = shapely.intersection(dg, units[i][1])
-            if inter.is_empty or inter.area == 0:
-                continue
-            covered.append(inter)
-            if keys[i] != dk:
-                out.append((dk, keys[i], inter))
-        rest = shapely.difference(dg, shapely.union_all(covered)) if covered else dg
-        if rest.area > 0:
-            out.append((dk, None, rest))
-    dunion = shapely.union_all([g for _, g in default_units])
-    for (ek, eg), k in zip(units, keys):
-        extra = shapely.difference(eg, dunion)
-        if extra.area > 0:
-            out.append((None, k, extra))
+        mine = by_key.get(dk, [])
+        eg = mine[0] if len(mine) == 1 else (shapely.union_all(mine) if mine else shapely.Polygon())
+        if len(mine) == 1 and shapely.equals_exact(shapely.normalize(eg), shapely.normalize(dg), 0.0):
+            continue
+        lost = polys(shapely.difference(dg, eg)) if mine else dg
+        if lost.area > 0:
+            given = []
+            for i in etree.query(lost):
+                if keys[i] == dk:
+                    continue
+                inter = polys(shapely.intersection(lost, units[i][1]))
+                if inter.area > 0:
+                    out.append((dk, keys[i], inter))
+                    given.append(inter)
+            rest = polys(shapely.difference(lost, shapely.union_all(given))) if given else lost
+            if rest.area > 0:
+                out.append((dk, None, rest))
+        if mine:
+            gained = polys(shapely.difference(eg, dg))
+            if gained.area > 0:
+                near = [default_units[i][1] for i in dtree.query(gained) if default_units[i][0] != dk]
+                extra = polys(shapely.difference(gained, shapely.union_all(near))) if near else gained
+                if extra.area > 0:
+                    out.append((None, dk, extra))
+    for (_, g), k in zip(units, keys):
+        if k is None:
+            out.append((None, None, g))
     return out
 
 

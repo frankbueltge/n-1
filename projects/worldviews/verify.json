@@ -1,0 +1,522 @@
+[
+ {
+  "i": 0,
+  "area_km2": 222457,
+  "lon": 76.76,
+  "lat": 34.64,
+  "owners": {
+   "India": 30,
+   "(none)": 2,
+   "Pakistan": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Jammu and Kashmir",
+    "NOTE_BRK": "Admin. by India; Claimed by Pakistan",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "area_km2": 168093,
+  "lon": 46.08,
+  "lat": 9.74,
+  "owners": {
+   "Somaliland": 3,
+   "Somalia": 31
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Somaliland",
+    "NOTE_BRK": "Self admin.; Claimed by Somalia",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "area_km2": 143018,
+  "lon": -59.42,
+  "lat": 4.86,
+  "owners": {
+   "Guyana": 32,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "West of Essequibo River",
+    "NOTE_BRK": "Admin. by Guyana; Claimed by Venezuela",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "area_km2": 90696,
+  "lon": -12.61,
+  "lat": 24.14,
+  "owners": {
+   "Western Sahara": 3,
+   "Morocco": 31
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "W. Sahara",
+    "NOTE_BRK": "Self admin.; Claimed by Morocco",
+    "TYPE": "Indeterminate"
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "area_km2": 68070,
+  "lon": 94.0,
+  "lat": 28.1,
+  "owners": {
+   "India": 30,
+   "China": 2,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Arunachal Pradesh",
+    "NOTE_BRK": "Admin. by India; Claimed by China",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "area_km2": 37774,
+  "lon": 117.78,
+  "lat": 5.63,
+  "owners": {
+   "Malaysia": 33,
+   "(none)": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "North Borneo",
+    "NOTE_BRK": "",
+    "TYPE": "Breakaway"
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "area_km2": 35940,
+  "lon": 120.82,
+  "lat": 23.57,
+  "owners": {
+   "Taiwan": 25,
+   "China": 9
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Taiwan",
+    "NOTE_BRK": "Self admin.; Claimed by China",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "area_km2": 27033,
+  "lon": 34.76,
+  "lat": 45.29,
+  "owners": {
+   "Russia": 3,
+   "Ukraine": 30,
+   "(none)": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Crimea",
+    "NOTE_BRK": "Admin. by Russia; Claimed by Ukraine",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "area_km2": 18187,
+  "lon": 35.55,
+  "lat": 22.55,
+  "owners": {
+   "Egypt": 32,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Halayib Triangle",
+    "NOTE_BRK": "Admin. by Egypt; Claimed by Sudan",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "area_km2": 14383,
+  "lon": -57.39,
+  "lat": 2.43,
+  "owners": {
+   "Guyana": 32,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Courantyne Headwaters",
+    "NOTE_BRK": "Admin. by Guyana; Claimed by Suriname",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "area_km2": 12,
+  "lon": 55.03,
+  "lat": 25.87,
+  "owners": {
+   "Iran": 18,
+   "United Arab Emirates": 16
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Abu Musa I.",
+    "NOTE_BRK": "Admin. by Iran; Claimed by UAE",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "area_km2": 67,
+  "lon": 119.6,
+  "lat": 23.56,
+  "owners": {
+   "Taiwan": 25,
+   "China": 9
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Taiwan",
+    "NOTE_BRK": "Self admin.; Claimed by China",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "area_km2": 1,
+  "lon": 114.36,
+  "lat": 10.18,
+  "owners": {
+   "Spratly Islands": 30,
+   "China": 2,
+   "(none)": 1,
+   "Vietnam": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Spratly Is.",
+    "NOTE_BRK": "Claimed by China, Taiwan, Malaysia, the Philippines, and Brunei",
+    "TYPE": "Indeterminate"
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "area_km2": 2238,
+  "lon": 126.99,
+  "lat": 38.22,
+  "owners": {
+   "South Korea": 32,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Korean Demilitarized Zone (south)",
+    "NOTE_BRK": "Since 1953 a 2 km buffer south of the military demarcation line, patrolled by South Korea",
+    "TYPE": "Overlay"
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "area_km2": 305,
+  "lon": 78.59,
+  "lat": 32.05,
+  "owners": {
+   "India": 29,
+   "China": 3,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Samdu Valleys",
+    "NOTE_BRK": "Admin. by India; Claimed by China",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "area_km2": 26,
+  "lon": -61.3,
+  "lat": -51.72,
+  "owners": {
+   "Falkland Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Falkland Is.",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "area_km2": 17,
+  "lon": -27.35,
+  "lat": -59.45,
+  "owners": {
+   "South Georgia and the Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "S. Sandwich Is.",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Geo subunit"
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "area_km2": 111,
+  "lon": 116.93,
+  "lat": 7.28,
+  "owners": {
+   "Malaysia": 33,
+   "(none)": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "North Borneo",
+    "NOTE_BRK": "",
+    "TYPE": "Breakaway"
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "area_km2": 127,
+  "lon": -60.11,
+  "lat": -51.33,
+  "owners": {
+   "Falkland Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Falkland Is.",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "area_km2": 1,
+  "lon": 13.6,
+  "lat": 45.48,
+  "owners": {
+   "Croatia": 17,
+   "(none)": 17
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Dragonja River",
+    "NOTE_BRK": "",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "area_km2": 7967,
+  "lon": -88.57,
+  "lat": 16.66,
+  "owners": {
+   "Belize": 32,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Belize",
+    "NOTE_BRK": "",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "area_km2": 60,
+  "lon": 80.95,
+  "lat": 30.22,
+  "owners": {
+   "India": 30,
+   "(none)": 3,
+   "Nepal": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Near Om Parvat",
+    "NOTE_BRK": "Admin. by India; Claimed by Nepal",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "area_km2": 1563,
+  "lon": 145.83,
+  "lat": 44.1,
+  "owners": {
+   "Russia": 29,
+   "Japan": 3,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Kuril Is.",
+    "NOTE_BRK": "Admin. by Russia; Claimed by Japan",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "area_km2": 10921,
+  "lon": 28.42,
+  "lat": 9.67,
+  "owners": {
+   "Sudan": 5,
+   "(none)": 29
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Abyei",
+    "NOTE_BRK": "Admin. by Sudan; Claimed by South Sudan",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "area_km2": 30,
+  "lon": 34.7,
+  "lat": 27.94,
+  "owners": {
+   "Egypt": 31,
+   "(none)": 2,
+   "Saudi Arabia": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Tiran and Sanafir Is.",
+    "NOTE_BRK": "Admin. by Egypt; Claimed by Saudi Arabia",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "area_km2": 4,
+  "lon": -38.07,
+  "lat": -54.0,
+  "owners": {
+   "South Georgia and the Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "S. Georgia",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Geo subunit"
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "area_km2": 16,
+  "lon": 119.58,
+  "lat": 23.65,
+  "owners": {
+   "Taiwan": 25,
+   "China": 9
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Taiwan",
+    "NOTE_BRK": "Self admin.; Claimed by China",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "area_km2": 67,
+  "lon": 146.15,
+  "lat": 43.51,
+  "owners": {
+   "Russia": 29,
+   "Japan": 3,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Kuril Is.",
+    "NOTE_BRK": "Admin. by Russia; Claimed by Japan",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "area_km2": 3594,
+  "lon": -36.49,
+  "lat": -54.43,
+  "owners": {
+   "South Georgia and the Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "S. Georgia",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Geo subunit"
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "area_km2": 3511,
+  "lon": -54.13,
+  "lat": 2.71,
+  "owners": {
+   "France": 32,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Lawa Headwaters",
+    "NOTE_BRK": "Admin. by France; Claimed by Suriname",
+    "TYPE": "Disputed"
+   }
+  ]
+ }
+]
