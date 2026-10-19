@@ -1,8 +1,9 @@
-"""Builds index.html (the project's page) from session1.json, explore1.json, explore1b.json and sample.json. Nothing is fetched at load."""
+"""Builds index.html (the project's page) from session1.json, explore1.json, explore1b.json, sample.json, session2.json and rows2.json. Nothing is fetched at load."""
 import json, html
 
 s = json.load(open("session1.json")); e1 = json.load(open("explore1.json")); e = json.load(open("explore1b.json"))
 sample = json.load(open("sample.json"))
+s2 = json.load(open("session2.json"))
 n = s["games"]
 fmt = lambda x: f"{x:,}"
 
@@ -56,6 +57,14 @@ pr = "".join(f'<tr><td>{html.escape(k)}</td><td>{html.escape(json.dumps(v["value
 bm = s["band_median_departure"]
 held = sum(v["held"] for v in s["predictions"].values())
 
+# the figure's labels: first-move blocks of at least 20 rows, at their middle; the ply axis
+labels = "".join(f'<span class="{"b" if x["to"]-x["from"] >= 200 else ""}" style="top:{(x["from"]+x["to"]+1)/2/s2["rows"]*100:.2f}%">1.{html.escape(x["move"])} '
+                 f'<br><small>{fmt(x["games"])}</small></span>' for x in s2["spans"] if x["to"] - x["from"] + 1 >= 20)
+axis = "".join(f'<span style="left:{(p-0.5)/60*100:.2f}%">{p}</span>' for p in (1, 10, 20, 30, 40, 50, 60)) 
+pr2 = "".join(f'<tr><td>{html.escape(k)}</td><td>{html.escape(json.dumps(v["value"]))}</td><td>{"held" if v["held"] else "<b>failed</b>"}</td></tr>' for k, v in s2["predictions"].items())
+held2 = sum(v["held"] for v in s2["predictions"].values())
+rows2 = json.load(open("rows2.json"))
+latest = max(r["median_departure"] for r in rows2)
 page = open("template.html").read()
 for k, v in {"N": fmt(n), "CHART1": chart1, "CHART2": chart2, "LROWS": lrows, "TROWS": trows, "PR": pr, "HELD": str(held),
              "NEVER": fmt(s["never_depart"]), "NEVERPCT": f'{100*s["never_depart"]/n:.1f}', "MED": str(s["median_departure_ply"]),
@@ -63,7 +72,12 @@ for k, v in {"N": fmt(n), "CHART1": chart1, "CHART2": chart2, "LROWS": lrows, "T
              "B1": f'{bm["<1400"][0]:g}', "B2": f'{bm["1400-1799"][0]:g}', "B3": f'{bm[">=1800"][0]:g}',
              "AT10": fmt(s["together"][9]["still_shared"]), "AT20": fmt(s["together"][19]["still_shared"]), "AT30": fmt(s["together"][29]["still_shared"]),
              "IDG": fmt(e["identical_groups"]), "IDN": fmt(e["games_in_identical_groups"]), "ODD": fmt(e1["tokens_not_canonical"]),
-             "PMED": f'{e["position_median_departure_ply"]:g}'}.items():
+             "PMED": f'{e["position_median_departure_ply"]:g}',
+             "FIGLABELS": labels, "FIGAXIS": axis, "PR2": pr2, "HELD2": str(held2), "PLIES": fmt(s2["plies_total"]),
+             "SHAREPCT": f'{100*s2["plies_shared"]/s2["plies_total"]:.1f}', "OWNPCT": f'{100-100*s2["plies_shared"]/s2["plies_total"]:.1f}',
+             "LATEST": f'{latest:g}',
+             "FIGALT": f'The {fmt(n)} games of January 2013 as lines stacked in move order: a narrow blue band of shared moves at the left, '
+                       f'mostly ending between half-move 5 and 12, and amber, each game alone, everywhere to its right.'}.items():
     page = page.replace("{{" + k + "}}", v)
 assert "{{" not in page
 open("index.html", "w").write(page)

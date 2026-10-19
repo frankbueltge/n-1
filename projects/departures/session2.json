@@ -1,0 +1,254 @@
+{
+ "games": 121332,
+ "plies_total": 8155187,
+ "plies_shared": 992707,
+ "first_moves": [
+  [
+   "e4",
+   72488
+  ],
+  [
+   "d4",
+   29067
+  ],
+  [
+   "e3",
+   4409
+  ],
+  [
+   "c4",
+   3861
+  ],
+  [
+   "Nf3",
+   3079
+  ],
+  [
+   "g3",
+   2795
+  ],
+  [
+   "b3",
+   1359
+  ],
+  [
+   "f4",
+   1200
+  ],
+  [
+   "d3",
+   865
+  ],
+  [
+   "c3",
+   612
+  ],
+  [
+   "Nc3",
+   427
+  ],
+  [
+   "b4",
+   425
+  ],
+  [
+   "h4",
+   196
+  ],
+  [
+   "g4",
+   184
+  ],
+  [
+   "f3",
+   145
+  ],
+  [
+   "a3",
+   101
+  ],
+  [
+   "h3",
+   50
+  ],
+  [
+   "a4",
+   48
+  ],
+  [
+   "Nh3",
+   17
+  ],
+  [
+   "Na3",
+   4
+  ]
+ ],
+ "rows": 1000,
+ "row_median_hist": {
+  "3.0": 1,
+  "4": 4,
+  "5": 30,
+  "6.0": 103,
+  "6.5": 2,
+  "7.0": 147,
+  "7.5": 4,
+  "8": 191,
+  "8.5": 4,
+  "9": 171,
+  "9.5": 4,
+  "10": 140,
+  "10.5": 1,
+  "11.0": 75,
+  "11.5": 2,
+  "12": 73,
+  "13": 28,
+  "14": 11,
+  "15": 5,
+  "16": 2,
+  "17": 1,
+  "20.5": 1
+ },
+ "spans": [
+  {
+   "move": "Na3",
+   "from": 0,
+   "to": 0,
+   "games": 4
+  },
+  {
+   "move": "Nc3",
+   "from": 1,
+   "to": 3,
+   "games": 427
+  },
+  {
+   "move": "Nf3",
+   "from": 4,
+   "to": 28,
+   "games": 3079
+  },
+  {
+   "move": "Nh3",
+   "from": 29,
+   "to": 29,
+   "games": 17
+  },
+  {
+   "move": "a4",
+   "from": 30,
+   "to": 30,
+   "games": 48
+  },
+  {
+   "move": "b3",
+   "from": 31,
+   "to": 41,
+   "games": 1359
+  },
+  {
+   "move": "b4",
+   "from": 42,
+   "to": 44,
+   "games": 425
+  },
+  {
+   "move": "c3",
+   "from": 45,
+   "to": 50,
+   "games": 612
+  },
+  {
+   "move": "c4",
+   "from": 51,
+   "to": 81,
+   "games": 3861
+  },
+  {
+   "move": "d3",
+   "from": 82,
+   "to": 88,
+   "games": 865
+  },
+  {
+   "move": "d4",
+   "from": 89,
+   "to": 328,
+   "games": 29067
+  },
+  {
+   "move": "e3",
+   "from": 329,
+   "to": 364,
+   "games": 4409
+  },
+  {
+   "move": "e4",
+   "from": 365,
+   "to": 962,
+   "games": 72488
+  },
+  {
+   "move": "f3",
+   "from": 963,
+   "to": 963,
+   "games": 145
+  },
+  {
+   "move": "f4",
+   "from": 964,
+   "to": 973,
+   "games": 1200
+  },
+  {
+   "move": "g3",
+   "from": 974,
+   "to": 996,
+   "games": 2795
+  },
+  {
+   "move": "g4",
+   "from": 997,
+   "to": 997,
+   "games": 184
+  },
+  {
+   "move": "h3",
+   "from": 998,
+   "to": 998,
+   "games": 50
+  },
+  {
+   "move": "h4",
+   "from": 999,
+   "to": 999,
+   "games": 196
+  }
+ ],
+ "shared_beginnings": 96388,
+ "trie_json_bytes": 1027343,
+ "trie_json_gzip_bytes": 205640,
+ "predictions": {
+  "P7 shared share of all plies in [10,20]%": {
+   "value": 12.173,
+   "held": true
+  },
+  "P8 more than half begin 1.e4": {
+   "value": 59.744,
+   "held": true
+  },
+  "P9 latest row median >= 16": {
+   "value": 20.5,
+   "held": true
+  },
+  "P10 fewer than 5% of rows median >= 13": {
+   "value": 4.8,
+   "held": true
+  },
+  "P11 shared beginnings < 500,000": {
+   "value": 96388,
+   "held": true
+  }
+ },
+ "seconds": 27
+}

@@ -1,0 +1,294 @@
+[
+ {
+  "why": "latest",
+  "row": 670,
+  "games": 122,
+  "median_departure": 20.5,
+  "shared_beginning": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bb5",
+   "a6",
+   "Ba4",
+   "Nf6",
+   "O-O"
+  ],
+  "distinct_pairs": 78,
+  "opening_tags": [
+   [
+    "Ruy Lopez: Marshall Attack, Steiner Variation",
+    29
+   ],
+   [
+    "Ruy Lopez: Open Variations, Open Variation",
+    12
+   ],
+   [
+    "Ruy Lopez: Closed, 7...O-O",
+    8
+   ]
+  ]
+ },
+ {
+  "why": "latest",
+  "row": 689,
+  "games": 121,
+  "median_departure": 17,
+  "shared_beginning": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bc4",
+   "Bc5",
+   "c3"
+  ],
+  "distinct_pairs": 98,
+  "opening_tags": [
+   [
+    "Italian Game: Classical Variation, Greco Gambit, Traditional Line",
+    52
+   ],
+   [
+    "Italian Game: Classical Variation #2",
+    22
+   ],
+   [
+    "Italian Game: Classical Variation, Greco Gambit, Moeller-Therkatz Attack",
+    19
+   ]
+  ]
+ },
+ {
+  "why": "latest",
+  "row": 698,
+  "games": 121,
+  "median_departure": 16,
+  "shared_beginning": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bc4",
+   "Nf6",
+   "Ng5"
+  ],
+  "distinct_pairs": 108,
+  "opening_tags": [
+   [
+    "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line",
+    36
+   ],
+   [
+    "Italian Game: Two Knights Defense, Knight Attack",
+    23
+   ],
+   [
+    "Italian Game: Two Knights Defense, Knight Attack, Normal Variation",
+    14
+   ]
+  ]
+ },
+ {
+  "why": "latest",
+  "row": 699,
+  "games": 121,
+  "median_departure": 16,
+  "shared_beginning": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bc4",
+   "Nf6",
+   "Ng5",
+   "d5",
+   "exd5"
+  ],
+  "distinct_pairs": 115,
+  "opening_tags": [
+   [
+    "Italian Game: Two Knights Defense, Fried Liver Attack",
+    53
+   ],
+   [
+    "Italian Game: Two Knights Defense, Knight Attack, Normal Variation",
+    39
+   ],
+   [
+    "Italian Game: Two Knights Defense, Fritz Variation",
+    22
+   ]
+  ]
+ },
+ {
+  "why": "latest",
+  "row": 470,
+  "games": 121,
+  "median_departure": 15,
+  "shared_beginning": [
+   "e4",
+   "c5",
+   "Nf3",
+   "d6",
+   "d4",
+   "cxd4",
+   "Nxd4",
+   "Nf6",
+   "Nc3",
+   "a6"
+  ],
+  "distinct_pairs": 110,
+  "opening_tags": [
+   [
+    "Sicilian Defense: Najdorf Variation",
+    30
+   ],
+   [
+    "Sicilian Defense: Najdorf Variation, Opocensky Variation",
+    30
+   ],
+   [
+    "Sicilian Defense: Najdorf Variation, English Attack",
+    24
+   ]
+  ]
+ },
+ {
+  "why": "random",
+  "row": 792,
+  "games": 121,
+  "median_departure": 11,
+  "shared_beginning": [
+   "e4",
+   "e5",
+   "Nf3",
+   "d6",
+   "d4"
+  ],
+  "distinct_pairs": 117,
+  "opening_tags": [
+   [
+    "Philidor Defense: Hanham Variation",
+    78
+   ],
+   [
+    "Philidor Defense: Nimzowitsch Variation",
+    21
+   ],
+   [
+    "Philidor Defense: Nimzowitsch Variation #2",
+    14
+   ]
+  ]
+ },
+ {
+  "why": "random",
+  "row": 470,
+  "games": 121,
+  "median_departure": 15,
+  "shared_beginning": [
+   "e4",
+   "c5",
+   "Nf3",
+   "d6",
+   "d4",
+   "cxd4",
+   "Nxd4",
+   "Nf6",
+   "Nc3",
+   "a6"
+  ],
+  "distinct_pairs": 110,
+  "opening_tags": [
+   [
+    "Sicilian Defense: Najdorf Variation",
+    30
+   ],
+   [
+    "Sicilian Defense: Najdorf Variation, Opocensky Variation",
+    30
+   ],
+   [
+    "Sicilian Defense: Najdorf Variation, English Attack",
+    24
+   ]
+  ]
+ },
+ {
+  "why": "random",
+  "row": 763,
+  "games": 122,
+  "median_departure": 7.0,
+  "shared_beginning": [
+   "e4",
+   "e5",
+   "Nf3"
+  ],
+  "distinct_pairs": 122,
+  "opening_tags": [
+   [
+    "King's Knight Opening",
+    45
+   ],
+   [
+    "Elephant Gambit",
+    32
+   ],
+   [
+    "King's Pawn Game: Gunderam Gambit",
+    31
+   ]
+  ]
+ },
+ {
+  "why": "random",
+  "row": 667,
+  "games": 122,
+  "median_departure": 14.0,
+  "shared_beginning": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bb5",
+   "Nge7"
+  ],
+  "distinct_pairs": 86,
+  "opening_tags": [
+   [
+    "Ruy Lopez: Cozio Defense",
+    122
+   ]
+  ]
+ },
+ {
+  "why": "random",
+  "row": 837,
+  "games": 121,
+  "median_departure": 10,
+  "shared_beginning": [
+   "e4",
+   "e5",
+   "d4",
+   "Nc6"
+  ],
+  "distinct_pairs": 109,
+  "opening_tags": [
+   [
+    "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation",
+    98
+   ],
+   [
+    "Nimzowitsch Defense: Kennedy Variation, Paulsen Attack",
+    13
+   ],
+   [
+    "Nimzowitsch Defense: Kennedy Variation",
+    7
+   ]
+  ]
+ }
+]
