@@ -30,5 +30,5 @@
   output is kept as `session1_registered.json`; the corrected run is `session1.json`. Counterfactual (estimate): without the point
   check, the page would have said no edition draws Western Sahara as itself, the opposite of the files.
 - **01:40** The corrected run was killed when the session's worker restarted, after all 33 editions and before the owners grid
-  (`run2.log` stops at "vnm"). The progress lines already show the correction's size: the edition for Sweden moves 403,000 km²
-  rather than 315,000. Finished files committed as a safeguard; the run restarted.
+  (`run2.log` stops at "vnm"). The progress lines already showed the correction's size: the edition for Germany moved 399,397 km²
+  rather than the registered 311,869 (the United States 406,870 rather than 319,342). Finished files committed as a safeguard; the run restarted.
