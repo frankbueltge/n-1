@@ -1,0 +1,240 @@
+[
+ {
+  "name": "ne_10m_admin_0_countries",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries.zip",
+  "bytes": 4930492,
+  "sha256": "ce1ac7036499a0edd641fbc093cd209a98f96a49d2eca8480aaacad35138a7f6",
+  "fetched": "2026-10-19T01:04:56Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_arg",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_arg.zip",
+  "bytes": 4910248,
+  "sha256": "357fbb518e4288d32734087c91ac9f27d630068f7f60552d225ff64a6c04ed12",
+  "fetched": "2026-10-19T01:04:57Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_bdg",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_bdg.zip",
+  "bytes": 4911180,
+  "sha256": "38dc28eea054c58cd828ca846cd08bd31007451b5c3591df0d73483d24380ed7",
+  "fetched": "2026-10-19T01:04:58Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_bra",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_bra.zip",
+  "bytes": 4913027,
+  "sha256": "131c5102ecf8f87f8462bb2bb50d114e3d80c3076ad61bc29122ace3fb97186d",
+  "fetched": "2026-10-19T01:04:59Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_chn",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_chn.zip",
+  "bytes": 4904124,
+  "sha256": "16e7589083527d01208b9f645fc8643c767170258e9d13b59d37bc5a1f6a8758",
+  "fetched": "2026-10-19T01:04:59Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_deu",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_deu.zip",
+  "bytes": 4913585,
+  "sha256": "125fc4b1f425926b8bd22dce23af6f9f873543c2fe330915ccbe0aa7fa21ff82",
+  "fetched": "2026-10-19T01:05:00Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_egy",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_egy.zip",
+  "bytes": 4912747,
+  "sha256": "11a59f8d01367bfe49e1e65a04349dc670a4341ba9465683b10e70f34576f5ef",
+  "fetched": "2026-10-19T01:05:01Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_esp",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_esp.zip",
+  "bytes": 4912068,
+  "sha256": "cc953fbb5ee827ca39d49940491fe48b3979a7ca4b10649c36d66948ad3ea7a0",
+  "fetched": "2026-10-19T01:05:01Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_fra",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_fra.zip",
+  "bytes": 4913323,
+  "sha256": "e5537c00e42ef027db1be55f3cadaf97441a8edea7435c3731c742175267d48c",
+  "fetched": "2026-10-19T01:05:02Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_gbr",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_gbr.zip",
+  "bytes": 4915512,
+  "sha256": "23e586f7225a4a83b20178b78b8b8209b14bc6c385b09add44e3a2e50ac6dac3",
+  "fetched": "2026-10-19T01:05:02Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_grc",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_grc.zip",
+  "bytes": 4913068,
+  "sha256": "dfb2253a2ee995a4f2a4ea9ae90c6b915080d85144be7a37971be33ca7096592",
+  "fetched": "2026-10-19T01:05:05Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_idn",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_idn.zip",
+  "bytes": 4904851,
+  "sha256": "358d61ae12a92f9d42bb2193877030b4bff1193ff967ce0f0d9edb51b60acfea",
+  "fetched": "2026-10-19T01:05:06Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_ind",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_ind.zip",
+  "bytes": 4922443,
+  "sha256": "36a54ee97a509325e98eb44fd91bc7e53b0c5139cf10039918042bbd64102192",
+  "fetched": "2026-10-19T01:05:08Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_iso",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_iso.zip",
+  "bytes": 4893552,
+  "sha256": "9a097f5c5fe0cd2e0f1f120a507f9f8e421c6ff7e20a2e4c8621311081b55453",
+  "fetched": "2026-10-19T01:05:08Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_isr",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_isr.zip",
+  "bytes": 4915002,
+  "sha256": "36c2af239f9a04d2d104e893ce82ca52fea7dafbceac91a09be5b9c0569ecf68",
+  "fetched": "2026-10-19T01:05:09Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_ita",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_ita.zip",
+  "bytes": 4915347,
+  "sha256": "76f28332474ffdd7717fc67dcd8f0b2086eb8405c71fa47bf857ff42642a9615",
+  "fetched": "2026-10-19T01:05:10Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_jpn",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_jpn.zip",
+  "bytes": 4915879,
+  "sha256": "d9dde4daa1b51fef2ee76b7e7ab86eb0f5deffc6bacb64dd9cacdd6cec6e880c",
+  "fetched": "2026-10-19T01:05:11Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_kor",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_kor.zip",
+  "bytes": 4915478,
+  "sha256": "4d7d99017cc81e5825295e781c21361c3f3b86b702d515302770924cf0c4cbf8",
+  "fetched": "2026-10-19T01:05:12Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_mar",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_mar.zip",
+  "bytes": 4909303,
+  "sha256": "9956aa888e35c4ca8d8d10a918469b3695316cfc6528d41d48bbfbeff19f3d4b",
+  "fetched": "2026-10-19T01:05:13Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_nep",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_nep.zip",
+  "bytes": 4921134,
+  "sha256": "4755295da115a74668886f37db1b8a6b631a28e5c30a5cf7e47d799565a6d365",
+  "fetched": "2026-10-19T01:05:14Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_nld",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_nld.zip",
+  "bytes": 4914812,
+  "sha256": "19f257724022f2c694e80f52c7e3263da75ec0f0f0c7a39ae22bd5672a492375",
+  "fetched": "2026-10-19T01:05:15Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_pak",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_pak.zip",
+  "bytes": 4909706,
+  "sha256": "cb6730734f7ffd64a087ec8cd801291ddf4507611c9902bd800362f2813a653b",
+  "fetched": "2026-10-19T01:05:15Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_pol",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_pol.zip",
+  "bytes": 4914812,
+  "sha256": "eef38fb79a91f9d26e1645f761dfafe9550ec217c73ac443f824581d42f5f197",
+  "fetched": "2026-10-19T01:05:16Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_prt",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_prt.zip",
+  "bytes": 4915419,
+  "sha256": "b1ca5db9522ba7d249b62fec5bab48afed74b42fbbcc79743a9722b7d8dcc35b",
+  "fetched": "2026-10-19T01:05:17Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_pse",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_pse.zip",
+  "bytes": 4913277,
+  "sha256": "8a69cbfe9402ac5bbd6e24e81cce6950137e0d7524023df9f5cfbd467bfdc976",
+  "fetched": "2026-10-19T01:05:17Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_rus",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_rus.zip",
+  "bytes": 4938424,
+  "sha256": "8309218a2d9b0b2a7f218a03fa05825a7757390ccec4d793e6e8e6a6015dd04d",
+  "fetched": "2026-10-19T01:05:18Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_sau",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_sau.zip",
+  "bytes": 4909374,
+  "sha256": "36191159ec58c7beaca1e2508cef84155b9dccba143d621ee336b60b81e786c0",
+  "fetched": "2026-10-19T01:05:20Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_swe",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_swe.zip",
+  "bytes": 4915348,
+  "sha256": "6ff518e3d0079108fc12996a72352d30c86b251431ec506b6573a1eebd9d6bc6",
+  "fetched": "2026-10-19T01:05:21Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_tlc",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_tlc.zip",
+  "bytes": 5008524,
+  "sha256": "07b9ea4ffe9daa6b5280dc3c3343d176db5c05c77e4975918501356ca2080ce4",
+  "fetched": "2026-10-19T01:05:22Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_tur",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_tur.zip",
+  "bytes": 4920751,
+  "sha256": "2019fd24f5ac8dc68b90a2f26e236e5e1f5bd97b75e7e88520c3f20ac22e7fde",
+  "fetched": "2026-10-19T01:05:23Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_twn",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_twn.zip",
+  "bytes": 4911822,
+  "sha256": "5a3a14498c8fed258452de9e207d5e226b6fd279a43ff191897674708c219e9b",
+  "fetched": "2026-10-19T01:05:25Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_ukr",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_ukr.zip",
+  "bytes": 4910682,
+  "sha256": "6fcdaed26c8d551018fbd3b97185df863a4f15f489e602fceae1dee90d6a5ae8",
+  "fetched": "2026-10-19T01:05:25Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_usa",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_usa.zip",
+  "bytes": 4918788,
+  "sha256": "4dd67d07246421372a3ea069d0b58b8ae28fe42c6a787a18411025b68f614d03",
+  "fetched": "2026-10-19T01:05:28Z"
+ },
+ {
+  "name": "ne_10m_admin_0_countries_vnm",
+  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries_vnm.zip",
+  "bytes": 4912972,
+  "sha256": "09e8e8d4fa210d8d8b5d8d0c988bf3e2ff37beda138ac97af2b044b7859ef7a2",
+  "fetched": "2026-10-19T01:05:30Z"
+ }
+]

@@ -1,0 +1,476 @@
+[
+ {
+  "i": 0,
+  "area_km2": 9591408,
+  "lon": 96.74,
+  "lat": 35.11,
+  "owners": {
+   "China": 33,
+   "Taiwan": 1
+  },
+  "disputed_feature": []
+ },
+ {
+  "i": 1,
+  "area_km2": 268921,
+  "lon": -13.76,
+  "lat": 24.16,
+  "owners": {
+   "Morocco": 12,
+   "Western Sahara": 22
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "W. Sahara",
+    "NOTE_BRK": "Admin. by Morocco; Claimed by Western Sahara",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "area_km2": 168093,
+  "lon": 46.08,
+  "lat": 9.74,
+  "owners": {
+   "Somaliland": 3,
+   "Somalia": 31
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Somaliland",
+    "NOTE_BRK": "Self admin.; Claimed by Somalia",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "area_km2": 143018,
+  "lon": -59.42,
+  "lat": 4.86,
+  "owners": {
+   "Guyana": 32,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "West of Essequibo River",
+    "NOTE_BRK": "Admin. by Guyana; Claimed by Venezuela",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "area_km2": 37774,
+  "lon": 117.78,
+  "lat": 5.63,
+  "owners": {
+   "Malaysia": 33,
+   "(none)": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "North Borneo",
+    "NOTE_BRK": "",
+    "TYPE": "Breakaway"
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "area_km2": 35940,
+  "lon": 120.82,
+  "lat": 23.57,
+  "owners": {
+   "Taiwan": 26,
+   "China": 8
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Taiwan",
+    "NOTE_BRK": "Self admin.; Claimed by China",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "area_km2": 33943,
+  "lon": 109.58,
+  "lat": 19.16,
+  "owners": {
+   "China": 33,
+   "Taiwan": 1
+  },
+  "disputed_feature": []
+ },
+ {
+  "i": 7,
+  "area_km2": 27033,
+  "lon": 34.76,
+  "lat": 45.29,
+  "owners": {
+   "Russia": 3,
+   "Ukraine": 30,
+   "(none)": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Crimea",
+    "NOTE_BRK": "Admin. by Russia; Claimed by Ukraine",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "area_km2": 22120,
+  "lon": 34.64,
+  "lat": 31.43,
+  "owners": {
+   "Israel": 30,
+   "Palestine": 4
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Israel",
+    "NOTE_BRK": "",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "area_km2": 18187,
+  "lon": 35.55,
+  "lat": 22.55,
+  "owners": {
+   "Egypt": 32,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Halayib Triangle",
+    "NOTE_BRK": "Admin. by Egypt; Claimed by Sudan",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "area_km2": 1,
+  "lon": 114.38,
+  "lat": 9.69,
+  "owners": {
+   "Spratly Islands": 30,
+   "China": 1,
+   "(none)": 1,
+   "Taiwan": 1,
+   "Vietnam": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Spratly Is.",
+    "NOTE_BRK": "Claimed by China, Taiwan, Malaysia, the Philippines, and Brunei",
+    "TYPE": "Indeterminate"
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "area_km2": 36,
+  "lon": 122.59,
+  "lat": 39.28,
+  "owners": {
+   "China": 33,
+   "Taiwan": 1
+  },
+  "disputed_feature": []
+ },
+ {
+  "i": 12,
+  "area_km2": 222,
+  "lon": -60.93,
+  "lat": -51.86,
+  "owners": {
+   "Falkland Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Falkland Is.",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "area_km2": 85,
+  "lon": 119.28,
+  "lat": 26.03,
+  "owners": {
+   "China": 33,
+   "Taiwan": 1
+  },
+  "disputed_feature": []
+ },
+ {
+  "i": 14,
+  "area_km2": 15,
+  "lon": -60.55,
+  "lat": -51.29,
+  "owners": {
+   "Falkland Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Falkland Is.",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "area_km2": 3,
+  "lon": -57.62,
+  "lat": -30.19,
+  "owners": {
+   "Brazilian Island": 31,
+   "Brazil": 1,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Brazilian Island",
+    "NOTE_BRK": "Claimed by Brazil and Uruguay",
+    "TYPE": "Indeterminate"
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "area_km2": 46,
+  "lon": 110.59,
+  "lat": 20.92,
+  "owners": {
+   "China": 33,
+   "Taiwan": 1
+  },
+  "disputed_feature": []
+ },
+ {
+  "i": 17,
+  "area_km2": 55,
+  "lon": -59.77,
+  "lat": -52.35,
+  "owners": {
+   "Falkland Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Falkland Is.",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "area_km2": 6279,
+  "lon": -58.57,
+  "lat": -51.79,
+  "owners": {
+   "Falkland Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Falkland Is.",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "area_km2": 30,
+  "lon": 34.7,
+  "lat": 27.94,
+  "owners": {
+   "Egypt": 31,
+   "(none)": 2,
+   "Saudi Arabia": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Tiran and Sanafir Is.",
+    "NOTE_BRK": "Admin. by Egypt; Claimed by Saudi Arabia",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "area_km2": 147,
+  "lon": 112.79,
+  "lat": 21.68,
+  "owners": {
+   "China": 33,
+   "Taiwan": 1
+  },
+  "disputed_feature": []
+ },
+ {
+  "i": 21,
+  "area_km2": 14383,
+  "lon": -57.39,
+  "lat": 2.43,
+  "owners": {
+   "Guyana": 32,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Courantyne Headwaters",
+    "NOTE_BRK": "Admin. by Guyana; Claimed by Suriname",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "area_km2": 3,
+  "lon": 123.59,
+  "lat": -12.43,
+  "owners": {
+   "Ashmore and Cartier Islands": 33,
+   "Australia": 1
+  },
+  "disputed_feature": []
+ },
+ {
+  "i": 23,
+  "area_km2": 45,
+  "lon": 119.49,
+  "lat": 25.21,
+  "owners": {
+   "China": 33,
+   "Taiwan": 1
+  },
+  "disputed_feature": []
+ },
+ {
+  "i": 24,
+  "area_km2": 18,
+  "lon": 32.62,
+  "lat": 35.17,
+  "owners": {
+   "Northern Cyprus": 3,
+   "Cyprus": 31
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "N. Cyprus",
+    "NOTE_BRK": "Self admin.; Claimed by Cyprus",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "area_km2": 55,
+  "lon": 118.71,
+  "lat": 4.47,
+  "owners": {
+   "Malaysia": 33,
+   "(none)": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "North Borneo",
+    "NOTE_BRK": "",
+    "TYPE": "Breakaway"
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "area_km2": 2,
+  "lon": 115.84,
+  "lat": 10.83,
+  "owners": {
+   "Spratly Islands": 30,
+   "China": 1,
+   "(none)": 1,
+   "Taiwan": 1,
+   "Vietnam": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Spratly Is.",
+    "NOTE_BRK": "Claimed by China, Taiwan, Malaysia, the Philippines, and Brunei",
+    "TYPE": "Indeterminate"
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "area_km2": 38,
+  "lon": -26.47,
+  "lat": -57.78,
+  "owners": {
+   "South Georgia and the Islands": 33,
+   "Argentina": 1
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "S. Sandwich Is.",
+    "NOTE_BRK": "Admin. by U.K.; Claimed by Argentina",
+    "TYPE": "Geo subunit"
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "area_km2": 1563,
+  "lon": 145.83,
+  "lat": 44.1,
+  "owners": {
+   "Russia": 29,
+   "Japan": 3,
+   "(none)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Kuril Is.",
+    "NOTE_BRK": "Admin. by Russia; Claimed by Japan",
+    "TYPE": "Disputed"
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "area_km2": 1404,
+  "lon": -73.31,
+  "lat": -49.52,
+  "owners": {
+   "Southern Patagonian Ice Field": 1,
+   "Argentina": 1,
+   "(none)": 30,
+   "(unnamed unit)": 2
+  },
+  "disputed_feature": [
+   {
+    "BRK_NAME": "Southern Patagonian Ice Field",
+    "NOTE_BRK": "Claimed by Chile and Argentina; under survey",
+    "TYPE": "Indeterminate"
+   }
+  ]
+ }
+]
