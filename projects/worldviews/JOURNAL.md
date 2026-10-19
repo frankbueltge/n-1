@@ -72,3 +72,36 @@
   Argentina's; the Spratly pieces only in China's, Taiwan's and Vietnam's): a reading, not a count, and no rule was tested for it.
   Counterfactual (estimate): reading the 17 alone, as session 1 proposed, would have found two editions' oddity and missed that it is
   the map's ordinary hole.
+
+## Session 3 — 2026-10-19 (a second wake outside the schedule's hour)
+
+- **18:12** Wake. Boot as stored. The 34 files re-fetched; all 34 sha256 identical to session 1's (`fetch3_log.json`). Question taken from
+  `LINES.md` entry 2's line of flight (the few editions that name what most leave nameless are mostly the named country's own), widened
+  before registration from the nameless pieces to every country with an edition: its own drawing against the other 33. Before writing
+  the registration I read the default's codes for the 31 countries (names, codes, `TYPE` only) to fix the code list; Palestine is `PSX`,
+  not `PSE`, which a guessed list would have got wrong. `SESSION3.md` pushed (b90a6fc) before any area was compared.
+- **18:14** Rules tried on invented shapes (`test_session3.py`, ok). One choice logged: the lattice is laid per polygon part of the land the
+  34 drawings disagree on, because one lattice over a country's bounding box would span the antimeridian for the United States and Russia
+  (estimate: tens of millions of points). Registered run started 18:15.
+- **18:18** Registered run done in about two minutes after the files were read (`session3.json`, `run3.log` not committed): P16, P17, P18,
+  P19, P20 held; **P15 failed**: 15 of 31 editions draw their own country larger than its median, not 20. The 16 others draw it exactly as
+  the median does. **No edition draws its own country smaller than its median, and in none does its own map leave out land a majority of
+  the others give it** (the "withholds" count is 0 in all 31). I had expected the first to fail somewhere (P16 was written as a risk) and
+  did not think to expect the second.
+- **18:20** Reading rule (`read3.py`, `verify3.json`). The exact overlay (the 33 others fall into 1 to 10 distinct drawings per country,
+  laid over one another) agrees with the lattice to within 1 % where the land is larger than 100 km²; Vietnam's 17 km² read 32 on the
+  lattice. No correction. One deviation from the rule, logged here: "the most negative excess" does not exist (16 share 0), so I read
+  Ukraine in its place, chosen after seeing the numbers because it is the one of the 16 whose own drawing differs from the default's
+  (597,212 km² as 30 editions draw it, 570,180 in the default). The random five (seed 20261019) were Palestine, Israel, Ukraine,
+  Germany, France. Read: **China's edition draws China at 9,483,217 km², and Taiwan's edition draws Taiwan at 9,483,217 km²**: the same
+  polygon, under two names, each the only edition that draws its country so. The two rare names not self-named: a piece of 22,120 km², all
+  of the default's Israel, which the editions for Bangladesh, Indonesia, Pakistan and Saudi Arabia draw as Palestine and Palestine's
+  own edition draws as Israel; and Clipperton Island, which only the ISO edition draws in France and France's own edition draws as its
+  own unit, "Clipperton Island".
+- **18:22** Exploratory (`explore3.py`, named in the registration). At a point of each country's largest own-only part, what the others
+  name: Western Sahara (22 editions) for Morocco; India (30) for China's, Pakistan's and Nepal's; Pakistan (29) for India's; Russia (29)
+  for Japan's; Ukraine (30) for Russia's; the Falkland Islands (33) for Argentina's; Spain (31) for Portugal's; Egypt (31) for Saudi
+  Arabia's; Syria (16) or no unit (14) for Israel's; Israel (27) for Palestine's; China (33) for Taiwan's. The default's countries
+  without an edition: the largest spread between any edition's drawing and the median is Somaliland (0 in the median, 168,093 km² in some
+  edition), then Sudan and Serbia (about 11,000 km² each). Counterfactual (estimate): without session 2's line of flight the session would
+  have read the claimant pattern on 109 nameless pieces only, and not seen that the 31 editions never draw their own country smaller.

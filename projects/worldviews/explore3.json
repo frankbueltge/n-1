@@ -1,0 +1,1880 @@
+{
+ "largest_part_names": {
+  "arg": {
+   "part_km2_simplified": 6241,
+   "tally": [
+    [
+     "Falkland Islands",
+     33
+    ],
+    [
+     "Argentina",
+     1
+    ]
+   ],
+   "own": "Argentina",
+   "default": "Falkland Islands"
+  },
+  "bra": {
+   "part_km2_simplified": 259,
+   "tally": [
+    [
+     "(no unit)",
+     30
+    ],
+    [
+     "Brazil",
+     2
+    ],
+    [
+     "(unnamed unit)",
+     2
+    ]
+   ],
+   "own": "Brazil",
+   "default": "Brazil"
+  },
+  "chn": {
+   "part_km2_simplified": 67969,
+   "tally": [
+    [
+     "India",
+     30
+    ],
+    [
+     "(no unit)",
+     2
+    ],
+    [
+     "China",
+     1
+    ],
+    [
+     "Taiwan",
+     1
+    ]
+   ],
+   "own": "China",
+   "default": "India"
+  },
+  "ind": {
+   "part_km2_simplified": 82462,
+   "tally": [
+    [
+     "Pakistan",
+     29
+    ],
+    [
+     "India",
+     3
+    ],
+    [
+     "(no unit)",
+     2
+    ]
+   ],
+   "own": "India",
+   "default": "Pakistan"
+  },
+  "isr": {
+   "part_km2_simplified": 1209,
+   "tally": [
+    [
+     "Syria",
+     16
+    ],
+    [
+     "(no unit)",
+     14
+    ],
+    [
+     "Israel",
+     4
+    ]
+   ],
+   "own": "Israel",
+   "default": "Israel"
+  },
+  "jpn": {
+   "part_km2_simplified": 3064,
+   "tally": [
+    [
+     "Russia",
+     29
+    ],
+    [
+     "Japan",
+     3
+    ],
+    [
+     "(no unit)",
+     2
+    ]
+   ],
+   "own": "Japan",
+   "default": "Russia"
+  },
+  "mar": {
+   "part_km2_simplified": 268824,
+   "tally": [
+    [
+     "Western Sahara",
+     22
+    ],
+    [
+     "Morocco",
+     12
+    ]
+   ],
+   "own": "Morocco",
+   "default": "Morocco"
+  },
+  "nep": {
+   "part_km2_simplified": 58,
+   "tally": [
+    [
+     "India",
+     30
+    ],
+    [
+     "(no unit)",
+     3
+    ],
+    [
+     "Nepal",
+     1
+    ]
+   ],
+   "own": "Nepal",
+   "default": "India"
+  },
+  "pak": {
+   "part_km2_simplified": 108873,
+   "tally": [
+    [
+     "India",
+     30
+    ],
+    [
+     "(no unit)",
+     2
+    ],
+    [
+     "Pakistan",
+     2
+    ]
+   ],
+   "own": "Pakistan",
+   "default": "India"
+  },
+  "prt": {
+   "part_km2_simplified": 586,
+   "tally": [
+    [
+     "Spain",
+     31
+    ],
+    [
+     "(no unit)",
+     2
+    ],
+    [
+     "Portugal",
+     1
+    ]
+   ],
+   "own": "Portugal",
+   "default": "Spain"
+  },
+  "pse": {
+   "part_km2_simplified": 58,
+   "tally": [
+    [
+     "Israel",
+     27
+    ],
+    [
+     "Palestine",
+     5
+    ],
+    [
+     "(no unit)",
+     2
+    ]
+   ],
+   "own": "Palestine",
+   "default": "Israel"
+  },
+  "rus": {
+   "part_km2_simplified": 27059,
+   "tally": [
+    [
+     "Ukraine",
+     30
+    ],
+    [
+     "Russia",
+     3
+    ],
+    [
+     "(no unit)",
+     1
+    ]
+   ],
+   "own": "Russia",
+   "default": "Russia"
+  },
+  "sau": {
+   "part_km2_simplified": 57,
+   "tally": [
+    [
+     "Egypt",
+     31
+    ],
+    [
+     "(no unit)",
+     2
+    ],
+    [
+     "Saudi Arabia",
+     1
+    ]
+   ],
+   "own": "Saudi Arabia",
+   "default": "Egypt"
+  },
+  "twn": {
+   "part_km2_simplified": 9407281,
+   "tally": [
+    [
+     "China",
+     33
+    ],
+    [
+     "Taiwan",
+     1
+    ]
+   ],
+   "own": "Taiwan",
+   "default": "China"
+  },
+  "vnm": {
+   "part_km2_simplified": 1,
+   "tally": [
+    [
+     "Spratly Islands",
+     30
+    ],
+    [
+     "China",
+     1
+    ],
+    [
+     "(no unit)",
+     1
+    ],
+    [
+     "Taiwan",
+     1
+    ],
+    [
+     "Vietnam",
+     1
+    ]
+   ],
+   "own": "Vietnam",
+   "default": "Spratly Islands"
+  }
+ },
+ "without_edition": {
+  "ABW": {
+   "name": "Aruba",
+   "median_km2": 170,
+   "max_km2": 170,
+   "min_km2": 170,
+   "spread_km2": 0
+  },
+  "AFG": {
+   "name": "Afghanistan",
+   "median_km2": 642392,
+   "max_km2": 642392,
+   "min_km2": 642392,
+   "spread_km2": 0
+  },
+  "AGO": {
+   "name": "Angola",
+   "median_km2": 1249439,
+   "max_km2": 1249439,
+   "min_km2": 1249439,
+   "spread_km2": 0
+  },
+  "AIA": {
+   "name": "Anguilla",
+   "median_km2": 88,
+   "max_km2": 88,
+   "min_km2": 88,
+   "spread_km2": 0
+  },
+  "ALB": {
+   "name": "Albania",
+   "median_km2": 28298,
+   "max_km2": 28298,
+   "min_km2": 28298,
+   "spread_km2": 0
+  },
+  "ALD": {
+   "name": "Aland",
+   "median_km2": 937,
+   "max_km2": 937,
+   "min_km2": 937,
+   "spread_km2": 0
+  },
+  "AND": {
+   "name": "Andorra",
+   "median_km2": 451,
+   "max_km2": 451,
+   "min_km2": 451,
+   "spread_km2": 0
+  },
+  "ARE": {
+   "name": "United Arab Emirates",
+   "median_km2": 71247,
+   "max_km2": 71259,
+   "min_km2": 71247,
+   "spread_km2": 12
+  },
+  "ARM": {
+   "name": "Armenia",
+   "median_km2": 29555,
+   "max_km2": 29555,
+   "min_km2": 29555,
+   "spread_km2": 0
+  },
+  "ASM": {
+   "name": "American Samoa",
+   "median_km2": 181,
+   "max_km2": 181,
+   "min_km2": 179,
+   "spread_km2": 0
+  },
+  "ATA": {
+   "name": "Antarctica",
+   "median_km2": 12258364,
+   "max_km2": 12258364,
+   "min_km2": 12258364,
+   "spread_km2": 0
+  },
+  "ATC": {
+   "name": "Ashmore and Cartier Islands",
+   "median_km2": 3,
+   "max_km2": 3,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "ATF": {
+   "name": "French Southern and Antarctic Lands",
+   "median_km2": 7257,
+   "max_km2": 7257,
+   "min_km2": 7257,
+   "spread_km2": 0
+  },
+  "ATG": {
+   "name": "Antigua and Barbuda",
+   "median_km2": 453,
+   "max_km2": 453,
+   "min_km2": 453,
+   "spread_km2": 0
+  },
+  "AUS": {
+   "name": "Australia",
+   "median_km2": 7705920,
+   "max_km2": 7705923,
+   "min_km2": 7705920,
+   "spread_km2": 3
+  },
+  "AUT": {
+   "name": "Austria",
+   "median_km2": 83756,
+   "max_km2": 83756,
+   "min_km2": 83756,
+   "spread_km2": 0
+  },
+  "AZE": {
+   "name": "Azerbaijan",
+   "median_km2": 86153,
+   "max_km2": 86153,
+   "min_km2": 83020,
+   "spread_km2": 0
+  },
+  "BDI": {
+   "name": "Burundi",
+   "median_km2": 27161,
+   "max_km2": 27161,
+   "min_km2": 27161,
+   "spread_km2": 0
+  },
+  "BEL": {
+   "name": "Belgium",
+   "median_km2": 30561,
+   "max_km2": 30561,
+   "min_km2": 30561,
+   "spread_km2": 0
+  },
+  "BEN": {
+   "name": "Benin",
+   "median_km2": 116590,
+   "max_km2": 116590,
+   "min_km2": 116590,
+   "spread_km2": 0
+  },
+  "BFA": {
+   "name": "Burkina Faso",
+   "median_km2": 273827,
+   "max_km2": 273827,
+   "min_km2": 273827,
+   "spread_km2": 0
+  },
+  "BGR": {
+   "name": "Bulgaria",
+   "median_km2": 112568,
+   "max_km2": 112568,
+   "min_km2": 112568,
+   "spread_km2": 0
+  },
+  "BHR": {
+   "name": "Bahrain",
+   "median_km2": 689,
+   "max_km2": 689,
+   "min_km2": 689,
+   "spread_km2": 0
+  },
+  "BHS": {
+   "name": "The Bahamas",
+   "median_km2": 12632,
+   "max_km2": 12632,
+   "min_km2": 12632,
+   "spread_km2": 0
+  },
+  "BIH": {
+   "name": "Bosnia and Herzegovina",
+   "median_km2": 51722,
+   "max_km2": 51722,
+   "min_km2": 51722,
+   "spread_km2": 0
+  },
+  "BJN": {
+   "name": "Bajo Nuevo Bank (Petrel Is.)",
+   "median_km2": 0,
+   "max_km2": 0,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "BLM": {
+   "name": "Saint Barthelemy",
+   "median_km2": 25,
+   "max_km2": 25,
+   "min_km2": 25,
+   "spread_km2": 0
+  },
+  "BLR": {
+   "name": "Belarus",
+   "median_km2": 206632,
+   "max_km2": 206632,
+   "min_km2": 206632,
+   "spread_km2": 0
+  },
+  "BLZ": {
+   "name": "Belize",
+   "median_km2": 22373,
+   "max_km2": 22373,
+   "min_km2": 14406,
+   "spread_km2": 0
+  },
+  "BMU": {
+   "name": "Bermuda",
+   "median_km2": 62,
+   "max_km2": 62,
+   "min_km2": 62,
+   "spread_km2": 0
+  },
+  "BOL": {
+   "name": "Bolivia",
+   "median_km2": 1090454,
+   "max_km2": 1090454,
+   "min_km2": 1090454,
+   "spread_km2": 0
+  },
+  "BRB": {
+   "name": "Barbados",
+   "median_km2": 446,
+   "max_km2": 446,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "BRI": {
+   "name": "Brazilian Island",
+   "median_km2": 3,
+   "max_km2": 3,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "BRN": {
+   "name": "Brunei",
+   "median_km2": 5742,
+   "max_km2": 5742,
+   "min_km2": 5742,
+   "spread_km2": 0
+  },
+  "BRT": {
+   "name": "Bir Tawil",
+   "median_km2": 2025,
+   "max_km2": 2025,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "BTN": {
+   "name": "Bhutan",
+   "median_km2": 40488,
+   "max_km2": 40488,
+   "min_km2": 39102,
+   "spread_km2": 0
+  },
+  "BWA": {
+   "name": "Botswana",
+   "median_km2": 580515,
+   "max_km2": 580515,
+   "min_km2": 580515,
+   "spread_km2": 0
+  },
+  "CAF": {
+   "name": "Central African Republic",
+   "median_km2": 620643,
+   "max_km2": 620643,
+   "min_km2": 620643,
+   "spread_km2": 0
+  },
+  "CAN": {
+   "name": "Canada",
+   "median_km2": 9894494,
+   "max_km2": 9894494,
+   "min_km2": 9894494,
+   "spread_km2": 0
+  },
+  "CHE": {
+   "name": "Switzerland",
+   "median_km2": 41326,
+   "max_km2": 41326,
+   "min_km2": 41326,
+   "spread_km2": 0
+  },
+  "CHL": {
+   "name": "Chile",
+   "median_km2": 736364,
+   "max_km2": 736364,
+   "min_km2": 736364,
+   "spread_km2": 0
+  },
+  "CIV": {
+   "name": "Ivory Coast",
+   "median_km2": 322038,
+   "max_km2": 322038,
+   "min_km2": 322038,
+   "spread_km2": 0
+  },
+  "CLP": {
+   "name": "Clipperton Island",
+   "median_km2": 5,
+   "max_km2": 5,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "CMR": {
+   "name": "Cameroon",
+   "median_km2": 466331,
+   "max_km2": 466331,
+   "min_km2": 466331,
+   "spread_km2": 0
+  },
+  "CNM": {
+   "name": "Cyprus No Mans Area",
+   "median_km2": 0,
+   "max_km2": 341,
+   "min_km2": 0,
+   "spread_km2": 341
+  },
+  "COD": {
+   "name": "Democratic Republic of the Congo",
+   "median_km2": 2335421,
+   "max_km2": 2335421,
+   "min_km2": 2335421,
+   "spread_km2": 0
+  },
+  "COG": {
+   "name": "Republic of the Congo",
+   "median_km2": 346429,
+   "max_km2": 346429,
+   "min_km2": 346429,
+   "spread_km2": 0
+  },
+  "COK": {
+   "name": "Cook Islands",
+   "median_km2": 192,
+   "max_km2": 192,
+   "min_km2": 192,
+   "spread_km2": 0
+  },
+  "COL": {
+   "name": "Colombia",
+   "median_km2": 1140094,
+   "max_km2": 1140094,
+   "min_km2": 1140094,
+   "spread_km2": 0
+  },
+  "COM": {
+   "name": "Comoros",
+   "median_km2": 1679,
+   "max_km2": 1679,
+   "min_km2": 1679,
+   "spread_km2": 0
+  },
+  "CPV": {
+   "name": "Cabo Verde",
+   "median_km2": 3940,
+   "max_km2": 3940,
+   "min_km2": 3940,
+   "spread_km2": 0
+  },
+  "CRI": {
+   "name": "Costa Rica",
+   "median_km2": 51360,
+   "max_km2": 51360,
+   "min_km2": 51360,
+   "spread_km2": 0
+  },
+  "CSI": {
+   "name": "Coral Sea Islands",
+   "median_km2": 0,
+   "max_km2": 0,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "CUB": {
+   "name": "Cuba",
+   "median_km2": 110222,
+   "max_km2": 110288,
+   "min_km2": 110222,
+   "spread_km2": 66
+  },
+  "CUW": {
+   "name": "Cura\u00e7ao",
+   "median_km2": 465,
+   "max_km2": 465,
+   "min_km2": 465,
+   "spread_km2": 0
+  },
+  "CYM": {
+   "name": "Cayman Islands",
+   "median_km2": 310,
+   "max_km2": 310,
+   "min_km2": 310,
+   "spread_km2": 0
+  },
+  "CYN": {
+   "name": "Northern Cyprus",
+   "median_km2": 0,
+   "max_km2": 3319,
+   "min_km2": 0,
+   "spread_km2": 3319
+  },
+  "CYP": {
+   "name": "Cyprus",
+   "median_km2": 9056,
+   "max_km2": 9056,
+   "min_km2": 5396,
+   "spread_km2": 0
+  },
+  "CZE": {
+   "name": "Czechia",
+   "median_km2": 78497,
+   "max_km2": 78497,
+   "min_km2": 78497,
+   "spread_km2": 0
+  },
+  "DJI": {
+   "name": "Djibouti",
+   "median_km2": 21934,
+   "max_km2": 21934,
+   "min_km2": 21934,
+   "spread_km2": 0
+  },
+  "DMA": {
+   "name": "Dominica",
+   "median_km2": 733,
+   "max_km2": 733,
+   "min_km2": 733,
+   "spread_km2": 0
+  },
+  "DNK": {
+   "name": "Denmark",
+   "median_km2": 42494,
+   "max_km2": 42494,
+   "min_km2": 42494,
+   "spread_km2": 0
+  },
+  "DOM": {
+   "name": "Dominican Republic",
+   "median_km2": 48589,
+   "max_km2": 48589,
+   "min_km2": 48589,
+   "spread_km2": 0
+  },
+  "DZA": {
+   "name": "Algeria",
+   "median_km2": 2312301,
+   "max_km2": 2312301,
+   "min_km2": 2312301,
+   "spread_km2": 0
+  },
+  "ECU": {
+   "name": "Ecuador",
+   "median_km2": 256155,
+   "max_km2": 256155,
+   "min_km2": 256155,
+   "spread_km2": 0
+  },
+  "ERI": {
+   "name": "Eritrea",
+   "median_km2": 122972,
+   "max_km2": 122972,
+   "min_km2": 122972,
+   "spread_km2": 0
+  },
+  "ESB": {
+   "name": "Dhekelia Sovereign Base Area",
+   "median_km2": 127,
+   "max_km2": 127,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "EST": {
+   "name": "Estonia",
+   "median_km2": 45576,
+   "max_km2": 45576,
+   "min_km2": 45576,
+   "spread_km2": 0
+  },
+  "ETH": {
+   "name": "Ethiopia",
+   "median_km2": 1132066,
+   "max_km2": 1132066,
+   "min_km2": 1132066,
+   "spread_km2": 0
+  },
+  "FIN": {
+   "name": "Finland",
+   "median_km2": 330938,
+   "max_km2": 330938,
+   "min_km2": 330938,
+   "spread_km2": 0
+  },
+  "FJI": {
+   "name": "Fiji",
+   "median_km2": 18992,
+   "max_km2": 18992,
+   "min_km2": 18992,
+   "spread_km2": 0
+  },
+  "FLK": {
+   "name": "Falkland Islands",
+   "median_km2": 11553,
+   "max_km2": 11553,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "FRO": {
+   "name": "Faroe Islands",
+   "median_km2": 1321,
+   "max_km2": 1321,
+   "min_km2": 1321,
+   "spread_km2": 0
+  },
+  "FSM": {
+   "name": "Federated States of Micronesia",
+   "median_km2": 637,
+   "max_km2": 637,
+   "min_km2": 637,
+   "spread_km2": 0
+  },
+  "GAB": {
+   "name": "Gabon",
+   "median_km2": 261133,
+   "max_km2": 261133,
+   "min_km2": 261133,
+   "spread_km2": 0
+  },
+  "GEO": {
+   "name": "Georgia",
+   "median_km2": 69462,
+   "max_km2": 69462,
+   "min_km2": 53430,
+   "spread_km2": 0
+  },
+  "GGY": {
+   "name": "Guernsey",
+   "median_km2": 74,
+   "max_km2": 74,
+   "min_km2": 74,
+   "spread_km2": 0
+  },
+  "GHA": {
+   "name": "Ghana",
+   "median_km2": 239676,
+   "max_km2": 239676,
+   "min_km2": 239676,
+   "spread_km2": 0
+  },
+  "GIB": {
+   "name": "Gibraltar",
+   "median_km2": 4,
+   "max_km2": 4,
+   "min_km2": 4,
+   "spread_km2": 0
+  },
+  "GIN": {
+   "name": "Guinea",
+   "median_km2": 245290,
+   "max_km2": 245290,
+   "min_km2": 245290,
+   "spread_km2": 0
+  },
+  "GMB": {
+   "name": "Gambia",
+   "median_km2": 10541,
+   "max_km2": 10541,
+   "min_km2": 10541,
+   "spread_km2": 0
+  },
+  "GNB": {
+   "name": "Guinea-Bissau",
+   "median_km2": 32957,
+   "max_km2": 32957,
+   "min_km2": 32957,
+   "spread_km2": 0
+  },
+  "GNQ": {
+   "name": "Equatorial Guinea",
+   "median_km2": 26791,
+   "max_km2": 26791,
+   "min_km2": 26791,
+   "spread_km2": 0
+  },
+  "GRD": {
+   "name": "Grenada",
+   "median_km2": 349,
+   "max_km2": 349,
+   "min_km2": 349,
+   "spread_km2": 0
+  },
+  "GRL": {
+   "name": "Greenland",
+   "median_km2": 2137888,
+   "max_km2": 2137889,
+   "min_km2": 2137888,
+   "spread_km2": 1
+  },
+  "GTM": {
+   "name": "Guatemala",
+   "median_km2": 109192,
+   "max_km2": 109192,
+   "min_km2": 109192,
+   "spread_km2": 0
+  },
+  "GUM": {
+   "name": "Guam",
+   "median_km2": 566,
+   "max_km2": 566,
+   "min_km2": 566,
+   "spread_km2": 0
+  },
+  "GUY": {
+   "name": "Guyana",
+   "median_km2": 212139,
+   "max_km2": 212139,
+   "min_km2": 54738,
+   "spread_km2": 0
+  },
+  "HKG": {
+   "name": "Hong Kong S.A.R.",
+   "median_km2": 1039,
+   "max_km2": 1039,
+   "min_km2": 1039,
+   "spread_km2": 0
+  },
+  "HMD": {
+   "name": "Heard Island and McDonald Islands",
+   "median_km2": 393,
+   "max_km2": 393,
+   "min_km2": 393,
+   "spread_km2": 0
+  },
+  "HND": {
+   "name": "Honduras",
+   "median_km2": 112641,
+   "max_km2": 112641,
+   "min_km2": 112641,
+   "spread_km2": 0
+  },
+  "HRV": {
+   "name": "Croatia",
+   "median_km2": 54899,
+   "max_km2": 54900,
+   "min_km2": 54899,
+   "spread_km2": 1
+  },
+  "HTI": {
+   "name": "Haiti",
+   "median_km2": 26974,
+   "max_km2": 26974,
+   "min_km2": 26974,
+   "spread_km2": 0
+  },
+  "HUN": {
+   "name": "Hungary",
+   "median_km2": 92947,
+   "max_km2": 92947,
+   "min_km2": 92947,
+   "spread_km2": 0
+  },
+  "IMN": {
+   "name": "Isle of Man",
+   "median_km2": 572,
+   "max_km2": 572,
+   "min_km2": 572,
+   "spread_km2": 0
+  },
+  "IOA": {
+   "name": "Indian Ocean Territories",
+   "median_km2": 112,
+   "max_km2": 112,
+   "min_km2": 112,
+   "spread_km2": 0
+  },
+  "IOT": {
+   "name": "British Indian Ocean Territory",
+   "median_km2": 49,
+   "max_km2": 49,
+   "min_km2": 49,
+   "spread_km2": 0
+  },
+  "IRL": {
+   "name": "Ireland",
+   "median_km2": 69160,
+   "max_km2": 69160,
+   "min_km2": 69160,
+   "spread_km2": 0
+  },
+  "IRN": {
+   "name": "Iran",
+   "median_km2": 1623487,
+   "max_km2": 1623487,
+   "min_km2": 1623475,
+   "spread_km2": 0
+  },
+  "IRQ": {
+   "name": "Iraq",
+   "median_km2": 437585,
+   "max_km2": 437585,
+   "min_km2": 437585,
+   "spread_km2": 0
+  },
+  "ISL": {
+   "name": "Iceland",
+   "median_km2": 101723,
+   "max_km2": 101723,
+   "min_km2": 101723,
+   "spread_km2": 0
+  },
+  "JAM": {
+   "name": "Jamaica",
+   "median_km2": 11068,
+   "max_km2": 11068,
+   "min_km2": 11068,
+   "spread_km2": 0
+  },
+  "JEY": {
+   "name": "Jersey",
+   "median_km2": 119,
+   "max_km2": 119,
+   "min_km2": 119,
+   "spread_km2": 0
+  },
+  "JOR": {
+   "name": "Jordan",
+   "median_km2": 88940,
+   "max_km2": 88940,
+   "min_km2": 88940,
+   "spread_km2": 0
+  },
+  "KAB": {
+   "name": "Baykonur Cosmodrome",
+   "median_km2": 0,
+   "max_km2": 6486,
+   "min_km2": 0,
+   "spread_km2": 6486
+  },
+  "KAS": {
+   "name": "Siachen Glacier",
+   "median_km2": 0,
+   "max_km2": 2088,
+   "min_km2": 0,
+   "spread_km2": 2088
+  },
+  "KAZ": {
+   "name": "Kazakhstan",
+   "median_km2": 2712840,
+   "max_km2": 2712840,
+   "min_km2": 2706355,
+   "spread_km2": 0
+  },
+  "KEN": {
+   "name": "Kenya",
+   "median_km2": 584904,
+   "max_km2": 588320,
+   "min_km2": 584904,
+   "spread_km2": 3416
+  },
+  "KGZ": {
+   "name": "Kyrgyzstan",
+   "median_km2": 198712,
+   "max_km2": 198712,
+   "min_km2": 198712,
+   "spread_km2": 0
+  },
+  "KHM": {
+   "name": "Cambodia",
+   "median_km2": 181754,
+   "max_km2": 181754,
+   "min_km2": 181754,
+   "spread_km2": 0
+  },
+  "KIR": {
+   "name": "Kiribati",
+   "median_km2": 954,
+   "max_km2": 954,
+   "min_km2": 954,
+   "spread_km2": 0
+  },
+  "KNA": {
+   "name": "Saint Kitts and Nevis",
+   "median_km2": 265,
+   "max_km2": 265,
+   "min_km2": 265,
+   "spread_km2": 0
+  },
+  "KOS": {
+   "name": "Kosovo",
+   "median_km2": 10895,
+   "max_km2": 10895,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "KWT": {
+   "name": "Kuwait",
+   "median_km2": 17496,
+   "max_km2": 17496,
+   "min_km2": 17496,
+   "spread_km2": 0
+  },
+  "LAO": {
+   "name": "Laos",
+   "median_km2": 228827,
+   "max_km2": 228827,
+   "min_km2": 228827,
+   "spread_km2": 0
+  },
+  "LBN": {
+   "name": "Lebanon",
+   "median_km2": 10025,
+   "max_km2": 10025,
+   "min_km2": 10007,
+   "spread_km2": 0
+  },
+  "LBR": {
+   "name": "Liberia",
+   "median_km2": 95710,
+   "max_km2": 95710,
+   "min_km2": 95710,
+   "spread_km2": 0
+  },
+  "LBY": {
+   "name": "Libya",
+   "median_km2": 1626531,
+   "max_km2": 1626531,
+   "min_km2": 1626531,
+   "spread_km2": 0
+  },
+  "LCA": {
+   "name": "Saint Lucia",
+   "median_km2": 607,
+   "max_km2": 607,
+   "min_km2": 607,
+   "spread_km2": 0
+  },
+  "LIE": {
+   "name": "Liechtenstein",
+   "median_km2": 137,
+   "max_km2": 137,
+   "min_km2": 137,
+   "spread_km2": 0
+  },
+  "LKA": {
+   "name": "Sri Lanka",
+   "median_km2": 66573,
+   "max_km2": 66573,
+   "min_km2": 66573,
+   "spread_km2": 0
+  },
+  "LSO": {
+   "name": "Lesotho",
+   "median_km2": 30143,
+   "max_km2": 30143,
+   "min_km2": 30143,
+   "spread_km2": 0
+  },
+  "LTU": {
+   "name": "Lithuania",
+   "median_km2": 64641,
+   "max_km2": 64641,
+   "min_km2": 64641,
+   "spread_km2": 0
+  },
+  "LUX": {
+   "name": "Luxembourg",
+   "median_km2": 2600,
+   "max_km2": 2600,
+   "min_km2": 2600,
+   "spread_km2": 0
+  },
+  "LVA": {
+   "name": "Latvia",
+   "median_km2": 64259,
+   "max_km2": 64259,
+   "min_km2": 64259,
+   "spread_km2": 0
+  },
+  "MAC": {
+   "name": "Macao S.A.R",
+   "median_km2": 30,
+   "max_km2": 30,
+   "min_km2": 30,
+   "spread_km2": 0
+  },
+  "MAF": {
+   "name": "Saint Martin",
+   "median_km2": 68,
+   "max_km2": 68,
+   "min_km2": 68,
+   "spread_km2": 0
+  },
+  "MCO": {
+   "name": "Monaco",
+   "median_km2": 19,
+   "max_km2": 19,
+   "min_km2": 19,
+   "spread_km2": 0
+  },
+  "MDA": {
+   "name": "Moldova",
+   "median_km2": 33116,
+   "max_km2": 33116,
+   "min_km2": 30072,
+   "spread_km2": 0
+  },
+  "MDG": {
+   "name": "Madagascar",
+   "median_km2": 594752,
+   "max_km2": 594752,
+   "min_km2": 594752,
+   "spread_km2": 0
+  },
+  "MDV": {
+   "name": "Maldives",
+   "median_km2": 109,
+   "max_km2": 109,
+   "min_km2": 109,
+   "spread_km2": 0
+  },
+  "MEX": {
+   "name": "Mexico",
+   "median_km2": 1962242,
+   "max_km2": 1962242,
+   "min_km2": 1962242,
+   "spread_km2": 0
+  },
+  "MHL": {
+   "name": "Marshall Islands",
+   "median_km2": 166,
+   "max_km2": 166,
+   "min_km2": 166,
+   "spread_km2": 0
+  },
+  "MKD": {
+   "name": "North Macedonia",
+   "median_km2": 25349,
+   "max_km2": 25349,
+   "min_km2": 25349,
+   "spread_km2": 0
+  },
+  "MLI": {
+   "name": "Mali",
+   "median_km2": 1256812,
+   "max_km2": 1256812,
+   "min_km2": 1256812,
+   "spread_km2": 0
+  },
+  "MLT": {
+   "name": "Malta",
+   "median_km2": 326,
+   "max_km2": 326,
+   "min_km2": 326,
+   "spread_km2": 0
+  },
+  "MMR": {
+   "name": "Myanmar",
+   "median_km2": 664957,
+   "max_km2": 664957,
+   "min_km2": 664957,
+   "spread_km2": 0
+  },
+  "MNE": {
+   "name": "Montenegro",
+   "median_km2": 13704,
+   "max_km2": 13704,
+   "min_km2": 13704,
+   "spread_km2": 0
+  },
+  "MNG": {
+   "name": "Mongolia",
+   "median_km2": 1560553,
+   "max_km2": 1560553,
+   "min_km2": 1560553,
+   "spread_km2": 0
+  },
+  "MNP": {
+   "name": "Northern Mariana Islands",
+   "median_km2": 581,
+   "max_km2": 581,
+   "min_km2": 581,
+   "spread_km2": 0
+  },
+  "MOZ": {
+   "name": "Mozambique",
+   "median_km2": 791021,
+   "max_km2": 791021,
+   "min_km2": 791021,
+   "spread_km2": 0
+  },
+  "MRT": {
+   "name": "Mauritania",
+   "median_km2": 1039353,
+   "max_km2": 1039353,
+   "min_km2": 1039353,
+   "spread_km2": 0
+  },
+  "MSR": {
+   "name": "Montserrat",
+   "median_km2": 100,
+   "max_km2": 100,
+   "min_km2": 100,
+   "spread_km2": 0
+  },
+  "MUS": {
+   "name": "Mauritius",
+   "median_km2": 2020,
+   "max_km2": 2020,
+   "min_km2": 2020,
+   "spread_km2": 0
+  },
+  "MWI": {
+   "name": "Malawi",
+   "median_km2": 119849,
+   "max_km2": 119849,
+   "min_km2": 119849,
+   "spread_km2": 0
+  },
+  "MYS": {
+   "name": "Malaysia",
+   "median_km2": 329335,
+   "max_km2": 329335,
+   "min_km2": 290684,
+   "spread_km2": 0
+  },
+  "NAM": {
+   "name": "Namibia",
+   "median_km2": 824823,
+   "max_km2": 824823,
+   "min_km2": 824823,
+   "spread_km2": 0
+  },
+  "NCL": {
+   "name": "New Caledonia",
+   "median_km2": 18892,
+   "max_km2": 18892,
+   "min_km2": 18892,
+   "spread_km2": 0
+  },
+  "NER": {
+   "name": "Niger",
+   "median_km2": 1185161,
+   "max_km2": 1185161,
+   "min_km2": 1185161,
+   "spread_km2": 0
+  },
+  "NFK": {
+   "name": "Norfolk Island",
+   "median_km2": 41,
+   "max_km2": 41,
+   "min_km2": 41,
+   "spread_km2": 0
+  },
+  "NGA": {
+   "name": "Nigeria",
+   "median_km2": 911216,
+   "max_km2": 911216,
+   "min_km2": 911216,
+   "spread_km2": 0
+  },
+  "NIC": {
+   "name": "Nicaragua",
+   "median_km2": 129177,
+   "max_km2": 129177,
+   "min_km2": 129177,
+   "spread_km2": 0
+  },
+  "NIU": {
+   "name": "Niue",
+   "median_km2": 221,
+   "max_km2": 221,
+   "min_km2": 221,
+   "spread_km2": 0
+  },
+  "NOR": {
+   "name": "Norway",
+   "median_km2": 379542,
+   "max_km2": 379542,
+   "min_km2": 379542,
+   "spread_km2": 0
+  },
+  "NRU": {
+   "name": "Nauru",
+   "median_km2": 29,
+   "max_km2": 29,
+   "min_km2": 29,
+   "spread_km2": 0
+  },
+  "NZL": {
+   "name": "New Zealand",
+   "median_km2": 268109,
+   "max_km2": 268109,
+   "min_km2": 268109,
+   "spread_km2": 0
+  },
+  "OMN": {
+   "name": "Oman",
+   "median_km2": 312090,
+   "max_km2": 312090,
+   "min_km2": 312090,
+   "spread_km2": 0
+  },
+  "PAN": {
+   "name": "Panama",
+   "median_km2": 74843,
+   "max_km2": 74843,
+   "min_km2": 74843,
+   "spread_km2": 0
+  },
+  "PCN": {
+   "name": "Pitcairn Islands",
+   "median_km2": 43,
+   "max_km2": 43,
+   "min_km2": 43,
+   "spread_km2": 0
+  },
+  "PER": {
+   "name": "Peru",
+   "median_km2": 1295126,
+   "max_km2": 1295126,
+   "min_km2": 1295126,
+   "spread_km2": 0
+  },
+  "PGA": {
+   "name": "Spratly Islands",
+   "median_km2": 12,
+   "max_km2": 12,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "PHL": {
+   "name": "Philippines",
+   "median_km2": 294430,
+   "max_km2": 294430,
+   "min_km2": 294430,
+   "spread_km2": 0
+  },
+  "PLW": {
+   "name": "Palau",
+   "median_km2": 494,
+   "max_km2": 494,
+   "min_km2": 494,
+   "spread_km2": 0
+  },
+  "PNG": {
+   "name": "Papua New Guinea",
+   "median_km2": 467150,
+   "max_km2": 467150,
+   "min_km2": 467150,
+   "spread_km2": 0
+  },
+  "PRI": {
+   "name": "Puerto Rico",
+   "median_km2": 9035,
+   "max_km2": 9035,
+   "min_km2": 9035,
+   "spread_km2": 0
+  },
+  "PRK": {
+   "name": "North Korea",
+   "median_km2": 122246,
+   "max_km2": 122246,
+   "min_km2": 121105,
+   "spread_km2": 0
+  },
+  "PRY": {
+   "name": "Paraguay",
+   "median_km2": 400858,
+   "max_km2": 400858,
+   "min_km2": 400858,
+   "spread_km2": 0
+  },
+  "PYF": {
+   "name": "French Polynesia",
+   "median_km2": 3348,
+   "max_km2": 3348,
+   "min_km2": 3348,
+   "spread_km2": 0
+  },
+  "QAT": {
+   "name": "Qatar",
+   "median_km2": 11173,
+   "max_km2": 11173,
+   "min_km2": 11173,
+   "spread_km2": 0
+  },
+  "ROU": {
+   "name": "Romania",
+   "median_km2": 235806,
+   "max_km2": 235806,
+   "min_km2": 235806,
+   "spread_km2": 0
+  },
+  "RWA": {
+   "name": "Rwanda",
+   "median_km2": 25418,
+   "max_km2": 25418,
+   "min_km2": 25418,
+   "spread_km2": 0
+  },
+  "SAH": {
+   "name": "Western Sahara",
+   "median_km2": 268921,
+   "max_km2": 268921,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "SCR": {
+   "name": "Scarborough Reef",
+   "median_km2": 0,
+   "max_km2": 0,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "SDN": {
+   "name": "Sudan",
+   "median_km2": 1851074,
+   "max_km2": 1861995,
+   "min_km2": 1851074,
+   "spread_km2": 10921
+  },
+  "SDS": {
+   "name": "South Sudan",
+   "median_km2": 629513,
+   "max_km2": 632946,
+   "min_km2": 629513,
+   "spread_km2": 3433
+  },
+  "SEN": {
+   "name": "Senegal",
+   "median_km2": 196942,
+   "max_km2": 196942,
+   "min_km2": 196942,
+   "spread_km2": 0
+  },
+  "SER": {
+   "name": "Serranilla Bank",
+   "median_km2": 0,
+   "max_km2": 0,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "SGP": {
+   "name": "Singapore",
+   "median_km2": 513,
+   "max_km2": 513,
+   "min_km2": 513,
+   "spread_km2": 0
+  },
+  "SGS": {
+   "name": "South Georgia and the Islands",
+   "median_km2": 3904,
+   "max_km2": 3904,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "SHN": {
+   "name": "Saint Helena",
+   "median_km2": 367,
+   "max_km2": 367,
+   "min_km2": 367,
+   "spread_km2": 0
+  },
+  "SLB": {
+   "name": "Solomon Islands",
+   "median_km2": 27312,
+   "max_km2": 27312,
+   "min_km2": 27312,
+   "spread_km2": 0
+  },
+  "SLE": {
+   "name": "Sierra Leone",
+   "median_km2": 71912,
+   "max_km2": 71912,
+   "min_km2": 71912,
+   "spread_km2": 0
+  },
+  "SLV": {
+   "name": "El Salvador",
+   "median_km2": 20616,
+   "max_km2": 20616,
+   "min_km2": 20616,
+   "spread_km2": 0
+  },
+  "SMR": {
+   "name": "San Marino",
+   "median_km2": 60,
+   "max_km2": 60,
+   "min_km2": 60,
+   "spread_km2": 0
+  },
+  "SOL": {
+   "name": "Somaliland",
+   "median_km2": 0,
+   "max_km2": 168093,
+   "min_km2": 0,
+   "spread_km2": 168093
+  },
+  "SOM": {
+   "name": "Somalia",
+   "median_km2": 641965,
+   "max_km2": 641965,
+   "min_km2": 473872,
+   "spread_km2": 0
+  },
+  "SPI": {
+   "name": "Southern Patagonian Ice Field",
+   "median_km2": 0,
+   "max_km2": 1404,
+   "min_km2": 0,
+   "spread_km2": 1404
+  },
+  "SPM": {
+   "name": "Saint Pierre and Miquelon",
+   "median_km2": 242,
+   "max_km2": 242,
+   "min_km2": 242,
+   "spread_km2": 0
+  },
+  "SRB": {
+   "name": "Republic of Serbia",
+   "median_km2": 77470,
+   "max_km2": 88366,
+   "min_km2": 77470,
+   "spread_km2": 10895
+  },
+  "STP": {
+   "name": "S\u00e3o Tom\u00e9 and Principe",
+   "median_km2": 1042,
+   "max_km2": 1042,
+   "min_km2": 1042,
+   "spread_km2": 0
+  },
+  "SUR": {
+   "name": "Suriname",
+   "median_km2": 145764,
+   "max_km2": 145764,
+   "min_km2": 145764,
+   "spread_km2": 0
+  },
+  "SVK": {
+   "name": "Slovakia",
+   "median_km2": 48308,
+   "max_km2": 48308,
+   "min_km2": 48308,
+   "spread_km2": 0
+  },
+  "SVN": {
+   "name": "Slovenia",
+   "median_km2": 20277,
+   "max_km2": 20277,
+   "min_km2": 20277,
+   "spread_km2": 0
+  },
+  "SWZ": {
+   "name": "eSwatini",
+   "median_km2": 17143,
+   "max_km2": 17143,
+   "min_km2": 17143,
+   "spread_km2": 0
+  },
+  "SXM": {
+   "name": "Sint Maarten",
+   "median_km2": 23,
+   "max_km2": 23,
+   "min_km2": 23,
+   "spread_km2": 0
+  },
+  "SYC": {
+   "name": "Seychelles",
+   "median_km2": 438,
+   "max_km2": 438,
+   "min_km2": 438,
+   "spread_km2": 0
+  },
+  "SYR": {
+   "name": "Syria",
+   "median_km2": 185952,
+   "max_km2": 187147,
+   "min_km2": 185952,
+   "spread_km2": 1195
+  },
+  "TCA": {
+   "name": "Turks and Caicos Islands",
+   "median_km2": 446,
+   "max_km2": 446,
+   "min_km2": 446,
+   "spread_km2": 0
+  },
+  "TCD": {
+   "name": "Chad",
+   "median_km2": 1270722,
+   "max_km2": 1270722,
+   "min_km2": 1270722,
+   "spread_km2": 0
+  },
+  "TGO": {
+   "name": "Togo",
+   "median_km2": 57102,
+   "max_km2": 57102,
+   "min_km2": 57102,
+   "spread_km2": 0
+  },
+  "THA": {
+   "name": "Thailand",
+   "median_km2": 516275,
+   "max_km2": 516275,
+   "min_km2": 516275,
+   "spread_km2": 0
+  },
+  "TJK": {
+   "name": "Tajikistan",
+   "median_km2": 142136,
+   "max_km2": 142136,
+   "min_km2": 142136,
+   "spread_km2": 0
+  },
+  "TKM": {
+   "name": "Turkmenistan",
+   "median_km2": 470449,
+   "max_km2": 470449,
+   "min_km2": 470449,
+   "spread_km2": 0
+  },
+  "TLS": {
+   "name": "East Timor",
+   "median_km2": 15145,
+   "max_km2": 15145,
+   "min_km2": 15145,
+   "spread_km2": 0
+  },
+  "TON": {
+   "name": "Tonga",
+   "median_km2": 605,
+   "max_km2": 605,
+   "min_km2": 605,
+   "spread_km2": 0
+  },
+  "TTO": {
+   "name": "Trinidad and Tobago",
+   "median_km2": 5144,
+   "max_km2": 5144,
+   "min_km2": 5144,
+   "spread_km2": 0
+  },
+  "TUN": {
+   "name": "Tunisia",
+   "median_km2": 156655,
+   "max_km2": 156655,
+   "min_km2": 156655,
+   "spread_km2": 0
+  },
+  "TUV": {
+   "name": "Tuvalu",
+   "median_km2": 23,
+   "max_km2": 23,
+   "min_km2": 23,
+   "spread_km2": 0
+  },
+  "TZA": {
+   "name": "United Republic of Tanzania",
+   "median_km2": 945555,
+   "max_km2": 945555,
+   "min_km2": 945555,
+   "spread_km2": 0
+  },
+  "UGA": {
+   "name": "Uganda",
+   "median_km2": 242936,
+   "max_km2": 242936,
+   "min_km2": 242936,
+   "spread_km2": 0
+  },
+  "UMI": {
+   "name": "United States Minor Outlying Islands",
+   "median_km2": 28,
+   "max_km2": 28,
+   "min_km2": 24,
+   "spread_km2": 0
+  },
+  "URY": {
+   "name": "Uruguay",
+   "median_km2": 177439,
+   "max_km2": 177885,
+   "min_km2": 177439,
+   "spread_km2": 446
+  },
+  "USG": {
+   "name": "US Naval Base Guantanamo Bay",
+   "median_km2": 66,
+   "max_km2": 66,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "UZB": {
+   "name": "Uzbekistan",
+   "median_km2": 447180,
+   "max_km2": 447180,
+   "min_km2": 447180,
+   "spread_km2": 0
+  },
+  "VAT": {
+   "name": "Vatican",
+   "median_km2": 0,
+   "max_km2": 0,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "VCT": {
+   "name": "Saint Vincent and the Grenadines",
+   "median_km2": 369,
+   "max_km2": 369,
+   "min_km2": 369,
+   "spread_km2": 0
+  },
+  "VEN": {
+   "name": "Venezuela",
+   "median_km2": 916571,
+   "max_km2": 916571,
+   "min_km2": 916570,
+   "spread_km2": 0
+  },
+  "VGB": {
+   "name": "British Virgin Islands",
+   "median_km2": 145,
+   "max_km2": 145,
+   "min_km2": 145,
+   "spread_km2": 0
+  },
+  "VIR": {
+   "name": "United States Virgin Islands",
+   "median_km2": 356,
+   "max_km2": 356,
+   "min_km2": 356,
+   "spread_km2": 0
+  },
+  "VUT": {
+   "name": "Vanuatu",
+   "median_km2": 12339,
+   "max_km2": 12339,
+   "min_km2": 12339,
+   "spread_km2": 0
+  },
+  "WLF": {
+   "name": "Wallis and Futuna",
+   "median_km2": 140,
+   "max_km2": 140,
+   "min_km2": 140,
+   "spread_km2": 0
+  },
+  "WSB": {
+   "name": "Akrotiri Sovereign Base Area",
+   "median_km2": 99,
+   "max_km2": 99,
+   "min_km2": 0,
+   "spread_km2": 0
+  },
+  "WSM": {
+   "name": "Samoa",
+   "median_km2": 2791,
+   "max_km2": 2791,
+   "min_km2": 2791,
+   "spread_km2": 0
+  },
+  "YEM": {
+   "name": "Yemen",
+   "median_km2": 454649,
+   "max_km2": 454649,
+   "min_km2": 454649,
+   "spread_km2": 0
+  },
+  "ZAF": {
+   "name": "South Africa",
+   "median_km2": 1221445,
+   "max_km2": 1221445,
+   "min_km2": 1221445,
+   "spread_km2": 0
+  },
+  "ZMB": {
+   "name": "Zambia",
+   "median_km2": 754730,
+   "max_km2": 754730,
+   "min_km2": 754730,
+   "spread_km2": 0
+  },
+  "ZWE": {
+   "name": "Zimbabwe",
+   "median_km2": 390529,
+   "max_km2": 390529,
+   "min_km2": 390529,
+   "spread_km2": 0
+  }
+ }
+}

@@ -1,5 +1,5 @@
 """Build the study page (index.html): session 1 from session1.json, session1_registered.json, pieces.json, land.json, verify.json;
-session 2 from session2.json, explore2.json, nameless.json, verify2.json, codes.json."""
+session 2 from session2.json, explore2.json, nameless.json, verify2.json, codes.json; session 3 from session3.json."""
 import json
 import shapely
 from shapely.geometry import Point
@@ -62,6 +62,24 @@ def session2(data, rep):
                 "{{PRED2_ROWS}}": "\n".join(rows), "{{HELD2}}": str(sum(s2["predictions"].values()))})
 
 
+P3 = {"P15": "In at least 20 of the 31 national editions the country's own drawing is larger than its median across the other 33",
+      "P16": "In none of the 31 is the own drawing smaller than its median",
+      "P17": "Leaving Taiwan aside, the largest excess is more than 100,000 km²",
+      "P18": "Leaving Taiwan aside, the largest excess is India's or Morocco's",
+      "P19": "More than half of the rarely named places are named so by the named country's own edition",
+      "P20": "In at least 5 of the 31 the own drawing's area is within 1 km² of the default's"}
+
+
+def session3(rep):
+    s3 = json.load(open("session3.json"))
+    c, n = s3["countries"], s3["counts"]
+    rows = [f"<tr><td>{k}</td><td>{P3[k]}</td><td>{'held' if v else 'failed'}</td></tr>" for k, v in s3["predictions"].items()]
+    psi = [r for r in s3["rare_names"] if not r["self"] and r["name"] == "Palestine"][0]["area_km2"]
+    rep.update({"{{LARGER}}": str(n["larger"]), "{{EQUAL}}": str(31 - n["larger"] - n["smaller"]), "{{MAR}}": f"{c['mar']['excess_km2']:,.0f}",
+                "{{CHN}}": f"{c['chn']['own_km2']:,.0f}", "{{RARE}}": str(n["rare"]), "{{SELF}}": str(n["self_named"]),
+                "{{PSI}}": f"{psi:,.0f}", "{{PRED3_ROWS}}": "\n".join(rows), "{{HELD3}}": str(sum(s3["predictions"].values()))})
+
+
 def main():
     s = json.load(open("session1.json"))
     reg = json.load(open("session1_registered.json"))
@@ -95,6 +113,7 @@ def main():
            "{{LAND}}": f"{s['default_land_km2'] / 1e6:,.1f}", "{{SHARE}}": f"{100 * s['contested_km2'] / s['default_land_km2']:.2f}",
            "{{TOP}}": ED[eds[0][0]], "{{TOP_KM}}": f"{eds[0][1]:,.0f}", "{{LOW}}": ED[eds[-1][0]], "{{LOW_KM}}": f"{eds[-1][1]:,.0f}"}
     session2(data, rep)
+    session3(rep)
     rep["{{DATA}}"] = json.dumps(data, separators=(",", ":"), ensure_ascii=False)
     for k, v in rep.items():
         t = t.replace(k, v)

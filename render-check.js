@@ -260,7 +260,20 @@ const PAGES = [
         ncanvas: !!document.querySelector('canvas#nmap'),
       };
     },
-    ok: (r) => r.canvas && r.ncanvas && r.options === 34 && r.bars === 33 && r.twn_said && r.preds === 16,
+    // session 3 adds a third table (six predictions): 16 rows become 23, and a link to the work
+    ok: (r) => r.canvas && r.ncanvas && r.options === 34 && r.bars === 33 && r.twn_said && r.preds === 23,
+  },
+  {
+    // project 12, session 3: the work, Each by Its Own Map, built by projects/worldviews/build_work.py;
+    // two mirror canvases (China, Taiwan) and one panel per other country its own edition draws larger (13); no predictions
+    path: 'projects/worldviews/each-by-its-own-map/index.html',
+    probe: () => ({
+      mirror: !!document.querySelector('canvas#m-chn') && !!document.querySelector('canvas#m-twn'),
+      panels: document.querySelectorAll('#grid canvas').length,
+      captioned: /in its own edition: [\d,]+ km²/.test(document.getElementById('c-twn').textContent),
+      study_hidden: !/predict/i.test(document.body.textContent.replace(/what was predicted and what failed are on/, '')) && !document.querySelector('table'),
+    }),
+    ok: (r) => r.mirror && r.panels === 13 && r.captioned && r.study_hidden,
   },
 ];
 
