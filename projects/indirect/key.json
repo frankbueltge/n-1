@@ -1,0 +1,1602 @@
+[
+ {
+  "n": 1,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6200072,
+   "lang": "eng",
+   "text": "That's right and proper!"
+  }
+ },
+ {
+  "n": 2,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 3,
+  "kind": "indirect",
+  "bridge": {
+   "id": 298457,
+   "lang": "eng",
+   "text": "He remains loyal to his principles."
+  }
+ },
+ {
+  "n": 4,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2095506,
+   "lang": "rus",
+   "text": "Возвращайтесь на корабль."
+  }
+ },
+ {
+  "n": 5,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3587742,
+   "lang": "fra",
+   "text": "Avez-vous peur du silence ?"
+  }
+ },
+ {
+  "n": 6,
+  "kind": "indirect",
+  "bridge": {
+   "id": 887605,
+   "lang": "eng",
+   "text": "She writes to him every week."
+  }
+ },
+ {
+  "n": 7,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 8,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2784700,
+   "lang": "deu",
+   "text": "Ich schreibe gerade einen Brief an meine Freundin."
+  }
+ },
+ {
+  "n": 9,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2388045,
+   "lang": "eng",
+   "text": "I never blamed you."
+  }
+ },
+ {
+  "n": 10,
+  "kind": "indirect",
+  "bridge": {
+   "id": 636262,
+   "lang": "eng",
+   "text": "Coffee may have a bad effect on the stomach."
+  }
+ },
+ {
+  "n": 11,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1859467,
+   "lang": "fra",
+   "text": "Lâchez mon bras, s'il vous plaît !"
+  }
+ },
+ {
+  "n": 12,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 13,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2361487,
+   "lang": "eng",
+   "text": "I don't think Tom is Mary's boyfriend."
+  }
+ },
+ {
+  "n": 14,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6143517,
+   "lang": "por",
+   "text": "Tom não poderia ter feito isso sozinho, eu acho."
+  }
+ },
+ {
+  "n": 15,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2228297,
+   "lang": "spa",
+   "text": "Sos muy flaco."
+  }
+ },
+ {
+  "n": 16,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1160868,
+   "lang": "spa",
+   "text": "Deja que te ayude a hacer el trabajo."
+  }
+ },
+ {
+  "n": 17,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2601567,
+   "lang": "eng",
+   "text": "No one can see the kingdom of God unless he is born again."
+  }
+ },
+ {
+  "n": 18,
+  "kind": "indirect",
+  "bridge": {
+   "id": 47250,
+   "lang": "eng",
+   "text": "The business will yield a fair return on the investment."
+  }
+ },
+ {
+  "n": 19,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 20,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 21,
+  "kind": "indirect",
+  "bridge": {
+   "id": 246362,
+   "lang": "eng",
+   "text": "We must abolish the death penalty."
+  }
+ },
+ {
+  "n": 22,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2280157,
+   "lang": "fin",
+   "text": "Hän nukkuu kuin pikkuvauva."
+  }
+ },
+ {
+  "n": 23,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6125610,
+   "lang": "eng",
+   "text": "Do you think Tom would've done it that way?"
+  }
+ },
+ {
+  "n": 24,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1369554,
+   "lang": "fra",
+   "text": "C'est vrai, ils ont été en retard deux fois déjà."
+  }
+ },
+ {
+  "n": 25,
+  "kind": "indirect",
+  "bridge": {
+   "id": 13216584,
+   "lang": "eng",
+   "text": "She donated blood."
+  }
+ },
+ {
+  "n": 26,
+  "kind": "indirect",
+  "bridge": {
+   "id": 8243842,
+   "lang": "eng",
+   "text": "He accompanied her to the mosque."
+  }
+ },
+ {
+  "n": 27,
+  "kind": "indirect",
+  "bridge": {
+   "id": 13574088,
+   "lang": "fra",
+   "text": "Il est au fond du trou."
+  }
+ },
+ {
+  "n": 28,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 29,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 30,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1210672,
+   "lang": "fra",
+   "text": "Pourquoi est-ce arrivé ?"
+  }
+ },
+ {
+  "n": 31,
+  "kind": "indirect",
+  "bridge": {
+   "id": 740575,
+   "lang": "deu",
+   "text": "Dein Bruder braucht Hilfe."
+  }
+ },
+ {
+  "n": 32,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6744882,
+   "lang": "eng",
+   "text": "That one!"
+  }
+ },
+ {
+  "n": 33,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 34,
+  "kind": "indirect",
+  "bridge": {
+   "id": 8835200,
+   "lang": "rus",
+   "text": "Ты её не видишь?"
+  }
+ },
+ {
+  "n": 35,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5860584,
+   "lang": "eng",
+   "text": "I need some space."
+  }
+ },
+ {
+  "n": 36,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1339132,
+   "lang": "fra",
+   "text": "Nous l'avons perdu de vue."
+  }
+ },
+ {
+  "n": 37,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 38,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5825601,
+   "lang": "eng",
+   "text": "One of the doors was broken."
+  }
+ },
+ {
+  "n": 39,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2214253,
+   "lang": "eng",
+   "text": "What if she doesn't want to talk to me?"
+  }
+ },
+ {
+  "n": 40,
+  "kind": "indirect",
+  "bridge": {
+   "id": 318934,
+   "lang": "eng",
+   "text": "My father is usually at home on Sundays."
+  }
+ },
+ {
+  "n": 41,
+  "kind": "indirect",
+  "bridge": {
+   "id": 313504,
+   "lang": "eng",
+   "text": "She pretended illness as an excuse."
+  }
+ },
+ {
+  "n": 42,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3783331,
+   "lang": "deu",
+   "text": "Können Sie mir mitteilen, was er gesagt hat?"
+  }
+ },
+ {
+  "n": 43,
+  "kind": "indirect",
+  "bridge": {
+   "id": 562901,
+   "lang": "epo",
+   "text": "Ĉu vi povas montri al mi ĉi tiun sakon?"
+  }
+ },
+ {
+  "n": 44,
+  "kind": "indirect",
+  "bridge": {
+   "id": 9450288,
+   "lang": "nld",
+   "text": "We hebben die drie dingen nodig."
+  }
+ },
+ {
+  "n": 45,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 46,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 47,
+  "kind": "indirect",
+  "bridge": {
+   "id": 605844,
+   "lang": "eng",
+   "text": "We were one too many."
+  }
+ },
+ {
+  "n": 48,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1106540,
+   "lang": "eng",
+   "text": "A number of students said they would be happy to take part in the contest."
+  }
+ },
+ {
+  "n": 49,
+  "kind": "indirect",
+  "bridge": {
+   "id": 7448362,
+   "lang": "deu",
+   "text": "Tom wird sich umziehen."
+  }
+ },
+ {
+  "n": 50,
+  "kind": "indirect",
+  "bridge": {
+   "id": 7851521,
+   "lang": "deu",
+   "text": "Die USA ersuchen die Auslieferung von Julian Assange."
+  }
+ },
+ {
+  "n": 51,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 52,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 53,
+  "kind": "indirect",
+  "bridge": {
+   "id": 11966014,
+   "lang": "eng",
+   "text": "The donkey brays all the time."
+  }
+ },
+ {
+  "n": 54,
+  "kind": "indirect",
+  "bridge": {
+   "id": 8449650,
+   "lang": "nld",
+   "text": "De kinderen begrijpen alles."
+  }
+ },
+ {
+  "n": 55,
+  "kind": "indirect",
+  "bridge": {
+   "id": 25528,
+   "lang": "eng",
+   "text": "Don't worry about me."
+  }
+ },
+ {
+  "n": 56,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5297590,
+   "lang": "epo",
+   "text": "Johano rigardis vian rozon."
+  }
+ },
+ {
+  "n": 57,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 58,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2239764,
+   "lang": "eng",
+   "text": "Tom was dangerous."
+  }
+ },
+ {
+  "n": 59,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 60,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6523099,
+   "lang": "eng",
+   "text": "Tom and Mary said they'd help."
+  }
+ },
+ {
+  "n": 61,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5103143,
+   "lang": "lat",
+   "text": "Vulcanus arma deis et hominibus fecit."
+  }
+ },
+ {
+  "n": 62,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 63,
+  "kind": "indirect",
+  "bridge": {
+   "id": 12448386,
+   "lang": "eng",
+   "text": "Did you steal from me?"
+  }
+ },
+ {
+  "n": 64,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1358972,
+   "lang": "fra",
+   "text": "Voudrais-tu me prendre en photo, s'il te plait ?"
+  }
+ },
+ {
+  "n": 65,
+  "kind": "indirect",
+  "bridge": {
+   "id": 249394,
+   "lang": "eng",
+   "text": "We go camping every summer."
+  }
+ },
+ {
+  "n": 66,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2919483,
+   "lang": "fra",
+   "text": "Ils se torturaient l'esprit."
+  }
+ },
+ {
+  "n": 67,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1389768,
+   "lang": "spa",
+   "text": "La leche está agria."
+  }
+ },
+ {
+  "n": 68,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 69,
+  "kind": "indirect",
+  "bridge": {
+   "id": 660451,
+   "lang": "eng",
+   "text": "Are you coming to the store with me?"
+  }
+ },
+ {
+  "n": 70,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 71,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 72,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 73,
+  "kind": "indirect",
+  "bridge": {
+   "id": 63278,
+   "lang": "eng",
+   "text": "Wherever you go, I will follow you."
+  }
+ },
+ {
+  "n": 74,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5655401,
+   "lang": "fra",
+   "text": "Je suis partie tôt de la maison pour être sûre ne pas rater le train."
+  }
+ },
+ {
+  "n": 75,
+  "kind": "indirect",
+  "bridge": {
+   "id": 10160084,
+   "lang": "eng",
+   "text": "The house looked abandoned."
+  }
+ },
+ {
+  "n": 76,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 77,
+  "kind": "indirect",
+  "bridge": {
+   "id": 486203,
+   "lang": "fra",
+   "text": "Dansons, voulez-vous ?"
+  }
+ },
+ {
+  "n": 78,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 79,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3959536,
+   "lang": "rus",
+   "text": "Даже зимой снега у нас немного."
+  }
+ },
+ {
+  "n": 80,
+  "kind": "indirect",
+  "bridge": {
+   "id": 9822418,
+   "lang": "asm",
+   "text": "টমে মেৰীক হত্যা কৰা বুলি তেওঁ স্বীকাৰ কৰিছে।"
+  }
+ },
+ {
+  "n": 81,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1653722,
+   "lang": "por",
+   "text": "Temos uma sala de reuniões no segundo andar e outra no terceiro."
+  }
+ },
+ {
+  "n": 82,
+  "kind": "indirect",
+  "bridge": {
+   "id": 7249494,
+   "lang": "rus",
+   "text": "Они здесь больше не живут."
+  }
+ },
+ {
+  "n": 83,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5078410,
+   "lang": "eng",
+   "text": "You must bring your passport with you to the bank."
+  }
+ },
+ {
+  "n": 84,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5909851,
+   "lang": "eng",
+   "text": "I still want you to help me do that."
+  }
+ },
+ {
+  "n": 85,
+  "kind": "indirect",
+  "bridge": {
+   "id": 82895,
+   "lang": "jpn",
+   "text": "母は大丈夫だと言った。"
+  }
+ },
+ {
+  "n": 86,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 87,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 88,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5071315,
+   "lang": "eng",
+   "text": "She has a strong bias against abstract painting."
+  }
+ },
+ {
+  "n": 89,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 90,
+  "kind": "indirect",
+  "bridge": {
+   "id": 953647,
+   "lang": "eng",
+   "text": "I think it's unlikely that the next version of Windows will come out before the end of this month."
+  }
+ },
+ {
+  "n": 91,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3207816,
+   "lang": "fra",
+   "text": "« Me dis pas que t’es déjà bourré ? » « Mais non, mais non. »"
+  }
+ },
+ {
+  "n": 92,
+  "kind": "indirect",
+  "bridge": {
+   "id": 10651088,
+   "lang": "eng",
+   "text": "Today, I consider myself the luckiest man on the face of the earth."
+  }
+ },
+ {
+  "n": 93,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2644984,
+   "lang": "eng",
+   "text": "Tom and Mary are with me."
+  }
+ },
+ {
+  "n": 94,
+  "kind": "indirect",
+  "bridge": {
+   "id": 55432,
+   "lang": "eng",
+   "text": "This was the most interesting book that she had ever read."
+  }
+ },
+ {
+  "n": 95,
+  "kind": "indirect",
+  "bridge": {
+   "id": 11024392,
+   "lang": "rus",
+   "text": "Он в каждой серии это говорит."
+  }
+ },
+ {
+  "n": 96,
+  "kind": "indirect",
+  "bridge": {
+   "id": 13093087,
+   "lang": "eng",
+   "text": "Everybody gossips."
+  }
+ },
+ {
+  "n": 97,
+  "kind": "indirect",
+  "bridge": {
+   "id": 286186,
+   "lang": "eng",
+   "text": "His mistake was intentional."
+  }
+ },
+ {
+  "n": 98,
+  "kind": "indirect",
+  "bridge": {
+   "id": 12470685,
+   "lang": "rus",
+   "text": "Вы сахар купили?"
+  }
+ },
+ {
+  "n": 99,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 100,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3905671,
+   "lang": "eng",
+   "text": "I told you I was coming."
+  }
+ },
+ {
+  "n": 101,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6744886,
+   "lang": "ukr",
+   "text": "У мене є великий собака."
+  }
+ },
+ {
+  "n": 102,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1336221,
+   "lang": "eng",
+   "text": "The witch cast a spell on the naughty boy."
+  }
+ },
+ {
+  "n": 103,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 104,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 105,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 106,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1430709,
+   "lang": "spa",
+   "text": "Nosotros escalamos hasta la cima."
+  }
+ },
+ {
+  "n": 107,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3743743,
+   "lang": "eng",
+   "text": "If I'd known what you were going to do, I'd've tried to stop you."
+  }
+ },
+ {
+  "n": 108,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 109,
+  "kind": "indirect",
+  "bridge": {
+   "id": 858259,
+   "lang": "nld",
+   "text": "Wanneer kan ik hier zwemmen?"
+  }
+ },
+ {
+  "n": 110,
+  "kind": "indirect",
+  "bridge": {
+   "id": 8687616,
+   "lang": "rus",
+   "text": "Вы их увидите."
+  }
+ },
+ {
+  "n": 111,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3483062,
+   "lang": "ita",
+   "text": "Devi fermarti."
+  }
+ },
+ {
+  "n": 112,
+  "kind": "indirect",
+  "bridge": {
+   "id": 12305251,
+   "lang": "eng",
+   "text": "They gave him a lot of money."
+  }
+ },
+ {
+  "n": 113,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6817202,
+   "lang": "eng",
+   "text": "I wanted Tom to see the sunrise."
+  }
+ },
+ {
+  "n": 114,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1674309,
+   "lang": "spa",
+   "text": "El olor a azucenas henchía el cuarto."
+  }
+ },
+ {
+  "n": 115,
+  "kind": "indirect",
+  "bridge": {
+   "id": 417285,
+   "lang": "nld",
+   "text": "Je zult er op tijd aankomen, zolang je tenminste de trein niet mist."
+  }
+ },
+ {
+  "n": 116,
+  "kind": "indirect",
+  "bridge": {
+   "id": 306707,
+   "lang": "eng",
+   "text": "They don't know my name."
+  }
+ },
+ {
+  "n": 117,
+  "kind": "indirect",
+  "bridge": {
+   "id": 294728,
+   "lang": "eng",
+   "text": "He has spent most of his working life as a diplomat."
+  }
+ },
+ {
+  "n": 118,
+  "kind": "indirect",
+  "bridge": {
+   "id": 719796,
+   "lang": "epo",
+   "text": "Mi konatiĝis kun li pasintan jaron."
+  }
+ },
+ {
+  "n": 119,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3315173,
+   "lang": "eng",
+   "text": "We had a really big fight."
+  }
+ },
+ {
+  "n": 120,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 121,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5725806,
+   "lang": "eng",
+   "text": "I want people who are able to work."
+  }
+ },
+ {
+  "n": 122,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3684481,
+   "lang": "eng",
+   "text": "I will, but on one condition."
+  }
+ },
+ {
+  "n": 123,
+  "kind": "indirect",
+  "bridge": {
+   "id": 93194,
+   "lang": "jpn",
+   "text": "彼女はいわゆる学者馬鹿だ。"
+  }
+ },
+ {
+  "n": 124,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 125,
+  "kind": "indirect",
+  "bridge": {
+   "id": 433816,
+   "lang": "deu",
+   "text": "Einigkeit und Recht und Freiheit sind des Glückes Unterpfand."
+  }
+ },
+ {
+  "n": 126,
+  "kind": "indirect",
+  "bridge": {
+   "id": 8692862,
+   "lang": "por",
+   "text": "Leitura é um dos meus passatempos."
+  }
+ },
+ {
+  "n": 127,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5352624,
+   "lang": "ita",
+   "text": "Perché nessuno la aiuta?"
+  }
+ },
+ {
+  "n": 128,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 129,
+  "kind": "indirect",
+  "bridge": {
+   "id": 455736,
+   "lang": "spa",
+   "text": "La Estatua de la Libertad es el símbolo de América."
+  }
+ },
+ {
+  "n": 130,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1131382,
+   "lang": "tur",
+   "text": "Bu ilacın yan etkisi yoktur."
+  }
+ },
+ {
+  "n": 131,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6898891,
+   "lang": "eng",
+   "text": "I'll bring you a clean knife."
+  }
+ },
+ {
+  "n": 132,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 133,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 134,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2597818,
+   "lang": "eng",
+   "text": "Learn!"
+  }
+ },
+ {
+  "n": 135,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2192313,
+   "lang": "rus",
+   "text": "Давай выучим это предложение наизусть."
+  }
+ },
+ {
+  "n": 136,
+  "kind": "indirect",
+  "bridge": {
+   "id": 78576,
+   "lang": "jpn",
+   "text": "来年一週間泊まりにいらっしゃいませんか。"
+  }
+ },
+ {
+  "n": 137,
+  "kind": "indirect",
+  "bridge": {
+   "id": 13744382,
+   "lang": "fra",
+   "text": "Nous pensons à nos problèmes."
+  }
+ },
+ {
+  "n": 138,
+  "kind": "indirect",
+  "bridge": {
+   "id": 11286444,
+   "lang": "kab",
+   "text": "Zik yella ɣezzif ucebbub-inu."
+  }
+ },
+ {
+  "n": 139,
+  "kind": "indirect",
+  "bridge": {
+   "id": 9056826,
+   "lang": "eng",
+   "text": "Tom was once a translator."
+  }
+ },
+ {
+  "n": 140,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 141,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3572674,
+   "lang": "epo",
+   "text": "Mi manĝis salaton kiel vespermanĝon."
+  }
+ },
+ {
+  "n": 142,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 143,
+  "kind": "indirect",
+  "bridge": {
+   "id": 303333,
+   "lang": "eng",
+   "text": "Do you think he resembles his father?"
+  }
+ },
+ {
+  "n": 144,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5795732,
+   "lang": "eng",
+   "text": "Why can't we sing that song tonight?"
+  }
+ },
+ {
+  "n": 145,
+  "kind": "indirect",
+  "bridge": {
+   "id": 12695371,
+   "lang": "fra",
+   "text": "C'est pour cela qu'ils l'aiment."
+  }
+ },
+ {
+  "n": 146,
+  "kind": "indirect",
+  "bridge": {
+   "id": 13571800,
+   "lang": "kab",
+   "text": "Slet-as i tezlit-agi, ma testufam!"
+  }
+ },
+ {
+  "n": 147,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 148,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5926644,
+   "lang": "swe",
+   "text": "Varför jamar du?"
+  }
+ },
+ {
+  "n": 149,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3515183,
+   "lang": "eng",
+   "text": "Everybody knows who you are."
+  }
+ },
+ {
+  "n": 150,
+  "kind": "indirect",
+  "bridge": {
+   "id": 160280,
+   "lang": "jpn",
+   "text": "私はその音のために眠れませんでした。"
+  }
+ },
+ {
+  "n": 151,
+  "kind": "indirect",
+  "bridge": {
+   "id": 434258,
+   "lang": "eng",
+   "text": "Are you thirsty?"
+  }
+ },
+ {
+  "n": 152,
+  "kind": "indirect",
+  "bridge": {
+   "id": 341447,
+   "lang": "deu",
+   "text": "Ich glaube an Gespenster."
+  }
+ },
+ {
+  "n": 153,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2415711,
+   "lang": "eng",
+   "text": "Since the temperature has warmed, my coat has become an encumbrance."
+  }
+ },
+ {
+  "n": 154,
+  "kind": "indirect",
+  "bridge": {
+   "id": 7702971,
+   "lang": "spa",
+   "text": "Tienes agua."
+  }
+ },
+ {
+  "n": 155,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 156,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2542262,
+   "lang": "eng",
+   "text": "Tom bought a hot dog for Mary."
+  }
+ },
+ {
+  "n": 157,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6100716,
+   "lang": "nld",
+   "text": "Gisteren hoefde ik niet te betalen."
+  }
+ },
+ {
+  "n": 158,
+  "kind": "indirect",
+  "bridge": {
+   "id": 945078,
+   "lang": "eng",
+   "text": "I frequently think about my mother who passed away."
+  }
+ },
+ {
+  "n": 159,
+  "kind": "indirect",
+  "bridge": {
+   "id": 13377945,
+   "lang": "rus",
+   "text": "Это шанс всей моей жизни."
+  }
+ },
+ {
+  "n": 160,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 161,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 162,
+  "kind": "indirect",
+  "bridge": {
+   "id": 89523,
+   "lang": "jpn",
+   "text": "彼女は私に何カ国語はなせるかを尋ねた。"
+  }
+ },
+ {
+  "n": 163,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2991917,
+   "lang": "eng",
+   "text": "I'd like to live in Boston."
+  }
+ },
+ {
+  "n": 164,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3707700,
+   "lang": "eng",
+   "text": "I don't always understand everything you write."
+  }
+ },
+ {
+  "n": 165,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2267385,
+   "lang": "eng",
+   "text": "It was a very fortunate meeting."
+  }
+ },
+ {
+  "n": 166,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 167,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 168,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5733896,
+   "lang": "ukr",
+   "text": "Я не один із твоїх пацієнтів."
+  }
+ },
+ {
+  "n": 169,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1445117,
+   "lang": "eng",
+   "text": "What are you holding in your hand?"
+  }
+ },
+ {
+  "n": 170,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6440621,
+   "lang": "eng",
+   "text": "Tom won't help."
+  }
+ },
+ {
+  "n": 171,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 172,
+  "kind": "indirect",
+  "bridge": {
+   "id": 10207051,
+   "lang": "eng",
+   "text": "Ziri seemed off."
+  }
+ },
+ {
+  "n": 173,
+  "kind": "indirect",
+  "bridge": {
+   "id": 11856108,
+   "lang": "eng",
+   "text": "Tom needed practice."
+  }
+ },
+ {
+  "n": 174,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3818796,
+   "lang": "eng",
+   "text": "Have you seen this video?"
+  }
+ },
+ {
+  "n": 175,
+  "kind": "indirect",
+  "bridge": {
+   "id": 9262072,
+   "lang": "tzl",
+   "text": "Miziun afcastada."
+  }
+ },
+ {
+  "n": 176,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1601453,
+   "lang": "rus",
+   "text": "Хочешь поесть креветок?"
+  }
+ },
+ {
+  "n": 177,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2760144,
+   "lang": "eng",
+   "text": "Even a quarter kilometer away, the sound of the bomb was heard."
+  }
+ },
+ {
+  "n": 178,
+  "kind": "indirect",
+  "bridge": {
+   "id": 50918,
+   "lang": "eng",
+   "text": "Hand me the dictionary there, please."
+  }
+ },
+ {
+  "n": 179,
+  "kind": "indirect",
+  "bridge": {
+   "id": 2284690,
+   "lang": "heb",
+   "text": "הקונגרס הלאומי עממי הוא הגוף הגבוה והחזק ביותר במשטר הסיני."
+  }
+ },
+ {
+  "n": 180,
+  "kind": "indirect",
+  "bridge": {
+   "id": 6960573,
+   "lang": "rus",
+   "text": "Когда начинается собрание?"
+  }
+ },
+ {
+  "n": 181,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 182,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 183,
+  "kind": "indirect",
+  "bridge": {
+   "id": 4827240,
+   "lang": "tur",
+   "text": "Yatak toplamazdı."
+  }
+ },
+ {
+  "n": 184,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1131769,
+   "lang": "nds",
+   "text": "De Deern drinkt Tee."
+  }
+ },
+ {
+  "n": 185,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 186,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3328130,
+   "lang": "eng",
+   "text": "Can you understand that?"
+  }
+ },
+ {
+  "n": 187,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5958591,
+   "lang": "eng",
+   "text": "I became frustrated."
+  }
+ },
+ {
+  "n": 188,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 189,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1160551,
+   "lang": "eng",
+   "text": "I worked a lot this week."
+  }
+ },
+ {
+  "n": 190,
+  "kind": "indirect",
+  "bridge": {
+   "id": 272467,
+   "lang": "eng",
+   "text": "I'll leave it to you to buy the tickets."
+  }
+ },
+ {
+  "n": 191,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 192,
+  "kind": "direct",
+  "bridge": null
+ },
+ {
+  "n": 193,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1816711,
+   "lang": "eng",
+   "text": "You seem Uzbek to me."
+  }
+ },
+ {
+  "n": 194,
+  "kind": "indirect",
+  "bridge": {
+   "id": 1095016,
+   "lang": "eng",
+   "text": "Tom criticized Mary in front of everyone."
+  }
+ },
+ {
+  "n": 195,
+  "kind": "indirect",
+  "bridge": {
+   "id": 3161348,
+   "lang": "heb",
+   "text": "היום אלך לבקר את תום."
+  }
+ },
+ {
+  "n": 196,
+  "kind": "indirect",
+  "bridge": {
+   "id": 7431431,
+   "lang": "nld",
+   "text": "Ik begrijp geen Nederlands, omdat het moeilijk is."
+  }
+ },
+ {
+  "n": 197,
+  "kind": "indirect",
+  "bridge": {
+   "id": 4174388,
+   "lang": "aze",
+   "text": "May apreldən sonra gəlir."
+  }
+ },
+ {
+  "n": 198,
+  "kind": "indirect",
+  "bridge": {
+   "id": 5683873,
+   "lang": "ita",
+   "text": "Lei guida."
+  }
+ },
+ {
+  "n": 199,
+  "kind": "indirect",
+  "bridge": {
+   "id": 4674261,
+   "lang": "rus",
+   "text": "Том может уйти, если хочет."
+  }
+ },
+ {
+  "n": 200,
+  "kind": "indirect",
+  "bridge": {
+   "id": 562012,
+   "lang": "spa",
+   "text": "Cristóbal Colón se bebía el agua de mar de un trago."
+  }
+ }
+]

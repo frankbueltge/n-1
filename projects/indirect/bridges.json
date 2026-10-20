@@ -1,0 +1,242 @@
+{
+ "estimate": true,
+ "counts": {
+  "chain": 15,
+  "second": 7,
+  "first": 7
+ },
+ "rows": [
+  {
+   "n": 5,
+   "locus": "chain",
+   "how": "French 'vous' is plural or formal; Italian takes formal singular",
+   "hinge": "vous",
+   "what": "address (who is spoken to)",
+   "bridge_lang": "fra"
+  },
+  {
+   "n": 9,
+   "locus": "chain",
+   "how": "English 'you' carries no formality; Italian takes formal feminine",
+   "hinge": "you",
+   "what": "address (who is spoken to)",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 16,
+   "locus": "second",
+   "how": "Spanish keeps the informal 'te'; Turkish makes it formal or plural ('this' already lost in the first link)",
+   "hinge": null,
+   "what": "address (who is spoken to)",
+   "bridge_lang": "spa"
+  },
+  {
+   "n": 18,
+   "locus": "chain",
+   "how": "English 'fair' is reasonable or considerable; Bulgarian takes 'satisfactory'",
+   "hinge": "fair",
+   "what": "measure or number",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 23,
+   "locus": "chain",
+   "how": "English 'you' carries no formality; Hungarian takes informal singular",
+   "hinge": "you",
+   "what": "address (who is spoken to)",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 27,
+   "locus": "second",
+   "how": "French 'au fond du trou' is literal or 'at rock bottom'; the Kabyle reading is low-confidence",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "fra"
+  },
+  {
+   "n": 30,
+   "locus": "chain",
+   "how": "French 'arriver' is to arrive and to happen; Dutch takes 'happen'",
+   "hinge": "arrivé",
+   "what": "sense or idiom",
+   "bridge_lang": "fra"
+  },
+  {
+   "n": 47,
+   "locus": "first",
+   "how": "'too many' becomes 'one too many' in the English",
+   "hinge": null,
+   "what": "measure or number",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 48,
+   "locus": "chain",
+   "how": "English 'a number of' is several or many; Japanese takes 'many'",
+   "hinge": "a number of",
+   "what": "measure or number",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 50,
+   "locus": "first",
+   "how": "'trying to get extradited' becomes 'request' in the German",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "deu"
+  },
+  {
+   "n": 56,
+   "locus": "chain",
+   "how": "Esperanto 'rigardis' carries no aspect; Russian takes the perfective",
+   "hinge": "rigardis",
+   "what": "aspect",
+   "bridge_lang": "epo"
+  },
+  {
+   "n": 61,
+   "locus": "first",
+   "how": "'forged the weapons of' becomes 'made arms for' in the Latin",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "lat"
+  },
+  {
+   "n": 66,
+   "locus": "first",
+   "how": "the Berber idiom becomes 'tortured their minds' in the French (low confidence)",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "fra"
+  },
+  {
+   "n": 84,
+   "locus": "chain",
+   "how": "English 'you' carries no formality; Ukrainian takes informal",
+   "hinge": "you",
+   "what": "address (who is spoken to)",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 102,
+   "locus": "second",
+   "how": "English 'boy' becomes Tagalog 'bata' (child)",
+   "hinge": null,
+   "what": "gender",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 107,
+   "locus": "chain",
+   "how": "English 'you' carries no formality; Russian takes formal or plural",
+   "hinge": "you",
+   "what": "address (who is spoken to)",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 116,
+   "locus": "chain",
+   "how": "English 'they' is singular or plural; Volapük takes plural",
+   "hinge": "they",
+   "what": "measure or number",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 118,
+   "locus": "second",
+   "how": "Esperanto 'li' (him) becomes French 'sa connaissance' (his or hers)",
+   "hinge": null,
+   "what": "gender",
+   "bridge_lang": "epo"
+  },
+  {
+   "n": 121,
+   "locus": "second",
+   "how": "English 'want' becomes Volapük 'need' (low confidence)",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 122,
+   "locus": "chain",
+   "how": "English 'I will' leaves the verb out; Portuguese supplies 'go'",
+   "hinge": "I will",
+   "what": "sense or idiom",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 123,
+   "locus": "second",
+   "how": "Japanese 'gakusha baka' becomes the literal 'learned fool'",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "jpn"
+  },
+  {
+   "n": 125,
+   "locus": "second",
+   "how": "the German anthem line becomes a different poetic line in Tatar",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "deu"
+  },
+  {
+   "n": 127,
+   "locus": "chain",
+   "how": "Italian 'la' is 'her' or formal 'you'; English takes 'her'",
+   "hinge": "la",
+   "what": "address (who is spoken to)",
+   "bridge_lang": "ita"
+  },
+  {
+   "n": 151,
+   "locus": "chain",
+   "how": "English 'you' is singular or plural; Dutch takes plural",
+   "hinge": "you",
+   "what": "address (who is spoken to)",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 162,
+   "locus": "first",
+   "how": "'foreign languages' becomes 'how many languages' in the Japanese",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "jpn"
+  },
+  {
+   "n": 183,
+   "locus": "chain",
+   "how": "Turkish carries no gender and leaves the number of beds open; Esperanto takes 'he' and one bed",
+   "hinge": "yatak toplamazdı",
+   "what": "gender",
+   "bridge_lang": "tur"
+  },
+  {
+   "n": 187,
+   "locus": "first",
+   "how": "'got irritated' becomes 'became frustrated' in the English",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "eng"
+  },
+  {
+   "n": 198,
+   "locus": "chain",
+   "how": "Italian 'Lei' is 'she' or formal 'you'; English takes 'you'",
+   "hinge": "Lei",
+   "what": "address (who is spoken to)",
+   "bridge_lang": "ita"
+  },
+  {
+   "n": 200,
+   "locus": "first",
+   "how": "'straight up' becomes 'in one gulp' in the Spanish",
+   "hinge": null,
+   "what": "sense or idiom",
+   "bridge_lang": "spa"
+  }
+ ]
+}
