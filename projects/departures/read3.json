@@ -1,0 +1,169 @@
+[
+ {
+  "plies": 59,
+  "horizon": 8,
+  "counts": [
+   29067,
+   13925,
+   5630,
+   1038,
+   129,
+   82,
+   16
+  ],
+  "true_departure": 8,
+  "one_january_game_still_with_it": false,
+  "pair_seen_in_january": false,
+  "band": ">=1800"
+ },
+ {
+  "plies": 191,
+  "horizon": 7,
+  "counts": [
+   29067,
+   13925,
+   2058,
+   125,
+   32,
+   13
+  ],
+  "true_departure": 8,
+  "one_january_game_still_with_it": true,
+  "pair_seen_in_january": false,
+  "band": ">=1800"
+ },
+ {
+  "plies": 37,
+  "horizon": 5,
+  "counts": [
+   72488,
+   2278,
+   129,
+   9
+  ],
+  "true_departure": 5,
+  "one_january_game_still_with_it": false,
+  "pair_seen_in_january": true,
+  "band": "1400-1799"
+ },
+ {
+  "plies": 53,
+  "horizon": 6,
+  "counts": [
+   72488,
+   7756,
+   324,
+   7,
+   2
+  ],
+  "true_departure": 8,
+  "one_january_game_still_with_it": true,
+  "pair_seen_in_january": false,
+  "band": "<1400"
+ },
+ {
+  "plies": 84,
+  "horizon": 7,
+  "counts": [
+   72488,
+   1699,
+   626,
+   366,
+   99,
+   2
+  ],
+  "true_departure": 7,
+  "one_january_game_still_with_it": false,
+  "pair_seen_in_january": false,
+  "band": "1400-1799"
+ },
+ {
+  "plies": 53,
+  "horizon": 13,
+  "counts": [
+   72488,
+   32825,
+   18821,
+   4315,
+   1325,
+   114,
+   50,
+   17,
+   16,
+   16,
+   16,
+   16
+  ],
+  "true_departure": 13,
+  "one_january_game_still_with_it": false,
+  "pair_seen_in_january": false,
+  "band": "1400-1799"
+ },
+ {
+  "plies": 66,
+  "horizon": 7,
+  "counts": [
+   72488,
+   32825,
+   18821,
+   1476,
+   497,
+   86
+  ],
+  "true_departure": 8,
+  "one_january_game_still_with_it": true,
+  "pair_seen_in_january": true,
+  "band": "1400-1799"
+ },
+ {
+  "plies": 86,
+  "horizon": 9,
+  "counts": [
+   29067,
+   13925,
+   2058,
+   562,
+   142,
+   39,
+   11,
+   4
+  ],
+  "true_departure": 9,
+  "one_january_game_still_with_it": false,
+  "pair_seen_in_january": false,
+  "band": "1400-1799"
+ },
+ {
+  "plies": 7,
+  "horizon": null,
+  "counts": [
+   72488,
+   32825,
+   18821,
+   4315,
+   1787,
+   457,
+   72
+  ],
+  "true_departure": null,
+  "one_january_game_still_with_it": true,
+  "pair_seen_in_january": false,
+  "band": "1400-1799"
+ },
+ {
+  "plies": 79,
+  "horizon": 7,
+  "counts": [
+   2795,
+   537,
+   444,
+   47,
+   11,
+   2
+  ],
+  "true_departure": 7,
+  "one_january_game_still_with_it": false,
+  "pair_seen_in_january": false,
+  "band": "1400-1799"
+ }
+]

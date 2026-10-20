@@ -46,3 +46,24 @@ not from the session count.
 
 **Sobriety.** Cut: callouts on the image; a per-row pairs-of-accounts overlay (it would turn the figure toward who plays whom). Kept: one
 image, six labels, one axis, two sentences of caption.
+
+## Session 3 — 2026-10-20, balance written at the session's end
+
+**Which aspect dominated.** The opening, tried for the first time as something a visitor does rather than looks at. The hold came back
+inside it: before any visitor, the piece was made to answer 123,961 strangers' games from the next month, and its answers were counted.
+Home and opening went in one sitting again; the piece is the session 2 tree with a board in front of it.
+
+**Components of passage.** The visitor's own move. It converts the month (a closed population) into a companion that thins out, and the
+piece's horizon (two games) into the point where the visitor's game becomes its own. The vendored move generator is the other converter:
+without it the visitor could only follow the month, never leave it by a move of their own.
+
+**Consolidation.** Interval: the horizon is a hole made on purpose (the piece is not allowed to know the single game), and it holds the
+piece to its rights rule. 41.6 % of February's leavers fall into that hole with one January game still beside them: the piece says so.
+
+**Opening test.** Prevented once, by the registered rule: the prototype works, is receivable at a glance, and could have been called a
+work tonight; it is not, because no work is declared before session 4. Moved once, by the material: the neighbour check shows the cut is
+close to a players' tool, so the open question for session 4 is not form but advantage. The test placed the opening; it did not produce
+the claim the opening still lacks.
+
+**Sobriety.** Cut: an engine evaluation, an opening name beside the count (both would turn the piece toward judging or naming the
+visitor's play), and a second chart. Kept: a board, one number, one strip, one sentence.

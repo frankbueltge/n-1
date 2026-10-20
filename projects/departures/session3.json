@@ -1,0 +1,76 @@
+{
+ "january_games": 121332,
+ "february_games": 123961,
+ "january_unreadable_tails": 0,
+ "february_unreadable_tails": 0,
+ "january_moves_respelled_by_board": 12836,
+ "tree_nodes": 96388,
+ "tree_nodes_session2_file_spelling": 96388,
+ "january_never_depart": 1659,
+ "february_horizon_hist": {
+  "2": 143,
+  "3": 1478,
+  "4": 5135,
+  "5": 11323,
+  "6": 17447,
+  "7": 18878,
+  "8": 19215,
+  "9": 14686,
+  "10": 12147,
+  "11": 8393,
+  "12": 5904,
+  "13": 3309,
+  "14": 1917,
+  "15": 1039,
+  "16": 609,
+  "17": 318,
+  "18": 171,
+  "19": 108,
+  "20": 59,
+  "21": 37,
+  "22": 46,
+  "23": 18,
+  "24": 5,
+  "25": 15,
+  "26": 3,
+  "28": 5,
+  "29": 2,
+  "30": 1,
+  "31": 5,
+  "34": 1
+ },
+ "february_stay": 1544,
+ "february_true_later_than_horizon": 50931,
+ "band_medians": {
+  "<1400": 7,
+  ">=1800": 9.0,
+  "1400-1799": 8
+ },
+ "band_counts": {
+  "<1400": 17595,
+  ">=1800": 17690,
+  "1400-1799": 88411
+ },
+ "predictions": {
+  "P12 median horizon ply in [7,10]": {
+   "value": 8,
+   "held": true
+  },
+  "P13 share staying in tree in [0.5,3]%": {
+   "value": 1.246,
+   "held": true
+  },
+  "P14 true departure later than horizon in [20,50]% of leavers": {
+   "value": 41.605,
+   "held": true
+  },
+  "P15 >=1800 median at least 1 ply later than <1400": {
+   "value": [
+    9.0,
+    7
+   ],
+   "held": true
+  }
+ },
+ "seconds": 171
+}

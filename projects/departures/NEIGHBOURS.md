@@ -25,3 +25,9 @@ not seen) and a World Chess map of openings by origin (`https://worldchess.com/n
 material neighbour for a piece in which a visitor plays moves and is told how many games played them: it counts the games at each
 position for study. Distance, conjecture until read: it answers a player choosing the next move; it does not mark the move at which the
 visitor's game leaves everyone, and it draws on the whole database, not on one month as a closed population.
+
+**Session 3 (2026-10-20).** No new search. The prototype brings the session 2 entry for Lichess's Opening Explorer from "nearest material
+neighbour" to near neighbour in form: both let a person play moves and see how many games of a database played them. Distance, still from
+a search result and not seen: the explorer counts positions (transpositions merged) over the whole database for a player choosing a next
+move; the prototype counts move sequences in one closed month and marks the move at which fewer than two of its games remain. Daylight
+in form only; no advantage follows from it (`JOURNAL.md`, session 3).

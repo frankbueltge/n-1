@@ -1,4 +1,4 @@
-"""Builds index.html (the project's page) from session1.json, explore1.json, explore1b.json, sample.json, session2.json and rows2.json. Nothing is fetched at load."""
+"""Builds index.html (the project's page) from session1.json, explore1.json, explore1b.json, sample.json, session2.json, rows2.json and session3.json. Nothing is fetched at load."""
 import json, html
 
 s = json.load(open("session1.json")); e1 = json.load(open("explore1.json")); e = json.load(open("explore1b.json"))
@@ -64,6 +64,7 @@ axis = "".join(f'<span style="left:{(p-0.5)/60*100:.2f}%">{p}</span>' for p in (
 pr2 = "".join(f'<tr><td>{html.escape(k)}</td><td>{html.escape(json.dumps(v["value"]))}</td><td>{"held" if v["held"] else "<b>failed</b>"}</td></tr>' for k, v in s2["predictions"].items())
 held2 = sum(v["held"] for v in s2["predictions"].values())
 rows2 = json.load(open("rows2.json"))
+s3 = json.load(open("session3.json"))
 latest = max(r["median_departure"] for r in rows2)
 page = open("template.html").read()
 for k, v in {"N": fmt(n), "CHART1": chart1, "CHART2": chart2, "LROWS": lrows, "TROWS": trows, "PR": pr, "HELD": str(held),
@@ -75,7 +76,9 @@ for k, v in {"N": fmt(n), "CHART1": chart1, "CHART2": chart2, "LROWS": lrows, "T
              "PMED": f'{e["position_median_departure_ply"]:g}',
              "FIGLABELS": labels, "FIGAXIS": axis, "PR2": pr2, "HELD2": str(held2), "PLIES": fmt(s2["plies_total"]),
              "SHAREPCT": f'{100*s2["plies_shared"]/s2["plies_total"]:.1f}', "OWNPCT": f'{100-100*s2["plies_shared"]/s2["plies_total"]:.1f}',
-             "LATEST": f'{latest:g}',
+             "LATEST": f'{latest:g}', "FEBN": fmt(s3["february_games"]),
+             "FEBMED": f'{s3["predictions"]["P12 median horizon ply in [7,10]"]["value"]:g}',
+             "FEBSTAY": f'{100*s3["february_stay"]/s3["february_games"]:.1f}',
              "FIGALT": f'The {fmt(n)} games of January 2013 as lines stacked in move order: a narrow blue band of shared moves at the left, '
                        f'mostly ending between half-move 5 and 12, and amber, each game alone, everywhere to its right.'}.items():
     page = page.replace("{{" + k + "}}", v)
