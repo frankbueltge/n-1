@@ -93,8 +93,41 @@ clause ("written after the fact") met for this session, and it is recorded as tr
 - **01:03** Wake (03:03 Berlin). January re-fetched to scratch (sha256 equal to `fetch_log.json`); February 2013 fetched to scratch,
   sha256 `c136acdf…` equal to Lichess's list, not decompressed. `chess` 1.10.0 and `zstandard` installed with `python3 -m pip` (the bare
   `pip` again pointed elsewhere: the same detour as session 1's).
-- **01:08** Choice before registering: the visitor's stand-in is the next month's games, not invented ones, because the piece's honest
+- **01:04** Choice before registering: the visitor's stand-in is the next month's games, not invented ones, because the piece's honest
   question is what it would say to someone who did not play in January. A board needs a move generator; written from scratch it would be
   the session. chess.js (BSD-2-Clause) is vendored instead and checked against python-chess (P16). Counterfactual (estimate): without
   the vendored library the piece would offer only the month's own moves to click, and could not take a visitor's own move at all.
-- **01:10** `SESSION3.md` written; committed and pushed before February is decompressed.
+- **01:04** `SESSION3.md` written; committed and pushed before February is decompressed.
+- **01:04** Correction, logged rather than retouched in silence: the two entries above were first written as 01:08 and 01:10, times
+  estimated in advance, and the clock read 01:04 at the push (2471d25 carries the wrong times). Session 2's fault repeated within the first
+  minutes. From here every entry's time is read from `date -u` when written.
+- **01:05** Registered run started (`session3.py`); done at 01:08 in 171 s. **All four predictions held** (P12 median horizon ply 8;
+  P13 1.25 % of February's games stay inside the tree; P14 41.6 % of February's leavers still had one January game with them when the
+  piece would say "left"; P15 ply 9 against 7 across the rating bands). Four of four, again after the earlier sessions' numbers were
+  seen: the guesses were bounded by session 1's distribution, so they tested little. Said so. Implementation choice made in the script:
+  a game that stays counts in a median as leaving after its last ply (session 2's convention).
+- **01:08** Rebuilt on board SAN, the tree has **96,388 nodes, the same number as session 2's on the file's spelling**: the 12,836
+  respellings never fell inside a shared beginning. Not predicted; logged.
+- **01:09** P16: chess.js 1.4.0 replays all 67,318 plies of 1,000 random January games and writes every one as python-chess does
+  (`p16.json`). The piece is built on it.
+- **01:09** The reading rule (`read3.json`), in words. Ten February games: horizons at plies 5 to 13, one game of 7 plies stays inside
+  the tree to its end. The counts fall steeply and unevenly: 72,488 after 1.e4, then 32,825 or 7,756 or 2,278 or 1,699 depending on
+  Black's reply, then through the hundreds to single digits within four or five plies. One game holds at 16 for four plies running
+  (plies 9 to 12): sixteen January games, and this February one, walked that line together and parted at once. In 3 of the 9 that leave, the true
+  departure came one or two plies after the horizon: one January game was still with the February game when the piece would have said
+  "left". 2 of the 10 are between a pair of accounts also seen in January (counted, not named). Not judged.
+- **01:10** The piece built (`piece/index.html`, chess.js vendored with its licence in `vendor/`; `tree.json` its data, 1.03 MB).
+  `render-check.js` extended: it plays the Ruy Lopez to 3...a6 inside the page and finds the tree's 836 shown; a tap from e2 to e5 is
+  refused; a line off the tree says "fewer than 2". The scripted off-line first held an illegal move (Ra3 behind its own pawn) and the
+  check threw: my error, not the page's; replaced with Rg3. All pages ok at 1440 and 390 px.
+- **01:13** Looked at screenshots at both widths: an empty rank collapsed to a sliver on the wide board (grid rows were not fixed), and
+  the pawn glyph may turn into an emoji on some phones (training knowledge, not seen here); both fixed, looked at again. A Najdorf played
+  into the Poisoned Pawn line left the month at 7...Qb6: 92.7 % of January's games had left one another by that half-move.
+- **01:15** Rights check before commit: of 6,965 account names of five or more characters in the two files, none stands in a file
+  committed tonight except ordinary English words used as such ("games", "February", "start", "entry", "training").
+- **01:15** The advantage question, asked again: **not found, and the nearest neighbour is now nearer.** Lichess's own Opening Explorer
+  already counts, at each position, how many games of its database reached it (`NEIGHBOURS.md`, session 2, from a search result, not
+  seen). A person with the file and an afternoon builds this prototype. What differs is the cut, not the capacity: a closed population of
+  one month, sequences instead of positions, and the one moment the explorer has no reason to mark, when the count falls below two. That
+  is daylight in form, not an advantage. Session 4 must decide between a work that states an advantage in its own words and a put-back;
+  the modest-work exit stays closed (`SELECTION.md`).

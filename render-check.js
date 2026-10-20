@@ -298,6 +298,34 @@ const PAGES = [
     ok: (r) => r.charts === 2 && r.bars[0] === 36 && r.bars[1] === 37 && r.tables === 3 &&
       r.figure_loaded && r.figure_labels >= 5 && r.figure_min_font >= 11 && r.figure_labels_inside,
   },
+  {
+    // project 13, session 3 (2026-10-20): Against the month, a prototype (SESSION3.md, form criteria). Plays a scripted
+    // line through the page and compares the shown count with the tree's own; an illegal tap (e2 to e5) must not move;
+    // then a line off the tree must say "fewer than 2"; the page's own text is held to at least 11 CSS px.
+    path: 'projects/departures/piece/index.html',
+    probe: () => {
+      const P = window.__piece;
+      if (!P) return { loaded: false };
+      const cells = document.querySelectorAll('#board button').length;
+      document.querySelector('[data-sq="e2"]').click(); document.querySelector('[data-sq="e5"]').click();
+      const illegal_refused = !document.getElementById('moves').textContent.trim();
+      const line = ['e4', 'e5', 'Nf3', 'Nc6', 'Bb5', 'a6'];
+      let node = P.tree.tree, expect = 0;
+      for (const s of line) { const v = node[s]; expect = Array.isArray(v) ? v[0] : v; node = Array.isArray(v) ? v[1] : {}; }
+      line.forEach((s) => P.play(s));
+      const shown = parseInt(document.getElementById('count').textContent.replace(/,/g, ''), 10);
+      const next_buttons = document.querySelectorAll('#next button').length;
+      ['h4', 'h5', 'Rh3', 'Rh6', 'Rg3'].forEach((s) => P.play(s));
+      const off = document.getElementById('count').textContent === 'fewer than 2' && /left the month/.test(document.getElementById('say').textContent);
+      const txt = [...document.querySelectorAll('main p, main div, main button, main span')].filter((e) => e.textContent.trim() && !e.closest('#board'));
+      return {
+        loaded: true, cells, illegal_refused, expect, shown, next_buttons, off,
+        min_font: Math.min(...txt.map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.loaded && r.cells === 64 && r.illegal_refused && r.expect > 1 && r.shown === r.expect &&
+      r.next_buttons > 0 && r.off && r.min_font >= 11,
+  },
 ];
 
 (async () => {
