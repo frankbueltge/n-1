@@ -1,0 +1,2602 @@
+[
+ {
+  "n": 1,
+  "a": {
+   "id": 6209377,
+   "lang": "tur",
+   "text": "Bu doğru ve uygun!"
+  },
+  "c": {
+   "id": 6200140,
+   "lang": "por",
+   "text": "Isso é correcto e apropriado!"
+  }
+ },
+ {
+  "n": 2,
+  "a": {
+   "id": 7390695,
+   "lang": "eng",
+   "text": "He said that his bus was late."
+  },
+  "c": {
+   "id": 10600449,
+   "lang": "rus",
+   "text": "Он сказал, что его автобус опаздывает."
+  }
+ },
+ {
+  "n": 3,
+  "a": {
+   "id": 375956,
+   "lang": "por",
+   "text": "Ele se mantém fiel a seus princípios."
+  },
+  "c": {
+   "id": 3885922,
+   "lang": "fin",
+   "text": "Hän pysyy uskollisena periaatteilleen."
+  }
+ },
+ {
+  "n": 4,
+  "a": {
+   "id": 6446983,
+   "lang": "ukr",
+   "text": "Повертайстеся на корабель."
+  },
+  "c": {
+   "id": 5832375,
+   "lang": "ita",
+   "text": "Tornate sulla nave."
+  }
+ },
+ {
+  "n": 5,
+  "a": {
+   "id": 11375373,
+   "lang": "kab",
+   "text": "Tettaggademt tasusmi?"
+  },
+  "c": {
+   "id": 2960597,
+   "lang": "ita",
+   "text": "Lei ha paura del silenzio?"
+  }
+ },
+ {
+  "n": 6,
+  "a": {
+   "id": 1020813,
+   "lang": "tgl",
+   "text": "Nagsusulat sya sa kanya linggo linggo."
+  },
+  "c": {
+   "id": 1568003,
+   "lang": "heb",
+   "text": "היא כותבת לו מדי שבוע."
+  }
+ },
+ {
+  "n": 7,
+  "a": {
+   "id": 7376750,
+   "lang": "eng",
+   "text": "Mary is a talented actor, isn't she?"
+  },
+  "c": {
+   "id": 12807018,
+   "lang": "ita",
+   "text": "Mary è un'attrice talentuosa, vero?"
+  }
+ },
+ {
+  "n": 8,
+  "a": {
+   "id": 4208417,
+   "lang": "eng",
+   "text": "I'm just writing a letter to my girlfriend."
+  },
+  "c": {
+   "id": 4003034,
+   "lang": "hun",
+   "text": "Épp egy levelet írok a barátnőmnek."
+  }
+ },
+ {
+  "n": 9,
+  "a": {
+   "id": 9115274,
+   "lang": "hun",
+   "text": "Sosem hibáztattalak."
+  },
+  "c": {
+   "id": 4359578,
+   "lang": "ita",
+   "text": "Io non l'ho mai incolpata."
+  }
+ },
+ {
+  "n": 10,
+  "a": {
+   "id": 1818117,
+   "lang": "spa",
+   "text": "El café puede tener un efecto pernicioso sobre el estómago."
+  },
+  "c": {
+   "id": 1732707,
+   "lang": "fra",
+   "text": "Le café peut avoir des effets néfastes pour l'estomac."
+  }
+ },
+ {
+  "n": 11,
+  "a": {
+   "id": 1860875,
+   "lang": "ita",
+   "text": "Mi lasci il braccio, per cortesia!"
+  },
+  "c": {
+   "id": 1858928,
+   "lang": "epo",
+   "text": "Maltenu mian brakon, mi petas."
+  }
+ },
+ {
+  "n": 12,
+  "a": {
+   "id": 2112449,
+   "lang": "spa",
+   "text": "Mi hermano fuma mucho."
+  },
+  "c": {
+   "id": 11505240,
+   "lang": "kab",
+   "text": "Aṭas i yettkeyyif gma."
+  }
+ },
+ {
+  "n": 13,
+  "a": {
+   "id": 5587623,
+   "lang": "ita",
+   "text": "Non penso che Tom sia il fidanzato di Mary."
+  },
+  "c": {
+   "id": 7418444,
+   "lang": "rus",
+   "text": "Не думаю, что Том - парень Мэри."
+  }
+ },
+ {
+  "n": 14,
+  "a": {
+   "id": 6143518,
+   "lang": "epo",
+   "text": "Tomo ne povus fari tion sola, mi opinias."
+  },
+  "c": {
+   "id": 6143522,
+   "lang": "spa",
+   "text": "Tom no podría haberlo hecho solo, creo."
+  }
+ },
+ {
+  "n": 15,
+  "a": {
+   "id": 12730153,
+   "lang": "epo",
+   "text": "Vi estas tre maldika."
+  },
+  "c": {
+   "id": 4930915,
+   "lang": "rus",
+   "text": "Ты очень худой."
+  }
+ },
+ {
+  "n": 16,
+  "a": {
+   "id": 11693702,
+   "lang": "rus",
+   "text": "Давай я помогу тебе сделать эту работу."
+  },
+  "c": {
+   "id": 1166807,
+   "lang": "tur",
+   "text": "İşi yapmanıza yardım edeyim."
+  }
+ },
+ {
+  "n": 17,
+  "a": {
+   "id": 2601562,
+   "lang": "lat",
+   "text": "Nisi quis renatus fuerit denuo, non potest videre regnum Dei."
+  },
+  "c": {
+   "id": 3381137,
+   "lang": "tur",
+   "text": "Hiç kimse yeniden doğmadan Tanrı'nın krallığını göremez."
+  }
+ },
+ {
+  "n": 18,
+  "a": {
+   "id": 209987,
+   "lang": "jpn",
+   "text": "その事業は投資に対してかなりの利回りをもたらすだろう。"
+  },
+  "c": {
+   "id": 2196990,
+   "lang": "bul",
+   "text": "Бизнеса ще се поддаде и на задоволителна възвращаемост от инвестицията."
+  }
+ },
+ {
+  "n": 19,
+  "a": {
+   "id": 381543,
+   "lang": "por",
+   "text": "Vamos embora amanhã de manhã."
+  },
+  "c": {
+   "id": 2510204,
+   "lang": "epo",
+   "text": "Ni foriros morgaŭ matene."
+  }
+ },
+ {
+  "n": 20,
+  "a": {
+   "id": 254910,
+   "lang": "eng",
+   "text": "I can swim very fast."
+  },
+  "c": {
+   "id": 5849044,
+   "lang": "war",
+   "text": "Nakakalangoy akó hin madagmit."
+  }
+ },
+ {
+  "n": 21,
+  "a": {
+   "id": 1645192,
+   "lang": "tur",
+   "text": "Ölüm cezasını iptal etmeliyiz."
+  },
+  "c": {
+   "id": 3676781,
+   "lang": "hun",
+   "text": "El kell törölnünk a halálbüntetést."
+  }
+ },
+ {
+  "n": 22,
+  "a": {
+   "id": 3471160,
+   "lang": "lit",
+   "text": "Miega kaip kūdikis."
+  },
+  "c": {
+   "id": 880,
+   "lang": "deu",
+   "text": "Er schläft wie ein Baby."
+  }
+ },
+ {
+  "n": 23,
+  "a": {
+   "id": 6277988,
+   "lang": "ukr",
+   "text": "Думаєте, Том зробив би це таким чином?"
+  },
+  "c": {
+   "id": 7760839,
+   "lang": "hun",
+   "text": "Gondolod, hogy Tom úgy csinálta volna?"
+  }
+ },
+ {
+  "n": 24,
+  "a": {
+   "id": 8958809,
+   "lang": "kab",
+   "text": "D tidet, snat n tikwal i εeṭṭlen yakan."
+  },
+  "c": {
+   "id": 1667717,
+   "lang": "rus",
+   "text": "Это правда, они уже два раза опоздали."
+  }
+ },
+ {
+  "n": 25,
+  "a": {
+   "id": 10363025,
+   "lang": "spa",
+   "text": "Donó sangre."
+  },
+  "c": {
+   "id": 13380670,
+   "lang": "deu",
+   "text": "Sie spendete Blut."
+  }
+ },
+ {
+  "n": 26,
+  "a": {
+   "id": 9071947,
+   "lang": "ita",
+   "text": "L'ha accompagnata alla moschea."
+  },
+  "c": {
+   "id": 11540377,
+   "lang": "ber",
+   "text": "Yedda yid-s ɣer tmesgida."
+  }
+ },
+ {
+  "n": 27,
+  "a": {
+   "id": 13621255,
+   "lang": "rus",
+   "text": "Он на дне ямы."
+  },
+  "c": {
+   "id": 12151573,
+   "lang": "kab",
+   "text": "Yekcem deg uxjiḍ."
+  }
+ },
+ {
+  "n": 28,
+  "a": {
+   "id": 13183219,
+   "lang": "eng",
+   "text": "I don't give a damn what you do."
+  },
+  "c": {
+   "id": 13816709,
+   "lang": "rus",
+   "text": "Плевать мне на то, что ты делаешь."
+  }
+ },
+ {
+  "n": 29,
+  "a": {
+   "id": 78038,
+   "lang": "jpn",
+   "text": "両親のどちらかがその会議に行かねばならない。"
+  },
+  "c": {
+   "id": 2177515,
+   "lang": "deu",
+   "text": "Einer meiner Eltern muss die Konferenz besuchen."
+  }
+ },
+ {
+  "n": 30,
+  "a": {
+   "id": 10941381,
+   "lang": "swc",
+   "text": "Kwanini ilifika?"
+  },
+  "c": {
+   "id": 7804239,
+   "lang": "nld",
+   "text": "Waarom is dit gebeurd?"
+  }
+ },
+ {
+  "n": 31,
+  "a": {
+   "id": 3250370,
+   "lang": "dan",
+   "text": "Din bror har brug for hjælp."
+  },
+  "c": {
+   "id": 7499854,
+   "lang": "nld",
+   "text": "Jouw broer heeft hulp nodig."
+  }
+ },
+ {
+  "n": 32,
+  "a": {
+   "id": 12524808,
+   "lang": "ber",
+   "text": "D tin!"
+  },
+  "c": {
+   "id": 12482548,
+   "lang": "nno",
+   "text": "Den der!"
+  }
+ },
+ {
+  "n": 33,
+  "a": {
+   "id": 862071,
+   "lang": "rus",
+   "text": "Пожалуйста, положи это на место."
+  },
+  "c": {
+   "id": 5640368,
+   "lang": "epo",
+   "text": "Remetu ĝin en ĝian lokon, mi petas."
+  }
+ },
+ {
+  "n": 34,
+  "a": {
+   "id": 3909891,
+   "lang": "eng",
+   "text": "Don't you see her?"
+  },
+  "c": {
+   "id": 9988583,
+   "lang": "deu",
+   "text": "Siehst du sie nicht?"
+  }
+ },
+ {
+  "n": 35,
+  "a": {
+   "id": 8532891,
+   "lang": "nld",
+   "text": "Ik heb wat plaats nodig."
+  },
+  "c": {
+   "id": 5869156,
+   "lang": "heb",
+   "text": "אני צריך קצת מרחב."
+  }
+ },
+ {
+  "n": 36,
+  "a": {
+   "id": 1169435,
+   "lang": "epo",
+   "text": "Ni perdis lin el nia rigardo."
+  },
+  "c": {
+   "id": 249268,
+   "lang": "eng",
+   "text": "We lost sight of him."
+  }
+ },
+ {
+  "n": 37,
+  "a": {
+   "id": 4667236,
+   "lang": "eng",
+   "text": "Tom did it wrong."
+  },
+  "c": {
+   "id": 7535649,
+   "lang": "nld",
+   "text": "Tom deed het verkeerd."
+  }
+ },
+ {
+  "n": 38,
+  "a": {
+   "id": 5831310,
+   "lang": "tur",
+   "text": "Kapılardan biri kırılmıştı."
+  },
+  "c": {
+   "id": 6636710,
+   "lang": "ita",
+   "text": "Una delle porte era rotta."
+  }
+ },
+ {
+  "n": 39,
+  "a": {
+   "id": 4941471,
+   "lang": "tur",
+   "text": "O benimle konuşmak istemezse ne olur?"
+  },
+  "c": {
+   "id": 6377116,
+   "lang": "rus",
+   "text": "Что, если она не хочет со мной разговаривать?"
+  }
+ },
+ {
+  "n": 40,
+  "a": {
+   "id": 10800678,
+   "lang": "nld",
+   "text": "Gewoonlijk is mijn vader zondags thuis."
+  },
+  "c": {
+   "id": 1762098,
+   "lang": "tur",
+   "text": "Babam Pazar günleri genellikle evdedir."
+  }
+ },
+ {
+  "n": 41,
+  "a": {
+   "id": 2572124,
+   "lang": "heb",
+   "text": "היא העמידה פנים שהיא חולה כתירוץ."
+  },
+  "c": {
+   "id": 90210,
+   "lang": "jpn",
+   "text": "彼女は言い訳として病気の振りをした。"
+  }
+ },
+ {
+  "n": 42,
+  "a": {
+   "id": 3783335,
+   "lang": "epo",
+   "text": "Ĉu vi povas informi al mi, kion li diris?"
+  },
+  "c": {
+   "id": 3774065,
+   "lang": "eng",
+   "text": "Can you tell me what he said?"
+  }
+ },
+ {
+  "n": 43,
+  "a": {
+   "id": 2426637,
+   "lang": "ukr",
+   "text": "Чи Ви можете показати мені цю сумку?"
+  },
+  "c": {
+   "id": 6904182,
+   "lang": "lit",
+   "text": "Gal galite man parodyti šitą rankinę?"
+  }
+ },
+ {
+  "n": 44,
+  "a": {
+   "id": 8612217,
+   "lang": "por",
+   "text": "Precisamos dessas três coisas."
+  },
+  "c": {
+   "id": 10887298,
+   "lang": "epo",
+   "text": "Ni bezonas tiujn tri aĵojn."
+  }
+ },
+ {
+  "n": 45,
+  "a": {
+   "id": 12161298,
+   "lang": "epo",
+   "text": "La okuloj povas vidi, sed la koro estas blinda."
+  },
+  "c": {
+   "id": 12161339,
+   "lang": "fra",
+   "text": "Les yeux peuvent voir, mais le cœur est aveugle."
+  }
+ },
+ {
+  "n": 46,
+  "a": {
+   "id": 58816,
+   "lang": "eng",
+   "text": "Would you mind my using this dictionary?"
+  },
+  "c": {
+   "id": 1295690,
+   "lang": "tur",
+   "text": "Bu sözlüğü kullanabilir miyim?"
+  }
+ },
+ {
+  "n": 47,
+  "a": {
+   "id": 2109021,
+   "lang": "tur",
+   "text": "Biz çok fazla idik."
+  },
+  "c": {
+   "id": 606125,
+   "lang": "ita",
+   "text": "Eravamo uno di troppo."
+  }
+ },
+ {
+  "n": 48,
+  "a": {
+   "id": 4904092,
+   "lang": "tur",
+   "text": "Birkaç öğrenci yarışmaya katılmaktan mutlu olacağını söyledi."
+  },
+  "c": {
+   "id": 138274,
+   "lang": "jpn",
+   "text": "多数の学生が、その競争に喜んで参加すると言った。"
+  }
+ },
+ {
+  "n": 49,
+  "a": {
+   "id": 10362329,
+   "lang": "gsw",
+   "text": "Der Tom wird sich go umzieh."
+  },
+  "c": {
+   "id": 2123532,
+   "lang": "eng",
+   "text": "Tom'll change."
+  }
+ },
+ {
+  "n": 50,
+  "a": {
+   "id": 7776141,
+   "lang": "ita",
+   "text": "Gli Stati Uniti stanno cercando di far estradare Julian Assange."
+  },
+  "c": {
+   "id": 7851865,
+   "lang": "dan",
+   "text": "USA beder om udlevering af Julian Assange."
+  }
+ },
+ {
+  "n": 51,
+  "a": {
+   "id": 29909,
+   "lang": "eng",
+   "text": "Mind your own business."
+  },
+  "c": {
+   "id": 137748,
+   "lang": "jpn",
+   "text": "大きなお世話だ。"
+  }
+ },
+ {
+  "n": 52,
+  "a": {
+   "id": 3762055,
+   "lang": "eng",
+   "text": "I only speak Italian."
+  },
+  "c": {
+   "id": 3763253,
+   "lang": "por",
+   "text": "Eu só falo italiano."
+  }
+ },
+ {
+  "n": 53,
+  "a": {
+   "id": 13645487,
+   "lang": "rus",
+   "text": "Осёл постоянно ревёт."
+  },
+  "c": {
+   "id": 13213836,
+   "lang": "tig",
+   "text": "ለአድግ ክሉ ወቅት ልንሕቅ።"
+  }
+ },
+ {
+  "n": 54,
+  "a": {
+   "id": 8034993,
+   "lang": "ukr",
+   "text": "Діти розуміють усе."
+  },
+  "c": {
+   "id": 4470935,
+   "lang": "fra",
+   "text": "Les enfants comprennent tout."
+  }
+ },
+ {
+  "n": 55,
+  "a": {
+   "id": 2308487,
+   "lang": "heb",
+   "text": "אל תחששי לי."
+  },
+  "c": {
+   "id": 164189,
+   "lang": "jpn",
+   "text": "私のことは心配しないで下さい。"
+  }
+ },
+ {
+  "n": 56,
+  "a": {
+   "id": 5297597,
+   "lang": "fra",
+   "text": "Jean regardait votre rose."
+  },
+  "c": {
+   "id": 8601682,
+   "lang": "rus",
+   "text": "Жан посмотрел на вашу розу."
+  }
+ },
+ {
+  "n": 57,
+  "a": {
+   "id": 11912509,
+   "lang": "eng",
+   "text": "It is said that time changes everything."
+  },
+  "c": {
+   "id": 11912528,
+   "lang": "ron",
+   "text": "Se spune că timpul schimbă totul."
+  }
+ },
+ {
+  "n": 58,
+  "a": {
+   "id": 2240068,
+   "lang": "epo",
+   "text": "Tomo estis danĝera."
+  },
+  "c": {
+   "id": 4337755,
+   "lang": "mkd",
+   "text": "Том беше опасен."
+  }
+ },
+ {
+  "n": 59,
+  "a": {
+   "id": 1486040,
+   "lang": "fra",
+   "text": "L'image s'inversait après avoir traversé la lentille."
+  },
+  "c": {
+   "id": 1910399,
+   "lang": "epo",
+   "text": "La bildo inversiĝis, trairinte la lenson."
+  }
+ },
+ {
+  "n": 60,
+  "a": {
+   "id": 12406455,
+   "lang": "rus",
+   "text": "Том и Мэри сказали, что помогут."
+  },
+  "c": {
+   "id": 12406454,
+   "lang": "hye",
+   "text": "Թոմն ու Մերին ասացին, որ կօգնեն:"
+  }
+ },
+ {
+  "n": 61,
+  "a": {
+   "id": 5103144,
+   "lang": "por",
+   "text": "Vulcano forjou as armas dos deuses e dos homens."
+  },
+  "c": {
+   "id": 6611073,
+   "lang": "eng",
+   "text": "Vulcan made weapons for gods and men."
+  }
+ },
+ {
+  "n": 62,
+  "a": {
+   "id": 416407,
+   "lang": "rus",
+   "text": "Я не ответил на твоё письмо, потому что был занят."
+  },
+  "c": {
+   "id": 7841241,
+   "lang": "spa",
+   "text": "No respondí a tu carta porque estaba ocupado."
+  }
+ },
+ {
+  "n": 63,
+  "a": {
+   "id": 13004963,
+   "lang": "tlh",
+   "text": "jIHvo' bInIHpu''a'?"
+  },
+  "c": {
+   "id": 12448937,
+   "lang": "deu",
+   "text": "Haben Sie mich bestohlen?"
+  }
+ },
+ {
+  "n": 64,
+  "a": {
+   "id": 3530540,
+   "lang": "epo",
+   "text": "Ĉu vi bonvolas foti min?"
+  },
+  "c": {
+   "id": 321504,
+   "lang": "eng",
+   "text": "Would you please take my picture?"
+  }
+ },
+ {
+  "n": 65,
+  "a": {
+   "id": 3186479,
+   "lang": "por",
+   "text": "Nós vamos acampar todo verão."
+  },
+  "c": {
+   "id": 12080097,
+   "lang": "yue",
+   "text": "我等每年夏日都去露營。"
+  }
+ },
+ {
+  "n": 66,
+  "a": {
+   "id": 2919484,
+   "lang": "ber",
+   "text": "Llan ttruẓun iɣfawen-nsen."
+  },
+  "c": {
+   "id": 2962259,
+   "lang": "epo",
+   "text": "Ili turmentis al si la menson."
+  }
+ },
+ {
+  "n": 67,
+  "a": {
+   "id": 11416231,
+   "lang": "lvs",
+   "text": "Piens ir ieskābis."
+  },
+  "c": {
+   "id": 1389769,
+   "lang": "deu",
+   "text": "Die Milch ist sauer."
+  }
+ },
+ {
+  "n": 68,
+  "a": {
+   "id": 1023798,
+   "lang": "eng",
+   "text": "What does Tom get in return for all the work he's done?"
+  },
+  "c": {
+   "id": 1258252,
+   "lang": "spa",
+   "text": "¿Qué obtiene Tom a cambio de todo el trabajo que ha hecho?"
+  }
+ },
+ {
+  "n": 69,
+  "a": {
+   "id": 7368781,
+   "lang": "ber",
+   "text": "Ad teddum yid-i ɣer tḥanut?"
+  },
+  "c": {
+   "id": 2436371,
+   "lang": "spa",
+   "text": "¿Vienes a la tienda conmigo?"
+  }
+ },
+ {
+  "n": 70,
+  "a": {
+   "id": 13421960,
+   "lang": "eng",
+   "text": "You're not the Tom I know."
+  },
+  "c": {
+   "id": 13425374,
+   "lang": "deu",
+   "text": "Du bist nicht der Tom, den ich kenne."
+  }
+ },
+ {
+  "n": 71,
+  "a": {
+   "id": 275228,
+   "lang": "eng",
+   "text": "My joints ache."
+  },
+  "c": {
+   "id": 617109,
+   "lang": "ara",
+   "text": "مفاصلي تؤلمني."
+  }
+ },
+ {
+  "n": 72,
+  "a": {
+   "id": 4862077,
+   "lang": "ita",
+   "text": "Io posso essermi sbagliato."
+  },
+  "c": {
+   "id": 4863306,
+   "lang": "bul",
+   "text": "Аз може и да съм сбъркал."
+  }
+ },
+ {
+  "n": 73,
+  "a": {
+   "id": 749898,
+   "lang": "spa",
+   "text": "Por donde vayas, te seguiré."
+  },
+  "c": {
+   "id": 1593640,
+   "lang": "por",
+   "text": "Onde quer que você vá, eu o seguirei."
+  }
+ },
+ {
+  "n": 74,
+  "a": {
+   "id": 11000040,
+   "lang": "nnb",
+   "text": "Mongalw'omonyumba moluba ingosya thalhy'engurubani."
+  },
+  "c": {
+   "id": 10877947,
+   "lang": "lin",
+   "text": "Nalongwaki ndako na ntongo makasi mpo ete nazanga engbunduka na ngai te."
+  }
+ },
+ {
+  "n": 75,
+  "a": {
+   "id": 10663689,
+   "lang": "zsm",
+   "text": "Rumah itu kelihatan seperti sudah ditinggalkan."
+  },
+  "c": {
+   "id": 10485896,
+   "lang": "ita",
+   "text": "La casa sembrava abbandonata."
+  }
+ },
+ {
+  "n": 76,
+  "a": {
+   "id": 831407,
+   "lang": "rus",
+   "text": "Это ты чересчур."
+  },
+  "c": {
+   "id": 3088263,
+   "lang": "spa",
+   "text": "Te pasaste."
+  }
+ },
+ {
+  "n": 77,
+  "a": {
+   "id": 5125251,
+   "lang": "epo",
+   "text": "Ni dancu, ĉu konsentite?"
+  },
+  "c": {
+   "id": 4595165,
+   "lang": "ita",
+   "text": "Danziamo, vuole?"
+  }
+ },
+ {
+  "n": 78,
+  "a": {
+   "id": 6637566,
+   "lang": "pol",
+   "text": "Panie Jezu Chryste, Synu Boży, zmiłuj się nade mną, grzesznikiem."
+  },
+  "c": {
+   "id": 13478317,
+   "lang": "prg",
+   "text": "Rikī Īzu Kristu, Dēiwas Sūnu, engraudīs kīrsa min, grīkenikan."
+  }
+ },
+ {
+  "n": 79,
+  "a": {
+   "id": 10793926,
+   "lang": "lit",
+   "text": "Netgi žiemą pas mus nedaug sniego."
+  },
+  "c": {
+   "id": 1201341,
+   "lang": "fra",
+   "text": "Même en hiver, nous n'avons pas beaucoup de neige."
+  }
+ },
+ {
+  "n": 80,
+  "a": {
+   "id": 10074730,
+   "lang": "zsm",
+   "text": "Tom mengakui bahawa dia telah membunuh Mary."
+  },
+  "c": {
+   "id": 10074735,
+   "lang": "kzj",
+   "text": "Minangakun i Tom do pinatai i Mary isido."
+  }
+ },
+ {
+  "n": 81,
+  "a": {
+   "id": 1653988,
+   "lang": "spa",
+   "text": "Tenemos una sala de reuniones en el segundo piso y otra en el tercero."
+  },
+  "c": {
+   "id": 1650679,
+   "lang": "eng",
+   "text": "We have a meeting room in the second floor and another one in the third floor."
+  }
+ },
+ {
+  "n": 82,
+  "a": {
+   "id": 9583724,
+   "lang": "fra",
+   "text": "Ils ne vivent plus ici."
+  },
+  "c": {
+   "id": 7249512,
+   "lang": "epo",
+   "text": "Ili ne plu loĝas ĉi tie."
+  }
+ },
+ {
+  "n": 83,
+  "a": {
+   "id": 5082486,
+   "lang": "ron",
+   "text": "Tu trebuie să aduci cu tine la bancă pașaportul tău."
+  },
+  "c": {
+   "id": 9731424,
+   "lang": "kab",
+   "text": "Ilaq ad d-tawiḍ yid-k apaspuṛ-ik ɣer lbanka."
+  }
+ },
+ {
+  "n": 84,
+  "a": {
+   "id": 13599601,
+   "lang": "rus",
+   "text": "Я всё ещё хочу, чтобы вы помогли мне это сделать."
+  },
+  "c": {
+   "id": 5914338,
+   "lang": "ukr",
+   "text": "Я все ще хочу, щоб ти допоміг мені це зробити."
+  }
+ },
+ {
+  "n": 85,
+  "a": {
+   "id": 320821,
+   "lang": "eng",
+   "text": "My mother said that she was all right."
+  },
+  "c": {
+   "id": 7079379,
+   "lang": "rus",
+   "text": "Моя мама сказала, что с ней всё хорошо."
+  }
+ },
+ {
+  "n": 86,
+  "a": {
+   "id": 429296,
+   "lang": "epo",
+   "text": "Kiam vi naskiĝis?"
+  },
+  "c": {
+   "id": 2349201,
+   "lang": "ita",
+   "text": "Quando è nato?"
+  }
+ },
+ {
+  "n": 87,
+  "a": {
+   "id": 3554351,
+   "lang": "rus",
+   "text": "Кен думал, что Том спит."
+  },
+  "c": {
+   "id": 4680332,
+   "lang": "eng",
+   "text": "Ken thought that Tom was sleeping."
+  }
+ },
+ {
+  "n": 88,
+  "a": {
+   "id": 6635539,
+   "lang": "ron",
+   "text": "Ea are niște preconcepții puternice împotriva picturii abstracte."
+  },
+  "c": {
+   "id": 553606,
+   "lang": "fra",
+   "text": "Elle a de forts préjugés envers la peinture abstraite."
+  }
+ },
+ {
+  "n": 89,
+  "a": {
+   "id": 8226104,
+   "lang": "ces",
+   "text": "Chováš se arogantně."
+  },
+  "c": {
+   "id": 8226107,
+   "lang": "eng",
+   "text": "You are being arrogant."
+  }
+ },
+ {
+  "n": 90,
+  "a": {
+   "id": 2271252,
+   "lang": "mar",
+   "text": "विंडोजची पुढची आवृत्ती या महीन्याच्या शेवटागोदर येईल हे मला असंभवनीय वाटतं."
+  },
+  "c": {
+   "id": 1525500,
+   "lang": "jpn",
+   "text": "今月中にウインドウズの次のバージョンが出る見込みはないと思う。"
+  }
+ },
+ {
+  "n": 91,
+  "a": {
+   "id": 3199779,
+   "lang": "jpn",
+   "text": "「お前まさかもう酔ってる？」「酔ってない酔ってない」"
+  },
+  "c": {
+   "id": 3219103,
+   "lang": "rus",
+   "text": "\"Только не говори мне, что ты уже пьяный!\" - \"Нет-нет\"."
+  }
+ },
+ {
+  "n": 92,
+  "a": {
+   "id": 11727738,
+   "lang": "nld",
+   "text": "Vandaag beschouw ik mezelf als de gelukkigste man ter aarde."
+  },
+  "c": {
+   "id": 10651087,
+   "lang": "fra",
+   "text": "Aujourd'hui, je me considère comme l'homme le plus chanceux du monde."
+  }
+ },
+ {
+  "n": 93,
+  "a": {
+   "id": 6625261,
+   "lang": "deu",
+   "text": "Tom und Maria sind bei mir."
+  },
+  "c": {
+   "id": 3715629,
+   "lang": "tur",
+   "text": "Tom ve Mary benimle birlikteler."
+  }
+ },
+ {
+  "n": 94,
+  "a": {
+   "id": 1216258,
+   "lang": "tur",
+   "text": "Bu, onun şimdiye kadar okuduğu en ilginç kitaptı."
+  },
+  "c": {
+   "id": 218121,
+   "lang": "jpn",
+   "text": "これは彼女がそれまでに読んだ中で一番面白い本だった。"
+  }
+ },
+ {
+  "n": 95,
+  "a": {
+   "id": 11021121,
+   "lang": "eng",
+   "text": "He says that every episode."
+  },
+  "c": {
+   "id": 11024534,
+   "lang": "hun",
+   "text": "Mindegyik epizódban ezt mondja."
+  }
+ },
+ {
+  "n": 96,
+  "a": {
+   "id": 13102936,
+   "lang": "tok",
+   "text": "jan ale li toki e ijo pi jan ante."
+  },
+  "c": {
+   "id": 13204327,
+   "lang": "hye",
+   "text": "Բոլորը բամբասում են։"
+  }
+ },
+ {
+  "n": 97,
+  "a": {
+   "id": 6948562,
+   "lang": "hun",
+   "text": "Szándékosan vétett hibát."
+  },
+  "c": {
+   "id": 373874,
+   "lang": "ita",
+   "text": "Il suo errore era volontario."
+  }
+ },
+ {
+  "n": 98,
+  "a": {
+   "id": 12470717,
+   "lang": "deu",
+   "text": "Haben Sie Zucker gekauft?"
+  },
+  "c": {
+   "id": 9365990,
+   "lang": "eng",
+   "text": "Did you buy sugar?"
+  }
+ },
+ {
+  "n": 99,
+  "a": {
+   "id": 42982,
+   "lang": "eng",
+   "text": "So what are you implying?"
+  },
+  "c": {
+   "id": 5466904,
+   "lang": "heb",
+   "text": "ובכן, למה ירמזון דבריך?"
+  }
+ },
+ {
+  "n": 100,
+  "a": {
+   "id": 6367440,
+   "lang": "ita",
+   "text": "Ti ho detto che stavo arrivando."
+  },
+  "c": {
+   "id": 4830353,
+   "lang": "rus",
+   "text": "Я сказал тебе, что я иду."
+  }
+ },
+ {
+  "n": 101,
+  "a": {
+   "id": 547169,
+   "lang": "pol",
+   "text": "Mam dużego psa."
+  },
+  "c": {
+   "id": 1015052,
+   "lang": "por",
+   "text": "Tenho um cachorrão."
+  }
+ },
+ {
+  "n": 102,
+  "a": {
+   "id": 1336225,
+   "lang": "fra",
+   "text": "La sorcière a jeté un sort sur le méchant garçon."
+  },
+  "c": {
+   "id": 11583626,
+   "lang": "tgl",
+   "text": "Kinulam ng bruha ang malikot na bata."
+  }
+ },
+ {
+  "n": 103,
+  "a": {
+   "id": 2532704,
+   "lang": "spa",
+   "text": "¡Te equivocas!"
+  },
+  "c": {
+   "id": 9180136,
+   "lang": "grn",
+   "text": "Nde rejavy!"
+  }
+ },
+ {
+  "n": 104,
+  "a": {
+   "id": 7400034,
+   "lang": "eng",
+   "text": "She promised she'd quit smoking."
+  },
+  "c": {
+   "id": 8215960,
+   "lang": "tur",
+   "text": "Sigara içmeyi bırakacağına söz verdi."
+  }
+ },
+ {
+  "n": 105,
+  "a": {
+   "id": 2241675,
+   "lang": "eng",
+   "text": "We've found it."
+  },
+  "c": {
+   "id": 3994330,
+   "lang": "rus",
+   "text": "Мы её нашли."
+  }
+ },
+ {
+  "n": 106,
+  "a": {
+   "id": 1430799,
+   "lang": "por",
+   "text": "Nós escalamos até o topo."
+  },
+  "c": {
+   "id": 2491440,
+   "lang": "ber",
+   "text": "Nuley armi d taqacuct."
+  }
+ },
+ {
+  "n": 107,
+  "a": {
+   "id": 3743924,
+   "lang": "deu",
+   "text": "Hätte ich gewusst, was du vorhattest, hätte ich versucht, dich zu stoppen."
+  },
+  "c": {
+   "id": 3743782,
+   "lang": "rus",
+   "text": "Знал бы я, что вы собираетесь делать, я бы попробовал остановить вас."
+  }
+ },
+ {
+  "n": 108,
+  "a": {
+   "id": 463870,
+   "lang": "eng",
+   "text": "Do you prefer tea or coffee?"
+  },
+  "c": {
+   "id": 11144291,
+   "lang": "heb",
+   "text": "את מעדיפה תה או קפה?"
+  }
+ },
+ {
+  "n": 109,
+  "a": {
+   "id": 861078,
+   "lang": "nds",
+   "text": "Wannehr kann ik hier swemmen?"
+  },
+  "c": {
+   "id": 673486,
+   "lang": "dan",
+   "text": "Hvornår kan jeg svømme her?"
+  }
+ },
+ {
+  "n": 110,
+  "a": {
+   "id": 8687626,
+   "lang": "fra",
+   "text": "Vous les verrez."
+  },
+  "c": {
+   "id": 3910255,
+   "lang": "eng",
+   "text": "You'll see them."
+  }
+ },
+ {
+  "n": 111,
+  "a": {
+   "id": 12728975,
+   "lang": "deu",
+   "text": "Du musst anhalten."
+  },
+  "c": {
+   "id": 1663818,
+   "lang": "eng",
+   "text": "You need to stop."
+  }
+ },
+ {
+  "n": 112,
+  "a": {
+   "id": 12306253,
+   "lang": "lat",
+   "text": "Ei magnam pecuniam dederunt."
+  },
+  "c": {
+   "id": 12306226,
+   "lang": "ita",
+   "text": "Gli hanno dato molto denaro."
+  }
+ },
+ {
+  "n": 113,
+  "a": {
+   "id": 6818046,
+   "lang": "rus",
+   "text": "Я хотел, чтобы Том увидел восход солнца."
+  },
+  "c": {
+   "id": 6817482,
+   "lang": "tur",
+   "text": "Tom'un güneşin doğuşunu görmesini istedim."
+  }
+ },
+ {
+  "n": 114,
+  "a": {
+   "id": 5661644,
+   "lang": "rus",
+   "text": "Аромат лилий наполнил комнату."
+  },
+  "c": {
+   "id": 1473627,
+   "lang": "nld",
+   "text": "De geur van lelies vulde de kamer."
+  }
+ },
+ {
+  "n": 115,
+  "a": {
+   "id": 417287,
+   "lang": "rus",
+   "text": "Если не опоздаешь на поезд, ты успеешь туда вовремя."
+  },
+  "c": {
+   "id": 386844,
+   "lang": "ukr",
+   "text": "Ти доберешся туди вчасно, якщо не запізнишся на поїзд."
+  }
+ },
+ {
+  "n": 116,
+  "a": {
+   "id": 13420622,
+   "lang": "fin",
+   "text": "Hän ei tiedä nimeäni."
+  },
+  "c": {
+   "id": 6883892,
+   "lang": "vol",
+   "text": "No noloms nemi obik."
+  }
+ },
+ {
+  "n": 117,
+  "a": {
+   "id": 1212369,
+   "lang": "tur",
+   "text": "İş hayatının çoğunluğunu bir diplomat olarak geçirdi."
+  },
+  "c": {
+   "id": 470613,
+   "lang": "ukr",
+   "text": "Більшу частину своєї кар’єри він був дипломатом."
+  }
+ },
+ {
+  "n": 118,
+  "a": {
+   "id": 897429,
+   "lang": "pol",
+   "text": "Poznałem go w zeszłym roku."
+  },
+  "c": {
+   "id": 6654,
+   "lang": "fra",
+   "text": "J'ai fait sa connaissance l'année dernière."
+  }
+ },
+ {
+  "n": 119,
+  "a": {
+   "id": 4210892,
+   "lang": "tur",
+   "text": "Biz gerçekten büyük bir kavga ettik."
+  },
+  "c": {
+   "id": 3333619,
+   "lang": "fin",
+   "text": "Meillä oli tosi iso tappelu."
+  }
+ },
+ {
+  "n": 120,
+  "a": {
+   "id": 10451166,
+   "lang": "eng",
+   "text": "I want to go and see the cherry trees in blossom."
+  },
+  "c": {
+   "id": 11234672,
+   "lang": "fra",
+   "text": "Je veux aller voir les cerisiers en fleurs."
+  }
+ },
+ {
+  "n": 121,
+  "a": {
+   "id": 8548724,
+   "lang": "ber",
+   "text": "Bɣiɣ imdanen ay izemren ad mahlen."
+  },
+  "c": {
+   "id": 11246554,
+   "lang": "vol",
+   "text": "Nedob menis kanölis vobön."
+  }
+ },
+ {
+  "n": 122,
+  "a": {
+   "id": 3684730,
+   "lang": "swe",
+   "text": "Jag gör det, fast på ett villkor."
+  },
+  "c": {
+   "id": 11841076,
+   "lang": "por",
+   "text": "Eu vou, mas com uma condição."
+  }
+ },
+ {
+  "n": 123,
+  "a": {
+   "id": 372884,
+   "lang": "deu",
+   "text": "Sie ist was man einen Fachidioten nennt."
+  },
+  "c": {
+   "id": 310515,
+   "lang": "eng",
+   "text": "She is what is called a learned fool."
+  }
+ },
+ {
+  "n": 124,
+  "a": {
+   "id": 387427,
+   "lang": "eng",
+   "text": "Let's begin."
+  },
+  "c": {
+   "id": 819465,
+   "lang": "cmn",
+   "text": "讓我們開始吧。"
+  }
+ },
+ {
+  "n": 125,
+  "a": {
+   "id": 581633,
+   "lang": "epo",
+   "text": "Unuecu kaj justeco kaj libereco estas garantio por la bonŝanco."
+  },
+  "c": {
+   "id": 913024,
+   "lang": "tat",
+   "text": "Бердәмлек, Хокук, Хөррият – безнең бәхет солтаны."
+  }
+ },
+ {
+  "n": 126,
+  "a": {
+   "id": 8119529,
+   "lang": "kor",
+   "text": "독서는 제 취미 중 하나입니다."
+  },
+  "c": {
+   "id": 8698989,
+   "lang": "fra",
+   "text": "La lecture est l'un de mes passe-temps."
+  }
+ },
+ {
+  "n": 127,
+  "a": {
+   "id": 7851484,
+   "lang": "epo",
+   "text": "Kial neniu helpas vin?"
+  },
+  "c": {
+   "id": 3915470,
+   "lang": "eng",
+   "text": "Why doesn't anybody help her?"
+  }
+ },
+ {
+  "n": 128,
+  "a": {
+   "id": 3823044,
+   "lang": "eng",
+   "text": "Why would I lie?"
+  },
+  "c": {
+   "id": 5520617,
+   "lang": "por",
+   "text": "Por que eu mentiria?"
+  }
+ },
+ {
+  "n": 129,
+  "a": {
+   "id": 3593848,
+   "lang": "ber",
+   "text": "Asebdad n Tlelli d azamul n Temrikt."
+  },
+  "c": {
+   "id": 895405,
+   "lang": "rus",
+   "text": "Статуя Свободы — символ Америки."
+  }
+ },
+ {
+  "n": 130,
+  "a": {
+   "id": 1023318,
+   "lang": "heb",
+   "text": "לתרופה הזאת אין תופעות לוואי."
+  },
+  "c": {
+   "id": 1023320,
+   "lang": "epo",
+   "text": "Tiu ĉi medikamento ne havas kromefikojn."
+  }
+ },
+ {
+  "n": 131,
+  "a": {
+   "id": 8747272,
+   "lang": "ber",
+   "text": "Ad am-d-awiɣ tafrut d tazedgant."
+  },
+  "c": {
+   "id": 6902116,
+   "lang": "ita",
+   "text": "Le porterò un coltello pulito."
+  }
+ },
+ {
+  "n": 132,
+  "a": {
+   "id": 61173,
+   "lang": "eng",
+   "text": "This credit card entitles us to certain privileges."
+  },
+  "c": {
+   "id": 5328576,
+   "lang": "tur",
+   "text": "Bu kredi kartı, bize belirli ayrıcalıklar sağladı."
+  }
+ },
+ {
+  "n": 133,
+  "a": {
+   "id": 68024,
+   "lang": "eng",
+   "text": "His lectures are terribly boring."
+  },
+  "c": {
+   "id": 3635046,
+   "lang": "ita",
+   "text": "Le sue conferenze sono terribilmente noiose."
+  }
+ },
+ {
+  "n": 134,
+  "a": {
+   "id": 8657545,
+   "lang": "cym",
+   "text": "Dysga!"
+  },
+  "c": {
+   "id": 695375,
+   "lang": "deu",
+   "text": "Lerne!"
+  }
+ },
+ {
+  "n": 135,
+  "a": {
+   "id": 57227,
+   "lang": "eng",
+   "text": "Let's learn this sentence by heart."
+  },
+  "c": {
+   "id": 13669135,
+   "lang": "tat",
+   "text": "Әйдә, бу җөмләне ятлыйк."
+  }
+ },
+ {
+  "n": 136,
+  "a": {
+   "id": 1049053,
+   "lang": "fin",
+   "text": "Etkö tulisi ensi vuonna viikoksi luoksemme?"
+  },
+  "c": {
+   "id": 325140,
+   "lang": "eng",
+   "text": "How would you like to come and spend a week with us next year?"
+  }
+ },
+ {
+  "n": 137,
+  "a": {
+   "id": 13744385,
+   "lang": "rus",
+   "text": "Мы думаем о своих проблемах."
+  },
+  "c": {
+   "id": 11177601,
+   "lang": "kab",
+   "text": "Nettmeyyiz i yiɣeblan-nneɣ."
+  }
+ },
+ {
+  "n": 138,
+  "a": {
+   "id": 12213508,
+   "lang": "fra",
+   "text": "Avant, j'avais les cheveux longs."
+  },
+  "c": {
+   "id": 12213509,
+   "lang": "eng",
+   "text": "I used to have long hair."
+  }
+ },
+ {
+  "n": 139,
+  "a": {
+   "id": 11940100,
+   "lang": "ido",
+   "text": "Tom olim esis tradukisto."
+  },
+  "c": {
+   "id": 12040166,
+   "lang": "tok",
+   "text": "tenpo pini la jan Ton li jan pi ante toki."
+  }
+ },
+ {
+  "n": 140,
+  "a": {
+   "id": 368376,
+   "lang": "deu",
+   "text": "Bitte füllen Sie dieses Formular aus."
+  },
+  "c": {
+   "id": 4700824,
+   "lang": "hun",
+   "text": "Kérem töltse ki ezt a nyomtatványt."
+  }
+ },
+ {
+  "n": 141,
+  "a": {
+   "id": 5103836,
+   "lang": "nld",
+   "text": "Ik heb als avondmaal een slaatje gegeten."
+  },
+  "c": {
+   "id": 3412738,
+   "lang": "fra",
+   "text": "J'ai mangé une salade pour le dîner."
+  }
+ },
+ {
+  "n": 142,
+  "a": {
+   "id": 10697258,
+   "lang": "ukr",
+   "text": "Я не розмовляю польською."
+  },
+  "c": {
+   "id": 12218986,
+   "lang": "swe",
+   "text": "Jag pratar inte polska."
+  }
+ },
+ {
+  "n": 143,
+  "a": {
+   "id": 1602828,
+   "lang": "epo",
+   "text": "Ĉu vi opinias, ke li similas sian patron?"
+  },
+  "c": {
+   "id": 357551,
+   "lang": "spa",
+   "text": "¿Crees que él se parece a su padre?"
+  }
+ },
+ {
+  "n": 144,
+  "a": {
+   "id": 8024665,
+   "lang": "ita",
+   "text": "Perché non riusciamo a cantare quella canzone stasera?"
+  },
+  "c": {
+   "id": 13715619,
+   "lang": "tlh",
+   "text": "qatlh DaHram bomvetlh wIbomlaHbe'?"
+  }
+ },
+ {
+  "n": 145,
+  "a": {
+   "id": 12695424,
+   "lang": "rus",
+   "text": "За это они её и любят."
+  },
+  "c": {
+   "id": 11470037,
+   "lang": "kab",
+   "text": "Daymi tt-ḥemmlen."
+  }
+ },
+ {
+  "n": 146,
+  "a": {
+   "id": 13572039,
+   "lang": "eng",
+   "text": "If you have a little time, listen to this song."
+  },
+  "c": {
+   "id": 13572036,
+   "lang": "fra",
+   "text": "Écoutez cette chanson, si vous avez un peu de temps !"
+  }
+ },
+ {
+  "n": 147,
+  "a": {
+   "id": 2221417,
+   "lang": "eng",
+   "text": "His story was pretty simple."
+  },
+  "c": {
+   "id": 2305714,
+   "lang": "mar",
+   "text": "त्याची गोष्ट अगदी सोपी होती."
+  }
+ },
+ {
+  "n": 148,
+  "a": {
+   "id": 4274255,
+   "lang": "hun",
+   "text": "Miért nyávogsz?"
+  },
+  "c": {
+   "id": 13607333,
+   "lang": "fin",
+   "text": "Miksi mau'ut?"
+  }
+ },
+ {
+  "n": 149,
+  "a": {
+   "id": 4463887,
+   "lang": "ita",
+   "text": "Lo sanno tutti chi è."
+  },
+  "c": {
+   "id": 6844433,
+   "lang": "rus",
+   "text": "Все знают, кто вы."
+  }
+ },
+ {
+  "n": 150,
+  "a": {
+   "id": 3394986,
+   "lang": "fin",
+   "text": "En pystynyt nukkumaan sen äänen takia."
+  },
+  "c": {
+   "id": 2816314,
+   "lang": "deu",
+   "text": "Wegen des Geräusches konnte ich nicht einschlafen."
+  }
+ },
+ {
+  "n": 151,
+  "a": {
+   "id": 1542478,
+   "lang": "vie",
+   "text": "Bạn có khát nước không?"
+  },
+  "c": {
+   "id": 8580611,
+   "lang": "nld",
+   "text": "Hebben jullie dorst?"
+  }
+ },
+ {
+  "n": 152,
+  "a": {
+   "id": 490669,
+   "lang": "spa",
+   "text": "Creo en fantasmas."
+  },
+  "c": {
+   "id": 4616846,
+   "lang": "hun",
+   "text": "Én hiszek a szellemekben."
+  }
+ },
+ {
+  "n": 153,
+  "a": {
+   "id": 3084460,
+   "lang": "pol",
+   "text": "Odkąd temperatury wzrosły, moja kurtka stała się obciążeniem."
+  },
+  "c": {
+   "id": 2415715,
+   "lang": "spa",
+   "text": "Como la temperatura había aumentado, mi abrigo se ha convertido en una carga."
+  }
+ },
+ {
+  "n": 154,
+  "a": {
+   "id": 3649531,
+   "lang": "pol",
+   "text": "Ty masz wodę."
+  },
+  "c": {
+   "id": 5622362,
+   "lang": "rus",
+   "text": "У тебя есть вода."
+  }
+ },
+ {
+  "n": 155,
+  "a": {
+   "id": 2412073,
+   "lang": "cmn",
+   "text": "二战始于1939年。"
+  },
+  "c": {
+   "id": 2416168,
+   "lang": "uig",
+   "text": "ئىككىنچى دۇنيا ئورۇشى 1939-يىلىدا باشلاندى."
+  }
+ },
+ {
+  "n": 156,
+  "a": {
+   "id": 4061990,
+   "lang": "tur",
+   "text": "Tom, Mary'ye bir sosisli sandviç aldı."
+  },
+  "c": {
+   "id": 9435367,
+   "lang": "ber",
+   "text": "Tom yuɣ-as-d ahuddug i Mary."
+  }
+ },
+ {
+  "n": 157,
+  "a": {
+   "id": 8142539,
+   "lang": "heb",
+   "text": "אתמול לא הצטרכתי לשלם."
+  },
+  "c": {
+   "id": 6105092,
+   "lang": "deu",
+   "text": "Gestern brauchte ich nicht zu bezahlen."
+  }
+ },
+ {
+  "n": 158,
+  "a": {
+   "id": 1981415,
+   "lang": "nno",
+   "text": "Eg tenkjer ofte på mi avlidne mor."
+  },
+  "c": {
+   "id": 944894,
+   "lang": "jpn",
+   "text": "私はしばしば亡くなった母のことを考える。"
+  }
+ },
+ {
+  "n": 159,
+  "a": {
+   "id": 13378659,
+   "lang": "lit",
+   "text": "Tai mano viso gyvenimo šansas."
+  },
+  "c": {
+   "id": 13377917,
+   "lang": "fra",
+   "text": "C'est la chance de ma vie."
+  }
+ },
+ {
+  "n": 160,
+  "a": {
+   "id": 2169598,
+   "lang": "ita",
+   "text": "Io non ho mai avuto problemi con la legge."
+  },
+  "c": {
+   "id": 3090758,
+   "lang": "rus",
+   "text": "Я никогда не имела проблем с законом."
+  }
+ },
+ {
+  "n": 161,
+  "a": {
+   "id": 7583785,
+   "lang": "rus",
+   "text": "Он это починил."
+  },
+  "c": {
+   "id": 13861518,
+   "lang": "tat",
+   "text": "Ул аны төзәтте."
+  }
+ },
+ {
+  "n": 162,
+  "a": {
+   "id": 2393701,
+   "lang": "cmn",
+   "text": "她询问我会说几门外语。"
+  },
+  "c": {
+   "id": 685563,
+   "lang": "fra",
+   "text": "Elle me demanda combien de langues je parlais."
+  }
+ },
+ {
+  "n": 163,
+  "a": {
+   "id": 2991941,
+   "lang": "ita",
+   "text": "Mi piacerebbe abitare a Boston."
+  },
+  "c": {
+   "id": 6441478,
+   "lang": "ukr",
+   "text": "Я би хотів жити в Бостоні."
+  }
+ },
+ {
+  "n": 164,
+  "a": {
+   "id": 6867180,
+   "lang": "epo",
+   "text": "Mi ne ĉiam komprenas ĉion, kion vi skribas."
+  },
+  "c": {
+   "id": 4785303,
+   "lang": "tur",
+   "text": "Yazdığın her şeyi hep anlamıyorum."
+  }
+ },
+ {
+  "n": 165,
+  "a": {
+   "id": 3703752,
+   "lang": "rus",
+   "text": "Это была очень удачная встреча."
+  },
+  "c": {
+   "id": 2334850,
+   "lang": "epo",
+   "text": "Tio estis tre fortuna kunveno."
+  }
+ },
+ {
+  "n": 166,
+  "a": {
+   "id": 9440868,
+   "lang": "eng",
+   "text": "This is the place where they want to build their houses."
+  },
+  "c": {
+   "id": 10582278,
+   "lang": "lfn",
+   "text": "Esta es la loca do los vole construi sua casas."
+  }
+ },
+ {
+  "n": 167,
+  "a": {
+   "id": 2236797,
+   "lang": "eng",
+   "text": "Tom is outside."
+  },
+  "c": {
+   "id": 5605201,
+   "lang": "ben",
+   "text": "টম বাইরে আছে।"
+  }
+ },
+ {
+  "n": 168,
+  "a": {
+   "id": 14008378,
+   "lang": "tat",
+   "text": "Min sineñ patsiyentlarıñnıñ berse tügel."
+  },
+  "c": {
+   "id": 2542948,
+   "lang": "eng",
+   "text": "I'm not one of your patients."
+  }
+ },
+ {
+  "n": 169,
+  "a": {
+   "id": 1500399,
+   "lang": "lat",
+   "text": "Quid in manu tenes?"
+  },
+  "c": {
+   "id": 5956823,
+   "lang": "ukr",
+   "text": "Що ти тримаєш в руці?"
+  }
+ },
+ {
+  "n": 170,
+  "a": {
+   "id": 10233371,
+   "lang": "spa",
+   "text": "Tom no ayudará."
+  },
+  "c": {
+   "id": 6444501,
+   "lang": "ita",
+   "text": "Tom non aiuterà."
+  }
+ },
+ {
+  "n": 171,
+  "a": {
+   "id": 9643440,
+   "lang": "rus",
+   "text": "У меня четыре кошки."
+  },
+  "c": {
+   "id": 9646375,
+   "lang": "tur",
+   "text": "Dört kedim var."
+  }
+ },
+ {
+  "n": 172,
+  "a": {
+   "id": 11033769,
+   "lang": "fra",
+   "text": "Ziri avait l'air bizarre."
+  },
+  "c": {
+   "id": 11056496,
+   "lang": "ber",
+   "text": "Ziri iban-d d aɣwali."
+  }
+ },
+ {
+  "n": 173,
+  "a": {
+   "id": 11857604,
+   "lang": "rus",
+   "text": "Тому нужна была практика."
+  },
+  "c": {
+   "id": 13094384,
+   "lang": "heb",
+   "text": "תום הצטרך תרגול."
+  }
+ },
+ {
+  "n": 174,
+  "a": {
+   "id": 3940874,
+   "lang": "tur",
+   "text": "Bu videoyu gördün mü?"
+  },
+  "c": {
+   "id": 4840731,
+   "lang": "por",
+   "text": "Você já viu este vídeo?"
+  }
+ },
+ {
+  "n": 175,
+  "a": {
+   "id": 4706680,
+   "lang": "por",
+   "text": "Missão cumprida!"
+  },
+  "c": {
+   "id": 7477650,
+   "lang": "fra",
+   "text": "Mission accomplie."
+  }
+ },
+ {
+  "n": 176,
+  "a": {
+   "id": 941437,
+   "lang": "eng",
+   "text": "Do you want to eat prawns?"
+  },
+  "c": {
+   "id": 13507001,
+   "lang": "tat",
+   "text": "Креветка ашыйсың киләме?"
+  }
+ },
+ {
+  "n": 177,
+  "a": {
+   "id": 9458922,
+   "lang": "fin",
+   "text": "Pommin ääni kuultiin jopa kahden ja puolen sadan metrin päässä."
+  },
+  "c": {
+   "id": 4553164,
+   "lang": "tur",
+   "text": "Çeyrek kilometre ötede bile bomba sesi duyuldu."
+  }
+ },
+ {
+  "n": 178,
+  "a": {
+   "id": 12516512,
+   "lang": "ita",
+   "text": "Passatemi il dizionario lì, per favore."
+  },
+  "c": {
+   "id": 2085142,
+   "lang": "mar",
+   "text": "कृपया तो तिथला शब्दकोश मला द्या."
+  }
+ },
+ {
+  "n": 179,
+  "a": {
+   "id": 2283493,
+   "lang": "epo",
+   "text": "La Nacia Popola Kongreso estas la plej alta ŝtata regopotenca organo de Ĉinio."
+  },
+  "c": {
+   "id": 10725783,
+   "lang": "eng",
+   "text": "The National People's Congress is the highest and most powerful governmental body in China."
+  }
+ },
+ {
+  "n": 180,
+  "a": {
+   "id": 6961204,
+   "lang": "ita",
+   "text": "Quando comincia la riunione?"
+  },
+  "c": {
+   "id": 6554947,
+   "lang": "deu",
+   "text": "Wann beginnt die Besprechung?"
+  }
+ },
+ {
+  "n": 181,
+  "a": {
+   "id": 1800664,
+   "lang": "epo",
+   "text": "Ne mensogu. Diru la veron."
+  },
+  "c": {
+   "id": 6558174,
+   "lang": "rus",
+   "text": "Не врите. Говорите правду."
+  }
+ },
+ {
+  "n": 182,
+  "a": {
+   "id": 6351732,
+   "lang": "eng",
+   "text": "Tom was told he couldn't win."
+  },
+  "c": {
+   "id": 11143762,
+   "lang": "rus",
+   "text": "Тому сказали, что он не может победить."
+  }
+ },
+ {
+  "n": 183,
+  "a": {
+   "id": 2073780,
+   "lang": "fra",
+   "text": "Elle ne faisait pas les lits."
+  },
+  "c": {
+   "id": 9188769,
+   "lang": "epo",
+   "text": "Li ne aranĝis la liton."
+  }
+ },
+ {
+  "n": 184,
+  "a": {
+   "id": 1130841,
+   "lang": "eng",
+   "text": "The girl is drinking tea."
+  },
+  "c": {
+   "id": 1771759,
+   "lang": "tlh",
+   "text": "Dargh tlhutlh be'Hom."
+  }
+ },
+ {
+  "n": 185,
+  "a": {
+   "id": 6006850,
+   "lang": "rus",
+   "text": "Она замужем за немцем."
+  },
+  "c": {
+   "id": 6216115,
+   "lang": "eng",
+   "text": "She is married with a German."
+  }
+ },
+ {
+  "n": 186,
+  "a": {
+   "id": 4670957,
+   "lang": "heb",
+   "text": "אתם יכולים להבין את זה?"
+  },
+  "c": {
+   "id": 4173764,
+   "lang": "tur",
+   "text": "Onu anlayabiliyor musunuz?"
+  }
+ },
+ {
+  "n": 187,
+  "a": {
+   "id": 5973727,
+   "lang": "ukr",
+   "text": "Я роздравтувалася."
+  },
+  "c": {
+   "id": 2158262,
+   "lang": "tur",
+   "text": "Hüsrana uğradım."
+  }
+ },
+ {
+  "n": 188,
+  "a": {
+   "id": 2883029,
+   "lang": "eng",
+   "text": "Why are you being so kind?"
+  },
+  "c": {
+   "id": 13744456,
+   "lang": "rus",
+   "text": "Что это Вы такой добрый?"
+  }
+ },
+ {
+  "n": 189,
+  "a": {
+   "id": 10641095,
+   "lang": "ces",
+   "text": "Tento týden jsem hodně pracoval."
+  },
+  "c": {
+   "id": 1160556,
+   "lang": "deu",
+   "text": "Diese Woche habe ich viel gearbeitet."
+  }
+ },
+ {
+  "n": 190,
+  "a": {
+   "id": 142103,
+   "lang": "jpn",
+   "text": "切符の手配は君に任せよう。"
+  },
+  "c": {
+   "id": 8066530,
+   "lang": "ber",
+   "text": "Ad ttekleɣ fell-ak ad d-tesɣed tinfulin-nni."
+  }
+ },
+ {
+  "n": 191,
+  "a": {
+   "id": 8286,
+   "lang": "fra",
+   "text": "Hier, c'était dimanche."
+  },
+  "c": {
+   "id": 353766,
+   "lang": "deu",
+   "text": "Gestern war Sonntag."
+  }
+ },
+ {
+  "n": 192,
+  "a": {
+   "id": 6725712,
+   "lang": "ita",
+   "text": "Abbiamo visitato la Svizzera."
+  },
+  "c": {
+   "id": 13578469,
+   "lang": "epo",
+   "text": "Ni vizitis Svision."
+  }
+ },
+ {
+  "n": 193,
+  "a": {
+   "id": 8083953,
+   "lang": "rus",
+   "text": "Ты кажешься мне узбеком."
+  },
+  "c": {
+   "id": 996083,
+   "lang": "ita",
+   "text": "Mi sembri uzbeco."
+  }
+ },
+ {
+  "n": 194,
+  "a": {
+   "id": 11214636,
+   "lang": "rus",
+   "text": "Том раскритиковал Мэри при всех."
+  },
+  "c": {
+   "id": 4573345,
+   "lang": "ita",
+   "text": "Tom criticò Mary davanti a tutti."
+  }
+ },
+ {
+  "n": 195,
+  "a": {
+   "id": 4477596,
+   "lang": "eng",
+   "text": "I'm going to visit Tom today."
+  },
+  "c": {
+   "id": 3161286,
+   "lang": "epo",
+   "text": "Mi hodiaŭ iros viziti Tomon."
+  }
+ },
+ {
+  "n": 196,
+  "a": {
+   "id": 7431440,
+   "lang": "ukr",
+   "text": "Я не розумію нідерландської, тому що це складна мова."
+  },
+  "c": {
+   "id": 3314377,
+   "lang": "rus",
+   "text": "Я не понимаю голландский язык, потому что он сложный."
+  }
+ },
+ {
+  "n": 197,
+  "a": {
+   "id": 11170394,
+   "lang": "srp",
+   "text": "Мај долази после априла."
+  },
+  "c": {
+   "id": 72522,
+   "lang": "eng",
+   "text": "May comes after April."
+  }
+ },
+ {
+  "n": 198,
+  "a": {
+   "id": 5683876,
+   "lang": "epo",
+   "text": "Ŝi gvidas."
+  },
+  "c": {
+   "id": 2549830,
+   "lang": "eng",
+   "text": "You drive."
+  }
+ },
+ {
+  "n": 199,
+  "a": {
+   "id": 7542904,
+   "lang": "eng",
+   "text": "Tom is free to leave if he wants to."
+  },
+  "c": {
+   "id": 5829808,
+   "lang": "fra",
+   "text": "Si Tom veut partir, il peut."
+  }
+ },
+ {
+  "n": 200,
+  "a": {
+   "id": 10531194,
+   "lang": "eng",
+   "text": "Christopher Columbus would drink seawater straight up."
+  },
+  "c": {
+   "id": 547070,
+   "lang": "fra",
+   "text": "Christophe Colomb buvait l'eau de mer cul-sec."
+  }
+ }
+]

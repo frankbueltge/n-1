@@ -1,0 +1,1206 @@
+{
+ "rule": "Read blind (SELECTION.md): A and C only, kind withheld. Interpretation fixed before the key was opened: a distinction the far language's grammar must supply or cannot carry (gender, formality, a subject) counts as same; shifted when one distinction or detail is changed, or lost or added where the far language could have kept it. Every reading is a machine judgment: an estimate. 'low' = the reader is unsure of one language.",
+ "estimate": true,
+ "readings": [
+  {
+   "n": 1,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 2,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 3,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 4,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "reading": "shifted",
+   "confidence": "low",
+   "note": "you (women, plural) becomes formal 'you' or 'she'"
+  },
+  {
+   "n": 6,
+   "reading": "same",
+   "confidence": "high",
+   "note": "gender supplied by Hebrew"
+  },
+  {
+   "n": 7,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 8,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'I never blamed you' becomes 'I never blamed her'"
+  },
+  {
+   "n": 10,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 11,
+   "reading": "same",
+   "confidence": "high",
+   "note": "formality dropped: Esperanto has none"
+  },
+  {
+   "n": 12,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 13,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 14,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 15,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 16,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "informal 'you' becomes formal/plural; 'this work' becomes 'the work'"
+  },
+  {
+   "n": 17,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 18,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'considerable return' becomes 'satisfactory return'; the Bulgarian is awkward"
+  },
+  {
+   "n": 19,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 20,
+   "reading": "shifted",
+   "confidence": "low",
+   "note": "'very' lost"
+  },
+  {
+   "n": 21,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 22,
+   "reading": "same",
+   "confidence": "high",
+   "note": "subject 'he' supplied by German"
+  },
+  {
+   "n": 23,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "formal/plural 'you' becomes informal singular"
+  },
+  {
+   "n": 24,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 25,
+   "reading": "same",
+   "confidence": "high",
+   "note": "'she' supplied by German"
+  },
+  {
+   "n": 26,
+   "reading": "same",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "n": 27,
+   "reading": "shifted",
+   "confidence": "low",
+   "note": "'is at the bottom of the pit' becomes 'went into the hole'"
+  },
+  {
+   "n": 28,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 29,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 30,
+   "reading": "shifted",
+   "confidence": "low",
+   "note": "'happen' becomes 'arrive'"
+  },
+  {
+   "n": 31,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 32,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 33,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 34,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 35,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 36,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 37,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 38,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 39,
+   "reading": "same",
+   "confidence": "high",
+   "note": "'she' supplied by Russian"
+  },
+  {
+   "n": 40,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 41,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 42,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 43,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 44,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 45,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 46,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 47,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'we were too many' becomes 'we were one too many'"
+  },
+  {
+   "n": 48,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'several students' becomes 'many students'"
+  },
+  {
+   "n": 49,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 50,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'are trying to get extradited' becomes 'request extradition'"
+  },
+  {
+   "n": 51,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 52,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 53,
+   "reading": "cannot read",
+   "confidence": "high",
+   "note": "Tigre: cannot read"
+  },
+  {
+   "n": 54,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 55,
+   "reading": "same",
+   "confidence": "high",
+   "note": "gender dropped by Japanese"
+  },
+  {
+   "n": 56,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'was looking' becomes 'looked'"
+  },
+  {
+   "n": 57,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 58,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 59,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 60,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 61,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'forged the weapons of' becomes 'made weapons for'"
+  },
+  {
+   "n": 62,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 63,
+   "reading": "same",
+   "confidence": "high",
+   "note": "formality supplied by German"
+  },
+  {
+   "n": 64,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 65,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 66,
+   "reading": "shifted",
+   "confidence": "low",
+   "note": "'tormented their minds' vs 'were breaking their heads': idiom or literal, unsure"
+  },
+  {
+   "n": 67,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 68,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 69,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 70,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 71,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 72,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 73,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 74,
+   "reading": "cannot read",
+   "confidence": "high",
+   "note": "Nande: cannot read"
+  },
+  {
+   "n": 75,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 76,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 77,
+   "reading": "same",
+   "confidence": "high",
+   "note": "formality supplied by Italian"
+  },
+  {
+   "n": 78,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Old Prussian, reconstructed: read by cognates"
+  },
+  {
+   "n": 79,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 80,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Coastal Kadazan: read by cognates with Malay"
+  },
+  {
+   "n": 81,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 82,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 83,
+   "reading": "same",
+   "confidence": "high",
+   "note": "masculine 'you' supplied by Kabyle"
+  },
+  {
+   "n": 84,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "formal/plural 'you' becomes informal"
+  },
+  {
+   "n": 85,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 86,
+   "reading": "same",
+   "confidence": "high",
+   "note": "Italian reads as formal 'you'"
+  },
+  {
+   "n": 87,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 88,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 89,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 90,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Marathi"
+  },
+  {
+   "n": 91,
+   "reading": "same",
+   "confidence": "low",
+   "note": "'not drunk, not drunk' becomes 'no, no'"
+  },
+  {
+   "n": 92,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 93,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 94,
+   "reading": "same",
+   "confidence": "high",
+   "note": "'she' supplied by Japanese"
+  },
+  {
+   "n": 95,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 96,
+   "reading": "same",
+   "confidence": "low",
+   "note": ""
+  },
+  {
+   "n": 97,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 98,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 99,
+   "reading": "same",
+   "confidence": "low",
+   "note": "archaic Hebrew phrasing"
+  },
+  {
+   "n": 100,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 101,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 102,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'boy' becomes 'child'"
+  },
+  {
+   "n": 103,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Guarani"
+  },
+  {
+   "n": 104,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 105,
+   "reading": "same",
+   "confidence": "high",
+   "note": "feminine object supplied by Russian"
+  },
+  {
+   "n": 106,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Berber"
+  },
+  {
+   "n": 107,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "informal 'you' becomes formal/plural"
+  },
+  {
+   "n": 108,
+   "reading": "same",
+   "confidence": "high",
+   "note": "feminine 'you' supplied by Hebrew"
+  },
+  {
+   "n": 109,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 110,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 111,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 112,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 113,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 114,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 115,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 116,
+   "reading": "shifted",
+   "confidence": "low",
+   "note": "'s/he does not know' becomes 'they do not know'"
+  },
+  {
+   "n": 117,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 118,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'him' becomes 'him or her'"
+  },
+  {
+   "n": 119,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 120,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 121,
+   "reading": "shifted",
+   "confidence": "low",
+   "note": "'want' becomes 'need'"
+  },
+  {
+   "n": 122,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'I'll do it' becomes 'I'll go'"
+  },
+  {
+   "n": 123,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'Fachidiot' (narrow specialist) becomes 'learned fool'"
+  },
+  {
+   "n": 124,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 125,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'guarantee of good fortune' becomes 'sultan of our happiness'"
+  },
+  {
+   "n": 126,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 127,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'help you' becomes 'help her'"
+  },
+  {
+   "n": 128,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 129,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 130,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 131,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Italian 'Le' read as formal 'you'"
+  },
+  {
+   "n": 132,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'entitles' becomes 'provided' (past)"
+  },
+  {
+   "n": 133,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 134,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 135,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 136,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 137,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Kabyle"
+  },
+  {
+   "n": 138,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 139,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Toki Pona's idiom for translator"
+  },
+  {
+   "n": 140,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 141,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 142,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 143,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 144,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Klingon"
+  },
+  {
+   "n": 145,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Kabyle"
+  },
+  {
+   "n": 146,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 147,
+   "reading": "same",
+   "confidence": "low",
+   "note": "'pretty' read as 'very'"
+  },
+  {
+   "n": 148,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 149,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Italian 'chi e' read as formal 'you'"
+  },
+  {
+   "n": 150,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 151,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "singular 'you' becomes plural"
+  },
+  {
+   "n": 152,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 153,
+   "reading": "same",
+   "confidence": "low",
+   "note": "jacket becomes coat"
+  },
+  {
+   "n": 154,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 155,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 156,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Berber word for hot dog unsure"
+  },
+  {
+   "n": 157,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 158,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 159,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 160,
+   "reading": "same",
+   "confidence": "high",
+   "note": "feminine speaker supplied by Russian"
+  },
+  {
+   "n": 161,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Tatar"
+  },
+  {
+   "n": 162,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'foreign languages' becomes 'languages'"
+  },
+  {
+   "n": 163,
+   "reading": "same",
+   "confidence": "high",
+   "note": "masculine speaker supplied by Ukrainian"
+  },
+  {
+   "n": 164,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 165,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 166,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 167,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 168,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 169,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 170,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 171,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 172,
+   "reading": "cannot read",
+   "confidence": "high",
+   "note": "Berber 'aɣwali': cannot read"
+  },
+  {
+   "n": 173,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 174,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 175,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 176,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 177,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 178,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Marathi"
+  },
+  {
+   "n": 179,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 180,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 181,
+   "reading": "same",
+   "confidence": "high",
+   "note": "plural/formal supplied by Russian"
+  },
+  {
+   "n": 182,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 183,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'she was not making the beds' becomes 'he did not make the bed'"
+  },
+  {
+   "n": 184,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 185,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 186,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 187,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'got irritated' becomes 'was frustrated'"
+  },
+  {
+   "n": 188,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 189,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 190,
+   "reading": "same",
+   "confidence": "low",
+   "note": "Berber"
+  },
+  {
+   "n": 191,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 192,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 193,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 194,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 195,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 196,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 197,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 198,
+   "reading": "different",
+   "confidence": "high",
+   "note": "'She leads' becomes 'You drive'"
+  },
+  {
+   "n": 199,
+   "reading": "same",
+   "confidence": "high",
+   "note": ""
+  },
+  {
+   "n": 200,
+   "reading": "shifted",
+   "confidence": "high",
+   "note": "'straight up' becomes 'in one gulp'"
+  }
+ ]
+}
