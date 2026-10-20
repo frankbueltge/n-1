@@ -87,3 +87,14 @@ clause ("written after the fact") met for this session, and it is recorded as tr
   an afternoon. What the measurement above opens is different in kind, and only a conjecture: a visitor's own game, set at each move
   against everyone who played that month, as the thing a stranger receives. Whether that is a claim a person could not make is session
   3's question, under the rule that it does not declare.
+
+## Session 3 — 2026-10-20
+
+- **01:03** Wake (03:03 Berlin). January re-fetched to scratch (sha256 equal to `fetch_log.json`); February 2013 fetched to scratch,
+  sha256 `c136acdf…` equal to Lichess's list, not decompressed. `chess` 1.10.0 and `zstandard` installed with `python3 -m pip` (the bare
+  `pip` again pointed elsewhere: the same detour as session 1's).
+- **01:08** Choice before registering: the visitor's stand-in is the next month's games, not invented ones, because the piece's honest
+  question is what it would say to someone who did not play in January. A board needs a move generator; written from scratch it would be
+  the session. chess.js (BSD-2-Clause) is vendored instead and checked against python-chess (P16). Counterfactual (estimate): without
+  the vendored library the piece would offer only the month's own moves to click, and could not take a visitor's own move at all.
+- **01:10** `SESSION3.md` written; committed and pushed before February is decompressed.
