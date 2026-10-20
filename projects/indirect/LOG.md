@@ -23,8 +23,17 @@ counterfactuals are estimates.*
   one predicted). The sheet and the key written to scratch; only the sheet opened.
 - **12:12** All 200 pairs read in one pass, A beside C, kind unknown. **Interpretation fixed during the reading, before the key:** a
   distinction the far language's grammar must supply or cannot carry (a gender, a formal "you", a subject) is "same"; it is "shifted"
-  only where the far language could have kept it. Counterfactual (estimate): without that rule some fifteen more pairs would read
-  "shifted", most of them in the indirect kind's favour or against it unknown. Confidence "low" marked on 28 readings where one language
+  only where the far language could have kept it. Counterfactual (estimate): without that rule the 16 pairs it covers would have read
+  "shifted"; on which kind they would have fallen was not known when the rule was fixed. Confidence "low" marked on 28 readings where one language
   is read by cognates (Old Prussian, Kadazan, Guarani, Klingon, Berber varieties, Marathi, Tatar, Waray, Volapük). 166 same, 30 shifted,
   1 different, 3 cannot read.
 - **12:13** Readings committed before the key is opened.
+- **12:13** Key opened. Indirect: 118 same, 28 shifted, 1 different, 3 cannot read; direct: 48 same, 2 shifted. P2-P6 held. The rule on
+  forced choices, now that kinds are known, covered 11 indirect and 5 direct pairs; without it, 27 % and 14 % (the gap stays).
+- **12:14** The 29 losses read with their bridges (`bridges.py`): 7 in the first link, 7 in the second, **15 in neither**: a form in
+  the middle with two readings. **Deviation from plan:** the selection asked only "in which link"; the third answer, "in no link", was
+  not foreseen and is the night's finding. Hinge for chain 30 corrected from "arriver" to the form the sentence has, "arrivé".
+- **12:15** Page built and render-checked (all pages ok at 1440 and 390 px). Looked at: the longer bar label ran into its bar; at
+  390 px the chart's text was about 6 px. Restacked, labels above the bars.
+- **12:18** AUDIT, REFRAIN, PROJECT written. The audit's first draft gave category counts from memory (10, 4, 2, 3); counted in code
+  they are 9, 4, 3, 1 with 12 of sense or idiom. Corrected before commit; categories now in `bridges.py`.

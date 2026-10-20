@@ -326,6 +326,20 @@ const PAGES = [
     ok: (r) => r.loaded && r.cells === 64 && r.illegal_refused && r.expect > 1 && r.shown === r.expect &&
       r.next_buttons > 0 && r.off && r.min_font >= 11,
   },
+  {
+    // project 14, session 1 (2026-10-20): Translations of translations (the study), built by projects/indirect/build.py;
+    // one inline SVG chart (two bars), three tables, fifteen chains each with its word of two readings marked.
+    path: 'projects/indirect/index.html',
+    probe: () => ({
+      charts: document.querySelectorAll('svg.ch').length,
+      bars: document.querySelectorAll('svg.ch rect').length,
+      tables: document.querySelectorAll('table').length,
+      marks: document.querySelectorAll('mark').length,
+      links: document.querySelectorAll('a[href^="https://tatoeba.org/en/sentences/show/"]').length,
+      min_font: Math.min(...[...document.querySelectorAll('main p, main td, main th')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+    }),
+    ok: (r) => r.charts === 1 && r.bars === 2 && r.tables === 3 && r.marks === 15 && r.links === 87 && r.min_font >= 11,
+  },
 ];
 
 (async () => {

@@ -1,0 +1,66 @@
+{
+ "estimate": "readings are a machine's; counts of the graph are exact",
+ "table": {
+  "indirect": {
+   "same": 118,
+   "shifted": 28,
+   "cannot read": 3,
+   "different": 1
+  },
+  "direct": {
+   "same": 48,
+   "shifted": 2
+  }
+ },
+ "indirect_loss": 0.1973,
+ "indirect_readable": 147,
+ "direct_loss": 0.04,
+ "direct_readable": 50,
+ "low_confidence": {
+  "indirect": 22,
+  "direct": 6
+ },
+ "loci": {
+  "chain": 15,
+  "second": 7,
+  "first": 7
+ },
+ "predictions": [
+  {
+   "id": "P1",
+   "text": "indirect pairs at least five times direct",
+   "value": 3.18,
+   "held": false
+  },
+  {
+   "id": "P2",
+   "text": "bridge English in at least 40 % of chains",
+   "value": 0.493,
+   "held": true
+  },
+  {
+   "id": "P3",
+   "text": "indirect shifted or different at least 15 %",
+   "value": 0.197,
+   "held": true
+  },
+  {
+   "id": "P4",
+   "text": "direct loss at most half the indirect",
+   "value": 0.04,
+   "held": true
+  },
+  {
+   "id": "P5",
+   "text": "indirect different at most 5 %",
+   "value": 0.007,
+   "held": true
+  },
+  {
+   "id": "P6",
+   "text": "cannot read at most 10 % of 200",
+   "value": 0.015,
+   "held": true
+  }
+ ]
+}
