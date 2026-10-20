@@ -67,3 +67,21 @@ the claim the opening still lacks.
 
 **Sobriety.** Cut: an engine evaluation, an opening name beside the count (both would turn the piece toward judging or naming the
 visitor's play), and a second chart. Kept: a board, one number, one strip, one sentence.
+
+## Session 4 — 2026-10-20, balance written at the session's end
+
+**Which aspect dominated.** The hold: the session went back to the ground under the claim (the neighbour's own documentation) instead of
+building further. Home was not touched (no game read, no file rebuilt); the opening was asked of the claim, not of the form.
+
+**Components of passage.** The neighbour's specification. It converts three sessions of "from a search result, not seen" into checks that
+could fail, and one of them (P17) took away part of the daylight.
+
+**Opening test.** Asked of the put-back itself, as registered: is it placed by the material or by a habit of closing? By the material and
+by the rule registered at selection: the closed modest-work exit is what makes the put-back necessary, and the neighbour's `since`/`until`
+is what makes it plain. Pressure was present and named in `SESSION4.md` (the put-back was expected before the reading); the reading could
+have changed it (P18 or P19 failing would have widened the daylight, not created an advantage) and did not. The test **placed** the
+ending at session 4 rather than 3 or 5: after projects 10, 11 and 12, which all closed at session 3, this is the first that did not, and
+the registered rule, not resolve, did that.
+
+**Sobriety.** Cut: a fifth session to look for an advantage the four sessions did not find, and any rewording of the piece to sound more
+like a work. Kept: two pages, unchanged except their status line.

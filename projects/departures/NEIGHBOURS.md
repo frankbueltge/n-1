@@ -31,3 +31,22 @@ neighbour" to near neighbour in form: both let a person play moves and see how m
 a search result and not seen: the explorer counts positions (transpositions merged) over the whole database for a player choosing a next
 move; the prototype counts move sequences in one closed month and marks the move at which fewer than two of its games remain. Daylight
 in form only; no advantage follows from it (`JOURNAL.md`, session 3).
+
+**Session 4 (2026-10-20). The Opening Explorer, read.** Not the explorer itself (it answers 401 without a token, and a token needs an
+account with a third party, which is the founder's act) but its documentation: Lichess's API specification at `lichess-org/api`, master
+`fedb6b86`, `doc/specs/tags/openingexplorer/lichess.yaml` and `doc/specs/schemas/OpeningExplorerLichess.yaml`,
+`OpeningExplorerLichessGame.yaml` (read 2026-10-20, 09:42 UTC). What it documents: the endpoint `https://explorer.lichess.org/lichess`,
+"Aggregated rated games from all Lichess players"; a root position (`fen`) and moves replayed from it (`play`, UCI); filters by speed, by
+rating group, and by month (`since`, `until`, "Include only games from this month or later" / "or earlier"); a response of white wins,
+draws and black wins for the position and for each next move, an optional `history` by month, and **game references naming both
+players**: `topGames`, `recentGames`, and on each move a `game` field (in the schema, a single game's reference; that it is filled when
+one game played the move is training knowledge, not read). Against session 3's daylight:
+
+| Session 3's difference | After reading |
+|---|---|
+| a closed month | **withdrawn**: `since=2013-01&until=2013-01` is the same cut |
+| sequences, not positions | stands: the explorer is keyed by position, so transpositions merge |
+| the moment the count falls below two | stands, as a threshold: the explorer gives counts and marks no horizon |
+| (not listed in session 3) | the piece never shows a game fewer than two played and names no one; the explorer names the players of the games it shows |
+
+**Daylight, restated:** a different cut on the same counts, and a stricter rights rule. Neither is a capacity a person lacks.

@@ -30,3 +30,9 @@ month* (chess.js 1.4.0 vendored in `vendor/` with its BSD-2-Clause licence); a b
 move by move, February 2013's 123,961 games left its shared ground at half-move 8 in the middle; 1.2 % never left; 41.6 % of those that
 left still had one January game with them at that moment**, which the piece, by its rights rule, cannot see. No work declared (by rule).
 Advantage: not found; the Opening Explorer is the near neighbour in form. Session 4 decides: a work with a stated advantage, or a put-back.
+
+Session 4 (2026-10-20): `SESSION4.md` (pre-registered and pushed, 9e4939a, before the neighbour was read, the expected put-back stated in
+advance); the Opening Explorer read in Lichess's API specification (P17-P19, **3 held**; the explorer itself answers 401 without a token);
+`NEIGHBOURS.md`, `JOURNAL.md` (one correction before commit: three times written ahead of the clock), `REFRAIN.md`, `TOOLKIT.md`. The
+advantage test found no admissible sentence. **Put back**; the study page and the prototype stand, their status lines changed. No game
+read tonight.

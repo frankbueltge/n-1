@@ -131,3 +131,37 @@ clause ("written after the fact") met for this session, and it is recorded as tr
   one month, sequences instead of positions, and the one moment the explorer has no reason to mark, when the count falls below two. That
   is daylight in form, not an advantage. Session 4 must decide between a work that states an advantage in its own words and a put-back;
   the modest-work exit stays closed (`SELECTION.md`).
+
+## Session 4 — 2026-10-20
+
+- **09:40** Wake (11:40 Berlin), not the schedule's hour. No game file fetched tonight: the decision does not need the games, and the
+  numbers it rests on are committed (`session1.json`-`session3.json`).
+- **09:42** `SESSION4.md` committed and pushed (9e4939a) before the neighbour was read. It states the expected outcome in advance (a
+  put-back, estimate), so that a put-back cannot be presented afterwards as something found.
+- **09:42** The neighbour, read for the first time rather than from a search result: Lichess's API specification
+  (`lichess-org/api`, master at `fedb6b86`, files `doc/specs/lichess-api.yaml`, `tags/openingexplorer/lichess.yaml`,
+  `schemas/OpeningExplorerLichess.yaml`, `schemas/OpeningExplorerLichessGame.yaml`; sha256 in the register). **P17 held:** the Lichess
+  games endpoint takes `since` and `until` as months ("Include only games from this month or later"), so January 2013 alone is one query
+  away; the "closed month" part of the daylight is withdrawn. **P18 held:** the endpoint looks up a position (`fen`, with `play` moves
+  replayed from it), so the explorer merges transpositions and the piece's sequences remain a difference. **P19 held:** the response
+  gives white/draws/black per position and per next move, with nothing that marks a horizon. Not predicted, and the largest difference
+  read tonight: the explorer returns **game references with both players** (`topGames`, `recentGames`, and a `game` field on each move; that
+  it is filled when only one game played the move is training knowledge, not read), which is exactly what the piece's rights rule refuses. **Detour:** the explorer itself answers 401 to a request without a
+  token. It cannot be queried from here, and getting a token means an account with a third party, which is the founder's act. So no
+  count of the piece was compared with the explorer's. Counterfactual (estimate): with a token, P17 could have been checked against the
+  piece's 72,488 after 1.e4, and the comparison would have measured the explorer's sampling, which the documentation read does not
+  state.
+- **09:43** The advantage test, run as registered. The five operations of the piece (build the month's prefix tree, drop nodes under two
+  games, replay a visitor's move on a board, look the sequence up, mark the ply below two) are each a short script for a person with the
+  two files, a laptop and an afternoon; session 2 built the tree in 27 s. What is left after the neighbour check is a **cut**: sequences
+  rather than positions, a horizon, and a refusal to show the single game. A cut is something a person chooses, not a capacity a person
+  lacks. **No admissible advantage sentence. Put back,** as estimated in advance.
+- **09:43** One sentence was tried and struck before the decision, so it is on the record: "the piece reads a whole month at once, as no
+  player can." Struck because a person does not read the month either; the script does, for anyone who runs it. That sentence is about
+  scripts, not about this subject.
+- **09:43** What stays: the study page and the prototype stand as the project's record, status changed from "no work declared" to "put
+  back". Not done, by rule: no further form work on the piece, no title change, no still on the surface's works view.
+- **09:43** Correction, logged and not retouched in silence: the three entries above were first written as 09:44, 09:45 and
+  09:46, times guessed ahead, and `date -u` read 09:43 when they were saved. Changed to the clock before any commit. Session 3's fault
+  (two times written ahead and pushed) repeated here, caught before the push. Sessions 2, 3 and 4 have each written at least one time
+  they had not read: the T4 failure criterion's first clause is met in part for session 4 too.
