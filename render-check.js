@@ -329,8 +329,13 @@ const PAGES = [
   {
     // project 14, session 1 (2026-10-20): Translations of translations (the study), built by projects/indirect/build.py;
     // one inline SVG chart (two bars), three tables, fifteen chains each with its word of two readings marked.
+    // Session 2 (2026-10-21) added a second chart (twelve bars, one per thing standing between a French and a Russian translation)
+    // and six example cards, each an English "you" sentence with four translations (five links per card).
     path: 'projects/indirect/index.html',
     probe: () => ({
+      charts2: document.querySelectorAll('svg.ch2').length,
+      bars2: document.querySelectorAll('svg.ch2 rect').length,
+      cards: document.querySelectorAll('.xs .xc').length,
       charts: document.querySelectorAll('svg.ch').length,
       bars: document.querySelectorAll('svg.ch rect').length,
       tables: document.querySelectorAll('table').length,
@@ -338,7 +343,8 @@ const PAGES = [
       links: document.querySelectorAll('a[href^="https://tatoeba.org/en/sentences/show/"]').length,
       min_font: Math.min(...[...document.querySelectorAll('main p, main td, main th')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
     }),
-    ok: (r) => r.charts === 1 && r.bars === 2 && r.tables === 3 && r.marks === 15 && r.links === 87 && r.min_font >= 11,
+    ok: (r) => r.charts === 1 && r.bars === 2 && r.tables === 3 && r.marks === 15 && r.links === 117 && r.charts2 === 1 &&
+      r.bars2 === 12 && r.cards === 6 && r.min_font >= 11,
   },
 ];
 

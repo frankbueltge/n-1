@@ -14,5 +14,14 @@ through a third language; read blind, 29 of 147 readable translations of transla
 translations (4.0 %); of the 29, 15 lost nothing in either single translation: the sentence in the middle had a form with two readings,
 most often English "you".** All readings are a machine's and marked as estimates. No work declared.
 
-Next (session 2): the hinge. Which forms, in which bridge languages, sit in the middle of chains whose ends part; registered before it
-is counted.
+Session 2 (2026-10-21): `SESSION2.md` (pushed 2c073d7 before any sentence was read); `lib2.py`, `test_lib2.py` (rules on invented
+sentences and an invented graph); `session2.py` -> `session2.json` (registered count), `check_sheet.json` and `check_key.json`; `read2.py` ->
+`check_readings.json` (committed c501cbd before the key was opened); `result2.py` -> `result2.json`; `explore2.py` -> `explore2.json` and
+`examples2.py` -> `examples2.json` (exploratory, after the count). Rule check 40 of 40. Predictions: 6 registered (P7-P12), 6 held.
+Found: **of French and Russian sentences joined only through a third (437,996 chains), those through English "you" disagree on who is
+addressed in 68.6 %, through German in 3.9 %; linked directly, 0.2 %.** Exploratory: through "you" the sides agree about as often as
+chance (52.9 %), and the agreeing pairs are mostly linked already (59.3 %, against 0.14 % of disagreeing ones): a translation of a
+translation is what the linking left. No work declared.
+
+Next (session 3): what the collection's linking leaves unjoined, as a work or a put-back; the opening the refrain test placed is the
+crossing (an English "you" sentence and its four corners).

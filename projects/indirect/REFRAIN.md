@@ -24,3 +24,24 @@ Registered test of the reader: more than a fifth "cannot read", or direct pairs 
 200 cannot read (1.5 %); direct 4.0 % against indirect 19.7 %, read blind. **Not failed.** What it does not show: that a team of human
 readers would not do the same; 28 readings rest on resemblance between languages and are marked low. The advantage stays a question
 for session 2, now narrower: one reader holding three languages at once, in the 15 chains where only the three together show the loss.
+
+## Session 2 — 2026-10-21
+
+- **Hold:** the registered count: 437,996 French–Russian chains, every one read by the same two word lists, checked blind (40 of 40).
+- **Home:** the pre-registration (2c073d7) and the rule check committed before its key (c501cbd). Inside that home the count was
+  computed before the check was read and opened only after: the hold and the home were made at once, not in turn.
+- **Components of passage:** English "you" and Esperanto "vi" (68.6 % and 73.1 %), the two bridges that carry a sentence across and
+  drop who it speaks to; and, newly, **the link itself**: the act that turns a translation of a translation into a translation.
+- **Opening test.** Two openings presented themselves. (a) A chart of bridge languages ranked by how much address they lose: pressure
+  presses there, it is the registered result and already drawn. (b) The crossing: an English "you" sentence with its four translations,
+  the straight pairs linked, the crossed pairs not — a figure the material made, found only by the exploratory count. **The test places
+  the opening at (b)** and keeps (a) on the study page as evidence. Rule 1 of SELECTION.md holds: no work tonight.
+- **Sobriety balance:** two languages, one hinge; twelve bars, six examples drawn at random (not chosen), no per-sentence table.
+- **Failure criterion:** not triggered (the opening test placed the opening at (b) and moved session 3's question).
+
+## The advantage, asked again
+
+Tonight's count is a script anyone could write who reads French and Russian; its rules are two word lists. The advantage does not lie
+there. What session 2 adds to the question: the hinge is in the linking, so a work would have to hold the whole collection's linking at
+once, across languages no one person reads, to show what it leaves unjoined. Whether that is beyond a team with time is still open and
+is session 3's to answer or to fail.

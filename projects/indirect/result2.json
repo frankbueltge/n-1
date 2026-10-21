@@ -1,0 +1,57 @@
+{
+ "rule_check": {
+  "T_or_V_by_rule": 40,
+  "agreeing_with_reading": 40,
+  "threshold": 36,
+  "rule_failed": false,
+  "all": {
+   "none->neither": 18,
+   "mixed->both": 16,
+   "mixed->T": 2,
+   "T->T": 20,
+   "V->V": 20,
+   "none->T": 1,
+   "mixed->V": 2,
+   "none->V": 1
+  },
+  "estimate": true
+ },
+ "predictions": [
+  {
+   "id": "P7",
+   "text": "direct fra-rus pairs, both classified: disagreement at most 8 %",
+   "value": 0.0017,
+   "held": true
+  },
+  {
+   "id": "P8",
+   "text": "eng-you chains: disagreement at least 35 %",
+   "value": 0.686,
+   "held": true
+  },
+  {
+   "id": "P9",
+   "text": "eng-you chains: at least three quarters of the independence baseline",
+   "value": 1.3773,
+   "held": true
+  },
+  {
+   "id": "P10",
+   "text": "other-language bridges: disagreement at most 15 %",
+   "value": 0.1303,
+   "held": true
+  },
+  {
+   "id": "P11",
+   "text": "epo-vi chains: disagreement at least 30 % (if 100 or more)",
+   "value": 0.731,
+   "held": true
+  },
+  {
+   "id": "P12",
+   "text": "eng-you is the largest class among chains with both ends classified",
+   "value": 115640,
+   "held": true
+  }
+ ]
+}

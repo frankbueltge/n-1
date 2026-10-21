@@ -1,0 +1,174 @@
+{
+ "exploratory": true,
+ "english_you_sentences_with_all_four_corners_(<=32_chars)": 8381,
+ "examples": [
+  {
+   "eng": {
+    "id": 3820084,
+    "text": "Did Tom ask you to do that?"
+   },
+   "fra_T": {
+    "id": 5619258,
+    "text": "Tom t'a-t-il demandé de le faire ?"
+   },
+   "fra_V": {
+    "id": 5619260,
+    "text": "Tom vous a-t-il demandé de le faire ?"
+   },
+   "rus_T": {
+    "id": 4224136,
+    "text": "Том просил тебя это делать?"
+   },
+   "rus_V": {
+    "id": 4224138,
+    "text": "Том просил вас это делать?"
+   },
+   "linked": {
+    "T-T": true,
+    "V-V": true,
+    "T-V": false,
+    "V-T": false
+   }
+  },
+  {
+   "eng": {
+    "id": 17299,
+    "text": "Your pencils need sharpening."
+   },
+   "fra_T": {
+    "id": 476958,
+    "text": "Tes crayons doivent être aiguisés."
+   },
+   "fra_V": {
+    "id": 476959,
+    "text": "Vos crayons doivent être aiguisés."
+   },
+   "rus_T": {
+    "id": 3566202,
+    "text": "Тебе карандаши надо поточить."
+   },
+   "rus_V": {
+    "id": 3566203,
+    "text": "Вам надо поточить карандаши."
+   },
+   "linked": {
+    "T-T": true,
+    "V-V": true,
+    "T-V": false,
+    "V-T": false
+   }
+  },
+  {
+   "eng": {
+    "id": 3779399,
+    "text": "You must follow the rules."
+   },
+   "fra_T": {
+    "id": 1018316,
+    "text": "Tu dois suivre les règles."
+   },
+   "fra_V": {
+    "id": 12827902,
+    "text": "Vous devez obéir aux règles."
+   },
+   "rus_T": {
+    "id": 10949172,
+    "text": "Ты должен следовать правилам."
+   },
+   "rus_V": {
+    "id": 794008,
+    "text": "Вы должны соблюдать правила."
+   },
+   "linked": {
+    "T-T": false,
+    "V-V": true,
+    "T-V": false,
+    "V-T": false
+   }
+  },
+  {
+   "eng": {
+    "id": 4016173,
+    "text": "What exactly do you plan to do?"
+   },
+   "fra_T": {
+    "id": 5619253,
+    "text": "Que prévois-tu de faire, exactement ?"
+   },
+   "fra_V": {
+    "id": 5619254,
+    "text": "Que prévoyez-vous de faire, exactement ?"
+   },
+   "rus_T": {
+    "id": 5628029,
+    "text": "Что именно ты планируешь делать?"
+   },
+   "rus_V": {
+    "id": 5628028,
+    "text": "Что именно вы планируете делать?"
+   },
+   "linked": {
+    "T-T": true,
+    "V-V": true,
+    "T-V": false,
+    "V-T": false
+   }
+  },
+  {
+   "eng": {
+    "id": 3096824,
+    "text": "How could you not know?"
+   },
+   "fra_T": {
+    "id": 4856860,
+    "text": "Comment pouvais-tu l'ignorer ?"
+   },
+   "fra_V": {
+    "id": 4856861,
+    "text": "Comment pouviez-vous l'ignorer ?"
+   },
+   "rus_T": {
+    "id": 3096831,
+    "text": "Как ты мог не знать?"
+   },
+   "rus_V": {
+    "id": 3096834,
+    "text": "Как вы могли не знать?"
+   },
+   "linked": {
+    "T-T": false,
+    "V-V": false,
+    "T-V": false,
+    "V-T": false
+   }
+  },
+  {
+   "eng": {
+    "id": 2288252,
+    "text": "You were watching, weren't you?"
+   },
+   "fra_T": {
+    "id": 2288807,
+    "text": "Tu étais en train de regarder, n'est-ce pas ?"
+   },
+   "fra_V": {
+    "id": 2288805,
+    "text": "Vous regardiez, n'est-ce pas ?"
+   },
+   "rus_T": {
+    "id": 4467678,
+    "text": "Ты смотрел, да?"
+   },
+   "rus_V": {
+    "id": 4467683,
+    "text": "Вы смотрели, да?"
+   },
+   "linked": {
+    "T-T": true,
+    "V-V": true,
+    "T-V": false,
+    "V-T": false
+   }
+  }
+ ]
+}

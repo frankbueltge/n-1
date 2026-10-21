@@ -1,0 +1,406 @@
+{
+ "estimate": true,
+ "reader": "this session (a language model), one pass, class withheld",
+ "readings": [
+  {
+   "n": 1,
+   "reading": "neither",
+   "note": "'we' only"
+  },
+  {
+   "n": 2,
+   "reading": "both",
+   "note": "'Вы вегетарианка?' polite; 'а ты?' familiar"
+  },
+  {
+   "n": 3,
+   "reading": "T",
+   "note": "'rendez-vous' is a noun"
+  },
+  {
+   "n": 4,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 5,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 6,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 7,
+   "reading": "both",
+   "note": "'tu' addressed, 'vous' a group"
+  },
+  {
+   "n": 8,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 9,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 10,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 11,
+   "reading": "both",
+   "note": "'vous' with 'tes'"
+  },
+  {
+   "n": 12,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 13,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 14,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 15,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 16,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 17,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 18,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 19,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 20,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 21,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 22,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 23,
+   "reading": "T",
+   "note": "'rendez-vous' is a noun"
+  },
+  {
+   "n": 24,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 25,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 26,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 27,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 28,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 29,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 30,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 31,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 32,
+   "reading": "both",
+   "note": "several sentences in one"
+  },
+  {
+   "n": 33,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 34,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 35,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 36,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 37,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 38,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 39,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 40,
+   "reading": "T",
+   "note": "imperative and 'парень', no pronoun"
+  },
+  {
+   "n": 41,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 42,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 43,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 44,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 45,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 46,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 47,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 48,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 49,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 50,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 51,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 52,
+   "reading": "both",
+   "note": "'s'il vous plaît' answers a 'tu'"
+  },
+  {
+   "n": 53,
+   "reading": "V",
+   "note": "'ton' is 'tone'"
+  },
+  {
+   "n": 54,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 55,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 56,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 57,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 58,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 59,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 60,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 61,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 62,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 63,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 64,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 65,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 66,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 67,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 68,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 69,
+   "reading": "both",
+   "note": "'ты' addressed, 'вы' a group"
+  },
+  {
+   "n": 70,
+   "reading": "T",
+   "note": ""
+  },
+  {
+   "n": 71,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 72,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 73,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 74,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 75,
+   "reading": "both",
+   "note": ""
+  },
+  {
+   "n": 76,
+   "reading": "V",
+   "note": ""
+  },
+  {
+   "n": 77,
+   "reading": "V",
+   "note": "'Ух ты' is an interjection"
+  },
+  {
+   "n": 78,
+   "reading": "neither",
+   "note": ""
+  },
+  {
+   "n": 79,
+   "reading": "V",
+   "note": "plural imperatives, no pronoun"
+  },
+  {
+   "n": 80,
+   "reading": "V",
+   "note": ""
+  }
+ ]
+}

@@ -37,3 +37,30 @@ counterfactuals are estimates.*
   390 px the chart's text was about 6 px. Restacked, labels above the bars.
 - **12:18** AUDIT, REFRAIN, PROJECT written. The audit's first draft gave category counts from memory (10, 4, 2, 3); counted in code
   they are 9, 4, 3, 1 with 12 of sense or idiom. Corrected before commit; categories now in `bridges.py`.
+
+## Session 2 — 2026-10-21
+
+- **01:03** First clock read (the schedule's hour). Boot: DOWRY.md and the foundation whole; schema, layers index, last layer, night
+  records 103-104, project 14's files, REQUESTS.md's last entries, REGISTER.md's last entries. Export headers: unchanged since session 1.
+- **01:04** Export re-fetch to scratch started; not opened. numpy 2.4.6 installed.
+- **01:05** Hashes equal to session 1's. Rules tried on invented sentences and an invented graph (`test_lib2.py`): ok on the first run.
+- **01:07** Registered run done (97 s): 437,996 fra-B-rus chains. The count written to scratch, not opened; the rule-check sheet opened.
+- **01:07** The 80 sentences read, class withheld (`read2.py` -> `check_readings.json`). Noticed while reading, before the key: the
+  word lists will misread "rendez-vous" (a noun holding "vous"), "ton" as "tone", Russian "Ух ты" (an interjection), and pronoun-less
+  imperatives. Committed before the key is opened.
+- **01:08** Correction: the entry above was first committed (c501cbd) stamped "01:12", a time written ahead of the clock; `date -u`
+  read 01:07:55 at the commit. Corrected to 01:07 here; the committed version stands in the history.
+- **01:08** Key opened: the rule agrees with the reading on **40 of 40** sentences it calls T or V (36 the floor). Its 6 misses are
+  all sentences it sets aside (mixed or none) that a reader would class. The rule stands. Count opened: P7-P12 all held.
+- **01:09** **Deviation from plan:** chains through English "you" disagree in 68.6 %, *above* the independence baseline (49.8 %), which
+  P9's reason ("carries almost nothing") did not foresee. Conjecture: the chain is what is left after people link the pairs that agree.
+  Exploratory script (`explore2.py`) written to test it, after the count was read, marked exploratory.
+- **01:20** First version of `explore2.py` ran a Python loop over every English "you" sentence; stopped after ten minutes (detour).
+  `examples2.py` (six random English "you" sentences with all four corners) ran meanwhile: in four of six, tu–ты and vous–вы are linked
+  and the crossings are not.
+- **01:22** Vectorised `explore2.py`: through English "you", linked or not, the two sides agree in 52.9 % of paths (about chance);
+  59.3 % of agreeing paths are linked directly, 0.14 % of disagreeing ones. Its unlinked counts equal `session2.json`'s eng-you counts
+  (115,640; 79,326 disagreeing): a check that the two scripts read the same chains. The conjecture holds as exploration.
+- **01:26** Page section built; at 390 px the new chart's labels were about 7 px: font raised, labels shortened ("via German"), a
+  "chance" key added. `render-check.js` extended (second chart, 12 bars, 6 cards, 117 links); all pages ok at 1440 and 390 px.
+  Written first as "01:30", ahead of the clock, a second time tonight; `date -u` read 01:26:12; corrected before commit.

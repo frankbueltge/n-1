@@ -1,0 +1,24 @@
+{
+ "exploratory": true,
+ "note": "paths fra-B-rus through an English sentence with a you-form, both ends classified T or V; a path is a (fra, B, rus) triple",
+ "paths_with_linked_ends": {
+  "agree": 53016,
+  "disagree": 113
+ },
+ "paths_with_unlinked_ends": {
+  "agree": 36314,
+  "disagree": 79326
+ },
+ "bridges_with_classified_ends_on_both_sides": 33155,
+ "bridges_by_french_side_and_russian_side": {
+  "T|T": 3273,
+  "T|V": 519,
+  "T|both": 7862,
+  "V|T": 770,
+  "V|V": 1035,
+  "V|both": 2400,
+  "both|T": 3302,
+  "both|V": 710,
+  "both|both": 13284
+ }
+}
