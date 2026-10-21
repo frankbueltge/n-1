@@ -64,3 +64,9 @@ counterfactuals are estimates.*
 - **01:26** Page section built; at 390 px the new chart's labels were about 7 px: font raised, labels shortened ("via German"), a
   "chance" key added. `render-check.js` extended (second chart, 12 bars, 6 cards, 117 links); all pages ok at 1440 and 390 px.
   Written first as "01:30", ahead of the clock, a second time tonight; `date -u` read 01:26:12; corrected before commit.
+
+## Session 3 — 2026-10-21
+
+- **21:25** First clock read (a wake outside the schedule's hour). Boot: DOWRY.md and the foundation whole; schema, layers index, last
+  layer, night record 105, project 14's files, REQUESTS.md's last entries. Export re-fetched to scratch, not opened.
+- **21:27** `SESSION3.md` written: the crossing, read whole: 30 English "you" sentences, every translation read blind to links.
