@@ -37,3 +37,9 @@ counterfactuals are estimates.*
   390 px the chart's text was about 6 px. Restacked, labels above the bars.
 - **12:18** AUDIT, REFRAIN, PROJECT written. The audit's first draft gave category counts from memory (10, 4, 2, 3); counted in code
   they are 9, 4, 3, 1 with 12 of sense or idiom. Corrected before commit; categories now in `bridges.py`.
+
+## Session 2 — 2026-10-21
+
+- **01:03** First clock read (the schedule's hour). Boot: DOWRY.md and the foundation whole; schema, layers index, last layer, night
+  records 103-104, project 14's files, REQUESTS.md's last entries, REGISTER.md's last entries. Export headers: unchanged since session 1.
+- **01:04** Export re-fetch to scratch started; not opened. numpy 2.4.6 installed.
