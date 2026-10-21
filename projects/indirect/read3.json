@@ -1,0 +1,1392 @@
+{
+"estimate": true,
+"reader": "this session (a language model), one pass, blind to the English sentence, the groups and the links",
+"readings": [
+{
+"n": 1,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 2,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 3,
+"reading": "V",
+"note": "imperative 'comptez', a proverb",
+"confidence": "ordinary"
+},
+{
+"n": 4,
+"reading": "V",
+"note": "plural imperative and 'tzemrem'",
+"confidence": "low"
+},
+{
+"n": 5,
+"reading": "V",
+"note": "'fa': polite Lei, or 'he'",
+"confidence": "ordinary"
+},
+{
+"n": 6,
+"reading": "cannot",
+"note": "Kanuri",
+"confidence": "ordinary"
+},
+{
+"n": 7,
+"reading": "V",
+"note": "'uw'",
+"confidence": "ordinary"
+},
+{
+"n": 8,
+"reading": "V",
+"note": "'fate'",
+"confidence": "ordinary"
+},
+{
+"n": 9,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 10,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 11,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 12,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 13,
+"reading": "T",
+"note": "'biliyorsun'",
+"confidence": "ordinary"
+},
+{
+"n": 14,
+"reading": "V",
+"note": "'tettarumt': plural feminine",
+"confidence": "low"
+},
+{
+"n": 15,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 16,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 17,
+"reading": "V",
+"note": "'misiniz'",
+"confidence": "ordinary"
+},
+{
+"n": 18,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 19,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 20,
+"reading": "T",
+"note": "'contes'",
+"confidence": "ordinary"
+},
+{
+"n": 21,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 22,
+"reading": "unmarked",
+"note": "'man': generic",
+"confidence": "ordinary"
+},
+{
+"n": 23,
+"reading": "V",
+"note": "'ձեզ'",
+"confidence": "ordinary"
+},
+{
+"n": 24,
+"reading": "T",
+"note": "'tua'",
+"confidence": "ordinary"
+},
+{
+"n": 25,
+"reading": "unmarked",
+"note": "a proverb, plain prohibitive",
+"confidence": "ordinary"
+},
+{
+"n": 26,
+"reading": "V",
+"note": "'Sizi'",
+"confidence": "ordinary"
+},
+{
+"n": 27,
+"reading": "V",
+"note": "'avete'",
+"confidence": "ordinary"
+},
+{
+"n": 28,
+"reading": "V",
+"note": "'riuscite'",
+"confidence": "ordinary"
+},
+{
+"n": 29,
+"reading": "T",
+"note": "'je'",
+"confidence": "ordinary"
+},
+{
+"n": 30,
+"reading": "T",
+"note": "'txeddmeḍ'",
+"confidence": "low"
+},
+{
+"n": 31,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 32,
+"reading": "T",
+"note": "'tua'",
+"confidence": "ordinary"
+},
+{
+"n": 33,
+"reading": "V",
+"note": "'Sie' mid-sentence",
+"confidence": "ordinary"
+},
+{
+"n": 34,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 35,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 36,
+"reading": "T",
+"note": "'jij'",
+"confidence": "ordinary"
+},
+{
+"n": 37,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 38,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 39,
+"reading": "T",
+"note": "'senin'",
+"confidence": "ordinary"
+},
+{
+"n": 40,
+"reading": "T",
+"note": "'ту'",
+"confidence": "low"
+},
+{
+"n": 41,
+"reading": "V",
+"note": "'jullie'",
+"confidence": "ordinary"
+},
+{
+"n": 42,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 43,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 44,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 45,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 46,
+"reading": "T",
+"note": "'Tzemreḍ'",
+"confidence": "low"
+},
+{
+"n": 47,
+"reading": "V",
+"note": "'sua': polite Lei, or his/her",
+"confidence": "ordinary"
+},
+{
+"n": 48,
+"reading": "V",
+"note": "'Ustedes'",
+"confidence": "ordinary"
+},
+{
+"n": 49,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 50,
+"reading": "T",
+"note": "'deine'",
+"confidence": "ordinary"
+},
+{
+"n": 51,
+"reading": "V",
+"note": "'ha': polite Lei",
+"confidence": "ordinary"
+},
+{
+"n": 52,
+"reading": "V",
+"note": "'ihr'",
+"confidence": "ordinary"
+},
+{
+"n": 53,
+"reading": "T",
+"note": "'tuoi'",
+"confidence": "ordinary"
+},
+{
+"n": 54,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 55,
+"reading": "T",
+"note": "'edersin'",
+"confidence": "ordinary"
+},
+{
+"n": 56,
+"reading": "T",
+"note": "'bacağın'",
+"confidence": "ordinary"
+},
+{
+"n": 57,
+"reading": "T",
+"note": "'je'",
+"confidence": "ordinary"
+},
+{
+"n": 58,
+"reading": "V",
+"note": "'tettarum': plural",
+"confidence": "low"
+},
+{
+"n": 59,
+"reading": "unmarked",
+"note": "plain form, no pronoun",
+"confidence": "ordinary"
+},
+{
+"n": 60,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 61,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 62,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 63,
+"reading": "V",
+"note": "'jūsu'",
+"confidence": "low"
+},
+{
+"n": 64,
+"reading": "V",
+"note": "'ihr'",
+"confidence": "ordinary"
+},
+{
+"n": 65,
+"reading": "T",
+"note": "'tzemred'",
+"confidence": "low"
+},
+{
+"n": 66,
+"reading": "V",
+"note": "'tzemrem'",
+"confidence": "low"
+},
+{
+"n": 67,
+"reading": "cannot",
+"note": "Rohingya",
+"confidence": "ordinary"
+},
+{
+"n": 68,
+"reading": "unmarked",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 69,
+"reading": "T",
+"note": "'tavas'",
+"confidence": "low"
+},
+{
+"n": 70,
+"reading": "T",
+"note": "'você': singular, familiar in Brazilian usage",
+"confidence": "ordinary"
+},
+{
+"n": 71,
+"reading": "V",
+"note": "'Ihre'",
+"confidence": "ordinary"
+},
+{
+"n": 72,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 73,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 74,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 75,
+"reading": "V",
+"note": "'Duermen': ustedes, or 'they'",
+"confidence": "ordinary"
+},
+{
+"n": 76,
+"reading": "T",
+"note": "'דו'",
+"confidence": "ordinary"
+},
+{
+"n": 77,
+"reading": "V",
+"note": "'veros': vosotros",
+"confidence": "ordinary"
+},
+{
+"n": 78,
+"reading": "T",
+"note": "'lábadat'",
+"confidence": "ordinary"
+},
+{
+"n": 79,
+"reading": "unmarked",
+"note": "'I'm not joking': no 'you'",
+"confidence": "ordinary"
+},
+{
+"n": 80,
+"reading": "T",
+"note": "'tettarud'",
+"confidence": "low"
+},
+{
+"n": 81,
+"reading": "unmarked",
+"note": "'po' is polite register; no 'you'",
+"confidence": "ordinary"
+},
+{
+"n": 82,
+"reading": "unmarked",
+"note": "generic",
+"confidence": "ordinary"
+},
+{
+"n": 83,
+"reading": "V",
+"note": "'tettarum'",
+"confidence": "low"
+},
+{
+"n": 84,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 85,
+"reading": "T",
+"note": "'musun'",
+"confidence": "ordinary"
+},
+{
+"n": 86,
+"reading": "T",
+"note": "'Ti'",
+"confidence": "ordinary"
+},
+{
+"n": 87,
+"reading": "V",
+"note": "'Sie'",
+"confidence": "ordinary"
+},
+{
+"n": 88,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 89,
+"reading": "T",
+"note": "'tuas'",
+"confidence": "ordinary"
+},
+{
+"n": 90,
+"reading": "unmarked",
+"note": "a proverb, impersonal",
+"confidence": "ordinary"
+},
+{
+"n": 91,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 92,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 93,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 94,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 95,
+"reading": "unmarked",
+"note": "'po' is polite register; no 'you'",
+"confidence": "ordinary"
+},
+{
+"n": 96,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 97,
+"reading": "T",
+"note": "'νομίζεις'",
+"confidence": "ordinary"
+},
+{
+"n": 98,
+"reading": "T",
+"note": "Ido 'tu', the familiar",
+"confidence": "low"
+},
+{
+"n": 99,
+"reading": "unmarked",
+"note": "3sg verb: você or o senhor",
+"confidence": "ordinary"
+},
+{
+"n": 100,
+"reading": "T",
+"note": "'tettarud'",
+"confidence": "low"
+},
+{
+"n": 101,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 102,
+"reading": "T",
+"note": "'Te', 'tudod'",
+"confidence": "ordinary"
+},
+{
+"n": 103,
+"reading": "T",
+"note": "'maka'",
+"confidence": "low"
+},
+{
+"n": 104,
+"reading": "V",
+"note": "'votre'",
+"confidence": "ordinary"
+},
+{
+"n": 105,
+"reading": "T",
+"note": "'nnem': singular feminine",
+"confidence": "low"
+},
+{
+"n": 106,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 107,
+"reading": "unmarked",
+"note": "generic",
+"confidence": "ordinary"
+},
+{
+"n": 108,
+"reading": "T",
+"note": "'uyursun'",
+"confidence": "ordinary"
+},
+{
+"n": 109,
+"reading": "V",
+"note": "'uw'",
+"confidence": "ordinary"
+},
+{
+"n": 110,
+"reading": "V",
+"note": "'txeddmem'",
+"confidence": "low"
+},
+{
+"n": 111,
+"reading": "V",
+"note": "plural feminine",
+"confidence": "low"
+},
+{
+"n": 112,
+"reading": "unmarked",
+"note": "'sina': one or several",
+"confidence": "ordinary"
+},
+{
+"n": 113,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 114,
+"reading": "T",
+"note": "singular imperative",
+"confidence": "ordinary"
+},
+{
+"n": 115,
+"reading": "T",
+"note": "'riesci'",
+"confidence": "ordinary"
+},
+{
+"n": 116,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 117,
+"reading": "unmarked",
+"note": "polite register, no pronoun",
+"confidence": "ordinary"
+},
+{
+"n": 118,
+"reading": "T",
+"note": "'tu'",
+"confidence": "low"
+},
+{
+"n": 119,
+"reading": "T",
+"note": "'tzemred'",
+"confidence": "low"
+},
+{
+"n": 120,
+"reading": "unmarked",
+"note": "generic",
+"confidence": "ordinary"
+},
+{
+"n": 121,
+"reading": "V",
+"note": "'tettarumt'",
+"confidence": "low"
+},
+{
+"n": 122,
+"reading": "T",
+"note": "'-ku-': you, singular",
+"confidence": "low"
+},
+{
+"n": 123,
+"reading": "V",
+"note": "'আপুনি': polite",
+"confidence": "low"
+},
+{
+"n": 124,
+"reading": "V",
+"note": "'vám'",
+"confidence": "ordinary"
+},
+{
+"n": 125,
+"reading": "unmarked",
+"note": "a proverb",
+"confidence": "ordinary"
+},
+{
+"n": 126,
+"reading": "T",
+"note": "'ihtiyacın'",
+"confidence": "ordinary"
+},
+{
+"n": 127,
+"reading": "T",
+"note": "'քեզ'",
+"confidence": "ordinary"
+},
+{
+"n": 128,
+"reading": "V",
+"note": "'Potreste'",
+"confidence": "ordinary"
+},
+{
+"n": 129,
+"reading": "unmarked",
+"note": "'değiştiremeyeceğini': yours or his",
+"confidence": "ordinary"
+},
+{
+"n": 130,
+"reading": "V",
+"note": "'riesce': polite Lei, or 'he'",
+"confidence": "ordinary"
+},
+{
+"n": 131,
+"reading": "V",
+"note": "'איר'",
+"confidence": "ordinary"
+},
+{
+"n": 132,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 133,
+"reading": "V",
+"note": "'Sie'",
+"confidence": "ordinary"
+},
+{
+"n": 134,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 135,
+"reading": "T",
+"note": "'Te'",
+"confidence": "ordinary"
+},
+{
+"n": 136,
+"reading": "unmarked",
+"note": "'a person': generic",
+"confidence": "low"
+},
+{
+"n": 137,
+"reading": "unmarked",
+"note": "a proverb",
+"confidence": "ordinary"
+},
+{
+"n": 138,
+"reading": "T",
+"note": "'fai'",
+"confidence": "ordinary"
+},
+{
+"n": 139,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 140,
+"reading": "T",
+"note": "'Yazdığın'",
+"confidence": "ordinary"
+},
+{
+"n": 141,
+"reading": "T",
+"note": "'senin'",
+"confidence": "ordinary"
+},
+{
+"n": 142,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 143,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 144,
+"reading": "V",
+"note": "'Sie'",
+"confidence": "ordinary"
+},
+{
+"n": 145,
+"reading": "unmarked",
+"note": "generic",
+"confidence": "ordinary"
+},
+{
+"n": 146,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 147,
+"reading": "T",
+"note": "'tu'",
+"confidence": "low"
+},
+{
+"n": 148,
+"reading": "T",
+"note": "'piszesz'",
+"confidence": "ordinary"
+},
+{
+"n": 149,
+"reading": "T",
+"note": "'Sence'",
+"confidence": "ordinary"
+},
+{
+"n": 150,
+"reading": "unmarked",
+"note": "humble register, no pronoun",
+"confidence": "ordinary"
+},
+{
+"n": 151,
+"reading": "V",
+"note": "'Potrebbe': Lei",
+"confidence": "ordinary"
+},
+{
+"n": 152,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 153,
+"reading": "V",
+"note": "'orik' read as the polite 'your'",
+"confidence": "low"
+},
+{
+"n": 154,
+"reading": "T",
+"note": "singular imperative, a proverb",
+"confidence": "ordinary"
+},
+{
+"n": 155,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 156,
+"reading": "T",
+"note": "'לך': singular",
+"confidence": "ordinary"
+},
+{
+"n": 157,
+"reading": "V",
+"note": "'alın': plural imperative",
+"confidence": "ordinary"
+},
+{
+"n": 158,
+"reading": "unmarked",
+"note": "'sina': one or several",
+"confidence": "ordinary"
+},
+{
+"n": 159,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 160,
+"reading": "unmarked",
+"note": "'po' is polite register; no 'you'",
+"confidence": "ordinary"
+},
+{
+"n": 161,
+"reading": "V",
+"note": "'Le'",
+"confidence": "ordinary"
+},
+{
+"n": 162,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 163,
+"reading": "T",
+"note": "'doe'",
+"confidence": "low"
+},
+{
+"n": 164,
+"reading": "T",
+"note": "'tua'",
+"confidence": "ordinary"
+},
+{
+"n": 165,
+"reading": "T",
+"note": "'sinulle'",
+"confidence": "ordinary"
+},
+{
+"n": 166,
+"reading": "T",
+"note": "'te'",
+"confidence": "ordinary"
+},
+{
+"n": 167,
+"reading": "V",
+"note": "'txeddmemt'",
+"confidence": "low"
+},
+{
+"n": 168,
+"reading": "T",
+"note": "'u-': you, singular",
+"confidence": "low"
+},
+{
+"n": 169,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 170,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 171,
+"reading": "unmarked",
+"note": "plain form, no pronoun",
+"confidence": "ordinary"
+},
+{
+"n": 172,
+"reading": "V",
+"note": "Ido 'vu', the ordinary singular against 'tu'",
+"confidence": "low"
+},
+{
+"n": 173,
+"reading": "T",
+"note": "'te'",
+"confidence": "ordinary"
+},
+{
+"n": 174,
+"reading": "T",
+"note": "'-si'",
+"confidence": "ordinary"
+},
+{
+"n": 175,
+"reading": "V",
+"note": "Ido 'vua'",
+"confidence": "low"
+},
+{
+"n": 176,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 177,
+"reading": "unmarked",
+"note": "'I'm not joking': no 'you'",
+"confidence": "low"
+},
+{
+"n": 178,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 179,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 180,
+"reading": "T",
+"note": "'Potresti'",
+"confidence": "ordinary"
+},
+{
+"n": 181,
+"reading": "T",
+"note": "'sana'",
+"confidence": "ordinary"
+},
+{
+"n": 182,
+"reading": "T",
+"note": "'widzisz'",
+"confidence": "ordinary"
+},
+{
+"n": 183,
+"reading": "unmarked",
+"note": "'I'm not joking': no 'you'",
+"confidence": "ordinary"
+},
+{
+"n": 184,
+"reading": "T",
+"note": "'misin'",
+"confidence": "ordinary"
+},
+{
+"n": 185,
+"reading": "T",
+"note": "'Você'",
+"confidence": "ordinary"
+},
+{
+"n": 186,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 187,
+"reading": "unmarked",
+"note": "a proverb",
+"confidence": "ordinary"
+},
+{
+"n": 188,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 189,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 190,
+"reading": "unmarked",
+"note": "a proverb",
+"confidence": "ordinary"
+},
+{
+"n": 191,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 192,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 193,
+"reading": "T",
+"note": "'hai'",
+"confidence": "ordinary"
+},
+{
+"n": 194,
+"reading": "T",
+"note": "'tu'",
+"confidence": "low"
+},
+{
+"n": 195,
+"reading": "unmarked",
+"note": "'what I meant': no 'you'",
+"confidence": "ordinary"
+},
+{
+"n": 196,
+"reading": "T",
+"note": "'você'",
+"confidence": "ordinary"
+},
+{
+"n": 197,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 198,
+"reading": "V",
+"note": "'Vi'",
+"confidence": "ordinary"
+},
+{
+"n": 199,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 200,
+"reading": "T",
+"note": "'Duermes'",
+"confidence": "ordinary"
+},
+{
+"n": 201,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 202,
+"reading": "T",
+"note": "'ти'",
+"confidence": "ordinary"
+},
+{
+"n": 203,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 204,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 205,
+"reading": "T",
+"note": "'Ağrına'",
+"confidence": "ordinary"
+},
+{
+"n": 206,
+"reading": "unmarked",
+"note": "'man': generic",
+"confidence": "ordinary"
+},
+{
+"n": 207,
+"reading": "V",
+"note": "'ihr'",
+"confidence": "ordinary"
+},
+{
+"n": 208,
+"reading": "unmarked",
+"note": "'I'm not joking': no 'you'",
+"confidence": "ordinary"
+},
+{
+"n": 209,
+"reading": "T",
+"note": "'nnek'",
+"confidence": "low"
+},
+{
+"n": 210,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 211,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 212,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 213,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 214,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 215,
+"reading": "V",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 216,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 217,
+"reading": "V",
+"note": "'Ihren'",
+"confidence": "ordinary"
+},
+{
+"n": 218,
+"reading": "T",
+"note": "'Ti'",
+"confidence": "ordinary"
+},
+{
+"n": 219,
+"reading": "unmarked",
+"note": "infinitive, a proverb",
+"confidence": "low"
+},
+{
+"n": 220,
+"reading": "T",
+"note": "'по-твоему'",
+"confidence": "ordinary"
+},
+{
+"n": 221,
+"reading": "V",
+"note": "'あなた' with a humble verb",
+"confidence": "ordinary"
+},
+{
+"n": 222,
+"reading": "T",
+"note": "'sua': você",
+"confidence": "ordinary"
+},
+{
+"n": 223,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 224,
+"reading": "T",
+"note": "'你', not '您'",
+"confidence": "ordinary"
+},
+{
+"n": 225,
+"reading": "T",
+"note": "",
+"confidence": "ordinary"
+},
+{
+"n": 226,
+"reading": "T",
+"note": "'k-'",
+"confidence": "low"
+},
+{
+"n": 227,
+"reading": "V",
+"note": "plural feminine",
+"confidence": "low"
+},
+{
+"n": 228,
+"reading": "unmarked",
+"note": "generic",
+"confidence": "ordinary"
+},
+{
+"n": 229,
+"reading": "T",
+"note": "'-ካ': you, singular",
+"confidence": "low"
+},
+{
+"n": 230,
+"reading": "T",
+"note": "'ти'",
+"confidence": "ordinary"
+},
+{
+"n": 231,
+"reading": "T",
+"note": "'-lIj': your, singular",
+"confidence": "low"
+}
+]
+}

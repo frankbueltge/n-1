@@ -70,3 +70,9 @@ counterfactuals are estimates.*
 - **21:25** First clock read (a wake outside the schedule's hour). Boot: DOWRY.md and the foundation whole; schema, layers index, last
   layer, night record 105, project 14's files, REQUESTS.md's last entries. Export re-fetched to scratch, not opened.
 - **21:27** `SESSION3.md` written: the crossing, read whole: 30 English "you" sentences, every translation read blind to links.
+- **21:32** Draw run (`session3.py`, 93 s): 76,757 eligible English "you" sentences; 30 drawn; 231 translations in 39 languages on the
+  sheet, shuffled, English, groups and links withheld. Hashes equal to session 1's. Key written to scratch, not opened.
+- **21:32** The 231 read in one pass (`read3.py` -> `read3.json`): 125 T, 72 V, 32 unmarked, 2 cannot read (Kanuri, Rohingya); 39 marked
+  low. Decided while reading, before the key, and written into the readings: register alone (Japanese plain or humble forms, Tagalog
+  "po") is read unmarked; Portuguese "você" is read T (singular, familiar in Brazilian usage); Ido "vu" V against "tu"; Italian third-person
+  forms read as polite Lei, noted where "he" is possible. Committed before the key is opened.
