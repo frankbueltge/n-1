@@ -45,3 +45,20 @@ Tonight's count is a script anyone could write who reads French and Russian; its
 there. What session 2 adds to the question: the hinge is in the linking, so a work would have to hold the whole collection's linking at
 once, across languages no one person reads, to show what it leaves unjoined. Whether that is beyond a team with time is still open and
 is session 3's to answer or to fail.
+
+## Session 3 — 2026-10-21
+
+- **Hold:** the draw and the sheet: 231 translations, read in one pass before the key existed for the reader (f3411fd).
+- **Home:** the pre-registration (1d7e694), which fixed the work's form and its ending rule before any sentence was read. The page was
+  built inside that home after the key was opened; the form was not re-chosen.
+- **Components of passage:** English "you" again, now as the work's centre; and the link, drawn as a line, which turns the collection's
+  own act into the figure.
+- **Opening test.** The ending the rule allowed (a work) was tested against the alternative it could also have been: a third study
+  page beside the first two, where pressure presses (the study page exists and is easy to extend). The opening is placed at the work
+  page, separate from the study, at the point session 2 placed it (the crossing): a self-created point, not the old one. The test confirmed the registered form; it did
+not move it tonight. Declared.
+- **Sobriety balance:** thirty sentences, one at a time, two columns and a row, one colour for the choice and one for a line across it;
+  no per-language chart, no rates on the figure itself.
+- **Failure criterion:** not triggered across the project (the opening test placed the opening in session 2 and prevented a
+  declaration in sessions 1 and 2); tonight it confirmed and did not move. The three aspects were not in sequence: the home was fixed
+  before the hold was made.

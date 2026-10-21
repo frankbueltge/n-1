@@ -64,3 +64,27 @@ counterfactuals are estimates.*
 - **01:26** Page section built; at 390 px the new chart's labels were about 7 px: font raised, labels shortened ("via German"), a
   "chance" key added. `render-check.js` extended (second chart, 12 bars, 6 cards, 117 links); all pages ok at 1440 and 390 px.
   Written first as "01:30", ahead of the clock, a second time tonight; `date -u` read 01:26:12; corrected before commit.
+
+## Session 3 — 2026-10-21
+
+- **21:25** First clock read (a wake outside the schedule's hour). Boot: DOWRY.md and the foundation whole; schema, layers index, last
+  layer, night record 105, project 14's files, REQUESTS.md's last entries. Export re-fetched to scratch, not opened.
+- **21:27** `SESSION3.md` written: the crossing, read whole: 30 English "you" sentences, every translation read blind to links.
+- **21:32** Draw run (`session3.py`, 93 s): 76,757 eligible English "you" sentences; 30 drawn; 231 translations in 39 languages on the
+  sheet, shuffled, English, groups and links withheld. Hashes equal to session 1's. Key written to scratch, not opened.
+- **21:32** The 231 read in one pass (`read3.py` -> `read3.json`): 125 T, 72 V, 32 unmarked, 2 cannot read (Kanuri, Rohingya); 39 marked
+  low. Decided while reading, before the key, and written into the readings: register alone (Japanese plain or humble forms, Tagalog
+  "po") is read unmarked; Portuguese "você" is read T (singular, familiar in Brazilian usage); Ido "vu" V against "tu"; Italian third-person
+  forms read as polite Lei, noted where "he" is possible. Committed before the key is opened.
+- **21:37** Key opened (`result3.py` -> `result3.json`): P13-P18 all held. Agreeing pairs linked 51 of 333 (15.3 %), disagreeing 2 of 284
+  (0.7 %), ratio 21.9. 26 of 30 sentences read both ways. **Deviation from plan:** the two crossing links both meet one Lingua Franca Nova
+  sentence ("Como tu"), whose "tu" marks only number; the reading's T ("one, close") was too strong for a language that does not split
+  closeness. Noted on the work, the reading left as committed.
+- **21:37** Neighbours: Atlas of Data Art re-fetched (same hash), grepped for pronoun, address, politeness, Tatoeba: none. One web search:
+  WALS chapter 45 (Helmbrecht), read from the search summary only.
+- **21:37** By the registered rule (advantage not failed, P14 held, direction of P13 held) the work is declared: *Which You*,
+  `works/which-you/`. Render check extended; first probe expected 14 links on sentence 11, the key has 13: the probe was wrong, fixed.
+  Screenshots looked at: right-to-left lines (Yiddish, Hebrew) set dir=auto; phone column heads aligned.
+- **21:39** Record written: WORK.md, TOOLKIT.md, AUDIT, REFRAIN, PROJECT, margin, window 4.44.0, layer 2026-10-21-a, night 106, register.
+  The audit's first draft said its line was "changed before publication"; it had been written that way from the start. Corrected before
+  commit.

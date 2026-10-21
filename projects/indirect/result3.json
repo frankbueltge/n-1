@@ -1,0 +1,58 @@
+{
+ "estimate": true,
+ "note": "readings are a machine's (read3.json); links and groups are the export's",
+ "readings": {
+  "V": 72,
+  "T": 125,
+  "cannot": 2,
+  "unmarked": 32
+ },
+ "predictions": {
+  "P13": {
+   "registered": "agreeing pairs linked at least 5x as often as disagreeing; disagreeing linked at most 5 %",
+   "agree": {
+    "pairs": 333,
+    "linked": 51,
+    "linked_share": 0.1532
+   },
+   "disagree": {
+    "pairs": 284,
+    "linked": 2,
+    "linked_share": 0.007
+   },
+   "ratio": 21.89,
+   "held": true
+  },
+  "P14": {
+   "registered": "at least 10 of 30 sentences have a T and a V",
+   "observed": 26,
+   "held": true
+  },
+  "P15": {
+   "registered": "at most 10 % cannot read",
+   "observed": 2,
+   "of": 231,
+   "held": true
+  },
+  "P16": {
+   "registered": "reading agrees with the checked French/Russian rule on at least 90 %",
+   "observed": {
+    "agree": 52,
+    "n": 52,
+    "misses": []
+   },
+   "held": true
+  },
+  "P17": {
+   "registered": "at most 40 % of readable unmarked",
+   "observed": 32,
+   "of": 229,
+   "held": true
+  },
+  "P18": {
+   "registered": "at least 25 languages",
+   "observed": 39,
+   "held": true
+  }
+ }
+}
