@@ -50,3 +50,26 @@ contributor's reading it could become "Tatoeba links only what agrees", which is
 and the reason for each link is unknown). The page says "have since been linked directly by someone" and gives both shares.
 
 **Failure criterion:** not triggered: the baseline and the linking count changed session 3's question, not only a wording.
+
+## Session 3 — 2026-10-21
+
+**On the material.** Read whole, thirty English "you" sentences became 231 translations in 39 languages (`read3.json`, estimates): 125
+read as one close person, 72 as a stranger or several, 32 that do not say. What passes from English into most of them is the proposition;
+what does not pass is not lost but **added**: each translator had to supply who is spoken to, and in 26 of 30 sentences different
+translators supplied different answers. The order-word's address (ATP 76-79, via KsK 4.2) is not dropped by the chain, as session 1 put
+it; it is never in the English to drop. What remains irreducible is the English sentence's openness, and the collection's links (51 of
+333 like pairs, 2 of 284 unlike, `result3.json`) join the answers, never the question.
+
+**What it changed (the decision).** The two crossing links, both at one Lingua Franca Nova "tu", were read when the key was opened and
+before the page was written, and the page's count sentence names them ("2, both at one sentence in Lingua Franca Nova, whose 'tu' says
+only 'one person'") instead of saying the links never cross: the category "one, close" was made for languages that split closeness, and
+here it was too strong. That reading was the audit's question asked at the key, not this entry: the entry itself was written after the
+page and changed nothing on it.
+
+**On the work's own line.** "Most of the languages below cannot: their translators had to choose" was written that way from the start,
+with the 32 "does not say" readings in view (a stronger "every other language had to choose" would be contradicted by them, and by
+WALS's count of 136 of 207 languages with no politeness distinction, from the search summary). The test confirms the line and changes
+nothing.
+
+**Failure criterion:** partly triggered. The question changed what the work claims (the count sentence), but as asked at the key,
+before the audit was written; the written audit, tonight, changed neither wording nor design.

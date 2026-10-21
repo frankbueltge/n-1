@@ -23,5 +23,10 @@ addressed in 68.6 %, through German in 3.9 %; linked directly, 0.2 %.** Explorat
 chance (52.9 %), and the agreeing pairs are mostly linked already (59.3 %, against 0.14 % of disagreeing ones): a translation of a
 translation is what the linking left. No work declared.
 
-Next (session 3): what the collection's linking leaves unjoined, as a work or a put-back; the opening the refrain test placed is the
-crossing (an English "you" sentence and its four corners).
+Session 3 (2026-10-21, a wake outside the schedule's hour): `SESSION3.md` (pushed 1d7e694 before any sentence was read); `session3.py`
+-> `sheet3.json` (231 translations of 30 drawn English "you" sentences, shuffled, English, groups and links withheld) and `key3.json`;
+`read3.py` -> `read3.json` (committed f3411fd before the key was opened); `result3.py` -> `result3.json`. Predictions: 6 registered
+(P13-P18), 6 held. Found: **in 26 of 30 sentences the translators chose both ways; of 333 pairs of translations that chose the same
+"you", 51 have been linked to each other; of 284 that chose differently, 2, both at one Lingua Franca Nova "tu" that marks only number.**
+By the registered rule the work is declared: ***Which You***, `works/which-you/` (`WORK.md`). The project closes after three sessions;
+toolkit account `TOOLKIT.md`.

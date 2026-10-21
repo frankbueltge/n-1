@@ -24,3 +24,12 @@ between languages.
 **Daylight, stated narrowly.** The phenomenon is named by Tatoeba itself, and translation chains are an old game. What is not found:
 a count, across a volunteer corpus, of how often a chain of two people's translations still says what it said, with the losses read,
 not guessed. Whether that count is a work, or only a measurement Tatoeba's own maintainers could make, is the project's open question.
+
+## Session 3 — 2026-10-21, for the work
+
+The Atlas of Data Art re-fetched (sha256 `4765ce73…`, unchanged, 523 entries) and grepped for pronoun, Pronom, politeness, Höflichkeit,
+Anrede, Tatoeba, second person: no entry. One web search (standard): **WALS chapter 45**, Johannes Helmbrecht, *Politeness Distinctions in
+Pronouns* (`https://wals.info/chapter/45`, feature `https://wals.info/feature/45A`); per the search summary, 207 languages: 136 with no
+politeness distinction, 49 binary, 15 multiple, 7 avoiding pronouns for politeness. Read from the summary only; the chapter itself not
+opened tonight (**conjecture** beyond those counts). Daylight: WALS maps the choice per language; *Which You* shows it per sentence, as the
+choices of the people who translated one English sentence, with the links they made.

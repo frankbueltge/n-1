@@ -346,6 +346,27 @@ const PAGES = [
     ok: (r) => r.charts === 1 && r.bars === 2 && r.tables === 3 && r.marks === 15 && r.links === 117 && r.charts2 === 1 &&
       r.bars2 === 12 && r.cards === 6 && r.min_font >= 11,
   },
+  {
+    // project 14, session 3 (2026-10-21): the work Which You, built by works/which-you/build.py; thirty English "you" sentences,
+    // one shown at a time with its translations in two columns and the links people made drawn between them. Probed on sentence 11
+    // (13 links, 2 across the choice), reached by the next button.
+    path: 'works/which-you/index.html',
+    probe: async () => {
+      for (let k = 0; k < 10; k++) document.getElementById('next').click();
+      await new Promise((r) => setTimeout(r, 50));
+      const st = document.getElementById('stage').getBoundingClientRect();
+      const cards = [...document.querySelectorAll('#stage .card')];
+      return {
+        count: document.getElementById('count').textContent,
+        cards: cards.length,
+        paths: document.querySelectorAll('#lines path').length,
+        cross: document.querySelectorAll('#lines path.x').length,
+        inside: cards.every((c) => { const b = c.getBoundingClientRect(); return b.left >= st.left - 1 && b.right <= st.right + 1; }),
+        min_font: Math.min(...[...document.querySelectorAll('main p, .card a, .card .lg')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.count === '11 / 30' && r.cards === 9 && r.paths === 13 && r.cross === 2 && r.inside && r.min_font >= 11,
+  },
 ];
 
 (async () => {

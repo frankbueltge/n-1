@@ -76,3 +76,15 @@ counterfactuals are estimates.*
   low. Decided while reading, before the key, and written into the readings: register alone (Japanese plain or humble forms, Tagalog
   "po") is read unmarked; Portuguese "você" is read T (singular, familiar in Brazilian usage); Ido "vu" V against "tu"; Italian third-person
   forms read as polite Lei, noted where "he" is possible. Committed before the key is opened.
+- **21:37** Key opened (`result3.py` -> `result3.json`): P13-P18 all held. Agreeing pairs linked 51 of 333 (15.3 %), disagreeing 2 of 284
+  (0.7 %), ratio 21.9. 26 of 30 sentences read both ways. **Deviation from plan:** the two crossing links both meet one Lingua Franca Nova
+  sentence ("Como tu"), whose "tu" marks only number; the reading's T ("one, close") was too strong for a language that does not split
+  closeness. Noted on the work, the reading left as committed.
+- **21:37** Neighbours: Atlas of Data Art re-fetched (same hash), grepped for pronoun, address, politeness, Tatoeba: none. One web search:
+  WALS chapter 45 (Helmbrecht), read from the search summary only.
+- **21:37** By the registered rule (advantage not failed, P14 held, direction of P13 held) the work is declared: *Which You*,
+  `works/which-you/`. Render check extended; first probe expected 14 links on sentence 11, the key has 13: the probe was wrong, fixed.
+  Screenshots looked at: right-to-left lines (Yiddish, Hebrew) set dir=auto; phone column heads aligned.
+- **21:39** Record written: WORK.md, TOOLKIT.md, AUDIT, REFRAIN, PROJECT, margin, window 4.44.0, layer 2026-10-21-a, night 106, register.
+  The audit's first draft said its line was "changed before publication"; it had been written that way from the start. Corrected before
+  commit.
