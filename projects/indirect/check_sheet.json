@@ -1,0 +1,482 @@
+[
+ {
+  "n": 1,
+  "id": 13739534,
+  "lang": "rus",
+  "text": "Искусственный интеллект учится на всем, что читает. Мы, в свою очередь, тоже можем многому у него научиться."
+ },
+ {
+  "n": 2,
+  "id": 11255917,
+  "lang": "rus",
+  "text": "\"Вы вегетарианка?\" - \"Нет, а ты?\""
+ },
+ {
+  "n": 3,
+  "id": 781139,
+  "lang": "fra",
+  "text": "Tu as rendez-vous ?"
+ },
+ {
+  "n": 4,
+  "id": 6926725,
+  "lang": "fra",
+  "text": "Pourquoi es-tu si intéressée ?"
+ },
+ {
+  "n": 5,
+  "id": 2159031,
+  "lang": "rus",
+  "text": "Это знамение времени."
+ },
+ {
+  "n": 6,
+  "id": 7088954,
+  "lang": "fra",
+  "text": "Laisse-moi te montrer où mettre ça."
+ },
+ {
+  "n": 7,
+  "id": 13059658,
+  "lang": "fra",
+  "text": "Est-ce que tu peux me dire de quoi vous parlez ?"
+ },
+ {
+  "n": 8,
+  "id": 7697506,
+  "lang": "rus",
+  "text": "К сожалению, я не могу принять ваше приглашение."
+ },
+ {
+  "n": 9,
+  "id": 7339564,
+  "lang": "rus",
+  "text": "Я не смогу быть у тебя на свадьбе."
+ },
+ {
+  "n": 10,
+  "id": 2094074,
+  "lang": "rus",
+  "text": "Что вы собираетесь делать сегодня вечером?"
+ },
+ {
+  "n": 11,
+  "id": 1911645,
+  "lang": "fra",
+  "text": "Comment payerez-vous tes dettes ?"
+ },
+ {
+  "n": 12,
+  "id": 2900518,
+  "lang": "rus",
+  "text": "Я делаю это, потому что хочу."
+ },
+ {
+  "n": 13,
+  "id": 5943647,
+  "lang": "rus",
+  "text": "Том построил песочный замок."
+ },
+ {
+  "n": 14,
+  "id": 4741821,
+  "lang": "rus",
+  "text": "Из этой тюрьмы ещё никто не убегал."
+ },
+ {
+  "n": 15,
+  "id": 4896080,
+  "lang": "rus",
+  "text": "Я хотел обсудить это с Вами вчера, но ты, казалось, не хотел меня слушать."
+ },
+ {
+  "n": 16,
+  "id": 5644032,
+  "lang": "fra",
+  "text": "Je ne lui ai posé aucune question."
+ },
+ {
+  "n": 17,
+  "id": 2180663,
+  "lang": "fra",
+  "text": "J'ai horreur de l'éclairage fluorescent."
+ },
+ {
+  "n": 18,
+  "id": 5741655,
+  "lang": "fra",
+  "text": "Vous n'êtes pas l'un des nôtres."
+ },
+ {
+  "n": 19,
+  "id": 13779989,
+  "lang": "fra",
+  "text": "Penses-tu que vous pouvez l'aider ?"
+ },
+ {
+  "n": 20,
+  "id": 6375169,
+  "lang": "rus",
+  "text": "Что ты вчера делал?"
+ },
+ {
+  "n": 21,
+  "id": 7715,
+  "lang": "fra",
+  "text": "Mon passe-temps est de prendre des photos."
+ },
+ {
+  "n": 22,
+  "id": 3298161,
+  "lang": "rus",
+  "text": "Я хочу, чтобы ты знала, что я всегда буду любить вас."
+ },
+ {
+  "n": 23,
+  "id": 3953195,
+  "lang": "fra",
+  "text": "Comment s'est passé ton rendez-vous avec Tom ?"
+ },
+ {
+  "n": 24,
+  "id": 14032401,
+  "lang": "rus",
+  "text": "Вы должны сказать Тому, что ты не поедешь с ним в Бостон."
+ },
+ {
+  "n": 25,
+  "id": 2827093,
+  "lang": "rus",
+  "text": "Если вам скучно, можете помочь Татоэбе."
+ },
+ {
+  "n": 26,
+  "id": 7245296,
+  "lang": "rus",
+  "text": "Ты в самом деле думаешь, что деньги принесут вам счастье?"
+ },
+ {
+  "n": 27,
+  "id": 12301751,
+  "lang": "rus",
+  "text": "Ты знаком с женой Тома?"
+ },
+ {
+  "n": 28,
+  "id": 9736817,
+  "lang": "fra",
+  "text": "Il faut que vous copiiez cette phrase cent fois."
+ },
+ {
+  "n": 29,
+  "id": 12141980,
+  "lang": "fra",
+  "text": "Ils ne sont pas vos ennemis."
+ },
+ {
+  "n": 30,
+  "id": 13700205,
+  "lang": "rus",
+  "text": "Как вы думаете, когда он вернётся?"
+ },
+ {
+  "n": 31,
+  "id": 2352017,
+  "lang": "fra",
+  "text": "Il est fleuriste."
+ },
+ {
+  "n": 32,
+  "id": 14055911,
+  "lang": "rus",
+  "text": "Я написал эту книгу. Ты пишешь много писем. Она не писала это сообщение. Это вы написали эти фразы?"
+ },
+ {
+  "n": 33,
+  "id": 7784456,
+  "lang": "rus",
+  "text": "Что вы против него имеете?"
+ },
+ {
+  "n": 34,
+  "id": 6621026,
+  "lang": "rus",
+  "text": "Как ты тут оказался?"
+ },
+ {
+  "n": 35,
+  "id": 2450625,
+  "lang": "fra",
+  "text": "Tu as fait beaucoup d'erreurs d'orthographe."
+ },
+ {
+  "n": 36,
+  "id": 1809089,
+  "lang": "fra",
+  "text": "Vous sentez-vous chanceux ?"
+ },
+ {
+  "n": 37,
+  "id": 13372101,
+  "lang": "rus",
+  "text": "Ты хочешь, чтобы я пошёл с вами?"
+ },
+ {
+  "n": 38,
+  "id": 12552085,
+  "lang": "rus",
+  "text": "Я уверена, что Мэри делает всё, что может."
+ },
+ {
+  "n": 39,
+  "id": 2144345,
+  "lang": "fra",
+  "text": "Je ne suis pas tant pressé."
+ },
+ {
+  "n": 40,
+  "id": 9830736,
+  "lang": "rus",
+  "text": "Попридержи лошадей, парень."
+ },
+ {
+  "n": 41,
+  "id": 2628863,
+  "lang": "rus",
+  "text": "Я хотел поблагодарить тебя за это."
+ },
+ {
+  "n": 42,
+  "id": 2467523,
+  "lang": "rus",
+  "text": "Она нашла кольцо, которое потеряла во время поездки."
+ },
+ {
+  "n": 43,
+  "id": 13355712,
+  "lang": "fra",
+  "text": "Elle a dit qu'elle le ferait pour toi."
+ },
+ {
+  "n": 44,
+  "id": 549759,
+  "lang": "fra",
+  "text": "Tout ce que tu dois faire c'est attendre."
+ },
+ {
+  "n": 45,
+  "id": 2329776,
+  "lang": "fra",
+  "text": "J'ai trouvé la boucle d'oreille que tu avais perdue."
+ },
+ {
+  "n": 46,
+  "id": 1628660,
+  "lang": "fra",
+  "text": "Vous m'avez touchée au cœur."
+ },
+ {
+  "n": 47,
+  "id": 7072078,
+  "lang": "fra",
+  "text": "Tom fouilla la pièce."
+ },
+ {
+  "n": 48,
+  "id": 11766316,
+  "lang": "fra",
+  "text": "Je me suis tenu tranquille et n'ai rien dit."
+ },
+ {
+  "n": 49,
+  "id": 1984234,
+  "lang": "fra",
+  "text": "Je n'arrive pas à croire que votre mère vous aie laissé vous en aller."
+ },
+ {
+  "n": 50,
+  "id": 6144966,
+  "lang": "rus",
+  "text": "Давно вы этим занимаетесь?"
+ },
+ {
+  "n": 51,
+  "id": 13058126,
+  "lang": "rus",
+  "text": "Вы можете мне помочь? Я не знаю, как запустить эту машину."
+ },
+ {
+  "n": 52,
+  "id": 808058,
+  "lang": "fra",
+  "text": "« Désires-tu un autre morceau de gâteau ? » « Oui, s'il vous plait. »"
+ },
+ {
+  "n": 53,
+  "id": 13732,
+  "lang": "fra",
+  "text": "De quel droit me parlez-vous sur ce ton ?"
+ },
+ {
+  "n": 54,
+  "id": 1911647,
+  "lang": "fra",
+  "text": "Comment payeras-tu vos dettes ?"
+ },
+ {
+  "n": 55,
+  "id": 3145,
+  "lang": "fra",
+  "text": "Dépêche-toi !"
+ },
+ {
+  "n": 56,
+  "id": 12389167,
+  "lang": "rus",
+  "text": "Ты почему отцу не отвечаешь?"
+ },
+ {
+  "n": 57,
+  "id": 3695581,
+  "lang": "rus",
+  "text": "Тебе не следует есть здесь."
+ },
+ {
+  "n": 58,
+  "id": 5621670,
+  "lang": "rus",
+  "text": "Вы сюда каждый день приходите?"
+ },
+ {
+  "n": 59,
+  "id": 2596806,
+  "lang": "rus",
+  "text": "Где тебе будет удобно?"
+ },
+ {
+  "n": 60,
+  "id": 3877113,
+  "lang": "rus",
+  "text": "Ты здесь?"
+ },
+ {
+  "n": 61,
+  "id": 3785239,
+  "lang": "rus",
+  "text": "\"Почему вы мне не сказали?\" - \"Ты не спрашивал\"."
+ },
+ {
+  "n": 62,
+  "id": 2187790,
+  "lang": "fra",
+  "text": "Combien êtes-vous dans ta famille ?"
+ },
+ {
+  "n": 63,
+  "id": 9938661,
+  "lang": "fra",
+  "text": "Ta nouvelle coiffure me plaît."
+ },
+ {
+  "n": 64,
+  "id": 2493899,
+  "lang": "rus",
+  "text": "Не хочу сегодня учиться."
+ },
+ {
+  "n": 65,
+  "id": 4353900,
+  "lang": "rus",
+  "text": "Вам разве не холодно с короткими рукавами?"
+ },
+ {
+  "n": 66,
+  "id": 181183,
+  "lang": "fra",
+  "text": "Je ne t'oublierai jamais."
+ },
+ {
+  "n": 67,
+  "id": 653818,
+  "lang": "fra",
+  "text": "Avant de commencer, planifie ton travail."
+ },
+ {
+  "n": 68,
+  "id": 1364541,
+  "lang": "fra",
+  "text": "Voudriez-vous aller prendre un verre ?"
+ },
+ {
+  "n": 69,
+  "id": 7810263,
+  "lang": "rus",
+  "text": "Почему ты не сказал мне, что вы в Нью-Йорке?"
+ },
+ {
+  "n": 70,
+  "id": 612196,
+  "lang": "rus",
+  "text": "Тебе осталось жить десять секунд."
+ },
+ {
+  "n": 71,
+  "id": 4957707,
+  "lang": "fra",
+  "text": "Un chien nous suit."
+ },
+ {
+  "n": 72,
+  "id": 1650297,
+  "lang": "fra",
+  "text": "Je pense souvent à elle."
+ },
+ {
+  "n": 73,
+  "id": 2253683,
+  "lang": "fra",
+  "text": "Je vous ai vu avec lui."
+ },
+ {
+  "n": 74,
+  "id": 2040898,
+  "lang": "fra",
+  "text": "Ne vous torturez pas !"
+ },
+ {
+  "n": 75,
+  "id": 2035524,
+  "lang": "fra",
+  "text": "Je ne peux pas te dire à quel point je suis heureuse que vous soyez venus nous rendre visite."
+ },
+ {
+  "n": 76,
+  "id": 4236863,
+  "lang": "fra",
+  "text": "Si vous voulez rester ici, vous êtes bienvenu."
+ },
+ {
+  "n": 77,
+  "id": 6634381,
+  "lang": "rus",
+  "text": "Ух ты! Вы так похудели."
+ },
+ {
+  "n": 78,
+  "id": 6936943,
+  "lang": "fra",
+  "text": "Nous allons découvrir qui a fait cela."
+ },
+ {
+  "n": 79,
+  "id": 5010965,
+  "lang": "rus",
+  "text": "Хотите — верьте, хотите — нет."
+ },
+ {
+  "n": 80,
+  "id": 5973063,
+  "lang": "rus",
+  "text": "Я видел, как вы с ними разговаривали."
+ }
+]

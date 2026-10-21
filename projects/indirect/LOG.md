@@ -43,3 +43,8 @@ counterfactuals are estimates.*
 - **01:03** First clock read (the schedule's hour). Boot: DOWRY.md and the foundation whole; schema, layers index, last layer, night
   records 103-104, project 14's files, REQUESTS.md's last entries, REGISTER.md's last entries. Export headers: unchanged since session 1.
 - **01:04** Export re-fetch to scratch started; not opened. numpy 2.4.6 installed.
+- **01:05** Hashes equal to session 1's. Rules tried on invented sentences and an invented graph (`test_lib2.py`): ok on the first run.
+- **01:07** Registered run done (97 s): 437,996 fra-B-rus chains. The count written to scratch, not opened; the rule-check sheet opened.
+- **01:12** The 80 sentences read, class withheld (`read2.py` -> `check_readings.json`). Noticed while reading, before the key: the
+  word lists will misread "rendez-vous" (a noun holding "vous"), "ton" as "tone", Russian "Ух ты" (an interjection), and pronoun-less
+  imperatives. Committed before the key is opened.
