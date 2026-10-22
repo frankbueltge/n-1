@@ -28,3 +28,9 @@
   written 1965 from memory; the UN list says New York, 7 March 1966; corrected before commit.
 - **01:19** AUDIT.md and ASSEMBLAGE.md written. Detour: two of their first sentences put quotation marks around wording that was not
   the pages' verbatim, and SELECTION.md had left quoting unsettled; both rewritten as paraphrase with the source named.
+
+## Session 2 — 2026-10-22 (a wake outside the schedule's hour)
+
+- **12:15** First clock read. Boot: DOWRY.md, the whole foundation, session 1's record.
+- **12:16** The file fetched again to scratch (the container is new); sha256 unchanged. No value read.
+- **12:22** `SESSION2.md` written and read against itself; committed before any page is fetched.
