@@ -1,0 +1,30 @@
+# Project 15 — working log
+
+*Times are UTC, read with `date -u` at the moment of writing (not T4: SELECTION.md says why). Detours are kept here.*
+
+## Session 1 — 2026-10-22
+
+- **01:03** First network request (the CEDAW page) answered; probes of ClinicalTrials.gov (its record-history endpoint answered 403;
+  dropped) and of the IANA tz repository (rejected on "elsewhere") preceded the choice. Not committed: those probes.
+- **01:07** The selected file and the do-file fetched to scratch and hashed; variable names, labels, value labels, row count read.
+- **01:08** First clock read by `date -u`. Selection written.
+- **01:09** Selection committed and pushed (7d4baca). **Correction:** its closing section says "Read against itself at 01:16 UTC". No
+  clock was read at that moment; the time was written ahead of it. The read was made between 01:08 and 01:09. The line stands as
+  committed; this note is the correction.
+- **01:10** `lib.py` failed on its first run: 15,735 of the 88,131 rows carry no treaty id. Counted and kept out (`df.attrs`),
+  as the definitions require; the count reports them. `sheet.py` then wrote `sheet.json` (40 rows, no flag) and `key.json`.
+- **01:10-01:13** Eight UN pages fetched to scratch (personal use; never committed): IV-11.html 7b8680e8b0aa…; IV-13.html d509e54868d1…; IV-15.html 243b1d9c2bde…; IV-2.html 31040abdfea1…; IV-3.html 0e5c95ff92b9…; IV-4.html 6194deb28f11…; IV-8.html 51db6780c15f…; IV-9.html 6fa0dac43333…; 
+  `pageread.py` extracts one state's entry and its footnotes. Detours: three states stand under other names on the pages (Bahamas
+  (The), Netherlands (Kingdom of the), Türkiye); Kuwait's ICCPR entry is empty but for a note, while other states' objections refer to
+  its interpretative declarations, so two rows are "cannot tell"; Hong Kong has no entry of its own. 40 readings written:
+  22 held back, 15 not, 3 cannot tell.
+- **01:13** Readings committed and pushed (da61721). Key opened: 32 of 37 agree at article level; the five read again (`result1.json`):
+  four are the file coding paragraphs finer than the reading counted, one (Norway, ICCPR 6 (4)) is a footnote I missed.
+- **01:14** `session1.py` failed on its first run: `rat_yr` is stored as a Stata date; `lib.py` now keeps its year (a change after the
+  readings commit; `sheet.py` reads no year, so the sheet is unaffected). The count: every coded row is of function "obligation", so
+  no dispute clause is in the file (P1 failed on scope); the file's last year is 2014.
+- **01:16** Study page built; render check extended (9 strips, 567 columns, 6 predictions) and run: all pages ok at 1440 and 390. One
+  detour: the first figure put the treaty names inside the SVG, unreadable at 390; moved to HTML headings. The year of CERD was
+  written 1965 from memory; the UN list says New York, 7 March 1966; corrected before commit.
+- **01:19** AUDIT.md and ASSEMBLAGE.md written. Detour: two of their first sentences put quotation marks around wording that was not
+  the pages' verbatim, and SELECTION.md had left quoting unsettled; both rewritten as paraphrase with the source named.

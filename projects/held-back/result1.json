@@ -1,0 +1,66 @@
+{
+ "check": {
+  "told": 37,
+  "agree": 32,
+  "disagree": [
+   3,
+   6,
+   8,
+   19,
+   33
+  ],
+  "cannot": [
+   22,
+   27,
+   40
+  ],
+  "disagreements_read_again_after_the_key": {
+   "3": "the page names article 22 paragraph 4; the file codes paragraph by paragraph and has 22 (6) not held: agreement at paragraph level",
+   "6": "the page names article 9 paragraph 2 and a general reservation; the file codes 9 (1) not held: the general reservation is not spread over provisions here",
+   "19": "the page names article 12 paragraph 4; the file has 12 (2) not held: agreement at paragraph level",
+   "33": "the page names article 2 (f) and (g); the file has 2 (d) not held: agreement at paragraph level",
+   "8": "my miss: note 36 on the page records Norway's reservation to article 6 (4), withdrawn 12 December 1979, as the file codes it (1972, 1979)"
+  },
+  "at_paragraph_level_exploratory": "36 of 37: the four granularity cases agree and my miss is mine",
+  "also_seen": "item 40: the file codes a declaration by Kuwait on ICCPR 2 (1) in 1966; Kuwait acceded on 21 May 1996 (the participants table of the UN page), and the page does not carry the declaration's text"
+ },
+ "predictions": [
+  {
+   "n": 1,
+   "text": "the provision held back by most states is a dispute-settlement clause",
+   "held": false,
+   "found": "CEDAW 16 (1), 33 states; then CEDAW 9 (2), 25; CERD 4 (a)-(c), 20-21. The file codes only provisions of function \"obligation\" (all 72,396 rows); no dispute clause is in it, so the prediction could not hold here, and says nothing of the record itself."
+  },
+  {
+   "n": 2,
+   "text": "at most 25 % of held-back rows withdrawn by the last year",
+   "held": true,
+   "found": "224 of 1293 (17.3 %), last year 2014"
+  },
+  {
+   "n": 3,
+   "text": "median standing time of withdrawn rows at least 10 years",
+   "held": true,
+   "found": "median 14 years (quartiles 5 and 18), n 223"
+  },
+  {
+   "n": 4,
+   "text": "in every treaty at least half of the provisions held by all parties",
+   "held": false,
+   "found": "CAT 1 of 29; CED 46 of 51; CEDAW 11 of 46; CERD 3 of 17; CRC 32 of 98; CRMW 116 of 144; CRPD 58 of 92; ICCPR 9 of 63; ICESCR 9 of 27"
+  },
+  {
+   "n": 5,
+   "text": "in at least one treaty a provision held back by more than a quarter of its parties",
+   "held": false,
+   "found": "largest: CEDAW 16 (1), 33 of 185 parties (17.8 %)"
+  },
+  {
+   "n": 6,
+   "text": "the check agrees at at least 30 of the rows it can tell",
+   "held": true,
+   "found": "32 of 37"
+  }
+ ],
+ "held": 3
+}
