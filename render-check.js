@@ -407,6 +407,22 @@ const PAGES = [
     ok: (r) => r.first === '2014' && r.yr === 'October 2026' && r.rows === 9 && r.cells === 567 && r.on === 261 && r.gone === 44 &&
       r.back === 2 && r.gen === 47 && r.fits && r.min_font >= 11,
   },
+  {
+    // project 16, session 1 (2026-10-22): Why stopped (the study), built by projects/why-stopped/build.py; two inline SVGs: 142 month
+    // columns (2015-01 to 2026-10), and 94 lines for reasons naming a pandemic on studies the register ends before 2020; six predictions.
+    path: 'projects/why-stopped/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        months: s[0] ? s[0].querySelectorAll('g').length : 0,
+        lines: s[1] ? s[1].querySelectorAll('g line').length : 0,
+        preds: document.querySelectorAll('ul.pr li').length,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 2 && r.months === 142 && r.lines === 94 && r.preds === 6 && r.min_font >= 11,
+  },
 ];
 
 (async () => {

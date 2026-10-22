@@ -1,0 +1,1065 @@
+{
+ "data": "ClinicalTrials.gov API v2, processed 2026-10-22T09:00:04 (see fetch_log.json)",
+ "stopped": 53251,
+ "by_status": {
+  "TERMINATED": 34559,
+  "WITHDRAWN": 16914,
+  "SUSPENDED": 1778
+ },
+ "with_reason": 47429,
+ "without_reason": 5822,
+ "flagged_all": 2642,
+ "flagged_by_status": {
+  "WITHDRAWN": 687,
+  "TERMINATED": 1757,
+  "SUSPENDED": 198
+ },
+ "terminated_withdrawn_with_reason_and_stop_month": 36404,
+ "with_reason_no_stop_month": {
+  "WITHDRAWN": 8992,
+  "TERMINATED": 412,
+  "SUSPENDED": 1621
+ },
+ "first_flagged_month": "2007-11",
+ "top_months": [
+  [
+   "2020-03",
+   200
+  ],
+  [
+   "2020-06",
+   78
+  ],
+  [
+   "2020-04",
+   70
+  ],
+  [
+   "2020-12",
+   66
+  ],
+  [
+   "2020-05",
+   63
+  ]
+ ],
+ "half_years": {
+  "2019H1": {
+   "reasons": 1034,
+   "flagged": 19,
+   "share": 0.0184
+  },
+  "2019H2": {
+   "reasons": 1104,
+   "flagged": 49,
+   "share": 0.0444
+  },
+  "2020H1": {
+   "reasons": 1475,
+   "flagged": 465,
+   "share": 0.3153
+  },
+  "2020H2": {
+   "reasons": 1282,
+   "flagged": 302,
+   "share": 0.2356
+  },
+  "2021H1": {
+   "reasons": 1308,
+   "flagged": 264,
+   "share": 0.2018
+  },
+  "2021H2": {
+   "reasons": 1269,
+   "flagged": 248,
+   "share": 0.1954
+  },
+  "2022H1": {
+   "reasons": 1304,
+   "flagged": 194,
+   "share": 0.1488
+  },
+  "2022H2": {
+   "reasons": 1417,
+   "flagged": 160,
+   "share": 0.1129
+  },
+  "2023H1": {
+   "reasons": 1397,
+   "flagged": 117,
+   "share": 0.0838
+  },
+  "2023H2": {
+   "reasons": 1301,
+   "flagged": 74,
+   "share": 0.0569
+  },
+  "2024H1": {
+   "reasons": 1225,
+   "flagged": 35,
+   "share": 0.0286
+  },
+  "2024H2": {
+   "reasons": 1191,
+   "flagged": 26,
+   "share": 0.0218
+  },
+  "2025H1": {
+   "reasons": 1099,
+   "flagged": 20,
+   "share": 0.0182
+  },
+  "2025H2": {
+   "reasons": 913,
+   "flagged": 10,
+   "share": 0.011
+  },
+  "2026H1": {
+   "reasons": 710,
+   "flagged": 2,
+   "share": 0.0028
+  },
+  "2026H2": {
+   "reasons": 233,
+   "flagged": 0,
+   "share": 0.0
+  }
+ },
+ "years": {
+  "2015": {
+   "reasons": 1680,
+   "flagged": 3,
+   "share": 0.0018
+  },
+  "2016": {
+   "reasons": 1794,
+   "flagged": 1,
+   "share": 0.0006
+  },
+  "2017": {
+   "reasons": 1964,
+   "flagged": 2,
+   "share": 0.001
+  },
+  "2018": {
+   "reasons": 2063,
+   "flagged": 12,
+   "share": 0.0058
+  },
+  "2019": {
+   "reasons": 2138,
+   "flagged": 68,
+   "share": 0.0318
+  },
+  "2020": {
+   "reasons": 2757,
+   "flagged": 767,
+   "share": 0.2782
+  },
+  "2021": {
+   "reasons": 2577,
+   "flagged": 512,
+   "share": 0.1987
+  },
+  "2022": {
+   "reasons": 2721,
+   "flagged": 354,
+   "share": 0.1301
+  },
+  "2023": {
+   "reasons": 2698,
+   "flagged": 191,
+   "share": 0.0708
+  },
+  "2024": {
+   "reasons": 2416,
+   "flagged": 61,
+   "share": 0.0252
+  },
+  "2025": {
+   "reasons": 2012,
+   "flagged": 30,
+   "share": 0.0149
+  },
+  "2026": {
+   "reasons": 943,
+   "flagged": 2,
+   "share": 0.0021
+  }
+ },
+ "anachronisms": {
+  "count": 95,
+  "by_stop_year": {
+   "2007": 1,
+   "2009": 1,
+   "2010": 3,
+   "2011": 1,
+   "2012": 3,
+   "2015": 3,
+   "2016": 1,
+   "2017": 2,
+   "2018": 12,
+   "2019": 68
+  },
+  "nct": [
+   "NCT00562237",
+   "NCT01171157",
+   "NCT01033955",
+   "NCT01798602",
+   "NCT01032837",
+   "NCT01014364",
+   "NCT01241617",
+   "NCT00976027",
+   "NCT01069601",
+   "NCT02732457",
+   "NCT02665338",
+   "NCT02219581",
+   "NCT02341287",
+   "NCT02562092",
+   "NCT04115644",
+   "NCT02547298",
+   "NCT02816255",
+   "NCT02732288",
+   "NCT03139318",
+   "NCT03120325",
+   "NCT02538315",
+   "NCT03464604",
+   "NCT03270709",
+   "NCT04308954",
+   "NCT03762317",
+   "NCT03286426",
+   "NCT03424512",
+   "NCT02742844",
+   "NCT03037450",
+   "NCT03647085",
+   "NCT02813447",
+   "NCT03170557",
+   "NCT04164043",
+   "NCT02769000",
+   "NCT03547427",
+   "NCT03462004",
+   "NCT03831139",
+   "NCT02510885",
+   "NCT03423537",
+   "NCT03699202",
+   "NCT02586519",
+   "NCT03382184",
+   "NCT03562767",
+   "NCT02832752",
+   "NCT03567837",
+   "NCT03867188",
+   "NCT03453242",
+   "NCT02465034",
+   "NCT03860753",
+   "NCT04061369",
+   "NCT03259568",
+   "NCT03083977",
+   "NCT03608163",
+   "NCT03972813",
+   "NCT03353792",
+   "NCT02322099",
+   "NCT03523663",
+   "NCT03863587",
+   "NCT03099265",
+   "NCT03036579",
+   "NCT03529799",
+   "NCT02924389",
+   "NCT03702816",
+   "NCT03049111",
+   "NCT02033941",
+   "NCT03304184",
+   "NCT03366220",
+   "NCT02608307",
+   "NCT03637595",
+   "NCT02576444",
+   "NCT03004443",
+   "NCT04069000",
+   "NCT03362021",
+   "NCT01985022",
+   "NCT00793884",
+   "NCT03780387",
+   "NCT02865928",
+   "NCT04070157",
+   "NCT03584802",
+   "NCT04097353",
+   "NCT04060225",
+   "NCT06619795",
+   "NCT03334669",
+   "NCT04114422",
+   "NCT03708237",
+   "NCT02572570",
+   "NCT03100370",
+   "NCT03867045",
+   "NCT03749226",
+   "NCT04156516",
+   "NCT02409238",
+   "NCT02277782",
+   "NCT05129163",
+   "NCT03976557",
+   "NCT03058211"
+  ]
+ },
+ "suspended": {
+  "with_reason": 1621,
+  "flagged": 198,
+  "flagged_by_last_update_year": {
+   "2026": 18,
+   "2021": 57,
+   "2023": 25,
+   "2024": 13,
+   "2020": 38,
+   "2025": 12,
+   "2022": 35
+  }
+ },
+ "monthly": [
+  {
+   "m": "2015-01",
+   "reasons": 127,
+   "flagged": 0
+  },
+  {
+   "m": "2015-02",
+   "reasons": 102,
+   "flagged": 1
+  },
+  {
+   "m": "2015-03",
+   "reasons": 136,
+   "flagged": 0
+  },
+  {
+   "m": "2015-04",
+   "reasons": 117,
+   "flagged": 0
+  },
+  {
+   "m": "2015-05",
+   "reasons": 118,
+   "flagged": 0
+  },
+  {
+   "m": "2015-06",
+   "reasons": 174,
+   "flagged": 1
+  },
+  {
+   "m": "2015-07",
+   "reasons": 150,
+   "flagged": 0
+  },
+  {
+   "m": "2015-08",
+   "reasons": 136,
+   "flagged": 0
+  },
+  {
+   "m": "2015-09",
+   "reasons": 129,
+   "flagged": 0
+  },
+  {
+   "m": "2015-10",
+   "reasons": 134,
+   "flagged": 0
+  },
+  {
+   "m": "2015-11",
+   "reasons": 124,
+   "flagged": 0
+  },
+  {
+   "m": "2015-12",
+   "reasons": 233,
+   "flagged": 1
+  },
+  {
+   "m": "2016-01",
+   "reasons": 150,
+   "flagged": 0
+  },
+  {
+   "m": "2016-02",
+   "reasons": 116,
+   "flagged": 0
+  },
+  {
+   "m": "2016-03",
+   "reasons": 143,
+   "flagged": 0
+  },
+  {
+   "m": "2016-04",
+   "reasons": 140,
+   "flagged": 1
+  },
+  {
+   "m": "2016-05",
+   "reasons": 133,
+   "flagged": 0
+  },
+  {
+   "m": "2016-06",
+   "reasons": 187,
+   "flagged": 0
+  },
+  {
+   "m": "2016-07",
+   "reasons": 128,
+   "flagged": 0
+  },
+  {
+   "m": "2016-08",
+   "reasons": 137,
+   "flagged": 0
+  },
+  {
+   "m": "2016-09",
+   "reasons": 149,
+   "flagged": 0
+  },
+  {
+   "m": "2016-10",
+   "reasons": 140,
+   "flagged": 0
+  },
+  {
+   "m": "2016-11",
+   "reasons": 148,
+   "flagged": 0
+  },
+  {
+   "m": "2016-12",
+   "reasons": 223,
+   "flagged": 0
+  },
+  {
+   "m": "2017-01",
+   "reasons": 171,
+   "flagged": 0
+  },
+  {
+   "m": "2017-02",
+   "reasons": 144,
+   "flagged": 0
+  },
+  {
+   "m": "2017-03",
+   "reasons": 168,
+   "flagged": 0
+  },
+  {
+   "m": "2017-04",
+   "reasons": 160,
+   "flagged": 0
+  },
+  {
+   "m": "2017-05",
+   "reasons": 168,
+   "flagged": 0
+  },
+  {
+   "m": "2017-06",
+   "reasons": 148,
+   "flagged": 0
+  },
+  {
+   "m": "2017-07",
+   "reasons": 150,
+   "flagged": 0
+  },
+  {
+   "m": "2017-08",
+   "reasons": 161,
+   "flagged": 1
+  },
+  {
+   "m": "2017-09",
+   "reasons": 143,
+   "flagged": 1
+  },
+  {
+   "m": "2017-10",
+   "reasons": 152,
+   "flagged": 0
+  },
+  {
+   "m": "2017-11",
+   "reasons": 156,
+   "flagged": 0
+  },
+  {
+   "m": "2017-12",
+   "reasons": 243,
+   "flagged": 0
+  },
+  {
+   "m": "2018-01",
+   "reasons": 179,
+   "flagged": 1
+  },
+  {
+   "m": "2018-02",
+   "reasons": 134,
+   "flagged": 0
+  },
+  {
+   "m": "2018-03",
+   "reasons": 159,
+   "flagged": 1
+  },
+  {
+   "m": "2018-04",
+   "reasons": 152,
+   "flagged": 0
+  },
+  {
+   "m": "2018-05",
+   "reasons": 184,
+   "flagged": 0
+  },
+  {
+   "m": "2018-06",
+   "reasons": 146,
+   "flagged": 1
+  },
+  {
+   "m": "2018-07",
+   "reasons": 195,
+   "flagged": 0
+  },
+  {
+   "m": "2018-08",
+   "reasons": 160,
+   "flagged": 2
+  },
+  {
+   "m": "2018-09",
+   "reasons": 159,
+   "flagged": 1
+  },
+  {
+   "m": "2018-10",
+   "reasons": 175,
+   "flagged": 2
+  },
+  {
+   "m": "2018-11",
+   "reasons": 160,
+   "flagged": 0
+  },
+  {
+   "m": "2018-12",
+   "reasons": 260,
+   "flagged": 4
+  },
+  {
+   "m": "2019-01",
+   "reasons": 191,
+   "flagged": 3
+  },
+  {
+   "m": "2019-02",
+   "reasons": 136,
+   "flagged": 3
+  },
+  {
+   "m": "2019-03",
+   "reasons": 168,
+   "flagged": 5
+  },
+  {
+   "m": "2019-04",
+   "reasons": 154,
+   "flagged": 2
+  },
+  {
+   "m": "2019-05",
+   "reasons": 188,
+   "flagged": 4
+  },
+  {
+   "m": "2019-06",
+   "reasons": 197,
+   "flagged": 2
+  },
+  {
+   "m": "2019-07",
+   "reasons": 185,
+   "flagged": 2
+  },
+  {
+   "m": "2019-08",
+   "reasons": 169,
+   "flagged": 7
+  },
+  {
+   "m": "2019-09",
+   "reasons": 172,
+   "flagged": 8
+  },
+  {
+   "m": "2019-10",
+   "reasons": 181,
+   "flagged": 5
+  },
+  {
+   "m": "2019-11",
+   "reasons": 147,
+   "flagged": 11
+  },
+  {
+   "m": "2019-12",
+   "reasons": 250,
+   "flagged": 16
+  },
+  {
+   "m": "2020-01",
+   "reasons": 183,
+   "flagged": 13
+  },
+  {
+   "m": "2020-02",
+   "reasons": 213,
+   "flagged": 41
+  },
+  {
+   "m": "2020-03",
+   "reasons": 413,
+   "flagged": 200
+  },
+  {
+   "m": "2020-04",
+   "reasons": 204,
+   "flagged": 70
+  },
+  {
+   "m": "2020-05",
+   "reasons": 195,
+   "flagged": 63
+  },
+  {
+   "m": "2020-06",
+   "reasons": 267,
+   "flagged": 78
+  },
+  {
+   "m": "2020-07",
+   "reasons": 230,
+   "flagged": 49
+  },
+  {
+   "m": "2020-08",
+   "reasons": 190,
+   "flagged": 49
+  },
+  {
+   "m": "2020-09",
+   "reasons": 195,
+   "flagged": 47
+  },
+  {
+   "m": "2020-10",
+   "reasons": 203,
+   "flagged": 55
+  },
+  {
+   "m": "2020-11",
+   "reasons": 188,
+   "flagged": 36
+  },
+  {
+   "m": "2020-12",
+   "reasons": 276,
+   "flagged": 66
+  },
+  {
+   "m": "2021-01",
+   "reasons": 199,
+   "flagged": 35
+  },
+  {
+   "m": "2021-02",
+   "reasons": 228,
+   "flagged": 56
+  },
+  {
+   "m": "2021-03",
+   "reasons": 219,
+   "flagged": 53
+  },
+  {
+   "m": "2021-04",
+   "reasons": 213,
+   "flagged": 42
+  },
+  {
+   "m": "2021-05",
+   "reasons": 206,
+   "flagged": 27
+  },
+  {
+   "m": "2021-06",
+   "reasons": 243,
+   "flagged": 51
+  },
+  {
+   "m": "2021-07",
+   "reasons": 183,
+   "flagged": 41
+  },
+  {
+   "m": "2021-08",
+   "reasons": 179,
+   "flagged": 47
+  },
+  {
+   "m": "2021-09",
+   "reasons": 219,
+   "flagged": 36
+  },
+  {
+   "m": "2021-10",
+   "reasons": 199,
+   "flagged": 39
+  },
+  {
+   "m": "2021-11",
+   "reasons": 186,
+   "flagged": 28
+  },
+  {
+   "m": "2021-12",
+   "reasons": 303,
+   "flagged": 57
+  },
+  {
+   "m": "2022-01",
+   "reasons": 196,
+   "flagged": 35
+  },
+  {
+   "m": "2022-02",
+   "reasons": 179,
+   "flagged": 27
+  },
+  {
+   "m": "2022-03",
+   "reasons": 249,
+   "flagged": 38
+  },
+  {
+   "m": "2022-04",
+   "reasons": 221,
+   "flagged": 31
+  },
+  {
+   "m": "2022-05",
+   "reasons": 216,
+   "flagged": 24
+  },
+  {
+   "m": "2022-06",
+   "reasons": 243,
+   "flagged": 39
+  },
+  {
+   "m": "2022-07",
+   "reasons": 237,
+   "flagged": 38
+  },
+  {
+   "m": "2022-08",
+   "reasons": 203,
+   "flagged": 21
+  },
+  {
+   "m": "2022-09",
+   "reasons": 224,
+   "flagged": 21
+  },
+  {
+   "m": "2022-10",
+   "reasons": 201,
+   "flagged": 20
+  },
+  {
+   "m": "2022-11",
+   "reasons": 234,
+   "flagged": 17
+  },
+  {
+   "m": "2022-12",
+   "reasons": 318,
+   "flagged": 43
+  },
+  {
+   "m": "2023-01",
+   "reasons": 240,
+   "flagged": 17
+  },
+  {
+   "m": "2023-02",
+   "reasons": 214,
+   "flagged": 19
+  },
+  {
+   "m": "2023-03",
+   "reasons": 259,
+   "flagged": 23
+  },
+  {
+   "m": "2023-04",
+   "reasons": 206,
+   "flagged": 17
+  },
+  {
+   "m": "2023-05",
+   "reasons": 237,
+   "flagged": 20
+  },
+  {
+   "m": "2023-06",
+   "reasons": 241,
+   "flagged": 21
+  },
+  {
+   "m": "2023-07",
+   "reasons": 193,
+   "flagged": 13
+  },
+  {
+   "m": "2023-08",
+   "reasons": 204,
+   "flagged": 13
+  },
+  {
+   "m": "2023-09",
+   "reasons": 206,
+   "flagged": 9
+  },
+  {
+   "m": "2023-10",
+   "reasons": 213,
+   "flagged": 10
+  },
+  {
+   "m": "2023-11",
+   "reasons": 226,
+   "flagged": 11
+  },
+  {
+   "m": "2023-12",
+   "reasons": 259,
+   "flagged": 18
+  },
+  {
+   "m": "2024-01",
+   "reasons": 212,
+   "flagged": 4
+  },
+  {
+   "m": "2024-02",
+   "reasons": 204,
+   "flagged": 8
+  },
+  {
+   "m": "2024-03",
+   "reasons": 201,
+   "flagged": 8
+  },
+  {
+   "m": "2024-04",
+   "reasons": 214,
+   "flagged": 8
+  },
+  {
+   "m": "2024-05",
+   "reasons": 209,
+   "flagged": 3
+  },
+  {
+   "m": "2024-06",
+   "reasons": 185,
+   "flagged": 4
+  },
+  {
+   "m": "2024-07",
+   "reasons": 191,
+   "flagged": 7
+  },
+  {
+   "m": "2024-08",
+   "reasons": 195,
+   "flagged": 4
+  },
+  {
+   "m": "2024-09",
+   "reasons": 165,
+   "flagged": 2
+  },
+  {
+   "m": "2024-10",
+   "reasons": 195,
+   "flagged": 2
+  },
+  {
+   "m": "2024-11",
+   "reasons": 199,
+   "flagged": 3
+  },
+  {
+   "m": "2024-12",
+   "reasons": 246,
+   "flagged": 8
+  },
+  {
+   "m": "2025-01",
+   "reasons": 195,
+   "flagged": 2
+  },
+  {
+   "m": "2025-02",
+   "reasons": 182,
+   "flagged": 4
+  },
+  {
+   "m": "2025-03",
+   "reasons": 197,
+   "flagged": 4
+  },
+  {
+   "m": "2025-04",
+   "reasons": 182,
+   "flagged": 7
+  },
+  {
+   "m": "2025-05",
+   "reasons": 182,
+   "flagged": 2
+  },
+  {
+   "m": "2025-06",
+   "reasons": 161,
+   "flagged": 1
+  },
+  {
+   "m": "2025-07",
+   "reasons": 186,
+   "flagged": 1
+  },
+  {
+   "m": "2025-08",
+   "reasons": 124,
+   "flagged": 2
+  },
+  {
+   "m": "2025-09",
+   "reasons": 147,
+   "flagged": 4
+  },
+  {
+   "m": "2025-10",
+   "reasons": 144,
+   "flagged": 1
+  },
+  {
+   "m": "2025-11",
+   "reasons": 111,
+   "flagged": 0
+  },
+  {
+   "m": "2025-12",
+   "reasons": 201,
+   "flagged": 2
+  },
+  {
+   "m": "2026-01",
+   "reasons": 121,
+   "flagged": 0
+  },
+  {
+   "m": "2026-02",
+   "reasons": 129,
+   "flagged": 0
+  },
+  {
+   "m": "2026-03",
+   "reasons": 130,
+   "flagged": 0
+  },
+  {
+   "m": "2026-04",
+   "reasons": 131,
+   "flagged": 1
+  },
+  {
+   "m": "2026-05",
+   "reasons": 94,
+   "flagged": 0
+  },
+  {
+   "m": "2026-06",
+   "reasons": 105,
+   "flagged": 1
+  },
+  {
+   "m": "2026-07",
+   "reasons": 81,
+   "flagged": 0
+  },
+  {
+   "m": "2026-08",
+   "reasons": 64,
+   "flagged": 0
+  },
+  {
+   "m": "2026-09",
+   "reasons": 72,
+   "flagged": 0
+  },
+  {
+   "m": "2026-10",
+   "reasons": 16,
+   "flagged": 0
+  }
+ ],
+ "predictions": {
+  "P1": {
+   "registered": ">= 4000 flagged stated reasons",
+   "value": 2642,
+   "held": false
+  },
+  "P2": {
+   "registered": "most-flagged stop month is 2020-03 or 2020-04",
+   "value": [
+    "2020-03",
+    200
+   ],
+   "held": true
+  },
+  "P3": {
+   "registered": ">= 30 % flagged in 2020H1 (terminated, withdrawn)",
+   "value": {
+    "reasons": 1475,
+    "flagged": 465,
+    "share": 0.3153
+   },
+   "held": true
+  },
+  "P4": {
+   "registered": ">= 1 % flagged in stop year 2025",
+   "value": {
+    "reasons": 2012,
+    "flagged": 30,
+    "share": 0.0149
+   },
+   "held": true
+  },
+  "P5": {
+   "registered": ">= 10 anachronisms",
+   "value": 95,
+   "held": true
+  }
+ }
+}
