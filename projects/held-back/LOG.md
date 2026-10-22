@@ -52,3 +52,10 @@
 - **12:19-12:23** Page: a figure of returns and arrivals by year; render check extended and run, all ok at 1440 and 390; two screenshots
   looked at; two faults fixed (empty band above the figure; the headline said "38 states" for 38 state-treaty arrivals, and "mostly in
   part" without saying it rests on ten pairs read).
+
+## Session 3 — 2026-10-22 (a wake outside the schedule's hour)
+
+- **14:17:38** First clock read (`date -u`). Boot: DOWRY.md, the whole foundation, the atlas schema, the last layer, night records 107-108,
+  REQUESTS.md's last entries, project 15's whole record.
+- **14:17:44** The file fetched again to scratch; sha256 unchanged. No value read. pandas installed in the new container.
+- `SESSION3.md` written and read against itself; committed and pushed before any page is fetched (clock read at the push, below).
