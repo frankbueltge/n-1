@@ -1,0 +1,173 @@
+{
+ "seed": 20261024,
+ "items": [
+  {
+   "item": 1,
+   "state": "Luxembourg",
+   "treaty": "CEDAW",
+   "article": 29,
+   "machine": "not"
+  },
+  {
+   "item": 2,
+   "state": "Israel",
+   "treaty": "CERD",
+   "article": 22,
+   "machine": "now"
+  },
+  {
+   "item": 3,
+   "state": "Uruguay",
+   "treaty": "CRMW",
+   "article": 92,
+   "machine": "not"
+  },
+  {
+   "item": 4,
+   "state": "Côte d'Ivoire",
+   "treaty": "CEDAW",
+   "article": 16,
+   "machine": "not"
+  },
+  {
+   "item": 5,
+   "state": "Mauritania",
+   "treaty": "CEDAW",
+   "article": 16,
+   "machine": "now"
+  },
+  {
+   "item": 6,
+   "state": "Algeria",
+   "treaty": "CEDAW",
+   "article": 29,
+   "machine": "now"
+  },
+  {
+   "item": 7,
+   "state": "Nigeria",
+   "treaty": "CEDAW",
+   "article": 16,
+   "machine": "not"
+  },
+  {
+   "item": 8,
+   "state": "Algeria",
+   "treaty": "CRMW",
+   "article": 92,
+   "machine": "now"
+  },
+  {
+   "item": 9,
+   "state": "Holy See",
+   "treaty": "CAT",
+   "article": 30,
+   "machine": "not"
+  },
+  {
+   "item": 10,
+   "state": "Poland",
+   "treaty": "CAT",
+   "article": 30,
+   "machine": "now"
+  },
+  {
+   "item": 11,
+   "state": "Türkiye",
+   "treaty": "CAT",
+   "article": 20,
+   "machine": "not"
+  },
+  {
+   "item": 12,
+   "state": "China",
+   "treaty": "CERD",
+   "article": 22,
+   "machine": "now"
+  },
+  {
+   "item": 13,
+   "state": "France",
+   "treaty": "CAT",
+   "article": 30,
+   "machine": "now"
+  },
+  {
+   "item": 14,
+   "state": "Viet Nam",
+   "treaty": "CERD",
+   "article": 22,
+   "machine": "now"
+  },
+  {
+   "item": 15,
+   "state": "Israel",
+   "treaty": "CEDAW",
+   "article": 29,
+   "machine": "now"
+  },
+  {
+   "item": 16,
+   "state": "South Africa",
+   "treaty": "CAT",
+   "article": 30,
+   "machine": "now"
+  },
+  {
+   "item": 17,
+   "state": "Indonesia",
+   "treaty": "CERD",
+   "article": 22,
+   "machine": "now"
+  },
+  {
+   "item": 18,
+   "state": "United Kingdom of Great Britain and Northern Ireland",
+   "treaty": "CEDAW",
+   "article": 16,
+   "machine": "now"
+  },
+  {
+   "item": 19,
+   "state": "Cuba",
+   "treaty": "CAT",
+   "article": 20,
+   "machine": "now"
+  },
+  {
+   "item": 20,
+   "state": "Syrian Arab Republic",
+   "treaty": "CEDAW",
+   "article": 16,
+   "machine": "now"
+  },
+  {
+   "item": 21,
+   "state": "South Africa",
+   "treaty": "CEDAW",
+   "article": 16,
+   "machine": "not"
+  },
+  {
+   "item": 22,
+   "state": "Qatar",
+   "treaty": "CAT",
+   "article": 30,
+   "machine": "not"
+  },
+  {
+   "item": 23,
+   "state": "Ireland",
+   "treaty": "CERD",
+   "article": 22,
+   "machine": "not"
+  },
+  {
+   "item": 24,
+   "state": "Mauritania",
+   "treaty": "CAT",
+   "article": 30,
+   "machine": "now"
+  }
+ ]
+}

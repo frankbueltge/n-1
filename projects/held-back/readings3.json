@@ -1,0 +1,222 @@
+{
+ "read_by": "Remainder, by hand, before the key was opened; machine readings, estimates",
+ "estimate": true,
+ "items": [
+  {
+   "item": 1,
+   "state": "Luxembourg",
+   "treaty": "CEDAW",
+   "article": 29,
+   "reading": "not",
+   "low": false,
+   "remark": "the note withdraws reservations to articles 7 and 16; nothing on 29"
+  },
+  {
+   "item": 2,
+   "state": "Israel",
+   "treaty": "CERD",
+   "article": 22,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  },
+  {
+   "item": 3,
+   "state": "Uruguay",
+   "treaty": "CRMW",
+   "article": 92,
+   "reading": "not",
+   "low": false,
+   "remark": "the section accepts the Committee under article 77; nothing on 92"
+  },
+  {
+   "item": 4,
+   "state": "Côte d'Ivoire",
+   "treaty": "CEDAW",
+   "article": 16,
+   "reading": "not",
+   "low": false,
+   "remark": "no section"
+  },
+  {
+   "item": 5,
+   "state": "Mauritania",
+   "treaty": "CEDAW",
+   "article": 16,
+   "reading": "now",
+   "low": false,
+   "remark": "a general reservation partially withdrawn in 2014, kept for 13 (a) and 16"
+  },
+  {
+   "item": 6,
+   "state": "Algeria",
+   "treaty": "CEDAW",
+   "article": 29,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  },
+  {
+   "item": 7,
+   "state": "Nigeria",
+   "treaty": "CEDAW",
+   "article": 16,
+   "reading": "not",
+   "low": false,
+   "remark": "no section"
+  },
+  {
+   "item": 8,
+   "state": "Algeria",
+   "treaty": "CRMW",
+   "article": 92,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  },
+  {
+   "item": 9,
+   "state": "Holy See",
+   "treaty": "CAT",
+   "article": 30,
+   "reading": "not",
+   "low": false,
+   "remark": "a general declaration of compatibility; names no article"
+  },
+  {
+   "item": 10,
+   "state": "Poland",
+   "treaty": "CAT",
+   "article": 30,
+   "reading": "withdrawn",
+   "low": false,
+   "remark": "the withdrawal (19 December 2025) stands in the section text, not in a footnote"
+  },
+  {
+   "item": 11,
+   "state": "Türkiye",
+   "treaty": "CAT",
+   "article": 20,
+   "reading": "not",
+   "low": false,
+   "remark": "Türkiye refuses article 30 only"
+  },
+  {
+   "item": 12,
+   "state": "China",
+   "treaty": "CERD",
+   "article": 22,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  },
+  {
+   "item": 13,
+   "state": "France",
+   "treaty": "CAT",
+   "article": 30,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  },
+  {
+   "item": 14,
+   "state": "Viet Nam",
+   "treaty": "CERD",
+   "article": 22,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  },
+  {
+   "item": 15,
+   "state": "Israel",
+   "treaty": "CEDAW",
+   "article": 29,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  },
+  {
+   "item": 16,
+   "state": "South Africa",
+   "treaty": "CAT",
+   "article": 30,
+   "reading": "not",
+   "low": false,
+   "remark": "South Africa names article 30 to accept the Court, the opposite of holding it back"
+  },
+  {
+   "item": 17,
+   "state": "Indonesia",
+   "treaty": "CERD",
+   "article": 22,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  },
+  {
+   "item": 18,
+   "state": "United Kingdom of Great Britain and Northern Ireland",
+   "treaty": "CEDAW",
+   "article": 16,
+   "reading": "now",
+   "low": true,
+   "remark": "the declaration on 16 (1) (f) stands in the section; a declaration on 16 (1) was withdrawn in 1996, so part withdrawn, part standing"
+  },
+  {
+   "item": 19,
+   "state": "Cuba",
+   "treaty": "CAT",
+   "article": 20,
+   "reading": "now",
+   "low": true,
+   "remark": "a declaration under article 28 that article 20 be invoked only with the prior consent of states: conditions rather than refuses"
+  },
+  {
+   "item": 20,
+   "state": "Syrian Arab Republic",
+   "treaty": "CEDAW",
+   "article": 16,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  },
+  {
+   "item": 21,
+   "state": "South Africa",
+   "treaty": "CEDAW",
+   "article": 16,
+   "reading": "not",
+   "low": false,
+   "remark": "no section"
+  },
+  {
+   "item": 22,
+   "state": "Qatar",
+   "treaty": "CAT",
+   "article": 30,
+   "reading": "not",
+   "low": false,
+   "remark": "Qatar withdrew a general reservation in part and its refusal of articles 21 and 22; nothing on 30"
+  },
+  {
+   "item": 23,
+   "state": "Ireland",
+   "treaty": "CERD",
+   "article": 22,
+   "reading": "not",
+   "low": false,
+   "remark": "a declaration on article 4 only"
+  },
+  {
+   "item": 24,
+   "state": "Mauritania",
+   "treaty": "CAT",
+   "article": 30,
+   "reading": "now",
+   "low": false,
+   "remark": ""
+  }
+ ]
+}
