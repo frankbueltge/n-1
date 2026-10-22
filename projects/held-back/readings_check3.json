@@ -1,0 +1,146 @@
+{
+ "read_by": "Remainder, by hand, before the read set was tallied; machine readings, estimates",
+ "estimate": true,
+ "items": [
+  {
+   "n": 1,
+   "treaty": "CRPD",
+   "state": "Estonia",
+   "reading": "does not",
+   "remark": "interprets art. 12 only (not common)"
+  },
+  {
+   "n": 2,
+   "treaty": "ICESCR",
+   "state": "Romania",
+   "reading": "does not",
+   "remark": "arts. 26 (1), 1 (3), 14; objection to Qatar"
+  },
+  {
+   "n": 3,
+   "treaty": "CERD",
+   "state": "Poland",
+   "reading": "does not",
+   "remark": "arts. 17-18 (participation); art. 14 acceptance"
+  },
+  {
+   "n": 4,
+   "treaty": "CEDAW",
+   "state": "Hungary",
+   "reading": "does not",
+   "remark": "objections to other states; withdrawal of 29 (1)"
+  },
+  {
+   "n": 5,
+   "treaty": "CED",
+   "state": "Slovakia",
+   "reading": "does not",
+   "remark": "acceptance under 31-32"
+  },
+  {
+   "n": 6,
+   "treaty": "CERD",
+   "state": "Chile",
+   "reading": "does not",
+   "remark": "acceptance under 14"
+  },
+  {
+   "n": 7,
+   "treaty": "ICESCR",
+   "state": "Ukraine",
+   "reading": "does not",
+   "remark": "art. 26 (1) (participation)"
+  },
+  {
+   "n": 8,
+   "treaty": "CRC",
+   "state": "Bahamas (The)",
+   "reading": "does not",
+   "remark": "art. 2 (citizenship), not common"
+  },
+  {
+   "n": 9,
+   "treaty": "CERD",
+   "state": "Liechtenstein",
+   "reading": "does not",
+   "remark": "acceptance under 14, with an understanding on procedure"
+  },
+  {
+   "n": 10,
+   "treaty": "CED",
+   "state": "Sri Lanka",
+   "reading": "does not",
+   "remark": "acceptance under 32"
+  },
+  {
+   "n": 11,
+   "treaty": "CRC",
+   "state": "Samoa",
+   "reading": "does not",
+   "remark": "art. 28 (1)(a), not common"
+  },
+  {
+   "n": 12,
+   "treaty": "CERD",
+   "state": "San Marino",
+   "reading": "does not",
+   "remark": "acceptance under 14"
+  },
+  {
+   "n": 13,
+   "treaty": "CEDAW",
+   "state": "Romania",
+   "reading": "does not",
+   "remark": "objections to other states; withdrawal of 29"
+  },
+  {
+   "n": 14,
+   "treaty": "CAT",
+   "state": "United Arab Emirates",
+   "reading": "does not",
+   "remark": "arts. 20 and 30 (1); a declaration on the definition in art. 1 and on cruel treatment; 19 (1) untouched"
+  },
+  {
+   "n": 15,
+   "treaty": "CED",
+   "state": "Slovenia",
+   "reading": "does not",
+   "remark": "acceptance under 31-32"
+  },
+  {
+   "n": 16,
+   "treaty": "CAT",
+   "state": "Tunisia",
+   "reading": "does not",
+   "remark": "withdrawal; acceptance under 21-22"
+  },
+  {
+   "n": 17,
+   "treaty": "CED",
+   "state": "Austria",
+   "reading": "does not",
+   "remark": "acceptance under 31-32"
+  },
+  {
+   "n": 18,
+   "treaty": "CEDAW",
+   "state": "Trinidad and Tobago",
+   "reading": "does not",
+   "remark": "art. 29 (1), disputes"
+  },
+  {
+   "n": 19,
+   "treaty": "CAT",
+   "state": "Cyprus",
+   "reading": "does not",
+   "remark": "acceptance under 21-22"
+  },
+  {
+   "n": 20,
+   "treaty": "ICESCR",
+   "state": "Mongolia",
+   "reading": "does not",
+   "remark": "art. 26 (1) (participation)"
+  }
+ ]
+}

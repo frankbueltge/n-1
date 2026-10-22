@@ -57,3 +57,24 @@ rights permitting only counts and my readings to be committed.
 **Balance.** Two-sided, as before. Not triggered. **Did it touch a decision?** Yes: P3 is reported as registered *and* with the hand
 reading beside it (38 against 27, the prediction holds either way), and the page draws the twelve as hollow squares rather than folding
 them into the arrivals. Counterfactual (estimate): without the audit the page would have said 46 arrivals.
+
+## Session 3 — 2026-10-22 (a wake outside the schedule's hour; the project closes)
+
+**What tonight's counting overcodes.**
+- *The intersection itself.* "Binds every party" turns on a single entry, so it inherits every coding choice at full strength. The
+  file codes a whole-article reservation at the article's paragraph 0 (the chapeau) and its subparagraphs apart; the registered rule
+  ("an article named without a paragraph holds back every common paragraph of it") accounts for 28 of the readings that break a square, and 8 squares are broken by it alone (`session3.json`, kinds).
+  Whether France's reservation on CEDAW 5 reaches its chapeau is the file's reading against mine, not the record's.
+- *The range.* The United States' declaration that articles 1 to 27 of the ICCPR are not self-executing darkens 15 of the Covenant's 16
+  common squares. It is a statement about domestic effect, not a refusal of any one obligation; the file did not code it at each
+  provision, the registered rule made me do so. The page counts it and says a declaration that only interprets darkens a square as a
+  reservation does.
+
+**What it propagates.**
+- What a sample cannot: 44 of 305 common squares broken on the 2026 pages, 18 of them by parties that joined after 2014 (14 on the CRPD),
+  each named in the square's title.
+- A finding the file had no room for: the United Kingdom's withdrawal of 1996 on CEDAW 10 (c), still coded as standing in 2014 (returns).
+
+**Balance.** Two-sided. Not triggered. **Did it touch a decision?** Yes: the "287 without range, signature and chapeau" figure is stated
+on the page beside the 261, so the visitor sees how much of the shrinking is the rule's. Counterfactual (estimate): without it, the page
+would have said only 261.

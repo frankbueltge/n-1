@@ -1,0 +1,1390 @@
+{
+ "treaties": {
+  "CAT": {
+   "provisions": 29,
+   "common_2014": [
+    "19(1)"
+   ],
+   "common_2026_articled": [
+    "19(1)"
+   ],
+   "returned": [],
+   "broken": {},
+   "general_parties": [
+    "Chile",
+    "Germany",
+    "Holy See"
+   ],
+   "general_upon_signature_only": [],
+   "parties_2014": 154,
+   "read": 28
+  },
+  "CED": {
+   "provisions": 51,
+   "common_2014": [
+    "3(0)",
+    "4(0)",
+    "6(2)",
+    "7(1)",
+    "8(2)",
+    "9(0)",
+    "9(2)",
+    "10(1)",
+    "10(2)",
+    "10(3)",
+    "11(1)",
+    "11(2)",
+    "11(3)",
+    "12(1)",
+    "12(2)",
+    "12(4)",
+    "13(1)",
+    "13(2)",
+    "13(3)",
+    "13(4)",
+    "13(5)",
+    "13(6)",
+    "13(7)",
+    "14(1)",
+    "15(0)",
+    "17(1)",
+    "19(1)",
+    "19(2)",
+    "20(2)",
+    "21(0)",
+    "22(901)",
+    "22(902)",
+    "22(903)",
+    "23(1)",
+    "23(2)",
+    "23(3)",
+    "24(2)",
+    "24(3)",
+    "24(5)",
+    "24(6)",
+    "24(7)",
+    "25(2)",
+    "25(3)",
+    "25(4)",
+    "25(5)",
+    "26(9)"
+   ],
+   "common_2026_articled": [
+    "3(0)",
+    "4(0)",
+    "6(2)",
+    "7(1)",
+    "8(2)",
+    "9(0)",
+    "9(2)",
+    "10(1)",
+    "10(2)",
+    "10(3)",
+    "11(1)",
+    "11(2)",
+    "11(3)",
+    "12(1)",
+    "12(2)",
+    "12(4)",
+    "13(1)",
+    "13(2)",
+    "13(3)",
+    "13(4)",
+    "13(5)",
+    "13(6)",
+    "13(7)",
+    "14(1)",
+    "15(0)",
+    "17(1)",
+    "19(1)",
+    "19(2)",
+    "20(2)",
+    "21(0)",
+    "22(901)",
+    "22(902)",
+    "22(903)",
+    "23(1)",
+    "23(2)",
+    "23(3)",
+    "24(2)",
+    "24(3)",
+    "24(5)",
+    "24(6)",
+    "24(7)",
+    "25(2)",
+    "25(3)",
+    "25(5)",
+    "26(9)"
+   ],
+   "returned": [],
+   "broken": {
+    "25(4)": [
+     {
+      "state": "Finland",
+      "joined": 2023,
+      "kind": "a party that joined after 2014"
+     },
+     {
+      "state": "Poland",
+      "joined": 2024,
+      "kind": "a party that joined after 2014"
+     }
+    ]
+   },
+   "general_parties": [
+    "Norway"
+   ],
+   "general_upon_signature_only": [],
+   "parties_2014": 43,
+   "read": 12
+  },
+  "CEDAW": {
+   "provisions": 46,
+   "common_2014": [
+    "3(0)",
+    "5(0)",
+    "6(0)",
+    "7(0)",
+    "8(0)",
+    "10(0)",
+    "10(901)",
+    "10(902)",
+    "10(904)",
+    "10(905)",
+    "10(906)",
+    "10(907)",
+    "10(908)",
+    "12(1)",
+    "13(0)",
+    "14(1)",
+    "14(2)",
+    "18(1)",
+    "24(0)"
+   ],
+   "common_2026_articled": [
+    "3(0)",
+    "6(0)",
+    "7(0)",
+    "8(0)",
+    "10(0)",
+    "10(901)",
+    "10(902)",
+    "10(904)",
+    "10(905)",
+    "10(906)",
+    "10(907)",
+    "10(908)",
+    "12(1)",
+    "14(1)",
+    "14(2)",
+    "18(1)",
+    "24(0)",
+    "10(903)"
+   ],
+   "returned": [
+    "10(903)"
+   ],
+   "broken": {
+    "5(0)": [
+     {
+      "state": "France",
+      "joined": 1983,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Micronesia (Federated States of)",
+      "joined": 2004,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Niger",
+      "joined": 1999,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ],
+    "13(0)": [
+     {
+      "state": "Malta",
+      "joined": 1991,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "United Kingdom of Great Britain and Northern Ireland",
+      "joined": 1986,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ]
+   },
+   "general_parties": [
+    "France",
+    "Liechtenstein",
+    "Malaysia",
+    "Mexico",
+    "Monaco",
+    "Pakistan",
+    "Spain",
+    "Thailand",
+    "United Kingdom of Great Britain and Northern Ireland"
+   ],
+   "general_upon_signature_only": [
+    "Mexico"
+   ],
+   "parties_2014": 185,
+   "read": 47
+  },
+  "CERD": {
+   "provisions": 17,
+   "common_2014": [
+    "2(2)",
+    "4(0)",
+    "5(0)",
+    "9(1)"
+   ],
+   "common_2026_articled": [
+    "9(1)"
+   ],
+   "returned": [],
+   "broken": {
+    "4(0)": [
+     {
+      "state": "France",
+      "joined": 1971,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Monaco",
+      "joined": 1995,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Switzerland",
+      "joined": 1994,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "United States of America",
+      "joined": 1994,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ],
+    "2(2)": [
+     {
+      "state": "Singapore",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "5(0)": [
+     {
+      "state": "United States of America",
+      "joined": 1994,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ]
+   },
+   "general_parties": [
+    "Antigua and Barbuda",
+    "Bahamas (The)",
+    "Barbados",
+    "Grenada",
+    "Guyana",
+    "Jamaica",
+    "Nepal",
+    "Papua New Guinea",
+    "Saudi Arabia",
+    "Thailand",
+    "United Kingdom of Great Britain and Northern Ireland",
+    "United States of America"
+   ],
+   "general_upon_signature_only": [],
+   "parties_2014": 176,
+   "read": 48
+  },
+  "CRC": {
+   "provisions": 98,
+   "common_2014": [
+    "5(0)",
+    "8(1)",
+    "8(2)",
+    "9(2)",
+    "9(3)",
+    "11(1)",
+    "11(2)",
+    "17(0)",
+    "18(1)",
+    "18(2)",
+    "18(3)",
+    "21(0)",
+    "23(1)",
+    "23(2)",
+    "23(3)",
+    "23(4)",
+    "24(1)",
+    "24(3)",
+    "24(4)",
+    "25(0)",
+    "27(1)",
+    "27(3)",
+    "27(4)",
+    "31(1)",
+    "31(2)",
+    "33(0)",
+    "34(0)",
+    "34(901)",
+    "34(902)",
+    "34(903)",
+    "35(0)",
+    "36(0)",
+    "39(0)",
+    "40(4)",
+    "42(0)"
+   ],
+   "common_2026_articled": [
+    "5(0)",
+    "8(1)",
+    "8(2)",
+    "9(2)",
+    "9(3)",
+    "11(1)",
+    "11(2)",
+    "18(1)",
+    "18(2)",
+    "18(3)",
+    "23(1)",
+    "23(2)",
+    "23(3)",
+    "23(4)",
+    "25(0)",
+    "27(1)",
+    "27(3)",
+    "27(4)",
+    "31(1)",
+    "31(2)",
+    "33(0)",
+    "34(0)",
+    "34(901)",
+    "34(902)",
+    "34(903)",
+    "35(0)",
+    "36(0)",
+    "39(0)",
+    "42(0)",
+    "9(4)"
+   ],
+   "returned": [
+    "9(4)"
+   ],
+   "broken": {
+    "17(0)": [
+     {
+      "state": "Algeria",
+      "joined": 1993,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "T\u00fcrkiye",
+      "joined": 1995,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "United Arab Emirates",
+      "joined": 1997,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ],
+    "21(0)": [
+     {
+      "state": "Bangladesh",
+      "joined": 1990,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Canada",
+      "joined": 1991,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Jordan",
+      "joined": 1991,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Kuwait",
+      "joined": 1991,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Maldives",
+      "joined": 1991,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Somalia",
+      "joined": 2015,
+      "kind": "a party that joined after 2014"
+     },
+     {
+      "state": "United Arab Emirates",
+      "joined": 1997,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ],
+    "24(1)": [
+     {
+      "state": "Ecuador",
+      "joined": 1990,
+      "kind": "a statement made upon signature only"
+     }
+    ],
+    "24(3)": [
+     {
+      "state": "Ecuador",
+      "joined": 1990,
+      "kind": "a statement made upon signature only"
+     }
+    ],
+    "24(4)": [
+     {
+      "state": "Ecuador",
+      "joined": 1990,
+      "kind": "a statement made upon signature only"
+     }
+    ],
+    "40(4)": [
+     {
+      "state": "Netherlands (Kingdom of the)",
+      "joined": 1995,
+      "kind": "a statement standing before or after 2014 that the file does not code at this provision"
+     },
+     {
+      "state": "Switzerland",
+      "joined": 1997,
+      "kind": "a statement standing before or after 2014 that the file does not code at this provision"
+     }
+    ]
+   },
+   "general_parties": [
+    "Brunei Darussalam",
+    "China",
+    "Ecuador",
+    "France",
+    "Holy See",
+    "Iran (Islamic Republic of)",
+    "Kiribati",
+    "Kuwait",
+    "Maldives",
+    "Mauritania",
+    "Monaco",
+    "Poland",
+    "Saudi Arabia",
+    "Singapore",
+    "Somalia",
+    "Syrian Arab Republic",
+    "Tunisia",
+    "United Kingdom of Great Britain and Northern Ireland"
+   ],
+   "general_upon_signature_only": [
+    "Ecuador",
+    "Kuwait",
+    "Maldives",
+    "Mauritania"
+   ],
+   "parties_2014": 193,
+   "read": 66
+  },
+  "CRMW": {
+   "provisions": 144,
+   "common_2014": [
+    "7(0)",
+    "8(1)",
+    "9(0)",
+    "10(0)",
+    "11(1)",
+    "11(2)",
+    "12(1)",
+    "12(2)",
+    "12(3)",
+    "12(4)",
+    "13(1)",
+    "13(2)",
+    "14(0)",
+    "16(1)",
+    "16(2)",
+    "16(3)",
+    "16(4)",
+    "16(5)",
+    "16(6)",
+    "16(8)",
+    "16(9)",
+    "17(1)",
+    "17(2)",
+    "17(3)",
+    "17(4)",
+    "17(5)",
+    "17(6)",
+    "17(7)",
+    "17(8)",
+    "18(1)",
+    "18(2)",
+    "18(4)",
+    "18(5)",
+    "18(7)",
+    "19(1)",
+    "19(2)",
+    "20(1)",
+    "20(2)",
+    "21(0)",
+    "22(1)",
+    "22(2)",
+    "22(3)",
+    "22(4)",
+    "22(6)",
+    "22(7)",
+    "22(8)",
+    "22(9)",
+    "23(0)",
+    "24(0)",
+    "25(1)",
+    "25(3)",
+    "26(2)",
+    "27(1)",
+    "27(2)",
+    "28(0)",
+    "30(0)",
+    "31(1)",
+    "31(2)",
+    "33(2)",
+    "33(3)",
+    "36(0)",
+    "37(0)",
+    "38(1)",
+    "38(2)",
+    "39(1)",
+    "39(2)",
+    "41(1)",
+    "41(2)",
+    "42(1)",
+    "42(2)",
+    "43(2)",
+    "43(3)",
+    "44(1)",
+    "44(2)",
+    "44(3)",
+    "46(0)",
+    "50(1)",
+    "50(2)",
+    "51(0)",
+    "52(1)",
+    "52(4)",
+    "53(1)",
+    "53(2)",
+    "55(0)",
+    "56(1)",
+    "56(2)",
+    "56(3)",
+    "57(0)",
+    "58(1)",
+    "58(2)",
+    "59(1)",
+    "59(2)",
+    "60(0)",
+    "62(1)",
+    "62(2)",
+    "63(1)",
+    "63(2)",
+    "64(1)",
+    "64(2)",
+    "65(1)",
+    "65(2)",
+    "67(1)",
+    "67(2)",
+    "68(1)",
+    "68(2)",
+    "69(1)",
+    "69(2)",
+    "70(0)",
+    "71(1)",
+    "71(2)",
+    "73(1)",
+    "73(2)",
+    "73(4)",
+    "83(901)",
+    "83(902)",
+    "83(903)",
+    "84(0)"
+   ],
+   "common_2026_articled": [
+    "7(0)",
+    "8(1)",
+    "9(0)",
+    "10(0)",
+    "11(1)",
+    "11(2)",
+    "12(1)",
+    "12(2)",
+    "12(3)",
+    "12(4)",
+    "13(1)",
+    "13(2)",
+    "14(0)",
+    "16(1)",
+    "16(2)",
+    "16(3)",
+    "16(4)",
+    "16(5)",
+    "16(6)",
+    "16(8)",
+    "16(9)",
+    "17(1)",
+    "17(2)",
+    "17(3)",
+    "17(4)",
+    "17(5)",
+    "17(6)",
+    "17(7)",
+    "17(8)",
+    "18(1)",
+    "18(2)",
+    "18(4)",
+    "18(5)",
+    "18(7)",
+    "19(1)",
+    "19(2)",
+    "20(1)",
+    "20(2)",
+    "21(0)",
+    "22(1)",
+    "22(2)",
+    "22(3)",
+    "22(4)",
+    "22(6)",
+    "22(7)",
+    "22(8)",
+    "22(9)",
+    "23(0)",
+    "24(0)",
+    "25(1)",
+    "25(3)",
+    "26(2)",
+    "27(1)",
+    "27(2)",
+    "28(0)",
+    "30(0)",
+    "31(1)",
+    "31(2)",
+    "33(2)",
+    "33(3)",
+    "36(0)",
+    "37(0)",
+    "38(1)",
+    "38(2)",
+    "39(1)",
+    "39(2)",
+    "41(1)",
+    "41(2)",
+    "42(1)",
+    "42(2)",
+    "43(2)",
+    "43(3)",
+    "44(1)",
+    "44(2)",
+    "44(3)",
+    "50(1)",
+    "50(2)",
+    "51(0)",
+    "52(1)",
+    "52(4)",
+    "53(1)",
+    "53(2)",
+    "55(0)",
+    "56(1)",
+    "56(2)",
+    "56(3)",
+    "57(0)",
+    "58(1)",
+    "58(2)",
+    "59(1)",
+    "59(2)",
+    "60(0)",
+    "62(1)",
+    "62(2)",
+    "63(1)",
+    "63(2)",
+    "64(1)",
+    "64(2)",
+    "65(1)",
+    "65(2)",
+    "67(1)",
+    "67(2)",
+    "68(1)",
+    "68(2)",
+    "69(1)",
+    "69(2)",
+    "70(0)",
+    "71(1)",
+    "71(2)",
+    "73(1)",
+    "73(2)",
+    "73(4)",
+    "83(901)",
+    "83(902)",
+    "83(903)",
+    "84(0)"
+   ],
+   "returned": [],
+   "broken": {
+    "46(0)": [
+     {
+      "state": "Colombia",
+      "joined": 1995,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "El Salvador",
+      "joined": 2003,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "T\u00fcrkiye",
+      "joined": 2004,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ]
+   },
+   "general_parties": [
+    "Mexico",
+    "Nicaragua"
+   ],
+   "general_upon_signature_only": [],
+   "parties_2014": 47,
+   "read": 12
+  },
+  "CRPD": {
+   "provisions": 92,
+   "common_2014": [
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(5)",
+    "5(1)",
+    "5(3)",
+    "6(1)",
+    "6(2)",
+    "7(1)",
+    "7(2)",
+    "7(3)",
+    "9(1)",
+    "10(0)",
+    "13(1)",
+    "13(2)",
+    "16(1)",
+    "16(2)",
+    "16(3)",
+    "16(4)",
+    "16(5)",
+    "19(0)",
+    "19(902)",
+    "19(903)",
+    "20(0)",
+    "20(901)",
+    "20(902)",
+    "20(903)",
+    "20(904)",
+    "21(0)",
+    "21(901)",
+    "21(902)",
+    "21(903)",
+    "21(904)",
+    "21(905)",
+    "22(1)",
+    "22(2)",
+    "23(3)",
+    "23(5)",
+    "24(1)",
+    "24(3)",
+    "24(4)",
+    "24(5)",
+    "25(0)",
+    "26(1)",
+    "26(2)",
+    "26(3)",
+    "28(1)",
+    "28(2)",
+    "29(0)",
+    "31(1)",
+    "31(2)",
+    "31(3)",
+    "32(1)",
+    "35(1)",
+    "35(2)",
+    "36(4)",
+    "37(1)",
+    "40(1)"
+   ],
+   "common_2026_articled": [
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(5)",
+    "5(1)",
+    "5(3)",
+    "6(1)",
+    "6(2)",
+    "7(1)",
+    "7(2)",
+    "7(3)",
+    "9(1)",
+    "13(1)",
+    "13(2)",
+    "16(1)",
+    "16(2)",
+    "16(3)",
+    "16(4)",
+    "16(5)",
+    "19(0)",
+    "19(902)",
+    "19(903)",
+    "20(0)",
+    "20(902)",
+    "20(903)",
+    "20(904)",
+    "22(1)",
+    "22(2)",
+    "24(1)",
+    "24(3)",
+    "24(4)",
+    "24(5)",
+    "28(1)",
+    "28(2)",
+    "31(1)",
+    "31(2)",
+    "31(3)",
+    "32(1)",
+    "35(1)",
+    "35(2)",
+    "36(4)",
+    "37(1)",
+    "40(1)"
+   ],
+   "returned": [],
+   "broken": {
+    "29(0)": [
+     {
+      "state": "France",
+      "joined": 2010,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ],
+    "21(0)": [
+     {
+      "state": "Monaco",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "21(901)": [
+     {
+      "state": "Monaco",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "21(902)": [
+     {
+      "state": "Monaco",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "21(903)": [
+     {
+      "state": "Monaco",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "21(904)": [
+     {
+      "state": "Monaco",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "21(905)": [
+     {
+      "state": "Monaco",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "23(3)": [
+     {
+      "state": "Monaco",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "23(5)": [
+     {
+      "state": "Monaco",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "25(0)": [
+     {
+      "state": "Monaco",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     },
+     {
+      "state": "Norway",
+      "joined": 2013,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ],
+    "10(0)": [
+     {
+      "state": "Netherlands (Kingdom of the)",
+      "joined": 2016,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "20(901)": [
+     {
+      "state": "Suriname",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "26(1)": [
+     {
+      "state": "Suriname",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "26(2)": [
+     {
+      "state": "Suriname",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ],
+    "26(3)": [
+     {
+      "state": "Suriname",
+      "joined": 2017,
+      "kind": "a party that joined after 2014"
+     }
+    ]
+   },
+   "general_parties": [
+    "Monaco",
+    "Tonga"
+   ],
+   "general_upon_signature_only": [],
+   "parties_2014": 150,
+   "read": 42
+  },
+  "ICCPR": {
+   "provisions": 63,
+   "common_2014": [
+    "4(3)",
+    "5(1)",
+    "6(1)",
+    "6(2)",
+    "6(3)",
+    "6(4)",
+    "6(5)",
+    "6(6)",
+    "8(1)",
+    "8(2)",
+    "10(1)",
+    "16(0)",
+    "17(2)",
+    "24(1)",
+    "24(2)",
+    "40(1)"
+   ],
+   "common_2026_articled": [
+    "40(1)"
+   ],
+   "returned": [],
+   "broken": {
+    "4(3)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "5(1)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "6(1)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "6(2)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "6(3)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "6(4)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "6(5)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "6(6)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "8(1)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "8(2)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "10(1)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "16(0)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "17(2)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "24(1)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ],
+    "24(2)": [
+     {
+      "state": "United States of America",
+      "joined": 1992,
+      "kind": "a range of articles declared not self-executing"
+     }
+    ]
+   },
+   "general_parties": [
+    "Egypt",
+    "France",
+    "United Kingdom of Great Britain and Northern Ireland"
+   ],
+   "general_upon_signature_only": [],
+   "parties_2014": 165,
+   "read": 63
+  },
+  "ICESCR": {
+   "provisions": 27,
+   "common_2014": [
+    "5(1)",
+    "7(0)",
+    "12(1)",
+    "15(2)",
+    "15(3)",
+    "15(4)",
+    "16(1)",
+    "17(1)",
+    "17(2)"
+   ],
+   "common_2026_articled": [
+    "5(1)",
+    "12(1)",
+    "15(2)",
+    "15(3)",
+    "15(4)",
+    "16(1)",
+    "17(1)",
+    "17(2)"
+   ],
+   "returned": [],
+   "broken": {
+    "7(0)": [
+     {
+      "state": "Bangladesh",
+      "joined": 1998,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Barbados",
+      "joined": 1973,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "Solomon Islands",
+      "joined": 1982,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     },
+     {
+      "state": "United Kingdom of Great Britain and Northern Ireland",
+      "joined": 1976,
+      "kind": "a whole article named, where the file codes its subparagraphs apart"
+     }
+    ]
+   },
+   "general_parties": [
+    "Egypt",
+    "France"
+   ],
+   "general_upon_signature_only": [],
+   "parties_2014": 160,
+   "read": 31
+  }
+ },
+ "predictions": [
+  {
+   "n": 1,
+   "text": "in every treaty the common treaty in 2014 is smaller than in the first year with 20 parties",
+   "held": false,
+   "found": {
+    "CAT": {
+     "at_20_parties": 27,
+     "2014": 1
+    },
+    "CED": {
+     "at_20_parties": 46,
+     "2014": 46
+    },
+    "CEDAW": {
+     "at_20_parties": 35,
+     "2014": 19
+    },
+    "CERD": {
+     "at_20_parties": 17,
+     "2014": 4
+    },
+    "CRC": {
+     "at_20_parties": 64,
+     "2014": 35
+    },
+    "CRMW": {
+     "at_20_parties": 123,
+     "2014": 117
+    },
+    "CRPD": {
+     "at_20_parties": 88,
+     "2014": 58
+    },
+    "ICCPR": {
+     "at_20_parties": 44,
+     "2014": 16
+    },
+    "ICESCR": {
+     "at_20_parties": 25,
+     "2014": 9
+    }
+   }
+  },
+  {
+   "n": 2,
+   "text": "in at least three treaties the common treaty grows in at least one year",
+   "held": true,
+   "found": {
+    "CAT": [
+     1990
+    ],
+    "CED": [],
+    "CEDAW": [
+     1996,
+     2003
+    ],
+    "CERD": [
+     2012
+    ],
+    "CRC": [
+     2009,
+     2010
+    ],
+    "CRMW": [
+     2014
+    ],
+    "CRPD": [],
+    "ICCPR": [
+     1994,
+     2011,
+     2012
+    ],
+    "ICESCR": []
+   }
+  },
+  {
+   "n": 3,
+   "text": "at least 90 % of the 2014-common provisions still common on the October 2026 pages (articled reading)",
+   "held": false,
+   "found": "261 of 305 (85.6 %)"
+  },
+  {
+   "n": 4,
+   "text": "at least five treaties with a party holding a standing general reservation in 2026",
+   "held": true,
+   "found": {
+    "CAT": [
+     "Chile",
+     "Germany",
+     "Holy See"
+    ],
+    "CED": [
+     "Norway"
+    ],
+    "CEDAW": [
+     "France",
+     "Liechtenstein",
+     "Malaysia",
+     "Mexico",
+     "Monaco",
+     "Pakistan",
+     "Spain",
+     "Thailand",
+     "United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "CERD": [
+     "Antigua and Barbuda",
+     "Bahamas (The)",
+     "Barbados",
+     "Grenada",
+     "Guyana",
+     "Jamaica",
+     "Nepal",
+     "Papua New Guinea",
+     "Saudi Arabia",
+     "Thailand",
+     "United Kingdom of Great Britain and Northern Ireland",
+     "United States of America"
+    ],
+    "CRC": [
+     "Brunei Darussalam",
+     "China",
+     "Ecuador",
+     "France",
+     "Holy See",
+     "Iran (Islamic Republic of)",
+     "Kiribati",
+     "Kuwait",
+     "Maldives",
+     "Mauritania",
+     "Monaco",
+     "Poland",
+     "Saudi Arabia",
+     "Singapore",
+     "Somalia",
+     "Syrian Arab Republic",
+     "Tunisia",
+     "United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "CRMW": [
+     "Mexico",
+     "Nicaragua"
+    ],
+    "CRPD": [
+     "Monaco",
+     "Tonga"
+    ],
+    "ICCPR": [
+     "Egypt",
+     "France",
+     "United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "ICESCR": [
+     "Egypt",
+     "France"
+    ]
+   }
+  },
+  {
+   "n": 5,
+   "text": "machine clearance agrees with the hand reading on at least 19 of 20",
+   "held": true,
+   "found": "20 of 20"
+  },
+  {
+   "n": 6,
+   "text": "at most 3 provisions not common in 2014 are common in 2026",
+   "held": true,
+   "found": "2 returned of 3 candidates"
+  }
+ ],
+ "totals": {
+  "common_2014": 305,
+  "still_common_2026_articled": 261,
+  "share": 0.8557,
+  "still_common_without_range_signature_chapeau": 287,
+  "returned": 2,
+  "treaties_with_general": 9,
+  "treaties_with_general_excluding_signature_only": 9,
+  "parties_with_general": 52
+ },
+ "returns_read": [
+  {
+   "treaty": "CEDAW",
+   "provision": "10(903)",
+   "returned": true,
+   "reading": "United Kingdom: its reservation on 10 (c) is among those withdrawn on 22 March 1996 (note 63); the file still codes it held in 2014; the dependent territories keep reservations on 1, 2, 9, 11, 13, 15, 16, not 10"
+  },
+  {
+   "treaty": "CRC",
+   "provision": "9(4)",
+   "returned": true,
+   "reading": "Oman: reservation on 9 (4) withdrawn, notified 9 December 2014, effective 14 January 2011 by its own account (note 50)"
+  },
+  {
+   "treaty": "ICCPR",
+   "provision": "24(3)",
+   "returned": false,
+   "reading": "United Kingdom: nationality legislation reservation naming 24 (3) still stands on the page"
+  }
+ ],
+ "held": 4
+}

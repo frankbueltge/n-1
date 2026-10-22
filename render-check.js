@@ -381,6 +381,32 @@ const PAGES = [
     }),
     ok: (r) => r.strips === 10 && r.cols === 605 && r.preds === 11 && r.min_font >= 11,
   },
+  {
+    // project 15, session 3 (2026-10-22, outside the schedule's hour): the work The Common Treaty, built by
+    // works/the-common-treaty/build.py; nine rows of squares, one per coded provision (567), lit when every party holds itself to it.
+    // Opens on 2014; probed one step later, October 2026 read from the pages: 44 outlined (common in 2014, held back now), 2 given
+    // back, 47 dots for parties with a general reservation (statements made only on signing left out).
+    path: 'works/the-common-treaty/index.html',
+    probe: async () => {
+      const first = document.getElementById('yr').textContent;
+      document.getElementById('next').click();
+      await new Promise((r) => setTimeout(r, 50));
+      return {
+        first,
+        yr: document.getElementById('yr').textContent,
+        rows: document.querySelectorAll('#rows .row').length,
+        cells: document.querySelectorAll('#rows .c').length,
+        on: document.querySelectorAll('#rows .c.on').length,
+        gone: document.querySelectorAll('#rows .c.gone').length,
+        back: document.querySelectorAll('#rows .c.back').length,
+        gen: document.querySelectorAll('#rows .g').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, .head small, .head .n')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.first === '2014' && r.yr === 'October 2026' && r.rows === 9 && r.cells === 567 && r.on === 261 && r.gone === 44 &&
+      r.back === 2 && r.gen === 47 && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {

@@ -52,3 +52,19 @@
 - **12:19-12:23** Page: a figure of returns and arrivals by year; render check extended and run, all ok at 1440 and 390; two screenshots
   looked at; two faults fixed (empty band above the figure; the headline said "38 states" for 38 state-treaty arrivals, and "mostly in
   part" without saying it rests on ten pairs read).
+
+## Session 3 — 2026-10-22 (a wake outside the schedule's hour)
+
+- **14:17:38** First clock read (`date -u`). Boot: DOWRY.md, the whole foundation, the atlas schema, the last layer, night records 107-108,
+  REQUESTS.md's last entries, project 15's whole record.
+- **14:17:44** The file fetched again to scratch; sha256 unchanged. No value read. pandas installed in the new container.
+- `SESSION3.md` written and read against itself; committed and pushed before any page is fetched (clock read at the push, below).
+- **14:19:14** `SESSION3.md` pushed (7f45f9e). Then the nine depositary pages fetched to scratch, personal use, not committed.
+- **14:19-14:20** The common treaty counted from the file (`common3.py`); the pre-filter (`filter3.py`): 349 entries to read; the blind sheet
+  of 20 cleared entries (seed 20261024) read by hand, 20 "does not" (`readings_check3.json`); committed 58d8498 (14:20:38).
+- **14:20-14:30** The 349 entries read by hand, treaty by treaty (`readings3.json`, estimates); committed 2843a88 (14:30:11).
+- **14:30-14:31** The registered count (`count3.py` -> `session3.json`): 305 common in 2014, 261 on the 2026 pages; P1 and P3 failed,
+  P2, P4, P5, P6 held. Committed b30c9ed (14:31:24).
+- **14:32-14:40** Neighbours (Atlas grep, one web search); the advantage held and the figure changes, so the work was declared by the rule:
+  `works/the-common-treaty/` built from committed files; render check extended and run, all ok at 1440 and 390; a screenshot looked at; one
+  fault fixed (the "given back since 2014" legend, wrong for CEDAW 10(c), which the United Kingdom withdrew in 1996 and the file still codes).

@@ -1,0 +1,6931 @@
+[
+{
+"treaty": "CERD",
+"state": "Afghanistan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1182
+},
+{
+"treaty": "CERD",
+"state": "Algeria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 357
+},
+{
+"treaty": "CERD",
+"state": "Andorra",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 628
+},
+{
+"treaty": "CERD",
+"state": "Antigua and Barbuda",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 937
+},
+{
+"treaty": "CERD",
+"state": "Argentina",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 603
+},
+{
+"treaty": "CERD",
+"state": "Australia",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1204
+},
+{
+"treaty": "CERD",
+"state": "Austria",
+"verdict": "read",
+"common_articles_named": [
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3535
+},
+{
+"treaty": "CERD",
+"state": "Azerbaijan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 527
+},
+{
+"treaty": "CERD",
+"state": "Bahamas (The)",
+"verdict": "read",
+"common_articles_named": [
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1470
+},
+{
+"treaty": "CERD",
+"state": "Bahrain",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2713
+},
+{
+"treaty": "CERD",
+"state": "Barbados",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 864
+},
+{
+"treaty": "CERD",
+"state": "Belarus",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1971
+},
+{
+"treaty": "CERD",
+"state": "Belgium",
+"verdict": "read",
+"common_articles_named": [
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3161
+},
+{
+"treaty": "CERD",
+"state": "Bolivia (Plurinational State of)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 336
+},
+{
+"treaty": "CERD",
+"state": "Bosnia and Herzegovina",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 384
+},
+{
+"treaty": "CERD",
+"state": "Brazil",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 402
+},
+{
+"treaty": "CERD",
+"state": "Bulgaria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1187
+},
+{
+"treaty": "CERD",
+"state": "Canada",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 830
+},
+{
+"treaty": "CERD",
+"state": "Chile",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 495
+},
+{
+"treaty": "CERD",
+"state": "China",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6405
+},
+{
+"treaty": "CERD",
+"state": "Colombia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 777
+},
+{
+"treaty": "CERD",
+"state": "Costa Rica",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 487
+},
+{
+"treaty": "CERD",
+"state": "Croatia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 384
+},
+{
+"treaty": "CERD",
+"state": "Cuba",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1257
+},
+{
+"treaty": "CERD",
+"state": "Cyprus",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1430
+},
+{
+"treaty": "CERD",
+"state": "Czech Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1382
+},
+{
+"treaty": "CERD",
+"state": "Denmark",
+"verdict": "read",
+"common_articles_named": [
+2,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2192
+},
+{
+"treaty": "CERD",
+"state": "Ecuador",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 451
+},
+{
+"treaty": "CERD",
+"state": "Egypt",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2936
+},
+{
+"treaty": "CERD",
+"state": "El Salvador",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 514
+},
+{
+"treaty": "CERD",
+"state": "Equatorial Guinea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 581
+},
+{
+"treaty": "CERD",
+"state": "Estonia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 849
+},
+{
+"treaty": "CERD",
+"state": "Ethiopia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 481
+},
+{
+"treaty": "CERD",
+"state": "Fiji",
+"verdict": "read",
+"common_articles_named": [
+2,
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2515
+},
+{
+"treaty": "CERD",
+"state": "Finland",
+"verdict": "read",
+"common_articles_named": [
+2,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4371
+},
+{
+"treaty": "CERD",
+"state": "France",
+"verdict": "read",
+"common_articles_named": [
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3878
+},
+{
+"treaty": "CERD",
+"state": "Georgia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 497
+},
+{
+"treaty": "CERD",
+"state": "Germany",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4622
+},
+{
+"treaty": "CERD",
+"state": "Grenada",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2063
+},
+{
+"treaty": "CERD",
+"state": "Guyana",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 341
+},
+{
+"treaty": "CERD",
+"state": "Hungary",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1125
+},
+{
+"treaty": "CERD",
+"state": "Iceland",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 855
+},
+{
+"treaty": "CERD",
+"state": "India",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 552
+},
+{
+"treaty": "CERD",
+"state": "Indonesia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 427
+},
+{
+"treaty": "CERD",
+"state": "Iraq",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3593
+},
+{
+"treaty": "CERD",
+"state": "Ireland",
+"verdict": "read",
+"common_articles_named": [
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1740
+},
+{
+"treaty": "CERD",
+"state": "Israel",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 118
+},
+{
+"treaty": "CERD",
+"state": "Italy",
+"verdict": "read",
+"common_articles_named": [
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3270
+},
+{
+"treaty": "CERD",
+"state": "Jamaica",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 599
+},
+{
+"treaty": "CERD",
+"state": "Japan",
+"verdict": "read",
+"common_articles_named": [
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 568
+},
+{
+"treaty": "CERD",
+"state": "Kazakhstan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 536
+},
+{
+"treaty": "CERD",
+"state": "Kuwait",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2838
+},
+{
+"treaty": "CERD",
+"state": "Lebanon",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 533
+},
+{
+"treaty": "CERD",
+"state": "Libya",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2816
+},
+{
+"treaty": "CERD",
+"state": "Liechtenstein",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1028
+},
+{
+"treaty": "CERD",
+"state": "Luxembourg",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 847
+},
+{
+"treaty": "CERD",
+"state": "Madagascar",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 542
+},
+{
+"treaty": "CERD",
+"state": "Malta",
+"verdict": "read",
+"common_articles_named": [
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1808
+},
+{
+"treaty": "CERD",
+"state": "Mexico",
+"verdict": "read",
+"common_articles_named": [
+2,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2177
+},
+{
+"treaty": "CERD",
+"state": "Monaco",
+"verdict": "read",
+"common_articles_named": [
+2,
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1230
+},
+{
+"treaty": "CERD",
+"state": "Mongolia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1420
+},
+{
+"treaty": "CERD",
+"state": "Montenegro",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1062
+},
+{
+"treaty": "CERD",
+"state": "Morocco",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1147
+},
+{
+"treaty": "CERD",
+"state": "Mozambique",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 351
+},
+{
+"treaty": "CERD",
+"state": "Namibia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 147
+},
+{
+"treaty": "CERD",
+"state": "Nepal",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1683
+},
+{
+"treaty": "CERD",
+"state": "Netherlands (Kingdom of the)",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1419
+},
+{
+"treaty": "CERD",
+"state": "New Zealand",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 886
+},
+{
+"treaty": "CERD",
+"state": "North Macedonia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1053
+},
+{
+"treaty": "CERD",
+"state": "Norway",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1844
+},
+{
+"treaty": "CERD",
+"state": "Panama",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 361
+},
+{
+"treaty": "CERD",
+"state": "Papua New Guinea",
+"verdict": "read",
+"common_articles_named": [
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1452
+},
+{
+"treaty": "CERD",
+"state": "Peru",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 721
+},
+{
+"treaty": "CERD",
+"state": "Poland",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1547
+},
+{
+"treaty": "CERD",
+"state": "Portugal",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1546
+},
+{
+"treaty": "CERD",
+"state": "Republic of Korea",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 825
+},
+{
+"treaty": "CERD",
+"state": "Republic of Moldova",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1366
+},
+{
+"treaty": "CERD",
+"state": "Romania",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3054
+},
+{
+"treaty": "CERD",
+"state": "Russian Federation",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2782
+},
+{
+"treaty": "CERD",
+"state": "Rwanda",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 328
+},
+{
+"treaty": "CERD",
+"state": "San Marino",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 490
+},
+{
+"treaty": "CERD",
+"state": "Saudi Arabia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 470
+},
+{
+"treaty": "CERD",
+"state": "Senegal",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 429
+},
+{
+"treaty": "CERD",
+"state": "Serbia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1296
+},
+{
+"treaty": "CERD",
+"state": "Singapore",
+"verdict": "read",
+"common_articles_named": [
+2
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1677
+},
+{
+"treaty": "CERD",
+"state": "Slovakia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1192
+},
+{
+"treaty": "CERD",
+"state": "Slovenia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 981
+},
+{
+"treaty": "CERD",
+"state": "South Africa",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 890
+},
+{
+"treaty": "CERD",
+"state": "Spain",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1702
+},
+{
+"treaty": "CERD",
+"state": "State of Palestine",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 739
+},
+{
+"treaty": "CERD",
+"state": "Sweden",
+"verdict": "read",
+"common_articles_named": [
+2,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7321
+},
+{
+"treaty": "CERD",
+"state": "Switzerland",
+"verdict": "read",
+"common_articles_named": [
+2,
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1158
+},
+{
+"treaty": "CERD",
+"state": "Syrian Arab Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2815
+},
+{
+"treaty": "CERD",
+"state": "Thailand",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1115
+},
+{
+"treaty": "CERD",
+"state": "Togo",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 535
+},
+{
+"treaty": "CERD",
+"state": "Tonga",
+"verdict": "read",
+"common_articles_named": [
+2,
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2768
+},
+{
+"treaty": "CERD",
+"state": "T\u00fcrkiye",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 772
+},
+{
+"treaty": "CERD",
+"state": "Ukraine",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2280
+},
+{
+"treaty": "CERD",
+"state": "United Arab Emirates",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 2226
+},
+{
+"treaty": "CERD",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"verdict": "read",
+"common_articles_named": [
+2,
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8621
+},
+{
+"treaty": "CERD",
+"state": "United States of America",
+"verdict": "read",
+"common_articles_named": [
+2,
+4,
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3103
+},
+{
+"treaty": "CERD",
+"state": "Uruguay",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 180
+},
+{
+"treaty": "CERD",
+"state": "Venezuela (Bolivarian Republic of)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 621
+},
+{
+"treaty": "CERD",
+"state": "Viet Nam",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2155
+},
+{
+"treaty": "CERD",
+"state": "Yemen",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4067
+},
+{
+"treaty": "ICESCR",
+"state": "Afghanistan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 661
+},
+{
+"treaty": "ICESCR",
+"state": "Algeria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2557
+},
+{
+"treaty": "ICESCR",
+"state": "Austria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3120
+},
+{
+"treaty": "ICESCR",
+"state": "Bahamas (The)",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 482
+},
+{
+"treaty": "ICESCR",
+"state": "Bahrain",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 196
+},
+{
+"treaty": "ICESCR",
+"state": "Bangladesh",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5124
+},
+{
+"treaty": "ICESCR",
+"state": "Barbados",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 834
+},
+{
+"treaty": "ICESCR",
+"state": "Belarus",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 272
+},
+{
+"treaty": "ICESCR",
+"state": "Belgium",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2506
+},
+{
+"treaty": "ICESCR",
+"state": "Bosnia and Herzegovina",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 338
+},
+{
+"treaty": "ICESCR",
+"state": "Bulgaria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 736
+},
+{
+"treaty": "ICESCR",
+"state": "Cambodia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 2087
+},
+{
+"treaty": "ICESCR",
+"state": "Canada",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2147
+},
+{
+"treaty": "ICESCR",
+"state": "China",
+"verdict": "read",
+"common_articles_named": [
+5,
+12
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8562
+},
+{
+"treaty": "ICESCR",
+"state": "Congo",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 874
+},
+{
+"treaty": "ICESCR",
+"state": "Croatia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 338
+},
+{
+"treaty": "ICESCR",
+"state": "Cuba",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 906
+},
+{
+"treaty": "ICESCR",
+"state": "Cyprus",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1350
+},
+{
+"treaty": "ICESCR",
+"state": "Czech Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1726
+},
+{
+"treaty": "ICESCR",
+"state": "Denmark",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1696
+},
+{
+"treaty": "ICESCR",
+"state": "Egypt",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 209
+},
+{
+"treaty": "ICESCR",
+"state": "Estonia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1124
+},
+{
+"treaty": "ICESCR",
+"state": "Finland",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8949
+},
+{
+"treaty": "ICESCR",
+"state": "France",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4161
+},
+{
+"treaty": "ICESCR",
+"state": "Germany",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 10661
+},
+{
+"treaty": "ICESCR",
+"state": "Greece",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4201
+},
+{
+"treaty": "ICESCR",
+"state": "Guinea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1265
+},
+{
+"treaty": "ICESCR",
+"state": "Hungary",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2774
+},
+{
+"treaty": "ICESCR",
+"state": "India",
+"verdict": "read",
+"common_articles_named": [
+7,
+12,
+16
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1931
+},
+{
+"treaty": "ICESCR",
+"state": "Indonesia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 830
+},
+{
+"treaty": "ICESCR",
+"state": "Iraq",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1862
+},
+{
+"treaty": "ICESCR",
+"state": "Ireland",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4046
+},
+{
+"treaty": "ICESCR",
+"state": "Italy",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2031
+},
+{
+"treaty": "ICESCR",
+"state": "Japan",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1886
+},
+{
+"treaty": "ICESCR",
+"state": "Kenya",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 265
+},
+{
+"treaty": "ICESCR",
+"state": "Kuwait",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 810
+},
+{
+"treaty": "ICESCR",
+"state": "Latvia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4771
+},
+{
+"treaty": "ICESCR",
+"state": "Libya",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1349
+},
+{
+"treaty": "ICESCR",
+"state": "Madagascar",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 587
+},
+{
+"treaty": "ICESCR",
+"state": "Malta",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 805
+},
+{
+"treaty": "ICESCR",
+"state": "Mexico",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 435
+},
+{
+"treaty": "ICESCR",
+"state": "Monaco",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1598
+},
+{
+"treaty": "ICESCR",
+"state": "Mongolia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 634
+},
+{
+"treaty": "ICESCR",
+"state": "Montenegro",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 108
+},
+{
+"treaty": "ICESCR",
+"state": "Myanmar",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 752
+},
+{
+"treaty": "ICESCR",
+"state": "Netherlands (Kingdom of the)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 10287
+},
+{
+"treaty": "ICESCR",
+"state": "New Zealand",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1694
+},
+{
+"treaty": "ICESCR",
+"state": "North Macedonia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 338
+},
+{
+"treaty": "ICESCR",
+"state": "Norway",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6283
+},
+{
+"treaty": "ICESCR",
+"state": "Oman",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 309
+},
+{
+"treaty": "ICESCR",
+"state": "Pakistan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4713
+},
+{
+"treaty": "ICESCR",
+"state": "Poland",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1351
+},
+{
+"treaty": "ICESCR",
+"state": "Portugal",
+"verdict": "read",
+"common_articles_named": [
+5,
+12
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 9153
+},
+{
+"treaty": "ICESCR",
+"state": "Qatar",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2660
+},
+{
+"treaty": "ICESCR",
+"state": "Republic of Moldova",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1386
+},
+{
+"treaty": "ICESCR",
+"state": "Romania",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3198
+},
+{
+"treaty": "ICESCR",
+"state": "Russian Federation",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 652
+},
+{
+"treaty": "ICESCR",
+"state": "Rwanda",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 9
+},
+{
+"treaty": "ICESCR",
+"state": "Serbia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 338
+},
+{
+"treaty": "ICESCR",
+"state": "Slovakia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1913
+},
+{
+"treaty": "ICESCR",
+"state": "Slovenia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 338
+},
+{
+"treaty": "ICESCR",
+"state": "Solomon Islands",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 227
+},
+{
+"treaty": "ICESCR",
+"state": "South Africa",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 291
+},
+{
+"treaty": "ICESCR",
+"state": "Spain",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 2354
+},
+{
+"treaty": "ICESCR",
+"state": "Sweden",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 12525
+},
+{
+"treaty": "ICESCR",
+"state": "Switzerland",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1469
+},
+{
+"treaty": "ICESCR",
+"state": "Syrian Arab Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1742
+},
+{
+"treaty": "ICESCR",
+"state": "Thailand",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 356
+},
+{
+"treaty": "ICESCR",
+"state": "Trinidad and Tobago",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 428
+},
+{
+"treaty": "ICESCR",
+"state": "T\u00fcrkiye",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 906
+},
+{
+"treaty": "ICESCR",
+"state": "Ukraine",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 641
+},
+{
+"treaty": "ICESCR",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 12205
+},
+{
+"treaty": "ICESCR",
+"state": "Viet Nam",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 603
+},
+{
+"treaty": "ICESCR",
+"state": "Yemen",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 377
+},
+{
+"treaty": "ICESCR",
+"state": "Zambia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 573
+},
+{
+"treaty": "ICCPR",
+"state": "Afghanistan",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 34
+},
+{
+"treaty": "ICCPR",
+"state": "Algeria",
+"verdict": "read",
+"common_articles_named": [
+8
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1335
+},
+{
+"treaty": "ICCPR",
+"state": "Argentina",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 532
+},
+{
+"treaty": "ICCPR",
+"state": "Australia",
+"verdict": "read",
+"common_articles_named": [
+4,
+10,
+17
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7017
+},
+{
+"treaty": "ICCPR",
+"state": "Austria",
+"verdict": "read",
+"common_articles_named": [
+6,
+10,
+16,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8518
+},
+{
+"treaty": "ICCPR",
+"state": "Bahamas (The)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 291
+},
+{
+"treaty": "ICCPR",
+"state": "Bahrain",
+"verdict": "read",
+"common_articles_named": [
+4,
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 27210
+},
+{
+"treaty": "ICCPR",
+"state": "Bangladesh",
+"verdict": "read",
+"common_articles_named": [
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2361
+},
+{
+"treaty": "ICCPR",
+"state": "Barbados",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 367
+},
+{
+"treaty": "ICCPR",
+"state": "Belarus",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 750
+},
+{
+"treaty": "ICCPR",
+"state": "Belgium",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+10,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 11618
+},
+{
+"treaty": "ICCPR",
+"state": "Belize",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 868
+},
+{
+"treaty": "ICCPR",
+"state": "Bosnia and Herzegovina",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2323
+},
+{
+"treaty": "ICCPR",
+"state": "Botswana",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3468
+},
+{
+"treaty": "ICCPR",
+"state": "Bulgaria",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 407
+},
+{
+"treaty": "ICCPR",
+"state": "Burkina Faso",
+"verdict": "read",
+"common_articles_named": [
+5,
+6,
+8,
+17
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1528
+},
+{
+"treaty": "ICCPR",
+"state": "Cambodia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 2058
+},
+{
+"treaty": "ICCPR",
+"state": "Canada",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7538
+},
+{
+"treaty": "ICCPR",
+"state": "Chile",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 337
+},
+{
+"treaty": "ICCPR",
+"state": "Congo",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1138
+},
+{
+"treaty": "ICCPR",
+"state": "Croatia",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2373
+},
+{
+"treaty": "ICCPR",
+"state": "Cuba",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 894
+},
+{
+"treaty": "ICCPR",
+"state": "Cyprus",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1176
+},
+{
+"treaty": "ICCPR",
+"state": "Czech Republic",
+"verdict": "read",
+"common_articles_named": [
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7164
+},
+{
+"treaty": "ICCPR",
+"state": "Democratic People's Republic of Korea",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 834
+},
+{
+"treaty": "ICCPR",
+"state": "Denmark",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+10,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8960
+},
+{
+"treaty": "ICCPR",
+"state": "Ecuador",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 565
+},
+{
+"treaty": "ICCPR",
+"state": "Egypt",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 28
+},
+{
+"treaty": "ICCPR",
+"state": "Estonia",
+"verdict": "read",
+"common_articles_named": [
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4402
+},
+{
+"treaty": "ICCPR",
+"state": "Finland",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+10,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 18395
+},
+{
+"treaty": "ICCPR",
+"state": "France",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+10,
+16,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 10107
+},
+{
+"treaty": "ICCPR",
+"state": "Gambia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 595
+},
+{
+"treaty": "ICCPR",
+"state": "Germany",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 10882
+},
+{
+"treaty": "ICCPR",
+"state": "Ghana",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 893
+},
+{
+"treaty": "ICCPR",
+"state": "Greece",
+"verdict": "read",
+"common_articles_named": [
+6,
+8,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6533
+},
+{
+"treaty": "ICCPR",
+"state": "Guinea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 542
+},
+{
+"treaty": "ICCPR",
+"state": "Guinea-Bissau",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 377
+},
+{
+"treaty": "ICCPR",
+"state": "Guyana",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 959
+},
+{
+"treaty": "ICCPR",
+"state": "Hungary",
+"verdict": "read",
+"common_articles_named": [
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5853
+},
+{
+"treaty": "ICCPR",
+"state": "Iceland",
+"verdict": "read",
+"common_articles_named": [
+8,
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2449
+},
+{
+"treaty": "ICCPR",
+"state": "India",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 28
+},
+{
+"treaty": "ICCPR",
+"state": "Indonesia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 818
+},
+{
+"treaty": "ICCPR",
+"state": "Iraq",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 27
+},
+{
+"treaty": "ICCPR",
+"state": "Ireland",
+"verdict": "read",
+"common_articles_named": [
+6,
+10,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 9696
+},
+{
+"treaty": "ICCPR",
+"state": "Israel",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 384
+},
+{
+"treaty": "ICCPR",
+"state": "Italy",
+"verdict": "read",
+"common_articles_named": [
+6,
+8
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6646
+},
+{
+"treaty": "ICCPR",
+"state": "Japan",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 28
+},
+{
+"treaty": "ICCPR",
+"state": "Kuwait",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 612
+},
+{
+"treaty": "ICCPR",
+"state": "Lao People's Democratic Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5203
+},
+{
+"treaty": "ICCPR",
+"state": "Latvia",
+"verdict": "read",
+"common_articles_named": [
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7199
+},
+{
+"treaty": "ICCPR",
+"state": "Libya",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 254
+},
+{
+"treaty": "ICCPR",
+"state": "Liechtenstein",
+"verdict": "read",
+"common_articles_named": [
+17,
+24
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2842
+},
+{
+"treaty": "ICCPR",
+"state": "Luxembourg",
+"verdict": "read",
+"common_articles_named": [
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3489
+},
+{
+"treaty": "ICCPR",
+"state": "Maldives",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2381
+},
+{
+"treaty": "ICCPR",
+"state": "Malta",
+"verdict": "read",
+"common_articles_named": [
+16
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2562
+},
+{
+"treaty": "ICCPR",
+"state": "Mauritania",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1741
+},
+{
+"treaty": "ICCPR",
+"state": "Mexico",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2405
+},
+{
+"treaty": "ICCPR",
+"state": "Monaco",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2845
+},
+{
+"treaty": "ICCPR",
+"state": "Mongolia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 31
+},
+{
+"treaty": "ICCPR",
+"state": "Montenegro",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 108
+},
+{
+"treaty": "ICCPR",
+"state": "Netherlands (Kingdom of the)",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 20764
+},
+{
+"treaty": "ICCPR",
+"state": "New Zealand",
+"verdict": "read",
+"common_articles_named": [
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2013
+},
+{
+"treaty": "ICCPR",
+"state": "North Macedonia",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": false,
+"chars": 1958
+},
+{
+"treaty": "ICCPR",
+"state": "Norway",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+8,
+10,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8369
+},
+{
+"treaty": "ICCPR",
+"state": "Oman",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1030
+},
+{
+"treaty": "ICCPR",
+"state": "Pakistan",
+"verdict": "read",
+"common_articles_named": [
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6133
+},
+{
+"treaty": "ICCPR",
+"state": "Peru",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 323
+},
+{
+"treaty": "ICCPR",
+"state": "Philippines",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 343
+},
+{
+"treaty": "ICCPR",
+"state": "Poland",
+"verdict": "read",
+"common_articles_named": [
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8729
+},
+{
+"treaty": "ICCPR",
+"state": "Portugal",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 12101
+},
+{
+"treaty": "ICCPR",
+"state": "Qatar",
+"verdict": "read",
+"common_articles_named": [
+8
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3803
+},
+{
+"treaty": "ICCPR",
+"state": "Republic of Korea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 819
+},
+{
+"treaty": "ICCPR",
+"state": "Republic of Moldova",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1378
+},
+{
+"treaty": "ICCPR",
+"state": "Romania",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3190
+},
+{
+"treaty": "ICCPR",
+"state": "Russian Federation",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1374
+},
+{
+"treaty": "ICCPR",
+"state": "Samoa",
+"verdict": "read",
+"common_articles_named": [
+8,
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1227
+},
+{
+"treaty": "ICCPR",
+"state": "San Marino",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 337
+},
+{
+"treaty": "ICCPR",
+"state": "Senegal",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 598
+},
+{
+"treaty": "ICCPR",
+"state": "Serbia",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": false,
+"chars": 1958
+},
+{
+"treaty": "ICCPR",
+"state": "Slovakia",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+10,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 33094
+},
+{
+"treaty": "ICCPR",
+"state": "Slovenia",
+"verdict": "read",
+"common_articles_named": [
+4
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2298
+},
+{
+"treaty": "ICCPR",
+"state": "South Africa",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 334
+},
+{
+"treaty": "ICCPR",
+"state": "Spain",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7626
+},
+{
+"treaty": "ICCPR",
+"state": "Sri Lanka",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 526
+},
+{
+"treaty": "ICCPR",
+"state": "Sweden",
+"verdict": "read",
+"common_articles_named": [
+4,
+6,
+10,
+24,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 14587
+},
+{
+"treaty": "ICCPR",
+"state": "Switzerland",
+"verdict": "read",
+"common_articles_named": [
+6,
+10,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 9211
+},
+{
+"treaty": "ICCPR",
+"state": "Syrian Arab Republic",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 43
+},
+{
+"treaty": "ICCPR",
+"state": "Thailand",
+"verdict": "read",
+"common_articles_named": [
+6
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5064
+},
+{
+"treaty": "ICCPR",
+"state": "Trinidad and Tobago",
+"verdict": "read",
+"common_articles_named": [
+4,
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2941
+},
+{
+"treaty": "ICCPR",
+"state": "Tunisia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 560
+},
+{
+"treaty": "ICCPR",
+"state": "T\u00fcrkiye",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 929
+},
+{
+"treaty": "ICCPR",
+"state": "Ukraine",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 982
+},
+{
+"treaty": "ICCPR",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"verdict": "read",
+"common_articles_named": [
+6,
+10,
+24,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 16202
+},
+{
+"treaty": "ICCPR",
+"state": "United States of America",
+"verdict": "read",
+"common_articles_named": [
+4,
+5,
+6,
+10,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7931
+},
+{
+"treaty": "ICCPR",
+"state": "Uruguay",
+"verdict": "read",
+"common_articles_named": [
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1069
+},
+{
+"treaty": "ICCPR",
+"state": "Venezuela (Bolivarian Republic of)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 800
+},
+{
+"treaty": "ICCPR",
+"state": "Viet Nam",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 31
+},
+{
+"treaty": "ICCPR",
+"state": "Yemen",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 188
+},
+{
+"treaty": "ICCPR",
+"state": "Zimbabwe",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 676
+},
+{
+"treaty": "CEDAW",
+"state": "Algeria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3413
+},
+{
+"treaty": "CEDAW",
+"state": "Argentina",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 213
+},
+{
+"treaty": "CEDAW",
+"state": "Australia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3984
+},
+{
+"treaty": "CEDAW",
+"state": "Austria",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 21342
+},
+{
+"treaty": "CEDAW",
+"state": "Bahamas (The)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1283
+},
+{
+"treaty": "CEDAW",
+"state": "Bahrain",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4587
+},
+{
+"treaty": "CEDAW",
+"state": "Bangladesh",
+"verdict": "read",
+"common_articles_named": [
+13
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 824
+},
+{
+"treaty": "CEDAW",
+"state": "Belarus",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 607
+},
+{
+"treaty": "CEDAW",
+"state": "Belgium",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6345
+},
+{
+"treaty": "CEDAW",
+"state": "Bosnia and Herzegovina",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 343
+},
+{
+"treaty": "CEDAW",
+"state": "Brazil",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1217
+},
+{
+"treaty": "CEDAW",
+"state": "Brunei Darussalam",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 477
+},
+{
+"treaty": "CEDAW",
+"state": "Bulgaria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 314
+},
+{
+"treaty": "CEDAW",
+"state": "Cambodia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 886
+},
+{
+"treaty": "CEDAW",
+"state": "Canada",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5975
+},
+{
+"treaty": "CEDAW",
+"state": "Chile",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 814
+},
+{
+"treaty": "CEDAW",
+"state": "China",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5022
+},
+{
+"treaty": "CEDAW",
+"state": "Cook Islands",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1160
+},
+{
+"treaty": "CEDAW",
+"state": "Croatia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 343
+},
+{
+"treaty": "CEDAW",
+"state": "Cuba",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 303
+},
+{
+"treaty": "CEDAW",
+"state": "Cyprus",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 525
+},
+{
+"treaty": "CEDAW",
+"state": "Czech Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6801
+},
+{
+"treaty": "CEDAW",
+"state": "Democratic People's Republic of Korea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3038
+},
+{
+"treaty": "CEDAW",
+"state": "Denmark",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 14634
+},
+{
+"treaty": "CEDAW",
+"state": "Egypt",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2915
+},
+{
+"treaty": "CEDAW",
+"state": "El Salvador",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 276
+},
+{
+"treaty": "CEDAW",
+"state": "Estonia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7903
+},
+{
+"treaty": "CEDAW",
+"state": "Ethiopia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 123
+},
+{
+"treaty": "CEDAW",
+"state": "Fiji",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 197
+},
+{
+"treaty": "CEDAW",
+"state": "Finland",
+"verdict": "read",
+"common_articles_named": [
+5,
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 27634
+},
+{
+"treaty": "CEDAW",
+"state": "France",
+"verdict": "read",
+"common_articles_named": [
+5,
+7,
+8,
+14
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 13445
+},
+{
+"treaty": "CEDAW",
+"state": "Germany",
+"verdict": "read",
+"common_articles_named": [
+7,
+10,
+12,
+13
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 17835
+},
+{
+"treaty": "CEDAW",
+"state": "Greece",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6482
+},
+{
+"treaty": "CEDAW",
+"state": "Guinea",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 453
+},
+{
+"treaty": "CEDAW",
+"state": "Hungary",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4364
+},
+{
+"treaty": "CEDAW",
+"state": "India",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1096
+},
+{
+"treaty": "CEDAW",
+"state": "Indonesia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 389
+},
+{
+"treaty": "CEDAW",
+"state": "Iraq",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1708
+},
+{
+"treaty": "CEDAW",
+"state": "Ireland",
+"verdict": "read",
+"common_articles_named": [
+5,
+13
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 12776
+},
+{
+"treaty": "CEDAW",
+"state": "Israel",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1479
+},
+{
+"treaty": "CEDAW",
+"state": "Italy",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6435
+},
+{
+"treaty": "CEDAW",
+"state": "Jamaica",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 791
+},
+{
+"treaty": "CEDAW",
+"state": "Jordan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 686
+},
+{
+"treaty": "CEDAW",
+"state": "Kuwait",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3130
+},
+{
+"treaty": "CEDAW",
+"state": "Latvia",
+"verdict": "read",
+"common_articles_named": [
+8
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8340
+},
+{
+"treaty": "CEDAW",
+"state": "Lebanon",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1320
+},
+{
+"treaty": "CEDAW",
+"state": "Lesotho",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3169
+},
+{
+"treaty": "CEDAW",
+"state": "Libya",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 843
+},
+{
+"treaty": "CEDAW",
+"state": "Liechtenstein",
+"verdict": "read",
+"common_articles_named": [
+3
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1326
+},
+{
+"treaty": "CEDAW",
+"state": "Luxembourg",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 755
+},
+{
+"treaty": "CEDAW",
+"state": "Malawi",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1307
+},
+{
+"treaty": "CEDAW",
+"state": "Malaysia",
+"verdict": "read",
+"common_articles_named": [
+5,
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6959
+},
+{
+"treaty": "CEDAW",
+"state": "Maldives",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7049
+},
+{
+"treaty": "CEDAW",
+"state": "Malta",
+"verdict": "read",
+"common_articles_named": [
+13
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1682
+},
+{
+"treaty": "CEDAW",
+"state": "Mauritania",
+"verdict": "read",
+"common_articles_named": [
+13
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2824
+},
+{
+"treaty": "CEDAW",
+"state": "Mauritius",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 566
+},
+{
+"treaty": "CEDAW",
+"state": "Mexico",
+"verdict": "read",
+"common_articles_named": [
+3,
+5,
+13
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4521
+},
+{
+"treaty": "CEDAW",
+"state": "Micronesia (Federated States of)",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2809
+},
+{
+"treaty": "CEDAW",
+"state": "Monaco",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2281
+},
+{
+"treaty": "CEDAW",
+"state": "Mongolia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 305
+},
+{
+"treaty": "CEDAW",
+"state": "Montenegro",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 108
+},
+{
+"treaty": "CEDAW",
+"state": "Morocco",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3949
+},
+{
+"treaty": "CEDAW",
+"state": "Myanmar",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 145
+},
+{
+"treaty": "CEDAW",
+"state": "Netherlands (Kingdom of the)",
+"verdict": "read",
+"common_articles_named": [
+5,
+13
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 25530
+},
+{
+"treaty": "CEDAW",
+"state": "New Zealand",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5122
+},
+{
+"treaty": "CEDAW",
+"state": "Niger",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6254
+},
+{
+"treaty": "CEDAW",
+"state": "North Macedonia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 343
+},
+{
+"treaty": "CEDAW",
+"state": "Norway",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 15291
+},
+{
+"treaty": "CEDAW",
+"state": "Oman",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1156
+},
+{
+"treaty": "CEDAW",
+"state": "Pakistan",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5010
+},
+{
+"treaty": "CEDAW",
+"state": "Poland",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 9553
+},
+{
+"treaty": "CEDAW",
+"state": "Portugal",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 11791
+},
+{
+"treaty": "CEDAW",
+"state": "Qatar",
+"verdict": "read",
+"common_articles_named": [
+5,
+8
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3431
+},
+{
+"treaty": "CEDAW",
+"state": "Republic of Korea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1881
+},
+{
+"treaty": "CEDAW",
+"state": "Romania",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6444
+},
+{
+"treaty": "CEDAW",
+"state": "Russian Federation",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 618
+},
+{
+"treaty": "CEDAW",
+"state": "Saudi Arabia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 360
+},
+{
+"treaty": "CEDAW",
+"state": "Serbia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 343
+},
+{
+"treaty": "CEDAW",
+"state": "Singapore",
+"verdict": "read",
+"common_articles_named": [
+7
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8636
+},
+{
+"treaty": "CEDAW",
+"state": "Slovakia",
+"verdict": "read",
+"common_articles_named": [
+5,
+8
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7612
+},
+{
+"treaty": "CEDAW",
+"state": "Slovenia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 343
+},
+{
+"treaty": "CEDAW",
+"state": "Spain",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 13550
+},
+{
+"treaty": "CEDAW",
+"state": "Sweden",
+"verdict": "read",
+"common_articles_named": [
+5,
+13
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 26780
+},
+{
+"treaty": "CEDAW",
+"state": "Switzerland",
+"verdict": "read",
+"common_articles_named": [
+7,
+8,
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1962
+},
+{
+"treaty": "CEDAW",
+"state": "Syrian Arab Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 965
+},
+{
+"treaty": "CEDAW",
+"state": "Thailand",
+"verdict": "read",
+"common_articles_named": [
+7,
+10
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3490
+},
+{
+"treaty": "CEDAW",
+"state": "Trinidad and Tobago",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 256
+},
+{
+"treaty": "CEDAW",
+"state": "Tunisia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2876
+},
+{
+"treaty": "CEDAW",
+"state": "T\u00fcrkiye",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 267
+},
+{
+"treaty": "CEDAW",
+"state": "Ukraine",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 607
+},
+{
+"treaty": "CEDAW",
+"state": "United Arab Emirates",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4537
+},
+{
+"treaty": "CEDAW",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"verdict": "read",
+"common_articles_named": [
+6,
+10,
+13
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 66363
+},
+{
+"treaty": "CEDAW",
+"state": "Venezuela (Bolivarian Republic of)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 421
+},
+{
+"treaty": "CEDAW",
+"state": "Viet Nam",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 156
+},
+{
+"treaty": "CEDAW",
+"state": "Yemen",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 447
+},
+{
+"treaty": "CAT",
+"state": "Afghanistan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1109
+},
+{
+"treaty": "CAT",
+"state": "Algeria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 661
+},
+{
+"treaty": "CAT",
+"state": "Andorra",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 599
+},
+{
+"treaty": "CAT",
+"state": "Argentina",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 499
+},
+{
+"treaty": "CAT",
+"state": "Australia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3075
+},
+{
+"treaty": "CAT",
+"state": "Austria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5377
+},
+{
+"treaty": "CAT",
+"state": "Azerbaijan",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 352
+},
+{
+"treaty": "CAT",
+"state": "Bahamas (The)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 618
+},
+{
+"treaty": "CAT",
+"state": "Bahrain",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 388
+},
+{
+"treaty": "CAT",
+"state": "Bangladesh",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2479
+},
+{
+"treaty": "CAT",
+"state": "Belarus",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3004
+},
+{
+"treaty": "CAT",
+"state": "Belgium",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4098
+},
+{
+"treaty": "CAT",
+"state": "Bolivia (Plurinational State of)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 335
+},
+{
+"treaty": "CAT",
+"state": "Bosnia and Herzegovina",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1208
+},
+{
+"treaty": "CAT",
+"state": "Botswana",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 351
+},
+{
+"treaty": "CAT",
+"state": "Brazil",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 379
+},
+{
+"treaty": "CAT",
+"state": "Brunei Darussalam",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 264
+},
+{
+"treaty": "CAT",
+"state": "Bulgaria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1026
+},
+{
+"treaty": "CAT",
+"state": "Burundi",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 411
+},
+{
+"treaty": "CAT",
+"state": "Cameroon",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1010
+},
+{
+"treaty": "CAT",
+"state": "Canada",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2611
+},
+{
+"treaty": "CAT",
+"state": "Chile",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 12100
+},
+{
+"treaty": "CAT",
+"state": "China",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1484
+},
+{
+"treaty": "CAT",
+"state": "Costa Rica",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1237
+},
+{
+"treaty": "CAT",
+"state": "Croatia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1177
+},
+{
+"treaty": "CAT",
+"state": "Cuba",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 945
+},
+{
+"treaty": "CAT",
+"state": "Cyprus",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 536
+},
+{
+"treaty": "CAT",
+"state": "Czech Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7155
+},
+{
+"treaty": "CAT",
+"state": "Denmark",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3378
+},
+{
+"treaty": "CAT",
+"state": "Dominica",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 320
+},
+{
+"treaty": "CAT",
+"state": "Ecuador",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1018
+},
+{
+"treaty": "CAT",
+"state": "Equatorial Guinea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 410
+},
+{
+"treaty": "CAT",
+"state": "Eritrea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 444
+},
+{
+"treaty": "CAT",
+"state": "Fiji",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7142
+},
+{
+"treaty": "CAT",
+"state": "Finland",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 12651
+},
+{
+"treaty": "CAT",
+"state": "France",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4037
+},
+{
+"treaty": "CAT",
+"state": "Georgia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1002
+},
+{
+"treaty": "CAT",
+"state": "Germany",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 18406
+},
+{
+"treaty": "CAT",
+"state": "Ghana",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1267
+},
+{
+"treaty": "CAT",
+"state": "Greece",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3244
+},
+{
+"treaty": "CAT",
+"state": "Guatemala",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 703
+},
+{
+"treaty": "CAT",
+"state": "Guinea-Bissau",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 971
+},
+{
+"treaty": "CAT",
+"state": "Holy See",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 2121
+},
+{
+"treaty": "CAT",
+"state": "Honduras",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 467
+},
+{
+"treaty": "CAT",
+"state": "Hungary",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3563
+},
+{
+"treaty": "CAT",
+"state": "Iceland",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 688
+},
+{
+"treaty": "CAT",
+"state": "Indonesia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 724
+},
+{
+"treaty": "CAT",
+"state": "Ireland",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6525
+},
+{
+"treaty": "CAT",
+"state": "Israel",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 361
+},
+{
+"treaty": "CAT",
+"state": "Italy",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3760
+},
+{
+"treaty": "CAT",
+"state": "Japan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 306
+},
+{
+"treaty": "CAT",
+"state": "Kazakhstan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 837
+},
+{
+"treaty": "CAT",
+"state": "Kuwait",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 134
+},
+{
+"treaty": "CAT",
+"state": "Lao People's Democratic Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2577
+},
+{
+"treaty": "CAT",
+"state": "Latvia",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4133
+},
+{
+"treaty": "CAT",
+"state": "Liechtenstein",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 667
+},
+{
+"treaty": "CAT",
+"state": "Luxembourg",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2263
+},
+{
+"treaty": "CAT",
+"state": "Maldives",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 373
+},
+{
+"treaty": "CAT",
+"state": "Malta",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 186
+},
+{
+"treaty": "CAT",
+"state": "Mauritania",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2812
+},
+{
+"treaty": "CAT",
+"state": "Mexico",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 642
+},
+{
+"treaty": "CAT",
+"state": "Monaco",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 894
+},
+{
+"treaty": "CAT",
+"state": "Montenegro",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 776
+},
+{
+"treaty": "CAT",
+"state": "Morocco",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1152
+},
+{
+"treaty": "CAT",
+"state": "Netherlands (Kingdom of the)",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8194
+},
+{
+"treaty": "CAT",
+"state": "New Zealand",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 952
+},
+{
+"treaty": "CAT",
+"state": "North Macedonia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": false,
+"chars": 1016
+},
+{
+"treaty": "CAT",
+"state": "Norway",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6135
+},
+{
+"treaty": "CAT",
+"state": "Oman",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 298
+},
+{
+"treaty": "CAT",
+"state": "Pakistan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3416
+},
+{
+"treaty": "CAT",
+"state": "Panama",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 195
+},
+{
+"treaty": "CAT",
+"state": "Paraguay",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 549
+},
+{
+"treaty": "CAT",
+"state": "Peru",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 750
+},
+{
+"treaty": "CAT",
+"state": "Poland",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7442
+},
+{
+"treaty": "CAT",
+"state": "Portugal",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6930
+},
+{
+"treaty": "CAT",
+"state": "Qatar",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5095
+},
+{
+"treaty": "CAT",
+"state": "Republic of Korea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 663
+},
+{
+"treaty": "CAT",
+"state": "Republic of Moldova",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 718
+},
+{
+"treaty": "CAT",
+"state": "Romania",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2036
+},
+{
+"treaty": "CAT",
+"state": "Russian Federation",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3906
+},
+{
+"treaty": "CAT",
+"state": "Samoa",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 610
+},
+{
+"treaty": "CAT",
+"state": "San Marino",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 781
+},
+{
+"treaty": "CAT",
+"state": "Saudi Arabia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 283
+},
+{
+"treaty": "CAT",
+"state": "Senegal",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 747
+},
+{
+"treaty": "CAT",
+"state": "Serbia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1685
+},
+{
+"treaty": "CAT",
+"state": "Seychelles",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 150
+},
+{
+"treaty": "CAT",
+"state": "Slovakia",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4630
+},
+{
+"treaty": "CAT",
+"state": "Slovenia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 679
+},
+{
+"treaty": "CAT",
+"state": "South Africa",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 870
+},
+{
+"treaty": "CAT",
+"state": "Spain",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5601
+},
+{
+"treaty": "CAT",
+"state": "Sri Lanka",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 404
+},
+{
+"treaty": "CAT",
+"state": "St. Lucia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 311
+},
+{
+"treaty": "CAT",
+"state": "Sudan",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 219
+},
+{
+"treaty": "CAT",
+"state": "Sweden",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 15392
+},
+{
+"treaty": "CAT",
+"state": "Switzerland",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4535
+},
+{
+"treaty": "CAT",
+"state": "Syrian Arab Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 456
+},
+{
+"treaty": "CAT",
+"state": "Thailand",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 528
+},
+{
+"treaty": "CAT",
+"state": "Togo",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 757
+},
+{
+"treaty": "CAT",
+"state": "Tunisia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 731
+},
+{
+"treaty": "CAT",
+"state": "Tuvalu",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 164
+},
+{
+"treaty": "CAT",
+"state": "T\u00fcrkiye",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 863
+},
+{
+"treaty": "CAT",
+"state": "Uganda",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 450
+},
+{
+"treaty": "CAT",
+"state": "Ukraine",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3162
+},
+{
+"treaty": "CAT",
+"state": "United Arab Emirates",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 846
+},
+{
+"treaty": "CAT",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 9139
+},
+{
+"treaty": "CAT",
+"state": "United States of America",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8257
+},
+{
+"treaty": "CAT",
+"state": "Uruguay",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 193
+},
+{
+"treaty": "CAT",
+"state": "Venezuela (Bolivarian Republic of)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 218
+},
+{
+"treaty": "CAT",
+"state": "Viet Nam",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 695
+},
+{
+"treaty": "CAT",
+"state": "Yugoslavia (former)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1037
+},
+{
+"treaty": "CAT",
+"state": "Zambia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 9
+},
+{
+"treaty": "CRC",
+"state": "Afghanistan",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 299
+},
+{
+"treaty": "CRC",
+"state": "Algeria",
+"verdict": "read",
+"common_articles_named": [
+17,
+24,
+35
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1859
+},
+{
+"treaty": "CRC",
+"state": "Andorra",
+"verdict": "read",
+"common_articles_named": [
+8
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2093
+},
+{
+"treaty": "CRC",
+"state": "Argentina",
+"verdict": "read",
+"common_articles_named": [
+21,
+24
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1533
+},
+{
+"treaty": "CRC",
+"state": "Australia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 602
+},
+{
+"treaty": "CRC",
+"state": "Austria",
+"verdict": "read",
+"common_articles_named": [
+11,
+17
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4268
+},
+{
+"treaty": "CRC",
+"state": "Bahamas (The)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 414
+},
+{
+"treaty": "CRC",
+"state": "Bangladesh",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 695
+},
+{
+"treaty": "CRC",
+"state": "Belgium",
+"verdict": "read",
+"common_articles_named": [
+9,
+11,
+18,
+21,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3988
+},
+{
+"treaty": "CRC",
+"state": "Bosnia and Herzegovina",
+"verdict": "read",
+"common_articles_named": [
+9
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1377
+},
+{
+"treaty": "CRC",
+"state": "Botswana",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1582
+},
+{
+"treaty": "CRC",
+"state": "Brunei Darussalam",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1982
+},
+{
+"treaty": "CRC",
+"state": "Bulgaria",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1819
+},
+{
+"treaty": "CRC",
+"state": "Canada",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1213
+},
+{
+"treaty": "CRC",
+"state": "China",
+"verdict": "read",
+"common_articles_named": [
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4753
+},
+{
+"treaty": "CRC",
+"state": "Colombia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1059
+},
+{
+"treaty": "CRC",
+"state": "Cook Islands",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3132
+},
+{
+"treaty": "CRC",
+"state": "Croatia",
+"verdict": "read",
+"common_articles_named": [
+9
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1671
+},
+{
+"treaty": "CRC",
+"state": "Cuba",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 266
+},
+{
+"treaty": "CRC",
+"state": "Czech Republic",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3741
+},
+{
+"treaty": "CRC",
+"state": "Denmark",
+"verdict": "read",
+"common_articles_named": [
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2097
+},
+{
+"treaty": "CRC",
+"state": "Djibouti",
+"verdict": "read",
+"common_articles_named": [
+17,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4080
+},
+{
+"treaty": "CRC",
+"state": "Ecuador",
+"verdict": "read",
+"common_articles_named": [
+24
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 919
+},
+{
+"treaty": "CRC",
+"state": "Egypt",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 887
+},
+{
+"treaty": "CRC",
+"state": "Eswatini",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 571
+},
+{
+"treaty": "CRC",
+"state": "Finland",
+"verdict": "read",
+"common_articles_named": [
+17,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6299
+},
+{
+"treaty": "CRC",
+"state": "France",
+"verdict": "read",
+"common_articles_named": [
+21,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2193
+},
+{
+"treaty": "CRC",
+"state": "Germany",
+"verdict": "read",
+"common_articles_named": [
+9,
+18,
+21,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 11624
+},
+{
+"treaty": "CRC",
+"state": "Guatemala",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 784
+},
+{
+"treaty": "CRC",
+"state": "Holy See",
+"verdict": "read",
+"common_articles_named": [
+24,
+31
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2236
+},
+{
+"treaty": "CRC",
+"state": "Hungary",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1733
+},
+{
+"treaty": "CRC",
+"state": "Iceland",
+"verdict": "read",
+"common_articles_named": [
+9
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1486
+},
+{
+"treaty": "CRC",
+"state": "India",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1141
+},
+{
+"treaty": "CRC",
+"state": "Indonesia",
+"verdict": "read",
+"common_articles_named": [
+17,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1961
+},
+{
+"treaty": "CRC",
+"state": "Iran (Islamic Republic of)",
+"verdict": "read",
+"common_articles_named": [
+17,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6082
+},
+{
+"treaty": "CRC",
+"state": "Iraq",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 302
+},
+{
+"treaty": "CRC",
+"state": "Ireland",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3778
+},
+{
+"treaty": "CRC",
+"state": "Italy",
+"verdict": "read",
+"common_articles_named": [
+17,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2624
+},
+{
+"treaty": "CRC",
+"state": "Japan",
+"verdict": "read",
+"common_articles_named": [
+9
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1202
+},
+{
+"treaty": "CRC",
+"state": "Jordan",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1066
+},
+{
+"treaty": "CRC",
+"state": "Kiribati",
+"verdict": "read",
+"common_articles_named": [
+24
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1163
+},
+{
+"treaty": "CRC",
+"state": "Kuwait",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 717
+},
+{
+"treaty": "CRC",
+"state": "Latvia",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2400
+},
+{
+"treaty": "CRC",
+"state": "Liechtenstein",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1440
+},
+{
+"treaty": "CRC",
+"state": "Luxembourg",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1442
+},
+{
+"treaty": "CRC",
+"state": "Malaysia",
+"verdict": "read",
+"common_articles_named": [
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2907
+},
+{
+"treaty": "CRC",
+"state": "Maldives",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 796
+},
+{
+"treaty": "CRC",
+"state": "Mali",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 184
+},
+{
+"treaty": "CRC",
+"state": "Malta",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 340
+},
+{
+"treaty": "CRC",
+"state": "Mauritania",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 276
+},
+{
+"treaty": "CRC",
+"state": "Mauritius",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 408
+},
+{
+"treaty": "CRC",
+"state": "Monaco",
+"verdict": "read",
+"common_articles_named": [
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 547
+},
+{
+"treaty": "CRC",
+"state": "Montenegro",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 108
+},
+{
+"treaty": "CRC",
+"state": "Morocco",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1243
+},
+{
+"treaty": "CRC",
+"state": "Myanmar",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2809
+},
+{
+"treaty": "CRC",
+"state": "Netherlands (Kingdom of the)",
+"verdict": "read",
+"common_articles_named": [
+18,
+21,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 12768
+},
+{
+"treaty": "CRC",
+"state": "New Zealand",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1386
+},
+{
+"treaty": "CRC",
+"state": "North Macedonia",
+"verdict": "read",
+"common_articles_named": [
+9
+],
+"names_no_article": false,
+"in_entries": false,
+"chars": 1108
+},
+{
+"treaty": "CRC",
+"state": "Norway",
+"verdict": "read",
+"common_articles_named": [
+17,
+21,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6857
+},
+{
+"treaty": "CRC",
+"state": "Oman",
+"verdict": "read",
+"common_articles_named": [
+9,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2514
+},
+{
+"treaty": "CRC",
+"state": "Pakistan",
+"verdict": "read",
+"common_articles_named": [
+17,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3214
+},
+{
+"treaty": "CRC",
+"state": "Poland",
+"verdict": "read",
+"common_articles_named": [
+21,
+24
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2268
+},
+{
+"treaty": "CRC",
+"state": "Portugal",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4153
+},
+{
+"treaty": "CRC",
+"state": "Qatar",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4297
+},
+{
+"treaty": "CRC",
+"state": "Republic of Korea",
+"verdict": "read",
+"common_articles_named": [
+9,
+21,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 604
+},
+{
+"treaty": "CRC",
+"state": "Republic of Moldova",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1285
+},
+{
+"treaty": "CRC",
+"state": "Romania",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 836
+},
+{
+"treaty": "CRC",
+"state": "Samoa",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 647
+},
+{
+"treaty": "CRC",
+"state": "Saudi Arabia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 459
+},
+{
+"treaty": "CRC",
+"state": "Serbia",
+"verdict": "read",
+"common_articles_named": [
+9
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4058
+},
+{
+"treaty": "CRC",
+"state": "Singapore",
+"verdict": "read",
+"common_articles_named": [
+5,
+17
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3523
+},
+{
+"treaty": "CRC",
+"state": "Slovakia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1987
+},
+{
+"treaty": "CRC",
+"state": "Slovenia",
+"verdict": "read",
+"common_articles_named": [
+9
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1278
+},
+{
+"treaty": "CRC",
+"state": "Somalia",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 241
+},
+{
+"treaty": "CRC",
+"state": "Spain",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 745
+},
+{
+"treaty": "CRC",
+"state": "Sweden",
+"verdict": "read",
+"common_articles_named": [
+17,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3260
+},
+{
+"treaty": "CRC",
+"state": "Switzerland",
+"verdict": "read",
+"common_articles_named": [
+5,
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3660
+},
+{
+"treaty": "CRC",
+"state": "Syrian Arab Republic",
+"verdict": "read",
+"common_articles_named": [
+17,
+18,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6156
+},
+{
+"treaty": "CRC",
+"state": "Thailand",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1249
+},
+{
+"treaty": "CRC",
+"state": "Tunisia",
+"verdict": "read",
+"common_articles_named": [
+40
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2132
+},
+{
+"treaty": "CRC",
+"state": "T\u00fcrkiye",
+"verdict": "read",
+"common_articles_named": [
+17
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 380
+},
+{
+"treaty": "CRC",
+"state": "United Arab Emirates",
+"verdict": "read",
+"common_articles_named": [
+17,
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1372
+},
+{
+"treaty": "CRC",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 13480
+},
+{
+"treaty": "CRC",
+"state": "Uruguay",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 900
+},
+{
+"treaty": "CRC",
+"state": "Venezuela (Bolivarian Republic of)",
+"verdict": "read",
+"common_articles_named": [
+21
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 784
+},
+{
+"treaty": "CRC",
+"state": "Yemen",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 172
+},
+{
+"treaty": "CRC",
+"state": "Yugoslavia (former)",
+"verdict": "read",
+"common_articles_named": [
+9
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 771
+},
+{
+"treaty": "CRMW",
+"state": "Algeria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 630
+},
+{
+"treaty": "CRMW",
+"state": "Argentina",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 272
+},
+{
+"treaty": "CRMW",
+"state": "Chile",
+"verdict": "read",
+"common_articles_named": [
+22
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 445
+},
+{
+"treaty": "CRMW",
+"state": "Colombia",
+"verdict": "read",
+"common_articles_named": [
+46
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 653
+},
+{
+"treaty": "CRMW",
+"state": "Ecuador",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 728
+},
+{
+"treaty": "CRMW",
+"state": "Egypt",
+"verdict": "read",
+"common_articles_named": [
+18
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1101
+},
+{
+"treaty": "CRMW",
+"state": "El Salvador",
+"verdict": "read",
+"common_articles_named": [
+46
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1742
+},
+{
+"treaty": "CRMW",
+"state": "Fiji",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 142
+},
+{
+"treaty": "CRMW",
+"state": "Guatemala",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 676
+},
+{
+"treaty": "CRMW",
+"state": "Guinea-Bissau",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 776
+},
+{
+"treaty": "CRMW",
+"state": "Mexico",
+"verdict": "read",
+"common_articles_named": [
+19,
+22,
+26,
+33
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2821
+},
+{
+"treaty": "CRMW",
+"state": "Morocco",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 515
+},
+{
+"treaty": "CRMW",
+"state": "Nicaragua",
+"verdict": "read",
+"common_articles_named": [
+27,
+42
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1116
+},
+{
+"treaty": "CRMW",
+"state": "Sri Lanka",
+"verdict": "read",
+"common_articles_named": [
+8
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 843
+},
+{
+"treaty": "CRMW",
+"state": "Syrian Arab Republic",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 287
+},
+{
+"treaty": "CRMW",
+"state": "T\u00fcrkiye",
+"verdict": "read",
+"common_articles_named": [
+46
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 892
+},
+{
+"treaty": "CRMW",
+"state": "Uganda",
+"verdict": "read",
+"common_articles_named": [
+18
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 188
+},
+{
+"treaty": "CRMW",
+"state": "Uruguay",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 694
+},
+{
+"treaty": "CRMW",
+"state": "Venezuela (Bolivarian Republic of)",
+"verdict": "read",
+"common_articles_named": [
+26
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 879
+},
+{
+"treaty": "CRPD",
+"state": "Armenia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 778
+},
+{
+"treaty": "CRPD",
+"state": "Australia",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 1394
+},
+{
+"treaty": "CRPD",
+"state": "Austria",
+"verdict": "read",
+"common_articles_named": [
+23,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5968
+},
+{
+"treaty": "CRPD",
+"state": "Azerbaijan",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 258
+},
+{
+"treaty": "CRPD",
+"state": "Belgium",
+"verdict": "read",
+"common_articles_named": [
+19,
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6093
+},
+{
+"treaty": "CRPD",
+"state": "Bhutan",
+"verdict": "read",
+"common_articles_named": [
+23,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 311
+},
+{
+"treaty": "CRPD",
+"state": "Bolivia (Plurinational State of)",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 94
+},
+{
+"treaty": "CRPD",
+"state": "Brunei Darussalam",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2881
+},
+{
+"treaty": "CRPD",
+"state": "Canada",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1051
+},
+{
+"treaty": "CRPD",
+"state": "China",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 1032
+},
+{
+"treaty": "CRPD",
+"state": "Cyprus",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1157
+},
+{
+"treaty": "CRPD",
+"state": "Czech Republic",
+"verdict": "read",
+"common_articles_named": [
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8265
+},
+{
+"treaty": "CRPD",
+"state": "Egypt",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 637
+},
+{
+"treaty": "CRPD",
+"state": "El Salvador",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2175
+},
+{
+"treaty": "CRPD",
+"state": "Estonia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 391
+},
+{
+"treaty": "CRPD",
+"state": "European Union",
+"verdict": "read",
+"common_articles_named": [
+19,
+23,
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 22665
+},
+{
+"treaty": "CRPD",
+"state": "Finland",
+"verdict": "read",
+"common_articles_named": [
+19,
+23,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2619
+},
+{
+"treaty": "CRPD",
+"state": "France",
+"verdict": "read",
+"common_articles_named": [
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2542
+},
+{
+"treaty": "CRPD",
+"state": "Georgia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 403
+},
+{
+"treaty": "CRPD",
+"state": "Germany",
+"verdict": "read",
+"common_articles_named": [
+23,
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5947
+},
+{
+"treaty": "CRPD",
+"state": "Greece",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 634
+},
+{
+"treaty": "CRPD",
+"state": "Guatemala",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": false,
+"chars": 491
+},
+{
+"treaty": "CRPD",
+"state": "Hungary",
+"verdict": "read",
+"common_articles_named": [
+19,
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4028
+},
+{
+"treaty": "CRPD",
+"state": "Iran (Islamic Republic of)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1892
+},
+{
+"treaty": "CRPD",
+"state": "Ireland",
+"verdict": "read",
+"common_articles_named": [
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8683
+},
+{
+"treaty": "CRPD",
+"state": "Israel",
+"verdict": "read",
+"common_articles_named": [
+23
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 314
+},
+{
+"treaty": "CRPD",
+"state": "Japan",
+"verdict": "read",
+"common_articles_named": [
+23
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 305
+},
+{
+"treaty": "CRPD",
+"state": "Kuwait",
+"verdict": "read",
+"common_articles_named": [
+19,
+23,
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 554
+},
+{
+"treaty": "CRPD",
+"state": "Latvia",
+"verdict": "read",
+"common_articles_named": [
+19,
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3160
+},
+{
+"treaty": "CRPD",
+"state": "Libya",
+"verdict": "read",
+"common_articles_named": [
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3566
+},
+{
+"treaty": "CRPD",
+"state": "Liechtenstein",
+"verdict": "read",
+"common_articles_named": [
+24
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 596
+},
+{
+"treaty": "CRPD",
+"state": "Lithuania",
+"verdict": "read",
+"common_articles_named": [
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 534
+},
+{
+"treaty": "CRPD",
+"state": "Malaysia",
+"verdict": "read",
+"common_articles_named": [
+5
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1155
+},
+{
+"treaty": "CRPD",
+"state": "Malta",
+"verdict": "read",
+"common_articles_named": [
+19,
+23,
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4416
+},
+{
+"treaty": "CRPD",
+"state": "Mauritius",
+"verdict": "read",
+"common_articles_named": [
+9,
+24
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 927
+},
+{
+"treaty": "CRPD",
+"state": "Mexico",
+"verdict": "read",
+"common_articles_named": [
+4,
+19,
+20,
+24,
+25,
+26
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5425
+},
+{
+"treaty": "CRPD",
+"state": "Monaco",
+"verdict": "read",
+"common_articles_named": [
+21,
+23,
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2809
+},
+{
+"treaty": "CRPD",
+"state": "Netherlands (Kingdom of the)",
+"verdict": "read",
+"common_articles_named": [
+5,
+10,
+19,
+23,
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 15320
+},
+{
+"treaty": "CRPD",
+"state": "New Zealand",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 594
+},
+{
+"treaty": "CRPD",
+"state": "Norway",
+"verdict": "read",
+"common_articles_named": [
+23,
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5868
+},
+{
+"treaty": "CRPD",
+"state": "Peru",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1503
+},
+{
+"treaty": "CRPD",
+"state": "Poland",
+"verdict": "read",
+"common_articles_named": [
+23,
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 4778
+},
+{
+"treaty": "CRPD",
+"state": "Portugal",
+"verdict": "read",
+"common_articles_named": [
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 9055
+},
+{
+"treaty": "CRPD",
+"state": "Republic of Korea",
+"verdict": "read",
+"common_articles_named": [
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 301
+},
+{
+"treaty": "CRPD",
+"state": "Romania",
+"verdict": "read",
+"common_articles_named": [
+4,
+5,
+19,
+23,
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 7073
+},
+{
+"treaty": "CRPD",
+"state": "Singapore",
+"verdict": "read",
+"common_articles_named": [
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1960
+},
+{
+"treaty": "CRPD",
+"state": "Slovakia",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5201
+},
+{
+"treaty": "CRPD",
+"state": "Spain",
+"verdict": "read",
+"common_articles_named": [
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2722
+},
+{
+"treaty": "CRPD",
+"state": "Suriname",
+"verdict": "read",
+"common_articles_named": [
+9,
+19,
+20,
+26
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2005
+},
+{
+"treaty": "CRPD",
+"state": "Sweden",
+"verdict": "read",
+"common_articles_named": [
+19,
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 10048
+},
+{
+"treaty": "CRPD",
+"state": "Switzerland",
+"verdict": "read",
+"common_articles_named": [
+19,
+23,
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 8192
+},
+{
+"treaty": "CRPD",
+"state": "Syrian Arab Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 658
+},
+{
+"treaty": "CRPD",
+"state": "Thailand",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 377
+},
+{
+"treaty": "CRPD",
+"state": "Tonga",
+"verdict": "read",
+"common_articles_named": [
+23,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1569
+},
+{
+"treaty": "CRPD",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"verdict": "read",
+"common_articles_named": [
+19,
+23,
+24,
+25,
+29
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5410
+},
+{
+"treaty": "CRPD",
+"state": "Uzbekistan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 853
+},
+{
+"treaty": "CRPD",
+"state": "Venezuela (Bolivarian Republic of)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 582
+},
+{
+"treaty": "CED",
+"state": "Albania",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 824
+},
+{
+"treaty": "CED",
+"state": "Argentina",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 932
+},
+{
+"treaty": "CED",
+"state": "Austria",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 673
+},
+{
+"treaty": "CED",
+"state": "Belgium",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2977
+},
+{
+"treaty": "CED",
+"state": "Bosnia and Herzegovina",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1027
+},
+{
+"treaty": "CED",
+"state": "Chile",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 658
+},
+{
+"treaty": "CED",
+"state": "Colombia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 466
+},
+{
+"treaty": "CED",
+"state": "Croatia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 529
+},
+{
+"treaty": "CED",
+"state": "Cuba",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 257
+},
+{
+"treaty": "CED",
+"state": "Czech Republic",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 888
+},
+{
+"treaty": "CED",
+"state": "Denmark",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": false,
+"chars": 129
+},
+{
+"treaty": "CED",
+"state": "Ecuador",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 788
+},
+{
+"treaty": "CED",
+"state": "Fiji",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 142
+},
+{
+"treaty": "CED",
+"state": "Finland",
+"verdict": "read",
+"common_articles_named": [
+19,
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2964
+},
+{
+"treaty": "CED",
+"state": "France",
+"verdict": "read",
+"common_articles_named": [
+26
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2641
+},
+{
+"treaty": "CED",
+"state": "Germany",
+"verdict": "read",
+"common_articles_named": [
+17,
+19,
+20,
+24
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 6049
+},
+{
+"treaty": "CED",
+"state": "Japan",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 332
+},
+{
+"treaty": "CED",
+"state": "Lithuania",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 874
+},
+{
+"treaty": "CED",
+"state": "Luxembourg",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 806
+},
+{
+"treaty": "CED",
+"state": "Mali",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 443
+},
+{
+"treaty": "CED",
+"state": "Mexico",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 518
+},
+{
+"treaty": "CED",
+"state": "Montenegro",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 931
+},
+{
+"treaty": "CED",
+"state": "Morocco",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 374
+},
+{
+"treaty": "CED",
+"state": "Netherlands (Kingdom of the)",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3504
+},
+{
+"treaty": "CED",
+"state": "Norway",
+"verdict": "read",
+"common_articles_named": [
+17,
+20
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2265
+},
+{
+"treaty": "CED",
+"state": "Oman",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 378
+},
+{
+"treaty": "CED",
+"state": "Peru",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 488
+},
+{
+"treaty": "CED",
+"state": "Poland",
+"verdict": "read",
+"common_articles_named": [
+19,
+25
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 3697
+},
+{
+"treaty": "CED",
+"state": "Portugal",
+"verdict": "read",
+"common_articles_named": [
+19
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 5622
+},
+{
+"treaty": "CED",
+"state": "Republic of Korea",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 733
+},
+{
+"treaty": "CED",
+"state": "Serbia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 557
+},
+{
+"treaty": "CED",
+"state": "Slovakia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 759
+},
+{
+"treaty": "CED",
+"state": "Slovenia",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 878
+},
+{
+"treaty": "CED",
+"state": "Spain",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 842
+},
+{
+"treaty": "CED",
+"state": "Sri Lanka",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 369
+},
+{
+"treaty": "CED",
+"state": "Sudan",
+"verdict": "read",
+"common_articles_named": [],
+"names_no_article": true,
+"in_entries": true,
+"chars": 219
+},
+{
+"treaty": "CED",
+"state": "Switzerland",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 2458
+},
+{
+"treaty": "CED",
+"state": "Thailand",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 133
+},
+{
+"treaty": "CED",
+"state": "Ukraine",
+"verdict": "read",
+"common_articles_named": [
+10,
+13,
+14
+],
+"names_no_article": false,
+"in_entries": true,
+"chars": 1283
+},
+{
+"treaty": "CED",
+"state": "Uruguay",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 858
+},
+{
+"treaty": "CED",
+"state": "Venezuela (Bolivarian Republic of)",
+"verdict": "cleared",
+"common_articles_named": [],
+"names_no_article": false,
+"in_entries": true,
+"chars": 551
+}
+]

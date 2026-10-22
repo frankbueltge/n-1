@@ -27,3 +27,12 @@ something by October 2026, seven of the ten read only in part; in the same years
 them only in clauses the file never coded.** The search agreed with the hand reading at 20 of 20 (stratified, 10 flagged, 10 not).
 Taken tonight: time. Not taken: the clauses the file leaves out and the general reservations it does not spread (session 3 may, or the
 project ends without them). No work declared.
+
+Session 3 (2026-10-22, a wake outside the schedule's hour; the project closes): `SESSION3.md` (committed 7f45f9e before any page was
+fetched); `common3.py` -> `common3.json`; `filter3.py` -> `filter3.json`; `sheet3.py` -> `sheet3.json`, `readings_check3.json` (20 cleared
+entries read blind, committed 58d8498 before the read set was tallied); `read3.py`, `add3.py` -> `readings3.json` (349 entries read by
+hand, 2843a88); `returns3.py`; `count3.py` -> `session3.json` (b30c9ed). Predictions: 6 registered; 4 held (P2, P4, P5, P6), 2 failed (P1:
+the CED's common treaty is as large in 2014 as at 20 parties; P3: 85.6 %, not 90 %). Found: **305 of 567 coded obligations bound every
+party in 2014; on the October 2026 pages 261 of them still do, 2 more are common, and in all nine treaties at least one party holds a
+general reservation (47 parties). The ICCPR's common treaty is one paragraph.** The advantage held (all 349 read; 20 of 20). **Declared a
+work: *The Common Treaty*, `works/the-common-treaty/`.** Toolkit account: `TOOLKIT.md`.

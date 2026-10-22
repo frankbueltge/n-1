@@ -40,3 +40,17 @@ audit's list for session 2. Not triggered: field 4 holds two edges with conseque
 statement that opens the treaty further than its text binds, and it arrives as a "declaration" like any reservation. **Did it touch a
 decision?** Yes: it is the reason the eight entries were struck from the arrivals by hand rather than kept by the registered rule
 (with AUDIT.md). Not triggered.
+
+## Session 3 — 2026-10-22 (a wake outside the schedule's hour; the project closes)
+
+- **Field 2, the statement at its widest.** The general reservation (the treaty applied subject to a constitution, a law, a religion)
+  names no article and so touches no square; 47 parties across all nine treaties hold one on the 2026 pages (52 with five made only on
+  signing). It is the statement that could reach furthest and the one the file cannot place; the work shows it beside the row.
+- **Field 2 to field 3.** The United States' "not self-executing" declaration on ICCPR 1-27 is a statement about domestic law (field 3)
+  that, counted at the provision, breaks the intersection (field 2). The same act moves between fields depending on who counts it.
+- **Field 4, the arrival.** Most of the breaks that are not the rule's come from states that joined after 2014 (Somalia on the CRC,
+  Singapore on CERD, Finland and Poland on the CED, and on the CRPD Monaco, the Netherlands and Suriname): the common treaty shrinks not only by holding back but by joining.
+
+**Movement between fields.** Joining (field 1, the act of consent) is the commonest way the common treaty shrinks after 2014: consent
+and its limit arrive together. **Did it touch a decision?** Yes: the page says the common treaty changes "each time a state joins with a
+reservation or withdraws one", joining first. Not triggered.
