@@ -1,0 +1,361 @@
+{
+ "file_sha256": "eb5458352ee99b50ae00ecf7ffaadcf5cdae191d6bd900b3a6038db2114e618e",
+ "pages_fetched": "2026-10-22 12:17 UTC",
+ "pages_sha256": {
+  "IV-2": "c7b928e86d8b2fb9b37b0d76f908bea5d1537cef1e2d921e5f121fd2e09aa8a0",
+  "IV-3": "d4887a7328d47515531c46551dd77ba0c93be441e82ddd9e6098f5975a7c36d6",
+  "IV-4": "c9805cb584524f090986e5892f124253ee18e9432961b5b69bf378951aa18aac",
+  "IV-8": "7257ddec2ee682313d2d5f90b19b718d58507899e0600b081aa2619f9cce4e0a",
+  "IV-9": "09fc0e5ad5ed2de25611768842dac1cde200d5be40559fc421c53c67452467b8",
+  "IV-11": "dda5a3ad82b4036509c5fd5843f519ebb646f91ec0710682d515b43d0f3a694e",
+  "IV-13": "e41d18e904644a80399e51f6ca1e7566735617021b0a6e0ef5f17eabe2c960c0",
+  "IV-15": "212bdf258d16c58162c1bb832111b7f9a2a4e6f675b4e348eca8c1599b01ab9f",
+  "IV-16": "aca0ab6371034397b74f88b5fe6542c143e6e130a2ca170023b6564677c6214f"
+ },
+ "standing_pairs": 221,
+ "unmatched": [
+  [
+   "China, Hong Kong Special Administrative Region",
+   "CERD"
+  ],
+  [
+   "China, Hong Kong Special Administrative Region",
+   "CRC"
+  ],
+  [
+   "China, Macao Special Administrative Region",
+   "CRC"
+  ]
+ ],
+ "matched": 218,
+ "flagged_late": 27,
+ "flagged_share": 0.1239,
+ "flagged_by_treaty": {
+  "CRC": 9,
+  "CEDAW": 8,
+  "CAT": 3,
+  "ICCPR": 3,
+  "CRPD": 3,
+  "CERD": 1
+ },
+ "standing_by_treaty": {
+  "CRC": 49,
+  "ICCPR": 44,
+  "CEDAW": 43,
+  "CRPD": 24,
+  "CERD": 21,
+  "ICESCR": 19,
+  "CAT": 10,
+  "CRMW": 7,
+  "CED": 1
+ },
+ "latest_year_by_pair": {
+  "2015": 8,
+  "2016": 2,
+  "2017": 2,
+  "2018": 2,
+  "2019": 2,
+  "2020": 1,
+  "2021": 1,
+  "2022": 3,
+  "2023": 1,
+  "2024": 2,
+  "2025": 2,
+  "2026": 1
+ },
+ "median_latest_year": 2018,
+ "flagged_pairs": [
+  [
+   "Algeria",
+   "CEDAW",
+   [
+    2025
+   ]
+  ],
+  [
+   "Australia",
+   "CEDAW",
+   [
+    2018
+   ]
+  ],
+  [
+   "Austria",
+   "CAT",
+   [
+    2018
+   ]
+  ],
+  [
+   "Austria",
+   "CRC",
+   [
+    2015
+   ]
+  ],
+  [
+   "Bangladesh",
+   "CAT",
+   [
+    2026
+   ]
+  ],
+  [
+   "Brunei Darussalam",
+   "CRC",
+   [
+    2015
+   ]
+  ],
+  [
+   "Democratic People's Republic of Korea",
+   "CEDAW",
+   [
+    2015
+   ]
+  ],
+  [
+   "Iceland",
+   "CRC",
+   [
+    2015
+   ]
+  ],
+  [
+   "Iceland",
+   "ICCPR",
+   [
+    2024
+   ]
+  ],
+  [
+   "Kiribati",
+   "CRC",
+   [
+    2015
+   ]
+  ],
+  [
+   "Kuwait",
+   "ICCPR",
+   [
+    2016
+   ]
+  ],
+  [
+   "Maldives",
+   "CEDAW",
+   [
+    2020
+   ]
+  ],
+  [
+   "Monaco",
+   "CEDAW",
+   [
+    2017
+   ]
+  ],
+  [
+   "Oman",
+   "CEDAW",
+   [
+    2019
+   ]
+  ],
+  [
+   "Oman",
+   "CRC",
+   [
+    2022
+   ]
+  ],
+  [
+   "Qatar",
+   "CRC",
+   [
+    2022
+   ]
+  ],
+  [
+   "Republic of Korea",
+   "CRC",
+   [
+    2017
+   ]
+  ],
+  [
+   "Republic of Korea",
+   "CRPD",
+   [
+    2021
+   ]
+  ],
+  [
+   "Singapore",
+   "CEDAW",
+   [
+    2015
+   ]
+  ],
+  [
+   "Singapore",
+   "CRPD",
+   [
+    2025
+   ]
+  ],
+  [
+   "Syrian Arab Republic",
+   "CRC",
+   [
+    2022
+   ]
+  ],
+  [
+   "Thailand",
+   "CAT",
+   [
+    2023
+   ]
+  ],
+  [
+   "Thailand",
+   "CERD",
+   [
+    2016
+   ]
+  ],
+  [
+   "Thailand",
+   "CRC",
+   [
+    2024
+   ]
+  ],
+  [
+   "Thailand",
+   "CRPD",
+   [
+    2015
+   ]
+  ],
+  [
+   "United Kingdom of Great Britain and Northern Ireland",
+   "CEDAW",
+   [
+    2019
+   ]
+  ],
+  [
+   "United Kingdom of Great Britain and Northern Ireland",
+   "ICCPR",
+   [
+    2015
+   ]
+  ]
+ ],
+ "sensitivity_entry_text_only": [],
+ "new_after_2014": {
+  "CERD": {
+   "joined_2015_or_later": 5,
+   "with_entry_text": 1,
+   "states_with_entry_text": [
+    "Singapore"
+   ]
+  },
+  "ICESCR": {
+   "joined_2015_or_later": 12,
+   "with_entry_text": 4,
+   "states_with_entry_text": [
+    "Myanmar",
+    "Oman",
+    "Qatar",
+    "South Africa"
+   ]
+  },
+  "ICCPR": {
+   "joined_2015_or_later": 7,
+   "with_entry_text": 2,
+   "states_with_entry_text": [
+    "Oman",
+    "Qatar"
+   ]
+  },
+  "CEDAW": {
+   "joined_2015_or_later": 1,
+   "with_entry_text": 0,
+   "states_with_entry_text": []
+  },
+  "CAT": {
+   "joined_2015_or_later": 20,
+   "with_entry_text": 9,
+   "states_with_entry_text": [
+    "Bahamas (The)",
+    "Dominica",
+    "Fiji",
+    "Oman",
+    "Samoa",
+    "St. Lucia",
+    "Sudan",
+    "Tuvalu",
+    "Viet Nam"
+   ]
+  },
+  "CRC": {
+   "joined_2015_or_later": 2,
+   "with_entry_text": 1,
+   "states_with_entry_text": [
+    "Somalia"
+   ]
+  },
+  "CRMW": {
+   "joined_2015_or_later": 13,
+   "with_entry_text": 3,
+   "states_with_entry_text": [
+    "Fiji",
+    "Guinea-Bissau",
+    "Venezuela (Bolivarian Republic of)"
+   ]
+  },
+  "CRPD": {
+   "joined_2015_or_later": 43,
+   "with_entry_text": 11,
+   "states_with_entry_text": [
+    "Bhutan",
+    "Brunei Darussalam",
+    "Finland",
+    "Ireland",
+    "Libya",
+    "Liechtenstein",
+    "Monaco",
+    "Netherlands (Kingdom of the)",
+    "Suriname",
+    "Tonga",
+    "Uzbekistan"
+   ]
+  },
+  "CED": {
+   "joined_2015_or_later": 34,
+   "with_entry_text": 15,
+   "states_with_entry_text": [
+    "Croatia",
+    "Czech Republic",
+    "Fiji",
+    "Finland",
+    "Luxembourg",
+    "Norway",
+    "Oman",
+    "Poland",
+    "Republic of Korea",
+    "Slovenia",
+    "Sri Lanka",
+    "Sudan",
+    "Switzerland",
+    "Thailand",
+    "Ukraine"
+   ]
+  }
+ },
+ "new_after_2014_with_entry_text": 46
+}

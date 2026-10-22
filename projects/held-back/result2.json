@@ -1,0 +1,93 @@
+{
+ "check": {
+  "agree": 20,
+  "of": 20,
+  "stratified": "10 flagged, 10 unflagged; precision and recall at those strata only, not a population rate"
+ },
+ "predictions": [
+  {
+   "n": 1,
+   "text": "at most 15 % of standing pairs carry a late withdrawal",
+   "held": true,
+   "found": "27 of 218 matched pairs (12.4 %); 3 pairs unmatched (Hong Kong, Macao)"
+  },
+  {
+   "n": 2,
+   "text": "the treaty with the most flagged pairs is CEDAW",
+   "held": false,
+   "found": "CRC, 9 of its 49 standing pairs; CEDAW 8 of 43"
+  },
+  {
+   "n": 3,
+   "text": "states joining after 2014 with an entry carrying text outnumber the flagged pairs",
+   "held": true,
+   "found": "46 against 27, as registered; read by hand after the count, 38 of the 46 entries hold something back (8 accept a committee or object to another state only), still more than 27"
+  },
+  {
+   "n": 4,
+   "text": "the flag agrees with the hand reading at at least 17 of 20",
+   "held": true,
+   "found": "20 of 20; 0 cannot tell"
+  },
+  {
+   "n": 5,
+   "text": "of checked pairs read as late, fewer than half are whole",
+   "held": true,
+   "found": "3 of 10 whole"
+  }
+ ],
+ "held": 4,
+ "arrivals": {
+  "entries": 46,
+  "holding_back": 38,
+  "only_clauses_the_file_does_not_code": 12,
+  "by_year": {
+   "2015": 4,
+   "2016": 4,
+   "2017": 4,
+   "2018": 6,
+   "2019": 4,
+   "2020": 3,
+   "2021": 3,
+   "2023": 2,
+   "2024": 5,
+   "2025": 1,
+   "2026": 2
+  },
+  "by_treaty": {
+   "CAT": 9,
+   "CED": 8,
+   "CERD": 1,
+   "CRC": 1,
+   "CRMW": 3,
+   "CRPD": 10,
+   "ICCPR": 2,
+   "ICESCR": 4
+  }
+ },
+ "returns": {
+  "pairs": 27,
+  "by_latest_year": {
+   "2015": 8,
+   "2016": 2,
+   "2017": 2,
+   "2018": 2,
+   "2019": 2,
+   "2020": 1,
+   "2021": 1,
+   "2022": 3,
+   "2023": 1,
+   "2024": 2,
+   "2025": 2,
+   "2026": 1
+  },
+  "by_treaty": {
+   "CRC": 9,
+   "CEDAW": 8,
+   "CAT": 3,
+   "ICCPR": 3,
+   "CRPD": 3,
+   "CERD": 1
+  }
+ }
+}
