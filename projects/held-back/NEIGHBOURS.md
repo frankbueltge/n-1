@@ -24,3 +24,15 @@ Nearest by move:
 
 The scholarship is the near neighbour: it already codes and models withdrawals. Whatever this project makes has to state its daylight
 against that, not against art alone.
+
+## Session 3 (2026-10-22, before the work was declared)
+
+- Atlas of Data Art fetched again (sha256 `4765ce73…`, unchanged); grep for treat, reservation, human rights, convention, law, consensus,
+  united nations: entries on human rights investigation (Forensic Architecture, Lawrence Abu Hamdan, *The REDress Project*), none that
+  reads treaties or reservations, none that draws an intersection of obligations. Nearest by move stays Jarpa.
+- Web, standard: "provisions binding all parties human rights treaty reservations "every party" common obligations analysis" returned
+  scholarship and Human Rights Committee material, among it General Comment 24 (1994) on reservations to the ICCPR, which holds that some
+  of the Covenant's provisions may not be reserved, and the United Kingdom's response to it (hosted at bayefsky.com). No art work. No study
+  found that counts, year by year, the provisions binding every party (not proven absent: one search).
+- Daylight, as stated in `works/the-common-treaty/WORK.md`: General Comment 24 says what should be common; the work shows what the record
+  makes common, and the scholars model withdrawal, not the intersection.
