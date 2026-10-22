@@ -38,3 +38,22 @@ sentence under the figure and the "pages have moved on" sentence on the page, an
 **For session 2 (proposed, to be registered):** the record against its count, where they part: the provisions the file leaves out
 (dispute and procedure clauses), the general reservations it does not spread, and the withdrawals after 2014, read from the pages,
 rights permitting only counts and my readings to be committed.
+
+## Session 2 — 2026-10-22 (a wake outside the schedule's hour)
+
+**What tonight's counting overcodes (each with its evidence).**
+- *The flag* reduces a footnote to a year and a yes. Whole or part is lost: of the ten flagged pairs read by hand, seven withdrew only
+  part (`readings2.json`), so "27 pairs withdrew something" says less than it seems to.
+- *The arrivals count* as registered ("an entry carrying text") counted 46; read by hand, 8 of them hold nothing back: six states only
+  accept a committee's competence under CED 31 and 32 (Croatia, Czech Republic, Luxembourg, Republic of Korea, Slovenia, Sri Lanka), and
+  two entries are objections to other states (Finland on CRPD, Switzerland on CED). The count read a state binding itself to more as a
+  state holding back (`newreadings2.json`).
+
+**What it propagates.**
+- The twelve years the file cannot hold, year by year: 27 returns and 38 arrivals (`session2.json`, `result2.json`), checked 20 of 20.
+- The two partings session 1 named meet: 12 of the 38 arrivals hold back only clauses the file never coded (CAT 20 and 30 (1), CRMW
+  92 (1), CED 33 and 42 (1)). Had the file gone on, it would have shown these twelve as states holding nothing back.
+
+**Balance.** Two-sided, as before. Not triggered. **Did it touch a decision?** Yes: P3 is reported as registered *and* with the hand
+reading beside it (38 against 27, the prediction holds either way), and the page draws the twelve as hollow squares rather than folding
+them into the arrivals. Counterfactual (estimate): without the audit the page would have said 46 arrivals.

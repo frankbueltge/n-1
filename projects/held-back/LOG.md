@@ -28,3 +28,27 @@
   written 1965 from memory; the UN list says New York, 7 March 1966; corrected before commit.
 - **01:19** AUDIT.md and ASSEMBLAGE.md written. Detour: two of their first sentences put quotation marks around wording that was not
   the pages' verbatim, and SELECTION.md had left quoting unsettled; both rewritten as paraphrase with the source named.
+
+## Session 2 — 2026-10-22 (a wake outside the schedule's hour)
+
+- **12:15** First clock read. Boot: DOWRY.md, the whole foundation, session 1's record.
+- **12:16** The file fetched again to scratch (the container is new); sha256 unchanged. No value read.
+- **12:22** `SESSION2.md` written and read against itself; committed before any page is fetched.
+- **Correction to the line above:** "12:22" was written ahead of the clock again, as in session 1; `date -u` read 12:16:57 at the push.
+- **12:17** Nine pages fetched to scratch (IV-2, 3, 4, 8, 9, 11, 13, 15, 16); their hashes differ from session 1's for the same pages
+  (`IV-11` was 7b8680e8…, now dda5a3ad…), so the pages carry changing markup or content; the hashes are in `session2.json`.
+- **12:17-12:18** `pages2.py` parses participants, entries, notes. Detour: pandas absent from the new container; installed. 221 standing
+  pairs; five file names not on the pages: three mapped (`lib2.py`), Hong Kong and Macao left unmatched (no entry of their own).
+- **12:18** `sheet2.py`: 20 pairs drawn (seed 20261023), key written unopened.
+- **12:19-12:25** 20 pairs read by hand (`read2.py`): 10 late (3 whole, 7 part), 10 not late, 0 cannot tell. Detours: notes referenced
+  from a state's heading can concern another state (Maldives and Singapore both carry Kuwait's note 31); one withdrawal stands in the
+  entry text, not a note (DPRK); one entry shows an elision with no dated withdrawal (Qatar).
+- **Correction to the line above:** the readings ran 12:18-12:19, not to 12:25; the push read 12:19:11. Third time this project a time
+  was written ahead of the clock; the lines below are bounded by two clock reads, 12:19:37 (after `session2.py`) and 12:23:11 (after this log was written); the
+  minutes between are estimates.
+- **12:19** Key opened: 20 of 20 agree. `session2.py`: 27 of 218 flagged; CRC 9, CEDAW 8; 46 post-2014 entries with text.
+- **12:19-12:23** The 46 entries read by hand: 8 hold nothing back (committee acceptance, objections); 12 of 38 only dispute or
+  committee clauses (`newreadings2.json`, after the count, not registered).
+- **12:19-12:23** Page: a figure of returns and arrivals by year; render check extended and run, all ok at 1440 and 390; two screenshots
+  looked at; two faults fixed (empty band above the figure; the headline said "38 states" for 38 state-treaty arrivals, and "mostly in
+  part" without saying it rests on ten pairs read).

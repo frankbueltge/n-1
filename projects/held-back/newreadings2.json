@@ -1,0 +1,375 @@
+{
+ "read_by": "Remainder, by hand, after the registered count (not registered); machine readings, estimates",
+ "estimate": true,
+ "note": "only_dispute_or_committee_clauses: every provision held back is a dispute-settlement clause (CAT 30 (1), CRMW 92 (1), CED 42 (1)) or a committee-competence clause (CAT 20, CED 33), none of which the file codes (session1.json: all rows are obligations); Ukraine also designates authorities under CED 13-14, which holds nothing back",
+ "items": [
+  {
+   "treaty": "CERD",
+   "state": "Singapore",
+   "joined": 2017,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "ICESCR",
+   "state": "Myanmar",
+   "joined": 2017,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "ICESCR",
+   "state": "Oman",
+   "joined": 2020,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "ICESCR",
+   "state": "Qatar",
+   "joined": 2018,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "ICESCR",
+   "state": "South Africa",
+   "joined": 2015,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "ICCPR",
+   "state": "Oman",
+   "joined": 2025,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "ICCPR",
+   "state": "Qatar",
+   "joined": 2018,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CAT",
+   "state": "Bahamas (The)",
+   "joined": 2018,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CAT",
+   "state": "Dominica",
+   "joined": 2024,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CAT",
+   "state": "Fiji",
+   "joined": 2016,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CAT",
+   "state": "Oman",
+   "joined": 2020,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CAT",
+   "state": "Samoa",
+   "joined": 2019,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CAT",
+   "state": "St. Lucia",
+   "joined": 2026,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CAT",
+   "state": "Sudan",
+   "joined": 2021,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CAT",
+   "state": "Tuvalu",
+   "joined": 2024,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CAT",
+   "state": "Viet Nam",
+   "joined": 2015,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRC",
+   "state": "Somalia",
+   "joined": 2015,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRMW",
+   "state": "Fiji",
+   "joined": 2019,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CRMW",
+   "state": "Guinea-Bissau",
+   "joined": 2018,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CRMW",
+   "state": "Venezuela (Bolivarian Republic of)",
+   "joined": 2016,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Bhutan",
+   "joined": 2024,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Brunei Darussalam",
+   "joined": 2016,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Finland",
+   "joined": 2016,
+   "reading": "not holding back",
+   "only_dispute_or_committee_clauses": null,
+   "remark": "objections to other states only"
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Ireland",
+   "joined": 2018,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Libya",
+   "joined": 2018,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Liechtenstein",
+   "joined": 2023,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Monaco",
+   "joined": 2017,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Netherlands (Kingdom of the)",
+   "joined": 2016,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Suriname",
+   "joined": 2017,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Tonga",
+   "joined": 2026,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CRPD",
+   "state": "Uzbekistan",
+   "joined": 2021,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CED",
+   "state": "Croatia",
+   "joined": 2022,
+   "reading": "not holding back",
+   "only_dispute_or_committee_clauses": null,
+   "remark": "accepts the Committee (arts 31, 32) only"
+  },
+  {
+   "treaty": "CED",
+   "state": "Czech Republic",
+   "joined": 2017,
+   "reading": "not holding back",
+   "only_dispute_or_committee_clauses": null,
+   "remark": "accepts the Committee (arts 31, 32) only"
+  },
+  {
+   "treaty": "CED",
+   "state": "Fiji",
+   "joined": 2019,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CED",
+   "state": "Finland",
+   "joined": 2023,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CED",
+   "state": "Luxembourg",
+   "joined": 2022,
+   "reading": "not holding back",
+   "only_dispute_or_committee_clauses": null,
+   "remark": "accepts the Committee (arts 31, 32) only"
+  },
+  {
+   "treaty": "CED",
+   "state": "Norway",
+   "joined": 2019,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CED",
+   "state": "Oman",
+   "joined": 2020,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CED",
+   "state": "Poland",
+   "joined": 2024,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": false,
+   "remark": ""
+  },
+  {
+   "treaty": "CED",
+   "state": "Republic of Korea",
+   "joined": 2023,
+   "reading": "not holding back",
+   "only_dispute_or_committee_clauses": null,
+   "remark": "accepts the Committee (arts 31, 32) only"
+  },
+  {
+   "treaty": "CED",
+   "state": "Slovenia",
+   "joined": 2021,
+   "reading": "not holding back",
+   "only_dispute_or_committee_clauses": null,
+   "remark": "accepts the Committee (arts 31, 32) only"
+  },
+  {
+   "treaty": "CED",
+   "state": "Sri Lanka",
+   "joined": 2016,
+   "reading": "not holding back",
+   "only_dispute_or_committee_clauses": null,
+   "remark": "accepts the Committee (art 32) only"
+  },
+  {
+   "treaty": "CED",
+   "state": "Sudan",
+   "joined": 2021,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CED",
+   "state": "Switzerland",
+   "joined": 2016,
+   "reading": "not holding back",
+   "only_dispute_or_committee_clauses": null,
+   "remark": "an objection to another state; read in part (first 700 characters)"
+  },
+  {
+   "treaty": "CED",
+   "state": "Thailand",
+   "joined": 2024,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  },
+  {
+   "treaty": "CED",
+   "state": "Ukraine",
+   "joined": 2015,
+   "reading": "holds back",
+   "only_dispute_or_committee_clauses": true,
+   "remark": ""
+  }
+ ]
+}

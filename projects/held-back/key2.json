@@ -1,0 +1,165 @@
+{
+ "seed": 20261023,
+ "items": [
+  {
+   "item": 1,
+   "state": "Thailand",
+   "treaty": "CAT",
+   "flag": true,
+   "years": [
+    2023
+   ]
+  },
+  {
+   "item": 2,
+   "state": "Maldives",
+   "treaty": "CEDAW",
+   "flag": true,
+   "years": [
+    2020
+   ]
+  },
+  {
+   "item": 3,
+   "state": "Poland",
+   "treaty": "CRC",
+   "flag": false,
+   "years": []
+  },
+  {
+   "item": 4,
+   "state": "Lao People's Democratic Republic",
+   "treaty": "CAT",
+   "flag": false,
+   "years": []
+  },
+  {
+   "item": 5,
+   "state": "Democratic People's Republic of Korea",
+   "treaty": "CEDAW",
+   "flag": true,
+   "years": [
+    2015
+   ]
+  },
+  {
+   "item": 6,
+   "state": "Indonesia",
+   "treaty": "ICCPR",
+   "flag": false,
+   "years": []
+  },
+  {
+   "item": 7,
+   "state": "Germany",
+   "treaty": "CED",
+   "flag": false,
+   "years": []
+  },
+  {
+   "item": 8,
+   "state": "Qatar",
+   "treaty": "CEDAW",
+   "flag": false,
+   "years": []
+  },
+  {
+   "item": 9,
+   "state": "India",
+   "treaty": "CEDAW",
+   "flag": false,
+   "years": []
+  },
+  {
+   "item": 10,
+   "state": "Israel",
+   "treaty": "CRPD",
+   "flag": false,
+   "years": []
+  },
+  {
+   "item": 11,
+   "state": "Thailand",
+   "treaty": "CRPD",
+   "flag": true,
+   "years": [
+    2015
+   ]
+  },
+  {
+   "item": 12,
+   "state": "Iceland",
+   "treaty": "CRC",
+   "flag": true,
+   "years": [
+    2015
+   ]
+  },
+  {
+   "item": 13,
+   "state": "Algeria",
+   "treaty": "CEDAW",
+   "flag": true,
+   "years": [
+    2025
+   ]
+  },
+  {
+   "item": 14,
+   "state": "Egypt",
+   "treaty": "CRMW",
+   "flag": false,
+   "years": []
+  },
+  {
+   "item": 15,
+   "state": "Singapore",
+   "treaty": "CEDAW",
+   "flag": true,
+   "years": [
+    2015
+   ]
+  },
+  {
+   "item": 16,
+   "state": "Republic of Korea",
+   "treaty": "CRPD",
+   "flag": true,
+   "years": [
+    2021
+   ]
+  },
+  {
+   "item": 17,
+   "state": "Iceland",
+   "treaty": "ICCPR",
+   "flag": true,
+   "years": [
+    2024
+   ]
+  },
+  {
+   "item": 18,
+   "state": "Kuwait",
+   "treaty": "CRPD",
+   "flag": false,
+   "years": []
+  },
+  {
+   "item": 19,
+   "state": "United Kingdom of Great Britain and Northern Ireland",
+   "treaty": "ICCPR",
+   "flag": true,
+   "years": [
+    2015
+   ]
+  },
+  {
+   "item": 20,
+   "state": "Bangladesh",
+   "treaty": "CEDAW",
+   "flag": false,
+   "years": []
+  }
+ ]
+}

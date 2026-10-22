@@ -24,3 +24,19 @@ to a review of the reservation (paraphrased; the wording is not quoted, SELECTIO
 
 **Did it touch a decision?** Partly: field 4's second edge (objection) is the movement the file flattens to a count, and it joins the
 audit's list for session 2. Not triggered: field 4 holds two edges with consequence for the next registration.
+
+## Session 2 — 2026-10-22 (a wake outside the schedule's hour)
+
+- **Field 2, a statement that runs the other way.** Six states that joined the Convention on Enforced Disappearance after 2014 made
+  declarations under its articles 31 and 32 that hold nothing back: they accept that the Committee may hear individuals and other
+  states. Germany's entry carries both kinds side by side (declarations on articles 16-18 and 24, and acceptance under 31 and 32). The
+  same act, a declaration, can except a provision or add an obligation; the file's word for it, `declaration` = 1, has one value.
+- **Field 4, again the objection.** Two of the post-2014 entries are objections only (Finland to Libya's and Bhutan's statements on
+  the CRPD; Switzerland to Oman's on the CED). The cutting edge session 1 found is still being used, twelve years after the file.
+- **Field 3 to field 4, looked for and not found.** None of the ten late withdrawals read tonight names a domestic law changed as its
+  ground; the footnotes record the act and its date (`readings2.json`). Session 1's Irish and Austrian cases stay the only ones read.
+
+**Movement between fields.** Field 2 into field 4 in the opposite direction from the withdrawal: acceptance of a committee is a
+statement that opens the treaty further than its text binds, and it arrives as a "declaration" like any reservation. **Did it touch a
+decision?** Yes: it is the reason the eight entries were struck from the arrivals by hand rather than kept by the registered rule
+(with AUDIT.md). Not triggered.

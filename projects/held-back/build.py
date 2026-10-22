@@ -1,4 +1,5 @@
-"""Project 15: the study page, index.html, drawn from the file (via lib.py), session1.json and result1.json."""
+"""Project 15: the study page, index.html, drawn from the file (via lib.py), session1.json and result1.json; from session 2 also
+session2.json, result2.json and newreadings2.json (the years after the file's last)."""
 import json, html
 from lib import load
 
@@ -47,6 +48,26 @@ for t in ORDER:
                      html.escape(NAME[t]), f['parties'], len(cells), W, y + 31, html.escape(NAME[t]), len(cells), ''.join(svg)))
 svg_s = '<div class="fig">' + ''.join(parts) + '</div>'
 
+# session 2: after 2014, returns (a standing pair's latest withdrawal year) above the line, arrivals (a state joining with something
+# held back, by year joined) below; an arrival holding back only clauses the file does not code is drawn hollow
+s2 = json.load(open('session2.json'))
+r2 = json.load(open('result2.json'))
+arr = [x for x in json.load(open('newreadings2.json'))['items'] if x['reading'] == 'holds back']
+YW, U, MID = 84, 13, 72
+g2 = []
+for i, yr in enumerate(range(2015, 2027)):
+    x0 = 8 + i * YW
+    g2.append('<text x="%d" y="%d" class="yr">%d</text>' % (x0 + YW // 2, MID + 5, yr))
+    for j in range(s2['latest_year_by_pair'].get(str(yr), 0)):
+        g2.append('<rect x="%d" y="%d" width="%d" height="%d" class="rt"/>' % (x0 + 6 + (j % 5) * U, MID - 20 - (j // 5 + 1) * U, U - 3, U - 3))
+    a = sorted((x for x in arr if x['joined'] == yr), key=lambda x: x['only_dispute_or_committee_clauses'])
+    for j, x in enumerate(a):
+        g2.append('<g><title>%s, %s</title><rect x="%d" y="%d" width="%d" height="%d" class="%s"/></g>' % (
+            html.escape(x['state']), x['treaty'], x0 + 6 + (j % 5) * U + 1, MID + 16 + (j // 5) * U + 1, U - 5, U - 5,
+            'ao' if x['only_dispute_or_committee_clauses'] else 'ar'))
+svg2 = ('<svg class="ch" viewBox="0 0 1024 %d" role="img" aria-label="Withdrawals and new reservations by year, 2015 to 2026">%s'
+        '<line x1="8" x2="1016" y1="%d" y2="%d" class="ax"/></svg>' % (MID + 60, ''.join(g2), MID - 14, MID - 14))
+
 P = {p['n']: p for p in r['predictions']}
 T = s['treaties']
 page = open('template.html').read()
@@ -61,6 +82,11 @@ rep = {
  '{{AGREE}}': str(r['check']['agree']), '{{TOLD}}': str(r['check']['told']),
  '{{PRED}}': ''.join('<li>%s: <b>%s</b>. %s</li>' % (html.escape(p['text']), 'held' if p['held'] else 'failed', html.escape(p['found'])) for p in r['predictions']),
  '{{NHELD}}': str(r['held']),
+ '{{FIG2}}': svg2, '{{STAND}}': str(s2['matched']), '{{RET}}': str(s2['flagged_late']), '{{RETP}}': '%.0f %%' % (100 * s2['flagged_share']),
+ '{{ARR}}': str(r2['arrivals']['holding_back']), '{{ARRO}}': str(r2['arrivals']['only_clauses_the_file_does_not_code']),
+ '{{AGREE2}}': str(r2['check']['agree']),
+ '{{PRED2}}': ''.join('<li>%s: <b>%s</b>. %s</li>' % (html.escape(p['text']), 'held' if p['held'] else 'failed', html.escape(p['found'])) for p in r2['predictions']),
+ '{{NHELD2}}': str(r2['held']),
 }
 for k, v in rep.items():
     page = page.replace(k, v)
