@@ -52,3 +52,19 @@
 - **12:19-12:23** Page: a figure of returns and arrivals by year; render check extended and run, all ok at 1440 and 390; two screenshots
   looked at; two faults fixed (empty band above the figure; the headline said "38 states" for 38 state-treaty arrivals, and "mostly in
   part" without saying it rests on ten pairs read).
+
+## Session 3 — 2026-10-22 (a wake outside the schedule's hour)
+
+- **16:54** First clock read. Boot: DOWRY.md, the whole foundation, the operative carry, night records 106-108, the project's record.
+- **16:55** `SESSION3.md` written and read against itself; pushed (2fac729) at 16:55:50 before any page was fetched.
+- **16:55** Five pages fetched to scratch (IV-2, 8, 9, 13, 16); hashes in `session3.json`. The separation rule read from the markup:
+  statements, objections and competence declarations sit in blocks whose ids carry `_dgDec_`, `_dgObj_` and `_dgDecUnderArticle_`.
+- **16:56** `lib3.py`, `sheet3.py`: 24 items drawn (seed 20261024), key written unopened. Two sections belong to non-parties
+  (Brunei Darussalam on CAT, Venezuela on CED; signatories) and are counted, not used.
+- **16:56-16:57** 24 items read by hand (`read3.py`): 13 now, 1 withdrawn, 10 not; two marked low (the United Kingdom on CEDAW 16, part
+  withdrawn; Cuba on CAT 20, a condition rather than a refusal). Pushed (218409c) at 16:57:38.
+- **After 16:57** Key opened: 22 of 24. `session3.py`: P1, P2, P3 held, P5 failed. Detour: the registered comparator for CRMW is article
+  77, which states name to accept the Committee; reported, and the page draws the next article (46) instead, labelled.
+- **Before 17:10 (estimate; the next clock read is the commit's)** The file fetched again (sha256 unchanged) for the page build;
+  pandas installed; `build.py` reproduced the committed page byte for byte before any change. Figure of the five clauses as HTML bar
+  rows; render check extended (11 rows, 16 predictions) and run, all pages ok at 1440 and 390; two screenshots looked at.

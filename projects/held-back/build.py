@@ -1,5 +1,6 @@
 """Project 15: the study page, index.html, drawn from the file (via lib.py), session1.json and result1.json; from session 2 also
-session2.json, result2.json and newreadings2.json (the years after the file's last)."""
+session2.json, result2.json and newreadings2.json (the years after the file's last); from session 3 also session3.json and
+result3.json (the clauses the file leaves out, read from the pages)."""
 import json, html
 from lib import load
 
@@ -68,6 +69,32 @@ for i, yr in enumerate(range(2015, 2027)):
 svg2 = ('<svg class="ch" viewBox="0 0 1024 %d" role="img" aria-label="Withdrawals and new reservations by year, 2015 to 2026">%s'
         '<line x1="8" x2="1016" y1="%d" y2="%d" class="ax"/></svg>' % (MID + 60, ''.join(g2), MID - 14, MID - 14))
 
+# session 3: the clauses the file leaves out, read on the pages; per treaty, the dispute clause (and CAT 20) beside the most
+# held-back other article, each as a bar of parties holding it back now and since withdrawn; scale 50 parties = full width
+s3 = json.load(open('session3.json'))
+r3 = json.load(open('result3.json'))
+CL = {'CERD': ('22', 'disputes go to the International Court of Justice'), 'CEDAW': ('29 (1)', 'disputes go to arbitration or the Court'),
+      'CAT': ('30 (1)', 'disputes go to arbitration or the Court'), 'CRMW': ('92 (1)', 'disputes go to arbitration or the Court'),
+      'CED': ('42 (1)', 'disputes go to arbitration or the Court')}
+OTHER = {'CERD': 'on racist propaganda and organisations', 'CEDAW': 'on marriage and family', 'CAT': 'the definition of torture'}
+
+
+def bar(label, now, wd, cls):
+    return ('<div class="br %s"><div class="bl">%s</div><div class="bt"><span class="bn" style="width:%.1f%%"></span>'
+            '<span class="bw" style="width:%.1f%%"></span></div><div class="bc">%d now · %d withdrawn</div></div>' % (
+                cls, label, 100 * now / 50, 100 * wd / 50, now, wd))
+
+
+rows3 = []
+for t in ['CERD', 'CEDAW', 'CAT', 'CRMW', 'CED']:
+    d, c = s3['treaties'][t], r3['comparator_without_opt_ins'][t]
+    rows3.append('<h3 class="tt">%s <span class="sm mut">%d parties</span></h3>' % (html.escape(NAME[t]), d['parties']))
+    rows3.append(bar('Article %s · %s' % CL[t], d['clause_now'], d['clause_withdrawn'], 'cl'))
+    if t == 'CAT':
+        rows3.append(bar('Article 20 · the Committee may inquire', d['cat20_now'], d['cat20_withdrawn'], 'cl'))
+    rows3.append(bar('Article %d%s' % (c['article'], ' · ' + OTHER[t] if t in OTHER else ''), c['now'], c['withdrawn'], 'ob'))
+fig3 = '<div class="bars">' + ''.join(rows3) + '</div>'
+
 P = {p['n']: p for p in r['predictions']}
 T = s['treaties']
 page = open('template.html').read()
@@ -87,6 +114,10 @@ rep = {
  '{{AGREE2}}': str(r2['check']['agree']),
  '{{PRED2}}': ''.join('<li>%s: <b>%s</b>. %s</li>' % (html.escape(p['text']), 'held' if p['held'] else 'failed', html.escape(p['found'])) for p in r2['predictions']),
  '{{NHELD2}}': str(r2['held']),
+ '{{FIG3}}': fig3, '{{CLNOW}}': str(r3['totals']['clause_now']), '{{C29}}': str(s3['treaties']['CEDAW']['clause_now']),
+ '{{C16}}': str(s3['treaties']['CEDAW']['now_by_article']['16']), '{{AGREE3}}': str(r3['check']['agree']),
+ '{{PRED3}}': ''.join('<li>%s: <b>%s</b>. %s</li>' % (html.escape(p['text']), 'held' if p['held'] else 'failed', html.escape(p['found'])) for p in r3['predictions']),
+ '{{NHELD3}}': str(r3['held']),
 }
 for k, v in rep.items():
     page = page.replace(k, v)

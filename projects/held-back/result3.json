@@ -1,0 +1,81 @@
+{
+ "check": {
+  "agree": 22,
+  "of": 24,
+  "disagree": {
+   "10": "Poland, CAT 30: the withdrawal (19 December 2025) stands in the section text, not in a footnote; the machine reads the reservation as standing",
+   "16": "South Africa, CAT 30: the section names article 30 to accept the International Court of Justice; the machine reads any naming as holding back"
+  },
+  "note": "stratified (12 machine-now clause pairs, 6 machine-not clause pairs from parties with a section, 6 CEDAW 16 items); agreement at those strata only, not a population rate"
+ },
+ "predictions": [
+  {
+   "n": 1,
+   "text": "on the CEDAW page more parties hold back article 29 now than article 16",
+   "held": true,
+   "found": "CEDAW 29: 37, CEDAW 16: 19. Upper bound for 16, counting the six parties whose section still names 16 though a withdrawal note names it too: 25; still fewer than 29."
+  },
+  {
+   "n": 2,
+   "text": "in at least 4 of the 5 treaties the dispute clause is held back now by more parties than any other article",
+   "held": true,
+   "found": "5 of 5. CERD 22: 24 against article 4: 19; CEDAW 29: 37 against article 16: 19; CAT 30: 30 against article 1: 7; CRMW 92: 7 against article 77: 5; CED 42: 5 against article 17: 2. CRMW 77 is a clause a state names to accept the Committee, which the registered rule counts; without the opt-in clauses the next CRMW article is 46, at 3."
+  },
+  {
+   "n": 3,
+   "text": "CAT 20 is held back now by fewer parties than CAT 30",
+   "held": true,
+   "found": "CAT 20: 19, CAT 30: 30"
+  },
+  {
+   "n": 4,
+   "text": "the machine agrees with the hand reading at at least 20 of 24",
+   "held": true,
+   "found": "22 of 24; both disagreements are the machine counting a clause as held back where it is not (one withdrawn in 2025 inside the section, one named to accept the Court)"
+  },
+  {
+   "n": 5,
+   "text": "at least one dispute clause is held back now by more than a quarter of its treaty's parties",
+   "held": false,
+   "found": "CERD 22: 24 of 182 (13.2 %); CEDAW 29: 37 of 189 (19.6 %); CAT 30: 30 of 176 (17.1 %); CRMW 92: 7 of 60 (11.7 %); CED 42: 5 of 78 (6.4 %)"
+  }
+ ],
+ "held": 4,
+ "comparator_without_opt_ins": {
+  "CERD": {
+   "article": 4,
+   "now": 19,
+   "withdrawn": 1
+  },
+  "CEDAW": {
+   "article": 16,
+   "now": 19,
+   "withdrawn": 14
+  },
+  "CAT": {
+   "article": 1,
+   "now": 7,
+   "withdrawn": 2
+  },
+  "CRMW": {
+   "article": 46,
+   "now": 3,
+   "withdrawn": 0
+  },
+  "CED": {
+   "article": 17,
+   "now": 2,
+   "withdrawn": 0
+  }
+ },
+ "totals": {
+  "clause_now": 103,
+  "clause_withdrawn": 32,
+  "cat20_now": 19,
+  "cat20_withdrawn": 12
+ },
+ "hand_corrected_not_registered": {
+  "CAT 30 now, less the two the check read as not standing": 28,
+  "why": "the two check disagreements (Poland, South Africa) are also the only clause sections the sensitivity scan flags (session3.json); the other machine-now clause pairs were not all read by hand, so this is a correction of what was read, not a recount"
+ }
+}

@@ -372,14 +372,17 @@ const PAGES = [
     // inline SVG strip each, one column (a group of three rects) per coded provision, 567 in all; six predictions listed.
     // Session 2 (2026-10-22, outside the schedule's hour): a tenth SVG, the years after 2014, with one titled group per arrival (38),
     // inside a scrolling wrapper; five more predictions (11 in all).
+    // Session 3 (2026-10-22, outside the schedule's hour): the clauses the file leaves out, as HTML bar rows (div.br), 11 for five
+    // treaties; five more predictions (16 in all).
     path: 'projects/held-back/index.html',
     probe: () => ({
       strips: document.querySelectorAll('svg.ch').length,
       cols: document.querySelectorAll('svg.ch g').length,
+      bars: document.querySelectorAll('.bars .br').length,
       preds: document.querySelectorAll('ul.pr li').length,
       min_font: Math.min(...[...document.querySelectorAll('main p, main li, h3.tt')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
     }),
-    ok: (r) => r.strips === 10 && r.cols === 605 && r.preds === 11 && r.min_font >= 11,
+    ok: (r) => r.strips === 10 && r.cols === 605 && r.bars === 11 && r.preds === 16 && r.min_font >= 11,
   },
 ];
 

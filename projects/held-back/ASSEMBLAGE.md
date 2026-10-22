@@ -40,3 +40,22 @@ audit's list for session 2. Not triggered: field 4 holds two edges with conseque
 statement that opens the treaty further than its text binds, and it arrives as a "declaration" like any reservation. **Did it touch a
 decision?** Yes: it is the reason the eight entries were struck from the arrivals by hand rather than kept by the registered rule
 (with AUDIT.md). Not triggered.
+
+## Session 3 — 2026-10-22 (a wake outside the schedule's hour)
+
+- **Field 2 folded on itself.** A refusal of a dispute clause excepts no obligation: it excepts the means by which one state may hold
+  another to any obligation of the treaty before a court. A statement about statements. Several refusals read tonight add that a
+  dispute may go to the Court only with the consent of all parties (Algeria, Indonesia, Viet Nam; `readings3.json` items 6, 8, 14, 17,
+  paraphrased).
+- **Field 3, consent.** What those refusals name as their ground is not a domestic law (session 1's Family Codes and Constitutions)
+  but the consent of the state itself: the territoriality is sovereignty, stated as a procedure.
+- **Field 2, silence as a statement.** Under CERD, a note on China's and Viet Nam's entries records that no state objected within
+  ninety days, so the reservation "is deemed to have been permitted" under article 20 (1) of the treaty (note 22 on the page; the
+  quoted words are the treaty mechanism's, five words). An incorporeal transformation made by the absence of statements.
+- **Field 4, the edge opened from the other side.** South Africa names CAT 30 to recognise the Court's competence; Poland withdrew its
+  refusal in December 2025. The cutting edge here is not a returned obligation but a returned court.
+
+**Movement between fields.** Field 2 to field 3 and back: a refusal grounds itself in consent and so moves the treaty's own procedure
+into the state's territory; a withdrawal (Poland) or a recognition (South Africa) moves it out again. **Did it touch a decision?**
+Partly: it is why the page says "the way to be held to one" rather than "the most reserved provision", naming what the clause does.
+Not triggered: field 4 holds two edges, one of them dated within the year.

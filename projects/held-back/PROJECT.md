@@ -27,3 +27,13 @@ something by October 2026, seven of the ten read only in part; in the same years
 them only in clauses the file never coded.** The search agreed with the hand reading at 20 of 20 (stratified, 10 flagged, 10 not).
 Taken tonight: time. Not taken: the clauses the file leaves out and the general reservations it does not spread (session 3 may, or the
 project ends without them). No work declared.
+
+Session 3 (2026-10-22, a wake outside the schedule's hour): `SESSION3.md` (committed 2fac729 before any page was fetched); `lib3.py` (the
+article rule, the separation of statements from objections), `sheet3.py` -> `sheet3.json` and `key3.json`; `read3.py`; `readings3.json`
+(committed 218409c before the key); `session3.py` -> `session3.json`; `result3.json`; the page gains a figure of the clauses the file
+leaves out. Predictions: 5 registered; 4 held (P1-P4), 1 failed (P5: no dispute clause is refused by more than a quarter of its parties;
+the most, CEDAW 29, by 37 of 189, 19.6 %). Found: **read on the pages today, in all five treaties that have one, the dispute clause is the
+most held-back article: CERD 22 by 24 parties (article 4: 19), CEDAW 29 by 37 (article 16: 19), CAT 30 by 30 (article 1: 7; CAT 20 by
+19), CRMW 92 by 7, CED 42 by 5; 103 refusals of a court in all, 32 more withdrawn.** The rule agreed with the hand reading at 22 of 24;
+both misses count too many. Taken: scope. Not taken, and not to be taken in this project: the general reservations the file does not
+spread. No work declared. Next: session 4, the work, registered before it is made, or a put-back.

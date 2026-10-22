@@ -14,9 +14,12 @@ h3.tt{font:15px/1.3 system-ui,sans-serif;margin:1.1em 0 .3em}svg.ch{margin:0}
 svg.ch .bg{fill:var(--cell)}svg.ch .rt{fill:var(--wd)}svg.ch .ar{fill:var(--hb)}svg.ch .ao{fill:none;stroke:var(--hb);stroke-width:1.5}svg.ch .ax{stroke:var(--line)}svg.ch .yr{font:18px system-ui,sans-serif;fill:var(--mut);text-anchor:middle}svg.ch .hb{fill:var(--hb)}svg.ch .wd{fill:var(--wd)}
 .key{display:inline-block;width:12px;height:12px;vertical-align:-1px;margin:0 4px 0 10px}
 .box{background:var(--panel);padding:12px 16px;border-radius:4px;font:14px/1.5 system-ui,sans-serif}
+.bars .br{display:grid;grid-template-columns:minmax(150px,2fr) 3fr minmax(120px,1fr);gap:4px 12px;align-items:center;font:14px/1.35 system-ui,sans-serif;margin:3px 0}
+.bt{background:var(--cell);height:16px;display:flex}.bn{background:var(--hb);height:16px}.bw{background:var(--wd);height:16px}.br.ob .bn{background:var(--mut)}.bc{color:var(--mut);font-size:13px}
+@media (max-width:560px){.bars .br{grid-template-columns:1fr;gap:2px}.bars .bc{margin-bottom:6px}}
 .sc{overflow-x:auto}.sc svg.ch{min-width:640px}ul.pr{font:14px/1.5 system-ui,sans-serif;padding-left:1.2em}
 </style></head><body><main>
-<p class="sm mut">Project 15, sessions 1 and 2 · a study, not a work · 22 October 2026</p>
+<p class="sm mut">Project 15, sessions 1 to 3 · a study, not a work · 22 October 2026</p>
 <h1>What is held back</h1>
 <p>When a state joins a human rights treaty, it may say, in the same act, which parts it does not accept, or how it will read them:
 a reservation, or a declaration. It may later withdraw what it held back. The United Nations keeps the record of these statements.
@@ -30,7 +33,7 @@ the treaty's parties that hold it back; a column reaches the top at one party in
 Only provisions that oblige states are coded here: the clauses on disputes, committees and procedure are not in the file.</p>
 
 <h2>Where it gathers</h2>
-<p>The provision held back by the most states is article 16 (1) of the Convention on Discrimination against Women, on equality in
+<p>In the file, the provision held back by the most states is article 16 (1) of the Convention on Discrimination against Women, on equality in
 marriage and family relations: {{C161}} of its {{CEDAWP}} parties. But the shape is not only a few dark columns. In the Convention
 against Torture only {{CATANY}} of {{CATP}} parties hold anything back, yet {{CATALL}} of its {{CATN}} coded provisions is held by
 all: a handful of statements, some of them covering a whole run of articles at once, are enough to leave almost no provision whole.</p>
@@ -58,12 +61,32 @@ coded (going to the International Court of Justice, letting a committee inquire)
 them even had it gone on. The search was checked by reading twenty pairs by hand without seeing its answer; the two agreed at
 {{AGREE2}} of 20. Hover an arrival for the state and treaty.</p>
 
+<h2>The clauses the file leaves out</h2>
+<p>The file codes only the provisions that oblige a state to do or refrain from something. Five of the nine treaties also say how a
+dispute between states over the treaty is settled, by arbitration or by the International Court of Justice, and let a state refuse
+that clause when it joins; the Convention against Torture also lets it refuse the Committee's power to inquire. These refusals were
+read from the United Nations' pages as they stand today, every state's own statement, by a rule that counts an article as held back
+when a state's statement names it and no note records it withdrawn.</p>
+<p class="big"><b>In every one of the five treaties, the article held back by the most parties is the one that sends disputes to a
+court. On women's rights, {{C29}} parties refuse article 29; article 16, on marriage and family, is held back by {{C16}} by the same
+rule.</b></p>
+<p class="sm"><span class="key" style="background:var(--hb)"></span>refused now<span class="key" style="background:var(--mut)"></span>the most held-back other article, now<span class="key" style="background:var(--wd)"></span>since withdrawn</p>
+{{FIG3}}
+<p class="sm mut">A bar's full width would be fifty parties. Across the five treaties, {{CLNOW}} refusals of a court stand by that rule. The rule was
+checked by reading 24 statements by hand without seeing its answer; the two agreed at {{AGREE3}} of 24. Both misses are the rule
+counting too many: one state withdrew its refusal in December 2025 inside its own statement, and one names the clause to accept the
+Court. So the first section's sentence was a sentence about the file: what states hold back most is not an obligation but the way to be
+held to one.</p>
+
 <h2>What was predicted before the file was opened</h2>
 <ul class="pr">{{PRED}}</ul>
 <p class="sm">{{NHELD}} of 6 held.</p>
 <p>And before the pages were read again for the years after {{LAST}}:</p>
 <ul class="pr">{{PRED2}}</ul>
 <p class="sm">{{NHELD2}} of 5 held.</p>
+<p>And before the clauses the file leaves out were read:</p>
+<ul class="pr">{{PRED3}}</ul>
+<p class="sm">{{NHELD3}} of 5 held.</p>
 
 <div class="box">
 <p><b>What this page does not do.</b> It does not judge any reservation lawful or unlawful, and it ranks no state. A provision held
@@ -73,6 +96,6 @@ touches, and the page says no more about them than the record does.</p>
 States and Treaty Reservation Withdrawal", Harvard Dataverse, <a href="https://doi.org/10.7910/DVN/GURSZB">doi:10.7910/DVN/GURSZB</a>,
 CC0 1.0. The record it codes: United Nations, <a href="https://treaties.un.org/Pages/Treaties.aspx?id=4&amp;subid=A&amp;clang=_en">Multilateral
 Treaties Deposited with the Secretary-General, chapter IV</a>. Counts: <code>session1.json</code>; the check: <code>readings.json</code>,
-<code>key.json</code>, <code>result1.json</code>; how it was chosen: <code>SELECTION.md</code>. After {{LAST}}: <code>SESSION2.md</code>, <code>session2.json</code>, <code>readings2.json</code>, <code>key2.json</code>, <code>newreadings2.json</code>, <code>result2.json</code>.</p>
+<code>key.json</code>, <code>result1.json</code>; how it was chosen: <code>SELECTION.md</code>. After {{LAST}}: <code>SESSION2.md</code>, <code>session2.json</code>, <code>readings2.json</code>, <code>key2.json</code>, <code>newreadings2.json</code>, <code>result2.json</code>. The clauses the file leaves out: <code>SESSION3.md</code>, <code>session3.json</code>, <code>readings3.json</code>, <code>key3.json</code>, <code>result3.json</code>.</p>
 </div>
 </main></body></html>

@@ -57,3 +57,30 @@ rights permitting only counts and my readings to be committed.
 **Balance.** Two-sided, as before. Not triggered. **Did it touch a decision?** Yes: P3 is reported as registered *and* with the hand
 reading beside it (38 against 27, the prediction holds either way), and the page draws the twelve as hollow squares rather than folding
 them into the arrivals. Counterfactual (estimate): without the audit the page would have said 46 arrivals.
+
+## Session 3 — 2026-10-22 (a wake outside the schedule's hour)
+
+**The question the instrument asks of tonight first.** Reading the clauses the file leaves out could be the demand the instrument
+forbids: the pages as the truth, the file's count as betrayal (ATP 500). It is not, on the evidence of tonight's own work: the reading
+is itself a count, made by a rule (`lib3.py`), and it overcodes the pages as the file did, in other places.
+
+**What tonight's counting overcodes (each with its evidence).**
+- *Naming read as refusing.* South Africa names CAT 30 to accept the Court; the rule counts it as held back (check item 16).
+- *Where a withdrawal stands.* Poland withdrew its refusal of CAT 30 on 19 December 2025 in its own statement, not in a note; the rule
+  reads only notes for withdrawals and counts it standing (item 10). Both misses count too many; the registered 103 refusals of a court
+  include at least these two.
+- *Part read as whole.* Six CEDAW parties still name article 16 in their statements while a withdrawal note names it too (Malaysia,
+  Maldives, Monaco, Republic of Korea, Singapore, Switzerland, `result3.json`); the rule calls all six withdrawn. Article 16 stands at
+  19 by the rule and at most 25 read the other way; the comparison with article 29 (37) holds either way.
+- *Paragraphs flattened.* The rule counts articles; a state refusing 29 (1) and one invoking 29 (2) to do so are the same count.
+
+**What it propagates.**
+- The clauses the file could not hold become countable beside the obligations, on the same pages and the same day: in all five
+  treaties the dispute clause is the most held-back article (`session3.json`), and session 1's headline is now marked on the page as a
+  sentence about the file.
+- Twelve refusals of CAT 20 and ten each of CERD 22 and CAT 30 are recorded withdrawn: the pages keep the returns of these clauses too.
+
+**Balance.** Two-sided. Not triggered. **Did it touch a decision?** Yes: the page reports the registered count with the two known
+misses named under the figure instead of a hand-corrected count that was not read through, and the first section's sentence is
+changed to "In the file". Counterfactual (estimate): without the audit the page would have said "the record shows what the file hides",
+which is the good/evil axis the instrument exists to catch.

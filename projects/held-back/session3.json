@@ -1,0 +1,373 @@
+{
+ "pages_fetched": "2026-10-22 16:55 UTC",
+ "pages_sha256": {
+  "IV-2": "f2ecd96dc8a1ea27570f1a3794b4b06983742d2e07c564268626f040dbaee802",
+  "IV-8": "bcdaacaebe50bfbff3680f0883201872faf55a5e3b587021a30d1fcd219e1714",
+  "IV-9": "ba543a2d5592573258634dcb585178d06aec24f76663fc7b370703fac9a34f89",
+  "IV-13": "d66225f74c1d26957f2c8362ef26d419ae89731dcb3849506dbe8bb557639d1f",
+  "IV-16": "c2dc6bee64afd091463191d742074b5a63d396a7d333002de21744b13daa5e27"
+ },
+ "treaties": {
+  "CERD": {
+   "parties": 182,
+   "sections": 60,
+   "sections_of_non_parties": [],
+   "clause": 22,
+   "clause_now": 24,
+   "clause_withdrawn": 10,
+   "clause_share": 0.1319,
+   "top_other_article": 4,
+   "top_other_now": 19,
+   "cat20_now": null,
+   "cat20_withdrawn": null,
+   "now_by_article": {
+    "1": 2,
+    "2": 5,
+    "3": 2,
+    "4": 19,
+    "5": 12,
+    "6": 7,
+    "7": 1,
+    "10": 1,
+    "11": 1,
+    "15": 3,
+    "17": 12,
+    "18": 7,
+    "19": 4,
+    "20": 6,
+    "21": 4,
+    "22": 24
+   },
+   "withdrawn_by_article": {
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 1,
+    "22": 10
+   },
+   "clause_now_parties": [
+    "Afghanistan",
+    "Bahrain",
+    "China",
+    "Cuba",
+    "Egypt",
+    "Equatorial Guinea",
+    "India",
+    "Indonesia",
+    "Iraq",
+    "Israel",
+    "Kuwait",
+    "Lebanon",
+    "Libya",
+    "Madagascar",
+    "Morocco",
+    "Mozambique",
+    "Nepal",
+    "Singapore",
+    "Syrian Arab Republic",
+    "Thailand",
+    "Türkiye",
+    "United States of America",
+    "Viet Nam",
+    "Yemen"
+   ],
+   "sensitivity_not_registered": {
+    "accepts": [],
+    "withdraws_in_section": []
+   }
+  },
+  "CEDAW": {
+   "parties": 189,
+   "sections": 79,
+   "sections_of_non_parties": [],
+   "clause": 29,
+   "clause_now": 37,
+   "clause_withdrawn": 12,
+   "clause_share": 0.1958,
+   "top_other_article": 16,
+   "top_other_now": 19,
+   "cat20_now": null,
+   "cat20_withdrawn": null,
+   "now_by_article": {
+    "1": 3,
+    "2": 15,
+    "4": 3,
+    "5": 6,
+    "7": 2,
+    "8": 2,
+    "9": 16,
+    "10": 1,
+    "11": 6,
+    "13": 2,
+    "15": 8,
+    "16": 19,
+    "17": 2,
+    "19": 1,
+    "29": 37
+   },
+   "withdrawn_by_article": {
+    "1": 3,
+    "2": 4,
+    "3": 1,
+    "4": 1,
+    "5": 2,
+    "7": 10,
+    "8": 1,
+    "9": 13,
+    "11": 6,
+    "13": 3,
+    "14": 1,
+    "15": 9,
+    "16": 14,
+    "28": 3,
+    "29": 12
+   },
+   "clause_now_parties": [
+    "Algeria",
+    "Argentina",
+    "Bahamas (The)",
+    "Bahrain",
+    "Brunei Darussalam",
+    "China",
+    "Cuba",
+    "Democratic People's Republic of Korea",
+    "Egypt",
+    "El Salvador",
+    "Ethiopia",
+    "France",
+    "India",
+    "Indonesia",
+    "Iraq",
+    "Israel",
+    "Kuwait",
+    "Lebanon",
+    "Mauritius",
+    "Micronesia (Federated States of)",
+    "Monaco",
+    "Morocco",
+    "Myanmar",
+    "Niger",
+    "Oman",
+    "Pakistan",
+    "Qatar",
+    "Saudi Arabia",
+    "Singapore",
+    "Syrian Arab Republic",
+    "Thailand",
+    "Trinidad and Tobago",
+    "Türkiye",
+    "United Arab Emirates",
+    "Venezuela (Bolivarian Republic of)",
+    "Viet Nam",
+    "Yemen"
+   ],
+   "sensitivity_not_registered": {
+    "accepts": [],
+    "withdraws_in_section": []
+   }
+  },
+  "CAT": {
+   "parties": 176,
+   "sections": 59,
+   "sections_of_non_parties": [
+    "Brunei Darussalam"
+   ],
+   "clause": 30,
+   "clause_now": 30,
+   "clause_withdrawn": 10,
+   "clause_share": 0.1705,
+   "top_other_article": 1,
+   "top_other_now": 7,
+   "cat20_now": 19,
+   "cat20_withdrawn": 12,
+   "now_by_article": {
+    "1": 7,
+    "2": 1,
+    "3": 2,
+    "4": 1,
+    "8": 2,
+    "10": 1,
+    "14": 5,
+    "15": 1,
+    "16": 2,
+    "20": 19,
+    "24": 1,
+    "30": 30
+   },
+   "withdrawn_by_article": {
+    "1": 2,
+    "2": 1,
+    "3": 2,
+    "4": 2,
+    "5": 2,
+    "6": 1,
+    "12": 1,
+    "13": 1,
+    "14": 1,
+    "16": 1,
+    "17": 1,
+    "18": 1,
+    "20": 12,
+    "21": 4,
+    "22": 4,
+    "30": 10
+   },
+   "clause_now_parties": [
+    "Bahamas (The)",
+    "Bahrain",
+    "China",
+    "Cuba",
+    "Dominica",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Fiji",
+    "France",
+    "Ghana",
+    "Indonesia",
+    "Israel",
+    "Lao People's Democratic Republic",
+    "Mauritania",
+    "Monaco",
+    "Morocco",
+    "Oman",
+    "Pakistan",
+    "Panama",
+    "Poland",
+    "Samoa",
+    "Saudi Arabia",
+    "South Africa",
+    "St. Lucia",
+    "Thailand",
+    "Tuvalu",
+    "Türkiye",
+    "United Arab Emirates",
+    "United States of America",
+    "Viet Nam"
+   ],
+   "sensitivity_not_registered": {
+    "accepts": [
+     "South Africa"
+    ],
+    "withdraws_in_section": [
+     "Poland"
+    ]
+   }
+  },
+  "CRMW": {
+   "parties": 60,
+   "sections": 19,
+   "sections_of_non_parties": [],
+   "clause": 92,
+   "clause_now": 7,
+   "clause_withdrawn": 0,
+   "clause_share": 0.1167,
+   "top_other_article": 77,
+   "top_other_now": 5,
+   "cat20_now": null,
+   "cat20_withdrawn": null,
+   "now_by_article": {
+    "4": 2,
+    "8": 1,
+    "15": 2,
+    "18": 2,
+    "22": 1,
+    "26": 1,
+    "27": 1,
+    "32": 1,
+    "34": 1,
+    "40": 1,
+    "42": 1,
+    "45": 1,
+    "46": 3,
+    "47": 2,
+    "48": 2,
+    "49": 1,
+    "54": 1,
+    "61": 1,
+    "76": 4,
+    "77": 5,
+    "91": 1,
+    "92": 7
+   },
+   "withdrawn_by_article": {
+    "22": 1,
+    "33": 1
+   },
+   "clause_now_parties": [
+    "Algeria",
+    "Argentina",
+    "El Salvador",
+    "Fiji",
+    "Guinea-Bissau",
+    "Morocco",
+    "Venezuela (Bolivarian Republic of)"
+   ],
+   "sensitivity_not_registered": {
+    "accepts": [],
+    "withdraws_in_section": []
+   }
+  },
+  "CED": {
+   "parties": 78,
+   "sections": 12,
+   "sections_of_non_parties": [
+    "Venezuela (Bolivarian Republic of)"
+   ],
+   "clause": 42,
+   "clause_now": 5,
+   "clause_withdrawn": 0,
+   "clause_share": 0.0641,
+   "top_other_article": 17,
+   "top_other_now": 2,
+   "cat20_now": null,
+   "cat20_withdrawn": null,
+   "now_by_article": {
+    "10": 1,
+    "13": 1,
+    "14": 1,
+    "16": 1,
+    "17": 2,
+    "18": 2,
+    "20": 2,
+    "24": 1,
+    "25": 2,
+    "33": 1,
+    "42": 5
+   },
+   "withdrawn_by_article": {},
+   "clause_now_parties": [
+    "Cuba",
+    "Fiji",
+    "Oman",
+    "Thailand",
+    "Ukraine"
+   ],
+   "sensitivity_not_registered": {
+    "accepts": [],
+    "withdraws_in_section": []
+   }
+  }
+ },
+ "predictions": [
+  {
+   "n": 1,
+   "held": true,
+   "found": "CEDAW 29: 37, CEDAW 16: 19"
+  },
+  {
+   "n": 2,
+   "held": true,
+   "found": "CERD 22: 24 against article 4: 19; CEDAW 29: 37 against article 16: 19; CAT 30: 30 against article 1: 7; CRMW 92: 7 against article 77: 5; CED 42: 5 against article 17: 2"
+  },
+  {
+   "n": 3,
+   "held": true,
+   "found": "CAT 20: 19, CAT 30: 30"
+  },
+  {
+   "n": 5,
+   "held": false,
+   "found": "CERD 22: 24 of 182 (13.2 %); CEDAW 29: 37 of 189 (19.6 %); CAT 30: 30 of 176 (17.1 %); CRMW 92: 7 of 60 (11.7 %); CED 42: 5 of 78 (6.4 %)"
+  }
+ ]
+}
