@@ -1,0 +1,285 @@
+{
+ "seed": 20261022,
+ "items": [
+  {
+   "item": 1,
+   "state": "United States of America",
+   "treaty": "CERD",
+   "article": 5,
+   "para": 903
+  },
+  {
+   "item": 2,
+   "state": "United Kingdom of Great Britain and Northern Ireland",
+   "treaty": "ICCPR",
+   "article": 11,
+   "para": 0
+  },
+  {
+   "item": 3,
+   "state": "Mexico",
+   "treaty": "CRMW",
+   "article": 22,
+   "para": 6
+  },
+  {
+   "item": 4,
+   "state": "Thailand",
+   "treaty": "CAT",
+   "article": 4,
+   "para": 1
+  },
+  {
+   "item": 5,
+   "state": "Czech Republic",
+   "treaty": "CRC",
+   "article": 42,
+   "para": 0
+  },
+  {
+   "item": 6,
+   "state": "Brunei Darussalam",
+   "treaty": "CEDAW",
+   "article": 9,
+   "para": 1
+  },
+  {
+   "item": 7,
+   "state": "Trinidad and Tobago",
+   "treaty": "ICCPR",
+   "article": 16,
+   "para": 0
+  },
+  {
+   "item": 8,
+   "state": "Norway",
+   "treaty": "ICCPR",
+   "article": 6,
+   "para": 4
+  },
+  {
+   "item": 9,
+   "state": "Singapore",
+   "treaty": "CRC",
+   "article": 16,
+   "para": 1
+  },
+  {
+   "item": 10,
+   "state": "Thailand",
+   "treaty": "CRC",
+   "article": 15,
+   "para": 1
+  },
+  {
+   "item": 11,
+   "state": "Bangladesh",
+   "treaty": "CEDAW",
+   "article": 2,
+   "para": 903
+  },
+  {
+   "item": 12,
+   "state": "United States of America",
+   "treaty": "CAT",
+   "article": 8,
+   "para": 4
+  },
+  {
+   "item": 13,
+   "state": "Iraq",
+   "treaty": "CRC",
+   "article": 28,
+   "para": 3
+  },
+  {
+   "item": 14,
+   "state": "Argentina",
+   "treaty": "CRC",
+   "article": 23,
+   "para": 3
+  },
+  {
+   "item": 15,
+   "state": "Republic of Korea",
+   "treaty": "CRC",
+   "article": 21,
+   "para": 901
+  },
+  {
+   "item": 16,
+   "state": "Georgia",
+   "treaty": "CRPD",
+   "article": 16,
+   "para": 2
+  },
+  {
+   "item": 17,
+   "state": "Bahamas",
+   "treaty": "ICCPR",
+   "article": 14,
+   "para": 6
+  },
+  {
+   "item": 18,
+   "state": "Malaysia",
+   "treaty": "CEDAW",
+   "article": 11,
+   "para": 1
+  },
+  {
+   "item": 19,
+   "state": "Singapore",
+   "treaty": "CRPD",
+   "article": 12,
+   "para": 2
+  },
+  {
+   "item": 20,
+   "state": "Malta",
+   "treaty": "CEDAW",
+   "article": 15,
+   "para": 3
+  },
+  {
+   "item": 21,
+   "state": "Egypt",
+   "treaty": "CRC",
+   "article": 14,
+   "para": 2
+  },
+  {
+   "item": 22,
+   "state": "China, Hong Kong Special Administrative Region",
+   "treaty": "CERD",
+   "article": 4,
+   "para": 901
+  },
+  {
+   "item": 23,
+   "state": "Mexico",
+   "treaty": "ICCPR",
+   "article": 13,
+   "para": 0
+  },
+  {
+   "item": 24,
+   "state": "Netherlands",
+   "treaty": "CRC",
+   "article": 40,
+   "para": 3
+  },
+  {
+   "item": 25,
+   "state": "Italy",
+   "treaty": "ICCPR",
+   "article": 14,
+   "para": 5
+  },
+  {
+   "item": 26,
+   "state": "Austria",
+   "treaty": "ICCPR",
+   "article": 14,
+   "para": 1
+  },
+  {
+   "item": 27,
+   "state": "Kuwait",
+   "treaty": "ICCPR",
+   "article": 18,
+   "para": 1
+  },
+  {
+   "item": 28,
+   "state": "Morocco",
+   "treaty": "CRC",
+   "article": 8,
+   "para": 1
+  },
+  {
+   "item": 29,
+   "state": "Iraq",
+   "treaty": "CEDAW",
+   "article": 7,
+   "para": 903
+  },
+  {
+   "item": 30,
+   "state": "Ireland",
+   "treaty": "CEDAW",
+   "article": 7,
+   "para": 902
+  },
+  {
+   "item": 31,
+   "state": "Netherlands",
+   "treaty": "ICCPR",
+   "article": 19,
+   "para": 2
+  },
+  {
+   "item": 32,
+   "state": "Egypt",
+   "treaty": "CEDAW",
+   "article": 2,
+   "para": 907
+  },
+  {
+   "item": 33,
+   "state": "Iraq",
+   "treaty": "CEDAW",
+   "article": 2,
+   "para": 904
+  },
+  {
+   "item": 34,
+   "state": "Thailand",
+   "treaty": "CRPD",
+   "article": 10,
+   "para": 0
+  },
+  {
+   "item": 35,
+   "state": "Luxembourg",
+   "treaty": "CEDAW",
+   "article": 7,
+   "para": 902
+  },
+  {
+   "item": 36,
+   "state": "Switzerland",
+   "treaty": "ICCPR",
+   "article": 10,
+   "para": 3
+  },
+  {
+   "item": 37,
+   "state": "Turkey",
+   "treaty": "CRMW",
+   "article": 42,
+   "para": 3
+  },
+  {
+   "item": 38,
+   "state": "Slovakia",
+   "treaty": "CRC",
+   "article": 38,
+   "para": 4
+  },
+  {
+   "item": 39,
+   "state": "Iceland",
+   "treaty": "CRC",
+   "article": 31,
+   "para": 1
+  },
+  {
+   "item": 40,
+   "state": "Kuwait",
+   "treaty": "ICCPR",
+   "article": 2,
+   "para": 1
+  }
+ ]
+}

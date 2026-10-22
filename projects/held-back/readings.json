@@ -1,0 +1,405 @@
+{
+ "note": "Readings of the UN depositary pages (MTDSG chapter IV, fetched 2026-10-22, sha256 per page in LOG.md) made by this session before the key was opened. My own judgments, each an estimate (floor rule 3); no text of the pages is committed. Article level, as registered.",
+ "readings": [
+  {
+   "item": 1,
+   "state": "United States of America",
+   "treaty": "CERD",
+   "article": 5,
+   "para": 903,
+   "reading": "held",
+   "why": "reservation (2) names article 5, with respect to private conduct",
+   "estimate": true
+  },
+  {
+   "item": 2,
+   "state": "United Kingdom of Great Britain and Northern Ireland",
+   "treaty": "ICCPR",
+   "article": 11,
+   "para": 0,
+   "reading": "held",
+   "why": "reservation not to apply article 11 in Jersey",
+   "estimate": true
+  },
+  {
+   "item": 3,
+   "state": "Mexico",
+   "treaty": "CRMW",
+   "article": 22,
+   "para": 6,
+   "reading": "held",
+   "why": "withdrawn reservation (2014) named article 22 paragraph 4, not 6; and a general interpretative declaration: all provisions applied in conformity with national legislation",
+   "estimate": true
+  },
+  {
+   "item": 4,
+   "state": "Thailand",
+   "treaty": "CAT",
+   "article": 4,
+   "para": 1,
+   "reading": "held",
+   "why": "interpretative declaration on articles 1, 4 and 5, withdrawn 2023",
+   "estimate": true
+  },
+  {
+   "item": 5,
+   "state": "Czech Republic",
+   "treaty": "CRC",
+   "article": 42,
+   "para": 0,
+   "reading": "not",
+   "why": "the predecessor state declared on article 7 (1) only",
+   "estimate": true
+  },
+  {
+   "item": 6,
+   "state": "Brunei Darussalam",
+   "treaty": "CEDAW",
+   "article": 9,
+   "para": 1,
+   "reading": "held",
+   "why": "general reservation (Constitution, Islam) and a specific one on article 9 paragraph 2, not 1",
+   "estimate": true
+  },
+  {
+   "item": 7,
+   "state": "Trinidad and Tobago",
+   "treaty": "ICCPR",
+   "article": 16,
+   "para": 0,
+   "reading": "not",
+   "why": "reservations on articles 4, 10, 12, 14, 15, 21, 26; none on 16",
+   "estimate": true
+  },
+  {
+   "item": 8,
+   "state": "Norway",
+   "treaty": "ICCPR",
+   "article": 6,
+   "para": 4,
+   "reading": "not",
+   "why": "reservations on articles 10, 14, 20; article 6 appears only in objections to others",
+   "estimate": true
+  },
+  {
+   "item": 9,
+   "state": "Singapore",
+   "treaty": "CRC",
+   "article": 16,
+   "para": 1,
+   "reading": "held",
+   "why": "declaration (1) on the rights in articles 12 to 17",
+   "estimate": true
+  },
+  {
+   "item": 10,
+   "state": "Thailand",
+   "treaty": "CRC",
+   "article": 15,
+   "para": 1,
+   "reading": "not",
+   "why": "reservations on articles 7, 22, 29, all withdrawn; none on 15",
+   "estimate": true
+  },
+  {
+   "item": 11,
+   "state": "Bangladesh",
+   "treaty": "CEDAW",
+   "article": 2,
+   "para": 903,
+   "reading": "held",
+   "why": "standing reservation on article 2 (Sharia)",
+   "estimate": true
+  },
+  {
+   "item": 12,
+   "state": "United States of America",
+   "treaty": "CAT",
+   "article": 8,
+   "para": 4,
+   "reading": "held",
+   "why": "general declaration that articles 1 through 16 are not self-executing; no specific reservation on article 8",
+   "estimate": true
+  },
+  {
+   "item": 13,
+   "state": "Iraq",
+   "treaty": "CRC",
+   "article": 28,
+   "para": 3,
+   "reading": "not",
+   "why": "reservation on article 14 paragraph 1 only",
+   "estimate": true
+  },
+  {
+   "item": 14,
+   "state": "Argentina",
+   "treaty": "CRC",
+   "article": 23,
+   "para": 3,
+   "reading": "not",
+   "why": "reservation on article 21, declarations on articles 1, 24, 38; none on 23",
+   "estimate": true
+  },
+  {
+   "item": 15,
+   "state": "Republic of Korea",
+   "treaty": "CRC",
+   "article": 21,
+   "para": 901,
+   "reading": "held",
+   "why": "reservation on article 21 paragraph (a)",
+   "estimate": true
+  },
+  {
+   "item": 16,
+   "state": "Georgia",
+   "treaty": "CRPD",
+   "article": 16,
+   "para": 2,
+   "reading": "not",
+   "why": "declaration on article 12 only",
+   "estimate": true
+  },
+  {
+   "item": 17,
+   "state": "Bahamas",
+   "treaty": "ICCPR",
+   "article": 14,
+   "para": 6,
+   "reading": "held",
+   "why": "reservation on article 14 paragraph 6 (listed on the page as Bahamas (The))",
+   "estimate": true
+  },
+  {
+   "item": 18,
+   "state": "Malaysia",
+   "treaty": "CEDAW",
+   "article": 11,
+   "para": 1,
+   "reading": "held",
+   "why": "declaration on article 11, and a general understanding (Sharia, Federal Constitution)",
+   "estimate": true
+  },
+  {
+   "item": 19,
+   "state": "Singapore",
+   "treaty": "CRPD",
+   "article": 12,
+   "para": 2,
+   "reading": "held",
+   "why": "reservation on article 12 paragraph 4, not 2",
+   "estimate": true
+  },
+  {
+   "item": 20,
+   "state": "Malta",
+   "treaty": "CEDAW",
+   "article": 15,
+   "para": 3,
+   "reading": "held",
+   "why": "reservation on articles 13, 15, 16 (family and property law)",
+   "estimate": true
+  },
+  {
+   "item": 21,
+   "state": "Egypt",
+   "treaty": "CRC",
+   "article": 14,
+   "para": 2,
+   "reading": "not",
+   "why": "reservations on articles 20 and 21, withdrawn 2003; nothing on 14",
+   "estimate": true
+  },
+  {
+   "item": 22,
+   "state": "China, Hong Kong Special Administrative Region",
+   "treaty": "CERD",
+   "article": 4,
+   "para": 901,
+   "reading": "cannot",
+   "why": "the page lists no entry under this name; China's note on Hong Kong elides its first declaration (\"1. ...\") and names article 6 in the second",
+   "estimate": true
+  },
+  {
+   "item": 23,
+   "state": "Mexico",
+   "treaty": "ICCPR",
+   "article": 13,
+   "para": 0,
+   "reading": "held",
+   "why": "the withdrawn portion (2014) of the reservation was headed \"Article 13.\"",
+   "estimate": true
+  },
+  {
+   "item": 24,
+   "state": "Netherlands",
+   "treaty": "CRC",
+   "article": 40,
+   "para": 3,
+   "reading": "held",
+   "why": "reservation on article 40 (listed on the page as Netherlands (Kingdom of the))",
+   "estimate": true
+  },
+  {
+   "item": 25,
+   "state": "Italy",
+   "treaty": "ICCPR",
+   "article": 14,
+   "para": 5,
+   "reading": "held",
+   "why": "reservation on article 14 paragraph 5, withdrawn 2005",
+   "estimate": true
+  },
+  {
+   "item": 26,
+   "state": "Austria",
+   "treaty": "ICCPR",
+   "article": 14,
+   "para": 1,
+   "reading": "held",
+   "why": "article 14 applied provided the publicity of trials under article 90 of the Federal Constitutional Law is not prejudiced",
+   "estimate": true
+  },
+  {
+   "item": 27,
+   "state": "Kuwait",
+   "treaty": "ICCPR",
+   "article": 18,
+   "para": 1,
+   "reading": "cannot",
+   "why": "Kuwait's entry on the page is empty but for a note on article 25 (b); objections by other states refer to Kuwait's interpretative declarations, whose text the page does not carry",
+   "estimate": true
+  },
+  {
+   "item": 28,
+   "state": "Morocco",
+   "treaty": "CRC",
+   "article": 8,
+   "para": 1,
+   "reading": "not",
+   "why": "declaration on article 14 paragraph 1; reservation on article 14 withdrawn 2006",
+   "estimate": true
+  },
+  {
+   "item": 29,
+   "state": "Iraq",
+   "treaty": "CEDAW",
+   "article": 7,
+   "para": 903,
+   "reading": "not",
+   "why": "reservations on articles 2 (f) (g), 9 (withdrawn 2014), 16, 29; none on 7",
+   "estimate": true
+  },
+  {
+   "item": 30,
+   "state": "Ireland",
+   "treaty": "CEDAW",
+   "article": 7,
+   "para": 902,
+   "reading": "not",
+   "why": "reservations on articles 11, 13, 15, 16 and others, several withdrawn; none found on 7",
+   "estimate": true
+  },
+  {
+   "item": 31,
+   "state": "Netherlands",
+   "treaty": "ICCPR",
+   "article": 19,
+   "para": 2,
+   "reading": "held",
+   "why": "reservation on article 19 paragraph 2 (broadcasting licences)",
+   "estimate": true
+  },
+  {
+   "item": 32,
+   "state": "Egypt",
+   "treaty": "CEDAW",
+   "article": 2,
+   "para": 907,
+   "reading": "held",
+   "why": "general reservation on article 2 (Sharia)",
+   "estimate": true
+  },
+  {
+   "item": 33,
+   "state": "Iraq",
+   "treaty": "CEDAW",
+   "article": 2,
+   "para": 904,
+   "reading": "held",
+   "why": "reservation on article 2 paragraphs (f) and (g), not (d)",
+   "estimate": true
+  },
+  {
+   "item": 34,
+   "state": "Thailand",
+   "treaty": "CRPD",
+   "article": 10,
+   "para": 0,
+   "reading": "not",
+   "why": "the one declaration, on article 18, withdrawn 2015",
+   "estimate": true
+  },
+  {
+   "item": 35,
+   "state": "Luxembourg",
+   "treaty": "CEDAW",
+   "article": 7,
+   "para": 902,
+   "reading": "held",
+   "why": "reservation on article 7 (succession to the crown), withdrawn 2008",
+   "estimate": true
+  },
+  {
+   "item": 36,
+   "state": "Switzerland",
+   "treaty": "ICCPR",
+   "article": 10,
+   "para": 3,
+   "reading": "held",
+   "why": "reservation on article 10 paragraph 2 (b), withdrawn 2007; paragraph 3 not found named",
+   "estimate": true
+  },
+  {
+   "item": 37,
+   "state": "Turkey",
+   "treaty": "CRMW",
+   "article": 42,
+   "para": 3,
+   "reading": "not",
+   "why": "declarations on articles 15, 40, 45, 46, 76-77 (listed on the page as Türkiye)",
+   "estimate": true
+  },
+  {
+   "item": 38,
+   "state": "Slovakia",
+   "treaty": "CRC",
+   "article": 38,
+   "para": 4,
+   "reading": "not",
+   "why": "the predecessor state declared on article 7 (1) only",
+   "estimate": true
+  },
+  {
+   "item": 39,
+   "state": "Iceland",
+   "treaty": "CRC",
+   "article": 31,
+   "para": 1,
+   "reading": "not",
+   "why": "declarations on articles 9 and 37, both withdrawn",
+   "estimate": true
+  },
+  {
+   "item": 40,
+   "state": "Kuwait",
+   "treaty": "ICCPR",
+   "article": 2,
+   "para": 1,
+   "reading": "cannot",
+   "why": "as item 27: Kuwait's declarations are referred to by others but not carried in its entry",
+   "estimate": true
+  }
+ ]
+}
