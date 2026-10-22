@@ -1,0 +1,2552 @@
+{
+"read_by": "Remainder, by hand, every entry of the read set; machine readings, estimates",
+"estimate": true,
+"items": [
+{
+"treaty": "CRMW",
+"state": "Chile",
+"holds": [],
+"general": false,
+"remark": "22 (5), 48 (2): not common"
+},
+{
+"treaty": "CRMW",
+"state": "Colombia",
+"holds": [
+"46(0)"
+],
+"general": false,
+"remark": "arts. 15, 46, 47 executed with a retained right on taxation and transfers; the file does not code 46"
+},
+{
+"treaty": "CRMW",
+"state": "Egypt",
+"holds": [],
+"general": false,
+"remark": "art. 4, 18 (6): not common"
+},
+{
+"treaty": "CRMW",
+"state": "El Salvador",
+"holds": [
+"46(0)"
+],
+"general": false,
+"remark": "92 (1); a declaration on 46, 47, 48, 61 (4) (duties only after taxes); 32; the file does not code 46"
+},
+{
+"treaty": "CRMW",
+"state": "Guatemala",
+"holds": [],
+"general": false,
+"remark": "acceptance under 76-77"
+},
+{
+"treaty": "CRMW",
+"state": "Mexico",
+"holds": [],
+"general": "national legislation (interpretative)",
+"remark": "interpretative declaration: all provisions applied in conformity with national legislation; 22 (4) withdrawn 2014; objection to Venezuela"
+},
+{
+"treaty": "CRMW",
+"state": "Nicaragua",
+"holds": [],
+"general": "domestic laws",
+"remark": "declaration: applied in accordance with domestic laws; reservation on 42 (3), not common"
+},
+{
+"treaty": "CRMW",
+"state": "Sri Lanka",
+"holds": [],
+"general": false,
+"remark": "8 (2), 49, 54: not common"
+},
+{
+"treaty": "CRMW",
+"state": "Syrian Arab Republic",
+"holds": [],
+"general": false,
+"remark": "non-recognition of Israel; holds back no provision"
+},
+{
+"treaty": "CRMW",
+"state": "T\u00fcrkiye",
+"holds": [
+"46(0)"
+],
+"general": false,
+"remark": "15, 40, 45; 46 implemented in accordance with national laws; 76-77 later"
+},
+{
+"treaty": "CRMW",
+"state": "Uganda",
+"holds": [],
+"general": false,
+"remark": "18 (3)(d): not common"
+},
+{
+"treaty": "CRMW",
+"state": "Venezuela (Bolivarian Republic of)",
+"holds": [],
+"general": false,
+"remark": "26 (1)(b) (joined 2016), not common; 92 (1)"
+},
+{
+"treaty": "CED",
+"state": "Belgium",
+"holds": [],
+"general": false,
+"remark": "objection to Oman; acceptance under 31-32"
+},
+{
+"treaty": "CED",
+"state": "Denmark",
+"holds": [],
+"general": false,
+"remark": "territorial exclusion only"
+},
+{
+"treaty": "CED",
+"state": "Finland",
+"holds": [
+"25(4)"
+],
+"general": false,
+"remark": "reservation on 25 (4), annulment of adoption (joined 2023); objection to Oman; acceptance"
+},
+{
+"treaty": "CED",
+"state": "France",
+"holds": [],
+"general": false,
+"remark": "objection to Oman; acceptance"
+},
+{
+"treaty": "CED",
+"state": "Germany",
+"holds": [],
+"general": false,
+"remark": "declarations on 16, 17 (2)(f), 17 (3), 18, 24 (4): none common; objection; acceptance"
+},
+{
+"treaty": "CED",
+"state": "Morocco",
+"holds": [],
+"general": false,
+"remark": "42: disputes"
+},
+{
+"treaty": "CED",
+"state": "Netherlands (Kingdom of the)",
+"holds": [],
+"general": false,
+"remark": "objection to Oman; acceptance"
+},
+{
+"treaty": "CED",
+"state": "Norway",
+"holds": [],
+"general": "international humanitarian law (interpretative)",
+"remark": "understanding that the application of the provisions in armed conflict depends on international humanitarian law (general, interpretative; borderline under the definition); 17 (2) and 20 (1) not common"
+},
+{
+"treaty": "CED",
+"state": "Poland",
+"holds": [
+"25(4)"
+],
+"general": false,
+"remark": "reservation on 25 (4) (joined 2024); objection to Oman; acceptance"
+},
+{
+"treaty": "CED",
+"state": "Portugal",
+"holds": [],
+"general": false,
+"remark": "objection to Oman; acceptance"
+},
+{
+"treaty": "CED",
+"state": "Sudan",
+"holds": [],
+"general": false,
+"remark": "42: disputes"
+},
+{
+"treaty": "CED",
+"state": "Ukraine",
+"holds": [],
+"general": false,
+"remark": "designation of authorities under 13-14 (holds nothing back); 42"
+},
+{
+"treaty": "CAT",
+"state": "Argentina",
+"holds": [],
+"general": false,
+"remark": "acceptance under 21-22"
+},
+{
+"treaty": "CAT",
+"state": "Azerbaijan",
+"holds": [],
+"general": false,
+"remark": "acceptance under 22"
+},
+{
+"treaty": "CAT",
+"state": "Belgium",
+"holds": [],
+"general": false,
+"remark": "objections (Pakistan, UAE); acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Brunei Darussalam",
+"holds": [],
+"general": false,
+"remark": "signatory only; reserves the right to reserve"
+},
+{
+"treaty": "CAT",
+"state": "Cameroon",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Canada",
+"holds": [],
+"general": false,
+"remark": "objection (Pakistan); acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Chile",
+"holds": [],
+"general": "another treaty (the Inter-American Convention applied where incompatible, in relations with American states)",
+"remark": "reservations to 2 (3), 3, 20, 30 (1) withdrawn 1990 and 1999; acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Finland",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Germany",
+"holds": [],
+"general": "domestic law (interpretative: art. 3 and the other provisions met in conformity with domestic law)",
+"remark": "objections; acceptance; GDR reservations withdrawn 1990"
+},
+{
+"treaty": "CAT",
+"state": "Greece",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Guinea-Bissau",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Holy See",
+"holds": [],
+"general": "the nature of the State (applied insofar as compatible with it)",
+"remark": ""
+},
+{
+"treaty": "CAT",
+"state": "Hungary",
+"holds": [],
+"general": false,
+"remark": "objection; acceptance; 20 and 30 (1) withdrawn 1989"
+},
+{
+"treaty": "CAT",
+"state": "Ireland",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Italy",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Kuwait",
+"holds": [],
+"general": false,
+"remark": "20 and 30 (1)"
+},
+{
+"treaty": "CAT",
+"state": "Latvia",
+"holds": [],
+"general": false,
+"remark": "objections"
+},
+{
+"treaty": "CAT",
+"state": "Maldives",
+"holds": [],
+"general": false,
+"remark": "acceptance under 22"
+},
+{
+"treaty": "CAT",
+"state": "Netherlands (Kingdom of the)",
+"holds": [],
+"general": false,
+"remark": "interpretation of 1 (1); objections; acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Poland",
+"holds": [],
+"general": false,
+"remark": "20; 30 (1) withdrawn 19 December 2025; objections; acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Portugal",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Qatar",
+"holds": [],
+"general": false,
+"remark": "a limited general reservation kept within articles 1 and 16 (names its articles); 21-22 reservation withdrawn 2012"
+},
+{
+"treaty": "CAT",
+"state": "Slovakia",
+"holds": [],
+"general": false,
+"remark": "objection; acceptance; Czechoslovak reservations withdrawn"
+},
+{
+"treaty": "CAT",
+"state": "Sudan",
+"holds": [],
+"general": false,
+"remark": "30 (1)"
+},
+{
+"treaty": "CAT",
+"state": "Switzerland",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Togo",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Uruguay",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "CAT",
+"state": "Zambia",
+"holds": [],
+"general": false,
+"remark": "an empty note"
+},
+{
+"treaty": "ICESCR",
+"state": "Bahamas (The)",
+"holds": [],
+"general": false,
+"remark": "interprets non-discrimination as to national origin (art. 2 (2) by its subject; names no article; not common)"
+},
+{
+"treaty": "ICESCR",
+"state": "Bangladesh",
+"holds": [
+"7(0)"
+],
+"general": false,
+"remark": "arts. 7 and 8 applied in conformity with the Constitution and legislation (names the article, no paragraph: every common paragraph of 7); 1, 2-3, 10, 13"
+},
+{
+"treaty": "ICESCR",
+"state": "Barbados",
+"holds": [
+"7(0)"
+],
+"general": false,
+"remark": "7 (a)(i) equal pay postponed; via 7 (a)(i); the file has no provision of its own for 7 (a), read here as part of 7 (0); 10 (2), 13 (2)(a)"
+},
+{
+"treaty": "ICESCR",
+"state": "Belarus",
+"holds": [],
+"general": false,
+"remark": "withdrawn 1992"
+},
+{
+"treaty": "ICESCR",
+"state": "Bosnia and Herzegovina",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "ICESCR",
+"state": "Cambodia",
+"holds": [],
+"general": false,
+"remark": "signature notes"
+},
+{
+"treaty": "ICESCR",
+"state": "China",
+"holds": [],
+"general": false,
+"remark": "8 (1)(a); Hong Kong and Macao notes on 6 and 8 (1)(b): none common"
+},
+{
+"treaty": "ICESCR",
+"state": "Croatia",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "ICESCR",
+"state": "Cuba",
+"holds": [],
+"general": false,
+"remark": "signatory only"
+},
+{
+"treaty": "ICESCR",
+"state": "Cyprus",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "ICESCR",
+"state": "Denmark",
+"holds": [],
+"general": false,
+"remark": "7 (d) = 7 (904), not common; 7 (a)(i) withdrawn 1976; objection"
+},
+{
+"treaty": "ICESCR",
+"state": "Egypt",
+"holds": [],
+"general": "Islamic Sharia",
+"remark": "ratified taking the Sharia into consideration, as not conflicting with the text"
+},
+{
+"treaty": "ICESCR",
+"state": "Finland",
+"holds": [],
+"general": false,
+"remark": "objections"
+},
+{
+"treaty": "ICESCR",
+"state": "France",
+"holds": [],
+"general": "another treaty (the UN Charter prevails in case of conflict)",
+"remark": "interpretations of 6, 9, 11, 13 and 8 (none common); objections"
+},
+{
+"treaty": "ICESCR",
+"state": "India",
+"holds": [],
+"general": false,
+"remark": "1, 4, 8; 7 (c) = 7 (903), not common"
+},
+{
+"treaty": "ICESCR",
+"state": "Iraq",
+"holds": [],
+"general": false,
+"remark": "non-recognition of Israel"
+},
+{
+"treaty": "ICESCR",
+"state": "Japan",
+"holds": [],
+"general": false,
+"remark": "7 (d) = 7 (904); 8 (1)(d), 8 (2); 13 (2)(b),(c) withdrawn 2012"
+},
+{
+"treaty": "ICESCR",
+"state": "Libya",
+"holds": [],
+"general": false,
+"remark": "non-recognition of Israel"
+},
+{
+"treaty": "ICESCR",
+"state": "Montenegro",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "ICESCR",
+"state": "North Macedonia",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "ICESCR",
+"state": "Norway",
+"holds": [],
+"general": false,
+"remark": "8 (1)(d); objections"
+},
+{
+"treaty": "ICESCR",
+"state": "Portugal",
+"holds": [],
+"general": false,
+"remark": "objections; Macao note"
+},
+{
+"treaty": "ICESCR",
+"state": "Rwanda",
+"holds": [],
+"general": false,
+"remark": "an empty note"
+},
+{
+"treaty": "ICESCR",
+"state": "Serbia",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "ICESCR",
+"state": "Slovakia",
+"holds": [],
+"general": false,
+"remark": "objection; Czechoslovak declarations"
+},
+{
+"treaty": "ICESCR",
+"state": "Slovenia",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "ICESCR",
+"state": "Solomon Islands",
+"holds": [
+"7(0)"
+],
+"general": false,
+"remark": "maintains the United Kingdom reservations so far as they can apply; these name the Solomon Islands under 7 (a)(i), 10 (1), 13 (2)(a), 14; via 7 (a)(i); the file has no provision of its own for 7 (a), read here as part of 7 (0)"
+},
+{
+"treaty": "ICESCR",
+"state": "Spain",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "ICESCR",
+"state": "Sweden",
+"holds": [],
+"general": false,
+"remark": "7 (d) = 7 (904), not common; objections"
+},
+{
+"treaty": "ICESCR",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"holds": [
+"7(0)"
+],
+"general": false,
+"remark": "7 (a)(i) postponed in named territories; via 7 (a)(i); the file has no provision of its own for 7 (a), read here as part of 7 (0); 1 (Charter), 6, 8 (1)(b), 9, 10, 13 (2)(a), 14"
+},
+{
+"treaty": "ICESCR",
+"state": "Yemen",
+"holds": [],
+"general": false,
+"remark": "non-recognition of Israel"
+},
+{
+"treaty": "CERD",
+"state": "Antigua and Barbuda",
+"holds": [],
+"general": "constitution (no obligation beyond its limits)",
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common"
+},
+{
+"treaty": "CERD",
+"state": "Australia",
+"holds": [],
+"general": false,
+"remark": "4 (a); objection; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Austria",
+"holds": [],
+"general": false,
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common; objection; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Bahamas (The)",
+"holds": [],
+"general": "constitution (no obligation beyond its limits)",
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common"
+},
+{
+"treaty": "CERD",
+"state": "Barbados",
+"holds": [],
+"general": "constitution (no obligation beyond its limits)",
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common"
+},
+{
+"treaty": "CERD",
+"state": "Belgium",
+"holds": [],
+"general": false,
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common (its sentence on the obligations of art. 4 read with them); objection; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Bosnia and Herzegovina",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "CERD",
+"state": "Brazil",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Canada",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "CERD",
+"state": "Colombia",
+"holds": [],
+"general": false,
+"remark": "acceptance dated 10 July 2026"
+},
+{
+"treaty": "CERD",
+"state": "Croatia",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "CERD",
+"state": "Denmark",
+"holds": [],
+"general": false,
+"remark": "objection; acceptance; Faroe reservation withdrawn 1972"
+},
+{
+"treaty": "CERD",
+"state": "Ethiopia",
+"holds": [],
+"general": false,
+"remark": "statement on Kampuchea"
+},
+{
+"treaty": "CERD",
+"state": "Fiji",
+"holds": [],
+"general": false,
+"remark": "all reservations and declarations withdrawn 2012"
+},
+{
+"treaty": "CERD",
+"state": "Finland",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "France",
+"holds": [
+"4(0)"
+],
+"general": false,
+"remark": "interprets the reference in art. 4 to the Universal Declaration and art. 5, naming no subparagraph (whole article); a later note says it records an interpretation only; art. 6; objections; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Germany",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance; GDR note"
+},
+{
+"treaty": "CERD",
+"state": "Grenada",
+"holds": [],
+"general": "constitution (no obligation beyond its limits)",
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common (joined 2013)"
+},
+{
+"treaty": "CERD",
+"state": "Guyana",
+"holds": [],
+"general": "constitution (no obligation beyond its limits)",
+"remark": ""
+},
+{
+"treaty": "CERD",
+"state": "Ireland",
+"holds": [],
+"general": false,
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Italy",
+"holds": [],
+"general": false,
+"remark": "art. 4 (a)-(b) and art. 6; objection; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Jamaica",
+"holds": [],
+"general": "constitution (no obligation beyond its limits)",
+"remark": ""
+},
+{
+"treaty": "CERD",
+"state": "Japan",
+"holds": [],
+"general": false,
+"remark": "4 (a)-(b)"
+},
+{
+"treaty": "CERD",
+"state": "Malta",
+"holds": [],
+"general": false,
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common; art. 6; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Mexico",
+"holds": [],
+"general": false,
+"remark": "objection; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Monaco",
+"holds": [
+"4(0)"
+],
+"general": false,
+"remark": "interprets the reference in art. 4, naming no subparagraph (whole article); 2 (1) on foreign workers, not common; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Montenegro",
+"holds": [],
+"general": false,
+"remark": "acceptance on succession"
+},
+{
+"treaty": "CERD",
+"state": "Namibia",
+"holds": [],
+"general": false,
+"remark": "historical note"
+},
+{
+"treaty": "CERD",
+"state": "Nepal",
+"holds": [],
+"general": "constitution (no obligation beyond its limits)",
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common; art. 6; 22"
+},
+{
+"treaty": "CERD",
+"state": "Netherlands (Kingdom of the)",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "New Zealand",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "CERD",
+"state": "North Macedonia",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Norway",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Panama",
+"holds": [],
+"general": false,
+"remark": "acceptance 2015"
+},
+{
+"treaty": "CERD",
+"state": "Papua New Guinea",
+"holds": [],
+"general": "constitution (no obligation beyond its limits)",
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common"
+},
+{
+"treaty": "CERD",
+"state": "Republic of Korea",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Saudi Arabia",
+"holds": [],
+"general": "Islamic Shariah",
+"remark": "implements the provisions provided they do not conflict with the Shariah; 22"
+},
+{
+"treaty": "CERD",
+"state": "Serbia",
+"holds": [],
+"general": false,
+"remark": "acceptance on succession"
+},
+{
+"treaty": "CERD",
+"state": "Singapore",
+"holds": [
+"2(2)"
+],
+"general": false,
+"remark": "joined 2017; reservation (1) on foreign work pass holders sits under a heading naming art. 2 and names no paragraph: by the registered rule every common paragraph of art. 2 (2 (2)); its subject is nearer 2 (1); 2 (1)(d), 6, 22"
+},
+{
+"treaty": "CERD",
+"state": "Slovenia",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Sweden",
+"holds": [],
+"general": false,
+"remark": "objections; acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Switzerland",
+"holds": [
+"4(0)"
+],
+"general": false,
+"remark": "reservation on the implementation of art. 4, naming no subparagraph (whole article); 2 (1)(a); acceptance"
+},
+{
+"treaty": "CERD",
+"state": "Thailand",
+"holds": [],
+"general": "constitution and laws (general interpretative declaration)",
+"remark": "22; its art. 4 reservation withdrawn 7 October 2016"
+},
+{
+"treaty": "CERD",
+"state": "Tonga",
+"holds": [],
+"general": false,
+"remark": "5 (d)(v); art. 4 read on the subparagraphs it names, (a)-(c), not common; arts. 6, 15, 20"
+},
+{
+"treaty": "CERD",
+"state": "United Arab Emirates",
+"holds": [],
+"general": false,
+"remark": "non-recognition of Israel"
+},
+{
+"treaty": "CERD",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"holds": [],
+"general": "domestic law (the Commonwealth Immigrants Acts 1962 and 1968, under 1 (1) or any other provision)",
+"remark": "art. 4 read on the subparagraphs it names, (a)-(c), not common; arts. 6, 15, 20; Rhodesia and Fiji; objections"
+},
+{
+"treaty": "CERD",
+"state": "United States of America",
+"holds": [
+"4(0)",
+"5(0)"
+],
+"general": "constitution and laws (signature; and no obligation under the Convention to restrict protected rights)",
+"remark": "arts. 4 and 7 named without paragraph (whole article 4); art. 5 with respect to private conduct (whole article 5); 2 (1), 3; 22; not self-executing"
+},
+{
+"treaty": "CERD",
+"state": "Yemen",
+"holds": [],
+"general": false,
+"remark": "non-recognition of Israel; 22; 17-18; Yemen Arab Republic note on 5 (c), 5 (d)(iv),(vi),(vii), not common"
+},
+{
+"treaty": "CRPD",
+"state": "Armenia",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "CRPD",
+"state": "Australia",
+"holds": [],
+"general": false,
+"remark": "understandings on legal capacity, integrity and movement (arts. 12, 17, 18 by subject; none named, none common)"
+},
+{
+"treaty": "CRPD",
+"state": "Austria",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Azerbaijan",
+"holds": [],
+"general": false,
+"remark": "territorial: occupied territories"
+},
+{
+"treaty": "CRPD",
+"state": "Belgium",
+"holds": [],
+"general": false,
+"remark": "signature note on its communities; objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Bhutan",
+"holds": [],
+"general": false,
+"remark": "joined 2024: 18 (1)(a), 18 (2), 23 (1)(b)-(c), 27 (1)(c), 29 (a)(ii) = 29 (901): none common"
+},
+{
+"treaty": "CRPD",
+"state": "Bolivia (Plurinational State of)",
+"holds": [],
+"general": false,
+"remark": "historical note"
+},
+{
+"treaty": "CRPD",
+"state": "China",
+"holds": [],
+"general": false,
+"remark": "Hong Kong and Macao note on movement and nationality (art. 18)"
+},
+{
+"treaty": "CRPD",
+"state": "Czech Republic",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "European Union",
+"holds": [],
+"general": false,
+"remark": "declaration of competence; 27 (1) reservation, not common; objections"
+},
+{
+"treaty": "CRPD",
+"state": "Finland",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "France",
+"holds": [
+"29(0)"
+],
+"general": false,
+"remark": "art. 15 consent; art. 29 on voting named without paragraph (whole article: 29 (0)); objection"
+},
+{
+"treaty": "CRPD",
+"state": "Germany",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Hungary",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Ireland",
+"holds": [],
+"general": false,
+"remark": "joined 2018: 27 (1), 12, 14: none common; objections"
+},
+{
+"treaty": "CRPD",
+"state": "Israel",
+"holds": [],
+"general": false,
+"remark": "23 (1)(a)"
+},
+{
+"treaty": "CRPD",
+"state": "Japan",
+"holds": [],
+"general": false,
+"remark": "23 (4)"
+},
+{
+"treaty": "CRPD",
+"state": "Kuwait",
+"holds": [],
+"general": false,
+"remark": "18 (1)(a), 23 (2), 12 (2), 19 (a), 25 (a): none common"
+},
+{
+"treaty": "CRPD",
+"state": "Latvia",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Libya",
+"holds": [],
+"general": false,
+"remark": "joined 2018: 25 (a) = 25 (901), not common (subject to the sharia and national legislation, for that subparagraph only)"
+},
+{
+"treaty": "CRPD",
+"state": "Liechtenstein",
+"holds": [],
+"general": false,
+"remark": "joined 2023: 24 (2)(a)-(b)"
+},
+{
+"treaty": "CRPD",
+"state": "Lithuania",
+"holds": [],
+"general": false,
+"remark": "25 (a)"
+},
+{
+"treaty": "CRPD",
+"state": "Malaysia",
+"holds": [],
+"general": false,
+"remark": "3 (b), 3 (e), 5 (2) under the Federal Constitution; 30 as a matter of national legislation; 15 and 18: none common"
+},
+{
+"treaty": "CRPD",
+"state": "Malta",
+"holds": [],
+"general": false,
+"remark": "25 (a); 29 (a)(i),(iii): none common"
+},
+{
+"treaty": "CRPD",
+"state": "Mauritius",
+"holds": [],
+"general": false,
+"remark": "11 (signature), 9 (2)(d)-(e), 24 (2)(b): none common"
+},
+{
+"treaty": "CRPD",
+"state": "Mexico",
+"holds": [],
+"general": false,
+"remark": "interpretative declaration on 12 (2) withdrawn 2012; objections"
+},
+{
+"treaty": "CRPD",
+"state": "Monaco",
+"holds": [
+"21(0)",
+"21(901)",
+"21(902)",
+"21(903)",
+"21(904)",
+"21(905)",
+"23(3)",
+"23(5)",
+"25(0)"
+],
+"general": "the circumstances of the State (implementation to take account of its small size and its people's needs; interpretative)",
+"remark": "joined 2017: reservation on art. 21 named without paragraph (whole article); arts. 23 and 25 on abortion named without paragraph (every common paragraph of each)"
+},
+{
+"treaty": "CRPD",
+"state": "Netherlands (Kingdom of the)",
+"holds": [
+"10(0)"
+],
+"general": false,
+"remark": "joined 2016: art. 10 (unborn life a matter of national legislation); 12, 14, 15, 23 (1)(b), 25 (a),(f), 29 (a)(ii)-(iii): not common; objections"
+},
+{
+"treaty": "CRPD",
+"state": "New Zealand",
+"holds": [],
+"general": false,
+"remark": "Tokelau"
+},
+{
+"treaty": "CRPD",
+"state": "Norway",
+"holds": [
+"25(0)"
+],
+"general": false,
+"remark": "joined 2013: understanding on \"articles 14 and 25\" named without paragraph (every common paragraph of 25: 25 (0)); 12; objections"
+},
+{
+"treaty": "CRPD",
+"state": "Poland",
+"holds": [],
+"general": false,
+"remark": "23 (1)(a),(b), 25 (a), 12 (4): none common; objections"
+},
+{
+"treaty": "CRPD",
+"state": "Portugal",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Republic of Korea",
+"holds": [],
+"general": false,
+"remark": "25 (e) reservation withdrawn 2021"
+},
+{
+"treaty": "CRPD",
+"state": "Romania",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Singapore",
+"holds": [],
+"general": false,
+"remark": "12 (4), 29 (a)(iii); 25 (e) withdrawn 8 December 2025"
+},
+{
+"treaty": "CRPD",
+"state": "Slovakia",
+"holds": [],
+"general": false,
+"remark": "27 (1)(a); objections"
+},
+{
+"treaty": "CRPD",
+"state": "Spain",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Suriname",
+"holds": [
+"20(901)",
+"26(1)",
+"26(2)",
+"26(3)"
+],
+"general": false,
+"remark": "joined 2017: 9 (2)(d)-(e), 19 (a), 24 (2)(b) not common; 20 (a) by its heading; art. 26 named without paragraph (whole article)"
+},
+{
+"treaty": "CRPD",
+"state": "Sweden",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Switzerland",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRPD",
+"state": "Tonga",
+"holds": [],
+"general": "the circumstances of the State (a small island developing state; implementation to take account of them)",
+"remark": "joined 4 September 2026: 12 (4), 23 (1)(b), 25 (a), 29 (a)(iii): none common"
+},
+{
+"treaty": "CRPD",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"holds": [],
+"general": false,
+"remark": "art. 27 (armed forces), 24 (2)(a)-(b), liberty of movement (art. 18 by subject); Bermuda note on 12: none common"
+},
+{
+"treaty": "CRC",
+"state": "Afghanistan",
+"holds": [],
+"general": false,
+"remark": "upon signature only: reserves the right to make reservations on ratification (none recorded); holds nothing back as written"
+},
+{
+"treaty": "CRC",
+"state": "Algeria",
+"holds": [
+"17(0)"
+],
+"general": false,
+"remark": "interpretations of 14 (1)-(2); arts. 13, 16 and 17 applied taking account of its codes (17 whole article named without paragraph: every common paragraph: 17 (0))"
+},
+{
+"treaty": "CRC",
+"state": "Andorra",
+"holds": [],
+"general": false,
+"remark": "disagreement with 38 (2)-(3); 7 and 8 withdrawn 2006"
+},
+{
+"treaty": "CRC",
+"state": "Argentina",
+"holds": [],
+"general": false,
+"remark": "21 (b)-(e), 1, 38, 24 (f): none common"
+},
+{
+"treaty": "CRC",
+"state": "Austria",
+"holds": [],
+"general": false,
+"remark": "objections; reservations on 13, 15, 17 and declarations on 38 withdrawn 28 September 2015"
+},
+{
+"treaty": "CRC",
+"state": "Bangladesh",
+"holds": [
+"21(0)"
+],
+"general": false,
+"remark": "14 (1); \"article 21 would apply subject to the existing laws and practices\" (whole article named without paragraph: every common paragraph)"
+},
+{
+"treaty": "CRC",
+"state": "Belgium",
+"holds": [],
+"general": false,
+"remark": "2 (1), 13, 15, 14 (1), 40 (2)(b)(v): none common; objections"
+},
+{
+"treaty": "CRC",
+"state": "Bosnia and Herzegovina",
+"holds": [],
+"general": false,
+"remark": "9 (1) withdrawn 2008"
+},
+{
+"treaty": "CRC",
+"state": "Brunei Darussalam",
+"holds": [],
+"general": "constitution and the beliefs and principles of Islam",
+"remark": "in particular 14, 20 (3), 21 (b)-(e) (subparagraphs, not common); 20 (1)-(2), 21 (a) withdrawn 2015"
+},
+{
+"treaty": "CRC",
+"state": "Bulgaria",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "CRC",
+"state": "Canada",
+"holds": [
+"21(0)"
+],
+"general": false,
+"remark": "right not to apply the provisions of article 21 where inconsistent with aboriginal customary care (whole article named without paragraph: every common paragraph); 37 (c); statement on 30 and 4"
+},
+{
+"treaty": "CRC",
+"state": "China",
+"holds": [],
+"general": "domestic law (for Hong Kong: applies only after live birth; \"parents\" as its laws define them; immigration legislation)",
+"remark": "art. 6 under the Constitution (not common); Hong Kong: 32 (2)(b), 37 (c); 22 declaration withdrawn 2003"
+},
+{
+"treaty": "CRC",
+"state": "Croatia",
+"holds": [],
+"general": false,
+"remark": "9 (1) withdrawn 1998"
+},
+{
+"treaty": "CRC",
+"state": "Czech Republic",
+"holds": [],
+"general": false,
+"remark": "objection; Czechoslovak declaration on 7 (1)"
+},
+{
+"treaty": "CRC",
+"state": "Denmark",
+"holds": [],
+"general": false,
+"remark": "40 (2)(b)(v); objections"
+},
+{
+"treaty": "CRC",
+"state": "Djibouti",
+"holds": [],
+"general": false,
+"remark": "general reservation withdrawn 2009"
+},
+{
+"treaty": "CRC",
+"state": "Ecuador",
+"holds": [
+"24(1)",
+"24(3)",
+"24(4)"
+],
+"general": "interpretative (the preamble on the unborn child, to be borne in mind in interpreting all articles) - upon signature only",
+"remark": "upon signature only: all articles, particularly art. 24, read in the light of the preamble (24 whole article named without paragraph: every common paragraph); 38"
+},
+{
+"treaty": "CRC",
+"state": "Egypt",
+"holds": [],
+"general": false,
+"remark": "20 and 21 withdrawn 2003"
+},
+{
+"treaty": "CRC",
+"state": "Finland",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRC",
+"state": "France",
+"holds": [],
+"general": "domestic law (interpretative: the Convention, particularly art. 6, no obstacle to its legislation on termination of pregnancy)",
+"remark": "art. 30 not applicable under its Constitution; 40 (2)(b)(v): none common; objection"
+},
+{
+"treaty": "CRC",
+"state": "Germany",
+"holds": [],
+"general": false,
+"remark": "objections; its declarations and reservations withdrawn 2010"
+},
+{
+"treaty": "CRC",
+"state": "Holy See",
+"holds": [],
+"general": "the nature of the State (application compatible with the Vatican City State and its sources of law)",
+"remark": "24 (2), and 13, 14, 15, 16, 28 read for parents' rights: none common"
+},
+{
+"treaty": "CRC",
+"state": "Hungary",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "CRC",
+"state": "Iceland",
+"holds": [],
+"general": false,
+"remark": "9 withdrawn 2009; 37 withdrawn 20 May 2015"
+},
+{
+"treaty": "CRC",
+"state": "Indonesia",
+"holds": [],
+"general": false,
+"remark": "reservation withdrawn 2005"
+},
+{
+"treaty": "CRC",
+"state": "Iran (Islamic Republic of)",
+"holds": [],
+"general": "Islamic laws (any provisions or articles incompatible with them)",
+"remark": ""
+},
+{
+"treaty": "CRC",
+"state": "Ireland",
+"holds": [],
+"general": false,
+"remark": "signature note; objections"
+},
+{
+"treaty": "CRC",
+"state": "Italy",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRC",
+"state": "Japan",
+"holds": [],
+"general": false,
+"remark": "37 (c), 9 (1), 10 (1): none common"
+},
+{
+"treaty": "CRC",
+"state": "Jordan",
+"holds": [
+"21(0)"
+],
+"general": false,
+"remark": "arts. 14, 20 and 21 at variance with the Shariah (21 whole article named without paragraph: every common paragraph); names its articles"
+},
+{
+"treaty": "CRC",
+"state": "Kiribati",
+"holds": [],
+"general": "customs and traditions (a child's rights in the Convention exercised with respect for parental authority, in particular 12-16)",
+"remark": "24, 26, 28 withdrawn 16 September 2015"
+},
+{
+"treaty": "CRC",
+"state": "Kuwait",
+"holds": [
+"21(0)"
+],
+"general": "Islamic Shari'a and local statutes - upon signature only",
+"remark": "ratification: 7 (not common); 21, no adoption (whole article named without paragraph: every common paragraph)"
+},
+{
+"treaty": "CRC",
+"state": "Latvia",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "CRC",
+"state": "Malaysia",
+"holds": [],
+"general": false,
+"remark": "2, 7, 14, 28 (1)(a), 37 subject to the Constitution, laws and policies: none common; others withdrawn"
+},
+{
+"treaty": "CRC",
+"state": "Maldives",
+"holds": [
+"21(0)"
+],
+"general": "Islamic Shariah (all clauses on adoption) - upon signature only",
+"remark": "ratification: reservations to arts. 14 and 21 (whole article named without paragraph: every common paragraph)"
+},
+{
+"treaty": "CRC",
+"state": "Mauritania",
+"holds": [],
+"general": "beliefs and values of Islam - upon signature only",
+"remark": ""
+},
+{
+"treaty": "CRC",
+"state": "Monaco",
+"holds": [],
+"general": "domestic law (the Convention, especially art. 7, shall not affect its nationality rules)",
+"remark": "40 (2)(b)(v)"
+},
+{
+"treaty": "CRC",
+"state": "Montenegro",
+"holds": [],
+"general": false,
+"remark": "historical note"
+},
+{
+"treaty": "CRC",
+"state": "Myanmar",
+"holds": [],
+"general": false,
+"remark": "15 and 37 withdrawn 1993"
+},
+{
+"treaty": "CRC",
+"state": "Netherlands (Kingdom of the)",
+"holds": [
+"40(4)"
+],
+"general": false,
+"remark": "26, 37 (c); \"accepts the provisions of article 40 with the reservation\" on minor offences (whole article named without paragraph: every common paragraph: 40 (4)); 14, 22, 38"
+},
+{
+"treaty": "CRC",
+"state": "North Macedonia",
+"holds": [],
+"general": false,
+"remark": "historical notes"
+},
+{
+"treaty": "CRC",
+"state": "Norway",
+"holds": [],
+"general": false,
+"remark": "40 (2)(b)(v) withdrawn 1995; objections"
+},
+{
+"treaty": "CRC",
+"state": "Oman",
+"holds": [],
+"general": false,
+"remark": "14 (modified 2014); general reservation and 7, 9, 21, 30 withdrawn (effective 2011, notified 2014); resources clause withdrawn 2022"
+},
+{
+"treaty": "CRC",
+"state": "Pakistan",
+"holds": [],
+"general": false,
+"remark": "general reservation withdrawn 1997"
+},
+{
+"treaty": "CRC",
+"state": "Poland",
+"holds": [],
+"general": "customs and traditions (a child's rights in the Convention exercised with respect for parental authority, in particular 12-16)",
+"remark": "24 (2)(f); 7 and 38 withdrawn 2013; objection"
+},
+{
+"treaty": "CRC",
+"state": "Qatar",
+"holds": [],
+"general": false,
+"remark": "general reservation partly withdrawn 2009, kept for arts. 2 and 14 only (names its articles)"
+},
+{
+"treaty": "CRC",
+"state": "Republic of Korea",
+"holds": [],
+"general": false,
+"remark": "40 (2)(b)(v); 21 (a) withdrawn 2017; 9 (3) withdrawn 2008"
+},
+{
+"treaty": "CRC",
+"state": "Republic of Moldova",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "CRC",
+"state": "Romania",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "CRC",
+"state": "Saudi Arabia",
+"holds": [],
+"general": "Islamic law (all such articles as conflict with it)",
+"remark": ""
+},
+{
+"treaty": "CRC",
+"state": "Serbia",
+"holds": [],
+"general": false,
+"remark": "reservation not maintained"
+},
+{
+"treaty": "CRC",
+"state": "Singapore",
+"holds": [],
+"general": "constitution; customs, values and religions (a child's rights exercised in accordance with them, in particular 12-17)",
+"remark": "19, 37, entry and citizenship, 32, 28 (1)(a): none common"
+},
+{
+"treaty": "CRC",
+"state": "Slovenia",
+"holds": [],
+"general": false,
+"remark": "9 (1) withdrawn 2004"
+},
+{
+"treaty": "CRC",
+"state": "Somalia",
+"holds": [
+"21(0)"
+],
+"general": "General Principles of Islamic Sharia",
+"remark": "joined 2015: arts. 14, 20, 21 (whole article named without paragraph: every common paragraph)"
+},
+{
+"treaty": "CRC",
+"state": "Spain",
+"holds": [],
+"general": false,
+"remark": "21 (d); 38"
+},
+{
+"treaty": "CRC",
+"state": "Sweden",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CRC",
+"state": "Switzerland",
+"holds": [
+"40(4)"
+],
+"general": false,
+"remark": "10 (1), 37 (c); \"reservation concerning article 40\" on penal procedure (whole article named without paragraph: every common paragraph: 40 (4)); 5, 7 (2), 40 (2) and 40 (2)(b)(vi) withdrawn 2004-2007"
+},
+{
+"treaty": "CRC",
+"state": "Syrian Arab Republic",
+"holds": [],
+"general": "Syrian legislation and the Islamic Shariah",
+"remark": "in particular 14; reservations to 20 and 21 partly withdrawn 2012 (the entry now names 14 only)"
+},
+{
+"treaty": "CRC",
+"state": "Thailand",
+"holds": [],
+"general": false,
+"remark": "7, 22, 29 withdrawn (22 on 30 August 2024)"
+},
+{
+"treaty": "CRC",
+"state": "Tunisia",
+"holds": [],
+"general": "domestic law (interpretative: the Preamble and provisions, in particular art. 6, no impediment to its legislation on termination of pregnancy)",
+"remark": "others withdrawn 2002 and 2008"
+},
+{
+"treaty": "CRC",
+"state": "T\u00fcrkiye",
+"holds": [
+"17(0)"
+],
+"general": false,
+"remark": "arts. 17, 29, 30 interpreted under the Constitution and the Treaty of Lausanne (17 whole article named without paragraph: every common paragraph)"
+},
+{
+"treaty": "CRC",
+"state": "United Arab Emirates",
+"holds": [
+"17(0)",
+"21(0)"
+],
+"general": false,
+"remark": "arts. 7, 14, 17 and 21 (17 and 21 whole article named without paragraph: every common paragraph)"
+},
+{
+"treaty": "CRC",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"holds": [],
+"general": "national law (interpretative: applies only after live birth; \"parents\" as national law defines them)",
+"remark": "dependent territories: 32, 37 (c), 22: none common"
+},
+{
+"treaty": "CRC",
+"state": "Venezuela (Bolivarian Republic of)",
+"holds": [],
+"general": false,
+"remark": "21 (b), 21 (d), 30: none common"
+},
+{
+"treaty": "CRC",
+"state": "Yemen",
+"holds": [],
+"general": false,
+"remark": "signature note"
+},
+{
+"treaty": "CRC",
+"state": "Yugoslavia (former)",
+"holds": [],
+"general": false,
+"remark": "not a current party"
+},
+{
+"treaty": "ICCPR",
+"state": "Afghanistan",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: art. 48 (participation)"
+},
+{
+"treaty": "ICCPR",
+"state": "Algeria",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: arts. 1, 22, 23 (4) interpreted; acceptance under 41"
+},
+{
+"treaty": "ICCPR",
+"state": "Australia",
+"holds": [],
+"general": false,
+"remark": "10 (2)(a),(b), 10 (3), 14 (6), 20; federal implementation clause; others withdrawn 1984; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Austria",
+"holds": [],
+"general": false,
+"remark": "12 (4), 9, 14, 10 (3), 19, 21, 22, 26: none common; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Bahrain",
+"holds": [],
+"general": false,
+"remark": "late reservations on 3, 18, 23, 9 (5), 14 (7): not accepted in deposit by the Secretary-General after objections; not standing"
+},
+{
+"treaty": "ICCPR",
+"state": "Bangladesh",
+"holds": [],
+"general": false,
+"remark": "14 (3)(d), 10 (3), 11, 14 (6): none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Belgium",
+"holds": [],
+"general": false,
+"remark": "10 (2)(a), 10 (3), 14, 19, 21, 22, 20, 23 (2): none common; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Bosnia and Herzegovina",
+"holds": [],
+"general": false,
+"remark": "acceptance; former Yugoslav derogation notes"
+},
+{
+"treaty": "ICCPR",
+"state": "Bulgaria",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: art. 48 (participation); acceptance"
+},
+{
+"treaty": "ICCPR",
+"state": "Burkina Faso",
+"holds": [],
+"general": false,
+"remark": "a derogation notice under art. 4 (2025), not a reservation"
+},
+{
+"treaty": "ICCPR",
+"state": "Cambodia",
+"holds": [],
+"general": false,
+"remark": "signature notes"
+},
+{
+"treaty": "ICCPR",
+"state": "Canada",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Croatia",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "ICCPR",
+"state": "Cuba",
+"holds": [],
+"general": false,
+"remark": "signatory only"
+},
+{
+"treaty": "ICCPR",
+"state": "Cyprus",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "ICCPR",
+"state": "Czech Republic",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Democratic People's Republic of Korea",
+"holds": [],
+"general": false,
+"remark": "note on its 1997 notice of withdrawal from the Covenant"
+},
+{
+"treaty": "ICCPR",
+"state": "Denmark",
+"holds": [],
+"general": false,
+"remark": "10 (3), 14 (1), 14 (5), 14 (7), 20 (1): none common; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Egypt",
+"holds": [],
+"general": "Islamic Sharia",
+"remark": "points to chapter IV.3 (ICESCR); read there: ratified taking the Sharia into consideration"
+},
+{
+"treaty": "ICCPR",
+"state": "Estonia",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Finland",
+"holds": [],
+"general": false,
+"remark": "10 (2)(b), 10 (3), 14 (7), 20 (1): none common; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "France",
+"holds": [],
+"general": "another treaty (the UN Charter prevails in case of conflict)",
+"remark": "4 (1), 9, 13, 14, 14 (5), 19, 20, 21, 22, 27: none common; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Germany",
+"holds": [],
+"general": false,
+"remark": "objections; its own reservations (19, 21, 22 with 2 (1), 14 (3), 14 (5), 15 (1)) named in a note: none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Greece",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Guinea-Bissau",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "ICCPR",
+"state": "Hungary",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: art. 48 (participation); objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Iceland",
+"holds": [],
+"general": false,
+"remark": "20 (1); 10 (2)(b), 10 (3), 14 (7) withdrawn 4 October 2024; others withdrawn earlier"
+},
+{
+"treaty": "ICCPR",
+"state": "India",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: arts. 1, 9, 13, 12, 19 (3), 21, 22: none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Iraq",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: non-recognition of Israel"
+},
+{
+"treaty": "ICCPR",
+"state": "Ireland",
+"holds": [],
+"general": false,
+"remark": "10 (2), 20 (1); 6 (5) declaration withdrawn 1994; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Italy",
+"holds": [],
+"general": false,
+"remark": "15 (1), 19 (3); objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Japan",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: 22 (2), fire service"
+},
+{
+"treaty": "ICCPR",
+"state": "Latvia",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Libya",
+"holds": [],
+"general": false,
+"remark": "non-recognition of Israel"
+},
+{
+"treaty": "ICCPR",
+"state": "Liechtenstein",
+"holds": [],
+"general": false,
+"remark": "3, 14 (1), 17 (1), 26: none common (17 (2) untouched)"
+},
+{
+"treaty": "ICCPR",
+"state": "Luxembourg",
+"holds": [],
+"general": false,
+"remark": "10 (3), 14 (5), 19 (2), 20: none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Malta",
+"holds": [],
+"general": false,
+"remark": "13, 14 (2), 14 (6), 19, 20, 22: none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Mongolia",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: art. 48 (participation)"
+},
+{
+"treaty": "ICCPR",
+"state": "Montenegro",
+"holds": [],
+"general": false,
+"remark": "historical note"
+},
+{
+"treaty": "ICCPR",
+"state": "Netherlands (Kingdom of the)",
+"holds": [],
+"general": false,
+"remark": "10: subscribes to paragraph 1, not bound by 2 and 3; 12, 14, 19 (2), 20 (1): none common; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "New Zealand",
+"holds": [],
+"general": false,
+"remark": "10 (2)(b), 10 (3), 14 (6), 20, 22: none common"
+},
+{
+"treaty": "ICCPR",
+"state": "North Macedonia",
+"holds": [],
+"general": false,
+"remark": "former Yugoslav derogation notes"
+},
+{
+"treaty": "ICCPR",
+"state": "Norway",
+"holds": [],
+"general": false,
+"remark": "10 (2)(b), 10 (3), 14 (5), 14 (7), 20 (1); 6 (4) withdrawn 1979; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Oman",
+"holds": [],
+"general": false,
+"remark": "joined 2025: 23 (2)-(4); 3, 18, 22, 27 interpreted: none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Pakistan",
+"holds": [],
+"general": false,
+"remark": "entry: signature only; the note records 2011 partial withdrawals, read as 3 and 25 kept in modified form and 6, 7, 12, 13, 18, 19, 40 withdrawn (uncertain reading of \"partially\")"
+},
+{
+"treaty": "ICCPR",
+"state": "Poland",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Portugal",
+"holds": [],
+"general": false,
+"remark": "objections; none common; Macao note"
+},
+{
+"treaty": "ICCPR",
+"state": "Qatar",
+"holds": [],
+"general": false,
+"remark": "joined 2018: 3, 23 (4); statements on 7, 18 (2), 22, 23 (2), 27: none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Samoa",
+"holds": [],
+"general": false,
+"remark": "joined 2008: 8 (3), 10 (2)-(3): none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Serbia",
+"holds": [],
+"general": false,
+"remark": "historical note"
+},
+{
+"treaty": "ICCPR",
+"state": "Slovakia",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Slovenia",
+"holds": [],
+"general": false,
+"remark": "acceptance"
+},
+{
+"treaty": "ICCPR",
+"state": "Spain",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "ICCPR",
+"state": "Sweden",
+"holds": [],
+"general": false,
+"remark": "10 (3), 14 (7), 20 (1): none common; objections"
+},
+{
+"treaty": "ICCPR",
+"state": "Switzerland",
+"holds": [],
+"general": false,
+"remark": "12 (1), 20, 25 (b), 26: none common; others withdrawn"
+},
+{
+"treaty": "ICCPR",
+"state": "Syrian Arab Republic",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: non-recognition of Israel; art. 48"
+},
+{
+"treaty": "ICCPR",
+"state": "Thailand",
+"holds": [],
+"general": false,
+"remark": "1 (1), 20 (1); 6 (5) and 9 (3) declarations withdrawn 2012"
+},
+{
+"treaty": "ICCPR",
+"state": "Trinidad and Tobago",
+"holds": [],
+"general": false,
+"remark": "4 (2) (not common: 4 (3) is), 10 (2)(b), 10 (3), 12 (2), 14 (5), 14 (6), 15 (1), 21, 26: none common"
+},
+{
+"treaty": "ICCPR",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"holds": [],
+"general": "domestic law (service and custodial discipline, immigration and nationality legislation: acceptance of \"the other provisions\" subject to them)",
+"remark": "1 (Charter), 10 (2)-(3), 12, 13, 14 (3)(d), 20, 23 (3)-(4), 24 (3), 25 (b): none common by article; 25 (c) and 11 withdrawn (11 on 4 February 2015)"
+},
+{
+"treaty": "ICCPR",
+"state": "United States of America",
+"holds": [
+"4(3)",
+"5(1)",
+"6(1)",
+"6(2)",
+"6(3)",
+"6(4)",
+"6(5)",
+"6(6)",
+"8(1)",
+"8(2)",
+"10(1)",
+"16(0)",
+"17(2)",
+"24(1)",
+"24(2)"
+],
+"general": false,
+"remark": "reservation (2) on capital punishment for persons below eighteen names no article; read by its subject as 6 (5), as the objecting states on the same page read it; declaration (1): \"articles 1 through 27 are not self-executing\" names a range of articles without paragraphs: by the registered rule every common provision in arts. 1-27 (all but 40 (1)); 20, 7, 15 (1), 10, 14 and understandings: not common"
+},
+{
+"treaty": "ICCPR",
+"state": "Uruguay",
+"holds": [],
+"general": false,
+"remark": "objection"
+},
+{
+"treaty": "ICCPR",
+"state": "Viet Nam",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: art. 48 (participation)"
+},
+{
+"treaty": "ICCPR",
+"state": "Yemen",
+"holds": [],
+"general": false,
+"remark": "points to chapter IV.3 (ICESCR); read there: non-recognition of Israel"
+},
+{
+"treaty": "CEDAW",
+"state": "Austria",
+"holds": [],
+"general": false,
+"remark": "objections; 7 (b) withdrawn 2000; 11 withdrawn 10 June 2015"
+},
+{
+"treaty": "CEDAW",
+"state": "Bangladesh",
+"holds": [],
+"general": false,
+"remark": "arts. 2 and 16 (1)(c) (art. 2 has no common paragraph); 13 (a), 16 (1)(f) withdrawn 1997"
+},
+{
+"treaty": "CEDAW",
+"state": "Belgium",
+"holds": [],
+"general": false,
+"remark": "objections; 7 and 15 (2)-(3) withdrawn 1998 and 2002"
+},
+{
+"treaty": "CEDAW",
+"state": "Bosnia and Herzegovina",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "CEDAW",
+"state": "Cambodia",
+"holds": [],
+"general": false,
+"remark": "signature notes"
+},
+{
+"treaty": "CEDAW",
+"state": "Chile",
+"holds": [],
+"general": false,
+"remark": "upon signature: a statement that some provisions are not entirely compatible with its legislation, holding nothing back as written"
+},
+{
+"treaty": "CEDAW",
+"state": "Cook Islands",
+"holds": [],
+"general": false,
+"remark": "all reservations withdrawn 2007"
+},
+{
+"treaty": "CEDAW",
+"state": "Croatia",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "CEDAW",
+"state": "Denmark",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CEDAW",
+"state": "Fiji",
+"holds": [],
+"general": false,
+"remark": "5 (a) and 9 withdrawn 2000"
+},
+{
+"treaty": "CEDAW",
+"state": "Finland",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CEDAW",
+"state": "France",
+"holds": [
+"5(0)"
+],
+"general": "domestic law (interpretative: no provision prevails over French legislation more favourable to women than to men)",
+"remark": "art. 9 (signature, confirmed); preamble; \"article 5 will be applied subject to\" art. 17 ICCPR and art. 8 ECHR (5 whole article named without paragraph: every common paragraph); 29 (1); 14 and 16 (1)(g) withdrawn 14 October 2013"
+},
+{
+"treaty": "CEDAW",
+"state": "Germany",
+"holds": [],
+"general": false,
+"remark": "declaration on self-determination and the preamble; 7 (b) withdrawn 2001; objections"
+},
+{
+"treaty": "CEDAW",
+"state": "Guinea",
+"holds": [],
+"general": false,
+"remark": "signature note"
+},
+{
+"treaty": "CEDAW",
+"state": "India",
+"holds": [],
+"general": false,
+"remark": "5 (a) and 16 (1) by non-interference in community affairs (5 (a) = 5 (901), not common); 16 (2); 29 (1)"
+},
+{
+"treaty": "CEDAW",
+"state": "Ireland",
+"holds": [],
+"general": false,
+"remark": "16 (1)(d),(f); 11 (1)(b)-(d) and social security (headed \"articles 11 (1) and 13 (a)\": 13 (a) = 13 (901), not common); others withdrawn"
+},
+{
+"treaty": "CEDAW",
+"state": "Israel",
+"holds": [],
+"general": false,
+"remark": "7 (b) = 7 (902), not common (\"otherwise the said article is fully implemented\"); 16; 29 (1)"
+},
+{
+"treaty": "CEDAW",
+"state": "Kuwait",
+"holds": [],
+"general": false,
+"remark": "9 (2), 16 (f), 29 (1); 7 (a) withdrawn 2005"
+},
+{
+"treaty": "CEDAW",
+"state": "Latvia",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CEDAW",
+"state": "Lesotho",
+"holds": [],
+"general": false,
+"remark": "art. 2 (no common paragraph); general parts withdrawn on modification 2004"
+},
+{
+"treaty": "CEDAW",
+"state": "Liechtenstein",
+"holds": [],
+"general": "constitution (its article 3 applied with respect to all the obligations of the Convention)",
+"remark": "names art. 1 of the Convention; 9 (2) withdrawn 1996"
+},
+{
+"treaty": "CEDAW",
+"state": "Luxembourg",
+"holds": [],
+"general": false,
+"remark": "reservations (including art. 7 whole) withdrawn 9 January 2008"
+},
+{
+"treaty": "CEDAW",
+"state": "Malaysia",
+"holds": [],
+"general": "Islamic Sharia law and the Federal Constitution (accession subject to the understanding that the provisions do not conflict with them)",
+"remark": "9 (2), 16 (1)(a),(c),(f),(g); art. 11 interpreted; 5 (a), 7 (b), 16 (2) withdrawn 2010"
+},
+{
+"treaty": "CEDAW",
+"state": "Maldives",
+"holds": [],
+"general": false,
+"remark": "16 (1)(a),(c),(d),(f) (modified 1999, partly withdrawn 2020); 7 (a) withdrawn 2010"
+},
+{
+"treaty": "CEDAW",
+"state": "Malta",
+"holds": [
+"13(0)"
+],
+"general": false,
+"remark": "11 (1) interpreted; \"B. Article 13\": tax and social security legislation (13 whole article named without paragraph: every common paragraph); \"C. Articles 13, 15, 16\": family and property law; 16 (1)(e)"
+},
+{
+"treaty": "CEDAW",
+"state": "Mauritania",
+"holds": [],
+"general": false,
+"remark": "general reservation partly withdrawn 25 July 2014; kept for 13 (a) = 13 (901) and 16 only: none common"
+},
+{
+"treaty": "CEDAW",
+"state": "Mexico",
+"holds": [],
+"general": "domestic law and resources (provisions applied by the modalities of Mexican legislation) - upon signature only",
+"remark": "objections"
+},
+{
+"treaty": "CEDAW",
+"state": "Micronesia (Federated States of)",
+"holds": [
+"5(0)"
+],
+"general": false,
+"remark": "joined 2004: 11 (1)(d), 11 (2)(b); arts. 2 (f), 5 and 16 for traditional titles and marital customs (5 whole article named without paragraph: every common paragraph); 29 (1)"
+},
+{
+"treaty": "CEDAW",
+"state": "Monaco",
+"holds": [],
+"general": "constitution; another treaty; domestic law (conventions with France unaffected; aims read as in line with the Constitution; laws more favourable to women; succession to the throne; social security)",
+"remark": "joined 2005: 7 (b) = 7 (902), art. 9 (no common paragraph), 16 (1)(e), 29 (1): none common; 16 (1)(g) withdrawn 2017"
+},
+{
+"treaty": "CEDAW",
+"state": "Montenegro",
+"holds": [],
+"general": false,
+"remark": "historical note"
+},
+{
+"treaty": "CEDAW",
+"state": "Netherlands (Kingdom of the)",
+"holds": [],
+"general": false,
+"remark": "declaration on the preamble; objections"
+},
+{
+"treaty": "CEDAW",
+"state": "New Zealand",
+"holds": [],
+"general": false,
+"remark": "Cook Islands 2 (f), 5 (a) = 5 (901), not common; others withdrawn"
+},
+{
+"treaty": "CEDAW",
+"state": "Niger",
+"holds": [
+"5(0)"
+],
+"general": false,
+"remark": "joined 1999: 2 (d),(f), 5 (a), 15 (4), 16 (1)(c),(e),(g), 29 (1); declaration that \"article 5 would be applied in compliance with\" art. 17 ICCPR (5 whole article named without paragraph: every common paragraph)"
+},
+{
+"treaty": "CEDAW",
+"state": "North Macedonia",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "CEDAW",
+"state": "Norway",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CEDAW",
+"state": "Pakistan",
+"holds": [],
+"general": "constitution (accession subject to its provisions)",
+"remark": "29 (1)"
+},
+{
+"treaty": "CEDAW",
+"state": "Poland",
+"holds": [],
+"general": false,
+"remark": "objections; none common; 29 (1) withdrawn 1997"
+},
+{
+"treaty": "CEDAW",
+"state": "Qatar",
+"holds": [],
+"general": false,
+"remark": "joined 2009: 2 (a), 9 (2), 15 (1),(4), 16 (1)(a),(c),(f), 29; declarations on art. 1 and 5 (a) = 5 (901): none common"
+},
+{
+"treaty": "CEDAW",
+"state": "Serbia",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "CEDAW",
+"state": "Singapore",
+"holds": [],
+"general": false,
+"remark": "2 (a)-(f), 16 (1)(a),(c),(h), 16 (2); art. 11 for women outside employment legislation (art. 11 has no common paragraph); 29 (1); others withdrawn or modified 2007-2015"
+},
+{
+"treaty": "CEDAW",
+"state": "Slovakia",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CEDAW",
+"state": "Slovenia",
+"holds": [],
+"general": false,
+"remark": "succession note"
+},
+{
+"treaty": "CEDAW",
+"state": "Spain",
+"holds": [],
+"general": "constitution (succession to the Crown unaffected)",
+"remark": "objections"
+},
+{
+"treaty": "CEDAW",
+"state": "Sweden",
+"holds": [],
+"general": false,
+"remark": "objections; none common"
+},
+{
+"treaty": "CEDAW",
+"state": "Switzerland",
+"holds": [],
+"general": false,
+"remark": "15 (2), 16 (1)(h) (other text elided on the page); 7 (b) withdrawn 2004, 16 (1)(g) withdrawn 2013"
+},
+{
+"treaty": "CEDAW",
+"state": "Thailand",
+"holds": [],
+"general": "constitution (interpretative: the purposes of the Convention in accordance with its principles)",
+"remark": "29 (1); others withdrawn 1991-2012"
+},
+{
+"treaty": "CEDAW",
+"state": "United Kingdom of Great Britain and Northern Ireland",
+"holds": [
+"13(0)"
+],
+"general": "domestic matters excluded (laws more favourable to women; the Throne, peerage, religious denominations, combat effectiveness of the armed forces)",
+"remark": "art. 9, 11, 15 (3), 16 (1)(f): none common; its own art. 13 reservation withdrawn 1995, but for dependent territories (\"articles 13, 15 and 16: same reservations\") and for Jersey (extended 16 February 2021: \"notwithstanding the obligations undertaken in Article 13\") it stands (13 whole article named without paragraph: every common paragraph)"
+}
+]
+}

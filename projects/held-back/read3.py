@@ -26,3 +26,11 @@ if __name__ == '__main__':
     else:
         for s in sys.argv[2:]:
             show(sys.argv[1], s)
+
+
+def batch(t, i, j):
+    """Prints the read set of one treaty, items i..j-1 (filter3.json order)."""
+    r = [x for x in json.load(open('filter3.json')) if x['treaty'] == t and x['verdict'] == 'read']
+    for k, x in enumerate(r[i:j], start=i):
+        print('#%d' % k, end=' ')
+        show(t, x['state'])
