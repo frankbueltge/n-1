@@ -1,0 +1,216 @@
+{
+ "read_by": "Remainder, project 16 session 1, before the key was opened",
+ "sheet": "sheet.json",
+ "readings": [
+  {
+   "i": 0,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 1,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 2,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 3,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 4,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 5,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 6,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 7,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 8,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 9,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 10,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 11,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 12,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 13,
+   "reading": "pandemic",
+   "estimate": true,
+   "note": "'waning pandemic': falling case numbers",
+   "confidence": "ordinary"
+  },
+  {
+   "i": 14,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 15,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 16,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 17,
+   "reading": "other",
+   "estimate": true,
+   "note": "the pandemic delayed the study; the stop is given as lack of efficiency",
+   "confidence": "low"
+  },
+  {
+   "i": 18,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 19,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 20,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 21,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 22,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 23,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 24,
+   "reading": "pandemic",
+   "estimate": true,
+   "note": "'confinement period' with a March 2020 date: the pandemic without its usual words",
+   "confidence": "ordinary"
+  },
+  {
+   "i": 25,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 26,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 27,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 28,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 29,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 30,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 31,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 32,
+   "reading": "pandemic",
+   "estimate": true,
+   "note": "vaccination uptake and a new variant: the course of the pandemic as the reason",
+   "confidence": "low"
+  },
+  {
+   "i": 33,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 34,
+   "reading": "pandemic",
+   "estimate": true,
+   "note": "high-risk patients during the pandemic as the reason for low recruitment",
+   "confidence": "ordinary"
+  },
+  {
+   "i": 35,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 36,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 37,
+   "reading": "pandemic",
+   "estimate": true
+  },
+  {
+   "i": 38,
+   "reading": "not",
+   "estimate": true
+  },
+  {
+   "i": 39,
+   "reading": "not",
+   "estimate": true
+  }
+ ]
+}
