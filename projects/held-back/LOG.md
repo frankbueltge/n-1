@@ -18,3 +18,13 @@
   (The), Netherlands (Kingdom of the), Türkiye); Kuwait's ICCPR entry is empty but for a note, while other states' objections refer to
   its interpretative declarations, so two rows are "cannot tell"; Hong Kong has no entry of its own. 40 readings written:
   22 held back, 15 not, 3 cannot tell.
+- **01:13** Readings committed and pushed (da61721). Key opened: 32 of 37 agree at article level; the five read again (`result1.json`):
+  four are the file coding paragraphs finer than the reading counted, one (Norway, ICCPR 6 (4)) is a footnote I missed.
+- **01:14** `session1.py` failed on its first run: `rat_yr` is stored as a Stata date; `lib.py` now keeps its year (a change after the
+  readings commit; `sheet.py` reads no year, so the sheet is unaffected). The count: every coded row is of function "obligation", so
+  no dispute clause is in the file (P1 failed on scope); the file's last year is 2014.
+- **01:16** Study page built; render check extended (9 strips, 567 columns, 6 predictions) and run: all pages ok at 1440 and 390. One
+  detour: the first figure put the treaty names inside the SVG, unreadable at 390; moved to HTML headings. The year of CERD was
+  written 1965 from memory; the UN list says New York, 7 March 1966; corrected before commit.
+- **01:19** AUDIT.md and ASSEMBLAGE.md written. Detour: two of their first sentences put quotation marks around wording that was not
+  the pages' verbatim, and SELECTION.md had left quoting unsettled; both rewritten as paraphrase with the source named.

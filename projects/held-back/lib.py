@@ -17,5 +17,6 @@ def load():
     df.attrs['rows_without_treaty'] = int(df['treaty_id'].isna().sum())
     df = df[df['treaty_id'].notna()].copy()
     df['treaty'] = df['treaty_id'].map(lambda t: labels['treaty_id'][t].split('. ', 1)[1])
+    df['rat_yr'] = df['rat_yr'].dt.year.astype('float64')  # stored as a Stata date; only its year is used
     df['held'] = (df['reservation'] == 1) | (df['declaration'] == 1)
     return df, labels

@@ -1,0 +1,393 @@
+{
+ "file_sha256": "eb5458352ee99b50ae00ecf7ffaadcf5cdae191d6bd900b3a6038db2114e618e",
+ "rows_with_treaty": 72396,
+ "rows_without_treaty": 15735,
+ "last_year": 2014,
+ "last_year_by_column": {
+  "rat_yr": 2014,
+  "resdec_yr": 2014,
+  "wdraw_yr": 2014
+ },
+ "held_rows": 1293,
+ "reserved_rows": 918,
+ "declared_rows": 406,
+ "held_rows_missing_resdec_yr": 40,
+ "withdrawn_rows": 224,
+ "withdrawn_share": 0.1732,
+ "withdrawn_missing_years": 1,
+ "standing_withdrawn": {
+  "n": 223,
+  "median": 14.0,
+  "q1": 5.0,
+  "q3": 18.0,
+  "negative": 0,
+  "zero": 1
+ },
+ "standing_still_to_last_year": {
+  "n": 1030,
+  "median": 20.0
+ },
+ "treaties": {
+  "CAT": {
+   "parties": 154,
+   "provisions": 29,
+   "rows": 4466,
+   "parties_holding_back_any": 11,
+   "provisions_held_by_all": 1,
+   "share_held_by_all": 0.0345,
+   "max_states_on_one_provision": 4,
+   "max_share_of_parties": 0.026,
+   "states_holding_back_every_provision": 0,
+   "top": [
+    {
+     "provision_id": 303001,
+     "article": 3,
+     "para": 1,
+     "function": "5. obligation",
+     "states": 4
+    },
+    {
+     "provision_id": 303002,
+     "article": 3,
+     "para": 2,
+     "function": "5. obligation",
+     "states": 4
+    },
+    {
+     "provision_id": 304001,
+     "article": 4,
+     "para": 1,
+     "function": "5. obligation",
+     "states": 3
+    }
+   ]
+  },
+  "CED": {
+   "parties": 43,
+   "provisions": 51,
+   "rows": 2193,
+   "parties_holding_back_any": 1,
+   "provisions_held_by_all": 46,
+   "share_held_by_all": 0.902,
+   "max_states_on_one_provision": 1,
+   "max_share_of_parties": 0.0233,
+   "states_holding_back_every_provision": 0,
+   "top": [
+    {
+     "provision_id": 618002,
+     "article": 18,
+     "para": 2,
+     "function": "5. obligation",
+     "states": 1
+    },
+    {
+     "provision_id": 616002,
+     "article": 16,
+     "para": 2,
+     "function": "5. obligation",
+     "states": 1
+    },
+    {
+     "provision_id": 616001,
+     "article": 16,
+     "para": 1,
+     "function": "5. obligation",
+     "states": 1
+    }
+   ]
+  },
+  "CEDAW": {
+   "parties": 185,
+   "provisions": 46,
+   "rows": 8510,
+   "parties_holding_back_any": 50,
+   "provisions_held_by_all": 11,
+   "share_held_by_all": 0.2391,
+   "max_states_on_one_provision": 33,
+   "max_share_of_parties": 0.1784,
+   "states_holding_back_every_provision": 0,
+   "top": [
+    {
+     "provision_id": 416001,
+     "article": 16,
+     "para": 1,
+     "function": "5. obligation",
+     "states": 33
+    },
+    {
+     "provision_id": 409002,
+     "article": 9,
+     "para": 2,
+     "function": "5. obligation",
+     "states": 25
+    },
+    {
+     "provision_id": 402906,
+     "article": 2,
+     "para": 906,
+     "function": "5. obligation",
+     "states": 18
+    }
+   ]
+  },
+  "CERD": {
+   "parties": 176,
+   "provisions": 17,
+   "rows": 2992,
+   "parties_holding_back_any": 23,
+   "provisions_held_by_all": 3,
+   "share_held_by_all": 0.1765,
+   "max_states_on_one_provision": 21,
+   "max_share_of_parties": 0.1193,
+   "states_holding_back_every_provision": 0,
+   "top": [
+    {
+     "provision_id": 504901,
+     "article": 4,
+     "para": 901,
+     "function": "5. obligation",
+     "states": 21
+    },
+    {
+     "provision_id": 504903,
+     "article": 4,
+     "para": 903,
+     "function": "5. obligation",
+     "states": 20
+    },
+    {
+     "provision_id": 504902,
+     "article": 4,
+     "para": 902,
+     "function": "5. obligation",
+     "states": 20
+    }
+   ]
+  },
+  "CRC": {
+   "parties": 193,
+   "provisions": 98,
+   "rows": 18947,
+   "parties_holding_back_any": 62,
+   "provisions_held_by_all": 32,
+   "share_held_by_all": 0.3265,
+   "max_states_on_one_provision": 18,
+   "max_share_of_parties": 0.0933,
+   "states_holding_back_every_provision": 0,
+   "top": [
+    {
+     "provision_id": 714001,
+     "article": 14,
+     "para": 1,
+     "function": "5. obligation",
+     "states": 18
+    },
+    {
+     "provision_id": 714002,
+     "article": 14,
+     "para": 2,
+     "function": "5. obligation",
+     "states": 15
+    },
+    {
+     "provision_id": 714003,
+     "article": 14,
+     "para": 3,
+     "function": "5. obligation",
+     "states": 14
+    }
+   ]
+  },
+  "CRMW": {
+   "parties": 47,
+   "provisions": 144,
+   "rows": 6768,
+   "parties_holding_back_any": 8,
+   "provisions_held_by_all": 116,
+   "share_held_by_all": 0.8056,
+   "max_states_on_one_provision": 3,
+   "max_share_of_parties": 0.0638,
+   "states_holding_back_every_provision": 0,
+   "top": [
+    {
+     "provision_id": 846904,
+     "article": 46,
+     "para": 904,
+     "function": "5. obligation",
+     "states": 3
+    },
+    {
+     "provision_id": 846903,
+     "article": 46,
+     "para": 903,
+     "function": "5. obligation",
+     "states": 3
+    },
+    {
+     "provision_id": 846902,
+     "article": 46,
+     "para": 902,
+     "function": "5. obligation",
+     "states": 3
+    }
+   ]
+  },
+  "CRPD": {
+   "parties": 150,
+   "provisions": 92,
+   "rows": 13801,
+   "parties_holding_back_any": 25,
+   "provisions_held_by_all": 58,
+   "share_held_by_all": 0.6304,
+   "max_states_on_one_provision": 10,
+   "max_share_of_parties": 0.0667,
+   "states_holding_back_every_provision": 0,
+   "top": [
+    {
+     "provision_id": 912002,
+     "article": 12,
+     "para": 2,
+     "function": "5. obligation",
+     "states": 10
+    },
+    {
+     "provision_id": 912004,
+     "article": 12,
+     "para": 4,
+     "function": "5. obligation",
+     "states": 8
+    },
+    {
+     "provision_id": 912003,
+     "article": 12,
+     "para": 3,
+     "function": "5. obligation",
+     "states": 6
+    }
+   ]
+  },
+  "ICCPR": {
+   "parties": 165,
+   "provisions": 63,
+   "rows": 10398,
+   "parties_holding_back_any": 45,
+   "provisions_held_by_all": 9,
+   "share_held_by_all": 0.1429,
+   "max_states_on_one_provision": 16,
+   "max_share_of_parties": 0.097,
+   "states_holding_back_every_provision": 0,
+   "top": [
+    {
+     "provision_id": 1810003,
+     "article": 10,
+     "para": 3,
+     "function": "5. obligation",
+     "states": 16
+    },
+    {
+     "provision_id": 1820001,
+     "article": 20,
+     "para": 1,
+     "function": "5. obligation",
+     "states": 16
+    },
+    {
+     "provision_id": 1814005,
+     "article": 14,
+     "para": 5,
+     "function": "5. obligation",
+     "states": 13
+    }
+   ]
+  },
+  "ICESCR": {
+   "parties": 160,
+   "provisions": 27,
+   "rows": 4321,
+   "parties_holding_back_any": 21,
+   "provisions_held_by_all": 9,
+   "share_held_by_all": 0.3333,
+   "max_states_on_one_provision": 8,
+   "max_share_of_parties": 0.05,
+   "states_holding_back_every_provision": 0,
+   "top": [
+    {
+     "provision_id": 1913003,
+     "article": 13,
+     "para": 3,
+     "function": "5. obligation",
+     "states": 8
+    },
+    {
+     "provision_id": 1913004,
+     "article": 13,
+     "para": 4,
+     "function": "5. obligation",
+     "states": 8
+    },
+    {
+     "provision_id": 1901003,
+     "article": 1,
+     "para": 3,
+     "function": "5. obligation",
+     "states": 7
+    }
+   ]
+  }
+ },
+ "top5_across": [
+  {
+   "provision_id": 416001,
+   "article": 16,
+   "para": 1,
+   "function": "5. obligation",
+   "states": 33,
+   "treaty": "CEDAW"
+  },
+  {
+   "provision_id": 409002,
+   "article": 9,
+   "para": 2,
+   "function": "5. obligation",
+   "states": 25,
+   "treaty": "CEDAW"
+  },
+  {
+   "provision_id": 504901,
+   "article": 4,
+   "para": 901,
+   "function": "5. obligation",
+   "states": 21,
+   "treaty": "CERD"
+  },
+  {
+   "provision_id": 504903,
+   "article": 4,
+   "para": 903,
+   "function": "5. obligation",
+   "states": 20,
+   "treaty": "CERD"
+  },
+  {
+   "provision_id": 504902,
+   "article": 4,
+   "para": 902,
+   "function": "5. obligation",
+   "states": 20,
+   "treaty": "CERD"
+  }
+ ],
+ "by_function": {
+  "5. obligation": {
+   "held": 1293,
+   "withdrawn": 224
+  }
+ },
+ "withdrawals_by_decade": {
+  "1970": 6,
+  "1980": 8,
+  "1990": 51,
+  "2000": 82,
+  "2010": 77
+ }
+}
