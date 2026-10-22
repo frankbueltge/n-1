@@ -34,3 +34,12 @@
 - **12:15** First clock read. Boot: DOWRY.md, the whole foundation, session 1's record.
 - **12:16** The file fetched again to scratch (the container is new); sha256 unchanged. No value read.
 - **12:22** `SESSION2.md` written and read against itself; committed before any page is fetched.
+- **Correction to the line above:** "12:22" was written ahead of the clock again, as in session 1; `date -u` read 12:16:57 at the push.
+- **12:17** Nine pages fetched to scratch (IV-2, 3, 4, 8, 9, 11, 13, 15, 16); their hashes differ from session 1's for the same pages
+  (`IV-11` was 7b8680e8…, now dda5a3ad…), so the pages carry changing markup or content; the hashes are in `session2.json`.
+- **12:17-12:18** `pages2.py` parses participants, entries, notes. Detour: pandas absent from the new container; installed. 221 standing
+  pairs; five file names not on the pages: three mapped (`lib2.py`), Hong Kong and Macao left unmatched (no entry of their own).
+- **12:18** `sheet2.py`: 20 pairs drawn (seed 20261023), key written unopened.
+- **12:19-12:25** 20 pairs read by hand (`read2.py`): 10 late (3 whole, 7 part), 10 not late, 0 cannot tell. Detours: notes referenced
+  from a state's heading can concern another state (Maldives and Singapore both carry Kuwait's note 31); one withdrawal stands in the
+  entry text, not a note (DPRK); one entry shows an elision with no dated withdrawal (Qatar).

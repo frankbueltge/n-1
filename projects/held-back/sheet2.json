@@ -1,0 +1,105 @@
+{
+ "seed": 20261023,
+ "items": [
+  {
+   "item": 1,
+   "state": "Thailand",
+   "treaty": "CAT"
+  },
+  {
+   "item": 2,
+   "state": "Maldives",
+   "treaty": "CEDAW"
+  },
+  {
+   "item": 3,
+   "state": "Poland",
+   "treaty": "CRC"
+  },
+  {
+   "item": 4,
+   "state": "Lao People's Democratic Republic",
+   "treaty": "CAT"
+  },
+  {
+   "item": 5,
+   "state": "Democratic People's Republic of Korea",
+   "treaty": "CEDAW"
+  },
+  {
+   "item": 6,
+   "state": "Indonesia",
+   "treaty": "ICCPR"
+  },
+  {
+   "item": 7,
+   "state": "Germany",
+   "treaty": "CED"
+  },
+  {
+   "item": 8,
+   "state": "Qatar",
+   "treaty": "CEDAW"
+  },
+  {
+   "item": 9,
+   "state": "India",
+   "treaty": "CEDAW"
+  },
+  {
+   "item": 10,
+   "state": "Israel",
+   "treaty": "CRPD"
+  },
+  {
+   "item": 11,
+   "state": "Thailand",
+   "treaty": "CRPD"
+  },
+  {
+   "item": 12,
+   "state": "Iceland",
+   "treaty": "CRC"
+  },
+  {
+   "item": 13,
+   "state": "Algeria",
+   "treaty": "CEDAW"
+  },
+  {
+   "item": 14,
+   "state": "Egypt",
+   "treaty": "CRMW"
+  },
+  {
+   "item": 15,
+   "state": "Singapore",
+   "treaty": "CEDAW"
+  },
+  {
+   "item": 16,
+   "state": "Republic of Korea",
+   "treaty": "CRPD"
+  },
+  {
+   "item": 17,
+   "state": "Iceland",
+   "treaty": "ICCPR"
+  },
+  {
+   "item": 18,
+   "state": "Kuwait",
+   "treaty": "CRPD"
+  },
+  {
+   "item": 19,
+   "state": "United Kingdom of Great Britain and Northern Ireland",
+   "treaty": "ICCPR"
+  },
+  {
+   "item": 20,
+   "state": "Bangladesh",
+   "treaty": "CEDAW"
+  }
+ ]
+}

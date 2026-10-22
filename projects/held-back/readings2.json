@@ -1,0 +1,146 @@
+{
+ "read_by": "Remainder, by hand from read2.py output, flag withheld; machine readings, estimates",
+ "estimate": true,
+ "items": [
+  {
+   "item": 1,
+   "reading": "late",
+   "extent": "part",
+   "year": 2023,
+   "remark": "note: interpretative declaration on arts 1, 4, 5 withdrawn; the reservation on art 30 (1) stands"
+  },
+  {
+   "item": 2,
+   "reading": "late",
+   "extent": "part",
+   "year": 2020,
+   "remark": "note: art 16 partly withdrawn; 16 (1) (a), (c), (d), (f) remain. Note 31, referenced, concerns Kuwait"
+  },
+  {
+   "item": 3,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "the only withdrawal recorded is dated 2013"
+  },
+  {
+   "item": 4,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "no withdrawal; the note is an objection"
+  },
+  {
+   "item": 5,
+   "reading": "late",
+   "extent": "part",
+   "year": 2015,
+   "remark": "withdrawal of 2 (f) and 9 (2) stands in the entry text itself and in a note; art 29 remains"
+  },
+  {
+   "item": 6,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "no note; the declaration stands"
+  },
+  {
+   "item": 7,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "no note; the declarations stand"
+  },
+  {
+   "item": 8,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "the entry shows an elision (\"...\") but no dated withdrawal is recorded; the note is objections"
+  },
+  {
+   "item": 9,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "no note; the declarations and the reservation stand"
+  },
+  {
+   "item": 10,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "no note; the reservation stands"
+  },
+  {
+   "item": 11,
+   "reading": "late",
+   "extent": "whole",
+   "year": 2015,
+   "remark": "the entry is empty; the note records the only declaration withdrawn"
+  },
+  {
+   "item": 12,
+   "reading": "late",
+   "extent": "whole",
+   "year": 2015,
+   "remark": "the entry is empty; one declaration withdrawn 2009, the other 2015"
+  },
+  {
+   "item": 13,
+   "reading": "late",
+   "extent": "part",
+   "year": 2025,
+   "remark": "art 15 (4) withdrawn 2025 (9 (2) in 2009); arts 2, 16, 29 remain"
+  },
+  {
+   "item": 14,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "no note; the reservations stand"
+  },
+  {
+   "item": 15,
+   "reading": "late",
+   "extent": "part",
+   "year": 2015,
+   "remark": "art 11 reservation partly withdrawn 2015 (modified); arts 2, 16, 29 remain"
+  },
+  {
+   "item": 16,
+   "reading": "late",
+   "extent": "whole",
+   "year": 2021,
+   "remark": "the entry is empty; the note records the only reservation withdrawn"
+  },
+  {
+   "item": 17,
+   "reading": "late",
+   "extent": "part",
+   "year": 2024,
+   "remark": "arts 10 (2) (b), 10 (3) and 14 (7) withdrawn 2024; art 20 (1) remains"
+  },
+  {
+   "item": 18,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "no note; reservations and declarations stand"
+  },
+  {
+   "item": 19,
+   "reading": "late",
+   "extent": "part",
+   "year": 2015,
+   "remark": "note 43: art 11 for Jersey withdrawn 2015; the rest of a long entry stands"
+  },
+  {
+   "item": 20,
+   "reading": "not late",
+   "extent": null,
+   "year": null,
+   "remark": "the only withdrawal recorded is dated 1997"
+  }
+ ]
+}
