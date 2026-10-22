@@ -1,0 +1,674 @@
+{
+ "items": [
+  {
+   "nct": "NCT00562237",
+   "stop": "2007-11",
+   "last_update": "2008-10",
+   "status": "TERMINATED",
+   "names": "an influenza pandemic"
+  },
+  {
+   "nct": "NCT01171157",
+   "stop": "2009-06",
+   "last_update": "2018-06",
+   "status": "TERMINATED",
+   "names": "an influenza pandemic"
+  },
+  {
+   "nct": "NCT01033955",
+   "stop": "2010-07",
+   "last_update": "2013-02",
+   "status": "TERMINATED",
+   "names": "an influenza pandemic"
+  },
+  {
+   "nct": "NCT01798602",
+   "stop": "2010-08",
+   "last_update": "2013-02",
+   "status": "TERMINATED",
+   "names": "an influenza pandemic"
+  },
+  {
+   "nct": "NCT01032837",
+   "stop": "2010-10",
+   "last_update": "2012-10",
+   "status": "TERMINATED",
+   "names": "an influenza pandemic"
+  },
+  {
+   "nct": "NCT01014364",
+   "stop": "2011-12",
+   "last_update": "2014-12",
+   "status": "TERMINATED",
+   "names": "an influenza pandemic"
+  },
+  {
+   "nct": "NCT01241617",
+   "stop": "2012-01",
+   "last_update": "2012-01",
+   "status": "TERMINATED",
+   "names": "not the pandemic (a company's name)"
+  },
+  {
+   "nct": "NCT00976027",
+   "stop": "2012-04",
+   "last_update": "2012-08",
+   "status": "TERMINATED",
+   "names": "an influenza pandemic"
+  },
+  {
+   "nct": "NCT01069601",
+   "stop": "2012-04",
+   "last_update": "2012-04",
+   "status": "TERMINATED",
+   "names": "an influenza pandemic"
+  },
+  {
+   "nct": "NCT02732457",
+   "stop": "2015-02",
+   "last_update": "2021-11",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02665338",
+   "stop": "2015-06",
+   "last_update": "2022-08",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02219581",
+   "stop": "2015-12",
+   "last_update": "2022-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02341287",
+   "stop": "2016-04",
+   "last_update": "2022-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02562092",
+   "stop": "2017-08",
+   "last_update": "2021-01",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04115644",
+   "stop": "2017-09",
+   "last_update": "2023-12",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02547298",
+   "stop": "2018-01",
+   "last_update": "2022-01",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02816255",
+   "stop": "2018-03",
+   "last_update": "2022-09",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02732288",
+   "stop": "2018-06",
+   "last_update": "2023-05",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03139318",
+   "stop": "2018-08",
+   "last_update": "2022-07",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03120325",
+   "stop": "2018-08",
+   "last_update": "2023-09",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02538315",
+   "stop": "2018-09",
+   "last_update": "2023-06",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03464604",
+   "stop": "2018-10",
+   "last_update": "2022-11",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03270709",
+   "stop": "2018-10",
+   "last_update": "2021-04",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04308954",
+   "stop": "2018-12",
+   "last_update": "2021-01",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03762317",
+   "stop": "2018-12",
+   "last_update": "2023-02",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03286426",
+   "stop": "2018-12",
+   "last_update": "2022-02",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03424512",
+   "stop": "2018-12",
+   "last_update": "2022-08",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02742844",
+   "stop": "2019-01",
+   "last_update": "2020-07",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03037450",
+   "stop": "2019-01",
+   "last_update": "2021-09",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03647085",
+   "stop": "2019-01",
+   "last_update": "2022-06",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02813447",
+   "stop": "2019-02",
+   "last_update": "2025-07",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03170557",
+   "stop": "2019-02",
+   "last_update": "2022-08",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04164043",
+   "stop": "2019-02",
+   "last_update": "2023-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02769000",
+   "stop": "2019-03",
+   "last_update": "2021-12",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03547427",
+   "stop": "2019-03",
+   "last_update": "2022-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03462004",
+   "stop": "2019-03",
+   "last_update": "2026-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03831139",
+   "stop": "2019-03",
+   "last_update": "2022-07",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02510885",
+   "stop": "2019-03",
+   "last_update": "2022-04",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03423537",
+   "stop": "2019-04",
+   "last_update": "2021-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03699202",
+   "stop": "2019-04",
+   "last_update": "2026-06",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02586519",
+   "stop": "2019-05",
+   "last_update": "2021-12",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03382184",
+   "stop": "2019-05",
+   "last_update": "2026-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03562767",
+   "stop": "2019-05",
+   "last_update": "2023-08",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02832752",
+   "stop": "2019-05",
+   "last_update": "2021-04",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03567837",
+   "stop": "2019-06",
+   "last_update": "2024-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03867188",
+   "stop": "2019-06",
+   "last_update": "2023-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03453242",
+   "stop": "2019-07",
+   "last_update": "2021-09",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02465034",
+   "stop": "2019-07",
+   "last_update": "2021-11",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03860753",
+   "stop": "2019-08",
+   "last_update": "2020-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04061369",
+   "stop": "2019-08",
+   "last_update": "2023-05",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03259568",
+   "stop": "2019-08",
+   "last_update": "2023-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03083977",
+   "stop": "2019-08",
+   "last_update": "2022-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03608163",
+   "stop": "2019-08",
+   "last_update": "2025-09",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03972813",
+   "stop": "2019-08",
+   "last_update": "2025-01",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03353792",
+   "stop": "2019-08",
+   "last_update": "2022-11",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02322099",
+   "stop": "2019-09",
+   "last_update": "2022-05",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03523663",
+   "stop": "2019-09",
+   "last_update": "2021-12",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03863587",
+   "stop": "2019-09",
+   "last_update": "2022-05",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03099265",
+   "stop": "2019-09",
+   "last_update": "2022-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03036579",
+   "stop": "2019-09",
+   "last_update": "2023-04",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03529799",
+   "stop": "2019-09",
+   "last_update": "2026-07",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02924389",
+   "stop": "2019-09",
+   "last_update": "2022-12",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03702816",
+   "stop": "2019-09",
+   "last_update": "2023-05",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03049111",
+   "stop": "2019-10",
+   "last_update": "2022-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02033941",
+   "stop": "2019-10",
+   "last_update": "2024-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03304184",
+   "stop": "2019-10",
+   "last_update": "2021-07",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03366220",
+   "stop": "2019-10",
+   "last_update": "2022-04",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02608307",
+   "stop": "2019-10",
+   "last_update": "2021-12",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03637595",
+   "stop": "2019-11",
+   "last_update": "2023-11",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02576444",
+   "stop": "2019-11",
+   "last_update": "2022-12",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03004443",
+   "stop": "2019-11",
+   "last_update": "2023-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04069000",
+   "stop": "2019-11",
+   "last_update": "2022-06",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03362021",
+   "stop": "2019-11",
+   "last_update": "2020-09",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT01985022",
+   "stop": "2019-11",
+   "last_update": "2023-06",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT00793884",
+   "stop": "2019-11",
+   "last_update": "2026-02",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03780387",
+   "stop": "2019-11",
+   "last_update": "2022-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02865928",
+   "stop": "2019-11",
+   "last_update": "2024-02",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04070157",
+   "stop": "2019-11",
+   "last_update": "2024-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03584802",
+   "stop": "2019-11",
+   "last_update": "2026-08",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04097353",
+   "stop": "2019-12",
+   "last_update": "2023-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04060225",
+   "stop": "2019-12",
+   "last_update": "2021-01",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT06619795",
+   "stop": "2019-12",
+   "last_update": "2024-10",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03334669",
+   "stop": "2019-12",
+   "last_update": "2025-09",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04114422",
+   "stop": "2019-12",
+   "last_update": "2023-07",
+   "status": "WITHDRAWN",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03708237",
+   "stop": "2019-12",
+   "last_update": "2022-07",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02572570",
+   "stop": "2019-12",
+   "last_update": "2020-12",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03100370",
+   "stop": "2019-12",
+   "last_update": "2023-05",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03867045",
+   "stop": "2019-12",
+   "last_update": "2021-06",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03749226",
+   "stop": "2019-12",
+   "last_update": "2021-07",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT04156516",
+   "stop": "2019-12",
+   "last_update": "2022-06",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02409238",
+   "stop": "2019-12",
+   "last_update": "2023-01",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT02277782",
+   "stop": "2019-12",
+   "last_update": "2022-03",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT05129163",
+   "stop": "2019-12",
+   "last_update": "2022-01",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03976557",
+   "stop": "2019-12",
+   "last_update": "2021-01",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  },
+  {
+   "nct": "NCT03058211",
+   "stop": "2019-12",
+   "last_update": "2021-07",
+   "status": "TERMINATED",
+   "names": "COVID-19"
+  }
+ ],
+ "by_kind": {
+  "an influenza pandemic": 8,
+  "not the pandemic (a company's name)": 1,
+  "COVID-19": 86
+ }
+}

@@ -1,0 +1,282 @@
+[
+ {
+  "i": 0,
+  "nct": "NCT04003623",
+  "flag": false,
+  "stop": "2020-06",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 1,
+  "nct": "NCT04063904",
+  "flag": true,
+  "stop": "2021-04",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 2,
+  "nct": "NCT04977427",
+  "flag": false,
+  "stop": "2021-12",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 3,
+  "nct": "NCT03360851",
+  "flag": true,
+  "stop": "2021-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 4,
+  "nct": "NCT03716570",
+  "flag": false,
+  "stop": "2021-04",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 5,
+  "nct": "NCT03393858",
+  "flag": false,
+  "stop": "2022-06",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 6,
+  "nct": "NCT04254809",
+  "flag": true,
+  "stop": "2020-08",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 7,
+  "nct": "NCT04655261",
+  "flag": false,
+  "stop": "2021-11",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 8,
+  "nct": "NCT03272217",
+  "flag": false,
+  "stop": "2022-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 9,
+  "nct": "NCT04408677",
+  "flag": false,
+  "stop": "2021-09",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 10,
+  "nct": "NCT03993977",
+  "flag": false,
+  "stop": "2020-10",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 11,
+  "nct": "NCT01555905",
+  "flag": false,
+  "stop": "2022-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 12,
+  "nct": "NCT03536559",
+  "flag": true,
+  "stop": "2022-07",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 13,
+  "nct": "NCT04411602",
+  "flag": true,
+  "stop": "2021-04",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 14,
+  "nct": "NCT03709771",
+  "flag": true,
+  "stop": "2020-10",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 15,
+  "nct": "NCT02547168",
+  "flag": false,
+  "stop": "2020-08",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 16,
+  "nct": "NCT04252586",
+  "flag": true,
+  "stop": "2021-06",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 17,
+  "nct": "NCT03857893",
+  "flag": true,
+  "stop": "2021-12",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 18,
+  "nct": "NCT04039178",
+  "flag": true,
+  "stop": "2020-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 19,
+  "nct": "NCT03261193",
+  "flag": false,
+  "stop": "2022-11",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 20,
+  "nct": "NCT04509739",
+  "flag": true,
+  "stop": "2020-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 21,
+  "nct": "NCT04827485",
+  "flag": false,
+  "stop": "2022-04",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 22,
+  "nct": "NCT03380273",
+  "flag": true,
+  "stop": "2021-12",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 23,
+  "nct": "NCT03844568",
+  "flag": true,
+  "stop": "2021-02",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 24,
+  "nct": "NCT02890797",
+  "flag": false,
+  "stop": "2020-02",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 25,
+  "nct": "NCT04986163",
+  "flag": false,
+  "stop": "2022-12",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 26,
+  "nct": "NCT04059094",
+  "flag": false,
+  "stop": "2020-04",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 27,
+  "nct": "NCT02957825",
+  "flag": true,
+  "stop": "2021-08",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 28,
+  "nct": "NCT04329195",
+  "flag": false,
+  "stop": "2021-01",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 29,
+  "nct": "NCT03360006",
+  "flag": false,
+  "stop": "2020-12",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 30,
+  "nct": "NCT03589963",
+  "flag": true,
+  "stop": "2021-07",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 31,
+  "nct": "NCT03349775",
+  "flag": true,
+  "stop": "2020-12",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 32,
+  "nct": "NCT04589949",
+  "flag": true,
+  "stop": "2022-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 33,
+  "nct": "NCT07386509",
+  "flag": true,
+  "stop": "2022-11",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 34,
+  "nct": "NCT03660657",
+  "flag": true,
+  "stop": "2020-11",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 35,
+  "nct": "NCT03877094",
+  "flag": true,
+  "stop": "2022-04",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 36,
+  "nct": "NCT04899206",
+  "flag": false,
+  "stop": "2021-12",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 37,
+  "nct": "NCT03310034",
+  "flag": true,
+  "stop": "2020-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 38,
+  "nct": "NCT02483000",
+  "flag": false,
+  "stop": "2020-09",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 39,
+  "nct": "NCT03891420",
+  "flag": false,
+  "stop": "2021-04",
+  "status": "TERMINATED"
+ }
+]

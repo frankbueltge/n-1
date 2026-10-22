@@ -1,0 +1,29 @@
+{
+ "told": 40,
+ "agree_words": 39,
+ "agree_event": 38,
+ "disagreements_event": [
+  {
+   "i": 17,
+   "nct": "NCT03857893",
+   "rule": true,
+   "reading": "other",
+   "stop": "2021-12",
+   "note": "the pandemic delayed the study; the stop is given as lack of efficiency"
+  },
+  {
+   "i": 24,
+   "nct": "NCT02890797",
+   "rule": false,
+   "reading": "pandemic",
+   "stop": "2020-02",
+   "note": "'confinement period' with a March 2020 date: the pandemic without its usual words"
+  }
+ ],
+ "P6": {
+  "registered": "rule agrees with the reading for the words at >= 36 of those told",
+  "value": 39,
+  "held": true
+ },
+ "found_after_key": "item 24 (NCT02890797): its stop month is 2020-02, yet its reason dates the suspension of inclusions to 18 March 2020 -- the reason is later than the stop it explains (see session1.json anachronisms)"
+}
