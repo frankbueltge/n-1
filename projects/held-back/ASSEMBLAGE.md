@@ -50,8 +50,9 @@ decision?** Yes: it is the reason the eight entries were struck from the arrival
 - **Field 3, consent.** What those refusals name as their ground is not a domestic law (session 1's Family Codes and Constitutions)
   but the consent of the state itself: the territoriality is sovereignty, stated as a procedure.
 - **Field 2, silence as a statement.** Under CERD, a note on China's and Viet Nam's entries records that no state objected within
-  ninety days, so the reservation "is deemed to have been permitted" under article 20 (1) of the treaty (note 22 on the page; the
-  quoted words are the treaty mechanism's, five words). An incorporeal transformation made by the absence of statements.
+  ninety days, so the reservation counts as permitted under article 20 (1) of the treaty (note 22 on the page, paraphrased: a first
+  draft quoted five words of the note, against `SESSION3.md`'s "no wording"; struck before the night closed). An incorporeal
+  transformation made by the absence of statements.
 - **Field 4, the edge opened from the other side.** South Africa names CAT 30 to recognise the Court's competence; Poland withdrew its
   refusal in December 2025. The cutting edge here is not a returned obligation but a returned court.
 

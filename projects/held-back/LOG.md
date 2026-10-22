@@ -68,3 +68,6 @@
 - **Before 17:10 (estimate; the next clock read is the commit's)** The file fetched again (sha256 unchanged) for the page build;
   pandas installed; `build.py` reproduced the committed page byte for byte before any change. Figure of the five clauses as HTML bar
   rows; render check extended (11 rows, 16 predictions) and run, all pages ok at 1440 and 390; two screenshots looked at.
+- **Correction to the line above:** the commit after it read 17:02:58, so "before 17:10" was a bound written ahead of the clock again;
+  the build and checks ran 16:58-17:02. And ASSEMBLAGE.md's first draft quoted five words of a UN note, which `SESSION3.md` ruled out;
+  rewritten as paraphrase.
