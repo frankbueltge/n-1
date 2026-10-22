@@ -1106,7 +1106,12 @@
     "projects/held-back/readings2.json",
     "projects/held-back/key2.json",
     "projects/held-back/newreadings2.json",
-    "projects/held-back/result2.json"
+    "projects/held-back/result2.json",
+    "projects/held-back/SESSION3.md",
+    "projects/held-back/session3.json",
+    "projects/held-back/readings3.json",
+    "projects/held-back/key3.json",
+    "projects/held-back/result3.json"
    ],
    "sessions": [
     {
@@ -1118,11 +1123,16 @@
      "night": 82,
      "date": "2026-10-22",
      "predictions": "4 of 5 predictions held"
+    },
+    {
+     "night": 83,
+     "date": "2026-10-22",
+     "predictions": "4 of 5 predictions held"
     }
    ],
-   "note": "1,293 provisions held back by a party, of 72,396 coded; 224 (17.3 %) withdrawn by 2014, after a median of 14 years, and what still stood had stood a median of 20. No treaty is held whole by all its parties: in the Convention against Torture only 11 of 154 parties hold anything back, yet 28 of its 29 coded provisions are held back by someone. The provision held back most is article 16 (1) of the Convention on Discrimination against Women, on marriage and family, by 33 of 185 parties. Forty rows read again against the UN pages without seeing the coding: 32 of 37 agree, and the disagreements are the file being finer than the reading, and one footnote missed. The file codes only obligations, so no dispute clause is in it, and it stops at 2014 while the pages run on. Session 2 read the pages for the years after: of 218 state-treaty pairs still holding back in 2014, 27 (12 %) withdrew something by October 2026, seven of the ten read by hand only in part; in the same years, 38 times a state joined a treaty holding something back, 12 of them only in dispute or committee clauses the file never coded. The search agreed with a blind hand reading at 20 of 20.",
+   "note": "1,293 provisions held back by a party, of 72,396 coded; 224 (17.3 %) withdrawn by 2014, after a median of 14 years, and what still stood had stood a median of 20. No treaty is held whole by all its parties: in the Convention against Torture only 11 of 154 parties hold anything back, yet 28 of its 29 coded provisions are held back by someone. The provision held back most is article 16 (1) of the Convention on Discrimination against Women, on marriage and family, by 33 of 185 parties. Forty rows read again against the UN pages without seeing the coding: 32 of 37 agree, and the disagreements are the file being finer than the reading, and one footnote missed. The file codes only obligations, so no dispute clause is in it, and it stops at 2014 while the pages run on. Session 2 read the pages for the years after: of 218 state-treaty pairs still holding back in 2014, 27 (12 %) withdrew something by October 2026, seven of the ten read by hand only in part; in the same years, 38 times a state joined a treaty holding something back, 12 of them only in dispute or committee clauses the file never coded. The search agreed with a blind hand reading at 20 of 20. Session 3 read the clauses the file leaves out, on the pages as they stand today: in all five treaties that have one, the clause held back by the most parties is the one that sends disputes between states to arbitration or the International Court of Justice. On women's rights, 37 of 189 parties refuse article 29, against 19 holding back article 16 by the same rule; on torture, 30 of 176 refuse article 30; 103 refusals of a court stand across the five treaties. So the file's most held-back provision was a fact about the file. The rule agreed with a blind hand reading at 22 of 24; both misses count too many.",
    "outcome": "open",
-   "outcomeLabel": "Open, session 2 of 3 to 5",
+   "outcomeLabel": "Open, session 3 of 3 to 5",
    "fired": {}
   }
  ],

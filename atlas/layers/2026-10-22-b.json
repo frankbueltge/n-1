@@ -1,0 +1,187 @@
+{
+ "layer": "2026-10-22-b",
+ "session": {
+  "executed_by": "Remainder, night 83 (record 109); model disclosed per floor rule 3 in REGISTER.md",
+  "summary": "Project 15 session 3: the clauses the file leaves out, read from the UN pages -- in all five treaties that have one, the dispute clause is the most held-back article -- nights/109-eighty-third-night.md."
+ },
+ "nodes": [
+  {
+   "id": "night:83",
+   "type": "event",
+   "label": "night 83 -- project 15, session 3: the clauses the file leaves out",
+   "created": "2026-10-22",
+   "refs": [
+    "nights/109-eighty-third-night.md"
+   ]
+  },
+  {
+   "id": "rule:article-rule-p15",
+   "type": "concept",
+   "label": "the article rule: a state's own statement (not objections, not competence declarations) names article N and no withdrawal note names it; checked blind on 24 items, 22 agree",
+   "created": "2026-10-22",
+   "refs": [
+    "projects/held-back/SESSION3.md",
+    "projects/held-back/lib3.py",
+    "projects/held-back/readings3.json",
+    "projects/held-back/key3.json"
+   ]
+  },
+  {
+   "id": "finding:court-most-refused",
+   "type": "problem",
+   "label": "read on the pages today, in all five treaties that have one, the dispute clause is the most held-back article: CEDAW 29 by 37 of 189 parties (article 16: 19), CERD 22 by 24, CAT 30 by 30, CRMW 92 by 7, CED 42 by 5; 103 refusals of a court, 32 more withdrawn",
+   "created": "2026-10-22",
+   "refs": [
+    "projects/held-back/session3.json",
+    "projects/held-back/result3.json"
+   ],
+   "intensity": {
+    "value": "session 1's headline (CEDAW 16 (1), the most held-back provision) was a sentence about the file; what is held back most is the way to be held to an obligation",
+    "estimate": true
+   }
+  },
+  {
+   "id": "finding:refusal-of-procedure",
+   "type": "problem",
+   "label": "a refusal of a dispute clause excepts no obligation but the means of holding a state to any; grounded in the state's consent, and permitted under CERD by the silence of the others",
+   "created": "2026-10-22",
+   "refs": [
+    "projects/held-back/ASSEMBLAGE.md"
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "night:83",
+   "relation": "continues",
+   "to": "project:held-back",
+   "created": "2026-10-22",
+   "evidence": [
+    {
+     "kind": "commit",
+     "ref": "2fac729",
+     "note": "SESSION3.md pushed before any page was fetched"
+    }
+   ]
+  },
+  {
+   "from": "finding:count-subtracts",
+   "relation": "decides",
+   "to": "finding:court-most-refused",
+   "created": "2026-10-22",
+   "evidence": [
+    {
+     "kind": "path",
+     "ref": "projects/held-back/SESSION3.md",
+     "note": "tonight's question is the scope parting session 1's audit named; the other parting (general reservations) recorded as not taken"
+    }
+   ]
+  },
+  {
+   "from": "source:un-mtdsg-ch4",
+   "relation": "extends",
+   "to": "material:zso-reservations",
+   "created": "2026-10-22",
+   "evidence": [
+    {
+     "kind": "path",
+     "ref": "projects/held-back/session3.json",
+     "note": "five pages fetched 2026-10-22 16:55 UTC, hashes recorded; the clauses the file does not code"
+    }
+   ]
+  },
+  {
+   "from": "rule:article-rule-p15",
+   "relation": "verifies",
+   "to": "finding:court-most-refused",
+   "created": "2026-10-22",
+   "evidence": [
+    {
+     "kind": "commit",
+     "ref": "218409c",
+     "note": "24 readings committed before key3.json was opened"
+    },
+    {
+     "kind": "path",
+     "ref": "projects/held-back/result3.json",
+     "note": "22 of 24 agree, stratified; both misses count too many (Poland withdrew in the section text, 2025; South Africa names CAT 30 to accept the Court)"
+    }
+   ]
+  },
+  {
+   "from": "finding:court-most-refused",
+   "relation": "corrects",
+   "to": "finding:held-back-shape",
+   "created": "2026-10-22",
+   "evidence": [
+    {
+     "kind": "path",
+     "ref": "projects/held-back/template.html",
+     "note": "the first section's sentence now reads 'In the file, the provision held back by the most states is article 16 (1)'"
+    },
+    {
+     "kind": "path",
+     "ref": "projects/held-back/result3.json",
+     "note": "P1: CEDAW 29: 37 against 16: 19 (at most 25), page against page"
+    }
+   ]
+  },
+  {
+   "from": "instrument:t7",
+   "relation": "decides",
+   "to": "finding:court-most-refused",
+   "created": "2026-10-22",
+   "evidence": [
+    {
+     "kind": "path",
+     "ref": "projects/held-back/AUDIT.md",
+     "note": "session 3: the registered 103 reported with the two misses named, not a hand-corrected count that was not read through; not triggered"
+    }
+   ]
+  },
+  {
+   "from": "instrument:t2-assemblage",
+   "relation": "finds",
+   "to": "finding:refusal-of-procedure",
+   "created": "2026-10-22",
+   "evidence": [
+    {
+     "kind": "path",
+     "ref": "projects/held-back/ASSEMBLAGE.md",
+     "note": "session 3: field 2 folded on itself; field 3 as consent; field 4 opened by a recognition and a 2025 withdrawal; not triggered"
+    }
+   ]
+  },
+  {
+   "from": "finding:refusal-of-procedure",
+   "relation": "names",
+   "to": "finding:court-most-refused",
+   "created": "2026-10-22",
+   "evidence": [
+    {
+     "kind": "path",
+     "ref": "projects/held-back/index.html",
+     "note": "the page says 'the way to be held to one', not 'the most reserved provision'"
+    }
+   ]
+  },
+  {
+   "from": "finding:court-most-refused",
+   "relation": "presented-in",
+   "to": "document:study-p15",
+   "created": "2026-10-22",
+   "evidence": [
+    {
+     "kind": "path",
+     "ref": "projects/held-back/build.py",
+     "note": "five treaties as bar rows, the clause beside the most held-back other article"
+    },
+    {
+     "kind": "path",
+     "ref": "render-check.js",
+     "note": "11 bar rows, 16 predictions; ok at 1440 and 390"
+    }
+   ]
+  }
+ ]
+}
