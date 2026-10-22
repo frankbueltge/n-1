@@ -370,6 +370,8 @@ const PAGES = [
   {
     // project 15, session 1 (2026-10-22): What is held back (the study), built by projects/held-back/build.py; nine treaties, one
     // inline SVG strip each, one column (a group of three rects) per coded provision, 567 in all; six predictions listed.
+    // Session 2 (2026-10-22, outside the schedule's hour): a tenth SVG, the years after 2014, with one titled group per arrival (38),
+    // inside a scrolling wrapper; five more predictions (11 in all).
     path: 'projects/held-back/index.html',
     probe: () => ({
       strips: document.querySelectorAll('svg.ch').length,
@@ -377,7 +379,7 @@ const PAGES = [
       preds: document.querySelectorAll('ul.pr li').length,
       min_font: Math.min(...[...document.querySelectorAll('main p, main li, h3.tt')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
     }),
-    ok: (r) => r.strips === 9 && r.cols === 567 && r.preds === 6 && r.min_font >= 11,
+    ok: (r) => r.strips === 10 && r.cols === 605 && r.preds === 11 && r.min_font >= 11,
   },
 ];
 
