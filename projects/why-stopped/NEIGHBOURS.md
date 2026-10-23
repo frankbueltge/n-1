@@ -32,3 +32,10 @@ date: how long the event stays in it after it has passed, and the two clocks it 
 the neighbours' 905 suspensions in eight weeks of 2020 against 198 suspended studies naming the pandemic in the register today
 suggest that a stop which was resumed has left the present record; if so, the register's present remembers only the stops that stayed
 stops, and the neighbours' snapshots hold what it no longer does.
+
+**Read again for the work (session 3, one web search, result list and summary only):** analyses of why **COVID-19 trials themselves**
+ended (GlobalData via Clinical Trials Arena, "low accrual" the leading disclosed cause, `https://www.clinicaltrialsarena.com/analyst-comment/slow-recruitment-trials-covid-19-disruptions/`;
+a PLOS One study of 4,441 COVID-19 trials registered to March 2021, 191 terminated, suspended or withdrawn, as summarised at
+`https://pmc.ncbi.nlm.nih.gov/articles/PMC8274906`, not opened tonight, so its details are as the search summary gave them). These read
+the "went" side alone, as the 2020 neighbours read the "came" side alone. **The work's daylight:** both directions, read line by line
+from the whole present register, on one axis, each square linked to the line itself.

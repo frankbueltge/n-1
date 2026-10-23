@@ -27,3 +27,12 @@ end the register gives, by up to 80 months; read by eye, 10 of those name the mo
 entry's last change. 6 of the 86 COVID-19 anachronisms date themselves. The register holds a 'why stopped' line on no study that is not
 stopped now (0 of 47,429).** The dating rule agrees with a blind reading at 40 of 40 (dated or not) and 19 of 20 (which month). No work
 declared.
+
+Session 3 (2026-10-24 Berlin): `SESSION3.md` (committed f131a5b before any record was fetched); `fetch3.py` (adds `Condition`), `fetch_log3.json`
+(processed 2026-10-23T09:00:04; 53,261 studies; the rule flags 2,643); `lib3.py`; `batches3.py`; `readings3.json` (every flagged reason read,
+committed ed50513 before the check); `sheet3.py` -> `sheet3.json`, `reread3.json` (committed 0e396eb before the key); `result3.py` -> `result3.json`;
+`count3.py` -> `session3.json` (registered count). Predictions: 6 registered; 5 held, 1 failed (P2: the bare name, 845, outnumbers enrolment, 790).
+Found: **of 2,643 lines naming the pandemic, 2,380 say it came (790 through participants, 618 through sites and work, 127 through money and
+decisions, 845 without saying how) and 191 say it went (studies of COVID-19 stopped by falling cases, vaccines, variants, other trials); the middle
+stop month of the went is 14 months after that of the came.** Blind re-reading 39 of 40. **Declared a work, *Came and Went*** (`works/came-and-went/`),
+by the rule registered before reading. Toolkit account: `TOOLKIT.md`. Project closed.
