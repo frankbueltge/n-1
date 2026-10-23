@@ -1,0 +1,322 @@
+[
+ {
+  "i": 0,
+  "nct": "NCT04065685",
+  "line_month": "2020-03",
+  "stop": "2022-12",
+  "lastupd": "2026-05",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 1,
+  "nct": "NCT03735940",
+  "line_month": null,
+  "stop": "2021-06",
+  "lastupd": "2022-08",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 2,
+  "nct": "NCT03727087",
+  "line_month": null,
+  "stop": "2020-03",
+  "lastupd": "2021-02",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 3,
+  "nct": "NCT03854370",
+  "line_month": null,
+  "stop": "2024-01",
+  "lastupd": "2024-10",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 4,
+  "nct": "NCT03682601",
+  "line_month": null,
+  "stop": "2021-02",
+  "lastupd": "2022-07",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 5,
+  "nct": "NCT03889704",
+  "line_month": null,
+  "stop": "2021-02",
+  "lastupd": "2021-07",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 6,
+  "nct": "NCT03928626",
+  "line_month": null,
+  "stop": "2020-03",
+  "lastupd": "2024-02",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 7,
+  "nct": "NCT03539861",
+  "line_month": null,
+  "stop": "2021-08",
+  "lastupd": "2023-01",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 8,
+  "nct": "NCT04889326",
+  "line_month": null,
+  "stop": "2023-05",
+  "lastupd": "2026-05",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 9,
+  "nct": "NCT03023813",
+  "line_month": "2021-02",
+  "stop": "2021-03",
+  "lastupd": "2022-04",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 10,
+  "nct": "NCT03858283",
+  "line_month": "2020-03",
+  "stop": "2020-03",
+  "lastupd": "2022-04",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 11,
+  "nct": "NCT03846570",
+  "line_month": null,
+  "stop": "2022-07",
+  "lastupd": "2023-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 12,
+  "nct": "NCT04428567",
+  "line_month": null,
+  "stop": "2020-03",
+  "lastupd": "2021-10",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 13,
+  "nct": "NCT03857893",
+  "line_month": null,
+  "stop": "2021-12",
+  "lastupd": "2022-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 14,
+  "nct": "NCT03068130",
+  "line_month": null,
+  "stop": "2020-09",
+  "lastupd": "2025-06",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 15,
+  "nct": "NCT00793884",
+  "line_month": "2020-03",
+  "stop": "2019-11",
+  "lastupd": "2026-02",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 16,
+  "nct": "NCT03716193",
+  "line_month": "2022-03",
+  "stop": "2022-03",
+  "lastupd": "2026-02",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 17,
+  "nct": "NCT02219581",
+  "line_month": "2022-08",
+  "stop": "2015-12",
+  "lastupd": "2022-10",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 18,
+  "nct": "NCT03959384",
+  "line_month": "2020-02",
+  "stop": "2021-04",
+  "lastupd": "2021-04",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 19,
+  "nct": "NCT03923010",
+  "line_month": "2020-08",
+  "stop": "2020-03",
+  "lastupd": "2021-09",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 20,
+  "nct": "NCT03888287",
+  "line_month": null,
+  "stop": "2022-01",
+  "lastupd": "2023-04",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 21,
+  "nct": "NCT04948996",
+  "line_month": null,
+  "stop": "2021-12",
+  "lastupd": "2022-06",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 22,
+  "nct": "NCT04210362",
+  "line_month": "2020-03",
+  "stop": "2020-02",
+  "lastupd": "2022-08",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 23,
+  "nct": "NCT05303909",
+  "line_month": null,
+  "stop": "2024-05",
+  "lastupd": "2024-05",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 24,
+  "nct": "NCT02821650",
+  "line_month": null,
+  "stop": "2020-03",
+  "lastupd": "2021-03",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 25,
+  "nct": "NCT03843307",
+  "line_month": null,
+  "stop": "2021-04",
+  "lastupd": "2021-08",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 26,
+  "nct": "NCT04908956",
+  "line_month": "2023-10",
+  "stop": "2024-02",
+  "lastupd": "2024-06",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 27,
+  "nct": "NCT03081117",
+  "line_month": "2020-10",
+  "stop": "2020-10",
+  "lastupd": "2021-07",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 28,
+  "nct": "NCT04609787",
+  "line_month": null,
+  "stop": "2023-05",
+  "lastupd": "2023-11",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 29,
+  "nct": "NCT04200508",
+  "line_month": "2022-03",
+  "stop": "2020-03",
+  "lastupd": "2022-11",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 30,
+  "nct": "NCT04267276",
+  "line_month": "2020-12",
+  "stop": "2020-04",
+  "lastupd": "2022-06",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 31,
+  "nct": "NCT04361656",
+  "line_month": "2019-03",
+  "stop": "2021-02",
+  "lastupd": "2025-12",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 32,
+  "nct": "NCT04000152",
+  "line_month": "2024-03",
+  "stop": "2025-04",
+  "lastupd": "2025-10",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 33,
+  "nct": "NCT02774551",
+  "line_month": "2020-08",
+  "stop": "2020-06",
+  "lastupd": "2020-12",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 34,
+  "nct": "NCT04499690",
+  "line_month": "2024-11",
+  "stop": "2022-12",
+  "lastupd": "2025-07",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 35,
+  "nct": "NCT03801356",
+  "line_month": null,
+  "stop": "2020-12",
+  "lastupd": "2023-07",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 36,
+  "nct": "NCT03709771",
+  "line_month": "2021-10",
+  "stop": "2020-10",
+  "lastupd": "2024-01",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 37,
+  "nct": "NCT04001933",
+  "line_month": "2020-03",
+  "stop": "2022-07",
+  "lastupd": "2023-01",
+  "status": "WITHDRAWN"
+ },
+ {
+  "i": 38,
+  "nct": "NCT03739476",
+  "line_month": "2020-06",
+  "stop": "2020-06",
+  "lastupd": "2025-05",
+  "status": "TERMINATED"
+ },
+ {
+  "i": 39,
+  "nct": "NCT03298022",
+  "line_month": null,
+  "stop": "2020-06",
+  "lastupd": "2024-01",
+  "status": "TERMINATED"
+ }
+]

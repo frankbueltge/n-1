@@ -1,0 +1,219 @@
+{
+ "read_by": "Remainder, project 16 session 2, after the registered count (exploratory)",
+ "kinds": {
+  "decision": "the month the study was decided, terminated or closed",
+  "halt": "the month it was halted for the pandemic",
+  "cause": "the month of a later cause (staff leaving)",
+  "writing": "the month the line was written ('this information entered', 'until the present date')",
+  "world": "a state of the world (no cases since)"
+ },
+ "by_kind": {
+  "decision": 10,
+  "cause": 3,
+  "halt": 4,
+  "writing": 2,
+  "world": 1
+ },
+ "items": [
+  {
+   "nct": "NCT00562237",
+   "stop": "2007-11",
+   "lastupd": "2008-10",
+   "rule_month": "2008-06",
+   "read_month": "2008-06",
+   "names_the_month_of": "decision",
+   "note": "influenza",
+   "estimate": true
+  },
+  {
+   "nct": "NCT02219581",
+   "stop": "2015-12",
+   "lastupd": "2022-10",
+   "rule_month": "2022-08",
+   "read_month": "2022-08",
+   "names_the_month_of": "cause",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT04210362",
+   "stop": "2020-02",
+   "lastupd": "2022-08",
+   "rule_month": "2020-03",
+   "read_month": "2020-03",
+   "names_the_month_of": "halt",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT03004443",
+   "stop": "2019-11",
+   "lastupd": "2023-10",
+   "rule_month": "2020-03",
+   "read_month": "2020-03",
+   "names_the_month_of": "halt",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT02409238",
+   "stop": "2019-12",
+   "lastupd": "2023-01",
+   "rule_month": "2022-08",
+   "read_month": "2022-08",
+   "names_the_month_of": "cause",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT03992716",
+   "stop": "2020-03",
+   "lastupd": "2020-10",
+   "rule_month": "2020-09",
+   "read_month": "2020-09",
+   "names_the_month_of": "decision",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT03923010",
+   "stop": "2020-03",
+   "lastupd": "2021-09",
+   "rule_month": "2020-08",
+   "read_month": "2020-08",
+   "names_the_month_of": "decision",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT03142984",
+   "stop": "2020-06",
+   "lastupd": "2023-12",
+   "rule_month": "2022-03",
+   "read_month": "2022-03",
+   "names_the_month_of": "decision",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT04228549",
+   "stop": "2022-06",
+   "lastupd": "2023-04",
+   "rule_month": "2022-08",
+   "read_month": "2022-08",
+   "names_the_month_of": "writing",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT04084600",
+   "stop": "2020-02",
+   "lastupd": "2021-02",
+   "rule_month": "2021-02",
+   "read_month": "2021-02",
+   "names_the_month_of": "writing",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT04499690",
+   "stop": "2022-12",
+   "lastupd": "2025-07",
+   "rule_month": "2024-11",
+   "read_month": "2024-11",
+   "names_the_month_of": "decision",
+   "note": "an ethics board's closing",
+   "estimate": true
+  },
+  {
+   "nct": "NCT02774551",
+   "stop": "2020-06",
+   "lastupd": "2020-12",
+   "rule_month": "2020-08",
+   "read_month": "2020-08",
+   "names_the_month_of": "decision",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT05124574",
+   "stop": "2022-03",
+   "lastupd": "2023-06",
+   "rule_month": "2022-04",
+   "read_month": "2022-04",
+   "names_the_month_of": "world",
+   "note": "no cases since that month",
+   "estimate": true
+  },
+  {
+   "nct": "NCT00793884",
+   "stop": "2019-11",
+   "lastupd": "2026-02",
+   "rule_month": "2020-03",
+   "read_month": "2026-01",
+   "names_the_month_of": "decision",
+   "note": "the rule reads 2020-03: the latest month is written 'January of 2026'",
+   "estimate": true
+  },
+  {
+   "nct": "NCT03903640",
+   "stop": "2021-11",
+   "lastupd": "2022-06",
+   "rule_month": "2022-03",
+   "read_month": "2022-03",
+   "names_the_month_of": "decision",
+   "note": "a numeric date read the earlier way (March, not September)",
+   "estimate": true
+  },
+  {
+   "nct": "NCT04200508",
+   "stop": "2020-03",
+   "lastupd": "2022-11",
+   "rule_month": "2022-03",
+   "read_month": "2022-03",
+   "names_the_month_of": "halt",
+   "note": "the line says stopped two years after the end the register gives",
+   "estimate": true
+  },
+  {
+   "nct": "NCT04267276",
+   "stop": "2020-04",
+   "lastupd": "2022-06",
+   "rule_month": "2020-12",
+   "read_month": "2020-12",
+   "names_the_month_of": "decision",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT04164043",
+   "stop": "2019-02",
+   "lastupd": "2023-03",
+   "rule_month": "2021-08",
+   "read_month": "2021-08",
+   "names_the_month_of": "decision",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT03584802",
+   "stop": "2019-11",
+   "lastupd": "2026-08",
+   "rule_month": "2020-03",
+   "read_month": "2020-03",
+   "names_the_month_of": "halt",
+   "note": null,
+   "estimate": true
+  },
+  {
+   "nct": "NCT03709771",
+   "stop": "2020-10",
+   "lastupd": "2024-01",
+   "rule_month": "2021-10",
+   "read_month": "2021-10",
+   "names_the_month_of": "cause",
+   "note": null,
+   "estimate": true
+  }
+ ]
+}

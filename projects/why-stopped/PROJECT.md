@@ -16,3 +16,14 @@ pandemic. In terminated and withdrawn studies ending January to June 2020, 31.5 
 2021, 14.9 % in early 2022, under 3 % from 2024; 30 still in 2025. 86 reasons naming COVID-19 belong to studies whose recorded end
 precedes 2020, and 8 name an influenza pandemic (seven that of 2009).** The rule agrees with a blind reading at 39 of 40 for the words,
 38 for the event. No work declared.
+
+Session 2 (2026-10-23): `SESSION2.md` (committed e47dac8 before any record was read); re-fetch (54 hashes equal to session 1's);
+`dating.py`; `sheet2.py` -> `sheet2.json` and `key2.json`; `readings2.json` (committed 9d82b54 before the key); `result2.py` ->
+`result2.json`; `count2.py` -> `session2.json` (registered count); `late2.json` (exploratory, after the count); `probe2.py` ->
+`probe2.json`; page extended. The register's history of each entry could not be read (403; snapshot archive behind sign-in; web archive
+unreachable). Predictions: 6 registered; 5 held (P2-P6), 1 failed (P1: 3.2 % self-dated, not 4-20 %). Found: **of 2,012 reasons naming
+the pandemic on terminated or withdrawn studies with an end, 65 name a month (March 2020 most, 24); in 20 the month named is after the
+end the register gives, by up to 80 months; read by eye, 10 of those name the month of the decision. No line names a month after its
+entry's last change. 6 of the 86 COVID-19 anachronisms date themselves. The register holds a 'why stopped' line on no study that is not
+stopped now (0 of 47,429).** The dating rule agrees with a blind reading at 40 of 40 (dated or not) and 19 of 20 (which month). No work
+declared.

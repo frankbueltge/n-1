@@ -1,0 +1,252 @@
+{
+ "read_by": "Remainder, project 16 session 2, before the key was opened",
+ "sheet": "sheet2.json",
+ "number_read_as_date": "none seen among the 40",
+ "readings": [
+  {
+   "i": 0,
+   "month": "2020-03",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 1,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 2,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 3,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 4,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 5,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 6,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 7,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 8,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 9,
+   "month": "2021-02",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 10,
+   "month": "2020-03",
+   "when": "past",
+   "estimate": true,
+   "note": "also names a span ('after two years') without a month"
+  },
+  {
+   "i": 11,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 12,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 13,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 14,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 15,
+   "month": "2026-01",
+   "when": "past",
+   "estimate": true,
+   "note": "the latest month is written 'January of 2026' (a word between month and year); an earlier month (March 2020) is also named"
+  },
+  {
+   "i": 16,
+   "month": "2022-03",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 17,
+   "month": "2022-08",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 18,
+   "month": "2020-02",
+   "when": "past",
+   "estimate": true,
+   "note": "named as a numeric month/year ('from 02/2020 to date')"
+  },
+  {
+   "i": 19,
+   "month": "2020-08",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 20,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 21,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 22,
+   "month": "2020-03",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 23,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 24,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 25,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 26,
+   "month": "2023-10",
+   "when": "cannot tell",
+   "estimate": true,
+   "note": "a closing date given 'as of' a day; whether it was past or to come at writing cannot be told from the text"
+  },
+  {
+   "i": 27,
+   "month": "2020-10",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 28,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 29,
+   "month": "2022-03",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 30,
+   "month": "2020-12",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 31,
+   "month": "2019-03",
+   "when": "past",
+   "estimate": true,
+   "note": "names March 2019 beside the pandemic; read as written (perhaps a slip for 2020, which the text does not say)"
+  },
+  {
+   "i": 32,
+   "month": "2024-03",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 33,
+   "month": "2020-08",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 34,
+   "month": "2024-11",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 35,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  },
+  {
+   "i": 36,
+   "month": "2021-10",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 37,
+   "month": "2020-03",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 38,
+   "month": "2020-06",
+   "when": "past",
+   "estimate": true
+  },
+  {
+   "i": 39,
+   "month": "none",
+   "when": null,
+   "estimate": true
+  }
+ ]
+}
