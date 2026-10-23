@@ -26,3 +26,22 @@
   "the pandemic of 2009"; one (a 2008 vaccine trial) names pandemic vaccine candidates before 2009. Corrected before commit.
 - **17:33** Year labels moved to their Januarys after the screenshot; render check all ok; atlas layer, night record, register written;
   `atlas/validate.py` and `surface/check.py` ok. Commit and push follow (17:34 at this line).
+
+## Session 2 — 2026-10-23
+
+- **01:03** First clock read (the schedule's hour). Boot read. Probes before registration: version call (processing timestamp unchanged,
+  2026-10-22T09:00:04); history endpoint 403; AACT requires sign-in (not attempted); `web.archive.org` resets the connection;
+  `covid19.bgcarlisle.com` redirects to medRxiv behind a browser check. Two count calls: 47,429 studies with a `WhyStopped` line, 0 of them
+  in non-stopped statuses (seen before registration; reported as a probe, `SESSION2.md`).
+- **01:06** Registration written; committed and pushed (e47dac8) before any record was read.
+- **01:07** Re-fetch to scratch: 54 pages, **every hash equal** to session 1's `fetch_log.json`.
+- **01:08** Dating rule written (`dating.py`, tried on nine made-up strings, none from the register); sheet drawn (population 2,012).
+- **01:09** 40 texts read; readings committed and pushed (9d82b54) before the key was opened. Key opened: 40 of 40 on dated vs none,
+  19 of 20 on the month; the miss is "January of 2026" (a word between month and year), which the rule cannot read.
+- **01:09** Registered count (`count2.py` → `session2.json`): P1 failed (3.2 %, below 4 %), P2-P6 held.
+- **Between 01:09 and 01:11** Exploratory, after the count: the 20 late lines read by eye (`late2.json`): 10 name the month of a decision, 4 of a halt,
+  3 of someone leaving, 2 the month of writing, 1 a state of the world.
+- **01:11-01:14** `probe2.py` re-asks (01:11:25) the probe as committed code (same answer, `probe2.json`). Study page extended (figure 3, predictions).
+  **Detour:** the first draft said no line "names a date to come"; the count only shows that none names a month after the entry's last
+  change. Narrowed before commit. Second detour: figures 2 and 3 labelled years at their Julys, so the band beginning January 2020
+  read as 2019 on the screenshot; labels moved to their Januarys, as session 1 did for figure 1.

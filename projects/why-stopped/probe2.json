@@ -1,0 +1,11 @@
+{
+ "version": {
+  "apiVersion": "2.0.5",
+  "dataTimestamp": "2026-10-22T09:00:04"
+ },
+ "asked_utc": "2026-10-23T01:11:25Z",
+ "query.term": "AREA[WhyStopped]NOT MISSING",
+ "any_status": 47429,
+ "stopped": 47429,
+ "not_stopped": 0
+}

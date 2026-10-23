@@ -25,3 +25,21 @@ to **the two clocks**: the date the register gives and the date the line implies
 register's own history of each entry (when the reason was first written) can be read, or, if not (project 15's probe of a history
 endpoint was refused, `projects/held-back/LOG.md`), what the line's own dates say against the register's. Whether this counts as the
 design changing is for session 2's registration to show; tonight the instrument is **not triggered** and not yet vindicated.
+
+## Second entry — session 2, 2026-10-23
+
+**Translation test, carried out.** Session 1 asked what passes when the event is translated into the list, and named the decision as
+the irreducible remainder: the register has no field for when someone decided. Tonight the line was read for the clock it carries
+itself. Of 2,012 reasons naming the pandemic on studies with an end, 65 name a month; in 20 of them the month named falls after the end
+the register gives, and in 10 of those (read by eye) it is the month of the decision. So the remainder does pass, in a few lines, as
+text the register cannot sort by: **the decision is translated into the free line, not into the list.** And in two lines the sentence
+dates its own writing, which the register keeps only as the last change of the whole entry.
+
+**The order-word's other face.** The probe shows the line is not a record that stays: of 47,429 studies carrying it, none is in a
+status other than stopped. When a suspended study resumes, the line goes with the stop. The order-word "why stopped" is addressed only
+to the stopped, and the answer lasts exactly as long as the incorporeal transformation it explains (ATP 80-81, via KsK §4.2). What
+passes into the present record is the stop that stayed.
+
+**Did the design change?** Yes, and it can be pointed to: session 1's audit moved the question to the two clocks (`SESSION2.md`, the
+question, cites it), and tonight's design (the dating rule, the late line, the forward line) is that question's. The failure criterion
+of T3 (the translation test changes only wording, not design) is **not triggered**; the instrument has now changed one design.

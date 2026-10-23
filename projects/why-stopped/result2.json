@@ -1,0 +1,20 @@
+{
+ "told": 40,
+ "agree_dated": 40,
+ "both_dated": 20,
+ "agree_month": 19,
+ "disagreements": [
+  {
+   "i": 15,
+   "nct": "NCT00793884",
+   "rule": "2020-03",
+   "reading": "2026-01",
+   "note": "the latest month is written 'January of 2026' (a word between month and year); an earlier month (March 2020) is also named"
+  }
+ ],
+ "P6": {
+  "registered": "the dating rule agrees with the reading on dated vs none at >= 36 of those told",
+  "value": 40,
+  "held": true
+ }
+}

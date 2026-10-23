@@ -417,11 +417,13 @@ const PAGES = [
         svgs: s.length,
         months: s[0] ? s[0].querySelectorAll('g').length : 0,
         lines: s[1] ? s[1].querySelectorAll('g line').length : 0,
+        late: s[2] ? s[2].querySelectorAll('g').length : 0,
         preds: document.querySelectorAll('ul.pr li').length,
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 2 && r.months === 142 && r.lines === 94 && r.preds === 6 && r.min_font >= 11,
+    // session 2 (2026-10-23): a third SVG, 20 rows for the late lines (late2.json); a second list of six predictions.
+    ok: (r) => r.svgs === 3 && r.months === 142 && r.lines === 94 && r.late === 20 && r.preds === 12 && r.min_font >= 11,
   },
 ];
 

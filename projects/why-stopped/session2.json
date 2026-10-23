@@ -1,0 +1,293 @@
+{
+ "data": "ClinicalTrials.gov API v2, processed 2026-10-22T09:00:04; 54 pages, hashes equal to session 1's fetch_log.json",
+ "population": 2012,
+ "self_dated": 65,
+ "year_only": 47,
+ "late_lines": 20,
+ "forward_lines": 0,
+ "late_gap_months": {
+  "median": 7,
+  "max": 80,
+  "at_least_12": 8
+ },
+ "line_month_top": [
+  [
+   "2020-03",
+   24
+  ],
+  [
+   "2022-03",
+   6
+  ],
+  [
+   "2020-02",
+   4
+  ],
+  [
+   "2020-08",
+   3
+  ],
+  [
+   "2022-08",
+   3
+  ],
+  [
+   "2021-08",
+   2
+  ],
+  [
+   "2021-02",
+   2
+  ],
+  [
+   "2020-10",
+   2
+  ],
+  [
+   "2020-06",
+   2
+  ],
+  [
+   "2020-07",
+   2
+  ],
+  [
+   "2008-06",
+   1
+  ],
+  [
+   "2020-01",
+   1
+  ]
+ ],
+ "line_month_by_year": [
+  [
+   "2008",
+   1
+  ],
+  [
+   "2019",
+   1
+  ],
+  [
+   "2020",
+   41
+  ],
+  [
+   "2021",
+   6
+  ],
+  [
+   "2022",
+   11
+  ],
+  [
+   "2023",
+   3
+  ],
+  [
+   "2024",
+   2
+  ]
+ ],
+ "anachronisms_covid": 86,
+ "anachronisms_self_dated": 6,
+ "anachronisms_self_dated_items": [
+  {
+   "nct": "NCT02219581",
+   "stop": "2015-12",
+   "line_month": "2022-08",
+   "lastupd": "2022-10"
+  },
+  {
+   "nct": "NCT03004443",
+   "stop": "2019-11",
+   "line_month": "2020-03",
+   "lastupd": "2023-10"
+  },
+  {
+   "nct": "NCT02409238",
+   "stop": "2019-12",
+   "line_month": "2022-08",
+   "lastupd": "2023-01"
+  },
+  {
+   "nct": "NCT00793884",
+   "stop": "2019-11",
+   "line_month": "2020-03",
+   "lastupd": "2026-02"
+  },
+  {
+   "nct": "NCT04164043",
+   "stop": "2019-02",
+   "line_month": "2021-08",
+   "lastupd": "2023-03"
+  },
+  {
+   "nct": "NCT03584802",
+   "stop": "2019-11",
+   "line_month": "2020-03",
+   "lastupd": "2026-08"
+  }
+ ],
+ "suspended_flagged": 198,
+ "suspended_self_dated": 7,
+ "late_items": [
+  {
+   "nct": "NCT00562237",
+   "stop": "2007-11",
+   "line_month": "2008-06",
+   "lastupd": "2008-10"
+  },
+  {
+   "nct": "NCT02219581",
+   "stop": "2015-12",
+   "line_month": "2022-08",
+   "lastupd": "2022-10"
+  },
+  {
+   "nct": "NCT04210362",
+   "stop": "2020-02",
+   "line_month": "2020-03",
+   "lastupd": "2022-08"
+  },
+  {
+   "nct": "NCT03004443",
+   "stop": "2019-11",
+   "line_month": "2020-03",
+   "lastupd": "2023-10"
+  },
+  {
+   "nct": "NCT02409238",
+   "stop": "2019-12",
+   "line_month": "2022-08",
+   "lastupd": "2023-01"
+  },
+  {
+   "nct": "NCT03992716",
+   "stop": "2020-03",
+   "line_month": "2020-09",
+   "lastupd": "2020-10"
+  },
+  {
+   "nct": "NCT03923010",
+   "stop": "2020-03",
+   "line_month": "2020-08",
+   "lastupd": "2021-09"
+  },
+  {
+   "nct": "NCT03142984",
+   "stop": "2020-06",
+   "line_month": "2022-03",
+   "lastupd": "2023-12"
+  },
+  {
+   "nct": "NCT04228549",
+   "stop": "2022-06",
+   "line_month": "2022-08",
+   "lastupd": "2023-04"
+  },
+  {
+   "nct": "NCT04084600",
+   "stop": "2020-02",
+   "line_month": "2021-02",
+   "lastupd": "2021-02"
+  },
+  {
+   "nct": "NCT04499690",
+   "stop": "2022-12",
+   "line_month": "2024-11",
+   "lastupd": "2025-07"
+  },
+  {
+   "nct": "NCT02774551",
+   "stop": "2020-06",
+   "line_month": "2020-08",
+   "lastupd": "2020-12"
+  },
+  {
+   "nct": "NCT05124574",
+   "stop": "2022-03",
+   "line_month": "2022-04",
+   "lastupd": "2023-06"
+  },
+  {
+   "nct": "NCT00793884",
+   "stop": "2019-11",
+   "line_month": "2020-03",
+   "lastupd": "2026-02"
+  },
+  {
+   "nct": "NCT03903640",
+   "stop": "2021-11",
+   "line_month": "2022-03",
+   "lastupd": "2022-06"
+  },
+  {
+   "nct": "NCT04200508",
+   "stop": "2020-03",
+   "line_month": "2022-03",
+   "lastupd": "2022-11"
+  },
+  {
+   "nct": "NCT04267276",
+   "stop": "2020-04",
+   "line_month": "2020-12",
+   "lastupd": "2022-06"
+  },
+  {
+   "nct": "NCT04164043",
+   "stop": "2019-02",
+   "line_month": "2021-08",
+   "lastupd": "2023-03"
+  },
+  {
+   "nct": "NCT03584802",
+   "stop": "2019-11",
+   "line_month": "2020-03",
+   "lastupd": "2026-08"
+  },
+  {
+   "nct": "NCT03709771",
+   "stop": "2020-10",
+   "line_month": "2021-10",
+   "lastupd": "2024-01"
+  }
+ ],
+ "forward_items": [],
+ "predictions": [
+  {
+   "n": 1,
+   "registered": "between 4 % and 20 % of the population are self-dated",
+   "value": 3.2,
+   "held": false
+  },
+  {
+   "n": 2,
+   "registered": "of the self-dated, at least 30 % are late lines",
+   "value": 30.8,
+   "held": true
+  },
+  {
+   "n": 3,
+   "registered": "of the self-dated, at most 5 % are forward lines",
+   "value": 0.0,
+   "held": true
+  },
+  {
+   "n": 4,
+   "registered": "of the 86 COVID-19 anachronisms, fewer than 20 % are self-dated",
+   "value": 7.0,
+   "held": true
+  },
+  {
+   "n": 5,
+   "registered": "the month most often named as the line's month is March 2020",
+   "value": [
+    "2020-03",
+    24
+   ],
+   "held": true
+  }
+ ]
+}
