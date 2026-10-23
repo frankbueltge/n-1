@@ -1,0 +1,213 @@
+{
+ "reader": "Remainder, session 1 of project 17, from the publisher's fields only, before the key was opened",
+ "readings": [
+  {
+   "item": 1,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 2,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 3,
+   "reading": "present",
+   "estimate": true,
+   "note": "camera-trap count of 1; the remark (Japanese) warns of possible double counting, not of absence"
+  },
+  {
+   "item": 4,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 5,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 6,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 7,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 8,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 9,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 10,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 11,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 12,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 13,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 14,
+   "reading": "cannot tell",
+   "estimate": true,
+   "note": "only a name; the publisher's words say neither"
+  },
+  {
+   "item": 15,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 16,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 17,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 18,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 19,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 20,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 21,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 22,
+   "reading": "absent",
+   "estimate": true,
+   "note": "status word absent; the remark names a group, not a count"
+  },
+  {
+   "item": 23,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 24,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 25,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 26,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 27,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 28,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 29,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 30,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 31,
+   "reading": "cannot tell",
+   "estimate": true,
+   "note": "only a name"
+  },
+  {
+   "item": 32,
+   "reading": "present",
+   "estimate": true,
+   "note": "status word in French, 'Pr\u00e9sent'"
+  },
+  {
+   "item": 33,
+   "reading": "present",
+   "estimate": true
+  },
+  {
+   "item": 34,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 35,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 36,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 37,
+   "reading": "absent",
+   "estimate": true
+  },
+  {
+   "item": 38,
+   "reading": "cannot tell",
+   "estimate": true,
+   "note": "only a name"
+  },
+  {
+   "item": 39,
+   "reading": "cannot tell",
+   "estimate": true,
+   "note": "only a name"
+  },
+  {
+   "item": 40,
+   "reading": "present",
+   "estimate": true,
+   "note": "status word in French, 'Pr\u00e9sent'"
+  }
+ ]
+}

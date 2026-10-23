@@ -1,0 +1,451 @@
+[
+ {
+  "item": 1,
+  "key": 5295786037,
+  "datasetKey": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_CONCEPT_ID_NOT_FOUND"
+  ],
+  "offset": 10600
+ },
+ {
+  "item": 2,
+  "key": 4093223616,
+  "datasetKey": "a050fb15-1ab6-4d29-b444-b7b8ae576499",
+  "status": "ABSENT",
+  "issues": [
+   "COUNTRY_DERIVED_FROM_COORDINATES",
+   "REFERENCES_URI_INVALID"
+  ],
+  "offset": 8067
+ },
+ {
+  "item": 3,
+  "key": 6560683348,
+  "datasetKey": "cdc6399f-98d5-4ca7-9b26-49587c47e2ae",
+  "status": "PRESENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_ID_NOT_FOUND"
+  ],
+  "offset": 1866
+ },
+ {
+  "item": 4,
+  "key": 5787226961,
+  "datasetKey": "cd359f61-5eea-4e9c-ad45-284e7594b6de",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "COUNTRY_DERIVED_FROM_COORDINATES",
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_MATCH_HIGHERRANK",
+   "SCIENTIFIC_NAME_ID_NOT_FOUND"
+  ],
+  "offset": 95166
+ },
+ {
+  "item": 5,
+  "key": 3403968812,
+  "datasetKey": "836204c6-f8ca-49f3-be9a-afbae64ae72c",
+  "status": "ABSENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 85363
+ },
+ {
+  "item": 6,
+  "key": 5926874195,
+  "datasetKey": "a7305f85-1edc-4fcb-9508-4f85bd180813",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "COUNTRY_DERIVED_FROM_COORDINATES",
+   "RECORDED_DATE_MISMATCH"
+  ],
+  "offset": 61974
+ },
+ {
+  "item": 7,
+  "key": 6150588820,
+  "datasetKey": "8a863029-f435-446a-821e-275f4f641165",
+  "status": "PRESENT",
+  "issues": [],
+  "offset": 86732
+ },
+ {
+  "item": 8,
+  "key": 6587353658,
+  "datasetKey": "b6b4502f-ffc8-4048-a91b-af502288faa8",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "COUNTRY_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 85072
+ },
+ {
+  "item": 9,
+  "key": 6528059105,
+  "datasetKey": "83fdfd3d-3a25-4705-9fbe-3db1d1892b13",
+  "status": "PRESENT",
+  "issues": [
+   "TAXON_ID_NOT_FOUND"
+  ],
+  "offset": 7050
+ },
+ {
+  "item": 10,
+  "key": 5295708582,
+  "datasetKey": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_CONCEPT_ID_NOT_FOUND"
+  ],
+  "offset": 4797
+ },
+ {
+  "item": 11,
+  "key": 6587280029,
+  "datasetKey": "b6b4502f-ffc8-4048-a91b-af502288faa8",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "COUNTRY_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 11443
+ },
+ {
+  "item": 12,
+  "key": 5788219651,
+  "datasetKey": "cd359f61-5eea-4e9c-ad45-284e7594b6de",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "COUNTRY_DERIVED_FROM_COORDINATES",
+   "CONTINENT_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 72752
+ },
+ {
+  "item": 13,
+  "key": 6150463300,
+  "datasetKey": "8a863029-f435-446a-821e-275f4f641165",
+  "status": "PRESENT",
+  "issues": [],
+  "offset": 53717
+ },
+ {
+  "item": 14,
+  "key": 5938318211,
+  "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+  "status": "PRESENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_ID_NOT_FOUND"
+  ],
+  "offset": 68543
+ },
+ {
+  "item": 15,
+  "key": 5939224165,
+  "datasetKey": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
+  "status": "PRESENT",
+  "issues": [],
+  "offset": 19093
+ },
+ {
+  "item": 16,
+  "key": 5296034669,
+  "datasetKey": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_CONCEPT_ID_NOT_FOUND"
+  ],
+  "offset": 24318
+ },
+ {
+  "item": 17,
+  "key": 5296322701,
+  "datasetKey": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+  "status": "PRESENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_CONCEPT_ID_NOT_FOUND"
+  ],
+  "offset": 41565
+ },
+ {
+  "item": 18,
+  "key": 5295750402,
+  "datasetKey": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_CONCEPT_ID_NOT_FOUND"
+  ],
+  "offset": 7233
+ },
+ {
+  "item": 19,
+  "key": 5785951698,
+  "datasetKey": "cd359f61-5eea-4e9c-ad45-284e7594b6de",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "COUNTRY_DERIVED_FROM_COORDINATES",
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "SCIENTIFIC_NAME_ID_NOT_FOUND"
+  ],
+  "offset": 35019
+ },
+ {
+  "item": 20,
+  "key": 4514555341,
+  "datasetKey": "7be214bb-0be6-47ec-a0f5-efb37af38da6",
+  "status": "ABSENT",
+  "issues": [
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "COUNTRY_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 73223
+ },
+ {
+  "item": 21,
+  "key": 5296793878,
+  "datasetKey": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_CONCEPT_ID_NOT_FOUND"
+  ],
+  "offset": 68518
+ },
+ {
+  "item": 22,
+  "key": 3785282654,
+  "datasetKey": "fd7167be-cf97-4dff-a151-db071bfde91b",
+  "status": "ABSENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 7933
+ },
+ {
+  "item": 23,
+  "key": 5297200741,
+  "datasetKey": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_CONCEPT_ID_NOT_FOUND"
+  ],
+  "offset": 91391
+ },
+ {
+  "item": 24,
+  "key": 5246681112,
+  "datasetKey": "154d6192-bea0-4bcb-ab58-1c573081591d",
+  "status": "ABSENT",
+  "issues": [
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "CONTINENT_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 63795
+ },
+ {
+  "item": 25,
+  "key": 5266463388,
+  "datasetKey": "154d6192-bea0-4bcb-ab58-1c573081591d",
+  "status": "ABSENT",
+  "issues": [
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "CONTINENT_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 43950
+ },
+ {
+  "item": 26,
+  "key": 5096059402,
+  "datasetKey": "a50323a7-2973-4042-9369-407f0b5efb19",
+  "status": "ABSENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "RECORDED_DATE_INVALID",
+   "TAXON_MATCH_HIGHERRANK"
+  ],
+  "offset": 45473
+ },
+ {
+  "item": 27,
+  "key": 6587309286,
+  "datasetKey": "b6b4502f-ffc8-4048-a91b-af502288faa8",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "COUNTRY_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 40700
+ },
+ {
+  "item": 28,
+  "key": 5296142828,
+  "datasetKey": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_CONCEPT_ID_NOT_FOUND"
+  ],
+  "offset": 30716
+ },
+ {
+  "item": 29,
+  "key": 6587335729,
+  "datasetKey": "b6b4502f-ffc8-4048-a91b-af502288faa8",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "COUNTRY_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 67143
+ },
+ {
+  "item": 30,
+  "key": 6587337545,
+  "datasetKey": "b6b4502f-ffc8-4048-a91b-af502288faa8",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "COUNTRY_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 68959
+ },
+ {
+  "item": 31,
+  "key": 5938386126,
+  "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+  "status": "PRESENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_ID_NOT_FOUND"
+  ],
+  "offset": 82596
+ },
+ {
+  "item": 32,
+  "key": 4571387709,
+  "datasetKey": "148a0e3f-1378-4aa5-8423-0ecdac6a5af8",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_ID_NOT_FOUND"
+  ],
+  "offset": 15306
+ },
+ {
+  "item": 33,
+  "key": 5296213607,
+  "datasetKey": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_CONCEPT_ID_NOT_FOUND"
+  ],
+  "offset": 34623
+ },
+ {
+  "item": 34,
+  "key": 5261677087,
+  "datasetKey": "154d6192-bea0-4bcb-ab58-1c573081591d",
+  "status": "ABSENT",
+  "issues": [
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "CONTINENT_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 5670
+ },
+ {
+  "item": 35,
+  "key": 5250047913,
+  "datasetKey": "154d6192-bea0-4bcb-ab58-1c573081591d",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "CONTINENT_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 20944
+ },
+ {
+  "item": 36,
+  "key": 5252389621,
+  "datasetKey": "154d6192-bea0-4bcb-ab58-1c573081591d",
+  "status": "ABSENT",
+  "issues": [
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "CONTINENT_DERIVED_FROM_COORDINATES"
+  ],
+  "offset": 88681
+ },
+ {
+  "item": 37,
+  "key": 1657239703,
+  "datasetKey": "c779b049-28f3-4daf-bbf4-0a40830819b6",
+  "status": "ABSENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "COUNTRY_DERIVED_FROM_COORDINATES",
+   "RECORDED_DATE_INVALID",
+   "TAXON_ID_NOT_FOUND"
+  ],
+  "offset": 21262
+ },
+ {
+  "item": 38,
+  "key": 6437063315,
+  "datasetKey": "67fabcac-a638-40a6-9bea-aeca8aced9f1",
+  "status": "PRESENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_ID_NOT_FOUND"
+  ],
+  "offset": 73697
+ },
+ {
+  "item": 39,
+  "key": 5938131866,
+  "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+  "status": "PRESENT",
+  "issues": [
+   "COORDINATE_ROUNDED",
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_ID_NOT_FOUND"
+  ],
+  "offset": 24357
+ },
+ {
+  "item": 40,
+  "key": 2480799979,
+  "datasetKey": "2c13b330-d6c5-4d4f-a726-129ca8c855cf",
+  "status": "PRESENT",
+  "issues": [
+   "CONTINENT_DERIVED_FROM_COORDINATES",
+   "TAXON_ID_NOT_FOUND"
+  ],
+  "offset": 4007
+ }
+]
