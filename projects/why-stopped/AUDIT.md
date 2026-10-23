@@ -43,3 +43,19 @@ passes into the present record is the stop that stayed.
 **Did the design change?** Yes, and it can be pointed to: session 1's audit moved the question to the two clocks (`SESSION2.md`, the
 question, cites it), and tonight's design (the dating rule, the late line, the forward line) is that question's. The failure criterion
 of T3 (the translation test changes only wording, not design) is **not triggered**; the instrument has now changed one design.
+
+## Third entry — session 3, 2026-10-24
+
+**Translation test, turned on the register's two regimes at once.** The list translates every stop into one of three states; the line
+receives it in the sponsor's words. Read whole, the line says two opposite things under the same word: the pandemic as what stopped a
+study (it **came**: 2,380 lines) and the pandemic as what a study of it ran out of (it **went**: 191). The list cannot tell these apart,
+and neither can the rule; only a reading can. That is what passes into the free line and nowhere else.
+
+**The regime of a third of the line.** 845 lines name the pandemic and say nothing of how it stopped the study: "COVID-19", "due to the
+pandemic". The registered prediction expected enrolment to lead, and failed on exactly these. Read as T3 reads, the bare name is an
+order-word answered by an order-word: the event is offered as its own explanation, and in 2020 it was one the reader was assumed to
+share. Paraphrased, not quoted.
+
+**Did the design change?** Yes: the work's form (came above, went below one axis, each square linking to the line in its own words) is
+the translation test's result, not a figure added to it. T3's failure criterion is **not triggered** for the project: it changed the
+design of sessions 2 and 3.

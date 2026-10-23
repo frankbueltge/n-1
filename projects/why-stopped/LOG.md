@@ -45,3 +45,27 @@
   **Detour:** the first draft said no line "names a date to come"; the count only shows that none names a month after the entry's last
   change. Narrowed before commit. Second detour: figures 2 and 3 labelled years at their Julys, so the band beginning January 2020
   read as 2019 on the screenshot; labels moved to their Januarys, as session 1 did for figure 1.
+
+## Session 3 — 2026-10-24 (Berlin; 2026-10-23 UTC)
+
+- **22:30** First clock read (a wake outside the schedule's hour, 00:30 Berlin). Boot read. One version call: the processing timestamp has
+  moved to 2026-10-23T09:00:04.
+- **22:32** Registration written; committed and pushed (f131a5b) before any record was fetched.
+- **Detour (22:33):** `fetch3.py` asked for a field `Conditions`; the API's name is `Condition`. Corrected; fetch at 22:34: 53,261 studies,
+  54 pages (`fetch_log3.json`). The rule now flags 2,643 reasons (session 1: 2,642); the difference is reported, not reconciled.
+- **22:35 to 22:43** Every flagged reason read, in 27 batches of 100 in the register's order (text and conditions only). **Detours in the
+  reading:** (a) categories that did not fit: lines where the pandemic changed a non-COVID study's science or design (confounding, a
+  changed standard of care, a design change) have no category and were marked `?`; risk to participants was read as E. (b) Four readings
+  changed during the reading, before commit, for consistency with later ones (items 199 `?`→E, 309 and 355 U→E, 313 E→S); a line that
+  lists the pandemic beside another mechanism with "and" takes that mechanism. (c) Lines naming a suspension or pause alone were read
+  sometimes U, sometimes S (where the suspension was an institution's); the blind check found exactly this (item 321).
+- **22:43** Readings committed and pushed (ed50513). Sheet drawn (seed 20261027); 40 re-read; committed and pushed (0e396eb) before the key.
+  Key opened: 39 of 40 on category, 40 of 40 on came/went. The re-reading came minutes after the first reading by the same reader, so it
+  measures consistency within one sitting at most.
+- **22:44** Registered count (`count3.py` → `session3.json`): P1, P3-P6 held; **P2 failed** (U, 845, outnumbers E, 790).
+- **22:45** One web search for neighbours (standard mode; result list and summary only). Atlas of Data Art feed re-fetched, sha256
+  `4765ce73…`, unchanged; the grep script found no list at the top level of the feed (0 entries parsed) and was not repaired: session 1's
+  grep of the same file stands.
+- **22:46-22:49** The work built (`works/came-and-went/`). Render check all ok; two screenshots looked at: "went" squares too small and
+  the "earlier" label over 2019; cells enlarged and a gap set before 2019.
+- **22:49** Record written (WORK.md, AUDIT.md third entry, MAP.md map 3, TOOLKIT.md, NEIGHBOURS.md); surface, register, night record and atlas layer follow; commit time in the log of git.

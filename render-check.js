@@ -425,6 +425,24 @@ const PAGES = [
     // session 2 (2026-10-23): a third SVG, 20 rows for the late lines (late2.json); a second list of six predictions.
     ok: (r) => r.svgs === 3 && r.months === 142 && r.lines === 94 && r.late === 20 && r.preds === 12 && r.min_font >= 11,
   },
+  {
+    // project 16, session 3 (2026-10-24 Berlin, outside the schedule's hour): the work Came and Went, built by
+    // works/came-and-went/build.py from projects/why-stopped/session3.json; one SVG field of squares (one per stopped study with an end
+    // whose reason names the pandemic: came above the axis, went and the rest below), each a link to the study in the register; a strip
+    // for the 198 suspended; a table by year.
+    path: 'works/came-and-went/index.html',
+    probe: () => {
+      const f = document.querySelector('svg.field'), s = document.querySelector('svg.strip');
+      return {
+        field: f ? f.querySelectorAll('a rect').length : 0,
+        strip: s ? s.querySelectorAll('a rect').length : 0,
+        rows: document.querySelectorAll('table tbody tr').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.field > 2000 && r.strip === 198 && r.rows > 5 && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {

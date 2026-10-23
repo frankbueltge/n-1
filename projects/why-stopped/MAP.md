@@ -46,3 +46,23 @@ archive (connection reset). Each would have given the first clock directly; thei
 event, not as its date. Tonight's question read the stop month exactly that way, as one clock among three, and the late lines are
 counted against it rather than corrected by it. That is a decision of design the map carried: without the dead end, the 20 late lines
 would have been filed as the register's errors. T1's failure criterion (never revised, or no decision changed) is **not triggered**.
+
+## Map 3 — 2026-10-24, session 3
+
+Reworked from map 2. New elements: **the reading** (2,643 lines, nine categories fixed before, `readings3.json`); **the conditions** each
+entry names (used to tell a study of COVID-19 from one it stopped); **the two directions** (came, went); **the work** (`works/came-and-went/`).
+
+Lines that operate, with evidence:
+
+- the line → came: 2,380, of which 845 name only the event (`session3.json`).
+- the line → went: 191, the studies of the pandemic stopped by its own course, middle month 14 months after the interrupted (`session3.json`).
+- the list → forgetting: the 198 suspended stand in a strip of their own on the work, because their line lasts only as long as the stop
+  (map 2's line, carried into the form).
+- the reading → itself: 39 of 40 on re-reading (`result3.json`), with one inconsistency (a pause read two ways) the log names.
+
+Dead end, entered as one: categories for a pandemic that changed a study's science without stopping its participants or sites (30 lines
+`?`, 1.1 %). The map keeps them as a line the reading could not draw.
+
+**Decision changed by the map:** map 2 kept the stop month as one clock among three, never as the time of stopping. Tonight's work places
+each square at that month and says on the page that it is the last visit, not the decision, so the squares before 2020 are shown and
+explained, not dropped as errors. T1's failure criterion is **not triggered**.
