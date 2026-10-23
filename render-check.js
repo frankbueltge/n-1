@@ -443,6 +443,24 @@ const PAGES = [
     },
     ok: (r) => r.field > 2000 && r.strip === 198 && r.rows > 5 && r.fits && r.min_font >= 11,
   },
+  {
+    // project 17, session 1 (2026-10-24 Berlin): Looked for (the study), built by projects/looked-for/build.py from session1.json and
+    // result1.json; three SVGs: absences by source (ten segments and the rest), the absent share by year (77 columns, 1950-2026),
+    // the check (40 squares); six predictions.
+    path: 'projects/looked-for/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        sources: s[0] ? s[0].querySelectorAll('g').length : 0,
+        years: s[1] ? s[1].querySelectorAll('g').length : 0,
+        check: s[2] ? s[2].querySelectorAll('g').length : 0,
+        preds: document.querySelectorAll('ul.pr li').length,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 3 && r.sources === 11 && r.years === 77 && r.check === 40 && r.preds === 6 && r.min_font >= 11,
+  },
 ];
 
 (async () => {

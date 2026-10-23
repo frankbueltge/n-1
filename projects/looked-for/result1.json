@@ -1,0 +1,422 @@
+{
+ "tellable": 36,
+ "agree": 36,
+ "rows": [
+  {
+   "item": 1,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_CONCEPT_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 2,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COUNTRY_DERIVED_FROM_COORDINATES",
+    "REFERENCES_URI_INVALID"
+   ]
+  },
+  {
+   "item": 3,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 4,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "COUNTRY_DERIVED_FROM_COORDINATES",
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_MATCH_HIGHERRANK",
+    "SCIENTIFIC_NAME_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 5,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 6,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "COUNTRY_DERIVED_FROM_COORDINATES",
+    "RECORDED_DATE_MISMATCH"
+   ]
+  },
+  {
+   "item": 7,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": []
+  },
+  {
+   "item": 8,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "COUNTRY_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 9,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "TAXON_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 10,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_CONCEPT_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 11,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "COUNTRY_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 12,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "COUNTRY_DERIVED_FROM_COORDINATES",
+    "CONTINENT_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 13,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": []
+  },
+  {
+   "item": 14,
+   "gbif": "PRESENT",
+   "reading": "cannot tell",
+   "agree": null,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 15,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": []
+  },
+  {
+   "item": 16,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_CONCEPT_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 17,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_CONCEPT_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 18,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_CONCEPT_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 19,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "COUNTRY_DERIVED_FROM_COORDINATES",
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "SCIENTIFIC_NAME_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 20,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "COUNTRY_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 21,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_CONCEPT_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 22,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 23,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_CONCEPT_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 24,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "CONTINENT_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 25,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "CONTINENT_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 26,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "RECORDED_DATE_INVALID",
+    "TAXON_MATCH_HIGHERRANK"
+   ]
+  },
+  {
+   "item": 27,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "COUNTRY_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 28,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_CONCEPT_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 29,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "COUNTRY_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 30,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "COUNTRY_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 31,
+   "gbif": "PRESENT",
+   "reading": "cannot tell",
+   "agree": null,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 32,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 33,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_CONCEPT_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 34,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "CONTINENT_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 35,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "CONTINENT_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 36,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "GEODETIC_DATUM_ASSUMED_WGS84",
+    "CONTINENT_DERIVED_FROM_COORDINATES"
+   ]
+  },
+  {
+   "item": 37,
+   "gbif": "ABSENT",
+   "reading": "absent",
+   "agree": true,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "COUNTRY_DERIVED_FROM_COORDINATES",
+    "RECORDED_DATE_INVALID",
+    "TAXON_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 38,
+   "gbif": "PRESENT",
+   "reading": "cannot tell",
+   "agree": null,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 39,
+   "gbif": "PRESENT",
+   "reading": "cannot tell",
+   "agree": null,
+   "issues": [
+    "COORDINATE_ROUNDED",
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_ID_NOT_FOUND"
+   ]
+  },
+  {
+   "item": 40,
+   "gbif": "PRESENT",
+   "reading": "present",
+   "agree": true,
+   "issues": [
+    "CONTINENT_DERIVED_FROM_COORDINATES",
+    "TAXON_ID_NOT_FOUND"
+   ]
+  }
+ ],
+ "cannot_tell_gbif": [
+  "PRESENT",
+  "PRESENT",
+  "PRESENT",
+  "PRESENT"
+ ],
+ "status_issues": {}
+}
