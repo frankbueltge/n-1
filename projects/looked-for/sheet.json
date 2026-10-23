@@ -1,0 +1,370 @@
+{
+ "seed": 20261024,
+ "items": [
+  {
+   "item": 1,
+   "sha256": "74bf1dabbc6270d02f8bfa76b7201d11198c24f085a326cd4f6eb9244a794050",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 2,
+   "sha256": "0e7a122506e427cb469765e35e213f3a60e3e93bac7cd2e8a792d44ec51cf7fe",
+   "fields": [
+    "occurrenceStatus",
+    "organismQuantity",
+    "organismQuantityType",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 3,
+   "sha256": "f58573622e8b2980e63da6e8fac50098648f600ce07b411e8d6c9ac4b28e827a",
+   "fields": [
+    "individualCount",
+    "occurrenceRemarks",
+    "occurrenceStatus",
+    "sampleSizeUnit",
+    "sampleSizeValue",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 4,
+   "sha256": "745eb469bc746ce08efec66626da59284e7fe6106feacf14f67126a3821084fd",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 5,
+   "sha256": "9213b9a15b94d4be3dc8d6dd703d35b163554d5b4ec4ce855277951e73e9d760",
+   "fields": [
+    "occurrenceStatus",
+    "organismQuantity",
+    "organismQuantityType",
+    "sampleSizeUnit",
+    "sampleSizeValue",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 6,
+   "sha256": "d603563d2d695f2e8588b15bc4949e5b90e7c29ebc0e1611d0dda84364c380e3",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 7,
+   "sha256": "2329d9018f5ec8cc743d82d73bbe0f8e60272ed608895bd264c976437c2483a1",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 8,
+   "sha256": "5397b300aa83e372ce2c5698f8a2d69e1debfa2c89b6599eded4c785d5cc10cd",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 9,
+   "sha256": "96028abae1b23e4dc880b1c8f12d9069eb0f5578bd681777f3bb9cf8225a6908",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 10,
+   "sha256": "470f0d11b6fc7e7bae012cbdbd1cedbeed8153cbada5436eec5694ad5ed3201d",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 11,
+   "sha256": "deeef605eaf9b8a29f3bf6e1581d0685a45afbc991351fe932bcaea28b7c1122",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 12,
+   "sha256": "1e1cbc7959c56b8947c1c03254db01827cbd72f11890c2306c1d169f0e8d52ae",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 13,
+   "sha256": "9480126f1f23b3838917752499c13fdc2372877bb037741841b721972bdad023",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 14,
+   "sha256": "3649bbb706ecda9ba9bb1bbe70d022ff81440b230c8400b846703ef446b294cf",
+   "fields": [
+    "scientificName"
+   ]
+  },
+  {
+   "item": 15,
+   "sha256": "c5003f0253249f37c37595a03dad84b1e70adb32577056cb77561b7ea94b1c13",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "organismQuantity",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 16,
+   "sha256": "cf5489baaf0ded63ff179855920ff07162245bc22f04fbcb7ba212f5f3bccafa",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 17,
+   "sha256": "1a23e15897cd32fcedb32bd31cd15f3e36553e27b9cfaa59d05b57dfed9a2845",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 18,
+   "sha256": "d92fa8fd02c6d89ff14173d8317e959b0d4064e0173e8e9f16141639594b77ad",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 19,
+   "sha256": "4799b63095055763ec8ad06d2e2ec69c8e467543c857ec3762dc82a9f27b7b0a",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 20,
+   "sha256": "77cc84b45ec87986878e5e0476c4b557e10f23343a1cb64e79b9de537e3b24e1",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 21,
+   "sha256": "198597dcedb5eb49c2d62e7eeb7624601961ff7424271240667710e4c91e9632",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 22,
+   "sha256": "64a81d174e847c62f926f0ccf8e65735ca01544109f32987c84839d685bcd1f1",
+   "fields": [
+    "occurrenceRemarks",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 23,
+   "sha256": "24df818acf15e1f036a044f5ba93304fd34cd968a5f7568ad21fd0a28bd3fefb",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 24,
+   "sha256": "c9184c27a6d5df78f6f56b21b70a0adb7b728cceab2ee7cd9e59df2112587de8",
+   "fields": [
+    "occurrenceStatus",
+    "organismQuantity",
+    "organismQuantityType",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 25,
+   "sha256": "6a304ac99bedf687a78c79f106961f538b31a2b4eebbb808d32f83eb79114605",
+   "fields": [
+    "occurrenceStatus",
+    "organismQuantity",
+    "organismQuantityType",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 26,
+   "sha256": "c8b287d525b485a27ff40d7fe61fd5bc7a103ae11e7408c1a382ffc5a5341469",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "organismQuantity",
+    "organismQuantityType",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 27,
+   "sha256": "fac19b741219e32f2746a4477bb8bc83096c45f941fc42f05f7ef5353d2e5933",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 28,
+   "sha256": "4a33d625055c9ff13475ba4eaac0fe08e33c1d26a351a34c5a6fe51a74fd9bb8",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 29,
+   "sha256": "015e08f137bee8075c39a9799669dbd5bd6873f90c28769e64932c4bc1d1d169",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 30,
+   "sha256": "fe3f006151de56583395284e7e08990a09c5745f511fab40c65562c46803290d",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 31,
+   "sha256": "c3483b25259ae7256b6cef25d05268dc49b092a5a5e65776edaab4d62cae31ee",
+   "fields": [
+    "scientificName"
+   ]
+  },
+  {
+   "item": 32,
+   "sha256": "abff5c4aaf1fde7f1e794f9beee73e1ac3cc502333877ef6511e0a0b15967497",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 33,
+   "sha256": "37b0952d5fbaaa33bdf77bccf8be200c7885c9fa244ab627fec4e848426afdf1",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 34,
+   "sha256": "a72c7d4ad974b0f13351c62bd834efbfe0b90aa85d1c58370b148cd5f046a3c7",
+   "fields": [
+    "occurrenceStatus",
+    "organismQuantity",
+    "organismQuantityType",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 35,
+   "sha256": "6719b5c7e25f56227e0254331feea12cf6abd1aee9d349083da90ef992d31698",
+   "fields": [
+    "occurrenceStatus",
+    "organismQuantity",
+    "organismQuantityType",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 36,
+   "sha256": "6d34d31f3bcf9af2d872f1e552c6112b7794dde5f3be5698b37e05786dfadbf9",
+   "fields": [
+    "occurrenceStatus",
+    "organismQuantity",
+    "organismQuantityType",
+    "samplingProtocol",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 37,
+   "sha256": "554d56004b3b5ba38d3185a7eee8b89f000b788edb8eb939514de24969a42d91",
+   "fields": [
+    "individualCount",
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  },
+  {
+   "item": 38,
+   "sha256": "a872619e44e87a1185b6a979ae25c09d78e1034ce30cceb279cc8edcb3bfccda",
+   "fields": [
+    "scientificName"
+   ]
+  },
+  {
+   "item": 39,
+   "sha256": "1f99f8a79dfa3d92e57e87421dd8b7893dfc0afd9d249b2c5b1c12792df9676a",
+   "fields": [
+    "scientificName"
+   ]
+  },
+  {
+   "item": 40,
+   "sha256": "db4f73b0b41397ee89f9d5e4f503ece583e278df94d3a9b83dea927fc28de726",
+   "fields": [
+    "occurrenceStatus",
+    "scientificName"
+   ]
+  }
+ ]
+}

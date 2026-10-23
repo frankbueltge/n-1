@@ -12,3 +12,6 @@
 - **23:22** Neighbours: Atlas grep, two web searches. One search showed a 2015 number (983,396 absences in one dataset); exposure listed.
 - **23:23** Selection written: four candidates, OSM `fixme` failing on rights (ODbL share-alike against CC0 for data).
 - **23:24** Selection committed and pushed before any count or record was read (this line is part of that commit).
+- **23:25-23:26** `sheet.py`: 40 drawn (dataset-weighted, seed 20261024), verbatim fields to scratch; prints no count. `sheet.json` holds hashes only.
+- **23:26** 40 read: 20 absent, 16 present, 4 cannot tell (a scientific name and nothing else). Of the 40, 36 carry a status word
+  as written; two of them in French ('Présent'), cases vary (absent, Absent, PRESENT). Readings committed and pushed before the key is opened.
