@@ -1,0 +1,789 @@
+{
+ "started_utc": "2026-10-24T01:05:32Z",
+ "datasets": {
+  "S": {
+   "datasetKey": "b6b4502f-ffc8-4048-a91b-af502288faa8",
+   "total": 34521256,
+   "absent": 34459302,
+   "present": 61954,
+   "names_absent": 43,
+   "names_present": 233,
+   "facet_limit": 100000,
+   "facet_capped": false,
+   "names_any": 249,
+   "never_found_names": 16,
+   "never_found_absences": 42423893,
+   "never_found_share_of_absences": 1.2311303635807829,
+   "never_found_sum_check": 243866641,
+   "never_found": [
+    {
+     "taxonKey": "11711225",
+     "absent": 2651527,
+     "name": "Callistephanus pallida (Madsen, 1970)"
+    },
+    {
+     "taxonKey": "2261346",
+     "absent": 2651527,
+     "name": "Swiftia pallida Madsen, 1970"
+    },
+    {
+     "taxonKey": "2260001",
+     "absent": 2651526,
+     "name": "Fungiacyathus Sars, 1872"
+    },
+    {
+     "taxonKey": "2260018",
+     "absent": 2651526,
+     "name": "Fungiacyathus fragilis Sars, 1872"
+    },
+    {
+     "taxonKey": "2260788",
+     "absent": 2651526,
+     "name": "Clavularia Blainville, 1830"
+    },
+    {
+     "taxonKey": "2262458",
+     "absent": 2651526,
+     "name": "Anthomastus Verrill, 1878"
+    },
+    {
+     "taxonKey": "2262473",
+     "absent": 2651526,
+     "name": "Anthomastus grandiflorus Verrill, 1878"
+    },
+    {
+     "taxonKey": "2263001",
+     "absent": 2651526,
+     "name": "Radicipes Stearns, 1883"
+    },
+    {
+     "taxonKey": "2263005",
+     "absent": 2651526,
+     "name": "Radicipes gracilis (Verrill, 1884)"
+    },
+    {
+     "taxonKey": "3957",
+     "absent": 2651526,
+     "name": "Clavulariidae"
+    },
+    {
+     "taxonKey": "3969",
+     "absent": 2651526,
+     "name": "Fungiacyathidae"
+    },
+    {
+     "taxonKey": "5184878",
+     "absent": 2651526,
+     "name": "Clavularia arctica Koren & Danielssen, 1883"
+    },
+    {
+     "taxonKey": "8174",
+     "absent": 2651526,
+     "name": "Chrysogorgiidae"
+    },
+    {
+     "taxonKey": "2259416",
+     "absent": 2651351,
+     "name": "Stenocyathus Pourtalès, 1871"
+    },
+    {
+     "taxonKey": "2259417",
+     "absent": 2651351,
+     "name": "Stenocyathus vermiformis (Pourtalès, 1868)"
+    },
+    {
+     "taxonKey": "6472670",
+     "absent": 2651351,
+     "name": "Stenocyathidae"
+    }
+   ],
+   "never_found_rest": [],
+   "protocol_facet": [],
+   "no_unit_draws": 0,
+   "units": [
+    {
+     "eventID_sha256": "9caed4616a188bb072367aee90addb3cef2e83b08464b4da5b4d9c939e7a0b17",
+     "offset": 55594,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "4cd41cf8ca74646d5be2406f52da27eb6f712d273b2ddc419edd22a60434e695",
+     "offset": 49692,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "2777997482610f3c626cad7d3bdf3636e60a41aa7874fb7c49c6eef5feb7fdd2",
+     "offset": 29472,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "ae641f1d97dea8acc004785e63811256b79f382fa9cad3020d27907926fe5012",
+     "offset": 25669,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "b9d6243dd101f1fbc5f37d5385d91749943fe3dd8206773dd60180ba408abb90",
+     "offset": 88644,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "0aa426be41e5b2cb710f9403e1660439d65475130bd806db550d6314f7ff16a3",
+     "offset": 94294,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "5d4b6c844607268568d79165b440225a2691650f2b16571e84f9fc2efc58718d",
+     "offset": 74884,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "6b13fbcbceffe43654f25915c97c4047428ae78495fd1ee296fb6167ff12b31c",
+     "offset": 58155,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "f78a813ccc8075d8ea650e9bc408585aefce2c0fdd12d77a1aebeedf3a8f524c",
+     "offset": 9445,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "5298e6161e2c5ef095df1e3d59757b3f038102032edf1417dbadfdc96cc1bee4",
+     "offset": 53610,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "ae193e4c7da3f803270fcc615e82f5e80dfec7ab4cc1c93d1008eedbf4d3b39d",
+     "offset": 47650,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "d58a549e193dae002b812f5e7744812416fa0663f6284cacdf417e6967a935b4",
+     "offset": 18909,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "3feaaf266ee578c5fc5d05dfd7b256f00678e6629f9c5b05a1e880be5a36bfbe",
+     "offset": 90376,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "b86fc879dde7602826c3e5c6485040a29c866e726415564303efbea5d9b4a805",
+     "offset": 17704,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "412fce5555b8909465d4c71a8033d9eb3b1a5f081322e6306a3ade22d24e93b4",
+     "offset": 6733,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "b0e11d400873b04f2040d6f6a17126a306540287538f87cb6e6784eb17556620",
+     "offset": 44435,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "831c747008b9890d4364a54178d8b1ff1640dd8ad01998802fcf28fedba098a1",
+     "offset": 57839,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "b80deb78e18dc35f668ca2b40b28ae11459533ac7178e9ea4848d151df8322db",
+     "offset": 51026,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "44357998fbc71a2f29d6b9dd00933f966746098efda68c8b4d25b10d525ed7a6",
+     "offset": 81920,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "9c9c2a6205c40cc4d7583b90e336be229c70370e46a51cd4bb85aaf6c0f01dd7",
+     "offset": 99313,
+     "list_length": 13,
+     "absent": 13,
+     "absent_share": 1.0
+    }
+   ],
+   "list_length_mode": 13,
+   "units_at_mode": 20,
+   "list_length_min": 13,
+   "list_length_median": 13.0,
+   "list_length_max": 13,
+   "absent_share_median": 1.0
+  },
+  "K": {
+   "datasetKey": "154d6192-bea0-4bcb-ab58-1c573081591d",
+   "total": 32015548,
+   "absent": 26703147,
+   "present": 5312401,
+   "names_absent": 712,
+   "names_present": 703,
+   "facet_limit": 100000,
+   "facet_capped": false,
+   "names_any": 712,
+   "never_found_names": 9,
+   "never_found_absences": 425007,
+   "never_found_share_of_absences": 0.015915989227786524,
+   "never_found_sum_check": 170819853,
+   "never_found": [
+    {
+     "taxonKey": "3195823",
+     "absent": 93788,
+     "name": "Saccharina Stackhouse, 1809"
+    },
+    {
+     "taxonKey": "4377207",
+     "absent": 93788,
+     "name": "Saccharina latissima (L.) C.E.Lane, C.Mayes, Druehl & G.W.Saunders"
+    },
+    {
+     "taxonKey": "2292240",
+     "absent": 35496,
+     "name": "Hermissenda Bergh, 1879"
+    },
+    {
+     "taxonKey": "2292241",
+     "absent": 35496,
+     "name": "Hermissenda crassicornis (Eschscholtz, 1831)"
+    },
+    {
+     "taxonKey": "4304701",
+     "absent": 35496,
+     "name": "Myrrhinidae"
+    },
+    {
+     "taxonKey": "2336480",
+     "absent": 35162,
+     "name": "Hexagrammos stelleri Tilesius, 1810"
+    },
+    {
+     "taxonKey": "2389989",
+     "absent": 31927,
+     "name": "Ammodytes Linnaeus, 1758"
+    },
+    {
+     "taxonKey": "2389995",
+     "absent": 31927,
+     "name": "Ammodytes hexapterus Pallas, 1814"
+    },
+    {
+     "taxonKey": "8487",
+     "absent": 31927,
+     "name": "Ammodytidae"
+    }
+   ],
+   "never_found_rest": [],
+   "protocol_facet": [
+    [
+     "sbtl_swath_pisco",
+     16291206
+    ],
+    [
+     "sbtl_fish_pisco",
+     8681789
+    ],
+    [
+     "sbtl_swath_vrg",
+     4418301
+    ],
+    [
+     "sbtl_fish_vrg",
+     1548416
+    ],
+    [
+     "sbtl_swath_hsu",
+     504891
+    ],
+    [
+     "sbtl_fish_hsu",
+     429998
+    ],
+    [
+     "sbtl_fish_crane",
+     74882
+    ],
+    [
+     "sbtl_sizefreq_vrg",
+     39311
+    ],
+    [
+     "sbtl_sizefreq_pisco",
+     16096
+    ],
+    [
+     "sbtl_sizefreq_hsu",
+     10658
+    ]
+   ],
+   "no_unit_draws": 0,
+   "units": [
+    {
+     "eventID_sha256": "b25b44b5337dad529fd26cd9c7740fdb6738a6f95225fa9aea69f9e7546d74d5",
+     "offset": 9978,
+     "list_length": 94,
+     "absent": 94,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "82f4203e81a6cb4dcc13929509c35c6e4ca9099814182bf029b20f99e5a83b4b",
+     "offset": 46932,
+     "list_length": 126,
+     "absent": 123,
+     "absent_share": 0.9761904761904762
+    },
+    {
+     "eventID_sha256": "f1bf5a6e83e60f99ae277d2163e85b9e636b82d0e9067684051423edbc50710f",
+     "offset": 76370,
+     "list_length": 132,
+     "absent": 126,
+     "absent_share": 0.9545454545454546
+    },
+    {
+     "eventID_sha256": "77a11c1724679c4e1e2825ccd50e6077b0d4d1b1d648822e74c7f81fedd7f9d7",
+     "offset": 81612,
+     "list_length": 104,
+     "absent": 89,
+     "absent_share": 0.8557692307692307
+    },
+    {
+     "eventID_sha256": "918e2bbebfdf6fa24a83e59333d8ebeab4012e3fe0b90cb0851a7a5e52502b93",
+     "offset": 10866,
+     "list_length": 94,
+     "absent": 94,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "baa5ed71db67f50f6a43b1c0dae29cef24f52afefab636106cf7c4ace2371a7f",
+     "offset": 91035,
+     "list_length": 131,
+     "absent": 131,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "3cdca4723f4474baf029e08bd87b82c26b04204b209c31ef563ee85a9ab32fac",
+     "offset": 63476,
+     "list_length": 134,
+     "absent": 130,
+     "absent_share": 0.9701492537313433
+    },
+    {
+     "eventID_sha256": "b72289d7902e05ae9cc810319fb69b0d78a37321413e454b7e4009e7973e1e57",
+     "offset": 76074,
+     "list_length": 143,
+     "absent": 126,
+     "absent_share": 0.8811188811188811
+    },
+    {
+     "eventID_sha256": "ed2455e2899966234998d88c2a97678506f38b1adae766f8e4b2828762c22b9e",
+     "offset": 5753,
+     "list_length": 98,
+     "absent": 91,
+     "absent_share": 0.9285714285714286
+    },
+    {
+     "eventID_sha256": "9ccd0517d20c629349d860476382e455fc56fd0d173db0752c51234864d7261c",
+     "offset": 77962,
+     "list_length": 133,
+     "absent": 133,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "cb4ee0f756b68a17df5999ac5483831f9f13dfb32c7d3c0b60f015f0b6a81c0d",
+     "offset": 83012,
+     "list_length": 127,
+     "absent": 118,
+     "absent_share": 0.9291338582677166
+    },
+    {
+     "eventID_sha256": "6b3500ee9d971d218e025fa98fd47adac8a0b4009083dd4daa55f8806bc9ac3f",
+     "offset": 8052,
+     "list_length": 94,
+     "absent": 91,
+     "absent_share": 0.9680851063829787
+    },
+    {
+     "eventID_sha256": "894e0d493773a75c272497245bb8b95326b5ed048a364c14ba47f8378fa8a605",
+     "offset": 13157,
+     "list_length": 132,
+     "absent": 120,
+     "absent_share": 0.9090909090909091
+    },
+    {
+     "eventID_sha256": "31422962f6852118762ffefb2d263ac212a8b4028eec4f4fe469a925dcf59774",
+     "offset": 4135,
+     "list_length": 94,
+     "absent": 94,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "8c6019f71d152d06d95b2d635011c954a098b05394a0fe57618340b3b3359bb1",
+     "offset": 33791,
+     "list_length": 124,
+     "absent": 119,
+     "absent_share": 0.9596774193548387
+    },
+    {
+     "eventID_sha256": "b57209b116f5c3350c055846ef0bcb6bcd2bf35034325bba944af1248eeb660f",
+     "offset": 54804,
+     "list_length": 95,
+     "absent": 91,
+     "absent_share": 0.9578947368421052
+    },
+    {
+     "eventID_sha256": "123fdd093131d9bbc39445c5d072136813dbc2273b982a8136dc652a7e0f3c0d",
+     "offset": 61754,
+     "list_length": 133,
+     "absent": 131,
+     "absent_share": 0.9849624060150376
+    },
+    {
+     "eventID_sha256": "ed8fcbe775f590605fb0ecfe89c54489ba85b48c8045f31cf338818bc42139ae",
+     "offset": 28562,
+     "list_length": 96,
+     "absent": 89,
+     "absent_share": 0.9270833333333334
+    },
+    {
+     "eventID_sha256": "9c2cb0090365b766c0e914cd4e595fd5221cdf60355ddd40fcdc621d75928cd5",
+     "offset": 64601,
+     "list_length": 134,
+     "absent": 131,
+     "absent_share": 0.9776119402985075
+    },
+    {
+     "eventID_sha256": "1d46caa0346c683c9ab0b10159df91a0e6f0ae89759632cef86746f5dd466a52",
+     "offset": 5271,
+     "list_length": 94,
+     "absent": 93,
+     "absent_share": 0.9893617021276596
+    }
+   ],
+   "list_length_mode": 94,
+   "units_at_mode": 5,
+   "list_length_min": 94,
+   "list_length_median": 125.0,
+   "list_length_max": 143,
+   "absent_share_median": 0.969117180057161
+  },
+  "F": {
+   "datasetKey": "d59ccafb-251e-46cf-9319-37b58d88e7c5",
+   "total": 8817270,
+   "absent": 8219373,
+   "present": 597897,
+   "names_absent": 518,
+   "names_present": 516,
+   "facet_limit": 100000,
+   "facet_capped": false,
+   "names_any": 518,
+   "never_found_names": 2,
+   "never_found_absences": 72870,
+   "never_found_share_of_absences": 0.008865639751353297,
+   "never_found_sum_check": 55852244,
+   "never_found": [
+    {
+     "taxonKey": "2751406",
+     "absent": 36435,
+     "name": "Gagea Salisb."
+    },
+    {
+     "taxonKey": "7699",
+     "absent": 36435,
+     "name": "Liliaceae"
+    }
+   ],
+   "never_found_rest": [],
+   "protocol_facet": [
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2019.pdf",
+     291368
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2024.pdf",
+     289674
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_faltinstruktion_2015_hela.pdf",
+     288706
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2005.pdf",
+     287254
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2020.pdf",
+     287012
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_faltinstruktion_2010_hela.pdf",
+     285076
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2014.pdf",
+     285076
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2018.pdf",
+     283866
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2023.pdf",
+     283624
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2009.pdf",
+     281204
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/rikstax1996.pdf",
+     280236
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2013.pdf",
+     279510
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2021.pdf",
+     279510
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2003.pdf",
+     278784
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2008.pdf",
+     278784
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2004.pdf",
+     278300
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2022.pdf",
+     278300
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_fin_2016.pdf",
+     276364
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_faltinstruktion_2011_hela.pdf",
+     275396
+    ],
+    [
+     "https://www.slu.se/globalassets/ew/org/centrb/rt/dokument/faltinst/ris_faltinstruktion_2012_hela.pdf",
+     272734
+    ]
+   ],
+   "no_unit_draws": 0,
+   "units": [
+    {
+     "eventID_sha256": "38bdc28e1a586b10858be9b6d172325dc713da7f5bfe9984f431945ecf9b18c0",
+     "offset": 2600,
+     "list_length": 242,
+     "absent": 242,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "1b50132d41a612f31dee629d98167d59b3477602c649c1d1a2eb31a5645e7d66",
+     "offset": 89765,
+     "list_length": 242,
+     "absent": 220,
+     "absent_share": 0.9090909090909091
+    },
+    {
+     "eventID_sha256": "73726e0dc42fea528f9be701c5c506c0ea2249f4aceea07efe51e6190f450f3d",
+     "offset": 42582,
+     "list_length": 242,
+     "absent": 219,
+     "absent_share": 0.9049586776859504
+    },
+    {
+     "eventID_sha256": "607518da995377208a9a8fa9e931d2ef12bd9c377fa54518fa640fb269014e1f",
+     "offset": 29878,
+     "list_length": 242,
+     "absent": 232,
+     "absent_share": 0.9586776859504132
+    },
+    {
+     "eventID_sha256": "82651f36fd9529fc43ad2db6dec1984511947843a86029497f4c1ccf0f73997e",
+     "offset": 50909,
+     "list_length": 242,
+     "absent": 231,
+     "absent_share": 0.9545454545454546
+    },
+    {
+     "eventID_sha256": "b05ec6619393cd0d76cc90302d1f44b0aef161a55a65c03034180f6b386c6c72",
+     "offset": 71233,
+     "list_length": 242,
+     "absent": 220,
+     "absent_share": 0.9090909090909091
+    },
+    {
+     "eventID_sha256": "10c23c93f093a58da02e94cbc841f88828e2b54d0d4b4c76a08d6167d48a45ff",
+     "offset": 60691,
+     "list_length": 242,
+     "absent": 228,
+     "absent_share": 0.9421487603305785
+    },
+    {
+     "eventID_sha256": "af203c8f5e25449aeb6c4b989ca7a0d7ff7d73030331ad758acbfc2b0c6cf0d8",
+     "offset": 35768,
+     "list_length": 242,
+     "absent": 202,
+     "absent_share": 0.8347107438016529
+    },
+    {
+     "eventID_sha256": "2008a9daf1069a7e4d760b6d2b1d50009b2a788637c4a12be42d9bccfb30fe18",
+     "offset": 76971,
+     "list_length": 242,
+     "absent": 242,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "88eef0677f8c10cadc2ef204014afb33b1c0ff53ca440197ea5be9ecbb3742a6",
+     "offset": 42462,
+     "list_length": 242,
+     "absent": 242,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "22a2e4950bd1349ff6b9fe94b30a3b5155169dd464277c6799771ab929b16d3a",
+     "offset": 29534,
+     "list_length": 242,
+     "absent": 203,
+     "absent_share": 0.8388429752066116
+    },
+    {
+     "eventID_sha256": "8574e5d7a4fe89c498a1db987a470ad5cb809f7732e04d25bec7156fb40fb3e6",
+     "offset": 17532,
+     "list_length": 242,
+     "absent": 232,
+     "absent_share": 0.9586776859504132
+    },
+    {
+     "eventID_sha256": "70ebf1963882e9f06ea4e4a647e1f18c48aa3b53082f5cccf83bc9b5a2ad7852",
+     "offset": 61257,
+     "list_length": 242,
+     "absent": 225,
+     "absent_share": 0.9297520661157025
+    },
+    {
+     "eventID_sha256": "0adf4e43d1f22234e3cfd59e844bfd5f189087808302cae82e800135aefd1fee",
+     "offset": 59878,
+     "list_length": 242,
+     "absent": 242,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "7918ebb40b6d184d4f128c99013d3374d1a5e8e363d17480b7cedb5e8a416be5",
+     "offset": 85802,
+     "list_length": 242,
+     "absent": 218,
+     "absent_share": 0.9008264462809917
+    },
+    {
+     "eventID_sha256": "95201337d7207fda4475b58d74d3af090e5a66e2cc1402644eec0ee07b7cbd70",
+     "offset": 6657,
+     "list_length": 242,
+     "absent": 230,
+     "absent_share": 0.9504132231404959
+    },
+    {
+     "eventID_sha256": "c74a647012b9f7ed8f5ebb69c22802b4a637b118e2fff4ea938ad692a107182d",
+     "offset": 47525,
+     "list_length": 242,
+     "absent": 220,
+     "absent_share": 0.9090909090909091
+    },
+    {
+     "eventID_sha256": "081fa27e500125c24ef997cb85aeb94c5ad3fcde6631f2cd6ac7cc62fd8a0702",
+     "offset": 38128,
+     "list_length": 242,
+     "absent": 242,
+     "absent_share": 1.0
+    },
+    {
+     "eventID_sha256": "dd5f64f1db556c45a5dff6cd7564c827ba430f929b9822e3b3e4126789262e8c",
+     "offset": 30049,
+     "list_length": 242,
+     "absent": 230,
+     "absent_share": 0.9504132231404959
+    },
+    {
+     "eventID_sha256": "b36ac6a9dc07360361297442ae0de8cc65cdbadad2d79afcbd7a1e1534f69075",
+     "offset": 81546,
+     "list_length": 242,
+     "absent": 225,
+     "absent_share": 0.9297520661157025
+    }
+   ],
+   "list_length_mode": 242,
+   "units_at_mode": 20,
+   "list_length_min": 242,
+   "list_length_median": 242.0,
+   "list_length_max": 242,
+   "absent_share_median": 0.9462809917355373
+  }
+ },
+ "predictions": {
+  "P1 fixed list (>=15 of 20 units share a list length), per dataset": {
+   "S": true,
+   "K": false,
+   "F": true
+  },
+  "P2 S median unit >= 95 % absent": true,
+  "P3 each holds a never-found name": {
+   "S": true,
+   "K": true,
+   "F": true
+  },
+  "P4 S never-found >= 10 % of its absences": true,
+  "P5 reading (b) agrees with P1 in >= 2 of 3": {
+   "per_dataset": {
+    "S": true,
+    "K": true,
+    "F": true
+   },
+   "held": true
+  }
+ },
+ "finished_utc": "2026-10-24T01:08:37Z"
+}

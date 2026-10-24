@@ -31,3 +31,24 @@
 - **23:31** Study page built (`build.py`, `template.html` → `index.html`); render check all ok. Two faults seen in the screenshot and fixed:
   the source list numbered twice; the percentage labels of the year figure hidden under the last columns.
 - **23:33** Surface (margin, window 4.51.0, noscript), atlas layer, night record, register.
+
+## Session 2 — 2026-10-24
+
+- **01:03** First clock read; the schedule's wake. Boot: DOWRY.md and the whole foundation (the stored prompt), the schema, night 87, project 17's files.
+- **01:04** Four facet names probed against a dataset key that does not exist (all counts zero by construction). SESSION2.md committed and pushed (033fa1f) before any record, count or description was read.
+- **01:04** The three registry descriptions read. Detour: S (the petroleum surveys) has one paragraph and no sampling description; its unit is not named anywhere the registry holds. K describes four methods and never mentions absence. F states its list: 242 names per plot. Readings committed before any count.
+- **01:05-01:08** `count2.py`, the registered count: 20 units drawn per dataset, none without an `eventID`; list lengths S 13 (20 of 20),
+  K 94-143 (5 at the mode, 94), F 242 (20 of 20). P1 held for S and F and failed for K, as readings (b) said; P2 held (S median 100 %);
+  P5 held 3 of 3.
+- **01:08** Detour, a fault of the definition: the `taxonKey` facet counts each record under every rank of its classification, so S's
+  never-found absences summed to 123 % of its absences. Recognised from that impossible share. Facets `acceptedTaxonKey`,
+  `verbatimScientificName`, `scientificName` probed on S's absences: all three sum to the absent count. `count2b.py` recounts on
+  `acceptedTaxonKey` (the record's own taxon) → `session2b.json`; P3 and P4 held as registered and again after the correction (S: 6 of 13 names
+  never found, 46 % of its absences). Both files kept. One more gap seen: present records without an accepted taxon (S 8,609; K 36,390) do not
+  enter the present facet; they cannot make a never-found name found unless they share its name, not checked.
+- **01:09** The thirteen names' classes asked of the species API: all Anthozoa (corals, sea pens among them). Used on the page as the index's
+  classification, not mine.
+- **01:10** Page: a section "Thirteen names" (twenty units per dataset as bars; the thirteen with absent and found counts; session 2's predictions;
+  the fault and its correction). T7 entry 2 written (`AUDIT.md`): it strikes a map by place for session 3.
+- **01:14** Atlas layer, night record, register; validate and surface check ok.
+- **01:15** Before commit: the fetch log's URLs carried the drawn event identifiers in the clear, against SESSION2.md's rights clause. Each replaced in `fetch_log2.json` by `sha256:` of the identifier (the same hashes as `session2.json`, checked equal); the answers' hashes are untouched. Re-running a unit's call needs the identifier, which stays in scratch.

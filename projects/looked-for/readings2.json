@@ -1,0 +1,30 @@
+{
+ "read_utc": "2026-10-24T01:05Z",
+ "source": "GBIF registry /v1/dataset/{key}, fields description and samplingDescription, read before any count of this session",
+ "registry_sha256": {
+  "S b6b4502f-ffc8-4048-a91b-af502288faa8": "84e9238bb81d15941a9686643a6da77aef3e88a6f2f882fea9c29e2d246bf990",
+  "K 154d6192-bea0-4bcb-ab58-1c573081591d": "3507a461a12a1b38778adf60dd4284280d5cb14994ab41777ac10995df0c5aa3",
+  "F d59ccafb-251e-46cf-9319-37b58d88e7c5": "c43400a5bcbd7617cc7416641ac5f6b374b47121fd359e1f72fdf0d48f6c6b67"
+ },
+ "estimate": true,
+ "readings": {
+  "S": {
+   "a_unit": "not stated. One paragraph: visual surveys of the seabed made for petroleum activity, mainly legally required; no sampling description. The unit (a video line, a frame, a station) is not named.",
+   "b_list": "fixed (weakly): the stated purpose is to map presence and extent of species and habitats on the Norwegian red list and OSPAR's list of threatened and/or declining habitats, which reads as a target list checked at every unit.",
+   "c_names_per_unit": "not stated",
+   "predicts_P1": "hold"
+  },
+  "K": {
+   "a_unit": "a transect at a site: fish 2 x 2 x 30 m (120 m3), benthic swath 2 x 30 m (60 m2), point contact on the same 30 m line; 6 to 12 replicate transects per site, fewer at narrow beds; four methods, four programmes.",
+   "b_list": "not one list: densities of 'all conspicuous fishes' and of algae and invertebrates by size cut-offs 'described in the taxonomic table'; absence is not mentioned. If absences are written, they come from a table that differs by method and by region ('Superlayer classifications vary by survey region'), so units of different methods carry different lists.",
+   "c_names_per_unit": "not stated",
+   "predicts_P1": "fail"
+  },
+  "F": {
+   "a_unit": "a circular plot of radius 5.64 m (about 100 m2), visited every 10th year; it 'can be divided into smaller parts' where a land-use or stand edge crosses it.",
+   "b_list": "fixed, stated: 'presence/absence data for 242 species/species groups (18 ground layer species, 187 field layer species and 37 tree/shrub layer species)'; 'Species that were detected are recorded as present, species that were not detected are recorded as absent' for 'a specified list'.",
+   "c_names_per_unit": "242 (stated); a divided plot may carry 242 per part",
+   "predicts_P1": "hold"
+  }
+ }
+}
