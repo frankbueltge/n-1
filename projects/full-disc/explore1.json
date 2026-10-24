@@ -1,0 +1,175 @@
+{
+ "first_offset_top20": [
+  {
+   "frames": 150,
+   "discs": 1071835
+  },
+  {
+   "frames": 182,
+   "discs": 68726
+  },
+  {
+   "frames": 183,
+   "discs": 43211
+  },
+  {
+   "frames": 187,
+   "discs": 9759
+  },
+  {
+   "frames": 180,
+   "discs": 5508
+  },
+  {
+   "frames": 225,
+   "discs": 5260
+  },
+  {
+   "frames": 151,
+   "discs": 3686
+  },
+  {
+   "frames": 200,
+   "discs": 2881
+  },
+  {
+   "frames": 300,
+   "discs": 1615
+  },
+  {
+   "frames": 188,
+   "discs": 1014
+  },
+  {
+   "frames": 175,
+   "discs": 682
+  },
+  {
+   "frames": 152,
+   "discs": 611
+  },
+  {
+   "frames": 165,
+   "discs": 518
+  },
+  {
+   "frames": 222,
+   "discs": 426
+  },
+  {
+   "frames": 160,
+   "discs": 408
+  },
+  {
+   "frames": 212,
+   "discs": 397
+  },
+  {
+   "frames": 155,
+   "discs": 375
+  },
+  {
+   "frames": 750,
+   "discs": 372
+  },
+  {
+   "frames": 192,
+   "discs": 324
+  },
+  {
+   "frames": 210,
+   "discs": 323
+  }
+ ],
+ "first_offset_150": 1071835,
+ "first_offset_under_150": 343,
+ "first_offset_151_to_224": 144753,
+ "first_offset_225_or_more": 9610,
+ "first_offset_225_or_more_median_seconds": 1.0,
+ "leadout_past_99_59_74": 84,
+ "leadout_past_examples": [
+  {
+   "discid": "xeqMu7KxNP4oHfUqP5N36qXxueA-",
+   "tracks": 10,
+   "leadout": 148517566,
+   "seconds": 1980232.21
+  },
+  {
+   "discid": "3VikuvdnWzPEQuhnyRxWlWDGAxU-",
+   "tracks": 18,
+   "leadout": 3582244,
+   "seconds": 47761.25
+  },
+  {
+   "discid": "2VNH_tX_IVWuZevoIavbTOtTpkI-",
+   "tracks": 12,
+   "leadout": 1945446,
+   "seconds": 25937.28
+  },
+  {
+   "discid": "32UGkTB7dGcx.1aAcQgTwR3j5Mc-",
+   "tracks": 7,
+   "leadout": 1496184,
+   "seconds": 19947.12
+  },
+  {
+   "discid": "1tA627R5iIrXTwpWRRXtNGmjYkA-",
+   "tracks": 12,
+   "leadout": 1346305,
+   "seconds": 17948.73
+  },
+  {
+   "discid": "uj6ZT4PjID9NcVwpCetkFflHHzM-",
+   "tracks": 12,
+   "leadout": 1275878,
+   "seconds": 17009.71
+  },
+  {
+   "discid": "1ZUSE9SzFW_.Q08S7VIuFQf1kOA-",
+   "tracks": 12,
+   "leadout": 1238023,
+   "seconds": 16504.97
+  },
+  {
+   "discid": "5Jb8LcqFGwJvAVKrnfHrNMxA_HY-",
+   "tracks": 1,
+   "leadout": 1143151,
+   "seconds": 15240.01
+  },
+  {
+   "discid": "gXOeAcAw8SOIUy9tlMs4EoxawSg-",
+   "tracks": 15,
+   "leadout": 1136895,
+   "seconds": 15156.6
+  },
+  {
+   "discid": "Cd4FUzfPCcBXwjcRthH0MwEAwU0-",
+   "tracks": 10,
+   "leadout": 1127729,
+   "seconds": 15034.39
+  }
+ ],
+ "over_80_by_minute": {
+  "80": 1534,
+  "81": 773,
+  "82": 435,
+  "83": 259,
+  "84": 208,
+  "85": 184,
+  "86": 170,
+  "87": 121,
+  "88": 69,
+  "89": 93,
+  "90": 9,
+  "91": 2,
+  "92": 4,
+  "93": 3,
+  "94": 4,
+  "95": 3,
+  "96": 1,
+  "97": 1,
+  "99": 3,
+  "100": 83
+ },
+ "n": 1226541
+}
