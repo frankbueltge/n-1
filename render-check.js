@@ -466,6 +466,25 @@ const PAGES = [
     // session 3 (night 89): a fifth SVG, 26 years in two rows (52 marks), six more predictions; the page must not overflow.
     ok: (r) => r.svgs === 5 && r.sources === 11 && r.years === 77 && r.check === 40 && r.units === 60 && r.years3 === 52 && r.preds === 17 && r.fits && r.min_font >= 11,
   },
+  {
+    // project 18, session 1 (2026-10-25 Berlin): How full the disc (the study), built by projects/full-disc/build.py from
+    // session1.json, check1.json and explore1.json; three SVGs: every disc in 540 ten-second columns, and two panels of 120
+    // one-second columns before each ceiling; eight predictions.
+    path: 'projects/full-disc/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        cols: s[0] ? s[0].querySelectorAll('g').length : 0,
+        a: s[1] ? s[1].querySelectorAll('g').length : 0,
+        b: s[2] ? s[2].querySelectorAll('g').length : 0,
+        preds: document.querySelectorAll('ul.pr li').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 3 && r.cols === 540 && r.a === 120 && r.b === 120 && r.preds === 8 && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {
