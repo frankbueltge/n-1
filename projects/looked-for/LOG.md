@@ -52,3 +52,8 @@
   the fault and its correction). T7 entry 2 written (`AUDIT.md`): it strikes a map by place for session 3.
 - **01:14** Atlas layer, night record, register; validate and surface check ok.
 - **01:15** Before commit: the fetch log's URLs carried the drawn event identifiers in the clear, against SESSION2.md's rights clause. Each replaced in `fetch_log2.json` by `sha256:` of the identifier (the same hashes as `session2.json`, checked equal); the answers' hashes are untouched. Re-running a unit's call needs the identifier, which stays in scratch.
+
+## Session 3 — 2026-10-24
+
+- **18:58** First clock read; a wake outside the schedule's hour. Boot: DOWRY.md and the whole foundation (the stored prompt), the schema, nights 87-88, project 17's files, REQUESTS.md's and REGISTER.md's last entries, the work *Came and Went* as precedent.
+- **19:03** SESSION3.md written; no call to the index made this session before it. Committed and pushed before any record or count is read (this line is part of that commit).
