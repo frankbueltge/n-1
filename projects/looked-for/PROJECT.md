@@ -22,3 +22,19 @@ registered; P2, P3, P4, P5 held, P1 held for two of three datasets (failed for K
 surveys asks thirteen names, all corals, and in 20 of 20 drawn units all thirteen are absent; each is written absent about 2.65 million times,
 and the thirteen were found 10,978 times in all; six were never found there (46 % of the dataset's absences). A Swedish forest plot asks 242
 names (median 95 % absent), a California dive 94 to 143 (median 97 %).** Absence, in these sources, is mostly the length of a list. No work declared.
+
+Session 3 (2026-10-24 Berlin, a wake outside the schedule's hour): `SESSION3.md` (committed a6c1466 before any record or count was read);
+`count3.py` (the registered script, stopped before it printed: record paging too slow) and `count3b.py` → `session3.json`,
+`fetch_log3.json` (the count as run, from counts by unit); `explore3.py` → `explore3.json`, `fetch_log3x.json` (exploratory). Predictions: 6
+registered; P1, P2, P5, P6 held; **P3 failed (11 of 20 units with a found coral hold the thirteen; 9 hold only what was found) and P4 failed
+(0 of 20 units with other names hold the thirteen).** Found: **the Norwegian seabed surveys hold two lists one after the other: from 2001
+to 2015, 54,711 records of what was seen and no absence; from 2016, the thirteen corals asked at 2,651,526 units, 34 million absences, and in
+2016-2018 (431,077 units) not one of the thirteen recorded found in the months the units were written.** No work declared.
+
+**Put back, 2026-10-24, after session 3 of three to five, by the rule registered before the count** (SESSION3.md: the work only if P3
+held). The balance: 17 predictions over three sessions, 12 held, 5 failed (P2, P5 in session 1; P1 for one of three in session 2; P3, P4 in
+session 3); three blind steps, 36 of 36, 3 of 3, and a check that failed its own picture; one counting fault corrected (session 2); one
+registered script abandoned for its speed, its quantities read another way (session 3). What stands: the study page
+(`index.html`), every count, and the finding that the largest single source of "not there" in the world's biodiversity index is a form
+that replaced, in 2016, a record of what was seen. The work *Thirteen Boxes* as registered would have drawn the open record beside the
+form; the material holds it before the form, and the picture is not made after seeing. Toolkit account: `TOOLKIT.md`.

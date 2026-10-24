@@ -1,0 +1,27 @@
+[
+ {
+  "url": "https://api.gbif.org/v1/occurrence/search?limit=0&facet=year&facetLimit=1000&datasetKey=b6b4502f-ffc8-4048-a91b-af502288faa8&occurrenceStatus=PRESENT",
+  "utc": "2026-10-24T19:19:03Z",
+  "sha256": "e1dbf0bb980aa958075ea9d1b36ce39f990e444a203376b8396fda40535f2d4d"
+ },
+ {
+  "url": "https://api.gbif.org/v1/occurrence/search?limit=0&facet=year&facetLimit=1000&datasetKey=b6b4502f-ffc8-4048-a91b-af502288faa8&occurrenceStatus=ABSENT",
+  "utc": "2026-10-24T19:19:04Z",
+  "sha256": "db895ae60cad70c62deda1cc74b3a206461593f42810217da8d3245e1b7acf34"
+ },
+ {
+  "url": "https://api.gbif.org/v1/occurrence/search?limit=0&facet=year&facetLimit=1000&datasetKey=b6b4502f-ffc8-4048-a91b-af502288faa8&occurrenceStatus=PRESENT&acceptedTaxonKey=11711225&acceptedTaxonKey=2260018&acceptedTaxonKey=2262473&acceptedTaxonKey=2263005&acceptedTaxonKey=5184461&acceptedTaxonKey=5184878&acceptedTaxonKey=11059991&acceptedTaxonKey=2260584&acceptedTaxonKey=5184444&acceptedTaxonKey=2259417&acceptedTaxonKey=5185297&acceptedTaxonKey=9783587&acceptedTaxonKey=2262087",
+  "utc": "2026-10-24T19:19:05Z",
+  "sha256": "81e7894a96c0a604dc635787558a3099eb83b5de538bc4bc87944d6a0f8fdf08"
+ },
+ {
+  "url": "https://api.gbif.org/v1/occurrence/search?limit=0&facet=basisOfRecord&facetLimit=20&datasetKey=b6b4502f-ffc8-4048-a91b-af502288faa8&occurrenceStatus=PRESENT",
+  "utc": "2026-10-24T19:19:05Z",
+  "sha256": "ad5dd810065a4da6041fed8c2a107cff43d27da0097c6e4dbedf45dc09862c57"
+ },
+ {
+  "url": "https://api.gbif.org/v1/occurrence/search?limit=0&facet=basisOfRecord&facetLimit=20&datasetKey=b6b4502f-ffc8-4048-a91b-af502288faa8&occurrenceStatus=ABSENT",
+  "utc": "2026-10-24T19:19:06Z",
+  "sha256": "896d0438836f8f037058cd586e4b7973ae4c9ab53e58a2572acc213c196d0e21"
+ }
+]

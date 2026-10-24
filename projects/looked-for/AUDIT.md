@@ -58,3 +58,25 @@ looked for some 2.65 million times and found 5,906. Two-sided; the failure crite
 answer, unit by unit. The first plan for session 3 was a map of absences by place (estimate); the audit strikes it, because a map would
 draw the list's length as a landscape. Session 3 is to make the form itself receivable: thirteen boxes, millions of times, and the few
 times one was filled.
+
+## Entry 3 — session 3, 2026-10-24 19:25 UTC (after the registered count)
+
+**What entry 2 got wrong.** It said one dataset holds both regimes, "a closed list that can only say 'not here', and an open one that can
+only say 'here'", and imagined them side by side. The check says they are not side by side: none of 20 units holding names the list does not
+ask holds the list (P4, 0 of 20), and 9 of 20 units with a found coral hold nothing but what was found (P3). By year (`explore3.json`,
+exploratory): from 2001 to 2015 the dataset holds 54,711 records of what was seen and no absence; from 2016 it holds the thirteen at
+2,651,526 units and 34 million absences. **The open record came first; the closed list replaced it.**
+
+**The Boulez question, asked again.** Before 2016 one occupied without counting the space: a seen thing was written, nothing else. From
+2016 one counts in order to occupy: the list is put on every unit before the camera arrives. That is a striation in time, not in space, and
+it is what the index's global count (session 1) reads as a quarter of the world's absences. **Direction of the mixture:** smooth to
+striated, by the survey itself, at a date the dataset's description does not explain (why is not known here; a regulation or a guideline
+is conjecture).
+
+**Translation, both ways.** *Overcoding:* the change of form becomes, in the index, a change in the world: a reader of absences by year
+sees the seabed fill with "not there" in 2016. *Propagation:* the index keeps both regimes under one key, so the date of the change can be
+read at all, and kept the years before it, when the open record was all there was. Two-sided; not triggered.
+
+**What the audit changed.** It changes the put-back's balance: the remainder is not the thirteen boxes (session 2) but the date at which a
+survey stopped writing what it saw and began writing what it asked, which only the two regimes together show. Without the audit (estimate)
+the put-back would have recorded only that P3 failed.

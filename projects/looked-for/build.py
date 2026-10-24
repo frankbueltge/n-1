@@ -109,6 +109,40 @@ pred2 = [("P1", "the same list length in at least 15 of 20 units", "S 20, K %d, 
          ("P5", "my reading of the three descriptions agrees with the count in at least 2 of 3", "3 of 3", P2["P5 reading (b) agrees with P1 in >= 2 of 3"]["held"])]
 plist2 = "".join("<li><b>%s %s.</b> %s: %s.</li>" % (k, ("held" if ok else "failed") if ok is not None else "held for two of three", d, v) for k, d, v, ok in pred2)
 
+
+# session 3: two lists in time (session3.json registered, explore3.json exploratory)
+s3, x3 = json.load(open("session3.json")), json.load(open("explore3.json"))
+C3 = s3["check"]
+f13 = sum(1 for c in C3 if c["kind"] == "filled" and c["names_of_13_held"] == 13)
+m13 = sum(1 for c in C3 if c["kind"] == "margin" and c["names_of_13_held"] == 13)
+assert m13 == 0
+fby, pby, aby, p13 = s3["forms_by_year"], x3["present_by_year"], x3["absent_by_year"], x3["present13_by_year"]
+yrs = list(range(2001, 2027))
+mf, mp = max(fby.values()), max(pby.values())
+cw5 = (W - 2 * X0) / len(yrs)
+g5 = ['<text x="%d" y="14" class="lb">what was seen</text>' % X0, '<text x="%d" y="134" class="lb">units asking the thirteen</text>' % X0]
+for i, yv in enumerate(yrs):
+    k = str(yv); x = X0 + i * cw5
+    p, fo = pby.get(k, 0), fby.get(k, 0)
+    hp, hf = 90 * p / mp, 90 * fo / mf
+    g5.append('<g><title>%d: %s records of what was seen</title><rect x="%.1f" y="%.1f" width="%.1f" height="%.1f" class="s0"/></g>' % (yv, f(p), x, 110 - hp, cw5 - 2, max(hp, 0.6 if p else 0)))
+    g5.append('<g><title>%d: %s units asking the thirteen, %s absences</title><rect x="%.1f" y="%.1f" width="%.1f" height="%.1f" class="bg"/></g>' % (yv, f(fo), f(aby.get(k, 0)), x, 230 - hf, cw5 - 2, max(hf, 0.6 if fo else 0)))
+    if yv % 5 == 0 or yv == 2001:
+        g5.append('<text x="%.1f" y="252" class="yr">%d</text>' % (x, yv))
+fig5 = '<svg class="ch" viewBox="0 0 %d 260" role="img" aria-label="By year, 2001 to 2026: records of what was seen, and units asking thirteen corals">%s</svg>' % (W, "".join(g5))
+ytab = "".join("<tr><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>" % (k, f(fby.get(k, 0)), f(aby.get(k, 0)), f(pby.get(k, 0)), f(p13.get(k, 0)))
+               for k in sorted(set(fby) | set(pby), key=int))
+P3 = s3["predictions"]
+shares = s3["filled_share_by_year_10000"]
+pred3 = [("P1", "the units span at least 10 years", P3["P1 forms span >= 10 years"], "%d years with a unit" % len(fby)),
+         ("P2", "units with a filled box are at most 0.5 % of all", P3["P2 filled forms <= 0.5 % of forms"], "%s units hold a present record of one of the thirteen, %s, and only part of them are units that ask the thirteen" % (f(s3["filled_forms"]), pc(s3["filled_forms"], s3["forms_total"]))),
+         ("P3", "at least 18 of 20 drawn filled units hold all thirteen names", P3["P3 >= 18 of 20 filled forms hold all 13"], "%d of 20" % f13),
+         ("P4", "at least 18 of 20 drawn units with other names hold all thirteen", P3["P4 >= 18 of 20 margin units hold all 13"], "%d of 20" % m13),
+         ("P5", "the share of filled units differs between years by a factor of at least 10", P3["P5 filled share max/min >= 10 (years >= 10,000 forms)"], "from none in 2016-2018 to %.1f %% in 2023" % (100 * shares["2023"])),
+         ("P6", "no unit has more than 3 of its boxes filled", P3["P6 no form has more than 3 filled"], "at most %s" % max(s3["boxes_per_filled_form"], key=int))]
+plist3 = "".join("<li><b>%s %s.</b> %s: %s.</li>" % (k, "held" if ok else "failed", d, v) for k, d, ok, v in pred3)
+open_years = [k for k in pby if int(k) <= 2015 and int(k) > 1900]
+
 page = open("template.html").read()
 for k, v in {"FIG1": fig1, "FIG2": fig2, "FIG3": fig3, "LEGEND": legend, "KIN": kin, "PRED": plist,
              "TOTAL": f(T), "ABSENT": f(A), "SHARE": pc(A, T), "NDS": f(s["absent_datasets"]), "TOP10": "%.0f %%" % (100 * s["absent_top10_share"]),
@@ -117,7 +151,12 @@ for k, v in {"FIG1": fig1, "FIG2": fig2, "FIG3": fig3, "LEGEND": legend, "KIN": 
              "AGREE": "%d of %d" % (r["agree"], r["tellable"]), "READ": s["started_utc"], "Y23": f(Ay["2023"]),
              "FIG4": fig4, "THIRTEEN": thirteen, "PRED2": plist2, "US": f(units_S), "R2": s2["started_utc"],
              "FS": f(sum(a["present"] for a in S2)), "KMIN": str(D2["K"]["list_length_min"]), "KMAX": str(D2["K"]["list_length_max"]),
-             "FMED": "%.0f %%" % (100 * D2["F"]["absent_share_median"]), "KMED": "%.0f %%" % (100 * D2["K"]["absent_share_median"])}.items():
+             "FMED": "%.0f %%" % (100 * D2["F"]["absent_share_median"]), "KMED": "%.0f %%" % (100 * D2["K"]["absent_share_median"]),
+             "F13": str(f13), "FOPEN": str(20 - f13), "OPEN": f(sum(pby[k] for k in open_years)),
+             "NAMESOPEN": "2001 to 2015", "FORMS": f(s3["forms_total"]), "FORMS16": f(sum(c for k, c in fby.items() if int(k) >= 2016)),
+             "FILLEDF": f(sum(c for k, c in s3["filled_forms_by_month"].items())),
+             "FORMS1618": f(sum(fby[k] for k in ("2016", "2017", "2018"))), "FIG5": fig5, "YTAB": ytab, "PRED3": plist3,
+             "REC13": f(s3["thirteen_records_sum"]), "DIFF": f(s3["thirteen_records_sum"] - s3["thirteen_times_forms"]), "R3": s3["started_utc"]}.items():
     page = page.replace("{{%s}}" % k, v)
 assert "{{" not in page
 open("index.html", "w").write(page)
