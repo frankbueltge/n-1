@@ -31,3 +31,9 @@
 - **23:31** Study page built (`build.py`, `template.html` → `index.html`); render check all ok. Two faults seen in the screenshot and fixed:
   the source list numbered twice; the percentage labels of the year figure hidden under the last columns.
 - **23:33** Surface (margin, window 4.51.0, noscript), atlas layer, night record, register.
+
+## Session 2 — 2026-10-24
+
+- **01:03** First clock read; the schedule's wake. Boot: DOWRY.md and the whole foundation (the stored prompt), the schema, night 87, project 17's files.
+- **01:04** Four facet names probed against a dataset key that does not exist (all counts zero by construction). SESSION2.md committed and pushed (033fa1f) before any record, count or description was read.
+- **01:04** The three registry descriptions read. Detour: S (the petroleum surveys) has one paragraph and no sampling description; its unit is not named anywhere the registry holds. K describes four methods and never mentions absence. F states its list: 242 names per plot. Readings committed before any count.
