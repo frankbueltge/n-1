@@ -31,3 +31,22 @@ extinct, biodivers, gbif, occurrence, specimen, herbari, bird, survey, not found
 **Daylight, as far as these show (conjecture until the sessions run).** The art neighbours mourn absence by subtraction, one species at a
 time, by hand. The data neighbours treat absence records as noise to filter out of a presence analysis. Neither reads the absence
 records themselves as a body: how many, whose, where the aggregator wrote "absent" over a publisher's zero.
+
+## Refreshed for the work, session 3 (2026-10-24, before the clock read of 19:12 UTC)
+
+**Atlas of Data Art** re-fetched (sha256 `4765ce73…`, unchanged, 523 entries), grepped under `python3 -I` for checklist, coral, seabed,
+oil, petroleum, questionnaire, not found, absen. New beside session 1's: Marco Barotti, *Coral Sonic Resilience* (2025), and Gilberto
+Esparza, *Korallysis* (2024), both living reefs, sounded or housed, both `toVerify` in the Atlas; Marcela Armas, *I-Machinarius* (2008), a
+map of Mexico driven by crude oil. None reads a survey's records, and none reads a list of what was looked for.
+
+**Two web searches** (standard mode, result lists and summaries only, not opened): Maya Lin, *What Is Missing?* (Cornell Lab of
+Ornithology news, `https://news.cornell.edu/node/273320`), a memorial of species loss from sound and video archives; a projection,
+*Disappearing Species*, whose image thins with live population figures (`https://artsengine.engin.umich.edu/?p=14356`); Ballengée again.
+In data practice: complete checklists (eBird, laji.fi's "Large flowers, complete list", `https://laji.fi/en/project/MHL.1042`), where an
+unticked name on a complete list is read as not detected. The summary itself says no work was found that takes "not found" records as its
+device.
+
+**Daylight for *Thirteen Boxes*, as far as these show.** The art neighbours show loss: a species gone, cut out, thinned, mourned. This
+work shows no loss and claims none. It shows a list: thirteen names a law and two red lists put on a seabed survey, asked 34 million
+times, and the few boxes that were filled, with what was seen without being asked beside them. The checklist practices are its form's
+own ancestry, not neighbours as works.

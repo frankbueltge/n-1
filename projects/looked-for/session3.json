@@ -1,0 +1,973 @@
+{
+ "started_utc": "2026-10-24T19:15:55Z",
+ "dataset": "b6b4502f-ffc8-4048-a91b-af502288faa8",
+ "counter_taxon": "11711225",
+ "forms_total": 2651527,
+ "forms_by_year": {
+  "1899": 1,
+  "2016": 148570,
+  "2017": 217936,
+  "2018": 64571,
+  "2021": 60,
+  "2022": 218689,
+  "2023": 282730,
+  "2024": 831661,
+  "2025": 587219,
+  "2026": 300090
+ },
+ "forms_by_month": {
+  "1899-12": 1,
+  "2016-09": 148570,
+  "2017-06": 158059,
+  "2017-09": 59877,
+  "2018-03": 33118,
+  "2018-04": 14711,
+  "2018-05": 16742,
+  "2021-05": 60,
+  "2022-05": 90427,
+  "2022-06": 118865,
+  "2022-07": 3754,
+  "2022-08": 3784,
+  "2022-09": 1684,
+  "2022-10": 150,
+  "2022-11": 25,
+  "2023-01": 410,
+  "2023-02": 1566,
+  "2023-03": 74841,
+  "2023-04": 75411,
+  "2023-05": 80653,
+  "2023-06": 297,
+  "2023-08": 8939,
+  "2023-09": 6881,
+  "2023-10": 33413,
+  "2023-11": 2,
+  "2023-12": 317,
+  "2024-01": 56,
+  "2024-05": 131855,
+  "2024-06": 133834,
+  "2024-07": 147,
+  "2024-08": 93126,
+  "2024-09": 38806,
+  "2024-10": 264864,
+  "2024-11": 168971,
+  "2024-12": 2,
+  "2025-03": 20062,
+  "2025-04": 55,
+  "2025-05": 5349,
+  "2025-06": 94666,
+  "2025-07": 424930,
+  "2025-09": 117,
+  "2025-11": 42040,
+  "2026-01": 55,
+  "2026-03": 61316,
+  "2026-04": 158756,
+  "2026-06": 28551,
+  "2026-07": 51412
+ },
+ "forms_year_facet_sum": 2651527,
+ "forms_month_facet_sum": 2651527,
+ "thirteen_records_any_status": {
+  "11711225": 2651527,
+  "2260018": 2651526,
+  "2262473": 2651526,
+  "2263005": 2651526,
+  "5184461": 2651556,
+  "5184878": 2651526,
+  "11059991": 2651524,
+  "2260584": 2651536,
+  "5184444": 2651384,
+  "2259417": 2651351,
+  "5185297": 2649665,
+  "9783587": 2654867,
+  "2262087": 2650766
+ },
+ "thirteen_records_sum": 34470280,
+ "thirteen_times_forms": 34469851,
+ "check": [
+  {
+   "kind": "filled",
+   "event": "sha256:c78b1cd27320fab36256913be3ed0df79d493030970d32010ae34b33f32fb711",
+   "records": 1,
+   "by_status": {
+    "PRESENT": 1
+   },
+   "names_of_13_held": 1,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:cae41fdd8542821e86e7b19d7162ec30bcd3c88b3e76e2d61aa79c74aba8761f",
+   "records": 1,
+   "by_status": {
+    "PRESENT": 1
+   },
+   "names_of_13_held": 1,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:88977399be8a1a6081a78221f879065cb30e2df63d9f8c78c7409c839efa2d73",
+   "records": 1,
+   "by_status": {
+    "PRESENT": 1
+   },
+   "names_of_13_held": 1,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:98000e5db765450b7e48479d8096a1a4627c08bd969d659106df133edada124b",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:9894287e89560cd06b0633094ae23df1a9115b9eccacd694609c32603461d6a8",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:787514fcc2a9e2e679ded6499abf68e85862426414cdf6c5d6bc7c05cd5e255b",
+   "records": 1,
+   "by_status": {
+    "PRESENT": 1
+   },
+   "names_of_13_held": 1,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:2167abe26c0836effd729b1058bdd3f9d8ca38965a97d335ac8faa4a57290a86",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:7552f71d1ffc7bf0af53c2e6029f70e88858237f4280cedef15b6eafe4c038ae",
+   "records": 3,
+   "by_status": {
+    "PRESENT": 3
+   },
+   "names_of_13_held": 1,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:b82e253f741db38fbb54fac674d17d4cc69efc4b2f3fec0e0dea26e0a9e12258",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:7de8b4504549921207fa87ffd812573fa17c43293138dec65955023074d81afb",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:35c086e46a16feea7f8da8a93c1ba8ed5fa51870b3e7f8c807a69683e003c50b",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:43af45f2db65e956b17f3325a37699cdd349a55b4f55bff477fdcf3f1bca2237",
+   "records": 4,
+   "by_status": {
+    "PRESENT": 4
+   },
+   "names_of_13_held": 2,
+   "other_names": 2
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:541b13fc739d0cc41a2145b1330d1e71b68d9b39212e95ce8a79dfd8e7e11742",
+   "records": 4,
+   "by_status": {
+    "PRESENT": 4
+   },
+   "names_of_13_held": 1,
+   "other_names": 3
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:66cc5d46e31b0f4cd91b3799324e13f7448ed7f8e71ec5dd29bd90c95825d370",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:adacf2e5cd736030d1f3f6f8f539976e77c08233150c44070cac3b4c949879ab",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:6159a171a2a0febfa822ffb7fc089f0e453e716bde66972c0513db5f72de2948",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:1c9a6d1280d2e603eec02b06d9c8dfd7b9b8eda9cd382c32e59a7e90696a0aa0",
+   "records": 1,
+   "by_status": {
+    "PRESENT": 1
+   },
+   "names_of_13_held": 1,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:e84c152a7d6e158aa8afd78681e9cc1d89b2ef83bcb532d3fe5009f0f6e2e81d",
+   "records": 4,
+   "by_status": {
+    "PRESENT": 4
+   },
+   "names_of_13_held": 1,
+   "other_names": 3
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:e0aa5ebb57b7ee11c626669a063a8b09066627e79908cad0c0ec0a0693c850d5",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "filled",
+   "event": "sha256:c033dd3c6c8af51a66a4386815593496a3352df0d78a2844bdad17e30b7e4b83",
+   "records": 13,
+   "by_status": {
+    "ABSENT": 12,
+    "PRESENT": 1
+   },
+   "names_of_13_held": 13,
+   "other_names": 0
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:7b07503a71c815d5a40f1cdf7553964f8b227bee9a128b69d636359a47adf15b",
+   "records": 4,
+   "by_status": {
+    "PRESENT": 4
+   },
+   "names_of_13_held": 0,
+   "other_names": 4
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:15f878576f9a87e4cd8c4f41456267f67a08fce179f907f3d3a6beb8434df1a2",
+   "records": 5,
+   "by_status": {
+    "PRESENT": 5
+   },
+   "names_of_13_held": 0,
+   "other_names": 5
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:bb8e3f8fa2507ddb58d909e26bce650585a3c27bbda391c5fec918b6eac7c8bf",
+   "records": 2,
+   "by_status": {
+    "PRESENT": 2
+   },
+   "names_of_13_held": 0,
+   "other_names": 2
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:26103a5a7e8bffd85a119707c65b7ead8ee2d5e4739d619cad6bb580dc42ce47",
+   "records": 1,
+   "by_status": {
+    "PRESENT": 1
+   },
+   "names_of_13_held": 0,
+   "other_names": 1
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:26012ddd13d43a73522d31ceb3ff110950d3446798bfec1beac91f0f50949480",
+   "records": 2,
+   "by_status": {
+    "PRESENT": 2
+   },
+   "names_of_13_held": 0,
+   "other_names": 2
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:3f7f2732f9cdce6264f63e34ea640ecc6e4b3e800e17e91943c4d8fa60b88e36",
+   "records": 2,
+   "by_status": {
+    "PRESENT": 2
+   },
+   "names_of_13_held": 0,
+   "other_names": 2
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:02808c3b7ea74ab1621b16f7066bac6e836150c3f30c025a787d7d501838c2f2",
+   "records": 3,
+   "by_status": {
+    "PRESENT": 3
+   },
+   "names_of_13_held": 0,
+   "other_names": 2
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:05b83b4aa5ff7272ebe1de88863f16b1b74a0cc27b0de6aa4ca9fb2984e88bc5",
+   "records": 7,
+   "by_status": {
+    "PRESENT": 7
+   },
+   "names_of_13_held": 0,
+   "other_names": 5
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:1730f80bf3c24c251998046e1404f2970c2e6f05020a27e74953467e2f5afc41",
+   "records": 7,
+   "by_status": {
+    "PRESENT": 7
+   },
+   "names_of_13_held": 0,
+   "other_names": 7
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:de7d659656260369827f949c080b08e76034d1a3af5a6c861e47cf916b52755a",
+   "records": 1,
+   "by_status": {
+    "PRESENT": 1
+   },
+   "names_of_13_held": 0,
+   "other_names": 0
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:6c7703bdada37d3ae9547f8c8b426a9b055df726eafcbf6898036f6c59cb028c",
+   "records": 4,
+   "by_status": {
+    "PRESENT": 4
+   },
+   "names_of_13_held": 0,
+   "other_names": 3
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:0ef487f8592352d48ebd9e684771f5b6231021c120fcbfab31c481542c25df8a",
+   "records": 6,
+   "by_status": {
+    "PRESENT": 6
+   },
+   "names_of_13_held": 1,
+   "other_names": 5
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:63e3f192ec07d6a218d94529d7e59fb2f376ef50f44645529bba017d989344a3",
+   "records": 6,
+   "by_status": {
+    "PRESENT": 6
+   },
+   "names_of_13_held": 0,
+   "other_names": 4
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:930314f4fdd27d1cfa90645c2416fa70c34bb4d7329c6b283fd7b824022dbd89",
+   "records": 4,
+   "by_status": {
+    "PRESENT": 4
+   },
+   "names_of_13_held": 1,
+   "other_names": 3
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:6269754f7b064f642fe8dc99eac19d4f351a63279ef6b2f85f65b608a098ea36",
+   "records": 4,
+   "by_status": {
+    "PRESENT": 4
+   },
+   "names_of_13_held": 0,
+   "other_names": 2
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:e23d576ae97bd204b0c4c3f484d40e3d61b0236f666d5ded5e15b63827909ed1",
+   "records": 4,
+   "by_status": {
+    "PRESENT": 4
+   },
+   "names_of_13_held": 2,
+   "other_names": 2
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:59c6781e34b3b22e15b2beb49a37fb9afaf764178dfcb938ffcef06e85c634e4",
+   "records": 3,
+   "by_status": {
+    "PRESENT": 3
+   },
+   "names_of_13_held": 0,
+   "other_names": 3
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:b92151e45cbec5cbaec91a636aedc65cfc961258b827c0d11d9ba3647f68e64b",
+   "records": 2,
+   "by_status": {
+    "PRESENT": 2
+   },
+   "names_of_13_held": 0,
+   "other_names": 2
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:3278d85483baf9d922c64d5b53d7f4e79b882a95754de1b343e141b1f401776d",
+   "records": 6,
+   "by_status": {
+    "PRESENT": 6
+   },
+   "names_of_13_held": 0,
+   "other_names": 4
+  },
+  {
+   "kind": "margin",
+   "event": "sha256:643f70c142edd94b1033849201a689e4b5264d84abc02c69be179144448d74b8",
+   "records": 6,
+   "by_status": {
+    "PRESENT": 6
+   },
+   "names_of_13_held": 0,
+   "other_names": 4
+  }
+ ],
+ "present_count_index": 61954,
+ "present_in_units": 61954,
+ "present_units": 23331,
+ "filled_forms": 10316,
+ "filled_boxes": 10785,
+ "boxes_per_filled_form": {
+  "1": 9868,
+  "2": 427,
+  "3": 21
+ },
+ "margin_units": 14894,
+ "margin_units_also_filled": 1879,
+ "margin_records_in_units": 50976,
+ "thirteen": [
+  {
+   "acceptedTaxonKey": "11711225",
+   "name": "Callistephanus pallida (Madsen, 1970)",
+   "asked": 2651527,
+   "present_records": 0,
+   "filled_boxes": 0
+  },
+  {
+   "acceptedTaxonKey": "2260018",
+   "name": "Fungiacyathus fragilis Sars, 1872",
+   "asked": 2651526,
+   "present_records": 0,
+   "filled_boxes": 0
+  },
+  {
+   "acceptedTaxonKey": "2262473",
+   "name": "Anthomastus grandiflorus Verrill, 1878",
+   "asked": 2651526,
+   "present_records": 0,
+   "filled_boxes": 0
+  },
+  {
+   "acceptedTaxonKey": "2263005",
+   "name": "Radicipes gracilis (Verrill, 1884)",
+   "asked": 2651526,
+   "present_records": 0,
+   "filled_boxes": 0
+  },
+  {
+   "acceptedTaxonKey": "5184461",
+   "name": "Desmophyllum dianthus (Esper, 1794)",
+   "asked": 2651556,
+   "present_records": 30,
+   "filled_boxes": 30
+  },
+  {
+   "acceptedTaxonKey": "5184878",
+   "name": "Clavularia arctica Koren & Danielssen, 1883",
+   "asked": 2651526,
+   "present_records": 0,
+   "filled_boxes": 0
+  },
+  {
+   "acceptedTaxonKey": "11059991",
+   "name": "Ptilella grandis (Ehrenberg, 1834)",
+   "asked": 2651524,
+   "present_records": 2,
+   "filled_boxes": 2
+  },
+  {
+   "acceptedTaxonKey": "2260584",
+   "name": "Madrepora oculata Linnaeus, 1758",
+   "asked": 2651536,
+   "present_records": 33,
+   "filled_boxes": 33
+  },
+  {
+   "acceptedTaxonKey": "5184444",
+   "name": "Virgularia glacialis Kölliker, 1870",
+   "asked": 2651384,
+   "present_records": 5,
+   "filled_boxes": 5
+  },
+  {
+   "acceptedTaxonKey": "2259417",
+   "name": "Stenocyathus vermiformis (Pourtalès, 1868)",
+   "asked": 2651351,
+   "present_records": 0,
+   "filled_boxes": 0
+  },
+  {
+   "acceptedTaxonKey": "5185297",
+   "name": "Anthelia fallax Broch, 1912",
+   "asked": 2649665,
+   "present_records": 3,
+   "filled_boxes": 3
+  },
+  {
+   "acceptedTaxonKey": "9783587",
+   "name": "Desmophyllum pertusum (Linnaeus, 1758)",
+   "asked": 2654867,
+   "present_records": 5906,
+   "filled_boxes": 5713
+  },
+  {
+   "acceptedTaxonKey": "2262087",
+   "name": "Paragorgia arborea (Linnaeus, 1758)",
+   "asked": 2650766,
+   "present_records": 4999,
+   "filled_boxes": 4999
+  }
+ ],
+ "present_by_month": {
+  "1899-12": 20,
+  "2016-09": 0,
+  "2017-06": 0,
+  "2017-09": 0,
+  "2018-03": 0,
+  "2018-04": 0,
+  "2018-05": 0,
+  "2021-05": 0,
+  "2022-05": 0,
+  "2022-06": 0,
+  "2022-07": 45,
+  "2022-08": 69,
+  "2022-09": 38,
+  "2022-10": 0,
+  "2022-11": 0,
+  "2023-01": 4,
+  "2023-02": 63,
+  "2023-03": 510,
+  "2023-04": 34,
+  "2023-05": 388,
+  "2023-06": 0,
+  "2023-08": 540,
+  "2023-09": 311,
+  "2023-10": 160,
+  "2023-11": 0,
+  "2023-12": 0,
+  "2024-01": 1,
+  "2024-05": 1375,
+  "2024-06": 115,
+  "2024-07": 0,
+  "2024-08": 174,
+  "2024-09": 98,
+  "2024-10": 210,
+  "2024-11": 82,
+  "2024-12": 0,
+  "2025-03": 0,
+  "2025-04": 0,
+  "2025-05": 0,
+  "2025-06": 439,
+  "2025-07": 1666,
+  "2025-09": 0,
+  "2025-11": 1,
+  "2026-01": 0,
+  "2026-03": 0,
+  "2026-04": 592,
+  "2026-06": 5,
+  "2026-07": 0
+ },
+ "present_dated_sum": 6940,
+ "filled_boxes_by_month": {
+  "1899-12": [
+   [
+    11,
+    20
+   ]
+  ],
+  "2022-07": [
+   [
+    7,
+    9
+   ],
+   [
+    11,
+    24
+   ],
+   [
+    12,
+    12
+   ]
+  ],
+  "2022-08": [
+   [
+    7,
+    11
+   ],
+   [
+    11,
+    27
+   ],
+   [
+    12,
+    31
+   ]
+  ],
+  "2022-09": [
+   [
+    12,
+    38
+   ]
+  ],
+  "2023-01": [
+   [
+    7,
+    1
+   ],
+   [
+    12,
+    3
+   ]
+  ],
+  "2023-02": [
+   [
+    7,
+    2
+   ],
+   [
+    8,
+    2
+   ],
+   [
+    11,
+    8
+   ],
+   [
+    12,
+    51
+   ]
+  ],
+  "2023-03": [
+   [
+    11,
+    199
+   ],
+   [
+    12,
+    311
+   ]
+  ],
+  "2023-04": [
+   [
+    6,
+    2
+   ],
+   [
+    12,
+    32
+   ]
+  ],
+  "2023-05": [
+   [
+    8,
+    3
+   ],
+   [
+    11,
+    193
+   ],
+   [
+    12,
+    192
+   ]
+  ],
+  "2023-08": [
+   [
+    11,
+    53
+   ],
+   [
+    12,
+    207
+   ]
+  ],
+  "2023-09": [
+   [
+    11,
+    10
+   ],
+   [
+    12,
+    301
+   ]
+  ],
+  "2023-10": [
+   [
+    11,
+    46
+   ],
+   [
+    12,
+    114
+   ]
+  ],
+  "2024-01": [
+   [
+    12,
+    1
+   ]
+  ],
+  "2024-05": [
+   [
+    11,
+    1040
+   ],
+   [
+    12,
+    335
+   ]
+  ],
+  "2024-06": [
+   [
+    11,
+    5
+   ],
+   [
+    12,
+    110
+   ]
+  ],
+  "2024-08": [
+   [
+    11,
+    79
+   ],
+   [
+    12,
+    95
+   ]
+  ],
+  "2024-09": [
+   [
+    11,
+    68
+   ],
+   [
+    12,
+    30
+   ]
+  ],
+  "2024-10": [
+   [
+    11,
+    55
+   ],
+   [
+    12,
+    155
+   ]
+  ],
+  "2024-11": [
+   [
+    11,
+    9
+   ],
+   [
+    12,
+    73
+   ]
+  ],
+  "2025-06": [
+   [
+    11,
+    167
+   ],
+   [
+    12,
+    272
+   ]
+  ],
+  "2025-07": [
+   [
+    10,
+    3
+   ],
+   [
+    11,
+    371
+   ],
+   [
+    12,
+    1292
+   ]
+  ],
+  "2025-11": [
+   [
+    12,
+    1
+   ]
+  ],
+  "2026-04": [
+   [
+    11,
+    208
+   ],
+   [
+    12,
+    223
+   ]
+  ],
+  "2026-06": [
+   [
+    12,
+    5
+   ]
+  ]
+ },
+ "filled_forms_by_month": {
+  "1899-12": 20,
+  "2022-07": 43,
+  "2022-08": 68,
+  "2022-09": 38,
+  "2023-01": 4,
+  "2023-02": 63,
+  "2023-03": 510,
+  "2023-04": 34,
+  "2023-05": 388,
+  "2023-08": 250,
+  "2023-09": 311,
+  "2023-10": 160,
+  "2024-01": 1,
+  "2024-05": 1375,
+  "2024-06": 113,
+  "2024-08": 174,
+  "2024-09": 93,
+  "2024-10": 210,
+  "2024-11": 81,
+  "2025-06": 438,
+  "2025-07": 1664,
+  "2025-11": 1,
+  "2026-04": 431,
+  "2026-06": 5
+ },
+ "filled_forms_dated_sum": 6475,
+ "margin_records_by_month": {
+  "1899-12": 0,
+  "2022-07": 0,
+  "2022-08": 0,
+  "2022-09": 0,
+  "2023-01": 0,
+  "2023-02": 0,
+  "2023-03": 0,
+  "2023-04": 0,
+  "2023-05": 0,
+  "2023-08": 280,
+  "2023-09": 0,
+  "2023-10": 0,
+  "2024-01": 0,
+  "2024-05": 0,
+  "2024-06": 0,
+  "2024-08": 0,
+  "2024-09": 0,
+  "2024-10": 0,
+  "2024-11": 0,
+  "2025-06": 0,
+  "2025-07": 0,
+  "2025-11": 0,
+  "2026-04": 161,
+  "2026-06": 0
+ },
+ "filled_share_by_year_10000": {
+  "2016": 0.0,
+  "2017": 0.0,
+  "2018": 0.0,
+  "2022": 0.00068133285167521,
+  "2023": 0.006083542602482934,
+  "2024": 0.0024613394159399083,
+  "2025": 0.0035812873902240903,
+  "2026": 0.001452897464094105
+ },
+ "predictions": {
+  "P1 forms span >= 10 years": true,
+  "P2 filled forms <= 0.5 % of forms": true,
+  "P3 >= 18 of 20 filled forms hold all 13": false,
+  "P4 >= 18 of 20 margin units hold all 13": false,
+  "P5 filled share max/min >= 10 (years >= 10,000 forms)": true,
+  "P6 no form has more than 3 filled": true
+ },
+ "finished_utc": "2026-10-24T19:18:37Z"
+}

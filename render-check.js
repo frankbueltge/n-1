@@ -456,12 +456,15 @@ const PAGES = [
         years: s[1] ? s[1].querySelectorAll('g').length : 0,
         check: s[2] ? s[2].querySelectorAll('g').length : 0,
         units: s[3] ? s[3].querySelectorAll('g').length : 0,
+        years3: s[4] ? s[4].querySelectorAll('g').length : 0,
+        fits: document.documentElement.scrollWidth <= innerWidth,
         preds: document.querySelectorAll('ul.pr li').length,
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
     // session 2 (night 88): a fourth SVG, 60 units (20 per source), and five more predictions.
-    ok: (r) => r.svgs === 4 && r.sources === 11 && r.years === 77 && r.check === 40 && r.units === 60 && r.preds === 11 && r.min_font >= 11,
+    // session 3 (night 89): a fifth SVG, 26 years in two rows (52 marks), six more predictions; the page must not overflow.
+    ok: (r) => r.svgs === 5 && r.sources === 11 && r.years === 77 && r.check === 40 && r.units === 60 && r.years3 === 52 && r.preds === 17 && r.fits && r.min_font >= 11,
   },
 ];
 
