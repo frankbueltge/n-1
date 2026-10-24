@@ -26,3 +26,4 @@
   registration: it agrees (lead-out 176,566). Counted as unanswered.
 - **23:15** `explore1.py` (exploratory): first-track offsets; 87.4 % at 150 frames; 182 and 183 frames lead the rest. P7's "pregap" is
   mostly a fraction of a second, not a hidden track: the prediction's word was wrong, its count stands.
+- **23:22** atlas layer, margin, window, register, night record written; validators and render check all ok. Session ends here.
