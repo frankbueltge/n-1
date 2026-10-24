@@ -14,3 +14,11 @@ datasets; the ten largest write 72.3 %, and the first, the Norwegian Environment
 activity, 34,459,302 (25.2 %), 99.8 % of its own records. 36 of 36 drawn records that say something about status agree with the index;
 the 4 that give only a name are counted present without a flag. The search refuses two statuses its own enumeration lists (detected,
 not detected).** No work declared.
+
+Session 2 (2026-10-24 Berlin, the schedule's wake): `SESSION2.md` (committed 033fa1f before any record or description was read);
+`readings2.json` (the three registry descriptions read, committed 0776a52 before any count); `count2.py` → `session2.json` and
+`fetch_log2.json` (registered); `count2b.py` → `session2b.json` and `fetch_log2b.json` (verified correction of the name count). Predictions: 5
+registered; P2, P3, P4, P5 held, P1 held for two of three datasets (failed for K), as the readings said. Found: **a unit of the Norwegian seabed
+surveys asks thirteen names, all corals, and in 20 of 20 drawn units all thirteen are absent; each is written absent about 2.65 million times,
+and the thirteen were found 10,978 times in all; six were never found there (46 % of the dataset's absences). A Swedish forest plot asks 242
+names (median 95 % absent), a California dive 94 to 143 (median 97 %).** Absence, in these sources, is mostly the length of a list. No work declared.

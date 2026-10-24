@@ -1,4 +1,4 @@
-"""Project 17: the study page, index.html, from session1.json and result1.json (counts only; no record)."""
+"""Project 17: the study page, index.html, from session1.json, result1.json, session2.json and session2b.json (counts only; no record)."""
 import html, json
 
 s = json.load(open("session1.json"))
@@ -79,12 +79,45 @@ pred = [("P1", "at least 10,000,000 records say absent", P["P1 absent >= 10,000,
         ("P6", "the check agrees on at least 36 of the records I can tell", r["agree"] >= 36, "%d of %d" % (r["agree"], r["tellable"]))]
 plist = "".join("<li><b>%s %s.</b> %s: %s.</li>" % (k, "held" if ok else "failed", d, v) for k, d, ok, v in pred)
 
+# session 2: the drawn units of S, K, F as bars of their list length, present part dark
+s2, s2b = json.load(open("session2.json")), json.load(open("session2b.json"))
+D2, X2 = s2["datasets"], s2b["datasets"]
+LAB = {"S": "Norway, seabed (petroleum)", "K": "California, kelp forest", "F": "Sweden, forest plot"}
+g4, y = [], 8
+mxl = max(u["list_length"] for t in D2 for u in D2[t]["units"])
+for t in ("S", "K", "F"):
+    g4.append('<text x="%d" y="%d" class="lb">%s: 20 drawn units</text>' % (X0, y + 14, LAB[t]))
+    y += 22
+    for u in D2[t]["units"]:
+        L, a = u["list_length"], u["absent"]
+        wl = (W - 2 * X0) * L / mxl
+        wp = (W - 2 * X0) * (L - a) / mxl
+        g4.append('<g><title>%s: %d names asked, %d absent, %d found</title><rect x="%d" y="%d" width="%.1f" height="7" class="bg"/>'
+                  '<rect x="%d" y="%d" width="%.1f" height="7" class="s0"/></g>' % (LAB[t], L, a, L - a, X0, y, wl, X0, y, wp))
+        y += 9
+    y += 10
+fig4 = '<svg class="ch" viewBox="0 0 %d %d" role="img" aria-label="Twenty drawn survey units from each of three datasets, each a bar as long as the number of names it reports, the found part dark">%s</svg>' % (W, y, "".join(g4))
+S2 = X2["S"]["absent_names"]
+units_S = max(a["absent"] + a["present"] for a in S2)
+thirteen = "".join("<tr><td><i>%s</i></td><td>%s</td><td>%s</td></tr>" % (html.escape(a["name"]), f(a["absent"]), f(a["present"]) if a["present"] else "never")
+                   for a in S2)
+P2 = s2["predictions"]; P2c = s2b["predictions_corrected"]
+pred2 = [("P1", "the same list length in at least 15 of 20 units", "S 20, K %d, F 20 of 20 at the commonest length; held for S and F, failed for K, as my reading of the descriptions said" % D2["K"]["units_at_mode"], None),
+         ("P2", "in the Norwegian surveys the median unit is at least 95 % absent", "%.0f %%" % (100 * D2["S"]["absent_share_median"]), P2["P2 S median unit >= 95 % absent"]),
+         ("P3", "each source holds a name it says is absent and never present", "S %d, K %d, F %d names" % (X2["S"]["never_found_names"], X2["K"]["never_found_names"], X2["F"]["never_found_names"]), all(P2c["P3 each holds a never-found name"].values())),
+         ("P4", "in the Norwegian surveys the never-found names hold at least 10 % of absences", "%.0f %%" % (100 * X2["S"]["never_found_share_of_absences"]), P2c["P4 S never-found >= 10 % of its absences"]),
+         ("P5", "my reading of the three descriptions agrees with the count in at least 2 of 3", "3 of 3", P2["P5 reading (b) agrees with P1 in >= 2 of 3"]["held"])]
+plist2 = "".join("<li><b>%s %s.</b> %s: %s.</li>" % (k, ("held" if ok else "failed") if ok is not None else "held for two of three", d, v) for k, d, v, ok in pred2)
+
 page = open("template.html").read()
 for k, v in {"FIG1": fig1, "FIG2": fig2, "FIG3": fig3, "LEGEND": legend, "KIN": kin, "PRED": plist,
              "TOTAL": f(T), "ABSENT": f(A), "SHARE": pc(A, T), "NDS": f(s["absent_datasets"]), "TOP10": "%.0f %%" % (100 * s["absent_top10_share"]),
              "N1": f(top[0]["absent"]), "N1S": pc(top[0]["absent"], A), "N1D": pc(top[0]["absent"], top[0]["total"]),
              "INFP": f(inf["PRESENT"]), "INFA": f(inf["ABSENT"]), "BOR": f(bor["all"]), "UNP": f(unp["all"]),
-             "AGREE": "%d of %d" % (r["agree"], r["tellable"]), "READ": s["started_utc"], "Y23": f(Ay["2023"])}.items():
+             "AGREE": "%d of %d" % (r["agree"], r["tellable"]), "READ": s["started_utc"], "Y23": f(Ay["2023"]),
+             "FIG4": fig4, "THIRTEEN": thirteen, "PRED2": plist2, "US": f(units_S), "R2": s2["started_utc"],
+             "FS": f(sum(a["present"] for a in S2)), "KMIN": str(D2["K"]["list_length_min"]), "KMAX": str(D2["K"]["list_length_max"]),
+             "FMED": "%.0f %%" % (100 * D2["F"]["absent_share_median"]), "KMED": "%.0f %%" % (100 * D2["K"]["absent_share_median"])}.items():
     page = page.replace("{{%s}}" % k, v)
 assert "{{" not in page
 open("index.html", "w").write(page)

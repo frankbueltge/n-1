@@ -32,3 +32,29 @@ one table where they can be read together. Two-sided; not triggered.
 **What the audit changed.** Session 2's question moves to the space each absence was searched in, beginning with the largest source: what
 "absent" is in a petroleum seabed survey (how many names are checked per frame or line, and which), against what it is in a forest plot.
 Without the audit (estimate) the next session would have read the kingdoms and years further, which the count already shows.
+
+## Entry 2 — session 2, 2026-10-24 01:11 UTC (after the registered count)
+
+**The Boulez question, asked of one unit.** Entry 1 said the absence comes from a stricter striation translated down into the index. The
+count says what that striation is. A Swedish forest plot (about 100 m²) asks the same 242 names every time; a California dive asks 94 to
+143, by method and region; a unit of the Norwegian seabed surveys asks **thirteen**, and in 20 of 20 drawn units all thirteen are
+absent. Across that dataset each of the thirteen corals is written absent about 2.65 million times (`session2b.json`), and the thirteen
+were found 10,978 times in all. The space searched is not what decides what is said absent: a **form** decides it, the list a law and two
+red lists put on the survey. One counts in order to occupy, and here one counts before arriving: the absences exist as boxes before the
+camera reaches the seabed.
+
+**Direction of the mixture.** Not one direction. The form striates the seabed (the corals are asked everywhere, also where none could
+live); what was actually seen arrives the other way, open: 95 names in the same dataset are recorded present and never
+absent (42,367 records), written because someone saw them and nobody asked. So one dataset holds both regimes, a closed
+list that can only say "not here", and an open one that can only say "here".
+
+**Translation, both ways.** *Overcoding:* in the index the form's empty boxes weigh like observations: 34 million "not there", a quarter
+of the world's absences, of which 46 % concern six names never once found in the dataset. A reader of the global count (session 1) takes
+the length of a legal list for a fact about the seabed. *Propagation:* without the index the empty boxes would not be readable at all;
+the index keeps each unit's thirteen answers, which is what lets a reader see that a red-listed reef coral (*Desmophyllum pertusum*) was
+looked for some 2.65 million times and found 5,906. Two-sided; the failure criterion did not trigger.
+
+**What the audit changed.** It changes what session 3 must show: not the count of absences (session 1) but the ratio of question to
+answer, unit by unit. The first plan for session 3 was a map of absences by place (estimate); the audit strikes it, because a map would
+draw the list's length as a landscape. Session 3 is to make the form itself receivable: thirteen boxes, millions of times, and the few
+times one was filled.

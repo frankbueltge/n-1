@@ -1,0 +1,191 @@
+{
+ "started_utc": "2026-10-24T01:09:16Z",
+ "facet": "acceptedTaxonKey",
+ "datasets": {
+  "S": {
+   "names_absent": 13,
+   "names_present": 102,
+   "names_any": 108,
+   "absent_facet_sum": 34459302,
+   "present_facet_sum": 53345,
+   "sums_match_status_counts": false,
+   "never_found_names": 6,
+   "never_found_absences": 15908982,
+   "never_found_share_of_absences": 0.461674528404551,
+   "never_found": [
+    {
+     "acceptedTaxonKey": "11711225",
+     "absent": 2651527,
+     "name": "Callistephanus pallida (Madsen, 1970)"
+    },
+    {
+     "acceptedTaxonKey": "2260018",
+     "absent": 2651526,
+     "name": "Fungiacyathus fragilis Sars, 1872"
+    },
+    {
+     "acceptedTaxonKey": "2262473",
+     "absent": 2651526,
+     "name": "Anthomastus grandiflorus Verrill, 1878"
+    },
+    {
+     "acceptedTaxonKey": "2263005",
+     "absent": 2651526,
+     "name": "Radicipes gracilis (Verrill, 1884)"
+    },
+    {
+     "acceptedTaxonKey": "5184878",
+     "absent": 2651526,
+     "name": "Clavularia arctica Koren & Danielssen, 1883"
+    },
+    {
+     "acceptedTaxonKey": "2259417",
+     "absent": 2651351,
+     "name": "Stenocyathus vermiformis (Pourtalès, 1868)"
+    }
+   ],
+   "absent_names": [
+    {
+     "acceptedTaxonKey": "11711225",
+     "name": "Callistephanus pallida (Madsen, 1970)",
+     "absent": 2651527,
+     "present": 0
+    },
+    {
+     "acceptedTaxonKey": "2260018",
+     "name": "Fungiacyathus fragilis Sars, 1872",
+     "absent": 2651526,
+     "present": 0
+    },
+    {
+     "acceptedTaxonKey": "2262473",
+     "name": "Anthomastus grandiflorus Verrill, 1878",
+     "absent": 2651526,
+     "present": 0
+    },
+    {
+     "acceptedTaxonKey": "2263005",
+     "name": "Radicipes gracilis (Verrill, 1884)",
+     "absent": 2651526,
+     "present": 0
+    },
+    {
+     "acceptedTaxonKey": "5184461",
+     "name": "Desmophyllum dianthus (Esper, 1794)",
+     "absent": 2651526,
+     "present": 30
+    },
+    {
+     "acceptedTaxonKey": "5184878",
+     "name": "Clavularia arctica Koren & Danielssen, 1883",
+     "absent": 2651526,
+     "present": 0
+    },
+    {
+     "acceptedTaxonKey": "11059991",
+     "name": "Ptilella grandis (Ehrenberg, 1834)",
+     "absent": 2651522,
+     "present": 2
+    },
+    {
+     "acceptedTaxonKey": "2260584",
+     "name": "Madrepora oculata Linnaeus, 1758",
+     "absent": 2651503,
+     "present": 33
+    },
+    {
+     "acceptedTaxonKey": "5184444",
+     "name": "Virgularia glacialis Kölliker, 1870",
+     "absent": 2651379,
+     "present": 5
+    },
+    {
+     "acceptedTaxonKey": "2259417",
+     "name": "Stenocyathus vermiformis (Pourtalès, 1868)",
+     "absent": 2651351,
+     "present": 0
+    },
+    {
+     "acceptedTaxonKey": "5185297",
+     "name": "Anthelia fallax Broch, 1912",
+     "absent": 2649662,
+     "present": 3
+    },
+    {
+     "acceptedTaxonKey": "9783587",
+     "name": "Desmophyllum pertusum (Linnaeus, 1758)",
+     "absent": 2648961,
+     "present": 5906
+    },
+    {
+     "acceptedTaxonKey": "2262087",
+     "name": "Paragorgia arborea (Linnaeus, 1758)",
+     "absent": 2645767,
+     "present": 4999
+    }
+   ],
+   "present_only_names": 95,
+   "present_only_records": 42367
+  },
+  "K": {
+   "names_absent": 309,
+   "names_present": 305,
+   "names_any": 309,
+   "absent_facet_sum": 26349756,
+   "present_facet_sum": 5276011,
+   "sums_match_status_counts": false,
+   "never_found_names": 4,
+   "never_found_absences": 196373,
+   "never_found_share_of_absences": 0.007353927235617585,
+   "never_found": [
+    {
+     "acceptedTaxonKey": "4377207",
+     "absent": 93788,
+     "name": "Saccharina latissima (L.) C.E.Lane, C.Mayes, Druehl & G.W.Saunders"
+    },
+    {
+     "acceptedTaxonKey": "2292241",
+     "absent": 35496,
+     "name": "Hermissenda crassicornis (Eschscholtz, 1831)"
+    },
+    {
+     "acceptedTaxonKey": "2336480",
+     "absent": 35162,
+     "name": "Hexagrammos stelleri Tilesius, 1810"
+    },
+    {
+     "acceptedTaxonKey": "2389995",
+     "absent": 31927,
+     "name": "Ammodytes hexapterus Pallas, 1814"
+    }
+   ]
+  },
+  "F": {
+   "names_absent": 241,
+   "names_present": 240,
+   "names_any": 241,
+   "absent_facet_sum": 8219373,
+   "present_facet_sum": 597897,
+   "sums_match_status_counts": true,
+   "never_found_names": 1,
+   "never_found_absences": 36435,
+   "never_found_share_of_absences": 0.0044328198756766485,
+   "never_found": [
+    {
+     "acceptedTaxonKey": "2751406",
+     "absent": 36435,
+     "name": "Gagea Salisb."
+    }
+   ]
+  }
+ },
+ "predictions_corrected": {
+  "P3 each holds a never-found name": {
+   "S": true,
+   "K": true,
+   "F": true
+  },
+  "P4 S never-found >= 10 % of its absences": true
+ },
+ "finished_utc": "2026-10-24T01:09:29Z"
+}
