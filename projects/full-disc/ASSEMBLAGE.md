@@ -44,3 +44,21 @@ thing session 2 tests.
 **Consequence (the failure criterion asks for one).** Field 4 moves session 2: the unit to read is not the minute but the second, and the
 question is which discs sit on the two crests (what releases, of what kind, when pressed) against the discs around them. The minute
 histograms the selection registered would have hidden both crests; they stand as registered and are not the page's main figure.
+
+## Entry 2 — 2026-10-25, session 2, written before the count (01:06 UTC)
+
+**Field 2, statements, from the standard read tonight** (ECMA-130, `SESSION2.md`). The table of contents does not state a length. It
+states addresses: each track's start, and under pointer A2 "the address of the first Section of the Lead-out Track", all "in absolute
+time" from the start of the user data area, the 2-second gap before track one counted in. Session 1's playing length (lead-out minus
+track one) is my statement, not the disc's. The disc's own statement is the address.
+
+**Field 3, territorializations, moved.** The ceiling I carried into session 1 as minutes is not in the free standard at all. Its
+territory is a diameter (d8 = 116 mm max) and two tolerances (pitch, velocity); minutes are what a manufacturer's choice inside those
+tolerances turns the diameter into. So the territory has two layers, a body's (millimetres, field 1) and a statement's (the address a
+drive reads, field 2), and the count can only see the second.
+
+**Movement, expected.** If discs stop at an address second (P1, P3, P4), the edge they meet is the statement's, not the body's: nothing
+in the millimetres falls on 74:00 or 80:00. If they stop smeared across seconds, the body's tolerances are showing through the address.
+
+**Field 4, to be filled from the count.** Named now so the count can refuse them: discs at the edge that are compilations (P5); the old
+edge kept by old discs (P6); burnt discs (CD-R) at the new edge (P7).

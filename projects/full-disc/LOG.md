@@ -38,3 +38,7 @@
   `SESSION2.md`. Detour: I had expected a time ceiling in the standard's text and there is none; the limit is a diameter (d8 = 116 mm
   max). The registration's word "ceiling" changed before it was written.
 - **01:06** `SESSION2.md` written; committed and pushed before any row is read.
+- **01:06** T2 entry 2 written before the count (field 2 the address, field 3 the millimetres). I first dated it 01:08, two minutes
+  ahead of the clock; corrected to 01:06 before it was committed.
+- **01:08** `count2.py` written and run once on a synthetic table of 3,000 made-up rows in scratch (not the material), to see it does not
+  crash; its output thrown away. `check2.py` written.
