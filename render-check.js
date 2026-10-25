@@ -470,6 +470,8 @@ const PAGES = [
     // project 18, session 1 (2026-10-25 Berlin): How full the disc (the study), built by projects/full-disc/build.py from
     // session1.json, check1.json and explore1.json; three SVGs: every disc in 540 ten-second columns, and two panels of 120
     // one-second columns before each ceiling; eight predictions.
+    // session 2 (night 91): two more SVGs, 600 one-frame columns either side of 74:00:00 and 80:00:00; a table of five rows;
+    // eight more predictions.
     path: 'projects/full-disc/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -478,12 +480,15 @@ const PAGES = [
         cols: s[0] ? s[0].querySelectorAll('g').length : 0,
         a: s[1] ? s[1].querySelectorAll('g').length : 0,
         b: s[2] ? s[2].querySelectorAll('g').length : 0,
+        f74: s[3] ? s[3].querySelectorAll('g').length : 0,
+        f80: s[4] ? s[4].querySelectorAll('g').length : 0,
+        rows: document.querySelectorAll('table.tb tbody tr').length,
         preds: document.querySelectorAll('ul.pr li').length,
         fits: document.documentElement.scrollWidth <= innerWidth,
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 3 && r.cols === 540 && r.a === 120 && r.b === 120 && r.preds === 8 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 5 && r.cols === 540 && r.a === 120 && r.b === 120 && r.f74 === 600 && r.f80 === 600 && r.rows === 5 && r.preds === 16 && r.fits && r.min_font >= 11,
   },
 ];
 

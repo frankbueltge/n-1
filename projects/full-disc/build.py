@@ -78,6 +78,63 @@ rep = {
 }
 for k, v in rep.items():
     t = t.replace(k, v)
-assert "{{" not in t
+assert "{{FIG1" not in t
 open("index.html", "w").write(t)
 print("ok", len(t))
+
+# session 2
+s2 = json.load(open("session2.json"))
+c2 = json.load(open("check2.json"))
+e2 = json.load(open("explore2.json"))
+FA = {int(k): v for k, v in s2["frames_330000_336000"].items()}
+FB = {int(k): v for k, v in s2["frames_357000_361000"].items()}
+mxf = FA[333000]
+def fpanel(F, centre, label, lab):
+    lo, hi = centre - 300, centre + 300
+    H3, w3 = 200, (W - 2 * X0) / (hi - lo)
+    out = []
+    for i, x in enumerate(range(lo, hi)):
+        v = F.get(x, 0)
+        h = H3 * v / mxf
+        sec = (x // 75) % 60; mn = x // 75 // 60; fr = x % 75
+        out.append('<g><title>%d:%02d:%02d: %s discs</title><rect x="%.2f" y="%.1f" width="%.2f" height="%.1f" class="%s"/></g>' % (
+            mn, sec, fr, f(v), X0 + i * w3, 10 + H3 - max(h, 0.6 if v else 0), w3 + 0.05, max(h, 0.6 if v else 0), "s0" if x == centre else "s1"))
+        if fr == 0 and i > 0:
+            out.append('<text x="%.1f" y="%d" class="yr" text-anchor="middle">%d:%02d</text>' % (X0 + i * w3, H3 + 30, mn, sec))
+    out.append('<text x="%.1f" y="24" class="lb" text-anchor="end">%s</text>' % (X0 + 300 * w3 - 8, lab))
+    return '<svg class="ch" viewBox="0 0 %d %d" role="img" aria-label="%s">%s</svg>' % (W, H3 + 40, label, "".join(out))
+fig3a = fpanel(FA, 333000, "Discs by the address where their music ends, one column per frame, four seconds either side of 74:00:00",
+               "74:00:00, %s discs" % f(FA[333000]))
+fig3b = fpanel(FB, 360000, "The same, four seconds either side of 80:00:00, on the same scale",
+               "80:00:00, %s discs" % f(FB.get(360000, 0)))
+second = sorted((v for k, v in FA.items() if k != 333000), reverse=True)[0]
+pct = lambda x: "%d %%" % round(100 * x)
+order = ["frame 333,000 (74:00:00)", "frame 333,150 (74:02:00)", "rest of 74:00 second", "C70 (70:00-72:59)", "B80 (79:55-79:59)"]
+names = {order[0]: "at exactly 74:00:00", order[1]: "at exactly 74:02:00 (74:00 of music after the gap)",
+         order[2]: "elsewhere in the second 74:00", order[3]: "between 70:00 and 72:59", order[4]: "between 79:55 and 79:59"}
+rows_ = "".join('<tr><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%d</td></tr>' % (
+    names[g], f(e2[g]["discs"]), pct(e2[g]["audiobook_share"]), pct(e2[g]["cd_r_share"]), e2[g]["median_year"]) for g in order)
+P2 = s2["predictions"]; B2 = s2["bands"]
+lab2 = {
+    "P1 largest fall 4300-4899 is 4799->4800": "Between 71:40 and 81:40, the steepest fall from one second of address to the next is from 79:59 to 80:00: %s to %s." % (
+        f(s2["largest_falls_4300_4899"][0]["counts"][0]), f(s2["largest_falls_4300_4899"][0]["counts"][1])),
+    "P2 address fall 4799/4800 exceeds 498/167": "That fall is steeper in address than in playing time: %.2f against 2.98, about the same." % s2["fall_4799_4800_address"],
+    "P3 commonest second 4380-4499 is 4440": "Between 73:00 and 74:59 the commonest second of address is 74:00 (%s discs)." % f(int(s2["address_seconds"]["4440"])),
+    "P4 commonest frame 330000-336000 is 333000": "The commonest single frame near it is exactly 74:00:00: %s discs." % f(FA[333000]),
+    "P5 B80 compilation share at least 1.5 x C76": "Discs filled to the 80 edge are more often compilations: %s, against %s between 76:00 and 78:59." % (
+        pct(B2["B80"]["compilation_share"]), pct(B2["C76"]["compilation_share"])),
+    "P6 A74 median year at least 3 earlier than B80": "The 74 edge is older: median year %d, against %d at the 80 edge." % (B2["A74"]["median_year"], B2["B80"]["median_year"]),
+    "P7 CD at least 90 % of one-format discs in A74 and B80": "Pressed, not burnt: at the 74 edge %s of single-format discs are plain CD, at the 80 edge %s." % (
+        pct(B2["A74"]["share_CD_of_one_format"]), pct(B2["B80"]["share_CD_of_one_format"])),
+}
+preds2 = "".join('<li><b>%s</b> %s</li>' % ("Held." if P2[k] else "Failed.", lab2[k]) for k in lab2)
+preds2 += '<li><b>Failed.</b> The live database agrees on at least 19 of 20 drawn discs: %d answered and all %d agree; three calls were refused for rate (asked again by hand, outside the registration, they agree).</li>' % (
+    c2["answered"], c2["agree"])
+t = open("index.html").read()
+for k, v in {"{{FIG3A}}": fig3a, "{{FIG3B}}": fig3b, "{{F333}}": f(FA[333000]), "{{F333N}}": f(second), "{{ROWS}}": rows_,
+             "{{PREDS2}}": preds2, "{{ABS}}": pct(e2[order[0]]["audiobook_share"]), "{{ABC}}": pct(e2[order[3]]["audiobook_share"]),
+             "{{AB80}}": pct(e2[order[4]]["audiobook_share"])}.items():
+    t = t.replace(k, v)
+assert "{{" not in t
+open("index.html", "w").write(t)
+print("ok2", len(t))
