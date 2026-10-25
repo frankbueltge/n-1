@@ -1,0 +1,47 @@
+{
+ "C70 (70:00-72:59)": {
+  "discs": 69261,
+  "attached": 68806,
+  "audiobook_share": 0.0612882597447897,
+  "other_share": 0.06441298723948492,
+  "cd_r_share": 0.007659215766066913,
+  "median_tracks": 16,
+  "median_year": 2003
+ },
+ "rest of 74:00 second": {
+  "discs": 727,
+  "attached": 726,
+  "audiobook_share": 0.19421487603305784,
+  "other_share": 0.1859504132231405,
+  "cd_r_share": 0.03305785123966942,
+  "median_tracks": 17,
+  "median_year": 2003
+ },
+ "B80 (79:55-79:59)": {
+  "discs": 2022,
+  "attached": 2001,
+  "audiobook_share": 0.06596701649175413,
+  "other_share": 0.05547226386806597,
+  "cd_r_share": 0.026486756621689155,
+  "median_tracks": 19.0,
+  "median_year": 2009.0
+ },
+ "frame 333,150 (74:02:00)": {
+  "discs": 103,
+  "attached": 103,
+  "audiobook_share": 0.3106796116504854,
+  "other_share": 0.3106796116504854,
+  "cd_r_share": 0.0,
+  "median_tracks": 17,
+  "median_year": 2004
+ },
+ "frame 333,000 (74:00:00)": {
+  "discs": 502,
+  "attached": 475,
+  "audiobook_share": 0.7431578947368421,
+  "other_share": 0.6105263157894737,
+  "cd_r_share": 0.18736842105263157,
+  "median_tracks": 15.0,
+  "median_year": 2010.0
+ }
+}

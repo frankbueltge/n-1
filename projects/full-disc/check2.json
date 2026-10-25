@@ -1,0 +1,235 @@
+{
+ "seed": 20261025,
+ "agree": 17,
+ "answered": 17,
+ "rows": [
+  {
+   "discid": "k_ilMRk1J9g2VZgaAcDBnZl7XRI-",
+   "band": "A74",
+   "dump_releases": [
+    "9d3942e9-45a7-4958-8df0-8065b4a14880"
+   ],
+   "status": 503
+  },
+  {
+   "discid": "peootg5cgtO35edoIGa_mE_o3lk-",
+   "band": "A74",
+   "dump_releases": [
+    "2ee2da94-0482-41fb-865d-18fa8025fe3a"
+   ],
+   "status": 200,
+   "live_releases": [
+    "2ee2da94-0482-41fb-865d-18fa8025fe3a"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "R7fy3pR5TQC8syvOTYok5Xg6yMU-",
+   "band": "B80",
+   "dump_releases": [
+    "90bfefd4-44e8-420f-8f1c-453d78a22b38"
+   ],
+   "status": 503
+  },
+  {
+   "discid": "9Ig8vPX1xu0dn9M_bLi6UdXFKeY-",
+   "band": "B80",
+   "dump_releases": [
+    "ee2d8d9f-f604-4e1a-a9c9-658183e13308"
+   ],
+   "status": 200,
+   "live_releases": [
+    "ee2d8d9f-f604-4e1a-a9c9-658183e13308"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "NV1gRVgxEdLbDyAO8FZRH0oqb34-",
+   "band": "B80",
+   "dump_releases": [
+    "1060bd4d-0b8f-461b-b3ef-7b60b3902555"
+   ],
+   "status": 200,
+   "live_releases": [
+    "1060bd4d-0b8f-461b-b3ef-7b60b3902555"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "CS0X4ImrA_kPSgdHAMMC1r6nMac-",
+   "band": "A74",
+   "dump_releases": [
+    "2e1d2faa-a9ca-4d28-98be-7fd692d20c8c"
+   ],
+   "status": 200,
+   "live_releases": [
+    "2e1d2faa-a9ca-4d28-98be-7fd692d20c8c"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "CtYjyxeWyjr80.GT2Jur7AAQLFQ-",
+   "band": "A74",
+   "dump_releases": [
+    "73be50bd-829a-4010-a161-881e2175d8d0"
+   ],
+   "status": 503
+  },
+  {
+   "discid": "XbXpf5MVsWR3xqID0GODlWUwzNw-",
+   "band": "A74",
+   "dump_releases": [
+    "e293713c-7bc9-421d-b04e-254aa248e0ae"
+   ],
+   "status": 200,
+   "live_releases": [
+    "e293713c-7bc9-421d-b04e-254aa248e0ae"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "wl5bx1vfCXwhuanRgZVq58J6Cjc-",
+   "band": "B80",
+   "dump_releases": [
+    "787429f0-cb7e-4b3a-ae84-c4bd55c51558"
+   ],
+   "status": 200,
+   "live_releases": [
+    "787429f0-cb7e-4b3a-ae84-c4bd55c51558"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "yN5T556eusXIR2ZKWF4v7RuSgj0-",
+   "band": "B80",
+   "dump_releases": [
+    "c7057d52-207c-4087-ae98-9b54260e8485"
+   ],
+   "status": 200,
+   "live_releases": [
+    "c7057d52-207c-4087-ae98-9b54260e8485"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "3mSehW1vtPaKTBaQJlFn2QXwIt8-",
+   "band": "A74",
+   "dump_releases": [
+    "af8ee1dd-bf47-4074-92a6-f9774fa40b70"
+   ],
+   "status": 200,
+   "live_releases": [
+    "af8ee1dd-bf47-4074-92a6-f9774fa40b70"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "oHO5WQfPrYdL7ttL5x8Prs6Usn0-",
+   "band": "A74",
+   "dump_releases": [
+    "aefb0ea6-9d1f-420a-8276-2652e16a5d44"
+   ],
+   "status": 200,
+   "live_releases": [
+    "aefb0ea6-9d1f-420a-8276-2652e16a5d44"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "R1wZCpkc9e7yYAUAcwabLkvJbh0-",
+   "band": "B80",
+   "dump_releases": [
+    "f5d82324-0b8e-49a2-8336-a756a53c624f"
+   ],
+   "status": 200,
+   "live_releases": [
+    "f5d82324-0b8e-49a2-8336-a756a53c624f"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "xfCpAfns9grEiVnHuvQRiZbdhEs-",
+   "band": "A74",
+   "dump_releases": [
+    "4f90a78c-6415-433c-bb60-c140ae237016"
+   ],
+   "status": 200,
+   "live_releases": [
+    "4f90a78c-6415-433c-bb60-c140ae237016"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "YBhzYu24gP7xklxLOVh4g7_CoWk-",
+   "band": "B80",
+   "dump_releases": [
+    "3831a3ef-2488-4571-97ba-531b8170f6eb"
+   ],
+   "status": 200,
+   "live_releases": [
+    "3831a3ef-2488-4571-97ba-531b8170f6eb"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "QIU5gp4snafR1_dwCMTyhRJLMAQ-",
+   "band": "B80",
+   "dump_releases": [
+    "e7d723a5-17b9-40d8-83b1-091420d2c432"
+   ],
+   "status": 200,
+   "live_releases": [
+    "e7d723a5-17b9-40d8-83b1-091420d2c432"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "0n34.jEooxdCFI5k.DNv1f2szBI-",
+   "band": "B80",
+   "dump_releases": [
+    "03cb22e5-1d2f-40e5-b101-0cbf0c62f129"
+   ],
+   "status": 200,
+   "live_releases": [
+    "03cb22e5-1d2f-40e5-b101-0cbf0c62f129"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "lsDb2NAQ4uhcrYHnP.ChrHmbfYo-",
+   "band": "B80",
+   "dump_releases": [
+    "89a09975-5791-48df-949c-324c3550717c"
+   ],
+   "status": 200,
+   "live_releases": [
+    "89a09975-5791-48df-949c-324c3550717c"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "8VioAm8Tllb9xJ.D8fcXM_ftozE-",
+   "band": "B80",
+   "dump_releases": [
+    "3db5557b-a652-49b2-8818-fd3164fee065"
+   ],
+   "status": 200,
+   "live_releases": [
+    "3db5557b-a652-49b2-8818-fd3164fee065"
+   ],
+   "agree": true
+  },
+  {
+   "discid": "8lBTb7mD1jq3K.J2Bf8NaPGhscM-",
+   "band": "A74",
+   "dump_releases": [
+    "028a7f31-c9a8-4487-ac8f-9f07923b7ee4"
+   ],
+   "status": 200,
+   "live_releases": [
+    "028a7f31-c9a8-4487-ac8f-9f07923b7ee4"
+   ],
+   "agree": true
+  }
+ ]
+}

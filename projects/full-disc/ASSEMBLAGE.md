@@ -62,3 +62,20 @@ in the millimetres falls on 74:00 or 80:00. If they stop smeared across seconds,
 
 **Field 4, to be filled from the count.** Named now so the count can refuse them: discs at the edge that are compilations (P5); the old
 edge kept by old discs (P6); burnt discs (CD-R) at the new edge (P7).
+
+## Entry 2, continued — after the count (01:27 UTC)
+
+**Field 4, cutting edges, from the count** (`session2.json`, `explore2.json`). Of the three candidates named before, none held as named.
+Compilations are not the 80 edge (59 % of B80 against 63 % of C76, P5 failed); the old edge is not kept by old discs (median year 2007 at
+74:00, 2009 at 79:55-79:59, P6 failed); burnt discs are not the new edge (2.6 % CD-R at B80). What the count found instead: **at 74:00:00
+the discs stop on one frame. 502 lead-outs at exactly 333,000; three quarters of those attached are audiobooks.** A book does not end at
+74 minutes; a program that cuts a reading into discs does, at the last address the disc is said to hold.
+
+**Movement between the fields.** Entry 2 expected one of two pictures and the count shows both, one at each edge. At 74 a statement (the
+address 74:00:00, field 2) makes the body (field 1): a long reading is cut where the number says, to the frame, and the result is the single
+commonest disc length of all. At 80 the bodies show through: discs crowd the last seconds and stop over three or four seconds (495, 169,
+102, 80 from 79:59 to 80:02), no frame standing out, music filled toward a limit that each pressing meets a little differently. The
+territory (field 3) is two kinds of thing: at 74 an order-word obeyed exactly (ATP 76, via KsK §4.2), at 80 a margin.
+
+**Consequence.** Field 4 moves session 3: the work, if there is one, is at the 74:00:00 frame, where a machine's cut of spoken books
+became the commonest length a compact disc has. Not triggered.
