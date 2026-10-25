@@ -44,3 +44,38 @@ thing session 2 tests.
 **Consequence (the failure criterion asks for one).** Field 4 moves session 2: the unit to read is not the minute but the second, and the
 question is which discs sit on the two crests (what releases, of what kind, when pressed) against the discs around them. The minute
 histograms the selection registered would have hidden both crests; they stand as registered and are not the page's main figure.
+
+## Entry 2 — 2026-10-25, session 2, written before the count (01:06 UTC)
+
+**Field 2, statements, from the standard read tonight** (ECMA-130, `SESSION2.md`). The table of contents does not state a length. It
+states addresses: each track's start, and under pointer A2 "the address of the first Section of the Lead-out Track", all "in absolute
+time" from the start of the user data area, the 2-second gap before track one counted in. Session 1's playing length (lead-out minus
+track one) is my statement, not the disc's. The disc's own statement is the address.
+
+**Field 3, territorializations, moved.** The ceiling I carried into session 1 as minutes is not in the free standard at all. Its
+territory is a diameter (d8 = 116 mm max) and two tolerances (pitch, velocity); minutes are what a manufacturer's choice inside those
+tolerances turns the diameter into. So the territory has two layers, a body's (millimetres, field 1) and a statement's (the address a
+drive reads, field 2), and the count can only see the second.
+
+**Movement, expected.** If discs stop at an address second (P1, P3, P4), the edge they meet is the statement's, not the body's: nothing
+in the millimetres falls on 74:00 or 80:00. If they stop smeared across seconds, the body's tolerances are showing through the address.
+
+**Field 4, to be filled from the count.** Named now so the count can refuse them: discs at the edge that are compilations (P5); the old
+edge kept by old discs (P6); burnt discs (CD-R) at the new edge (P7).
+
+## Entry 2, continued — after the count (01:27 UTC)
+
+**Field 4, cutting edges, from the count** (`session2.json`, `explore2.json`). Of the three candidates named before, none held as named.
+Compilations are not the 80 edge (59 % of B80 against 63 % of C76, P5 failed); the old edge is not kept by old discs (median year 2007 at
+74:00, 2009 at 79:55-79:59, P6 failed); burnt discs are not the new edge (2.6 % CD-R at B80). What the count found instead: **at 74:00:00
+the discs stop on one frame. 502 lead-outs at exactly 333,000; three quarters of those attached are audiobooks.** A book does not end at
+74 minutes; a program that cuts a reading into discs does, at the last address the disc is said to hold.
+
+**Movement between the fields.** Entry 2 expected one of two pictures and the count shows both, one at each edge. At 74 a statement (the
+address 74:00:00, field 2) makes the body (field 1): a long reading is cut where the number says, to the frame, and the result is the single
+commonest disc length of all. At 80 the bodies show through: discs crowd the last seconds and stop over three or four seconds (495, 169,
+102, 80 from 79:59 to 80:02), no frame standing out, music filled toward a limit that each pressing meets a little differently. The
+territory (field 3) is two kinds of thing: at 74 an order-word obeyed exactly (ATP 76, via KsK §4.2), at 80 a margin.
+
+**Consequence.** Field 4 moves session 3: the work, if there is one, is at the 74:00:00 frame, where a machine's cut of spoken books
+became the commonest length a compact disc has. Not triggered.
