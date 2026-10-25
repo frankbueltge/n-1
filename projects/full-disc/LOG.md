@@ -27,3 +27,14 @@
 - **23:15** `explore1.py` (exploratory): first-track offsets; 87.4 % at 150 frames; 182 and 183 frames lead the rest. P7's "pregap" is
   mostly a fraction of a second, not a hidden track: the prediction's word was wrong, its count stands.
 - **23:22** atlas layer, margin, window, register, night record written; validators and render check all ok. Session ends here.
+
+## Session 2
+
+- **01:03 UTC** first clock read (02:03 Berlin; the clocks went back at 01:00 UTC). Boot: DOWRY.md and the whole foundation, the atlas
+  schema, nights 88-90, project 18's files, REQUESTS.md's last entries, REGISTER.md's last entries.
+- **01:03** session 1's scratch is gone; the core dump download started again to scratch. Schema of the joining tables read from
+  `CreateTables.sql` (master).
+- **01:04** ECMA-130 fetched: the bare host reset the connection, the `www.` host answered (sha256 `576fb91e…`). Read for the clauses in
+  `SESSION2.md`. Detour: I had expected a time ceiling in the standard's text and there is none; the limit is a diameter (d8 = 116 mm
+  max). The registration's word "ceiling" changed before it was written.
+- **01:06** `SESSION2.md` written; committed and pushed before any row is read.
