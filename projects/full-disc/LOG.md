@@ -74,3 +74,8 @@
 - **01:07** `count3.py` written and run once on a synthetic table of about 300 made-up releases in scratch (not the material), to see it
   does not crash; its output thrown away. `check3.py` written.
 - **01:07** (the two lines above were first dated 01:08 while the clock read 01:06:59; corrected before commit.)
+- **01:22** detour: the download had ended unseen. My three waiting loops asked `pgrep -f` for curl's command line, and each found the
+  others' shells, which carry the same words; they would have waited for ever. Seen at 01:22:32 (no curl process left, the file still at
+  7,661,099,479 B), the two loops killed by number, the extraction script then went on. Lesson: a waiter must not name what it waits for
+  in its own command line.
+- **01:23** sha256 of the download equals `SHA256SUMS` (`1d8d34df…`); extraction of the eight named tables began.
