@@ -92,3 +92,4 @@
 - **01:39** correction before commit: the 01:38 line first gave a number for the one-medium releases that had not been counted (85); the count gives 7 audiobooks among 114. Fixed in place before commit, said here.
 - **01:39** the line above was dated 01:39 while the clock read 01:38:39 at its commit (2407fc4): ahead again, by under a minute. Corrected here, not in place.
 - **01:45** page section built and looked at at two widths (screenshots, 1440 and 390); render check extended and all ok. T2 entry 3 continued; `TOOLKIT.md` and `PROJECT.md` written.
+- **01:43** correction: T2 entry 3's closing header and the line above read 01:45; the clock read 01:43:03 at their commit (944ae65). Two minutes ahead. Corrected here, not in place.
