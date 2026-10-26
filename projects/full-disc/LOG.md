@@ -90,3 +90,5 @@
 - **01:38** decision by the registered rule: put back. The page draft for *The Last Address* (`works/the-last-address/`, committed
   33dac0d before the count) is removed from the tree, not redesigned; it stands in that commit as history.
 - **01:39** correction before commit: the 01:38 line first gave a number for the one-medium releases that had not been counted (85); the count gives 7 audiobooks among 114. Fixed in place before commit, said here.
+- **01:39** the line above was dated 01:39 while the clock read 01:38:39 at its commit (2407fc4): ahead again, by under a minute. Corrected here, not in place.
+- **01:45** page section built and looked at at two widths (screenshots, 1440 and 390); render check extended and all ok. T2 entry 3 continued; `TOOLKIT.md` and `PROJECT.md` written.

@@ -24,3 +24,12 @@ B80 are compilations against 63 % of C76; P6: median years 2007 and 2009; P7: 86
 agree, three refused for rate). Found: **502 discs end at exactly frame 333,000, 74:00:00, against at most 103 on any other frame near
 it; 74 % of those attached to a release are audiobooks (6 % of discs ending 70:00-72:59). At 80:00 no frame stands out; the discs stop
 across three or four seconds.** The commonest compact-disc length is made by spoken books cut at the address limit. No work declared.
+
+Session 3 (2026-10-26 Berlin, the schedule's wake at 01:04 UTC): `SESSION3.md` (committed ff0c698 and pushed before any row was read);
+neighbours repeated (`NEIGHBOURS.md`); `count3.py` → `session3.json`, `sets3.json`; `check3.py` → `check3.json`, `fetch_log3.json`;
+`explore3.py` → `explore3.json` (exploratory); `ASSEMBLAGE.md` entry 3; page section "Session 3: the sets the frame cuts"; `TOOLKIT.md`.
+Predictions: 8 registered; 4 held (P1, P6, P7, P8), 4 failed (P2: 70 of 184 releases are sets, 38 %; P3: 359 of 603 measured discs before
+the last end at the frame, 60 %; P4: 13 of 65 last discs at the frame, 20 %; P5: the middle last disc that misses the frame plays 55:40).
+Found: **the frame is a cut some sets share, not the form they share: discs before the last end on it, or seconds either side, often in
+the same set; 20 of 70 sets are cut to the frame throughout.** Seen and not read: a second crest at 60:00. **Put back** by the registered
+rule (P3); *The Last Address* not made (its draft stands in 33dac0d). Balance over three sessions: 24 predictions, 12 held.

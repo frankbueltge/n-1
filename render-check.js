@@ -472,6 +472,8 @@ const PAGES = [
     // one-second columns before each ceiling; eight predictions.
     // session 2 (night 91): two more SVGs, 600 one-frame columns either side of 74:00:00 and 80:00:00; a table of five rows;
     // eight more predictions.
+    // session 3 (night 92): a sixth SVG, the 70 sets that hold a disc ending at 74:00:00, one square per disc (681); eight more
+    // predictions; the page must not overflow.
     path: 'projects/full-disc/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -483,12 +485,13 @@ const PAGES = [
         f74: s[3] ? s[3].querySelectorAll('g').length : 0,
         f80: s[4] ? s[4].querySelectorAll('g').length : 0,
         rows: document.querySelectorAll('table.tb tbody tr').length,
+        discs: s[5] ? s[5].querySelectorAll('g').length : 0,
         preds: document.querySelectorAll('ul.pr li').length,
         fits: document.documentElement.scrollWidth <= innerWidth,
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 5 && r.cols === 540 && r.a === 120 && r.b === 120 && r.f74 === 600 && r.f80 === 600 && r.rows === 5 && r.preds === 16 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 6 && r.cols === 540 && r.a === 120 && r.b === 120 && r.f74 === 600 && r.f80 === 600 && r.rows === 5 && r.discs === 681 && r.preds === 24 && r.fits && r.min_font >= 11,
   },
 ];
 

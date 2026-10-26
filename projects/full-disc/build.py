@@ -135,6 +135,73 @@ for k, v in {"{{FIG3A}}": fig3a, "{{FIG3B}}": fig3b, "{{F333}}": f(FA[333000]), 
              "{{PREDS2}}": preds2, "{{ABS}}": pct(e2[order[0]]["audiobook_share"]), "{{ABC}}": pct(e2[order[3]]["audiobook_share"]),
              "{{AB80}}": pct(e2[order[4]]["audiobook_share"])}.items():
     t = t.replace(k, v)
-assert "{{" not in t
 open("index.html", "w").write(t)
 print("ok2", len(t))
+
+# session 3
+s3 = json.load(open("session3.json"))
+c3 = json.load(open("check3.json"))
+e3 = json.load(open("explore3.json"))
+sets = json.load(open("sets3.json"))["sets"]
+FR = 333000
+def kind3(a):
+    if a is None: return "u3"
+    if a == FR: return "f3"
+    if 4436 <= a // 75 <= 4442: return "n3"
+    return "o3"
+order3 = sorted(sets, key=lambda r: (len(r["media"]), r["release"]))
+SQ, GP = 14, 3
+H4 = 12 + len(order3) * (SQ + GP)
+g4 = []
+for j, r in enumerate(order3):
+    y = 8 + j * (SQ + GP); n = len(r["media"])
+    for i, m in enumerate(r["media"]):
+        a = m["address"]
+        tt = "release %s, disc %d of %d: %s" % (r["release"], m["position"], n,
+              "nobody measured it" if a is None else "ends at %d:%02d:%02d" % (a // 75 // 60, a // 75 % 60, a % 75))
+        g4.append('<g><title>%s</title><rect x="%d" y="%d" width="%d" height="%d" class="%s%s"/></g>' % (
+            tt, X0 + i * (SQ + GP) + 60, y, SQ, SQ, kind3(a), " l3" if i == n - 1 else ""))
+    g4.append('<text x="%d" y="%d" class="yr">%d</text>' % (X0, y + SQ - 2, n))
+fig4 = ('<svg class="ch" viewBox="0 0 %d %d" role="img" aria-label="The %d sets that hold a disc ending at 74:00:00, one row each, '
+        'every disc a square: at the frame, within a few seconds of it, elsewhere, or unmeasured">%s</svg>' % (
+        X0 + 60 + 47 * (SQ + GP) + 8, H4, len(order3), "".join(g4)))
+legend4 = ('<p class="sm mut"><span class="k f3"></span> ends at exactly 74:00:00 &nbsp; <span class="k n3"></span> within 73:56-74:02 '
+           'but not on the frame &nbsp; <span class="k o3"></span> ends elsewhere &nbsp; <span class="k u3"></span> nobody measured it. '
+           'The number at the left of a row is how many discs the set has.</p>')
+nl = s3["nonlast"]; la = s3["last"]
+nlm = nl.get("frame", 0) + nl.get("other", 0)
+near = sum(x["media"] for x in [{"media": v} for k2, v in
+           __import__("collections").Counter({d["second"]: d["media"] for d in e3["nonlast_other_address_seconds_top"]}).items()
+           if 4436 <= k2 <= 4442])
+TL = {x["frame"]: x["discs"] for x in s3["commonest_leadouts_ge_270000"]}
+P3 = s3["predictions"]
+lab3 = {
+    "P1 R at least 100 releases": "At least 100 releases hold a disc ending at 74:00:00: %d do." % s3["R"],
+    "P2 at least 80 % of R are sets": "At least 80 %% of them are sets of more than one disc: %d of %d, %s." % (s3["sets"], s3["R"], pct(s3["set_share"])),
+    "P3 at least 70 % of measured non-last media at the frame": "The cut: at least 70 %% of measured discs before the last end at the frame. %d of %d, %s." % (
+        nl.get("frame", 0), nlm, pct(s3["nonlast_frame_share_of_measured"])),
+    "P4 at most 10 % of measured last media at the frame": "The remainder: at most 10 %% of last discs end at the frame. %d of %d, %s." % (
+        la.get("frame", 0), la.get("frame", 0) + la.get("other", 0), pct(s3["last_frame_share_of_measured"])),
+    "P5 median of last media not at frame in 112500-225000": "The last discs that miss the frame have a middle length between 25:00 and 50:00: it is %s." % mmss(int(s3["last_not_frame_median_frames"]) // 75),
+    "P6 at least 95 % of measured last media at most 333000": "At least 95 %% of last discs are no longer than the cut: %s." % pct(s3["last_at_most_frame_share"]),
+    "P7 333000 commonest leadout >= 270000": "Of all discs ending at 60:00 or later, 74:00:00 is the single commonest end: %s discs; next, 60:02:00 with %s." % (
+        f(TL[333000]), f(TL[270150])),
+}
+preds3 = "".join('<li><b>%s</b> %s</li>' % ("Held." if P3[k] else "Failed.", lab3[k]) for k in lab3)
+preds3 += '<li><b>%s</b> The live database agrees on at least 19 of 20 drawn releases, disc by disc: %d answered, %d agree.</li>' % (
+    "Held." if c3["agree"] >= 19 else "Failed.", c3["answered"], c3["agree"])
+held = sum(1 for v in P3.values() if v) + (1 if c3["agree"] >= 19 else 0)
+t = open("index.html").read()
+for k, v in {"{{FIG4}}": fig4 + legend4, "{{R3}}": str(s3["R"]), "{{SETS3}}": str(s3["sets"]), "{{NLF3}}": str(nl.get("frame", 0)),
+             "{{NLM3}}": str(nlm), "{{NLS3}}": pct(s3["nonlast_frame_share_of_measured"]), "{{NEAR3}}": str(near),
+             "{{ALL3}}": str(e3["sets_every_nonlast_at_frame"]), "{{MEDL3}}": mmss(int(s3["last_not_frame_median_frames"]) // 75),
+             "{{LF3}}": str(la.get("frame", 0)), "{{LM3}}": str(la.get("frame", 0) + la.get("other", 0)),
+             "{{C60A}}": f(TL[270000]), "{{C60B}}": f(TL[270150]), "{{PREDS3}}": preds3,
+             "{{HELD}}": str(5 + 3 + held), "{{PRED}}": "24"}.items():
+    t = t.replace(k, v)
+t = t.replace("</style>", "svg.ch .f3{fill:var(--s0)}svg.ch .n3{fill:#d9a08d}svg.ch .o3{fill:var(--s1)}svg.ch .u3{fill:none;stroke:var(--mut);stroke-dasharray:2 2}"
+              "svg.ch .l3{stroke:var(--fg);stroke-width:1.5}.k{display:inline-block;width:.8em;height:.8em;vertical-align:-.05em}"
+              ".k.f3{background:var(--s0)}.k.n3{background:#d9a08d}.k.o3{background:var(--s1)}.k.u3{border:1px dashed var(--mut)}</style>", 1)
+assert "{{" not in t
+open("index.html", "w").write(t)
+print("ok3", len(t), held)
