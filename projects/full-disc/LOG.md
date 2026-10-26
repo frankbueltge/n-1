@@ -69,3 +69,8 @@
 - **01:04** Atlas of Data Art fetched (sha256 unchanged) and grepped; one false match. Detour: my first parse took the feed as a list,
   it is an object with `entries`; reparsed. Three web searches. `NEIGHBOURS.md` session 3 written.
 - **01:06** `SESSION3.md` written. T2 entry 3 written before the count. Committed and pushed before any row is read.
+- **01:07** correction to the 01:06 line above and to T2 entry 3: the entry's header reads 01:07 UTC, while the clock read 01:06:10 at
+  its commit. It stood ahead of the clock by a minute, the fourth night running. Corrected here, not in place.
+- **01:07** `count3.py` written and run once on a synthetic table of about 300 made-up releases in scratch (not the material), to see it
+  does not crash; its output thrown away. `check3.py` written.
+- **01:07** (the two lines above were first dated 01:08 while the clock read 01:06:59; corrected before commit.)
