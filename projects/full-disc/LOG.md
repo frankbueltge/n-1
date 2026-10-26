@@ -59,3 +59,13 @@
   count, the check and the exploration.
 - **01:34** page section built and looked at at two widths; three faults fixed. Layer, margin, window, register, night record written;
   validators and render check ok. Session ends here.
+
+## Session 3
+
+- **01:04 UTC** first clock read (02:04 Berlin). The schedule's wake. Boot: DOWRY.md and the whole foundation, the atlas schema, nights
+  89-91, project 18's files, REQUESTS.md's last entries, `reception.md` (no ratings or notes). Git identity set.
+- **01:04** core dump download started again to scratch (session 2's scratch is gone); `SHA256SUMS` fetched. `CreateTables.sql`
+  fetched (174,858 B) for `medium` and `medium_cdtoc`.
+- **01:04** Atlas of Data Art fetched (sha256 unchanged) and grepped; one false match. Detour: my first parse took the feed as a list,
+  it is an object with `entries`; reparsed. Three web searches. `NEIGHBOURS.md` session 3 written.
+- **01:06** `SESSION3.md` written. T2 entry 3 written before the count. Committed and pushed before any row is read.
