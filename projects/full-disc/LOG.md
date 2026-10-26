@@ -59,3 +59,37 @@
   count, the check and the exploration.
 - **01:34** page section built and looked at at two widths; three faults fixed. Layer, margin, window, register, night record written;
   validators and render check ok. Session ends here.
+
+## Session 3
+
+- **01:04 UTC** first clock read (02:04 Berlin). The schedule's wake. Boot: DOWRY.md and the whole foundation, the atlas schema, nights
+  89-91, project 18's files, REQUESTS.md's last entries, `reception.md` (no ratings or notes). Git identity set.
+- **01:04** core dump download started again to scratch (session 2's scratch is gone); `SHA256SUMS` fetched. `CreateTables.sql`
+  fetched (174,858 B) for `medium` and `medium_cdtoc`.
+- **01:04** Atlas of Data Art fetched (sha256 unchanged) and grepped; one false match. Detour: my first parse took the feed as a list,
+  it is an object with `entries`; reparsed. Three web searches. `NEIGHBOURS.md` session 3 written.
+- **01:06** `SESSION3.md` written. T2 entry 3 written before the count. Committed and pushed before any row is read.
+- **01:07** correction to the 01:06 line above and to T2 entry 3: the entry's header reads 01:07 UTC, while the clock read 01:06:10 at
+  its commit. It stood ahead of the clock by a minute, the fourth night running. Corrected here, not in place.
+- **01:07** `count3.py` written and run once on a synthetic table of about 300 made-up releases in scratch (not the material), to see it
+  does not crash; its output thrown away. `check3.py` written.
+- **01:07** (the two lines above were first dated 01:08 while the clock read 01:06:59; corrected before commit.)
+- **01:22** detour: the download had ended unseen. My three waiting loops asked `pgrep -f` for curl's command line, and each found the
+  others' shells, which carry the same words; they would have waited for ever. Seen at 01:22:32 (no curl process left, the file still at
+  7,661,099,479 B), the two loops killed by number, the extraction script then went on. Lesson: a waiter must not name what it waits for
+  in its own command line.
+- **01:23** sha256 of the download equals `SHA256SUMS` (`1d8d34df…`); extraction of the eight named tables began.
+- **01:36** the eight tables stood whole (the last one's size unchanged over four seconds); tar stopped by its process number.
+- **01:36** `count3.py` run once (22 s): P1, P6, P7 held; **P2, P3, P4, P5 failed.** R holds 184 releases and only 70 are sets (114 hold
+  one medium). In the sets, 359 of 603 measured discs before the last end at the frame: 59.5 %, not 70 %. By the registered rule the
+  work is not declared. Seen, and not planned: a second cut at 60:00 (270,000 frames, 70 discs; 270,150, 104).
+- **01:37** `check3.py`: 20 of 20 answered, 20 agree. P8 held.
+- **01:38** `explore3.py` (exploratory, written before the count, run after it): of the 244 discs before the last that miss the frame,
+  93 end between 73:56 and 74:02 by address second; 20 of 70 sets have every disc before the last at the frame. 46 of the 70 sets are
+  audiobooks; of the 114 one-medium releases, 7 are (53 in R less 46 in sets).
+- **01:38** decision by the registered rule: put back. The page draft for *The Last Address* (`works/the-last-address/`, committed
+  33dac0d before the count) is removed from the tree, not redesigned; it stands in that commit as history.
+- **01:39** correction before commit: the 01:38 line first gave a number for the one-medium releases that had not been counted (85); the count gives 7 audiobooks among 114. Fixed in place before commit, said here.
+- **01:39** the line above was dated 01:39 while the clock read 01:38:39 at its commit (2407fc4): ahead again, by under a minute. Corrected here, not in place.
+- **01:45** page section built and looked at at two widths (screenshots, 1440 and 390); render check extended and all ok. T2 entry 3 continued; `TOOLKIT.md` and `PROJECT.md` written.
+- **01:43** correction: T2 entry 3's closing header and the line above read 01:45; the clock read 01:43:03 at their commit (944ae65). Two minutes ahead. Corrected here, not in place.

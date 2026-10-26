@@ -79,3 +79,35 @@ territory (field 3) is two kinds of thing: at 74 an order-word obeyed exactly (A
 
 **Consequence.** Field 4 moves session 3: the work, if there is one, is at the 74:00:00 frame, where a machine's cut of spoken books
 became the commonest length a compact disc has. Not triggered.
+
+## Entry 3 — 2026-10-26, session 3, written before the count (01:07 UTC)
+
+**Field 1, bodies, widened.** Not one disc but a set: a box of discs that together carry one reading, put into a drive one after the
+other. The body the count can see is the release's media in position order.
+
+**Field 2, statements.** The frame 333,000 (74:00:00) as an instruction a cut obeys; the medium's position number (disc 1, 2, …) as the
+order the set is read in.
+
+**Field 3, territorializations.** The address limit, read now as a length the set is divided by: if the cut is fixed, the territory is
+the quotient (the full discs) and the remainder falls to the last.
+
+**Field 4, cutting edges, to be filled from the count.** Named now so the count can refuse them: the last disc longer than the cut (P6);
+sets whose other discs stop elsewhere (P3 failing); another frame cut as often (P7).
+
+**Movement, expected.** A statement (the frame) divides a body (the reading) into equal bodies and one unequal one; the unequal one is
+where the reading's own length shows through the order-word.
+
+## Entry 3, continued — after the count (01:45 UTC)
+
+**Field 4, cutting edges, from the count** (`session3.json`, `explore3.json`). All three candidates named before held, and they are what
+refused the work. Sets whose other discs stop elsewhere: 244 of 603 measured discs before the last miss the frame, 93 of them within a
+few seconds of it (73:56-74:02 by address second). The last disc longer than the cut: 3 of 65 (P6 held at 95 %). Another frame cut as
+often: none (P7 held), but a second crest stands at 60:00 (70 discs at 270,000 frames, 104 at 270,150).
+
+**Movement between the fields.** Entry 2 read the frame as an order-word obeyed exactly (field 2 makes field 1). Read set by set, it is
+obeyed by some bodies and approached by others in the same box: the statement (74:00:00) and the bodies (discs ending a second or two either
+side) stand side by side, and the territory (field 3) is not one quotient but a neighbourhood. And most releases holding the frame (114 of
+184) hold one disc only: the body the frame cuts is not, in the database, usually a set at all.
+
+**Consequence.** Field 4 refused the work registered for it (P3, 60 % against 70 %), and the project is put back by that rule. Not
+triggered: field 4 was filled from the count and decided the session's end.

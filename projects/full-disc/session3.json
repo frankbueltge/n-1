@@ -1,0 +1,635 @@
+{
+ "source": "MusicBrainz core export 20261024-102842; TIMESTAMP 2026-10-24 10:28:43.089351+00",
+ "frame_discs": 502,
+ "frame_media": 486,
+ "R": 184,
+ "sets": 70,
+ "singles": 114,
+ "set_share": 0.3804347826086957,
+ "nonlast": {
+  "other": 244,
+  "frame": 359,
+  "unmeasured": 8
+ },
+ "nonlast_frame_share_of_measured": 0.5953565505804311,
+ "last": {
+  "frame": 13,
+  "other": 52,
+  "unmeasured": 5
+ },
+ "last_frame_share_of_measured": 0.2,
+ "last_not_frame_median_frames": 250539.0,
+ "last_at_most_frame_share": 0.9538461538461539,
+ "last_addresses": [
+  139593,
+  142293,
+  147525,
+  150075,
+  164252,
+  165900,
+  166463,
+  166500,
+  173625,
+  178725,
+  179775,
+  183150,
+  184500,
+  187875,
+  188886,
+  191460,
+  222075,
+  225000,
+  225000,
+  227850,
+  229265,
+  231741,
+  235253,
+  242625,
+  243000,
+  247503,
+  253575,
+  254700,
+  254940,
+  261000,
+  265189,
+  274650,
+  284400,
+  292500,
+  294975,
+  303675,
+  305884,
+  305884,
+  305884,
+  309900,
+  310500,
+  316875,
+  324900,
+  325650,
+  329210,
+  330300,
+  331126,
+  331500,
+  332999,
+  333000,
+  333000,
+  333000,
+  333000,
+  333000,
+  333000,
+  333000,
+  333000,
+  333000,
+  333000,
+  333000,
+  333000,
+  333000,
+  333150,
+  345655,
+  368175
+ ],
+ "commonest_leadouts_ge_270000": [
+  {
+   "frame": 333000,
+   "discs": 502
+  },
+  {
+   "frame": 270150,
+   "discs": 104
+  },
+  {
+   "frame": 333150,
+   "discs": 103
+  },
+  {
+   "frame": 270000,
+   "discs": 70
+  },
+  {
+   "frame": 333001,
+   "discs": 53
+  },
+  {
+   "frame": 356400,
+   "discs": 48
+  },
+  {
+   "frame": 351150,
+   "discs": 44
+  },
+  {
+   "frame": 351000,
+   "discs": 42
+  },
+  {
+   "frame": 337500,
+   "discs": 38
+  },
+  {
+   "frame": 332775,
+   "discs": 38
+  },
+  {
+   "frame": 270450,
+   "discs": 37
+  },
+  {
+   "frame": 332999,
+   "discs": 36
+  },
+  {
+   "frame": 310650,
+   "discs": 36
+  },
+  {
+   "frame": 295275,
+   "discs": 36
+  },
+  {
+   "frame": 346650,
+   "discs": 36
+  }
+ ],
+ "media_count_of_sets": {
+  "2": 22,
+  "3": 3,
+  "4": 2,
+  "6": 3,
+  "7": 4,
+  "8": 3,
+  "9": 10,
+  "10": 3,
+  "11": 1,
+  "12": 3,
+  "13": 2,
+  "14": 2,
+  "15": 2,
+  "17": 2,
+  "21": 1,
+  "23": 1,
+  "28": 1,
+  "33": 1,
+  "36": 2,
+  "41": 1,
+  "47": 1
+ },
+ "check_draw": [
+  {
+   "release": "cebe7c36-b9ee-4235-ade9-0ff55e05b3db",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "ckNEPfrz2yU6VFEub_1IqqcTS6A-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "76bd8eb9-42cc-42a7-9739-4cd02f5696a7",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "GfkQIaq4uN5UgOHcjC4w4ICF9dk-",
+      "NnVZY1kyalFqcRWMEY6dAp00_SM-",
+      "kpH155NvUVsqECNe2xqdDV1xhrQ-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "dedb7046-6dbb-476a-8b86-ecc9ec121dad",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "9xuntra6f0P6hHunYAXJiXKBNCE-",
+      "DsidVye1tU1hEtYOpsI1aZGcPfo-"
+     ]
+    },
+    {
+     "position": 2,
+     "discids": []
+    }
+   ]
+  },
+  {
+   "release": "c1e3daec-df65-48fa-aa13-13ea816737a3",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "KoTqbwvv2qfEIkcXnv9jBAeLz34-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "9038c243-d6f1-408d-abbf-0e69c7c1adf6",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "x0kAs_36R92O3lKXIxnC28F1Zjg-"
+     ]
+    },
+    {
+     "position": 2,
+     "discids": [
+      "TgfdLNfFkwU9rl4jooavRgau4Ek-"
+     ]
+    },
+    {
+     "position": 3,
+     "discids": [
+      "RuaUtyqy4Ltvtg.kO.gwygsASTM-"
+     ]
+    },
+    {
+     "position": 4,
+     "discids": [
+      "clFWgrtMQ9bAARAtOlb32X3RhSo-"
+     ]
+    },
+    {
+     "position": 5,
+     "discids": [
+      "RAqBBTkrpP74Ia_pHTi7UvV233k-"
+     ]
+    },
+    {
+     "position": 6,
+     "discids": [
+      "aClgKs0NhHGCXlsAf3oNgu.x7_s-"
+     ]
+    },
+    {
+     "position": 7,
+     "discids": [
+      "OnRmtqPOl_LgU4lZCCxicb_5G.U-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "7c08ed2a-be9f-4dbb-8a47-97fecd8fbc98",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "eNyy7cifUTMZRX.Hqd.RXWgNaG0-"
+     ]
+    },
+    {
+     "position": 2,
+     "discids": [
+      "sG44tXiO9Ewn279qoPR_9.PeBa8-"
+     ]
+    },
+    {
+     "position": 3,
+     "discids": [
+      "qhLcXSvl9vwT4zLMCv.ZgBJeofk-"
+     ]
+    },
+    {
+     "position": 4,
+     "discids": [
+      "unbXjDn7gDm51fkYID8AtwkIHSg-"
+     ]
+    },
+    {
+     "position": 5,
+     "discids": [
+      "JYNR93.gwknZQdHxgNvUQ.7XLHo-"
+     ]
+    },
+    {
+     "position": 6,
+     "discids": [
+      "hS.iT66bwm2xxNJ_G..7SD0ZnVY-"
+     ]
+    },
+    {
+     "position": 7,
+     "discids": [
+      "v__YKvkKU3pqlscygv46NGY2q6I-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "0c38dc10-5b28-4b28-89e8-3e929e33f714",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "EVw97hviZeBiS5VeqMzhu7C2hU4-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "f538ac5b-0c6f-46d9-94e9-d7fd51f9e6b5",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "w8l7zhHhMpbZucDT6CuT23VQR50-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "c97864c6-741d-41c2-8ab8-0cb074f2df3e",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "ehztLRV_yGqp1ZSPA5JOymcBzQU-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "1c4d4a2d-8949-46e2-83e8-f04c5865177c",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "n_YRj0G7hN2kUzaS0ymBfIQx88M-"
+     ]
+    },
+    {
+     "position": 2,
+     "discids": [
+      "p4WXNsnlVxPOcqFmY9WOVK8ac1c-"
+     ]
+    },
+    {
+     "position": 3,
+     "discids": [
+      "l5ZKmsAVb69Bj4VV.QLOJxIE7BM-"
+     ]
+    },
+    {
+     "position": 4,
+     "discids": [
+      "AzHftAjOcpZefoj0AkHp2VmoaOE-"
+     ]
+    },
+    {
+     "position": 5,
+     "discids": [
+      "5cYo8QqkZWJ7.XHsOuIhLYA.a28-"
+     ]
+    },
+    {
+     "position": 6,
+     "discids": [
+      "DB0tKfah1t.X4GwGWuuM7Px93Cw-"
+     ]
+    },
+    {
+     "position": 7,
+     "discids": [
+      "XAhxa0HjvXXBfmVFi5rAGdb_Dj4-"
+     ]
+    },
+    {
+     "position": 8,
+     "discids": [
+      "zglCrnorucbIQoc7b1rv_hOQt_4-"
+     ]
+    },
+    {
+     "position": 9,
+     "discids": [
+      "kvhpPxWvhDxqSVwmtdjVs4VDa4w-"
+     ]
+    },
+    {
+     "position": 10,
+     "discids": [
+      "BaBtYVdcCm.RSXoP9cAd_5hM4Y8-"
+     ]
+    },
+    {
+     "position": 11,
+     "discids": [
+      "nZiioAUsTQ3eCNmiWYi8JwwbbyA-"
+     ]
+    },
+    {
+     "position": 12,
+     "discids": [
+      "exTMPrcnV1uIpXMAISKdr.PuHhU-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "fe3c0fa7-bbc8-45be-9196-d2bbb43f6858",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "IAYB2hfAsID3vY4MGX1slEZfSXA-"
+     ]
+    },
+    {
+     "position": 2,
+     "discids": [
+      "Z6Um3YHaj7FtqHihQ_H781IfL38-"
+     ]
+    },
+    {
+     "position": 3,
+     "discids": [
+      "HuUi8CrNyf0i_iPkSccQi0rWsgQ-"
+     ]
+    },
+    {
+     "position": 4,
+     "discids": [
+      "cQPS2jZBD0A1gQpEEwVinNle4pk-"
+     ]
+    },
+    {
+     "position": 5,
+     "discids": [
+      "VnI5NTT5J_dxNKEt_WbE3JBSHl4-"
+     ]
+    },
+    {
+     "position": 6,
+     "discids": [
+      "QnqlpbgDzJegLLYouhZ4o7q0IeI-"
+     ]
+    },
+    {
+     "position": 7,
+     "discids": [
+      "_EMkOVDPZOqo9GHLrQrMFeQq4ls-"
+     ]
+    },
+    {
+     "position": 8,
+     "discids": [
+      "..HwfRnlnWUJthCckFMHRqQQYXg-"
+     ]
+    },
+    {
+     "position": 9,
+     "discids": [
+      "p4h_qDnhx3yIYp93FvWMPQ5xVX8-"
+     ]
+    },
+    {
+     "position": 10,
+     "discids": [
+      "VrSABNsWrv.iU.UJsTE.8WvVMFg-"
+     ]
+    },
+    {
+     "position": 11,
+     "discids": [
+      "tYfrhgnZceowy9tz3c3YXFSLWyc-"
+     ]
+    },
+    {
+     "position": 12,
+     "discids": [
+      "Hu_qC01NtXDZx8aH_dzyvcb2Z1w-"
+     ]
+    },
+    {
+     "position": 13,
+     "discids": [
+      "DW35EH6.gqp1xVFGQvLLsKRPo.c-"
+     ]
+    },
+    {
+     "position": 14,
+     "discids": [
+      "Ihh_UGQvYa7kmFSzXX3XVz0QGNg-"
+     ]
+    },
+    {
+     "position": 15,
+     "discids": [
+      "fQF2iwDpPHlRE4VeWPK4acfuzZg-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "f0fcbc7d-0c68-4b47-8119-69252c024cf9",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "ef0MfdwWUDQKsqbXO9NM6cVshBE-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "a596d68f-c212-4834-bdee-c6c643ea89c3",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "w8l7zhHhMpbZucDT6CuT23VQR50-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "9ff82268-d6e7-47de-863f-4aae0317f00d",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "Bx3urcMMbydNVMY_YwO9lNEsvLs-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "c0816de6-9372-444a-a6d3-b7351a0fe669",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "13EpSMzcAH4GaqBgfKqNjIVwRNI-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "be085de8-f578-47be-8b39-3a21fbd376eb",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "Gi8ubn5DG1.PgXIcx.7y9GrZHsY-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "a57bb9ea-3fd7-419a-8bbc-1d4d263d79e3",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "Hj2KNdQJ1lmEkwEFkdAE.jWxlQY-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "96b7e3ba-3e99-41f4-b5ef-603728ec5bdb",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "l6DlpZ6aJ5AYFVVmtLkDU9RkK4I-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "7e53e9ac-49ba-4a36-8b66-78c025e56bff",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "pDn9D5FmNURmxozDuke1UrW_0Jk-"
+     ]
+    }
+   ]
+  },
+  {
+   "release": "1256e35d-fcfb-4198-8421-687189ed41d7",
+   "media": [
+    {
+     "position": 1,
+     "discids": [
+      "dfnk2FoBLPvT6ZOkkFdalPcZkAI-"
+     ]
+    }
+   ]
+  }
+ ],
+ "predictions": {
+  "P1 R at least 100 releases": true,
+  "P2 at least 80 % of R are sets": false,
+  "P3 at least 70 % of measured non-last media at the frame": false,
+  "P4 at most 10 % of measured last media at the frame": false,
+  "P5 median of last media not at frame in 112500-225000": false,
+  "P6 at least 95 % of measured last media at most 333000": true,
+  "P7 333000 commonest leadout >= 270000": true
+ }
+}
