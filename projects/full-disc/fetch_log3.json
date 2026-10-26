@@ -1,0 +1,140 @@
+[
+ {
+  "url": "https://musicbrainz.org/ws/2/release/cebe7c36-b9ee-4235-ade9-0ff55e05b3db?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:09Z",
+  "status": 200,
+  "sha256": "0e1f83bcacfee3f4d7174615435b1385019fd7faf6fa8f9672c96902dbe9bf46"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/76bd8eb9-42cc-42a7-9739-4cd02f5696a7?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:11Z",
+  "status": 200,
+  "sha256": "f14f010a23579308c541462aae93a8ae84b60396bf6e26fca977c4f241382f5d"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/dedb7046-6dbb-476a-8b86-ecc9ec121dad?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:13Z",
+  "status": 200,
+  "sha256": "2ebfb840d8196ee30fdf98ce46a672f671210739da35a8f07a78a1969200222a"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/c1e3daec-df65-48fa-aa13-13ea816737a3?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:15Z",
+  "status": 200,
+  "sha256": "139d655ba2b63f28540deb8ea918842232666a3547876bced1cb9c1bf6c0a48b"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/9038c243-d6f1-408d-abbf-0e69c7c1adf6?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:17Z",
+  "status": 200,
+  "sha256": "27fe602dff2142320ffc5f3798b917b57c72e8beefd6d71f9a9a50a5d2a57693"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/7c08ed2a-be9f-4dbb-8a47-97fecd8fbc98?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:19Z",
+  "status": 200,
+  "sha256": "3bb986a0a0bcfd7adb3b2b503db086499fd5f68fcd213777679bd77865c62368"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/0c38dc10-5b28-4b28-89e8-3e929e33f714?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:22Z",
+  "status": 200,
+  "sha256": "b52783d4bc0bdbd473df46139c9d604d0f6bf6082f7f9b184f7f1a9a9d9a790e"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/f538ac5b-0c6f-46d9-94e9-d7fd51f9e6b5?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:24Z",
+  "status": 200,
+  "sha256": "50dfd42d58e851c450397a61487f2d3698d08bff444acb11c7723a720c756c9f"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/c97864c6-741d-41c2-8ab8-0cb074f2df3e?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:26Z",
+  "status": 200,
+  "sha256": "5bd1b9397596333ca36df23e9e8801ba45f776b7bb4765d3c98b4eecccd1e761"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/1c4d4a2d-8949-46e2-83e8-f04c5865177c?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:29Z",
+  "status": 503,
+  "sha256": "33767dc9cc0ca702c142c290a0c6cd36949b89d483c79adc2115f80fd59850c4"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/1c4d4a2d-8949-46e2-83e8-f04c5865177c?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:34Z",
+  "status": 200,
+  "sha256": "f784591208e3440ca225a8c60c75d7b6b4d4813a8a078cd9ef86697b0264076e"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/fe3c0fa7-bbc8-45be-9196-d2bbb43f6858?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:37Z",
+  "status": 200,
+  "sha256": "eb7322b6678af6cd0dd7330b07201161320317ff2d70c6ed7ba1a58a9922a71a"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/f0fcbc7d-0c68-4b47-8119-69252c024cf9?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:39Z",
+  "status": 503,
+  "sha256": "33767dc9cc0ca702c142c290a0c6cd36949b89d483c79adc2115f80fd59850c4"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/f0fcbc7d-0c68-4b47-8119-69252c024cf9?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:44Z",
+  "status": 200,
+  "sha256": "fb015c629c562f8cd52fbdd137f7c43d22d11d8bf63ef320745a59467957faae"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/a596d68f-c212-4834-bdee-c6c643ea89c3?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:46Z",
+  "status": 200,
+  "sha256": "0f2dec9dbcb270bed1f0c7c7eeacc91415eed417d73b9658f8358225486cac8f"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/9ff82268-d6e7-47de-863f-4aae0317f00d?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:48Z",
+  "status": 200,
+  "sha256": "16be578f5de1777c117c7a0618a70f1e233bfbf18b33c0e93078f328b6a43662"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/c0816de6-9372-444a-a6d3-b7351a0fe669?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:50Z",
+  "status": 200,
+  "sha256": "976ba9df896cfb09fa62fb19b71fbadb8f11d1bf0afef1065c1ee19620027ff2"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/be085de8-f578-47be-8b39-3a21fbd376eb?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:52Z",
+  "status": 200,
+  "sha256": "cbfdb32d3bc37b9497e62ad9437b54543447c188f5e7912634924d5d7bdf2983"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/a57bb9ea-3fd7-419a-8bbc-1d4d263d79e3?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:55Z",
+  "status": 200,
+  "sha256": "2ad3e7370808dbfd910f68aca34f0f9c6470cf8e75258353f5ed25c91bafef32"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/96b7e3ba-3e99-41f4-b5ef-603728ec5bdb?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:37:57Z",
+  "status": 503,
+  "sha256": "33767dc9cc0ca702c142c290a0c6cd36949b89d483c79adc2115f80fd59850c4"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/96b7e3ba-3e99-41f4-b5ef-603728ec5bdb?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:38:02Z",
+  "status": 200,
+  "sha256": "70046cc71156c2b1e5f812dfde3fd96e1a1030ced965a1d4873ee4cc88959594"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/7e53e9ac-49ba-4a36-8b66-78c025e56bff?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:38:04Z",
+  "status": 200,
+  "sha256": "82ad12a5ee2d3bb58a106c5bbea50680b79376bc2e782d533954ee1b6bbd3062"
+ },
+ {
+  "url": "https://musicbrainz.org/ws/2/release/1256e35d-fcfb-4198-8421-687189ed41d7?inc=discids&fmt=json",
+  "clock": "2026-10-26T01:38:06Z",
+  "status": 200,
+  "sha256": "42ad526c5d68c873887674dac2b59f59acc03da0d51a5f94dfbda798c11700f2"
+ }
+]

@@ -1,0 +1,90 @@
+{
+ "releases_by_kind": {
+  "other type": 37,
+  "no type": 92,
+  "Spokenword": 2,
+  "Audiobook": 53
+ },
+ "sets_by_kind": {
+  "other type": 15,
+  "no type": 8,
+  "Spokenword": 1,
+  "Audiobook": 46
+ },
+ "set_media_formats": {
+  "CD": 550,
+  "CD-R": 119,
+  "Copy Control CD": 5,
+  "Data CD": 3,
+  "none": 2,
+  "Enhanced CD": 1,
+  "DVD-Video": 1
+ },
+ "sets_every_nonlast_at_frame": 20,
+ "nonlast_other_address_seconds_top": [
+  {
+   "second": 4439,
+   "media": 40
+  },
+  {
+   "second": 4440,
+   "media": 21
+  },
+  {
+   "second": 4442,
+   "media": 10
+  },
+  {
+   "second": 4437,
+   "media": 7
+  },
+  {
+   "second": 4438,
+   "media": 7
+  },
+  {
+   "second": 4436,
+   "media": 5
+  },
+  {
+   "second": 4380,
+   "media": 3
+  },
+  {
+   "second": 4430,
+   "media": 3
+  },
+  {
+   "second": 4426,
+   "media": 3
+  },
+  {
+   "second": 4441,
+   "media": 3
+  },
+  {
+   "second": 4320,
+   "media": 3
+  },
+  {
+   "second": 4418,
+   "media": 2
+  },
+  {
+   "second": 4384,
+   "media": 2
+  },
+  {
+   "second": 4431,
+   "media": 2
+  },
+  {
+   "second": 4395,
+   "media": 2
+  }
+ ],
+ "frame_media_position": {
+  "last": 13,
+  "not last": 359
+ }
+}

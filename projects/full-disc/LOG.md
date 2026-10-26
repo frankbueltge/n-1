@@ -79,3 +79,14 @@
   7,661,099,479 B), the two loops killed by number, the extraction script then went on. Lesson: a waiter must not name what it waits for
   in its own command line.
 - **01:23** sha256 of the download equals `SHA256SUMS` (`1d8d34df…`); extraction of the eight named tables began.
+- **01:36** the eight tables stood whole (the last one's size unchanged over four seconds); tar stopped by its process number.
+- **01:36** `count3.py` run once (22 s): P1, P6, P7 held; **P2, P3, P4, P5 failed.** R holds 184 releases and only 70 are sets (114 hold
+  one medium). In the sets, 359 of 603 measured discs before the last end at the frame: 59.5 %, not 70 %. By the registered rule the
+  work is not declared. Seen, and not planned: a second cut at 60:00 (270,000 frames, 70 discs; 270,150, 104).
+- **01:37** `check3.py`: 20 of 20 answered, 20 agree. P8 held.
+- **01:38** `explore3.py` (exploratory, written before the count, run after it): of the 244 discs before the last that miss the frame,
+  93 end between 73:56 and 74:02 by address second; 20 of 70 sets have every disc before the last at the frame. 46 of the 70 sets are
+  audiobooks; of the 114 one-medium releases, 7 are (53 in R less 46 in sets).
+- **01:38** decision by the registered rule: put back. The page draft for *The Last Address* (`works/the-last-address/`, committed
+  33dac0d before the count) is removed from the tree, not redesigned; it stands in that commit as history.
+- **01:39** correction before commit: the 01:38 line first gave a number for the one-medium releases that had not been counted (85); the count gives 7 audiobooks among 114. Fixed in place before commit, said here.

@@ -1,0 +1,7565 @@
+{
+"sets": [
+{
+"release": "98f39997-0dd6-49ef-a158-b376c7dceb00",
+"release_group": 297002,
+"media": [
+{
+"position": 1,
+"address": 330456,
+"format": "CD",
+"discids": [
+"_4CMo8SKaHhX9MwxikZ4Esskva4-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Eup504nbhZBoFYMx6QDm577uWho-"
+]
+}
+]
+},
+{
+"release": "3b65b8d3-8464-406e-8c38-042e598873fe",
+"release_group": 545272,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Enhanced CD",
+"discids": [
+"NRzBAOXyaLQByAxLcf3oiWGZGFg-",
+"NjZUhm8IMeqZFNJtSsfMVjDtb0w-",
+"YmycBrAiLJ2BiDZTvwpFXG975no-",
+"bRo22uYwzbEQLBjxX74VlvurijQ-",
+"jasOZa0MfH6OTyOZrxo70.Ms8JU-",
+"lEE5TrNG5oug3eMVX8NEQe3A0n8-",
+"zMqrhfu7eO5BQGLBr2Z2p8VXoy4-"
+]
+},
+{
+"position": 2,
+"address": 305884,
+"format": "CD",
+"discids": [
+".ddmSId6tpQMan._O8DIBqE9zBg-",
+"LMZT6A48lt6pF4IN0Bfa2P9Nv6A-",
+"k4tvkzoXm2X.3zUx0i89VzLVtOg-",
+"l1avbogs3N498o762ryMs9d4ROg-",
+"zcAp7LBLnFgXIh6Etfd_IudYEjA-"
+]
+}
+]
+},
+{
+"release": "7a1033d0-e3f6-3dd4-993f-9df5f2f634c5",
+"release_group": 545272,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"NRzBAOXyaLQByAxLcf3oiWGZGFg-",
+"NjZUhm8IMeqZFNJtSsfMVjDtb0w-",
+"YmycBrAiLJ2BiDZTvwpFXG975no-",
+"bRo22uYwzbEQLBjxX74VlvurijQ-",
+"jasOZa0MfH6OTyOZrxo70.Ms8JU-",
+"lEE5TrNG5oug3eMVX8NEQe3A0n8-",
+"zMqrhfu7eO5BQGLBr2Z2p8VXoy4-"
+]
+},
+{
+"position": 2,
+"address": 305884,
+"format": "Copy Control CD",
+"discids": [
+".ddmSId6tpQMan._O8DIBqE9zBg-",
+"LMZT6A48lt6pF4IN0Bfa2P9Nv6A-",
+"k4tvkzoXm2X.3zUx0i89VzLVtOg-",
+"l1avbogs3N498o762ryMs9d4ROg-",
+"zcAp7LBLnFgXIh6Etfd_IudYEjA-"
+]
+}
+]
+},
+{
+"release": "452f6416-128d-4c92-8f78-ec7c05436171",
+"release_group": 95356,
+"media": [
+{
+"position": 1,
+"address": 334950,
+"format": "CD",
+"discids": [
+"Vh4cygCsyszXYOpMSHdS_r.Bc1A-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"xJBjOlss3heXNjt8F7qKYx3KMdo-"
+]
+}
+]
+},
+{
+"release": "a8c7bdc6-53cb-4e28-87db-fdd3c3b4bd1c",
+"release_group": 104784,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+".gbFfdbspDUHYgToowgJjI8l5CU-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"wJDz4rZNAzz4ljxsz0p4kIbp0t8-"
+]
+}
+]
+},
+{
+"release": "d3c46fd8-a278-4a7b-afe1-748c7cc050b2",
+"release_group": 147793,
+"media": [
+{
+"position": 1,
+"address": 331725,
+"format": null,
+"discids": [
+"jD6VtEoCE1Wpj0IB73mLuKJAHtI-",
+"wzKR1GOQzoSHBsQdLky.xdjjmJ4-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": null,
+"discids": [
+"iSqRIYlCihCYaUdaYiTbr8zKlNY-",
+"k4r84wscWGO9LrEaBIfWQheQA8M-"
+]
+}
+]
+},
+{
+"release": "0a39b749-6048-4ee4-9e90-fb8a7884f6fd",
+"release_group": 544075,
+"media": [
+{
+"position": 1,
+"address": 310097,
+"format": "CD",
+"discids": [
+"1hm4c9J9yrIyyouOO1AepgqE8nY-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"k07Tmfa4B9lxErqCpDncz6t5g3s-"
+]
+}
+]
+},
+{
+"release": "6dea4df5-a80c-4207-931c-6377d8628dfb",
+"release_group": 210797,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"bkU8kmDrZinqua4cAbQu4OUqyMA-"
+]
+},
+{
+"position": 2,
+"address": 227850,
+"format": "CD",
+"discids": [
+"tFL92xn6HGd7vSydg20wmLsS9z4-"
+]
+}
+]
+},
+{
+"release": "0a702738-3619-3357-9746-184831e18012",
+"release_group": 545272,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"NRzBAOXyaLQByAxLcf3oiWGZGFg-",
+"NjZUhm8IMeqZFNJtSsfMVjDtb0w-",
+"YmycBrAiLJ2BiDZTvwpFXG975no-",
+"bRo22uYwzbEQLBjxX74VlvurijQ-",
+"jasOZa0MfH6OTyOZrxo70.Ms8JU-",
+"lEE5TrNG5oug3eMVX8NEQe3A0n8-",
+"zMqrhfu7eO5BQGLBr2Z2p8VXoy4-"
+]
+},
+{
+"position": 2,
+"address": 305884,
+"format": "CD",
+"discids": [
+".ddmSId6tpQMan._O8DIBqE9zBg-",
+"LMZT6A48lt6pF4IN0Bfa2P9Nv6A-",
+"k4tvkzoXm2X.3zUx0i89VzLVtOg-",
+"l1avbogs3N498o762ryMs9d4ROg-",
+"zcAp7LBLnFgXIh6Etfd_IudYEjA-"
+]
+}
+]
+},
+{
+"release": "56433539-50a5-4138-b07b-0d5b37eb6622",
+"release_group": 679390,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"MTBp2S8l.ezXcdHJv5kJpjH1TeM-"
+]
+},
+{
+"position": 2,
+"address": 329210,
+"format": "CD",
+"discids": [
+"wLHY76T4mWvBVhfeXNOj2q8Zilc-"
+]
+}
+]
+},
+{
+"release": "5831ff8e-be1f-490e-a0cb-4ebe23b46ff1",
+"release_group": 356524,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"T43jA3UvR2Bqfad.xtFUMlX.SUI-",
+"mGmXUoUYEbi6bwNhdVpAUBTXBQY-"
+]
+},
+{
+"position": 2,
+"address": 345655,
+"format": "CD",
+"discids": [
+"4NI282t5g_Beqbmhvg2fM7utznQ-"
+]
+}
+]
+},
+{
+"release": "5b963f49-b333-4c2f-96be-82c8346ecaf3",
+"release_group": 742932,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"l7050QfO1Wqowt4XTXce0gkmM3E-"
+]
+},
+{
+"position": 2,
+"address": 340400,
+"format": "CD",
+"discids": [
+"Q5WEESWPx2O7lvd5GUGV0jOE6S4-"
+]
+},
+{
+"position": 3,
+"address": 331126,
+"format": "CD",
+"discids": [
+"c49a2KmvVZ5QmAzQNRcR_8x0dhY-"
+]
+}
+]
+},
+{
+"release": "57118bee-4d64-4f17-b099-7e20163c8d00",
+"release_group": 801341,
+"media": [
+{
+"position": 1,
+"address": 310447,
+"format": "CD",
+"discids": [
+"0CD_uvGWNsoxEFDn8VWnFcPMoMY-",
+"MKqeDhMKfbYJx5vWtkFPFGyLmhQ-"
+]
+},
+{
+"position": 2,
+"address": 328553,
+"format": "CD",
+"discids": [
+"AYyHuqigwJPJ0dnJb.lXQtufVYA-",
+"OiaIUC563wRT8Io31f4IZ02Wc8w-",
+"UjPFXJ6fWUJzHfRRAQ9bzGHomjo-"
+]
+},
+{
+"position": 3,
+"address": 328305,
+"format": "CD",
+"discids": [
+"MEokHorJ9YsxI8qGY0VQ_yPiHKU-",
+"e8Mmqq87FJOdekIsPrCt0PzaIJo-"
+]
+},
+{
+"position": 4,
+"address": 331411,
+"format": "CD",
+"discids": [
+"OiaIUC563wRT8Io31f4IZ02Wc8w-",
+"T05q_qR2GmgPu_ZxC81tRBzJQoI-"
+]
+},
+{
+"position": 5,
+"address": 327890,
+"format": "CD",
+"discids": [
+"_JLWk4jJpavd0.sL0p5gcEELtUY-",
+"aelcUO.yX1C7I4bWcMyKGj0nmiQ-"
+]
+},
+{
+"position": 6,
+"address": 323702,
+"format": "CD",
+"discids": [
+"YReCsZd5DRwjp3vBwpYeBNBkdRM-",
+"uzkgyXLMHV5Spko.cxIUdvxkXj8-"
+]
+},
+{
+"position": 7,
+"address": 333820,
+"format": "CD",
+"discids": [
+"O4i5JLhtMofMsa2qVWauoUGlq9E-",
+"bqq1NGZlMuUVnbvKvVAZU4SRfW0-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"C5bCRBzUnvz7GD3_leQnN5BnjaU-",
+"vmMs1UJq6pwr7CVc7JZFCy4Ff_0-"
+]
+},
+{
+"position": 9,
+"address": 320787,
+"format": "CD",
+"discids": [
+"dcMEW3FQCg_DSWaJzC4HJwOz6KQ-",
+"uRTMDXTZbcNneTZiXwRoqjTx3Lo-"
+]
+},
+{
+"position": 10,
+"address": 327749,
+"format": "CD",
+"discids": [
+"__Mdk6YRDlYNfAQko9yt3fZklaI-",
+"x6MDGWau3bL55r3VrCOCx7vzZgU-"
+]
+},
+{
+"position": 11,
+"address": 303371,
+"format": "CD",
+"discids": [
+"3EMFMDjpbGG0hurNsEdo2m7JKEE-",
+"HzTmyv7SBZE1D1itB2phxJf9xNQ-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD",
+"discids": [
+"JLuhXpcJ_qSdwr6i6Fv_CjW5pLc-",
+"WHfn49.6z.ZwQ2HgLuhsAv3GYHk-"
+]
+},
+{
+"position": 13,
+"address": 328842,
+"format": "CD",
+"discids": [
+"WWTs84yzCPyJCrT.zFZdNSwAJY4-",
+"sYMtMoO5J8Iyy9nYELWfXZ3EVrg-"
+]
+},
+{
+"position": 14,
+"address": 327945,
+"format": "CD",
+"discids": [
+"Iz9EOVZJUr60n86HYOdlk8EGeMY-",
+"U3ton.tABLjjrxEPyhxj24iYOs8-"
+]
+},
+{
+"position": 15,
+"address": 331033,
+"format": "CD",
+"discids": [
+"4s_bNpoMgdgsU6HD5bT38Nvz0XE-",
+"bPjmT7rtCwGiTS8mgWk0OhLSNOw-"
+]
+},
+{
+"position": 16,
+"address": 333000,
+"format": "CD",
+"discids": [
+"AVYm3uae4QQRWfywvPWgwSPXhEw-",
+"mGwKK5P4zQ6tOXmJP0UpXqFqOlA-"
+]
+},
+{
+"position": 17,
+"address": 332332,
+"format": "CD",
+"discids": [
+"IsD1sf1Bg1bp6i0n8OqPpm0KWpQ-",
+"ZNFWUSkJvcgyXSrRYGYlv6JX_EQ-"
+]
+},
+{
+"position": 18,
+"address": 322420,
+"format": "CD",
+"discids": [
+"3dPmQgpUyh3RLWV2oHruyDW5ook-",
+"alpGP6MsQixtuDhyc3zFDGIhUZY-"
+]
+},
+{
+"position": 19,
+"address": 329652,
+"format": "CD",
+"discids": [
+"G5lG3O6X2UjoqUN0_0XjZ3tW0DU-",
+"yf1lYnA9CSCjL4cEVUR7vO30s8w-"
+]
+},
+{
+"position": 20,
+"address": 333000,
+"format": "CD",
+"discids": [
+"7S_CjGzgaBi_bjMm2VoSRYdnC4g-",
+"aXKt02qSc.T9CkvuFbTWNOi9tdw-"
+]
+},
+{
+"position": 21,
+"address": 327120,
+"format": "CD",
+"discids": [
+"Wn.17kMMQqI_pyE9OWM8iKjsPmg-",
+"mvH512rQLRUF9_lvdmXf1_DtNn4-"
+]
+},
+{
+"position": 22,
+"address": 318664,
+"format": "CD",
+"discids": [
+"f_wOX3s6sO1eFwhems0kSt4Fg_o-",
+"zxGEmGWr7BbLR8efsZEhvGw4YUs-"
+]
+},
+{
+"position": 23,
+"address": 316658,
+"format": "CD",
+"discids": [
+"XzxnNVGPAuKFgYZ_BmKkKxLHcB8-",
+"iaz7g0OjHmTqfL6bWRgwRAS6hgg-"
+]
+},
+{
+"position": 24,
+"address": 328547,
+"format": "CD",
+"discids": [
+"TVD77zQsMGLTlw8uHPnaEo8Kl4Y-",
+"ej9IzzIv2T7yYhtYQ6JY_zFa7B0-"
+]
+},
+{
+"position": 25,
+"address": 315661,
+"format": "CD",
+"discids": [
+"G.gNKjpFkWC0tSOitjj9kFSvwHo-",
+"r7PiRsnh0TRp6mgWkZz8Hl2qiNw-"
+]
+},
+{
+"position": 26,
+"address": 261261,
+"format": "CD",
+"discids": [
+"OZSfh69dDOYKHFa8kmbBKuBTBeo-",
+"QO06GsB3A1UDftj1ODa9CcrHXB8-"
+]
+},
+{
+"position": 27,
+"address": 243576,
+"format": "CD",
+"discids": [
+"NJpkor275KqFFLicSNbzCP1vctQ-",
+"zhFOoDezQms.lO5V5FXblm0OGwg-"
+]
+},
+{
+"position": 28,
+"address": 254940,
+"format": "CD",
+"discids": [
+"HcajThqdfFkjwX7s5VS7Irg8CFY-",
+"qO8D8BtKPFCnFhvyxBM9yc08c_g-"
+]
+}
+]
+},
+{
+"release": "dcfb400e-6bd7-4f82-be20-600450f32e39",
+"release_group": 905428,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"VqhcrUrK14Y.NWAEHVGnjDbOy5o-"
+]
+},
+{
+"position": 2,
+"address": null,
+"format": "CD",
+"discids": []
+}
+]
+},
+{
+"release": "10622718-d491-4383-8def-0641e94ed671",
+"release_group": 991497,
+"media": [
+{
+"position": 1,
+"address": 332250,
+"format": "CD",
+"discids": [
+"xC3idTYyMabsmUZM_aeceQSBZz8-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"YaR.yI.XZzyZru887X6B5rmdr5U-"
+]
+},
+{
+"position": 3,
+"address": 332250,
+"format": "CD",
+"discids": [
+"I3ejU1opnNT657Gsq.uw5UYTAbc-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"FLTPUm6og1NDbUgxdFP3VWCQGmY-"
+]
+},
+{
+"position": 5,
+"address": 332250,
+"format": "CD",
+"discids": [
+"kbNKyGPsfJaARHb7V_4Ntb1.2D4-"
+]
+},
+{
+"position": 6,
+"address": 316875,
+"format": "CD",
+"discids": [
+"Razc_AHk.LKBG4FHXBGxHa8vc2w-"
+]
+}
+]
+},
+{
+"release": "de977860-a5df-4818-8926-c8c7806084a9",
+"release_group": 148473,
+"media": [
+{
+"position": 1,
+"address": 331950,
+"format": "CD",
+"discids": [
+".Zo8GD0B9Bq2ZHxVYCtCwnParMs-"
+]
+},
+{
+"position": 2,
+"address": 360000,
+"format": "CD",
+"discids": [
+"FMVV1uTNwt4xpY2t77FZalHjoiw-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"PLn0PgXa8mvw1RrcyD5F8HSyWPA-"
+]
+}
+]
+},
+{
+"release": "a2d07f0c-359a-4c1e-bee3-17791cb9af49",
+"release_group": 551671,
+"media": [
+{
+"position": 1,
+"address": 322200,
+"format": "CD",
+"discids": [
+"zU18i1U_i7eAkrfe8oQhAPeYtsQ-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"mCKO0IpDGLBQFxGCaqfgAX2Sbmg-"
+]
+}
+]
+},
+{
+"release": "71502445-53ed-4310-9e91-125d4d8f3517",
+"release_group": 1071416,
+"media": [
+{
+"position": 1,
+"address": 332076,
+"format": "CD",
+"discids": [
+"SFTyGIS3QjLLj9gJARyc.nXC.P4-"
+]
+},
+{
+"position": 2,
+"address": 332982,
+"format": "CD",
+"discids": [
+"IE7Xp0hDqfAA6Ca6R1ixB1EKhOA-"
+]
+},
+{
+"position": 3,
+"address": 332991,
+"format": "CD",
+"discids": [
+"6oOVHqfXatbBmkkpYgVRrZAmngc-"
+]
+},
+{
+"position": 4,
+"address": 331993,
+"format": "CD",
+"discids": [
+"3mXZXg56KGi5C7mHn_BHLwut0_M-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"i3o1rZ1MY18Cbw8FX4wHgDr3b8Y-"
+]
+},
+{
+"position": 6,
+"address": 332991,
+"format": "CD",
+"discids": [
+"laJFJSz.4kCisisg5L7a_lk9ZC8-"
+]
+},
+{
+"position": 7,
+"address": 332967,
+"format": "CD",
+"discids": [
+"saFtpd0cdxodt6OW9ji3UGCZf2M-"
+]
+},
+{
+"position": 8,
+"address": 332985,
+"format": "CD",
+"discids": [
+"tJt5oo5twXSzfylHTEepoAjU9r0-"
+]
+},
+{
+"position": 9,
+"address": 332987,
+"format": "CD",
+"discids": [
+"3gKkJx6Qs61oV.BMXLHN3TAxXY0-"
+]
+},
+{
+"position": 10,
+"address": 332971,
+"format": "CD",
+"discids": [
+"IS8Y6S8g6zUcVGU1Ysz06t7CWGs-"
+]
+},
+{
+"position": 11,
+"address": 333000,
+"format": "CD",
+"discids": [
+"QzBeqjMGFksWE8yTzr9URh6Qg8U-"
+]
+},
+{
+"position": 12,
+"address": 291668,
+"format": "CD",
+"discids": [
+"La3hS.lapswuyj4J8ACYnhD4r1E-"
+]
+},
+{
+"position": 13,
+"address": 164252,
+"format": "CD",
+"discids": [
+"j_E.qPaYqG2tRtQDn3Ln5xyBSUg-"
+]
+}
+]
+},
+{
+"release": "755a1751-a953-4af4-ac22-d4b994104034",
+"release_group": 1132504,
+"media": [
+{
+"position": 1,
+"address": 333001,
+"format": "CD",
+"discids": [
+"llz9Hf7pvtpW9gP_srOPp45VvC0-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"d.vIagvqHLaDtLykJR7.Gl2u8Y8-"
+]
+},
+{
+"position": 3,
+"address": 333001,
+"format": "CD",
+"discids": [
+"3E29iArTIfVXnSuDK0EbEYdoASw-"
+]
+},
+{
+"position": 4,
+"address": 333001,
+"format": "CD",
+"discids": [
+"uunnopNE7AnT4oq.MfAbHlk15r8-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"2wmfMqGiH4k3AxvJ0ufyndMIov0-"
+]
+},
+{
+"position": 6,
+"address": 294975,
+"format": "CD",
+"discids": [
+"Pqldz.PkVDeo4RZQdF9PRNULNwk-"
+]
+}
+]
+},
+{
+"release": "237cf173-b061-4c97-8288-b285c78f2b29",
+"release_group": 1167594,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"e_o.nI14qwf5Oa9Zw4nyAnJYZsA-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"mVo.Sl6kn.KTxVgbibsOVbuX2to-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"s71NH8lbjBQdnZGuA3bEnlOZTnc-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"btAk4gm9pXxVOvfj4UxDvTPOJjM-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"YUCkEdTMSe8_CcuDeBDW8y773ug-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"YK4SpFU2duJcnhr01mH0_c6uL9E-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"q98G9KvcD3TLJWFlj3AIPlBX_B4-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"EGIjd._FzMBK5OrAcaV7MInJ8.0-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ohKFjPSWS.gXuGxB9PXK44TRLVs-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD",
+"discids": [
+"cnchY8W2pYTgeK59Nz5TSSC.k5Q-"
+]
+},
+{
+"position": 11,
+"address": 333000,
+"format": "CD",
+"discids": [
+"4iynIqMQ1lPnomKKMXp.z2bp7gE-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD",
+"discids": [
+"0cPZHUcwH2qsWmyCG_JxFrmrnxw-"
+]
+},
+{
+"position": 13,
+"address": 333000,
+"format": "CD",
+"discids": [
+"kjr43P9uFCwgvbrAIMN8nVggsE0-"
+]
+},
+{
+"position": 14,
+"address": 333000,
+"format": "CD",
+"discids": [
+"UODSTdRS4wjdIwNCci3xi83Yw_4-"
+]
+},
+{
+"position": 15,
+"address": 333000,
+"format": "CD",
+"discids": [
+"SaFFjj_OkntxJGEFtcbGfguul8c-"
+]
+},
+{
+"position": 16,
+"address": 224625,
+"format": "CD",
+"discids": [
+"Z9yD0wCrIt9dlku9HPUGD_j1eXI-"
+]
+},
+{
+"position": 17,
+"address": 173625,
+"format": "CD",
+"discids": [
+"WgDdQ7DAYZLu4vDQyOjA4CjJb8M-"
+]
+}
+]
+},
+{
+"release": "b7074bc3-77d4-419b-9b70-2eed518e6d15",
+"release_group": 1214457,
+"media": [
+{
+"position": 1,
+"address": 333018,
+"format": "CD",
+"discids": [
+"hFIu4FCFrd5dOb_wijuAsiZSMT4-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"it0m5aRA7T5MiRBppD8FlR3X0dA-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"QZO_rOP5Apji.FDlAKLV.NP._jU-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Pwt_nZxSlitmctqWOigEqDVkMDY-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Y0Ann7Xa881ZnXL8UBeCTf7X3A8-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"NbUxwCYFKah5bJMevmjP.PHx4pY-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"LCbqe.wL_BQcs4q2xddeRWMSm3I-"
+]
+},
+{
+"position": 8,
+"address": 333096,
+"format": "CD",
+"discids": [
+"15pYDwyx3IkQmBgKDo87buogyN4-"
+]
+},
+{
+"position": 9,
+"address": 191460,
+"format": "CD",
+"discids": [
+"xUUOQeEQpMmHuy3du0Qtk6.6cLU-"
+]
+}
+]
+},
+{
+"release": "5d3bf469-6f0c-428f-ba9d-33cf645f0880",
+"release_group": 1227775,
+"media": [
+{
+"position": 1,
+"address": 330426,
+"format": "CD",
+"discids": [
+"9Zj0.ua6vaSJhFjNK3Rs6PtX948-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"RDUa9GGektbT35s4v_UoDDh4YCE-"
+]
+}
+]
+},
+{
+"release": "f16150ff-742c-48da-aa61-52eb0ec39a92",
+"release_group": 1235002,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"KDsIi8X.SYuHG4IIuOdsNrtLp3c-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"GE5JfW8mDL1MCeA8hftBmlXbeGA-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"u3wPhbBoHDfokB6Ugom0vMD1rzU-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"bNNzMsmVP3A2GePL8GbPG8csTAs-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Er4mMrheM7TMe6TiU0wt_zyC38c-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"EB7Uhu3QFmj37kSJQlTg1hyGPUE-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"o21LTUy6qKUAbh.oZNUDSBLnF5Y-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"rQt3hjoSevPyM3HjXe7S3NSjKdc-"
+]
+},
+{
+"position": 9,
+"address": 332992,
+"format": "CD",
+"discids": [
+"wmBhihYqMUFO7Dyd5YVLJ7rWQE8-"
+]
+},
+{
+"position": 10,
+"address": 332990,
+"format": "CD",
+"discids": [
+".eCSPXt5S0ONM_v6Luzckxxf6bc-"
+]
+},
+{
+"position": 11,
+"address": 312900,
+"format": "CD",
+"discids": [
+"17Hw.BseQ5amA09xxjkJVKxOXJQ-"
+]
+},
+{
+"position": 12,
+"address": 147525,
+"format": "CD",
+"discids": [
+"GjbY_Vz1apRutZ6M1i01QGdXzlA-"
+]
+}
+]
+},
+{
+"release": "74153b19-f968-4c3d-a741-11526fae6957",
+"release_group": 1340121,
+"media": [
+{
+"position": 1,
+"address": 361895,
+"format": "CD",
+"discids": [
+"RIe92HhS5z6IbbsUTmIweNflTb0-"
+]
+},
+{
+"position": 2,
+"address": 357930,
+"format": "CD",
+"discids": [
+"1TMq31__ntoctYnvAfYHUke7pp4-"
+]
+},
+{
+"position": 3,
+"address": 320546,
+"format": "CD",
+"discids": [
+"7rAD2uXcRq54RoiNxrTVCpmy1js-"
+]
+},
+{
+"position": 4,
+"address": 265369,
+"format": "CD",
+"discids": [
+"IvxA7d2ud6pxzvl2qNjMmHjGGAM-"
+]
+},
+{
+"position": 5,
+"address": 329625,
+"format": "CD",
+"discids": [
+"Jnlflqlui7AUZ.LK.2jQXEgETHk-"
+]
+},
+{
+"position": 6,
+"address": 302227,
+"format": "CD",
+"discids": [
+"E0EkG.weaArptHof0g2YPnE8sFc-"
+]
+},
+{
+"position": 7,
+"address": 288150,
+"format": "CD",
+"discids": [
+"9keEJ4lZHkONoTG3pK5vnnTYTSY-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"2YK.fPBV0MF7qPiIvcmZBLmXCig-"
+]
+},
+{
+"position": 9,
+"address": 233483,
+"format": "CD",
+"discids": [
+"BggET.f8GPKwZ5vwVqZdDPR8ghk-"
+]
+},
+{
+"position": 10,
+"address": 222075,
+"format": "CD",
+"discids": [
+"NUZ5VlVZOAtkMFX1T4_oZX5d9Vs-"
+]
+}
+]
+},
+{
+"release": "4bda2fe4-c19c-44c0-8637-f1ef8a92760a",
+"release_group": 1347704,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"DegSAVz1QMN44xlReLsgj7DlP7Q-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"iqBvPYaIlTn_hi53Z6FTNz.6u9w-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"RAFcAkJ1.ujEtqgVoaF49okDBcg-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"jCFukY6QNBD8yYdUch8.JpozeJ0-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"b8ZhOcgWGZ2e32PsvCbR0c1TRZI-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"PLEoauULQx7nypEMsyWqqAZWDdM-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Vq4KM0v_ioI4IEwZ_4c.RYo3Lrw-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"E6nd9NMPHcMdm3sdIO8rHZKEAZQ-"
+]
+},
+{
+"position": 9,
+"address": 150075,
+"format": "CD",
+"discids": [
+"vM32supl2GM7wDLGdvLsBIbbFcE-"
+]
+}
+]
+},
+{
+"release": "bd34ed96-c71d-498e-a5f4-081577d82709",
+"release_group": 1607749,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"s6LyWecwzDiKsLyzRJQliHXDjqw-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Mx_a5Cau4dcZvZhC_YBGM_EUZw0-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"q3xLCH52VjW3qGaHf3V3G9Crmxk-"
+]
+},
+{
+"position": 4,
+"address": 324000,
+"format": "CD",
+"discids": [
+"_YpS.lO2RCaQh65zSnRhtXHNuT4-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"OXI3U1HJ0yiu3mIH8VzuuOA5dUE-"
+]
+},
+{
+"position": 6,
+"address": 310500,
+"format": "CD",
+"discids": [
+".KFhqd85sEOHTK09f5WabZL_.X4-"
+]
+}
+]
+},
+{
+"release": "17f04c61-6ce7-4b0f-b1be-6290be365b49",
+"release_group": 495223,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"uQuwDerAytXlZS_OpNKUiJy2ELY-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"78JSyJX6Ev4PrJ3_OezKHRyUtjk-"
+]
+}
+]
+},
+{
+"release": "7c950143-40cd-455e-8cb3-fb334c4e067b",
+"release_group": 644887,
+"media": [
+{
+"position": 1,
+"address": null,
+"format": "CD",
+"discids": []
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"VCXpdg_9u0TRe7vR1M5Ho6Ww5MA-"
+]
+}
+]
+},
+{
+"release": "f70a0bfc-fd03-4bbe-8fc3-848b800611d0",
+"release_group": 1683038,
+"media": [
+{
+"position": 1,
+"address": 331857,
+"format": "CD",
+"discids": [
+"wg66uwXpNU5E9QKgX.FUgxQNO64-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"IbRBV4Da_iOCd7wTrQ8mEqnzg_o-"
+]
+},
+{
+"position": 3,
+"address": null,
+"format": "CD",
+"discids": []
+},
+{
+"position": 4,
+"address": null,
+"format": "CD",
+"discids": []
+},
+{
+"position": 5,
+"address": null,
+"format": "CD",
+"discids": []
+},
+{
+"position": 6,
+"address": null,
+"format": "CD",
+"discids": []
+},
+{
+"position": 7,
+"address": null,
+"format": "CD",
+"discids": []
+},
+{
+"position": 8,
+"address": null,
+"format": "CD",
+"discids": []
+}
+]
+},
+{
+"release": "aefb0ea6-9d1f-420a-8276-2652e16a5d44",
+"release_group": 1770877,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"fitWAbUzRFUuUWrXWGhzDI8L9xM-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"N9wUplXVmLkjfx2EVjmtPZL4ppY-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"3fbmEAd5teac4yGjBY8o9EBSBCg-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"CApRL1zT0vHuF6hp_glZ4F6bs1Y-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"NH9XLgJ.P4tIHP.5XJN9rb5ggGY-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ri4KCnpjkLAgnstZmAJCfY9Fs9c-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"QUxEiGcPuPcetydwxx28wkSn648-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"9mxD9cQ39_0Q045D_bDpKrWY.2Q-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD",
+"discids": [
+"yL22sF0dtXTWEjOMOvPk05NizZc-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD",
+"discids": [
+"a9jxBGZAm9qBRla18dVVhkiPed8-"
+]
+},
+{
+"position": 11,
+"address": 333000,
+"format": "CD",
+"discids": [
+"gF78s4VPa6pCj_O6O7E4BoX1kCQ-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD",
+"discids": [
+"mUB8BcC1JgcAFMsCuYdY310zS8Q-"
+]
+},
+{
+"position": 13,
+"address": 333000,
+"format": "CD",
+"discids": [
+"0DYBcbrQ8Z67DDONFDmYEaYKhqE-"
+]
+},
+{
+"position": 14,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Sx5afzW9NiVF1fVHXLrmWIxQZhY-"
+]
+},
+{
+"position": 15,
+"address": 333000,
+"format": "CD",
+"discids": [
+"1T81B5yz1pE2LHcc7pbqFCzwDxU-"
+]
+},
+{
+"position": 16,
+"address": 333000,
+"format": "CD",
+"discids": [
+"hRD0ZwTcutV3euvvBJKxi8KZNao-"
+]
+},
+{
+"position": 17,
+"address": 333000,
+"format": "CD",
+"discids": [
+".c6TLTXAoT_G0U.QYHhMluuklNA-"
+]
+},
+{
+"position": 18,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ZhpBq97qpkFR9e7PLiraDb8kIcU-"
+]
+},
+{
+"position": 19,
+"address": 333000,
+"format": "CD",
+"discids": [
+"9PSzkY3vIkGfMxeFgnPu4XxmvwI-"
+]
+},
+{
+"position": 20,
+"address": 333000,
+"format": "CD",
+"discids": [
+"oHO5WQfPrYdL7ttL5x8Prs6Usn0-"
+]
+},
+{
+"position": 21,
+"address": 333000,
+"format": "CD",
+"discids": [
+"zcBkvQ_cfrywtI6WqDURQc4Dg6g-"
+]
+},
+{
+"position": 22,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ZZNRk8X6_W.7If.YyM7okY8ognM-"
+]
+},
+{
+"position": 23,
+"address": 333000,
+"format": "CD",
+"discids": [
+"a4qPkPw85k8nHJ7bAU80K6krqjU-"
+]
+},
+{
+"position": 24,
+"address": 333000,
+"format": "CD",
+"discids": [
+"DwMu4BlSB7LlMkAJkB5WmDy_hgg-"
+]
+},
+{
+"position": 25,
+"address": 333000,
+"format": "CD",
+"discids": [
+"W_db.2Bq6VdQWqNTxlOtZNDJFvA-"
+]
+},
+{
+"position": 26,
+"address": 333000,
+"format": "CD",
+"discids": [
+"lMuq_to5yzoYDZr8ysZLLVcGFAI-"
+]
+},
+{
+"position": 27,
+"address": 333000,
+"format": "CD",
+"discids": [
+"VwADdna5IpdAJXE4xkCsBLq.gg4-"
+]
+},
+{
+"position": 28,
+"address": 333000,
+"format": "CD",
+"discids": [
+"B23CFKR_j7A9_uVmmsHOjMU0Slw-"
+]
+},
+{
+"position": 29,
+"address": 333000,
+"format": "CD",
+"discids": [
+"3ZJRJkFVigXXu1kqNf.2zS9AJTQ-"
+]
+},
+{
+"position": 30,
+"address": 333000,
+"format": "CD",
+"discids": [
+"MPn4B7qVNIKcaLYlDfend7lpBMY-"
+]
+},
+{
+"position": 31,
+"address": 333000,
+"format": "CD",
+"discids": [
+"PhyARp3wYLzMZx8CjGLd_aZPx_w-"
+]
+},
+{
+"position": 32,
+"address": 333000,
+"format": "CD",
+"discids": [
+"6NyygnH5IJ4izHesUyoqOOzvvwY-"
+]
+},
+{
+"position": 33,
+"address": 333000,
+"format": "CD",
+"discids": [
+"G8i2KzlDVly6UDxzhIAG4P5jPao-"
+]
+},
+{
+"position": 34,
+"address": 333000,
+"format": "CD",
+"discids": [
+"4tAfOwsU_.AQ0mTyLDstE767VKA-"
+]
+},
+{
+"position": 35,
+"address": 333000,
+"format": "CD",
+"discids": [
+"VS2twZwB.Ze.m5E4fKBqGH2BPdo-"
+]
+},
+{
+"position": 36,
+"address": 333000,
+"format": "CD",
+"discids": [
+"h_uUR5zKjY141OoAkPpWD0ca8us-"
+]
+},
+{
+"position": 37,
+"address": 333000,
+"format": "CD",
+"discids": [
+"5lEiKxVzhR7L3Oob0Jhl98H4HpA-"
+]
+},
+{
+"position": 38,
+"address": 303975,
+"format": "CD",
+"discids": [
+"eeOlrGfMiPqApI4mNot0OXxjDlg-"
+]
+},
+{
+"position": 39,
+"address": null,
+"format": "Data CD",
+"discids": []
+},
+{
+"position": 40,
+"address": null,
+"format": "Data CD",
+"discids": []
+},
+{
+"position": 41,
+"address": null,
+"format": "Data CD",
+"discids": []
+}
+]
+},
+{
+"release": "0faaa701-9c4b-47b0-a59e-93262820f4a4",
+"release_group": 1771165,
+"media": [
+{
+"position": 1,
+"address": 332998,
+"format": "CD",
+"discids": [
+"Dt047zLDxWlx07DKXsiUdnXnO3E-"
+]
+},
+{
+"position": 2,
+"address": 332997,
+"format": "CD",
+"discids": [
+"i4h2JMFFnXbvGTPw08bemOOESHg-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"0PZKtWtGJsHz0kZpwobOyjrJ_Hs-"
+]
+},
+{
+"position": 4,
+"address": 333002,
+"format": "CD",
+"discids": [
+"MVTw8yh.TZBj.OglZs6KgFPrZ.4-"
+]
+},
+{
+"position": 5,
+"address": 332997,
+"format": "CD",
+"discids": [
+"2IjDx9vko93k45jibt0TWl9TFaI-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"fj0nTASpppnq01C_owWpvlhSAIk-"
+]
+},
+{
+"position": 7,
+"address": 333003,
+"format": "CD",
+"discids": [
+"ZyOGJYnt0O_6uYH7ZrvLx.1.rbY-"
+]
+},
+{
+"position": 8,
+"address": 333003,
+"format": "CD",
+"discids": [
+"LpnzN3qAuSIsyXr25VetFBDd.w4-"
+]
+},
+{
+"position": 9,
+"address": 184500,
+"format": "CD",
+"discids": [
+"79IAa9grN0G2i3Td.TFjKquUNv4-"
+]
+}
+]
+},
+{
+"release": "14b9b71d-1853-41a6-80bc-326c9d420d73",
+"release_group": 1771213,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"BBFqxGcMk7CvmdnJ0d9lud5qbos-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"CAGhBMPgQWtXUeLn3_7Nj4srdIk-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"sHt2oVGTxftb0Au_qVN7oRRFUyQ-"
+]
+},
+{
+"position": 4,
+"address": 332996,
+"format": "CD",
+"discids": [
+"tzuHlppMEfH3x9rRufVWywoA0wY-"
+]
+},
+{
+"position": 5,
+"address": 332997,
+"format": "CD",
+"discids": [
+"TxYKYIs0HEsYKjr2ue3pE1mPJrI-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+".CG62Og2Rt.2CFry8._TMGwgxS0-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Ng7WHc3kARlyZLUuJKBXfHEkPEk-"
+]
+},
+{
+"position": 8,
+"address": 182317,
+"format": "CD",
+"discids": [
+"7mVxqYaXA_A0e7wG7zx0HYMtDmQ-"
+]
+},
+{
+"position": 9,
+"address": 165900,
+"format": "CD",
+"discids": [
+"q.4VbGp3yccNwkWbCWTKe3QtLCU-"
+]
+}
+]
+},
+{
+"release": "1c4d4a2d-8949-46e2-83e8-f04c5865177c",
+"release_group": 1778953,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"n_YRj0G7hN2kUzaS0ymBfIQx88M-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"p4WXNsnlVxPOcqFmY9WOVK8ac1c-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"l5ZKmsAVb69Bj4VV.QLOJxIE7BM-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"AzHftAjOcpZefoj0AkHp2VmoaOE-"
+]
+},
+{
+"position": 5,
+"address": 332994,
+"format": "CD",
+"discids": [
+"5cYo8QqkZWJ7.XHsOuIhLYA.a28-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"DB0tKfah1t.X4GwGWuuM7Px93Cw-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"XAhxa0HjvXXBfmVFi5rAGdb_Dj4-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"zglCrnorucbIQoc7b1rv_hOQt_4-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD",
+"discids": [
+"kvhpPxWvhDxqSVwmtdjVs4VDa4w-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD",
+"discids": [
+"BaBtYVdcCm.RSXoP9cAd_5hM4Y8-"
+]
+},
+{
+"position": 11,
+"address": 333000,
+"format": "CD",
+"discids": [
+"nZiioAUsTQ3eCNmiWYi8JwwbbyA-"
+]
+},
+{
+"position": 12,
+"address": 166463,
+"format": "CD",
+"discids": [
+"exTMPrcnV1uIpXMAISKdr.PuHhU-"
+]
+}
+]
+},
+{
+"release": "7c08ed2a-be9f-4dbb-8a47-97fecd8fbc98",
+"release_group": 1779449,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"eNyy7cifUTMZRX.Hqd.RXWgNaG0-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"sG44tXiO9Ewn279qoPR_9.PeBa8-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"qhLcXSvl9vwT4zLMCv.ZgBJeofk-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"unbXjDn7gDm51fkYID8AtwkIHSg-"
+]
+},
+{
+"position": 5,
+"address": 332968,
+"format": "CD",
+"discids": [
+"JYNR93.gwknZQdHxgNvUQ.7XLHo-"
+]
+},
+{
+"position": 6,
+"address": 265201,
+"format": "CD",
+"discids": [
+"hS.iT66bwm2xxNJ_G..7SD0ZnVY-"
+]
+},
+{
+"position": 7,
+"address": 265189,
+"format": "CD",
+"discids": [
+"v__YKvkKU3pqlscygv46NGY2q6I-"
+]
+}
+]
+},
+{
+"release": "c9e46849-efb0-48da-b1a0-dc90f14c423d",
+"release_group": 1780692,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"GcBFFw_28ey.wt0ySplqM9OsLBU-"
+]
+},
+{
+"position": 2,
+"address": 329400,
+"format": "CD",
+"discids": [
+"AXWhiMKNy4ShOiV01U0aKi9AOww-"
+]
+},
+{
+"position": 3,
+"address": 325275,
+"format": "CD",
+"discids": [
+"F29Kr62d8gfnxNslKOf7jBxWBOA-"
+]
+},
+{
+"position": 4,
+"address": 318150,
+"format": "CD",
+"discids": [
+"5b1FZZ0UDbcOVzc1eCfzdXvg9iE-"
+]
+},
+{
+"position": 5,
+"address": 322650,
+"format": "CD",
+"discids": [
+"c59hV8rouYp.VCAv94hPcLF3.4o-"
+]
+},
+{
+"position": 6,
+"address": 322650,
+"format": "CD",
+"discids": [
+"XWgtma4uMK0p6Kn.Div0x80.t54-"
+]
+},
+{
+"position": 7,
+"address": 318909,
+"format": "CD",
+"discids": [
+"6gxcgxc4.0C2r2jT6DW.Ierz3z0-"
+]
+},
+{
+"position": 8,
+"address": 321900,
+"format": "CD",
+"discids": [
+"wimXg.ittShpFiRBdK4NckPqhnA-"
+]
+},
+{
+"position": 9,
+"address": 321469,
+"format": "CD",
+"discids": [
+"9JEZEIwV6XTBTMMJ6LdZsnu6Xso-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD",
+"discids": [
+"nTeY3MYPDbl3V0uYTETmvRHxK_U-"
+]
+},
+{
+"position": 11,
+"address": 330150,
+"format": "CD",
+"discids": [
+"tvN21yBHyYAkRKkyqagdyV0LrT4-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD",
+"discids": [
+"HhUDp0LjLqTs4RfGAotvtwHanso-"
+]
+},
+{
+"position": 13,
+"address": 332963,
+"format": "CD",
+"discids": [
+"3nKP3IrPtiGsgfLsBJ4rH4IvjqM-"
+]
+},
+{
+"position": 14,
+"address": 282900,
+"format": "CD",
+"discids": [
+"IMF0TKsWsOpF11vQ_ruAqjgtqm0-"
+]
+},
+{
+"position": 15,
+"address": 284400,
+"format": "CD",
+"discids": [
+"PPXEchFp4MD9TMdaGBsmzvq7n6E-"
+]
+}
+]
+},
+{
+"release": "2ee2da94-0482-41fb-865d-18fa8025fe3a",
+"release_group": 1780984,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"jobGviRLryoqSjwW7gVhIOdTEI4-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"xDT4UfH3jMERhk4g_opUlSxvR6Y-"
+]
+},
+{
+"position": 3,
+"address": 332978,
+"format": "CD",
+"discids": [
+"60kuCoAsvl54sIJOdpS3gek_RIc-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"S8Vc0bavXP9KwmCDewpPiE8y0bo-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"alOB8SV0JW8zRRQMEYlQXOleu9Q-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"OmuWYq_GMNQ06kYY87LXBsEzT_A-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"cSaUwNtEjdmGVaN_sLULKwyow3c-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"peootg5cgtO35edoIGa_mE_o3lk-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD",
+"discids": [
+"RDthm1ZKeNNbdrlOLZgHxUgCpfs-"
+]
+},
+{
+"position": 10,
+"address": 199833,
+"format": "CD",
+"discids": [
+"rrberVNcobYL0M7GHmiIm9n9GuA-"
+]
+},
+{
+"position": 11,
+"address": 188886,
+"format": "CD",
+"discids": [
+"N3yNGW2zHY4OMOsFbrL1N70QWLk-"
+]
+}
+]
+},
+{
+"release": "cf4e7d16-7742-4d28-8181-089a5af12544",
+"release_group": 1781019,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"wxJAK16NXW29bziQ5vs92iCGWQs-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"_9PtA953iwWZjfma1unt0WDtLng-"
+]
+},
+{
+"position": 3,
+"address": 212400,
+"format": "CD",
+"discids": [
+"KdRJD3LL8AIu9jR31Ss.yds1dkc-"
+]
+},
+{
+"position": 4,
+"address": 139593,
+"format": "CD",
+"discids": [
+"zDU5_GpETKMUJv6oDAHrtJ0gors-"
+]
+}
+]
+},
+{
+"release": "21c7d89d-661e-4bf0-b2fc-363c77e9be8c",
+"release_group": 1781204,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"0ub5X_NMYSObRgDQjoXXqpnPaF0-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"0pq7IhNs.Ah2MTWD3HPERj3A_3w-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"5420HIomSg2xrcUwr8m1DmNOM9Q-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"cs5u_1YKIu6VldL58tHsOgBS1pI-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"DLYMw9KfNUrd4gyePYjjzjKsooY-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+".bCRS0o0T7CxFDtgWwTTkrhZKcE-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"EvVk1jl9lpj45WX0EiYr9xXdURY-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"R7nLlxsu6QzWZPqFjym3wVRAljM-"
+]
+},
+{
+"position": 9,
+"address": 187875,
+"format": "CD",
+"discids": [
+"ZnVdridbcLHa0rKVdC6dRjwoze4-"
+]
+},
+{
+"position": 10,
+"address": 187875,
+"format": "CD",
+"discids": [
+"pNSaOpD14xb94KY934OQXxd1Xmw-"
+]
+}
+]
+},
+{
+"release": "df5cd60b-d24e-4c7b-90aa-9c10c7d40e1e",
+"release_group": 1781512,
+"media": [
+{
+"position": 1,
+"address": 332997,
+"format": "CD",
+"discids": [
+"Kfp6Uhm_A1ZShylwkUfOuBDsCMo-"
+]
+},
+{
+"position": 2,
+"address": 333001,
+"format": "CD",
+"discids": [
+"BmUQsEkb4USdZsaB7mdziyMBEzI-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"XG1n6uWojjBUmvp3GEYBWtRLXJ0-"
+]
+},
+{
+"position": 4,
+"address": 332997,
+"format": "CD",
+"discids": [
+"eoiQCwFeAObqK0.5DJtTvr.6Td4-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"nwXPdhZ65vsvl1IAzvtfXi59O7I-"
+]
+},
+{
+"position": 6,
+"address": 332996,
+"format": "CD",
+"discids": [
+"qvEkTda.GKIYad4BwQaQknJHDAw-"
+]
+},
+{
+"position": 7,
+"address": 333001,
+"format": "CD",
+"discids": [
+"oG7Q9UGSmLL1r2niqvyv_kWSh1Q-"
+]
+},
+{
+"position": 8,
+"address": 332998,
+"format": "CD",
+"discids": [
+"AzsdvaAMbapv9U_3vMj5MjeZDOw-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD",
+"discids": [
+"n6jhexeTFig2BbCRgqcHaDNNQ58-"
+]
+},
+{
+"position": 10,
+"address": 333003,
+"format": "CD",
+"discids": [
+"hRbpHG06rqSgYDDcT6WXKKxKLOQ-"
+]
+},
+{
+"position": 11,
+"address": 332999,
+"format": "CD",
+"discids": [
+"Iu5TX2XUQ57WY1ApsvZ9QNnHd3U-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD",
+"discids": [
+"34XULwmEtKnUUSwd7gH0V6dj20c-"
+]
+},
+{
+"position": 13,
+"address": 332996,
+"format": "CD",
+"discids": [
+"Ig1m5iAt.oZJWqXScM3IvitmqBM-"
+]
+},
+{
+"position": 14,
+"address": 332997,
+"format": "CD",
+"discids": [
+"A2om7O1eJOagK0v1n82XloEfdMk-"
+]
+},
+{
+"position": 15,
+"address": 333001,
+"format": "CD",
+"discids": [
+"8SsTQ03Er10o58y52LDKDcDW_24-"
+]
+},
+{
+"position": 16,
+"address": 332999,
+"format": "CD",
+"discids": [
+"IUZh9gfq6tfSrCygWEMN42u3JlE-"
+]
+},
+{
+"position": 17,
+"address": 332999,
+"format": "CD",
+"discids": [
+"7JWFFRywdqxdrroA4gJcgdiyhXU-"
+]
+},
+{
+"position": 18,
+"address": 332999,
+"format": "CD",
+"discids": [
+"l5aHKS6gGyups1NFrxeLUfqrOJA-"
+]
+},
+{
+"position": 19,
+"address": 332999,
+"format": "CD",
+"discids": [
+"HYakk1Dsx70RYFk5s7P4tsRBpS0-"
+]
+},
+{
+"position": 20,
+"address": 224998,
+"format": "CD",
+"discids": [
+"byKaUypvploa3NpCuRSibZMkHPc-"
+]
+},
+{
+"position": 21,
+"address": 225000,
+"format": "CD",
+"discids": [
+"a.5X68gZ3oVUQ9pCO_hmc3lxJXg-"
+]
+}
+]
+},
+{
+"release": "028a7f31-c9a8-4487-ac8f-9f07923b7ee4",
+"release_group": 1792198,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"eNcmUw_eLIxEPVjd5WX6Y.vGmyM-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"dPAiflZubfDGuz1CcyPseEH0Pfw-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"8lBTb7mD1jq3K.J2Bf8NaPGhscM-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"HaGHB8TG.9wzzyfr8ph15YBK4Sw-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"9QAV3L2qUo_ubEg_xixVhSzQCZU-"
+]
+},
+{
+"position": 6,
+"address": 205500,
+"format": "CD",
+"discids": [
+"9GWswweg2rnWHrwPY22_.f9y3zU-"
+]
+},
+{
+"position": 7,
+"address": 178725,
+"format": "CD",
+"discids": [
+"WxOn7vQOS3aQkQ6ChEEOH2dEoEM-"
+]
+}
+]
+},
+{
+"release": "51a665e1-215f-41b3-a7f7-6a9758fcf6b7",
+"release_group": 1792246,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"0yShsB52bKrAwyXFKWWO_QCBfDQ-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"c6s_6zg0NflRXJ8nfggtcpy6eSY-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"4YQV7ggGpj3uEzAwvzEZBE6uoZM-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"NuVu7tSSZuFJIhdlO4WfeOaFdtE-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ufFIkuZLhEkENFoTeBQEyRijsNs-"
+]
+},
+{
+"position": 6,
+"address": 180000,
+"format": "CD",
+"discids": [
+"R8z9N3QyXqob7mfjMHPxAmo92os-"
+]
+},
+{
+"position": 7,
+"address": 166500,
+"format": "CD",
+"discids": [
+"uLlGNclLWKqHrjsy8CqLtwt9upU-"
+]
+}
+]
+},
+{
+"release": "7a823f5c-36f9-4ca9-8175-ee66f63b74de",
+"release_group": 1579090,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"SM4CvQkDGjIRq5vWPkIyE0enydk-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"lknmBCYSXJ1ZFf34d7r7yYQA1z0-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"xpssKYKXQdMyte3lngLqXlMdHGc-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"6gP4MqyDtK.4Cddmz9m6cBtxZD8-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"b2ECRryA4TPjCbWwmH3talOY5Po-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"u4_aXKbR4vD.h_c_qU2Rkmescws-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"wFvRDs_UEsESgg2JgwWb0EwuOrI-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"p.CXKI3miWen98GUiowvqkTrDVo-"
+]
+},
+{
+"position": 9,
+"address": 303675,
+"format": "CD",
+"discids": [
+"74pP.dErXqFh0V68Cl4cWGUMEi4-"
+]
+}
+]
+},
+{
+"release": "88bb4207-15a4-4032-b89e-611dad2dc472",
+"release_group": 1879156,
+"media": [
+{
+"position": 1,
+"address": 289469,
+"format": "CD",
+"discids": [
+"sbUxz0LPuzj.YUB0FNTc1nRwnCM-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"HQVp3xrJC_WXlxj15P3vaiCFLRo-"
+]
+}
+]
+},
+{
+"release": "7d8db44f-39bb-4bcf-b63d-eea6a640281b",
+"release_group": 1946348,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"JYMGkr.innGH_9s6kRF4DDKXQJg-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"mQVw9AstkibaJLUUilka.MyoGyE-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"93p42y75GKhKDA9OK.OFtS6w_J8-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"59_GdmgbzwvWDRs2Stgj09nsNi8-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"T9h1hOSoMRkBVjVvFQ657agyoH0-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"WzI7Lsmt0GqNN_rM3njDIg0Aeyk-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"AVazY.OLclWwo5aB6pd2Je5uAh0-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"vfdEo5cuw7GZtOeLlJWhTmGtgM0-"
+]
+},
+{
+"position": 9,
+"address": 330300,
+"format": "CD",
+"discids": [
+"5LOMr9GzbA6m.nHRjZEncQSQlE0-"
+]
+}
+]
+},
+{
+"release": "5de1266e-b7e7-4051-a746-5e30b2e71bda",
+"release_group": 2095098,
+"media": [
+{
+"position": 1,
+"address": 336311,
+"format": "CD",
+"discids": [
+"0XrIdkw6ZaUHyaKsGHhZdsFgV_4-",
+"ynpUSIDhW1d3ylaG2UH7.WnYZms-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"V4aQnMeg9bqKcIfhhtLFKmYij4o-",
+"_ag0nVuBHUwZXHSc9.8L93tCde8-"
+]
+},
+{
+"position": 3,
+"address": 328806,
+"format": "CD",
+"discids": [
+".JITMnXAST00DuRe67JeWM4lgqA-",
+"heun0vQ2y9w4HgPaKwEy7gvHd.E-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"bDPturnXew6xZFAbZ1ROiSLJs7c-",
+"s8COe7Up2WOJFRMtCq4ANpCX4bU-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"_jTI59iTm9i3mI8q7.gbmeijols-",
+"uElEH6Q1sMkXNItwxMwsIUAn4uM-"
+]
+},
+{
+"position": 6,
+"address": 318638,
+"format": "CD",
+"discids": [
+"POktfnrnSQb6GERHuWuEyTpCXMA-",
+"w5rqJhL0_MMSOUzYR._K1PTT3z4-"
+]
+},
+{
+"position": 7,
+"address": 325057,
+"format": "CD",
+"discids": [
+"dSUBvyaQIl4vX8q7cztr0r03h2Q-",
+"tl3Eb_7a5p1WX0GJab4aBs4hmmo-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"HNTCmXrzIiZWe_bjo2U_DPHn7Q8-",
+"Y7GSkk0IPKV68k9LHzh4V12JtiI-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Blygn.I375YfypGoXIZjSYXjKv0-",
+"caZA4oIgHrE_rox7JH_gIXV.4qU-"
+]
+},
+{
+"position": 10,
+"address": 321238,
+"format": "CD",
+"discids": [
+"8bvlZuXY8tJdiauKmHXbqMSqQ6M-",
+"B5kik.KThnD7rzDVkSN_6sqxE7w-"
+]
+},
+{
+"position": 11,
+"address": 333000,
+"format": "CD",
+"discids": [
+"clryC.jMNop.xwybmTuiDErE9Uo-",
+"qKR54tjfcmJHiMs72DIgviFYmPU-"
+]
+},
+{
+"position": 12,
+"address": 325886,
+"format": "CD",
+"discids": [
+"p8O52zTxoPWZo63gCJ1X0aNn.lw-",
+"y.v6L.EfuSrYatBfiICZON6o.DY-"
+]
+},
+{
+"position": 13,
+"address": 333000,
+"format": "CD",
+"discids": [
+"oOn1nNhImw9pniIC5e7guvZFXL0-",
+"xu81Cyd88pJVJHL6YFmmoMjNnq4-"
+]
+},
+{
+"position": 14,
+"address": 333000,
+"format": "CD",
+"discids": [
+"8DxNKkuZlwldLwDZXLQ71V_m0jU-",
+"ToQF9oPyec3hADoU5BbXHxcoL_o-"
+]
+},
+{
+"position": 15,
+"address": 333000,
+"format": "CD",
+"discids": [
+"IuP5ISsbAgGGFzV2i5TusGCVfeQ-",
+"NLeYiAZjnBMZmvm2TDnmVSzvuik-"
+]
+},
+{
+"position": 16,
+"address": 333000,
+"format": "CD",
+"discids": [
+"n_AubZb7pLZjeimc30h1m8pV8FU-",
+"vyS8DO_.sYui2CsjFqk7mevDgFI-"
+]
+},
+{
+"position": 17,
+"address": 333000,
+"format": "CD",
+"discids": [
+"D6es3J2SR8ll8J715yIjfcx7Rj8-",
+"ujA3vPDbbROX9WmFsVCiqSqc1L0-"
+]
+},
+{
+"position": 18,
+"address": 326337,
+"format": "CD",
+"discids": [
+"iN0dR5For2a2Fi4YIr7aomYpKJ8-",
+"vBuCYrKv2BtZD.HH8jr5D4SkCZY-"
+]
+},
+{
+"position": 19,
+"address": 345345,
+"format": "CD",
+"discids": [
+"JIiVwrmjM_JTeVTuxd40N3DVWE8-"
+]
+},
+{
+"position": 20,
+"address": 312478,
+"format": "CD",
+"discids": [
+"OjUH87.rhJQMWih9up7A4z4_6pg-",
+"r0I1zbUShptDcmqT1JKE7sg_4pY-"
+]
+},
+{
+"position": 21,
+"address": 324010,
+"format": "CD",
+"discids": [
+"__tydOJGIbifua6jfZOH1ezzUwU-",
+"boJhJQASJQomPmhRJHSiYrygKUo-"
+]
+},
+{
+"position": 22,
+"address": 325657,
+"format": "CD",
+"discids": [
+"4YabaQLCZ3gepiOewk34xaGn89M-",
+"bBZlJDXLmxY88xhsGPypmIYixAc-"
+]
+},
+{
+"position": 23,
+"address": 318049,
+"format": "CD",
+"discids": [
+"MayS5Z6GbKQhsyVQVL3JXf4Udf4-",
+"iEnLLWsOyrezJZ49GvaKIYqXb6g-"
+]
+},
+{
+"position": 24,
+"address": 333000,
+"format": "CD",
+"discids": [
+"dqCKzKGlplbwXjY5ygkTlrIGroo-",
+"vnQwPWbAOh0sv3CXJ.Ra8ImtJ3U-"
+]
+},
+{
+"position": 25,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Blia.x.5B.HQQURClL0MmcedGU8-",
+"Gwg7zylbrsPanTZfFHKsIM_SmOI-"
+]
+},
+{
+"position": 26,
+"address": 333000,
+"format": "CD",
+"discids": [
+"GPa_zxi.JSlihZYG9q1teKv2uNo-",
+"apUfY9a0KPKA9NiCsIS8mhzT1VE-"
+]
+},
+{
+"position": 27,
+"address": 333000,
+"format": "CD",
+"discids": [
+"BOp.iDNaR7EXcAEqCCPDkCVKqtA-",
+"XZgL9YRv9qVpO9uI13jMfZ8eOH0-"
+]
+},
+{
+"position": 28,
+"address": 333000,
+"format": "CD",
+"discids": [
+"x2l.hrS498Nn1HqPTBWxPNxKuBM-"
+]
+},
+{
+"position": 29,
+"address": 320925,
+"format": "CD",
+"discids": [
+"0Gd0W1Z6tkjlGNhY_rvUYCpUITs-",
+"iSNPZde76OoxhkihDGH.7uT47uE-"
+]
+},
+{
+"position": 30,
+"address": 335155,
+"format": "CD",
+"discids": [
+"BaFHq5AqS1KqNdL1ricsR.084Y4-",
+"VZ0QloIYT_nNPbF9JbHsHvAfKJg-"
+]
+},
+{
+"position": 31,
+"address": 333000,
+"format": "CD",
+"discids": [
+"BP5fihTeEmYD7II8ODs8fsQWABA-",
+"mSXwr_eBnsdYX_XaXlbuKm2mlSY-"
+]
+},
+{
+"position": 32,
+"address": 336161,
+"format": "CD",
+"discids": [
+"TuFve12ivoixPHQHhas9dayD5dM-",
+"bHj2w4Wl9A._72F1fnWjM_A3npo-"
+]
+},
+{
+"position": 33,
+"address": 333000,
+"format": "CD",
+"discids": [
+"MeUCQkIEV2p5mPYZNAMxfcvI.CE-",
+"bm6rlUcmFhogc6yPct7k3mZVbmI-"
+]
+},
+{
+"position": 34,
+"address": 336159,
+"format": "CD",
+"discids": [
+"J9rBcPSehW4AJ.08xwQ.sLctl2A-",
+"ZtzkRJxA7kdaEDY7SejxzAZmdWU-"
+]
+},
+{
+"position": 35,
+"address": 333000,
+"format": "CD",
+"discids": [
+"YtKT8xDuRA7WFIbnklJhy16jpwg-",
+"tdgpMjcNUB7Kt0sEu1ROJXfUjQs-"
+]
+},
+{
+"position": 36,
+"address": 229265,
+"format": "CD",
+"discids": [
+"JSRJonjP9bjSLw6Yk0agE.tE1xw-",
+"KyChJ_ZXOcmEzh68Os7i7Igj408-"
+]
+}
+]
+},
+{
+"release": "47f15279-f299-4ce7-a28c-614663b08c2b",
+"release_group": 2100306,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+".lzkAzREP8heJleTgDyBgK7eoCc-"
+]
+},
+{
+"position": 2,
+"address": 326449,
+"format": "CD",
+"discids": [
+"Jk701zFRLzJKuzR0.pc60WPoKW4-"
+]
+},
+{
+"position": 3,
+"address": 316399,
+"format": "CD",
+"discids": [
+"qOv6Z1ahsjYvm3lMnu4z1ONJNYo-"
+]
+},
+{
+"position": 4,
+"address": 324522,
+"format": "CD",
+"discids": [
+"lYoeGR5ZAH20hqNRTzJZzWxYY54-"
+]
+},
+{
+"position": 5,
+"address": 332974,
+"format": "CD",
+"discids": [
+"nv6DRv3YBNIuGVR3rpPCgyyeSDg-"
+]
+},
+{
+"position": 6,
+"address": 328513,
+"format": "CD",
+"discids": [
+"aymnPKoxV_b__2uaT75paF4zk1M-"
+]
+},
+{
+"position": 7,
+"address": 329494,
+"format": "CD",
+"discids": [
+"FrdxGkATiSgI6r1xjpGsgmkGDro-"
+]
+},
+{
+"position": 8,
+"address": 315378,
+"format": "CD",
+"discids": [
+"sDGsr3YKSiOzf5EFWHmMy6a.oGI-"
+]
+},
+{
+"position": 9,
+"address": 326279,
+"format": "CD",
+"discids": [
+"yzwV4XY67LvHLuxUPMH9KByaEXQ-"
+]
+},
+{
+"position": 10,
+"address": 317419,
+"format": "CD",
+"discids": [
+"4xcP6JYOVPgzi4q0V5a5PC3O4ok-"
+]
+},
+{
+"position": 11,
+"address": 324716,
+"format": "CD",
+"discids": [
+"pjP5Yr.JYu_Jo6yy2rGqXjS0J0s-"
+]
+},
+{
+"position": 12,
+"address": 317722,
+"format": "CD",
+"discids": [
+"DTXEzK_rxK10LJzW.Q1VsGANI4Q-"
+]
+},
+{
+"position": 13,
+"address": 333000,
+"format": "CD",
+"discids": [
+"AcLHtprBT5U7HKCMYSqbLOrWjKw-"
+]
+},
+{
+"position": 14,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ZqjVkUVNy3LVUzYNzu12SJMpKuk-"
+]
+},
+{
+"position": 15,
+"address": 325873,
+"format": "CD",
+"discids": [
+"3bakZTjJ7kHugs0WTQ_opaKI3kA-"
+]
+},
+{
+"position": 16,
+"address": 327493,
+"format": "CD",
+"discids": [
+"l6t2I8UPPjxQjgWMmHY4nq6SsUc-"
+]
+},
+{
+"position": 17,
+"address": 329840,
+"format": "CD",
+"discids": [
+"6F2VqPArf24UExYXr8yOdj_SFsg-"
+]
+},
+{
+"position": 18,
+"address": 333161,
+"format": "CD",
+"discids": [
+"vCVrOoGOGuAtjlUtg2NJA49eV9o-"
+]
+},
+{
+"position": 19,
+"address": 325459,
+"format": "CD",
+"discids": [
+"cw33EhILGzuORpEJ1jsQyAl5r3g-"
+]
+},
+{
+"position": 20,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Y23MCe5JOwYdAODKLIWFfRaqJ4M-"
+]
+},
+{
+"position": 21,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ejLJOEqOMcbKXO7l_WncYUrX9S4-"
+]
+},
+{
+"position": 22,
+"address": 324754,
+"format": "CD",
+"discids": [
+"vUmf_n3LHEIkG12a3Iv2XB7K.Ew-"
+]
+},
+{
+"position": 23,
+"address": 333000,
+"format": "CD",
+"discids": [
+"t4SBQS_MNwkLw4Dz4OtHDUZoM94-"
+]
+},
+{
+"position": 24,
+"address": 333000,
+"format": "CD",
+"discids": [
+"tr4aCMEFqbMNlvMqAQcAfso8zO8-"
+]
+},
+{
+"position": 25,
+"address": 325658,
+"format": "CD",
+"discids": [
+"alTgIrwjPQBUxYoW2dp.Uc5rchI-"
+]
+},
+{
+"position": 26,
+"address": 328636,
+"format": "CD",
+"discids": [
+"SmLea1SxWBMg6b8KToQGpEMJ3kg-"
+]
+},
+{
+"position": 27,
+"address": 333000,
+"format": "CD",
+"discids": [
+"cfFRdRElZdj26IMHFF7sz6AjCMQ-"
+]
+},
+{
+"position": 28,
+"address": 304827,
+"format": "CD",
+"discids": [
+"5nwdWpp9pfOY.6DFuYoSOkdPNvU-"
+]
+},
+{
+"position": 29,
+"address": 307002,
+"format": "CD",
+"discids": [
+"riUGoKAc3pLd30aMJKgNCoEBiCA-"
+]
+},
+{
+"position": 30,
+"address": 311691,
+"format": "CD",
+"discids": [
+"vdU7VXj8Nzt6eNNpjElp7Zd04QI-"
+]
+},
+{
+"position": 31,
+"address": 285759,
+"format": "CD",
+"discids": [
+"D3bKsLakepJU0I.VdChrXHO0Knk-"
+]
+},
+{
+"position": 32,
+"address": 244173,
+"format": "CD",
+"discids": [
+"MRmbiFRhvcZ64ovkYekdd.6zeuM-"
+]
+},
+{
+"position": 33,
+"address": 235253,
+"format": "CD",
+"discids": [
+"dXReN0KJOJ04mcRo_h08OAvdMrk-"
+]
+}
+]
+},
+{
+"release": "2c30af5d-33de-4896-a505-cc1a8e235a55",
+"release_group": 1398762,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"hEFM05S6V7X.4A2usIP9IBq.6hY-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"DtvueSrFKrdTN9SMWNsTaRMQj2k-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"HXu4dMOOufzSD67HfjpknNdZn8Q-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"R4CMqnZ7rkpMh.MT.XO3sMbZ0FE-"
+]
+},
+{
+"position": 5,
+"address": 333003,
+"format": "CD-R",
+"discids": [
+"ZB.t_.ucZniOuclPPW2nPgoA7WY-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"QG3KVCuSqKWRJjucO4LtZNkmlFA-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"VheHHGG6Avv6xipcV4XFudZQdCM-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"lrcjRAU5Cu9xiCwe40ASHNCXcpU-"
+]
+},
+{
+"position": 9,
+"address": 331500,
+"format": "CD-R",
+"discids": [
+"EsaDavikdrtx4Bd.XiCOUbs7O9I-"
+]
+}
+]
+},
+{
+"release": "9038c243-d6f1-408d-abbf-0e69c7c1adf6",
+"release_group": 2191591,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"x0kAs_36R92O3lKXIxnC28F1Zjg-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"TgfdLNfFkwU9rl4jooavRgau4Ek-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"RuaUtyqy4Ltvtg.kO.gwygsASTM-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"clFWgrtMQ9bAARAtOlb32X3RhSo-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"RAqBBTkrpP74Ia_pHTi7UvV233k-"
+]
+},
+{
+"position": 6,
+"address": 322500,
+"format": "CD-R",
+"discids": [
+"aClgKs0NhHGCXlsAf3oNgu.x7_s-"
+]
+},
+{
+"position": 7,
+"address": 309900,
+"format": "CD-R",
+"discids": [
+"OnRmtqPOl_LgU4lZCCxicb_5G.U-"
+]
+}
+]
+},
+{
+"release": "fe360c60-3498-49bb-bf75-eeda88b6468a",
+"release_group": 2191800,
+"media": [
+{
+"position": 1,
+"address": 333003,
+"format": "CD-R",
+"discids": [
+"844JLOO2rhglhbv6I8BkylofNSE-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"KOSqJ0__lW8qttDIcx8aUP4cG.U-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"HYtiqhpKYGEH8h6_B4Y9w64xAqM-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"VoJk.SgFLuSbpp3UK3_cA1JDpXo-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"tJiSewIabYwNHu4Dd50q0dW_mho-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"5HkOXE021pzw8S5Y40McHFV2hJc-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"D1_CL4pKepT6WL5QtJKhvgN5M.A-"
+]
+},
+{
+"position": 8,
+"address": 142293,
+"format": "CD-R",
+"discids": [
+"r0wr8FE.pV6iAUQh0rGbP.JnCiA-"
+]
+}
+]
+},
+{
+"release": "854f54c4-ff8d-4356-a9ca-4eb537b5c069",
+"release_group": 2206613,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"aIE5Qd2P30YquZ0YT1xRiYkXa0A-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"IrQn4.fQdmsKqkoyfiYUn8BzRZo-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"g6cokZFtL7nYEC52JkymqufRW.k-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"14HiBqMe9KsIcRvfD4BxqwenD0Y-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Ey7Rh8bJwHRsRdzlENxRc6SiGlo-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Hv3fOvTrPU4p2JdydxVqSuaYdvs-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"RRY3CeZbYATB8yxOb0akQKCmZH4-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"mVnQFZSSrssy4m6wELz.bNuHNeA-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"xPwHSM9Zid4Vdoy5XLd5MEsTpvk-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"QQ_Do6BNELBeETUACyaYbW1.auQ-"
+]
+},
+{
+"position": 11,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"gSQDi5KxZvRaf1LDCrchoq3peLs-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"SKenKs81J8k_5tgFROBm1VeQ6TY-"
+]
+},
+{
+"position": 13,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"DeiRniKScTKzN981aFT2v9X3NG8-"
+]
+},
+{
+"position": 14,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"27ciGB77JSHT8winWWgGZ7tayjk-"
+]
+},
+{
+"position": 15,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"T8BCVPENz9MkkLbJ.8WI_auOr8s-"
+]
+},
+{
+"position": 16,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"J3ltARmXD8k5zCIktB1GR6HXnB8-"
+]
+},
+{
+"position": 17,
+"address": 253575,
+"format": "CD-R",
+"discids": [
+"pV8QlRsIwyK8o0NXueQtQ1nyZtI-"
+]
+}
+]
+},
+{
+"release": "e6cda0f9-b4f8-40d6-9b23-9ff474e963ad",
+"release_group": 2213397,
+"media": [
+{
+"position": 1,
+"address": 333003,
+"format": "CD",
+"discids": [
+"alQQEDptIq253WBVYPu84j5gpzM-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"bMTopp7njfV1rwKdwpLbmrqi65A-"
+]
+},
+{
+"position": 3,
+"address": 332997,
+"format": "CD",
+"discids": [
+"_aOgIixvtlkD6fNOBowRI7wYjiM-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"LLe0yffPokNIJMI8xdaKyROpe7Q-"
+]
+},
+{
+"position": 5,
+"address": 332998,
+"format": "CD",
+"discids": [
+"ofwzXeskAowJxs.Yo2oHKAgbT_I-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"QbOZx57tX9GjOzL8581XYbdWWhI-"
+]
+},
+{
+"position": 7,
+"address": 332999,
+"format": "CD",
+"discids": [
+"lUj_oYBu.IEy0CWbUB4dJHt7iBE-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"2EIctzU19rPWe9tUWlQ3G37FXA0-"
+]
+},
+{
+"position": 9,
+"address": 332998,
+"format": "CD",
+"discids": [
+"oGyOncJRVFmB5cI32aD1bnXniI0-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD",
+"discids": [
+"F2HThouKxPpR.aGLtLQ7HFk6Nzc-"
+]
+},
+{
+"position": 11,
+"address": 333001,
+"format": "CD",
+"discids": [
+"URPy_7BWHbFrZ4InQrS9paTyYG0-"
+]
+},
+{
+"position": 12,
+"address": 247503,
+"format": "CD",
+"discids": [
+"Q1ANSQN7KHcNIodRN.lZsq8E_AI-"
+]
+}
+]
+},
+{
+"release": "a3973b87-4136-4217-a93f-4a200f56ae26",
+"release_group": 2224517,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"2Ri0XqDw2fgdvRsOeRVUYeHVUpc-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"ovwEYUeuDqrd5yfNZNRe2.H6MS8-"
+]
+},
+{
+"position": 3,
+"address": 274650,
+"format": "CD-R",
+"discids": [
+"YqfXsyE6qn7TnTRQYfN2TB.wLIA-"
+]
+}
+]
+},
+{
+"release": "0430a27a-aa0a-48ac-8c2d-a2b278193de2",
+"release_group": 2123097,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ONvTn24zr9UzJnHl7Fpsq5PxNG0-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"53C3nL7FL5AZqjQ4FJJuOP_bUI4-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"giMNxnLFkayTR6QXtHkZaducH5M-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"oikpo9lx7ZNjHQhm3eI_q4bkE08-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"k1qo6fWSwCeIpGe_7SKJfXdlw7s-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"PEtLbDQ7LOgBu3CKptFPZ0qbr_c-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"u08jrqC3xbw47JUKgzDpaZunUO0-"
+]
+},
+{
+"position": 8,
+"address": 243000,
+"format": "CD",
+"discids": [
+"NtgoqQlUk7aJKH4aOjZJExpaqnA-"
+]
+},
+{
+"position": 9,
+"address": 225000,
+"format": "CD",
+"discids": [
+"TIH1AgyjlZ48zxZqGlcDhndMt1Y-"
+]
+}
+]
+},
+{
+"release": "5d0ff569-6eec-436c-a527-efaedfb89773",
+"release_group": 774897,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"y7OBmfZcNnV2P8NH0Z8vHkf9xSQ-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"DQeAisgl9jufEVSYEz7ei8AY0xg-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Rhr0tz11GQh2iEGqtfy6ZWCl5tA-"
+]
+},
+{
+"position": 4,
+"address": 333010,
+"format": "CD-R",
+"discids": [
+"v8EEb.LW9uFwVkx6kjISGnzXe5o-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"4mHSnJYYK6PRmtGpcd9bDZLxkUY-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"qyalvGrw6qeK8j91Ih3C3Endsds-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"iAyBWE7TcKOZJJJlK0aLVUcBwHg-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"zhijzdV2KLDip4HQTxpZARRHZVA-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"FAd36q.cThr09fyQuroMYJFFiH0-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"G_zhq6nOTfLtYvey_q169aiWRig-"
+]
+},
+{
+"position": 11,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"r82mdpIGAnDK4c9DT5RkTWwi.S0-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"QGS.T1IjymQQFrwMbcbkBxtPekw-"
+]
+},
+{
+"position": 13,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"aOgnPD_JyzireEPiZOaEnYfsDYQ-"
+]
+},
+{
+"position": 14,
+"address": 324900,
+"format": "CD-R",
+"discids": [
+".rzuP.RLCtovT9inozFLJoIXOII-"
+]
+}
+]
+},
+{
+"release": "415d9cc9-8ee2-4fc0-b3cc-711ff7085d24",
+"release_group": 1603047,
+"media": [
+{
+"position": 1,
+"address": 332806,
+"format": "CD-R",
+"discids": [
+"Tm_TY2ObGQ2mmCJXmuW7iqF80uo-"
+]
+},
+{
+"position": 2,
+"address": 332843,
+"format": "CD-R",
+"discids": [
+"HHO8_fNuGkyqQvEa8coMFQlryAk-"
+]
+},
+{
+"position": 3,
+"address": 332835,
+"format": "CD-R",
+"discids": [
+"QaWVSs3oRWcHk_D6FM4GGilSdbw-"
+]
+},
+{
+"position": 4,
+"address": 332906,
+"format": "CD-R",
+"discids": [
+"AF0ue90tepAqtzk8JNdMMEKMsPs-"
+]
+},
+{
+"position": 5,
+"address": 332795,
+"format": "CD-R",
+"discids": [
+"LUR7YiXbqLtJQcEIt1uu_9rhfGE-"
+]
+},
+{
+"position": 6,
+"address": 332626,
+"format": "CD-R",
+"discids": [
+"zSKnbO9Vb2Kvm7FmPvJmcOHGE3E-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"u5H3x35h80mYBhIHbjYESBYpvos-"
+]
+},
+{
+"position": 8,
+"address": 332761,
+"format": "CD-R",
+"discids": [
+"iiLYnDYjAzadR1o_TotZYwPBql4-"
+]
+},
+{
+"position": 9,
+"address": 333036,
+"format": "CD-R",
+"discids": [
+"vWzF2_hDmjLjsOBdh9tybPRWmvw-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"yGRlKMPn8jmY2oHUJRGXFKnKaDg-"
+]
+},
+{
+"position": 11,
+"address": 333020,
+"format": "CD-R",
+"discids": [
+"5fJogqoBOkezyw.1w8Tgpc9h9nk-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"ftnDhsToEEseUE9b_2SUIfPLVpQ-"
+]
+},
+{
+"position": 13,
+"address": 333005,
+"format": "CD-R",
+"discids": [
+"j9ZSM5ZTBdUmYByoKSy5BNxKuhM-"
+]
+},
+{
+"position": 14,
+"address": 332995,
+"format": "CD-R",
+"discids": [
+"2VzZC0px9pGGanMHNouV6vPb0nI-"
+]
+},
+{
+"position": 15,
+"address": 332848,
+"format": "CD-R",
+"discids": [
+"o_dCxkVqQYJriyPePitwhoTC3lU-"
+]
+},
+{
+"position": 16,
+"address": 332938,
+"format": "CD-R",
+"discids": [
+"irxLQFm2WvuqUX_ahLRmFsy7yLY-"
+]
+},
+{
+"position": 17,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"wIxY5BKVXvuoHQgRYov0bJILErY-"
+]
+},
+{
+"position": 18,
+"address": 332914,
+"format": "CD-R",
+"discids": [
+"gPZy2XhZFzvhaO6oHhkh64GNETQ-"
+]
+},
+{
+"position": 19,
+"address": 332998,
+"format": "CD-R",
+"discids": [
+"90kWR0vhM10qGbHPpmzXComJhPA-"
+]
+},
+{
+"position": 20,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Dhd7Z0wjeY8aNb0AENJl5mH2EYk-"
+]
+},
+{
+"position": 21,
+"address": 332862,
+"format": "CD-R",
+"discids": [
+"6v45pKSkda3P6DySGtXJAEWlriw-"
+]
+},
+{
+"position": 22,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"gxc0YKt2YAUnfm7YYumFoiOTm6Y-"
+]
+},
+{
+"position": 23,
+"address": 292500,
+"format": "CD-R",
+"discids": [
+"xpIRhft9V0Xklk8B5IWzPzzA0gk-"
+]
+}
+]
+},
+{
+"release": "1fe3c435-ef85-48d9-99d7-d0f0243df060",
+"release_group": 2302998,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"6zoyirNHSe33D23rMZxukwPtBqs-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"aTaZoWlfEJenqrBqtIuF.8Ke7pk-"
+]
+},
+{
+"position": 3,
+"address": 332855,
+"format": "CD-R",
+"discids": [
+"cXA.COMlMaXoVdXQefnrwNhIa80-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"7QyiZ8zBoWiSq.PfKeGj316.YEA-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"9fN57cwgt53uou_DQLZXzWGdC_o-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"BgBYBEOY0.S137OxFuSVvqBR8L8-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"FxrbkmWKjV3mkbmw7UrN6bjZlmk-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"891k3vvWTrYY.4bt1wvxU52T.Vw-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"KGlib.P0OrSBjmUsAYrOMKqONyg-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Ca8NZUm.rk.nl0lp8CI_od3VYV4-"
+]
+},
+{
+"position": 11,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+".3eevYxVYEiLHYQhp228bWMcjBw-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"XpSTxN5MZQ208O8_WO0y9FtbVYs-"
+]
+},
+{
+"position": 13,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Gm1WE8MggjbLIXvQvmj7i53l2CY-"
+]
+},
+{
+"position": 14,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"FEGxJe49Z9CwdAo9YLMOIUDn_LU-"
+]
+},
+{
+"position": 15,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"EO0hI_2BnzC_2fEq8Q33TBkWN3Q-"
+]
+},
+{
+"position": 16,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"lwk9iSDa2AMWAdml3wYTBFcYWyU-"
+]
+},
+{
+"position": 17,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"WJx3wRCZk77sk0csNyCL4Wz6fPI-"
+]
+},
+{
+"position": 18,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Plz2dwfgsV7xEXq9lxakLOtg5Jg-"
+]
+},
+{
+"position": 19,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Kn5NR72YsDKnlKhfTRkjV..1yLI-"
+]
+},
+{
+"position": 20,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"HSeudimJb0VWnx0RHjViKAm03pQ-"
+]
+},
+{
+"position": 21,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"razCw72D950ZzIByYsyoAeyAGfs-"
+]
+},
+{
+"position": 22,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Ji9T7XfHDcedG8NPoU8IEfi__vo-"
+]
+},
+{
+"position": 23,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"3_cr8JA.dmr0jWO0gKn5ndntSuM-"
+]
+},
+{
+"position": 24,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"ILRVJELxHyMKqyYsPWPJ0h3d3IE-"
+]
+},
+{
+"position": 25,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"ozKBG00wVhHKE3yLr_G7DQNltIE-"
+]
+},
+{
+"position": 26,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Io1Y4xjW29eioBodUFR45j8O3Pk-"
+]
+},
+{
+"position": 27,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Rdy40lAmCibbFBXdXu8DL7Bpovc-"
+]
+},
+{
+"position": 28,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"JNZnpzKWTRAUigJbS6XJJITLLOA-"
+]
+},
+{
+"position": 29,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"HS5BYOby5_RJNet5xNJ.Cn7Kjdw-"
+]
+},
+{
+"position": 30,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"c_MOCWOqyB588CJO4cHnmwNSj40-"
+]
+},
+{
+"position": 31,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"J6Xi5u3vjq9NkSdO_SiygQE5RiI-"
+]
+},
+{
+"position": 32,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"Ik1bgth05QEcHKbBUr2k56g72Zs-"
+]
+},
+{
+"position": 33,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"eqIcMOTViIQpz2biLqzUuoOAfig-"
+]
+},
+{
+"position": 34,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"4tmi74Aq_BabDpXYHlD7I81MJR4-"
+]
+},
+{
+"position": 35,
+"address": 188400,
+"format": "CD-R",
+"discids": [
+"C2TvNFPbxvFsUp0RYC7DuPpfq.o-"
+]
+},
+{
+"position": 36,
+"address": 183150,
+"format": "CD-R",
+"discids": [
+"jTqDCp.mhsWu5TnuzXBsHz8j5rw-"
+]
+}
+]
+},
+{
+"release": "099574f4-745a-4769-83d7-73b5ad28d45f",
+"release_group": 2438910,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"EbT0S334dTiLvCxSEnn8IswtOOQ-",
+"W0Rp4f7tZauLanmFtLVhpkFpgAw-"
+]
+},
+{
+"position": 2,
+"address": null,
+"format": "CD",
+"discids": []
+}
+]
+},
+{
+"release": "429879eb-844c-4646-9dce-d80ba21e4629",
+"release_group": 2613486,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"_0dW_6TtR4NEAXWI4N7A7mFWhcA-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"nMNWOWm622gMjgeyd_4ACFBYqNY-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ZWrY0vJiXS.P61ekw0o0xDn6.Tc-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"8yAk958eDmjtIssQujBv5oifqhM-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"9oEnqZ8bLAZkrcl_NPEB1.4Vly0-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"HUWbm3Sc2lrlGrRMU3pkKYOlXkg-"
+]
+},
+{
+"position": 7,
+"address": 333001,
+"format": "CD",
+"discids": [
+"nQE50XdL5YsMGa1KrUrvUI6ymns-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"3eyQFCrR.UpvOs3_aKkn5VYKyXM-"
+]
+},
+{
+"position": 9,
+"address": 333001,
+"format": "CD",
+"discids": [
+"nT1XWZxppHjLt_7KX1j85dZs0eY-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ryIUykO5rcAGKPe1mtsrpH1Pfkc-"
+]
+},
+{
+"position": 11,
+"address": 333000,
+"format": "CD",
+"discids": [
+"p5co8jXizO6UgzCUpS5czwWShwI-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD",
+"discids": [
+"QsFH4UZisQ2Y4Rh0WLWqQ1P9zDQ-"
+]
+},
+{
+"position": 13,
+"address": 333000,
+"format": "CD",
+"discids": [
+"37wmQABELE83t.7ArcIbJyDSJJo-"
+]
+},
+{
+"position": 14,
+"address": 243000,
+"format": "CD",
+"discids": [
+"CLRQ.WpxeuvOmQWmQDkSRvANf9A-"
+]
+}
+]
+},
+{
+"release": "25ce4d35-4696-48e5-8105-e98534e9a0d7",
+"release_group": 2614708,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"YcTkCR8vIeeHF6dALcxbZWtapWQ-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"FTuheys_fwRKNhSns5QEISAwg6w-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"9kiG_uiBm35sZ1cPSahtqfnxXjA-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"2n2MNG6m3aWTBPQZ_Dl2fwFqjC8-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Mh00P6fvP.57TiT9r2KE9tDjfJw-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"mb.k7dHtcp3up7XTxv4kQtzXHw8-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"LKB8XjIq0J8nJrsHrDUmHAmwbOg-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"uaCusZeCYyfalnEGEkjZJZObuKQ-"
+]
+},
+{
+"position": 9,
+"address": 179775,
+"format": "CD",
+"discids": [
+"d1Z.LAX8deR9E0qqVAALflXTRNM-"
+]
+}
+]
+},
+{
+"release": "a6022969-665c-4517-ad58-3769c35ed15d",
+"release_group": 2642204,
+"media": [
+{
+"position": 1,
+"address": 333150,
+"format": "CD",
+"discids": [
+"AeRHAKy.CDsvLrwbhk779Nf23x8-"
+]
+},
+{
+"position": 2,
+"address": 333150,
+"format": "CD",
+"discids": [
+".mzukaTXQhz.yCLdQTspOVf0Ly4-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"NLBvpklutU9mvr6iejZV84WIIbs-"
+]
+},
+{
+"position": 4,
+"address": 333138,
+"format": "CD",
+"discids": [
+"hoafM.esM1oFhkVC3Pdrd47vwnw-"
+]
+},
+{
+"position": 5,
+"address": 333147,
+"format": "CD",
+"discids": [
+"L79groRa.isCCvVaDFE9MlULBco-"
+]
+},
+{
+"position": 6,
+"address": 333150,
+"format": "CD",
+"discids": [
+"7Sl4pKVGDARf8K91WNImD6rSL_A-"
+]
+},
+{
+"position": 7,
+"address": 333150,
+"format": "CD",
+"discids": [
+".agYIsklN5N_kvU8.oKL7vWBGLY-"
+]
+},
+{
+"position": 8,
+"address": 333327,
+"format": "CD",
+"discids": [
+"47InwtTRoNZsgCRxz0yUXhVvWm4-"
+]
+},
+{
+"position": 9,
+"address": 333150,
+"format": "CD",
+"discids": [
+"Nf7C7ItTjECSta6f4RCyyUuXgnc-"
+]
+},
+{
+"position": 10,
+"address": 333150,
+"format": "CD",
+"discids": [
+"Ifo_THUocLkKrJn_.olty6KvLHg-"
+]
+},
+{
+"position": 11,
+"address": 333155,
+"format": "CD",
+"discids": [
+"lwROVSnLED6NecS_44kZmmFXW5Q-"
+]
+},
+{
+"position": 12,
+"address": 333150,
+"format": "CD",
+"discids": [
+"5IjMp8tw8IGpUO_UzTAcUiKZ1eA-"
+]
+},
+{
+"position": 13,
+"address": 333150,
+"format": "CD",
+"discids": [
+"2zmW3GP_M4jKQIcJbod59wdqsxE-"
+]
+}
+]
+},
+{
+"release": "e293713c-7bc9-421d-b04e-254aa248e0ae",
+"release_group": 2677199,
+"media": [
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"XbXpf5MVsWR3xqID0GODlWUwzNw-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"clnrFmzE2_ShGzqHkblQ2ZDrBGI-"
+]
+}
+]
+},
+{
+"release": "f891c2b3-e6f5-408d-bd5d-18a168ae42aa",
+"release_group": 2698329,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"5w8P5cIogfZxzSlDeYcrJ64bO6Y-"
+]
+},
+{
+"position": 2,
+"address": 371025,
+"format": "CD",
+"discids": [
+".Z8OA2NnsxKrlpN7ZVzwP97bMlw-"
+]
+},
+{
+"position": 3,
+"address": 376875,
+"format": "CD",
+"discids": [
+"5axNHgjmp7WzAL5QQFhpiTPFVbU-"
+]
+},
+{
+"position": 4,
+"address": 368175,
+"format": "CD",
+"discids": [
+"DOo7k0dxuAVkVunCY5GKVHMArr0-"
+]
+}
+]
+},
+{
+"release": "2b858665-fcac-4113-8a3e-10a10ca53c0b",
+"release_group": 2796838,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"qbqMQH2uiPS9.O1mGS.1aaNNC.w-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"85j9ty7g.WUhj1V7i6_Zdqqoz2E-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"IwwdTwUqh_hyIXJJw1LHXpll3Ts-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"wmMNL4G6BSFXnMcFJ35v15E4B7A-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"xVh3osCgyb9wV50BdIVyiz94yFk-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"mcNdL8tbzkGUyOS79Ei4mCZ_UPo-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"tgJKF2RvjxbmTxvmsstmDkSEdoo-"
+]
+},
+{
+"position": 8,
+"address": 333000,
+"format": "CD",
+"discids": [
+"AiroWokFHwDmR6SXDBUTkbCSJuY-"
+]
+},
+{
+"position": 9,
+"address": 281625,
+"format": "CD",
+"discids": [
+"sVt0_VTXy78U8pTo7MeNygmCox0-"
+]
+},
+{
+"position": 10,
+"address": 261000,
+"format": "CD",
+"discids": [
+"ZBfifoodmJzD2Z4vZzxi4Vmi3ho-"
+]
+}
+]
+},
+{
+"release": "fe3c0fa7-bbc8-45be-9196-d2bbb43f6858",
+"release_group": 2980412,
+"media": [
+{
+"position": 1,
+"address": 332743,
+"format": "CD",
+"discids": [
+"IAYB2hfAsID3vY4MGX1slEZfSXA-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Z6Um3YHaj7FtqHihQ_H781IfL38-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"HuUi8CrNyf0i_iPkSccQi0rWsgQ-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"cQPS2jZBD0A1gQpEEwVinNle4pk-"
+]
+},
+{
+"position": 5,
+"address": 332740,
+"format": "CD",
+"discids": [
+"VnI5NTT5J_dxNKEt_WbE3JBSHl4-"
+]
+},
+{
+"position": 6,
+"address": 332697,
+"format": "CD",
+"discids": [
+"QnqlpbgDzJegLLYouhZ4o7q0IeI-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"_EMkOVDPZOqo9GHLrQrMFeQq4ls-"
+]
+},
+{
+"position": 8,
+"address": 332850,
+"format": "CD",
+"discids": [
+"..HwfRnlnWUJthCckFMHRqQQYXg-"
+]
+},
+{
+"position": 9,
+"address": 332874,
+"format": "CD",
+"discids": [
+"p4h_qDnhx3yIYp93FvWMPQ5xVX8-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD",
+"discids": [
+"VrSABNsWrv.iU.UJsTE.8WvVMFg-"
+]
+},
+{
+"position": 11,
+"address": 332827,
+"format": "CD",
+"discids": [
+"tYfrhgnZceowy9tz3c3YXFSLWyc-"
+]
+},
+{
+"position": 12,
+"address": 332799,
+"format": "CD",
+"discids": [
+"Hu_qC01NtXDZx8aH_dzyvcb2Z1w-"
+]
+},
+{
+"position": 13,
+"address": 332753,
+"format": "CD",
+"discids": [
+"DW35EH6.gqp1xVFGQvLLsKRPo.c-"
+]
+},
+{
+"position": 14,
+"address": 332333,
+"format": "CD",
+"discids": [
+"Ihh_UGQvYa7kmFSzXX3XVz0QGNg-"
+]
+},
+{
+"position": 15,
+"address": 254700,
+"format": "CD",
+"discids": [
+"fQF2iwDpPHlRE4VeWPK4acfuzZg-"
+]
+}
+]
+},
+{
+"release": "ffea3f4b-22dc-4af8-a824-37927df10bcc",
+"release_group": 3554704,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"rEf9IS2ymy5Fnn3ERYHj0ye6DjI-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD-R",
+"discids": [
+"htz3ATzfuk6jYRrZX3dvFWZ13x4-"
+]
+}
+]
+},
+{
+"release": "fae158a6-fbb5-4cb2-9c13-c7f4fddd2e24",
+"release_group": 3931623,
+"media": [
+{
+"position": 1,
+"address": 332904,
+"format": "CD",
+"discids": [
+"sHuYUEYvkW9J.SaMkcT5plbSIzY-"
+]
+},
+{
+"position": 2,
+"address": 332994,
+"format": "CD",
+"discids": [
+"7Ak6G4ZmgxMGASUWxm69Svy1.Pw-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"1HdY8X1_sbQSxzMoUvdcGOiQuPM-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"m4OXUFbLgzHAKESWF3K2lHg1dtE-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"WDYN3Z42ljze_OTu._.wTsnGcas-"
+]
+},
+{
+"position": 7,
+"address": 332977,
+"format": "CD",
+"discids": [
+"yKcg.8I9hYQnngmC1HXzXTHubFc-"
+]
+},
+{
+"position": 8,
+"address": 332999,
+"format": "CD",
+"discids": [
+"_wBn.Q8J5sxHdyrnVv_4fczgPW0-"
+]
+},
+{
+"position": 9,
+"address": 332999,
+"format": "CD",
+"discids": [
+"_wBn.Q8J5sxHdyrnVv_4fczgPW0-"
+]
+}
+]
+},
+{
+"release": "dedb7046-6dbb-476a-8b86-ecc9ec121dad",
+"release_group": 294197,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"9xuntra6f0P6hHunYAXJiXKBNCE-",
+"DsidVye1tU1hEtYOpsI1aZGcPfo-"
+]
+},
+{
+"position": 2,
+"address": null,
+"format": "DVD-Video",
+"discids": []
+}
+]
+},
+{
+"release": "4f90a78c-6415-433c-bb60-c140ae237016",
+"release_group": 4732188,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"xfCpAfns9grEiVnHuvQRiZbdhEs-"
+]
+},
+{
+"position": 2,
+"address": 316859,
+"format": "CD",
+"discids": [
+"iMzBg14TJtN1YqUV0JUoIASoG14-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"tVbQ7DxGRhmg6Ll9F2vPcfu8mEY-"
+]
+},
+{
+"position": 4,
+"address": 321665,
+"format": "CD",
+"discids": [
+"Wwd4XmbVCqqhpzUYPfstDY3Pu60-"
+]
+},
+{
+"position": 5,
+"address": 332490,
+"format": "CD",
+"discids": [
+"27dvKQPRB39sUQ44dJWjdKcV4wo-"
+]
+},
+{
+"position": 6,
+"address": 321730,
+"format": "CD",
+"discids": [
+"So0eQJmsYiN0qvL2vARxRkZZYq8-"
+]
+},
+{
+"position": 7,
+"address": 319709,
+"format": "CD",
+"discids": [
+"Zm9Sk83Azd_5D7UvQk.XSNcVjfA-"
+]
+},
+{
+"position": 8,
+"address": 322101,
+"format": "CD",
+"discids": [
+"LxvRApvSuaZA_XQhtTK05wl9GwA-"
+]
+},
+{
+"position": 9,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Ok6wbBMmi4QtoWgBwdSILrDZgr8-"
+]
+},
+{
+"position": 10,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Pm.BwesLMwQj.nyhziidndfvTjs-"
+]
+},
+{
+"position": 11,
+"address": 321055,
+"format": "CD",
+"discids": [
+"vy79bPTPdbCjuhrQEAymazUY6_o-"
+]
+},
+{
+"position": 12,
+"address": 333000,
+"format": "CD",
+"discids": [
+"qn8OPjSYvyk6qqTNLB6NC6oBajI-"
+]
+},
+{
+"position": 13,
+"address": 313266,
+"format": "CD",
+"discids": [
+"Pqk6t2.q251YgxxBIbz0YmimPGY-"
+]
+},
+{
+"position": 14,
+"address": 302014,
+"format": "CD",
+"discids": [
+"MJJrspSPc4uxhm5qPcgG.EqW8D8-"
+]
+},
+{
+"position": 15,
+"address": 333000,
+"format": "CD",
+"discids": [
+"nSqbYYFfu0YPaQAMMalMNOnLYMc-"
+]
+},
+{
+"position": 16,
+"address": 317355,
+"format": "CD",
+"discids": [
+"if8bdOeu8bPcHMYTW6DrGZmzzEQ-"
+]
+},
+{
+"position": 17,
+"address": 305294,
+"format": "CD",
+"discids": [
+"F5zM705fEtHFlBGk3evfVVBsin0-"
+]
+},
+{
+"position": 18,
+"address": 324021,
+"format": "CD",
+"discids": [
+"Qf1elwe6l5RlG8vrODiCWmIxpio-"
+]
+},
+{
+"position": 19,
+"address": 305730,
+"format": "CD",
+"discids": [
+"Qgz2HiyoA6dWV0TzVCtsO.QmjfE-"
+]
+},
+{
+"position": 20,
+"address": 333000,
+"format": "CD",
+"discids": [
+"aWSL2Ke_8y_xeuOKez1D3i4royo-"
+]
+},
+{
+"position": 21,
+"address": 331423,
+"format": "CD",
+"discids": [
+"AhxNhDpUBHLfh6WtEvf4bTYqarw-"
+]
+},
+{
+"position": 22,
+"address": 333000,
+"format": "CD",
+"discids": [
+"CxLLEgj8QDZ7uicP_BksVk1.Wkc-"
+]
+},
+{
+"position": 23,
+"address": 314950,
+"format": "CD",
+"discids": [
+"q2lGQfo29hdnY1R3lzVSCxXNzmE-"
+]
+},
+{
+"position": 24,
+"address": 333150,
+"format": "CD",
+"discids": [
+"kSYRC5F22dLt09B.zZLtyRGd28U-"
+]
+},
+{
+"position": 25,
+"address": 323972,
+"format": "CD",
+"discids": [
+"M3UrG56F0CsTP20gXC5hcMeuleY-"
+]
+},
+{
+"position": 26,
+"address": 304984,
+"format": "CD",
+"discids": [
+"Cv3R63a43JPYt5ovAitir8Z7rXQ-"
+]
+},
+{
+"position": 27,
+"address": 333000,
+"format": "CD",
+"discids": [
+"tBvhL1eWLrePNuBF5M3ryxXgB3g-"
+]
+},
+{
+"position": 28,
+"address": 327481,
+"format": "CD",
+"discids": [
+"NzpQMS17PA3RpxevHR4G2D3W2v4-"
+]
+},
+{
+"position": 29,
+"address": 316480,
+"format": "CD",
+"discids": [
+"jE_KCbiVznXWQ0_iK2ObgPkYwv0-"
+]
+},
+{
+"position": 30,
+"address": 321356,
+"format": "CD",
+"discids": [
+"tdrBKc82iqT.Aj9HVwhvONQL7ns-"
+]
+},
+{
+"position": 31,
+"address": 333000,
+"format": "CD",
+"discids": [
+"8QeLTuPDVgham0gEtfQPQbx0PEE-"
+]
+},
+{
+"position": 32,
+"address": 331958,
+"format": "CD",
+"discids": [
+"0DN7HgrftCjShkY0WdRmc0gfqyM-"
+]
+},
+{
+"position": 33,
+"address": 317296,
+"format": "CD",
+"discids": [
+"qVjHVISp0RLFoDkg1zn3OW8suzs-"
+]
+},
+{
+"position": 34,
+"address": 330582,
+"format": "CD",
+"discids": [
+"hWMZO.0MhLdnaBWtFLU77wsC2NY-"
+]
+},
+{
+"position": 35,
+"address": 326914,
+"format": "CD",
+"discids": [
+"jU1Gi23f_57DpIAh1YEHZWZIWok-"
+]
+},
+{
+"position": 36,
+"address": 317012,
+"format": "CD",
+"discids": [
+"MRB.4NuxVUPD1blDZrw1pjnQRK4-"
+]
+},
+{
+"position": 37,
+"address": 333000,
+"format": "CD",
+"discids": [
+"4DHqbF.5Jme7Dr1NxZU5nUo3spg-"
+]
+},
+{
+"position": 38,
+"address": 326729,
+"format": "CD",
+"discids": [
+"oKu2.1z7Y3I4Plg7NJcBY9yoybU-"
+]
+},
+{
+"position": 39,
+"address": 333000,
+"format": "CD",
+"discids": [
+"h4f86vRevY7yC6eKIdgxxFU1ayM-"
+]
+},
+{
+"position": 40,
+"address": 332199,
+"format": "CD",
+"discids": [
+"TbpZ5rvC44UDef8FIUNHhILtnsE-"
+]
+},
+{
+"position": 41,
+"address": 322279,
+"format": "CD",
+"discids": [
+"iUpGHYwIr1TXWGY3fWPR.aYd8iM-"
+]
+},
+{
+"position": 42,
+"address": 323013,
+"format": "CD",
+"discids": [
+"wnuyM_2_CkYmasQ9a1PCwl1OP3E-"
+]
+},
+{
+"position": 43,
+"address": 332731,
+"format": "CD",
+"discids": [
+"k47AYkPixNh1Rqmc_T24nfzAgpA-"
+]
+},
+{
+"position": 44,
+"address": 329030,
+"format": "CD",
+"discids": [
+"NL8h1AW__SG2mI.c2RJIZ9vyxks-"
+]
+},
+{
+"position": 45,
+"address": 268478,
+"format": "CD",
+"discids": [
+"0cXs9wrgJs6a40ZrZzzpn1bd52Y-"
+]
+},
+{
+"position": 46,
+"address": 244195,
+"format": "CD",
+"discids": [
+"uIpfokUKT26sjLgky1cywJv_el4-"
+]
+},
+{
+"position": 47,
+"address": 231741,
+"format": "CD",
+"discids": [
+"jcALGu3n4dIkU9wlTHCedLOhS8E-"
+]
+}
+]
+},
+{
+"release": "7966c88a-435a-4625-b152-475b1a0fe3cc",
+"release_group": 4928504,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"hhn7b6tSkX1p34cptH4wMN_q3K4-"
+]
+},
+{
+"position": 2,
+"address": 325650,
+"format": "CD",
+"discids": [
+"HPqe338KmADdhGbHsQFOZfwX0aM-"
+]
+}
+]
+},
+{
+"release": "9af5f5f9-a999-4e9e-9d1f-b7b6d569365e",
+"release_group": 5079038,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"qQSd4U6_iKpDOUAyTP8o6t_n23g-"
+]
+},
+{
+"position": 2,
+"address": 333000,
+"format": "CD",
+"discids": [
+"lBq2RdrXov8GCnaUwO4pkitcSOQ-"
+]
+},
+{
+"position": 3,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ERiSwzKNS_wvlP08HuToCtZUl6Q-"
+]
+},
+{
+"position": 4,
+"address": 333000,
+"format": "CD",
+"discids": [
+"T6dEQUUcVs6PZeEq5bSNnCK4c24-"
+]
+},
+{
+"position": 5,
+"address": 333000,
+"format": "CD",
+"discids": [
+"m1NZBRsgEPEFfiuS2Ts_ScOlBz0-"
+]
+},
+{
+"position": 6,
+"address": 333000,
+"format": "CD",
+"discids": [
+"KHizg7eUEbxvUrl0dVDrNRmIz_Y-"
+]
+},
+{
+"position": 7,
+"address": 333000,
+"format": "CD",
+"discids": [
+"qRFjhxLt6vtYkc3Ok7hEVNkEPUg-"
+]
+},
+{
+"position": 8,
+"address": 264150,
+"format": "CD",
+"discids": [
+"L34ts.6MindfB0zljIvAZDJR1z0-"
+]
+},
+{
+"position": 9,
+"address": 242625,
+"format": "CD",
+"discids": [
+"ExXCqXbxcv7ASbVBzqlekArwyj4-"
+]
+}
+]
+}
+],
+"singles": [
+{
+"release": "99f9bfaf-4b74-423f-9562-ae8702575fca",
+"release_group": 218038,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"9L_n8Axs.0pxFLMdToW3TSAamxQ-",
+"TihFr7Q6UNUlKYV6VJydAzggjdk-",
+"XIDpKE.S30It.lgBDRVhLvKLugc-"
+]
+}
+]
+},
+{
+"release": "c97864c6-741d-41c2-8ab8-0cb074f2df3e",
+"release_group": 118659,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": null,
+"discids": [
+"ehztLRV_yGqp1ZSPA5JOymcBzQU-"
+]
+}
+]
+},
+{
+"release": "5edcb2fe-0358-3f8d-93db-93fc5800392e",
+"release_group": 545272,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"NRzBAOXyaLQByAxLcf3oiWGZGFg-",
+"NjZUhm8IMeqZFNJtSsfMVjDtb0w-",
+"YmycBrAiLJ2BiDZTvwpFXG975no-",
+"bRo22uYwzbEQLBjxX74VlvurijQ-",
+"jasOZa0MfH6OTyOZrxo70.Ms8JU-",
+"lEE5TrNG5oug3eMVX8NEQe3A0n8-",
+"zMqrhfu7eO5BQGLBr2Z2p8VXoy4-"
+]
+}
+]
+},
+{
+"release": "ba4cb02d-68dc-4fdc-83b8-3aa1f2da3a7f",
+"release_group": 375400,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Zzup6VtLe5_sonmQerpf.ETG0m8-",
+"g9_Z6_QZCLCrgxfiKfhw0s2PjQ0-",
+"i1CfihVjvHk0UlM.GOKR2i0aWTQ-"
+]
+}
+]
+},
+{
+"release": "6407437b-1105-411e-b731-eb0ed4c9652c",
+"release_group": 63408,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"8n7yxqfE5d7yfoldxvlThNd_srY-"
+]
+}
+]
+},
+{
+"release": "9b898bc8-8fc6-4837-a219-f94d5c6f42f0",
+"release_group": 393286,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"OpxyJ1gbnrNv4A3xJ8WuaGs6XlM-"
+]
+}
+]
+},
+{
+"release": "0dc9f460-b432-4e04-8744-f758140cc0d9",
+"release_group": 293517,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"T43jA3UvR2Bqfad.xtFUMlX.SUI-",
+"sxjwHszaedT9t1pC57izjaq3w0o-"
+]
+}
+]
+},
+{
+"release": "e89cc5ad-9c72-466a-8821-6acd132cf411",
+"release_group": 456289,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"VxdWJvBCLR86aHi1JkxLXUFjQmg-"
+]
+}
+]
+},
+{
+"release": "419b6d10-a7e2-401f-ae4a-5eabf55d4cc4",
+"release_group": 470305,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Enhanced CD",
+"discids": [
+"bKEFYzhLy6XR8h4NsR8v87v7TrQ-",
+"sG3qIcTC0OyGsPtCmVFHRYWzWuM-"
+]
+}
+]
+},
+{
+"release": "be9afc4d-a5f3-4a8e-ba2d-f12c39284a3d",
+"release_group": 333624,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"5K4c4OFFBCLSxbmqJBGEGVJAvnk-",
+"cNKBMzxz7DQxFpt4qvkTQwg01wA-"
+]
+}
+]
+},
+{
+"release": "f791b029-b13f-4ab9-b6fe-2b04c2bc7f45",
+"release_group": 476687,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"F6DL73CULzDMeqZfzZg5_i5ZKUY-"
+]
+}
+]
+},
+{
+"release": "c0294e62-3887-4cb3-85c3-74c1cfa24058",
+"release_group": 488851,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"HD.xgc7.lm4KWPKpugVdf4c5xQE-"
+]
+}
+]
+},
+{
+"release": "101ac62d-a709-4872-bedf-daaaa926cb27",
+"release_group": 416789,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"5RbfUdyod.Tb.hKe.epiVYXE9HM-",
+"WNZKSollOV8OwxRZbshcHNfAdxo-",
+"WjDzqAAd8Iq7zYDpzhd3TT31RzU-",
+"lDm3nquWVw_0SMMRQbXMA5UX.g0-"
+]
+}
+]
+},
+{
+"release": "c7388e15-06e7-4110-8d8a-1af0bbb60ec1",
+"release_group": 500115,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"9lnNGirP5cINZ9ur8dyQO2ZRCvQ-",
+"U0O0SjY6CchlOKtoaEzHQPQ3QB8-"
+]
+}
+]
+},
+{
+"release": "953c2e32-90c7-48c9-85c5-90b5b6ab7805",
+"release_group": 258400,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"mfpLhU.P2syQVNHEYlIBUungGag-"
+]
+}
+]
+},
+{
+"release": "6a01774f-e33c-4028-83bb-dce7f7b8ff71",
+"release_group": 51729,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"dhe7eivYAqJyTxjcACpGm5Hct88-",
+"j6pZxn7uBBtUGqZDylo_Ripein4-"
+]
+}
+]
+},
+{
+"release": "db4c1566-8d13-4868-8cfd-1d2c64a376f2",
+"release_group": 311652,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"OlNEnTpnN9ToADjL4DV9D4.hgW0-"
+]
+}
+]
+},
+{
+"release": "f538ac5b-0c6f-46d9-94e9-d7fd51f9e6b5",
+"release_group": 517893,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"w8l7zhHhMpbZucDT6CuT23VQR50-"
+]
+}
+]
+},
+{
+"release": "3fd0ebe7-5d44-41eb-b14b-e6ac4cb28550",
+"release_group": 519435,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"rt94tJLmvt4xdNtJi5lMIcqunUQ-"
+]
+}
+]
+},
+{
+"release": "a2f69293-03e1-41d2-9755-b492532aacbd",
+"release_group": 307133,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"rN.Ab2mKd_A6O2iBGAR2khicWy0-"
+]
+}
+]
+},
+{
+"release": "7e75c1b8-d6c9-4153-8174-1cac12dc079d",
+"release_group": 391202,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ZlkGdYOSk9vgFucJzdx3F9Zr9q8-"
+]
+}
+]
+},
+{
+"release": "b62a8cbb-9806-456c-ac51-8c0a343762f9",
+"release_group": 152511,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"hsYIuuxqnPtXcyi2e6YRmaxuuow-"
+]
+}
+]
+},
+{
+"release": "cebe7c36-b9ee-4235-ade9-0ff55e05b3db",
+"release_group": 593814,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ckNEPfrz2yU6VFEub_1IqqcTS6A-"
+]
+}
+]
+},
+{
+"release": "7708b97e-b34d-46f7-a945-2b37a5754a21",
+"release_group": 16764,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"q3NmPevcH30_2ol5ERtg4wCfNbg-"
+]
+}
+]
+},
+{
+"release": "656b76ea-e1d1-4329-a797-c4d67b91c976",
+"release_group": 96272,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"TxJp8De0fNFziMQIYVkbA.KuX_4-"
+]
+}
+]
+},
+{
+"release": "c1e3daec-df65-48fa-aa13-13ea816737a3",
+"release_group": 667517,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"KoTqbwvv2qfEIkcXnv9jBAeLz34-"
+]
+}
+]
+},
+{
+"release": "980306c5-815f-46ee-8cb7-0ff59141417e",
+"release_group": 209780,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"mDXMxBEkTW1Z7LXglGLq1rgDEwQ-"
+]
+}
+]
+},
+{
+"release": "b46d964a-9631-45bd-b0bf-d6edfabe7a9d",
+"release_group": 675803,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"7H0rY3rNS4Z9zwU6JdVFWZ7LPSA-"
+]
+}
+]
+},
+{
+"release": "01a3a2a7-c4df-435b-925e-760f91944286",
+"release_group": 206036,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"cEazukASS.9EKSqxmpxMs5g4kKs-"
+]
+}
+]
+},
+{
+"release": "71848e0b-939b-3171-9cdc-51fe90364e32",
+"release_group": 152511,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"hsYIuuxqnPtXcyi2e6YRmaxuuow-"
+]
+}
+]
+},
+{
+"release": "f71aaef4-008e-3488-9397-21968ac23717",
+"release_group": 247304,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Gi8ubn5DG1.PgXIcx.7y9GrZHsY-"
+]
+}
+]
+},
+{
+"release": "3fffe3ab-a15e-3e1e-8424-85d0c4140c6f",
+"release_group": 247304,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Gi8ubn5DG1.PgXIcx.7y9GrZHsY-"
+]
+}
+]
+},
+{
+"release": "b7ddca3d-1e0d-3315-9263-7d9daf71c35e",
+"release_group": 247304,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Gi8ubn5DG1.PgXIcx.7y9GrZHsY-"
+]
+}
+]
+},
+{
+"release": "1f16fd5d-7a04-4a0e-a2f7-51d0d1ebedae",
+"release_group": 724053,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"UASaYPc.Vs0GDDrMkG5nYiVqrwk-"
+]
+}
+]
+},
+{
+"release": "e30bfeaa-3a63-4a78-977a-57def627a167",
+"release_group": 69089,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"5Jw1vBxn8c1nrw8T2hIWVUwTVG0-",
+"HYn40ehl9Tlzw8o4Iqw6P.i67oo-"
+]
+}
+]
+},
+{
+"release": "787f9e23-236b-4050-845d-6cdff8d4f9eb",
+"release_group": 846064,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"fAegzdZ1sX7bKhK2fkPwutLWa9U-"
+]
+}
+]
+},
+{
+"release": "c0816de6-9372-444a-a6d3-b7351a0fe669",
+"release_group": 201681,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"13EpSMzcAH4GaqBgfKqNjIVwRNI-"
+]
+}
+]
+},
+{
+"release": "6a222ed8-c607-3c2f-8e52-4e5a7079325b",
+"release_group": 307133,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"rN.Ab2mKd_A6O2iBGAR2khicWy0-"
+]
+}
+]
+},
+{
+"release": "f0b9dd22-7989-4b85-b7e2-4ef51c1becd8",
+"release_group": 867118,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"pFslC2YNaGbhuO_0psUI2oXTdJM-"
+]
+}
+]
+},
+{
+"release": "a0889d4c-d08e-466a-b81c-50e08f2bb89b",
+"release_group": 801152,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"rfy5o7QsFwGGPIUh51p8QddCIDo-"
+]
+}
+]
+},
+{
+"release": "2eb53f74-01df-43d8-9d5e-487b0effad08",
+"release_group": 921854,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"QWTf_ZN8pSg_Lsbvfm4jXXOLkxo-"
+]
+}
+]
+},
+{
+"release": "70bff766-f979-4a38-a842-670aacd439f5",
+"release_group": 931066,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"_TTXtJTHKXGCAcjdpVrYczPJsQ4-"
+]
+}
+]
+},
+{
+"release": "705bf00c-3030-4b89-bf6d-d2da6795e24b",
+"release_group": 414135,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+".vJhi6WqQqcUXyP1nouUPe1ADTc-"
+]
+}
+]
+},
+{
+"release": "0131e76a-5cb4-4433-be61-b681f5e313f4",
+"release_group": 961431,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ctaC4sUJgddgkwNbj8how.d7mFI-"
+]
+}
+]
+},
+{
+"release": "76bd8eb9-42cc-42a7-9739-4cd02f5696a7",
+"release_group": 970607,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"GfkQIaq4uN5UgOHcjC4w4ICF9dk-",
+"NnVZY1kyalFqcRWMEY6dAp00_SM-",
+"kpH155NvUVsqECNe2xqdDV1xhrQ-"
+]
+}
+]
+},
+{
+"release": "a3b58382-3b3a-4a5f-817b-3eacabb0651d",
+"release_group": 855767,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"7BlqnJIPqFqOgeeki5C8l4ZGiKg-"
+]
+}
+]
+},
+{
+"release": "b0608400-ed1b-45cd-8764-67adf56bc0f3",
+"release_group": 265970,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"CCrpcnpFVLBBjxg.TZ8Pd7LBDD0-",
+"MOr5X5IbR_fYtfDdxhIJ4dhElV4-"
+]
+}
+]
+},
+{
+"release": "cfbb0c00-caf8-4255-9088-2f1abc736fd1",
+"release_group": 262914,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"u.8oQh4kdrdxL_1cB6vAWoZiVp4-"
+]
+}
+]
+},
+{
+"release": "c3a00d49-2171-48e8-9c48-907618d7e11a",
+"release_group": 196179,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": null,
+"discids": [
+"Kk7udrxxyXy0t.pHYG5L_7eX8fs-"
+]
+}
+]
+},
+{
+"release": "5c5fbb47-3ae6-4508-bdaf-ef2e790cf419",
+"release_group": 97401,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": null,
+"discids": [
+"DT2HF9qQZoOGgH24petZhTn8.Oo-"
+]
+}
+]
+},
+{
+"release": "9a1dd246-5775-4a02-96e0-6960fc536196",
+"release_group": 1101477,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"A73Hg9111fJ5KNDl7JOGJ7LWKm0-"
+]
+}
+]
+},
+{
+"release": "96b7e3ba-3e99-41f4-b5ef-603728ec5bdb",
+"release_group": 1103711,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"l6DlpZ6aJ5AYFVVmtLkDU9RkK4I-"
+]
+}
+]
+},
+{
+"release": "1048ceae-83c7-4750-ba02-5ecdcc22aeb0",
+"release_group": 1134255,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Emorwau4rin_WC3Yi5G6zCDC8FY-"
+]
+}
+]
+},
+{
+"release": "b95a726f-4f1f-403e-9b64-591fa1d5b29e",
+"release_group": 152511,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"hsYIuuxqnPtXcyi2e6YRmaxuuow-"
+]
+}
+]
+},
+{
+"release": "1fb8d19b-ee41-415d-97dd-630cacea90de",
+"release_group": 1231256,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"w8l7zhHhMpbZucDT6CuT23VQR50-"
+]
+}
+]
+},
+{
+"release": "cb5f92d4-6fa1-49a9-8e8f-a17ef0c1ff21",
+"release_group": 1244715,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"e1LOrt3X5IFb_61yBNEvQBGNwwc-"
+]
+}
+]
+},
+{
+"release": "d9882d0a-35e8-416d-a42e-aa80ddb8baa1",
+"release_group": 140685,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"nS0vHTxqnpdeadG_eh3T_u29f1U-"
+]
+}
+]
+},
+{
+"release": "cdd2f89e-1240-4374-bd74-085ac7cc3e67",
+"release_group": 501128,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ATLVEikkkzTRPJ4LXcI00J6QKjM-"
+]
+}
+]
+},
+{
+"release": "05ccce3c-c119-49f5-b711-121db77c0999",
+"release_group": 207988,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"I3IDYyNEDsv2wLipkMYGFl1rHO8-",
+"uwHBfliaNpdv6HzPQcQE5zGB_ro-"
+]
+}
+]
+},
+{
+"release": "a596d68f-c212-4834-bdee-c6c643ea89c3",
+"release_group": 1350146,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"w8l7zhHhMpbZucDT6CuT23VQR50-"
+]
+}
+]
+},
+{
+"release": "dfb9db5d-bb8c-4fcd-a256-96841b6d090a",
+"release_group": 725338,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"HZNcYquJtSme15zXqR3QAlWse9Y-"
+]
+}
+]
+},
+{
+"release": "d8a17751-4645-4bf7-8c6f-d516f3fe7afc",
+"release_group": 491034,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"a5jR3XByFneGyZCS_TAYccK9KSM-"
+]
+}
+]
+},
+{
+"release": "9ff82268-d6e7-47de-863f-4aae0317f00d",
+"release_group": 1448661,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Bx3urcMMbydNVMY_YwO9lNEsvLs-"
+]
+}
+]
+},
+{
+"release": "e310293a-2f24-43ea-8a81-2686be5a2e86",
+"release_group": 378831,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"CTCMNlHiZW9nVFqACeWnb_KXeCI-"
+]
+}
+]
+},
+{
+"release": "b28ca760-3e67-43ea-8286-09d8398a6f26",
+"release_group": 277126,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"TkEdxLFnHP9frYcpL4NN9uVD9_0-"
+]
+}
+]
+},
+{
+"release": "f0fcbc7d-0c68-4b47-8119-69252c024cf9",
+"release_group": 1525790,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ef0MfdwWUDQKsqbXO9NM6cVshBE-"
+]
+}
+]
+},
+{
+"release": "377f0b19-3c82-45db-8e06-abb3356856b3",
+"release_group": 500115,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"9lnNGirP5cINZ9ur8dyQO2ZRCvQ-"
+]
+}
+]
+},
+{
+"release": "2e8f0259-2d56-40f0-b8f0-7b4b7fa600f5",
+"release_group": 1715577,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"y4mRW8gWekSZVdYA3Yvyyf7GzkY-"
+]
+}
+]
+},
+{
+"release": "015a562c-8f22-4218-a326-3aed6e55b89f",
+"release_group": 1732975,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Enhanced CD",
+"discids": [
+"CzdLWmJ1i901MZdtt.kBWBxDwgE-"
+]
+}
+]
+},
+{
+"release": "7e7025b6-4035-40d9-9be6-a9a4b0e51a74",
+"release_group": 621956,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"O1dsIDZkKPCV4cAAoPhcSZyoXe0-"
+]
+}
+]
+},
+{
+"release": "b876fd24-edab-4d8c-93be-71e30d515910",
+"release_group": 1825668,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+".QSVrejthBxwKpUCcdWD1gjxPpQ-"
+]
+}
+]
+},
+{
+"release": "4af22fc7-251e-498d-95dc-73d0e7c35a62",
+"release_group": 445357,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"MRzYGJzZpTfYUC0fZt4uUIK_BxU-"
+]
+}
+]
+},
+{
+"release": "e41be795-215b-485c-8087-0cb88a9855ef",
+"release_group": 1830833,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": null,
+"discids": [
+"_RaBBoT4XI6eV.Qgd522T0wYNW0-"
+]
+}
+]
+},
+{
+"release": "8d98da87-6191-4bc5-83d9-800ff42a7b27",
+"release_group": 262285,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"2sBVxJkYgq9wweM4REunvatKpQE-"
+]
+}
+]
+},
+{
+"release": "f8d90476-7c99-4241-9e2f-53d456898f3f",
+"release_group": 489605,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"OVo.qxvgNpOPf1Q40PuGS7UiDnU-"
+]
+}
+]
+},
+{
+"release": "24a4e494-201a-4660-b813-95d7d4ecd8ee",
+"release_group": 1882187,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"TWTq5Js2PwgSOjTcXf4LjTuH4fk-"
+]
+}
+]
+},
+{
+"release": "69c89da2-5d2c-45d1-b8c9-21164fc0e66d",
+"release_group": 1910045,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"WAJufrgq3aPBVHgzJa_t32ZSP_M-"
+]
+}
+]
+},
+{
+"release": "3d419518-a956-4300-926c-27b87f7e1cae",
+"release_group": 2192174,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"FA4sCRm6NjG.HKBVyiFNCS5BwUA-"
+]
+}
+]
+},
+{
+"release": "7e53e9ac-49ba-4a36-8b66-78c025e56bff",
+"release_group": 2203835,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"pDn9D5FmNURmxozDuke1UrW_0Jk-"
+]
+}
+]
+},
+{
+"release": "53bb3b33-3027-46a3-bc10-e5cdba6d683c",
+"release_group": 2368351,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Y_KoW4m7msHGhjF1GCsU38cOEwM-"
+]
+}
+]
+},
+{
+"release": "df170113-0d89-4e55-9e71-315f345d33ee",
+"release_group": 201827,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"sYdK7jwYxXQcF_LCxb0HEGq4zFY-"
+]
+}
+]
+},
+{
+"release": "0c38dc10-5b28-4b28-89e8-3e929e33f714",
+"release_group": 2475769,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"EVw97hviZeBiS5VeqMzhu7C2hU4-"
+]
+}
+]
+},
+{
+"release": "351789c8-5de5-4994-8111-166a800976ab",
+"release_group": 475886,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"gRZmmSjbWt4j5D2y.BPiwvTZmec-"
+]
+}
+]
+},
+{
+"release": "7a3e22dd-7e5b-4314-a986-5019d168b32d",
+"release_group": 2707197,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"DorcQwlFNHKQg9r7.mDBzRsjX2A-"
+]
+}
+]
+},
+{
+"release": "e967f71c-a2a5-4b5d-b06d-49ac00986b2f",
+"release_group": 2958199,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"0kbicJdmO5q0luGjrpVg8u.0qoY-"
+]
+}
+]
+},
+{
+"release": "de87c300-e24d-470c-8077-ed3efa87c6c7",
+"release_group": 3002839,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"gOmLoDSAT9dyR_9NcmPL_9YRHXs-"
+]
+}
+]
+},
+{
+"release": "967a7e6d-192c-4bec-b29c-9dba313f1d36",
+"release_group": 3133228,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"VlChbJcZPK7ICLNXT24Pf0s_tMk-"
+]
+}
+]
+},
+{
+"release": "27f751e4-e09a-44c0-8e83-5136f0ebdb5d",
+"release_group": 3209642,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"ES6KxNJ6tpRVFII6VtcuLM6H3oc-"
+]
+}
+]
+},
+{
+"release": "14507a88-e238-4a3e-bb19-0911dbaba0ef",
+"release_group": 3212491,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"V_4oX.aTSDxN.B3Iup8wI0IfsjE-"
+]
+}
+]
+},
+{
+"release": "572003ac-5a39-486e-b9f7-feac807b6ead",
+"release_group": 421133,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"hWcKUo2NIbmt6P9RDerwiKNo5vw-"
+]
+}
+]
+},
+{
+"release": "288f2a5a-5501-4cbd-acc1-62f62bbb58ce",
+"release_group": 3280935,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"8OJflv04BBHPa6.8WkjdTdd0YZk-"
+]
+}
+]
+},
+{
+"release": "a57bb9ea-3fd7-419a-8bbc-1d4d263d79e3",
+"release_group": 3296385,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Hj2KNdQJ1lmEkwEFkdAE.jWxlQY-"
+]
+}
+]
+},
+{
+"release": "4b81fe84-2399-4457-b5fe-63871946bf91",
+"release_group": 3296447,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Vkv0R03j_6rZ6ee51BX1tNO_MNs-"
+]
+}
+]
+},
+{
+"release": "210a1143-e911-40b5-a91e-bb89b57aa56f",
+"release_group": 3296674,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"QVCY77idvxfRPNZhEJNW2doQW18-"
+]
+}
+]
+},
+{
+"release": "1c7bb0db-e952-443b-ac0f-3fa680e3d590",
+"release_group": 3358203,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"cLjfDtCXgv5DhuhuOeTBjJbH_t8-"
+]
+}
+]
+},
+{
+"release": "88c78807-b789-4a5e-a3a7-de136b530f82",
+"release_group": 2184848,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"qKgOCExAKsitotPajSttyWbv3wM-"
+]
+}
+]
+},
+{
+"release": "90423dd3-b254-4423-9a27-538b87c64638",
+"release_group": 1048599,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"En6Fn03FCzQ9TLkZbRo1xhacc6Y-"
+]
+}
+]
+},
+{
+"release": "c8be26e2-0932-4644-91a2-7b1b8f3601a0",
+"release_group": 3468827,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"FCmlB9nd8gSZslTcMp2cBUrVDXQ-"
+]
+}
+]
+},
+{
+"release": "eea9df60-9192-450f-8f73-9c4997128b41",
+"release_group": 3552283,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"nrTMsmEU3KwlW44uLCpoPwwgMNE-"
+]
+}
+]
+},
+{
+"release": "15aff5d9-4ed4-45ab-90b7-a898f4883870",
+"release_group": 3567548,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"asbbollW81i8t_h1SzwXpW_AiyE-"
+]
+}
+]
+},
+{
+"release": "be085de8-f578-47be-8b39-3a21fbd376eb",
+"release_group": 247304,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Gi8ubn5DG1.PgXIcx.7y9GrZHsY-"
+]
+}
+]
+},
+{
+"release": "b6a18a9f-ad2a-437a-826e-456fb9cc83bd",
+"release_group": 493598,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"y3s7Ay4Y6yjF31GfGQiR6t1u1H8-"
+]
+}
+]
+},
+{
+"release": "4989abb2-3535-4d66-8dcf-ee7484cf9fed",
+"release_group": 493597,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"nWfiPU13YtClpLHflnW8_ev_G_A-"
+]
+}
+]
+},
+{
+"release": "9a9de8aa-9949-49a4-b42d-d9916bcacac0",
+"release_group": 3765142,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"jKCtsbUtEhd5rXzvSidPU8Ybx1E-"
+]
+}
+]
+},
+{
+"release": "65944aae-c6cd-499b-af44-64c2ce053247",
+"release_group": 3904788,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"usHpRsCC9c61lkvloJUNofOggy4-"
+]
+}
+]
+},
+{
+"release": "84831d1d-a85a-413d-933d-7797b3c912af",
+"release_group": 406282,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"Dgp8wOUYr5x.E8Dsu1_4KDRV4uc-"
+]
+}
+]
+},
+{
+"release": "d3a71009-b5a9-417f-af37-d2883dfeb909",
+"release_group": 142952,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"W74hxALJUfDl7TJI3aIcyHtLvSY-"
+]
+}
+]
+},
+{
+"release": "bf3e9e0d-dc02-473e-a076-8629b95a6ed0",
+"release_group": 392048,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"eG9XkcMQGAeEGsmaLQ0aICLFZXc-"
+]
+}
+]
+},
+{
+"release": "65e5aaf1-1e57-48fb-8c64-d55b1d3f2adc",
+"release_group": 4130450,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"l31UDCIeaXY1Omh9TjDYxL73eaw-"
+]
+}
+]
+},
+{
+"release": "045c474d-4fab-46e4-943a-7eb9f43a34f5",
+"release_group": 811149,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"n3USXQgk0slU8.SLNz.cD_ubnDQ-"
+]
+}
+]
+},
+{
+"release": "1256e35d-fcfb-4198-8421-687189ed41d7",
+"release_group": 442661,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "Copy Control CD",
+"discids": [
+"dfnk2FoBLPvT6ZOkkFdalPcZkAI-"
+]
+}
+]
+},
+{
+"release": "d02f278a-511e-4e09-8f90-e4308f878b50",
+"release_group": 492632,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"ig_HQP1B1daTZk2foxdC8jFmE5Q-"
+]
+}
+]
+},
+{
+"release": "794adcb8-1035-45c3-8fb1-6182b13969c7",
+"release_group": 474329,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"QHOLRIwOu90sS9EI4Q.JQxDKAXo-"
+]
+}
+]
+},
+{
+"release": "509f779b-bd87-44ae-96d8-0f7b3ec3e386",
+"release_group": 811149,
+"media": [
+{
+"position": 1,
+"address": 333000,
+"format": "CD",
+"discids": [
+"CxjwPEj8xz_V1XjZ5oU6EtHCxy4-"
+]
+}
+]
+}
+]
+}
