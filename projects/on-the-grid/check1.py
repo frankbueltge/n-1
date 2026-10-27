@@ -17,7 +17,7 @@ def main(path, sess, out):
             if not s.startswith('{'):
                 continue
             # cheap prefilter on the id
-            r = json.loads(s)
+            r = json.JSONDecoder().raw_decode(s)[0]
             if r['fdcId'] in want:
                 ln = r.get('labelNutrients') or {}
                 dump[r['fdcId']] = {k: (ln.get(k) or {}).get('value') for k in KEYS}
