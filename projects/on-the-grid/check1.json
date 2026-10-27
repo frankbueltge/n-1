@@ -1,0 +1,288 @@
+{
+ "drawn": 20,
+ "answered": 10,
+ "agree": 7,
+ "P8 agree >=19 of 20": false,
+ "rows": [
+  {
+   "fdcId": 1928340,
+   "dump": {
+    "calories": 80.2,
+    "fat": 0.0,
+    "sodium": 9.44,
+    "protein": 0.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 1868641,
+   "dump": {
+    "calories": 39.1,
+    "fat": 0.0,
+    "sodium": 0.0,
+    "protein": 0.0
+   },
+   "live": {
+    "calories": 39.1,
+    "fat": 0.0,
+    "sodium": 0.0,
+    "protein": 0.0
+   },
+   "status": 200,
+   "agree": true
+  },
+  {
+   "fdcId": 2669705,
+   "dump": {
+    "calories": 170,
+    "fat": 5.0,
+    "sodium": 170,
+    "protein": 2.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 1906261,
+   "dump": {
+    "calories": 4.95,
+    "fat": 0.0,
+    "sodium": 210,
+    "protein": 0.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 1988349,
+   "dump": {
+    "calories": 120,
+    "fat": 11.0,
+    "sodium": 130,
+    "protein": 3.99
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2485481,
+   "dump": {
+    "calories": 310,
+    "fat": 15.0,
+    "sodium": 680,
+    "protein": 14.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 1978752,
+   "dump": {
+    "calories": 190,
+    "fat": 11.0,
+    "sodium": 55.1,
+    "protein": 3.0
+   },
+   "live": {
+    "calories": 190,
+    "fat": 11.0,
+    "sodium": 55.1,
+    "protein": 3.0
+   },
+   "status": 200,
+   "agree": true
+  },
+  {
+   "fdcId": 2189063,
+   "dump": {
+    "calories": 90.2,
+    "fat": 5.0,
+    "sodium": 450,
+    "protein": 8.01
+   },
+   "live": {
+    "calories": 90.2,
+    "fat": 5.0,
+    "sodium": 450,
+    "protein": 8.0
+   },
+   "status": 200,
+   "agree": false
+  },
+  {
+   "fdcId": 1885373,
+   "dump": {
+    "calories": 270,
+    "fat": 15.0,
+    "sodium": 190,
+    "protein": 2.0
+   },
+   "live": {
+    "calories": 270,
+    "fat": 15.0,
+    "sodium": 190,
+    "protein": 2.0
+   },
+   "status": 200,
+   "agree": true
+  },
+  {
+   "fdcId": 2032435,
+   "dump": {
+    "calories": 190,
+    "fat": 7.01,
+    "sodium": 791,
+    "protein": 4.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 897500,
+   "dump": {
+    "calories": 220,
+    "fat": 8.03,
+    "sodium": 240,
+    "protein": 15.0
+   },
+   "live": {
+    "calories": 220,
+    "fat": 8.0,
+    "sodium": 240,
+    "protein": 15.0
+   },
+   "status": 200,
+   "agree": false
+  },
+  {
+   "fdcId": 1039983,
+   "dump": {
+    "calories": 66.0,
+    "fat": 0.0,
+    "sodium": 0.9,
+    "protein": 0.0
+   },
+   "live": {
+    "calories": 66.0,
+    "fat": 0.0,
+    "sodium": 0.9,
+    "protein": 0.0
+   },
+   "status": 200,
+   "agree": true
+  },
+  {
+   "fdcId": 2391602,
+   "dump": {
+    "calories": 70.0,
+    "fat": 5.99,
+    "sodium": 260,
+    "protein": 1.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2239821,
+   "dump": {
+    "calories": 170,
+    "fat": 0.0,
+    "sodium": 24.0,
+    "protein": 1.01
+   },
+   "live": {
+    "calories": 170,
+    "fat": 0.0,
+    "sodium": 24.0,
+    "protein": 1.01
+   },
+   "status": 200,
+   "agree": true
+  },
+  {
+   "fdcId": 2747153,
+   "dump": {
+    "calories": 300,
+    "fat": 13.0,
+    "sodium": 670,
+    "protein": 20.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2441917,
+   "dump": {
+    "calories": 91.2,
+    "fat": 0.0,
+    "sodium": 28.8,
+    "protein": 0.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2677490,
+   "dump": {
+    "calories": 35.4,
+    "fat": 0.0,
+    "sodium": 14.2,
+    "protein": 0.0
+   },
+   "live": {
+    "calories": 35.4,
+    "fat": 0.0,
+    "sodium": 14.2,
+    "protein": 0.0
+   },
+   "status": 200,
+   "agree": true
+  },
+  {
+   "fdcId": 1859783,
+   "dump": {
+    "calories": 190,
+    "fat": 8.99,
+    "sodium": 470,
+    "protein": 4.0
+   },
+   "live": {
+    "calories": 190,
+    "fat": 9.0,
+    "sodium": 470,
+    "protein": 4.0
+   },
+   "status": 200,
+   "agree": false
+  },
+  {
+   "fdcId": 1593488,
+   "dump": {
+    "calories": 160,
+    "fat": 10.0,
+    "sodium": 160,
+    "protein": 2.0
+   },
+   "live": {
+    "calories": 160,
+    "fat": 10.0,
+    "sodium": 160,
+    "protein": 2.0
+   },
+   "status": 200,
+   "agree": true
+  },
+  {
+   "fdcId": 2616538,
+   "dump": {
+    "calories": 100,
+    "fat": 2.0,
+    "sodium": 400,
+    "protein": 20.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  }
+ ]
+}

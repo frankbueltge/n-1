@@ -1,0 +1,115 @@
+{
+ "note": "re-asked once by hand, outside the registration; not counted toward P8",
+ "rows": [
+  {
+   "fdcId": 1928340,
+   "dump": {
+    "calories": 80.2,
+    "fat": 0.0,
+    "sodium": 9.44,
+    "protein": 0.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2669705,
+   "dump": {
+    "calories": 170,
+    "fat": 5.0,
+    "sodium": 170,
+    "protein": 2.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 1906261,
+   "dump": {
+    "calories": 4.95,
+    "fat": 0.0,
+    "sodium": 210,
+    "protein": 0.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 1988349,
+   "dump": {
+    "calories": 120,
+    "fat": 11.0,
+    "sodium": 130,
+    "protein": 3.99
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2485481,
+   "dump": {
+    "calories": 310,
+    "fat": 15.0,
+    "sodium": 680,
+    "protein": 14.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2032435,
+   "dump": {
+    "calories": 190,
+    "fat": 7.01,
+    "sodium": 791,
+    "protein": 4.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2391602,
+   "dump": {
+    "calories": 70.0,
+    "fat": 5.99,
+    "sodium": 260,
+    "protein": 1.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2747153,
+   "dump": {
+    "calories": 300,
+    "fat": 13.0,
+    "sodium": 670,
+    "protein": 20.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2441917,
+   "dump": {
+    "calories": 91.2,
+    "fat": 0.0,
+    "sodium": 28.8,
+    "protein": 0.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2616538,
+   "dump": {
+    "calories": 100,
+    "fat": 2.0,
+    "sodium": 400,
+    "protein": 20.0
+   },
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  }
+ ]
+}
