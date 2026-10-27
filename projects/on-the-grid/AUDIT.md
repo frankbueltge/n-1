@@ -25,3 +25,22 @@ chooses); "0 g" (the law's permitted zero); "Calories" (computed before rounding
 
 **Failure watch.** If the translation test ends as a nicer description of the panel and changes nothing in session 2's design, T3 has
 triggered.
+
+## Entry 1, continued — after the count (01:31 UTC)
+
+**What passed and what did not pass the translation** (ATP 147; `session1b.json`, `explore1.json`, `explore1c.json`). The translation
+planned before the count, panel into checkable number, found that it was not the first. The record had already translated each panel
+once: per serving into per 100 g (calories kept whole), and back, keeping three significant digits. That translation is not creative in
+ATP's sense; it is a regime change by arithmetic. What does not pass it is exactly the law's mark: the grid. 71.5 % of declared calories
+survive on it; 23.0 % more (103,607 of 449,723) are grid numbers displaced by the round trip; 2,267 fit neither reading. **Zero passes
+every translation**, which is why trans fat (98.1 % on the grid, 97.5 % exactly zero) looks lawful: the law's permitted zero is the one
+number no conversion can disturb.
+
+**Pass-words** (ATP 110). Looked for: what lets a number out of the panel's regime unrounded. Not found in the record: no unrounded value
+is held, only rounded ones re-rounded. The per-100 g amount is the nearest thing to a pass-word, and it is itself rounded.
+
+**Did the instrument change a decision?** Yes. The registered question took the record for the panel; the audit's planned translation
+named in advance the case in which "the record has already translated the panel once, before me", and the count fell into it. Session 2
+is therefore not registered on the panels' grid but on the record's operation: the 20,822 calorie values that fit the round trip with no
+grid number behind them, and the 2,267 that fit neither, are the only places where something other than the database's arithmetic
+speaks, and they are where session 2 goes. **Not triggered**: the translation changed the project's design, not its wording.
