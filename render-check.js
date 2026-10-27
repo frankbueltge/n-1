@@ -493,6 +493,25 @@ const PAGES = [
     },
     ok: (r) => r.svgs === 6 && r.cols === 540 && r.a === 120 && r.b === 120 && r.f74 === 600 && r.f80 === 600 && r.rows === 5 && r.discs === 681 && r.preds === 24 && r.fits && r.min_font >= 11,
   },
+  {
+    // project 19, session 1 (2026-10-27 Berlin): On the grid (the study), built by projects/on-the-grid/build.py from session1.json,
+    // session1b.json, check1.json, explore1.json and explore1b.json; four SVGs: declared calories by tenths (40-130), declared fat by
+    // hundredths (3-10 g), three bars of six kinds (18 segments), the 4-4-9 gap in 21 bins; eight predictions.
+    path: 'projects/on-the-grid/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        cal: s[0] ? s[0].querySelectorAll('g').length : 0,
+        segs: s[2] ? s[2].querySelectorAll('g').length : 0,
+        bins: s[3] ? s[3].querySelectorAll('g').length : 0,
+        preds: document.querySelectorAll('ul.pr li').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 4 && r.cal > 100 && r.segs === 18 && r.bins === 21 && r.preds === 8 && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {

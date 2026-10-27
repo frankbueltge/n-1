@@ -1,0 +1,29 @@
+{
+ "note": "exploratory, written after the count; not registered",
+ "classes": {
+  "calories": {
+   "on_grid": 321519,
+   "sig3_grid_behind": 103607,
+   "sig3_no_grid_behind": 20822,
+   "not_sig3_grid_behind": 2044,
+   "not_sig3_no_grid_behind": 223,
+   "untestable": 1508
+  },
+  "fat": {
+   "on_grid": 356146,
+   "sig3_no_grid_behind": 9629,
+   "sig3_grid_behind": 81945,
+   "not_sig3_grid_behind": 1639,
+   "not_sig3_no_grid_behind": 272,
+   "untestable": 1387
+  },
+  "sodium": {
+   "sig3_grid_behind": 105078,
+   "on_grid": 307341,
+   "sig3_no_grid_behind": 32792,
+   "not_sig3_grid_behind": 2357,
+   "not_sig3_no_grid_behind": 213,
+   "untestable": 1885
+  }
+ }
+}
