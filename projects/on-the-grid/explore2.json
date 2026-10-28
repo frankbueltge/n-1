@@ -1,0 +1,325 @@
+{
+ "note": "exploratory, written after the count; not registered",
+ "consistency": {
+  "calories|LI|half_even": {
+   "on_consistent": 302720,
+   "off_consistent": 113945,
+   "on_not_consistent": 111,
+   "off_not_consistent": 5
+  },
+  "calories|LI|half_up": {
+   "on_consistent": 296881,
+   "off_consistent": 110192,
+   "on_not_consistent": 5950,
+   "off_not_consistent": 3758
+  },
+  "fat|LI|half_even": {
+   "on_consistent": 334050,
+   "off_consistent": 80817,
+   "on_not_consistent": 1299,
+   "off_not_consistent": 752
+  },
+  "fat|LI|half_up": {
+   "on_consistent": 331346,
+   "off_consistent": 79945,
+   "on_not_consistent": 4003,
+   "off_not_consistent": 1624
+  },
+  "sodium|LI|half_even": {
+   "off_consistent": 127810,
+   "on_consistent": 288616,
+   "off_not_consistent": 4,
+   "on_not_consistent": 36
+  },
+  "sodium|LI|half_up": {
+   "off_consistent": 124001,
+   "on_consistent": 284649,
+   "on_not_consistent": 4003,
+   "off_not_consistent": 3813
+  },
+  "calories|other|half_even": {
+   "off_consistent": 12739,
+   "on_consistent": 14280,
+   "on_not_consistent": 1,
+   "off_not_consistent": 7
+  },
+  "calories|other|half_up": {
+   "off_consistent": 12537,
+   "off_not_consistent": 209,
+   "on_consistent": 14062,
+   "on_not_consistent": 219
+  },
+  "fat|other|half_even": {
+   "off_consistent": 11760,
+   "on_consistent": 16086,
+   "off_not_consistent": 156,
+   "on_not_consistent": 112
+  },
+  "fat|other|half_up": {
+   "off_consistent": 11573,
+   "on_consistent": 15970,
+   "on_not_consistent": 228,
+   "off_not_consistent": 343
+  },
+  "sodium|other|half_even": {
+   "on_consistent": 14579,
+   "off_consistent": 12575,
+   "off_not_consistent": 51
+  },
+  "sodium|other|half_up": {
+   "on_not_consistent": 191,
+   "off_consistent": 12309,
+   "on_consistent": 14388,
+   "off_not_consistent": 317
+  }
+ },
+ "calories_predicted_agree": {
+  "LI|half_even": {
+   "n": 416781,
+   "agree": 406504,
+   "rate": 0.97534
+  },
+  "LI|half_up": {
+   "n": 416781,
+   "agree": 400464,
+   "rate": 0.96085
+  },
+  "other|half_even": {
+   "n": 27027,
+   "agree": 21209,
+   "rate": 0.78473
+  },
+  "other|half_up": {
+   "n": 27027,
+   "agree": 21121,
+   "rate": 0.78148
+  }
+ },
+ "LI_calories_bands_half_even": {
+  "g>=100|s<=100": {
+   "n": 188682,
+   "on": 178704,
+   "on_or_D": 184648,
+   "rate_on": 0.94712,
+   "rate_on_or_D": 0.97862
+  },
+  "10<=g<100|s<=100": {
+   "n": 99020,
+   "on": 49653,
+   "on_or_D": 53677,
+   "rate_on": 0.50144,
+   "rate_on_or_D": 0.54208
+  },
+  "10<=g<100|s>100": {
+   "n": 29316,
+   "on": 5417,
+   "on_or_D": 6163,
+   "rate_on": 0.18478,
+   "rate_on_or_D": 0.21023
+  },
+  "g<10|s<=100": {
+   "n": 20793,
+   "on": 16537,
+   "on_or_D": 17623,
+   "rate_on": 0.79532,
+   "rate_on_or_D": 0.84754
+  },
+  "g>=100|s>100": {
+   "n": 70563,
+   "on": 45033,
+   "on_or_D": 46447,
+   "rate_on": 0.6382,
+   "rate_on_or_D": 0.65823
+  },
+  "g<10|s>100": {
+   "n": 8407,
+   "on": 7487,
+   "on_or_D": 7543,
+   "rate_on": 0.89057,
+   "rate_on_or_D": 0.89723
+  }
+ },
+ "groups": {
+  "on": {
+   "source": {
+    "LI": 302831,
+    "GDSN": 13878,
+    "Euromonitor": 286,
+    "NZGDSN": 117
+   },
+   "marketCountry": {
+    "United States": 312041,
+    "US": 4954,
+    "New Zealand": 117
+   },
+   "v_whole": {
+    "True": 317112
+   },
+   "modified_year": {
+    "2016": 34,
+    "2017": 46212,
+    "2018": 54950,
+    "2019": 23083,
+    "2020": 46542,
+    "2021": 40207,
+    "2022": 28259,
+    "2023": 70145,
+    "2024": 1587,
+    "2025": 4226,
+    "2026": 1581,
+    "none": 286
+   },
+   "category": {
+    "Popcorn, Peanuts, Seeds & Related Snacks": 20247,
+    "Candy": 18327,
+    "Cookies & Biscuits": 12146,
+    "Chips, Pretzels & Snacks": 11915,
+    "Cheese": 11605,
+    "Ice Cream & Frozen Yogurt": 11295,
+    "Chocolate": 9856,
+    "Breads & Buns": 8241,
+    "Cakes, Cupcakes, Snack Cakes": 8008,
+    "Snack, Energy & Granola Bars": 7664,
+    "Cereal": 7663,
+    "Seasoning Mixes, Salts, Marinades & Tenderizers": 7227
+   },
+   "s_eq_100": {
+    "False": 313806,
+    "True": 3306
+   }
+  },
+  "C": {
+   "source": {
+    "LI": 100675,
+    "GDSN": 4878,
+    "Euromonitor": 48,
+    "NZGDSN": 47
+   },
+   "marketCountry": {
+    "United States": 103986,
+    "US": 1615,
+    "New Zealand": 47
+   },
+   "v_whole": {
+    "False": 80495,
+    "True": 25153
+   },
+   "modified_year": {
+    "2016": 6,
+    "2017": 13680,
+    "2018": 18916,
+    "2019": 8571,
+    "2020": 15827,
+    "2021": 14397,
+    "2022": 9709,
+    "2023": 22143,
+    "2024": 419,
+    "2025": 1323,
+    "2026": 609,
+    "none": 48
+   },
+   "category": {
+    "Cheese": 5625,
+    "Dips & Salsa": 4589,
+    "Fruit & Vegetable Juice, Nectars & Fruit Drinks": 4343,
+    "Soda": 3998,
+    "Pre-Packaged Fruit & Vegetables": 3956,
+    "Pickles, Olives, Peppers & Relishes": 3918,
+    "Other Drinks": 3230,
+    "Frozen Vegetables": 3219,
+    "Candy": 3036,
+    "Frozen Dinners & Entrees": 2715,
+    "Canned Vegetables": 2608,
+    "Yogurt": 2594
+   },
+   "s_eq_100": {
+    "False": 105648
+   }
+  },
+  "D": {
+   "source": {
+    "LI": 13270,
+    "GDSN": 4977,
+    "Euromonitor": 1870,
+    "NZGDSN": 919
+   },
+   "marketCountry": {
+    "United States": 18993,
+    "US": 1124,
+    "New Zealand": 919
+   },
+   "v_whole": {
+    "True": 16219,
+    "False": 4817
+   },
+   "modified_year": {
+    "2014": 6,
+    "2016": 166,
+    "2017": 4052,
+    "2018": 4141,
+    "2019": 1045,
+    "2020": 1622,
+    "2021": 2683,
+    "2022": 1012,
+    "2023": 2136,
+    "2024": 1001,
+    "2025": 998,
+    "2026": 304,
+    "none": 1870
+   },
+   "category": {
+    "Milk/Milk Substitutes": 1757,
+    "Popcorn, Peanuts, Seeds & Related Snacks": 919,
+    "Candy": 862,
+    "Meat/Poultry/Other Animals - Prepared/Processed": 860,
+    "Processed Cereal Products": 584,
+    "Pickles, Olives, Peppers & Relishes": 524,
+    "Chocolate": 484,
+    "Cookies & Biscuits": 468,
+    "Cheese": 448,
+    "Seasoning Mixes, Salts, Marinades & Tenderizers": 372,
+    "Wholesome Snacks": 368,
+    "Prepared Soups": 366
+   },
+   "s_eq_100": {
+    "False": 18978,
+    "True": 2058
+   }
+  },
+  "E": {
+   "source": {
+    "LI": 5,
+    "Euromonitor": 4,
+    "GDSN": 3
+   },
+   "marketCountry": {
+    "United States": 11,
+    "US": 1
+   },
+   "v_whole": {
+    "False": 9,
+    "True": 3
+   },
+   "modified_year": {
+    "2017": 3,
+    "2018": 1,
+    "2020": 1,
+    "2024": 2,
+    "2026": 1,
+    "none": 4
+   },
+   "category": {
+    "Herbs/Spices/Extracts": 4,
+    "Milk/Milk Substitutes": 3,
+    "Cookies & Biscuits": 1,
+    "Jam, Jelly & Fruit Spreads": 1,
+    "Frozen Vegetables": 1,
+    "Wholesome Snacks": 1,
+    "Pancakes, Waffles, French Toast & Crepes": 1
+   },
+   "s_eq_100": {
+    "False": 12
+   }
+  }
+ }
+}

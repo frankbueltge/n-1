@@ -1,0 +1,235 @@
+{
+ "drawn": 20,
+ "answered": 1,
+ "agree": 1,
+ "exact": 1,
+ "P8 agree >=19 of 20": false,
+ "rows": [
+  {
+   "fdcId": 2543031,
+   "dump": {
+    "calories": 89.9,
+    "servingSize": 28,
+    "energy208": 321
+   },
+   "clock_utc": "02:17:01",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2464524,
+   "dump": {
+    "calories": 320,
+    "servingSize": 330,
+    "energy208": 97.0
+   },
+   "clock_utc": "02:17:06",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2611627,
+   "dump": {
+    "calories": 15.3,
+    "servingSize": 85,
+    "energy208": 18.0
+   },
+   "clock_utc": "02:17:10",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2632993,
+   "dump": {
+    "calories": 50.1,
+    "servingSize": 30,
+    "energy208": 167
+   },
+   "clock_utc": "02:17:15",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2486501,
+   "dump": {
+    "calories": 140,
+    "servingSize": 52,
+    "energy208": 269
+   },
+   "clock_utc": "02:17:19",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 1868022,
+   "dump": {
+    "calories": 60.0,
+    "servingSize": 20,
+    "energy208": 300
+   },
+   "clock_utc": "02:17:24",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2481752,
+   "dump": {
+    "calories": 250,
+    "servingSize": 50,
+    "energy208": 500
+   },
+   "clock_utc": "02:17:28",
+   "live": {
+    "calories": 250,
+    "servingSize": 50.0,
+    "energy208": 500.0
+   },
+   "status": 200,
+   "agree": true,
+   "exact": true
+  },
+  {
+   "fdcId": 2606862,
+   "dump": {
+    "calories": 441,
+    "servingSize": 249,
+    "energy208": 177
+   },
+   "clock_utc": "02:17:33",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2030144,
+   "dump": {
+    "calories": 140,
+    "servingSize": 125,
+    "energy208": 112
+   },
+   "clock_utc": "02:17:37",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 1860277,
+   "dump": {
+    "calories": 9.99,
+    "servingSize": 3,
+    "energy208": 333
+   },
+   "clock_utc": "02:17:42",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2409710,
+   "dump": {
+    "calories": 70.0,
+    "servingSize": 17,
+    "energy208": 412
+   },
+   "clock_utc": "02:17:46",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2444554,
+   "dump": {
+    "calories": 110,
+    "servingSize": 28,
+    "energy208": 393
+   },
+   "clock_utc": "02:17:51",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 1929532,
+   "dump": {
+    "calories": 39.9,
+    "servingSize": 30,
+    "energy208": 133
+   },
+   "clock_utc": "02:17:55",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2065426,
+   "dump": {
+    "calories": 15.0,
+    "servingSize": 4,
+    "energy208": 375
+   },
+   "clock_utc": "02:18:00",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 443149,
+   "dump": {
+    "calories": 70.0,
+    "servingSize": 28,
+    "energy208": 250
+   },
+   "clock_utc": "02:18:04",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2374570,
+   "dump": {
+    "calories": 110,
+    "servingSize": 28,
+    "energy208": 393
+   },
+   "clock_utc": "02:18:09",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2045748,
+   "dump": {
+    "calories": 106,
+    "servingSize": 28,
+    "energy208": 379
+   },
+   "clock_utc": "02:18:14",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2499599,
+   "dump": {
+    "calories": 160,
+    "servingSize": 28,
+    "energy208": 571
+   },
+   "clock_utc": "02:18:18",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2033388,
+   "dump": {
+    "calories": 130,
+    "servingSize": 19,
+    "energy208": 684
+   },
+   "clock_utc": "02:18:23",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  },
+  {
+   "fdcId": 2487382,
+   "dump": {
+    "calories": 170,
+    "servingSize": 43,
+    "energy208": 395
+   },
+   "clock_utc": "02:18:27",
+   "status": "HTTP Error 429: Too Many Requests",
+   "agree": null
+  }
+ ]
+}

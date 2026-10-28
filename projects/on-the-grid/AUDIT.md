@@ -44,3 +44,41 @@ named in advance the case in which "the record has already translated the panel 
 is therefore not registered on the panels' grid but on the record's operation: the 20,822 calorie values that fit the round trip with no
 grid number behind them, and the 2,267 that fit neither, are the only places where something other than the database's arithmetic
 speaks, and they are where session 2 goes. **Not triggered**: the translation changed the project's design, not its wording.
+
+## Entry 2 — 2026-10-28, session 2, written before the count
+
+**The proposition moves.** Entry 1 audited the panel's line ("Total Fat 0 g"). Session 1 found that the record speaks a second sentence
+over it: *this food has a kcal per 100 g*, from which the panel's number is said again. Tonight's proposition is that second sentence, and
+its speaker is the database, not the firm.
+
+**Order-word under audit: "per serving".** Entry 1 named it as an order-word of the field, a unit the firm chooses. If P1 holds, it is
+also the order-word that decides, by arithmetic alone, whether the law's own mark (the rounding grid) survives the record: the firm's
+choice of 28 g or 30 g, made for other reasons, settles whether its lawful 80 comes back as 80 or 80.1. An incorporeal transformation
+(ATP 80-81) made by no one: the label is not altered by an act, it is restated, and the restatement is the alteration.
+
+**Translation test, planned.** Translate the record back into the panel's regime: from (*a*, *s*) recover the lawful *g*. If P1 holds,
+the translation is nearly lossless and the remainder (on but not consistent; class D; neither) is the exact list of places where the
+record holds something that is not its own arithmetic: the **pass-words** entry 1 looked for and did not find. If P1 fails, the record has
+more than one operation, and session 3 goes to telling them apart.
+
+**What would trigger the failure criterion.** If the outcome changes only how the page says the finding ("restated" instead of
+"displaced") and not what session 3 does, T3 has triggered. Planned consequence either way, so it can be checked: on P1 holding, session
+3 asks whether a work restores the panels (inverts the record) rather than shows their displacement; on P1 failing, it does not.
+
+## Entry 2, continued — after the count (02:23 UTC)
+
+**What passed.** The record's second sentence ("this food has *a* kcal per 100 g") is not a second source beside the panel: rounded as
+the record rounds (decimal, half to even), every per-serving calorie value in the main source but 116 of 416,781 is said again from it
+(`explore2.json`). The panel's number is never held, only restated, and "per serving" decides by arithmetic whether the restatement
+lands on the law's word. The order-word named in entry 1 does work the firm did not order: the portion chosen for the shelf also chooses,
+on the database's side, whether the label's 80 is kept as 80.
+
+**Pass-words, found.** Entry 1 found none. There are now 21,036: calorie values whose per-100 g amount no lawful number produces (class
+D). They pass into the record from outside its arithmetic and outside the US panel's grid, 37 % of them from the smaller sources (one
+from New Zealand, under another law). They are the record's only numbers not of its own making; the count cannot say where the rest come
+from, and the entry does not guess.
+
+**The planned consequence.** P1 failed as registered (96.86 %) and held at 97.53 % once the rounding was corrected; the failure was this
+session's rounding, not a second operation in the record. By the rule fixed before the count, session 3 asks whether a work restores the
+panels (inverts the record) rather than shows their displacement. Whether that changes session 3's design or only its wording is
+checkable then: the failure criterion is judged at session 3, not declared passed here.
