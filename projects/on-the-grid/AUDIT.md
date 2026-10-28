@@ -64,3 +64,21 @@ more than one operation, and session 3 goes to telling them apart.
 **What would trigger the failure criterion.** If the outcome changes only how the page says the finding ("restated" instead of
 "displaced") and not what session 3 does, T3 has triggered. Planned consequence either way, so it can be checked: on P1 holding, session
 3 asks whether a work restores the panels (inverts the record) rather than shows their displacement; on P1 failing, it does not.
+
+## Entry 2, continued — after the count (02:23 UTC)
+
+**What passed.** The record's second sentence ("this food has *a* kcal per 100 g") is not a second source beside the panel: rounded as
+the record rounds (decimal, half to even), every per-serving calorie value in the main source but 116 of 416,781 is said again from it
+(`explore2.json`). The panel's number is never held, only restated, and "per serving" decides by arithmetic whether the restatement
+lands on the law's word. The order-word named in entry 1 does work the firm did not order: the portion chosen for the shelf also chooses,
+on the database's side, whether the label's 80 is kept as 80.
+
+**Pass-words, found.** Entry 1 found none. There are now 21,036: calorie values whose per-100 g amount no lawful number produces (class
+D). They pass into the record from outside its arithmetic and outside the US panel's grid, 37 % of them from the smaller sources (one
+from New Zealand, under another law). They are the record's only numbers not of its own making; the count cannot say where the rest come
+from, and the entry does not guess.
+
+**The planned consequence.** P1 failed as registered (96.86 %) and held at 97.53 % once the rounding was corrected; the failure was this
+session's rounding, not a second operation in the record. By the rule fixed before the count, session 3 asks whether a work restores the
+panels (inverts the record) rather than shows their displacement. Whether that changes session 3's design or only its wording is
+checkable then: the failure criterion is judged at session 3, not declared passed here.

@@ -68,6 +68,56 @@ for i, b in enumerate(bins):
         g4.append('<text x="%.1f" y="%d" class="yr">%s</text>' % (X0 + i * bw, H4 + 30, '0' if b == 0 else '%+d' % b))
 fig4 = '<svg class="ch" viewBox="0 0 %d %d" role="img" aria-label="Declared calories minus four, four and nine times the declared grams, in five-calorie bins">%s</svg>' % (W, H4 + 40, "".join(g4))
 
+# session 2: the lattice of serving size (10-130 g or ml) against lawful calories (10-300), predicted and held
+from decimal import ROUND_HALF_EVEN
+from explore2 import predicted
+s2 = json.load(open("session2.json")); e2 = json.load(open("explore2.json")); c2 = json.load(open("check2.json"))
+cells = json.load(open("session2_cells.json"))["cells"]
+GR = list(range(10, 51, 5)) + list(range(60, 301, 10)); SS = list(range(10, 131))
+cw5 = (W - 60) / len(SS); rh = 7
+
+def lattice(kind):
+    out = []
+    for j, g in enumerate(reversed(GR)):
+        y = 6 + j * rh
+        if g % 50 == 0 or g == 10:
+            out.append('<text x="0" y="%.1f" class="yr">%d</text>' % (y + rh, g))
+        if kind == "pred":
+            run = None
+            for i, sv in enumerate(SS + [None]):
+                v = predicted(g, sv, ROUND_HALF_EVEN) if sv is not None else None
+                if run and (v != run[1]):
+                    out.append('<rect x="%.2f" y="%.1f" width="%.2f" height="%.1f" class="%s"/>' % (
+                        60 + run[0] * cw5, y, (i - run[0]) * cw5, rh - 1, "g" if run[1] else "s0"))
+                    run = None
+                if run is None and sv is not None:
+                    run = (i, v)
+        else:
+            for i, sv in enumerate(SS):
+                k = "%d|%d" % (g, sv)
+                if k not in cells:
+                    continue
+                n, on = cells[k]
+                out.append('<g><title>%d kcal on %d g or ml: %s records, %s on the grid</title><rect x="%.2f" y="%.1f" width="%.2f" height="%.1f" class="%s"/></g>' % (
+                    g, sv, f(n), f(on), 60 + i * cw5, y, cw5, rh - 1, "g" if on * 2 >= n else "s0"))
+    H = 6 + len(GR) * rh
+    for sv in range(10, 121, 20):
+        x = 60 + (sv - 10) * cw5
+        out.append('<line x1="%.1f" x2="%.1f" y1="%d" y2="%d" class="ax"/><text x="%.1f" y="%d" class="yr">%d g</text>' % (x, x, H, H + 6, x + 2, H + 22, sv))
+    lab = ("What the arithmetic predicts: for each lawful calorie number (rows, 10 to 300) and each serving size (columns, 10 to 130 g or ml), "
+           "whether sending it to 100 g as a whole number and back with three digits returns it unchanged") if kind == "pred" else (
+           "What the record holds: the same lattice, one cell for every combination at least one food has, coloured by whether most of them are on the grid")
+    return '<svg class="ch" viewBox="0 0 %d %d" role="img" aria-label="%s">%s</svg>' % (W, H + 30, lab, "".join(out))
+
+fig5 = lattice("pred"); fig6 = lattice("held")
+win_n = win_on = win_agree = 0
+for g in GR:
+    for sv in SS:
+        k = "%d|%d" % (g, sv)
+        if k in cells:
+            n, on = cells[k]; win_n += n; win_on += on
+            win_agree += on if predicted(g, sv, ROUND_HALF_EVEN) else n - on
+
 P = s["predictions_registered"]; PB = sb["predictions_registered"]
 txt = {
     "P1 >=400000 foods": "At least 400,000 branded foods: %s (corrected count %s)." % (f(s["foods"]), f(sb["foods"])),
@@ -98,6 +148,40 @@ V = {
     "{{AT10}}": "%.0f %%" % (100 * sb["atwater"]["share_abs_d_le_10"]), "{{AT0}}": "%.1f %%" % (100 * sb["atwater"]["share_d_eq_0"]),
     "{{FIG1}}": fig1, "{{FIG2}}": fig2, "{{FIG3}}": fig3, "{{FIG4}}": fig4, "{{PREDS}}": "".join(li),
 }
+L2 = s2["LI_calories"]; P2 = s2["predictions_registered"]; B = s2["LI_calories_bands"]
+b10 = [B["10<=g<100|s<=100"]["n"] + B["10<=g<100|s>100"]["n"], B["10<=g<100|s<=100"]["on"] + B["10<=g<100|s>100"]["on"]]
+he = e2["consistency"]["calories|LI|half_even"]; hu = e2["consistency"]["calories|LI|half_up"]
+sod = e2["consistency"]["sodium|LI|half_even"]; fat = e2["consistency"]["fat|LI|half_even"]
+he_not = he.get("on_not_consistent", 0) + he.get("off_not_consistent", 0); hu_not = hu.get("on_not_consistent", 0) + hu.get("off_not_consistent", 0)
+GD = e2["groups"]["D"]; nD = sum(GD["source"].values()); nDo = nD - GD["source"].get("LI", 0)
+A2 = e2["calories_predicted_agree"]["LI|half_even"]
+txt2 = [
+    (P2["P1 LI calories: predicted (g, s only) agrees with actual on-grid status >= 97%"],
+     "From the serving size and the lawful number alone, the arithmetic predicts for at least 97 %% of foods whether the record holds a "
+     "number on the grid: %s as registered. With the way back rounded as the record rounds it (decimal, half to even, found after the "
+     "count): %s." % (pc(L2["agree"], L2["n"]), pc(A2["agree"], A2["n"]))),
+    (P2["P2 LI on-grid calories: consistent with back-conversion >= 95%"],
+     "At least 95 %% of calorie values on the grid are the record's own back-conversion: %s." % pc(L2["on_consistent"], L2["on"])),
+    (P2["P3 LI calories g>=100, s<=100: on-grid share >= 97%"],
+     "Where the arithmetic cannot move a number of 100 or more (servings up to 100 g), at least 97 %% are on the grid: %s. "
+     "Most of the rest are numbers no lawful one explains (below)." % pc(B["g>=100|s<=100"]["on"], B["g>=100|s<=100"]["n"])),
+    (P2["P4 LI calories 10<=g<100: on-grid share <= 60%"],
+     "Below 100 calories, where three digits keep a tenth, at most 60 %% are on the grid: %s." % pc(b10[1], b10[0])),
+    (P2["P5 off-grid, consistent, no ghost (class D): non-LI share >= 25%"],
+     "Of the numbers no lawful one explains, at least 25 %% come from sources other than the main one, which supplies 94 %% of all: %s." % ("%.1f %%" % (100 * s2["class_D_other_share"]))),
+    (P2["P6 LI on-grid fat: consistent >= 95%"], "Fat the same, at least 95 %%: %s." % ("%.1f %%" % (100 * s2["LI_fat_on_consistent_rate"]))),
+    (P2["P7 LI on-grid sodium: consistent >= 95%"], "Sodium the same, at least 95 %%: %s." % ("%.1f %%" % (100 * s2["LI_sodium_on_consistent_rate"]))),
+    (c2["P8 agree >=19 of 20"], "The live database agrees on at least 19 of 20 foods drawn at random: %d of 20 answered (the rest refused for rate), "
+     "%d agrees." % (c2["answered"], c2["agree"])),
+]
+li2 = ['<li><b>%s</b> %s</li>' % ("Held." if ok else "Failed.", tx) for ok, tx in txt2]
+V.update({
+    "{{FIG5}}": fig5, "{{FIG6}}": fig6, "{{PREDS2}}": "".join(li2), "{{N2}}": f(L2["n"]),
+    "{{WIN}}": f(win_n), "{{WINP}}": pc(win_agree, win_n), "{{HENOT}}": f(he_not), "{{HUNOT}}": f(hu_not),
+    "{{SODNOT}}": f(sod.get("on_not_consistent", 0) + sod.get("off_not_consistent", 0)), "{{SODN}}": f(sum(sod.values())),
+    "{{ND}}": f(nD), "{{NDO}}": f(nDo), "{{NDW}}": f(GD["v_whole"].get("True", 0)), "{{ND100}}": f(GD["s_eq_100"].get("True", 0)),
+    "{{NDNZ}}": f(GD["marketCountry"].get("New Zealand", 0)), "{{NE}}": f(sum(e2["groups"]["E"]["source"].values())),
+})
 t = open("template.html").read()
 for k, v in V.items():
     t = t.replace(k, v)

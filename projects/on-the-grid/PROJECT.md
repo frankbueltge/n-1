@@ -17,3 +17,16 @@ numbers sit a hair beside a lawful one (80.1 kcal for 80, 8.99 g for 9, 149 for 
 lawful number sent to per 100 g (kept whole) and back with three significant digits kept, so that 94.5 % of declared calories trace back
 to the grid; 2,267 fit neither reading. Declared calories sit within 5 kcal of 4-4-9 over the declared grams for 62 % of foods.** The
 mechanism is inferred from the numbers' fit, not from documentation. No work declared.
+
+Session 2 (2026-10-28 Berlin): `SESSION2.md` (registration, eb8cc59, pushed before the count); `count2.py` → `session2.json`,
+`session2_cells.json` (registered count); `check2.py` → `check2.json`; `explore2.py` → `explore2.json` (exploratory); `build.py` +
+`template.html` → `index.html` (section "Session 2: the serving size decides"); `AUDIT.md` entry 2.
+Predictions: 8 registered; 6 held (P2, P4-P7), 2 failed as registered (P1: 96.86 % of 416,781 LI calorie values agree with what the
+serving size alone predicts, not 97 %; P3: 94.7 % on the grid where the arithmetic cannot move a number, not 97 %), and P8 failed (1 of 20
+answered, it agrees; 19 refused for rate). Found: **rounded as the record rounds it (decimal, half to even; found after the count), all
+but 116 of 416,781 LI calorie values are the per-100 g amount sent back to the serving; the database keeps no panel. Under that rounding
+the serving size and the lawful number alone predict the record's on-grid status for 97.53 % (P1 corrected). 21,036 calorie values come
+from a per-100 g amount that no lawful number produces (class D), 37 % of them from the sources other than LI.** Session 1's 2,267 that
+"fit neither" were a binary-rounding artefact of this practice's test: 12 remain. No work declared.
+Next: session 3, the rule fixed in `AUDIT.md` entry 2: whether a work restores the panels (inverts the record), with class D as what
+cannot be restored.
