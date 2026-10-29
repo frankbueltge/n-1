@@ -1,0 +1,3221 @@
+{
+ "seed": 20261029,
+ "panels": [
+  {
+   "fdcId": 2017830,
+   "description": "CANDIED SWEET ORANGE STRIP PICKLES",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "1 ONZ",
+   "category": "Pickles, Olives, Peppers & Relishes",
+   "calories": {
+    "v": 45.1,
+    "a": 161,
+    "r": 45.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 130,
+    "a": 464,
+    "r": 130.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2055207,
+   "description": "FOOD LION, MOZZARELLA STRING CHEESE TWISTERS",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "1 PIECE",
+   "category": "Cheese",
+   "calories": {
+    "v": 80.1,
+    "a": 286,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 5.99,
+    "a": 21.4,
+    "r": 6.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 200,
+    "a": 714,
+    "r": 200.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2109677,
+   "description": "MILD THE ORIGINAL PICANTE SAUCE, PICANTE",
+   "servingSize": 30,
+   "unit": "ml",
+   "household": "2 Tbsp",
+   "category": "Oriental, Mexican & Ethnic Sauces",
+   "calories": {
+    "v": 9.9,
+    "a": 33.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 250,
+    "a": 833,
+    "r": 250.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2462374,
+   "description": "CHEESE MINI ROUND RAVIOLI, CHEESE",
+   "servingSize": 140,
+   "unit": "g",
+   "household": "15 ravioli",
+   "category": "Pasta by Shape & Type",
+   "calories": {
+    "v": 239,
+    "a": 171,
+    "r": 240.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 4.0,
+    "a": 2.86,
+    "r": 4.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 300,
+    "a": 214,
+    "r": 300.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2390015,
+   "description": "SERRANO PEPPERS",
+   "servingSize": 31,
+   "unit": "g",
+   "household": "2 pieces",
+   "category": "Pickles, Olives, Peppers & Relishes",
+   "calories": {
+    "v": 9.92,
+    "a": 32.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 170,
+    "a": 548,
+    "r": 170.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2105423,
+   "description": "TONIC WATER",
+   "servingSize": 355,
+   "unit": "ml",
+   "household": "12 OZA",
+   "category": "Water",
+   "calories": {
+    "v": 131,
+    "a": 37.0,
+    "r": 130.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 4
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2598009,
+   "description": "IMMUNITY ELDERBERRY + ZINC JUICE, BLACKBERRY; ELDERBERRY",
+   "servingSize": 59,
+   "unit": "MLT",
+   "household": "2 fl. oz. (59mL)",
+   "category": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+   "calories": {
+    "v": 30.1,
+    "a": 51.0,
+    "r": 30.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2473731,
+   "description": "PEAR HALVES IN LIGHT SYRUP",
+   "servingSize": 140,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Canned Fruit",
+   "calories": {
+    "v": 89.6,
+    "a": 64.0,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 9.8,
+    "a": 7.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2340177,
+   "description": "MOZZARELLA STYLE PLANT-BASED SHREDS, MOZZARELLA",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "1 ONZ",
+   "category": "Cheese",
+   "calories": {
+    "v": 89.9,
+    "a": 321,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 7.0,
+    "a": 25.0,
+    "r": 7.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 200,
+    "a": 714,
+    "r": 200.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2424917,
+   "description": "MASHED POTATOES",
+   "servingSize": 19,
+   "unit": "g",
+   "household": "1/3 cup",
+   "category": "Entrees, Sides & Small Meals",
+   "calories": {
+    "v": 69.9,
+    "a": 368,
+    "r": 70.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 15.0,
+    "a": 79.0,
+    "r": 15.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2394802,
+   "description": "PINEAPPLE TIDBITS IN PINEAPPLE JUICE CONCENTRATE",
+   "servingSize": 113,
+   "unit": "g",
+   "household": "1 cup",
+   "category": "Canned Fruit",
+   "calories": {
+    "v": 70.1,
+    "a": 62.0,
+    "r": 70.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2395996,
+   "description": "ORGANIC CARROT COCONUT SOUP, CARROT COCONUT",
+   "servingSize": 400,
+   "unit": "g",
+   "household": "1 CONTAINER",
+   "category": "Other Soups",
+   "calories": {
+    "v": 88.0,
+    "a": 22.0,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 4.0,
+    "a": 1.0,
+    "r": null,
+    "n_pre": 8
+   },
+   "sodium": {
+    "v": 688,
+    "a": 172,
+    "r": 690.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2600324,
+   "description": "PANKO BREADED CHICKEN BREAST TENDERLOINS, PANKO",
+   "servingSize": 112,
+   "unit": "GRM",
+   "household": "4 OZ",
+   "category": "Frozen Appetizers & Hors D'oeuvres",
+   "calories": {
+    "v": 211,
+    "a": 188,
+    "r": 210.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 9.0,
+    "a": 8.04,
+    "r": 9.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 580,
+    "a": 518,
+    "r": 580.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2126229,
+   "description": "PEPPER STRIPS",
+   "servingSize": 85,
+   "unit": "g",
+   "household": "3/4 cup",
+   "category": "Frozen Vegetables",
+   "calories": {
+    "v": 20.4,
+    "a": 24.0,
+    "r": 20.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 10.2,
+    "a": 12.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2429693,
+   "description": "SWEET GREEN PEAS AND CARROTS",
+   "servingSize": 90,
+   "unit": "g",
+   "household": "2/3 cup",
+   "category": "Frozen Vegetables",
+   "calories": {
+    "v": 50.4,
+    "a": 56.0,
+    "r": 50.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 19.8,
+    "a": 22.0,
+    "r": 20.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2040571,
+   "description": "JENNIE-O, TURKEY BREAST, CRACKED PEPPER",
+   "servingSize": 56,
+   "unit": "g",
+   "household": "2 ONZ",
+   "category": "Pepperoni, Salami & Cold Cuts",
+   "calories": {
+    "v": 59.9,
+    "a": 107,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.498,
+    "a": 0.89,
+    "r": 0.5,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 390,
+    "a": 696,
+    "r": 390.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2376750,
+   "description": "APPLE BLEU PECAN SPRING MIX, APPLES, BALSAMIC VINAIGRETTE, DRIED CRANBERRIES, BLUE CHEESE CRUMBLES, AND PRALINE PECANS SALAD CAFE BOWL, APPLE BLEU PECAN",
+   "servingSize": 156,
+   "unit": "g",
+   "household": "1 PACKAGE",
+   "category": "Pickles, Olives, Peppers & Relishes",
+   "calories": {
+    "v": 331,
+    "a": 212,
+    "r": 330.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 17.9,
+    "a": 11.5,
+    "r": 18.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 470,
+    "a": 301,
+    "r": 470.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2675120,
+   "description": "STEWED NO SALT ADDED TOMATOES, STEWED",
+   "servingSize": 126,
+   "unit": "GRM",
+   "household": "1/2 cup",
+   "category": "Tomatoes",
+   "calories": {
+    "v": 40.3,
+    "a": 32.0,
+    "r": 40.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 30.2,
+    "a": 24.0,
+    "r": 30.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2095415,
+   "description": "ORGANIC ENGLISH TOFFEE HALF & HALF CREAM TOP",
+   "servingSize": 30,
+   "unit": "ml",
+   "household": "2 Tbsp",
+   "category": "Cream",
+   "calories": {
+    "v": 50.1,
+    "a": 167,
+    "r": 50.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 3.0,
+    "a": 10.0,
+    "r": 3.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 9.9,
+    "a": 33.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2066501,
+   "description": "LASAGNA SOUP WITH TURKEY SAUSAGE",
+   "servingSize": 245,
+   "unit": "g",
+   "household": "1 cup",
+   "category": "Other Soups",
+   "calories": {
+    "v": 179,
+    "a": 73.0,
+    "r": 180.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 8.01,
+    "a": 3.27,
+    "r": 8.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 840,
+    "a": 343,
+    "r": 840.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1884077,
+   "description": "REDNER'S WAREHOUSE MARKETS, SPLIT TOP ENRICHED BREAD, HONEY WHEAT, HONEY WHEAT",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "1 SLICE",
+   "category": "Breads & Buns",
+   "calories": {
+    "v": 80.1,
+    "a": 286,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.501,
+    "a": 1.79,
+    "r": 0.5,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 130,
+    "a": 464,
+    "r": 130.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 366833,
+   "description": "WEIS, CUT GREEN BEANS",
+   "servingSize": 120,
+   "unit": "g",
+   "household": "0.5 cup",
+   "category": "Canned Vegetables",
+   "calories": {
+    "v": 20.4,
+    "a": 17.0,
+    "r": 20.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 290,
+    "a": 242,
+    "r": 290.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2099703,
+   "description": "EVAPORATED MILK",
+   "servingSize": 30,
+   "unit": "ml",
+   "household": "2 Tbsp",
+   "category": "Milk",
+   "calories": {
+    "v": 39.9,
+    "a": 133,
+    "r": 40.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 2.0,
+    "a": 6.67,
+    "r": 2.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 35.1,
+    "a": 117,
+    "r": 35.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2615969,
+   "description": "PROBIOTIC RASPBERRY BLENDED LOWFAT YOGURT, RASPBERRY",
+   "servingSize": 170,
+   "unit": "GRM",
+   "household": "1 Container (170g)",
+   "category": "Yogurt",
+   "calories": {
+    "v": 139,
+    "a": 82.0,
+    "r": 140.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 1.0,
+    "a": 0.59,
+    "r": 1.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 85.0,
+    "a": 50.0,
+    "r": 85.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2424480,
+   "description": "SPIRAL PATH BUTTER LETTUCE",
+   "servingSize": 142,
+   "unit": "g",
+   "household": "1 package",
+   "category": "Pre-Packaged Fruit & Vegetables",
+   "calories": {
+    "v": 19.9,
+    "a": 14.0,
+    "r": 20.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 15.6,
+    "a": 11.0,
+    "r": 15.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1026821,
+   "description": "ORGANIC FRUIT & BIRCH WATER, BLUEBERRY",
+   "servingSize": 237,
+   "unit": "ml",
+   "household": "8 OZA",
+   "category": "Plant Based Water",
+   "calories": {
+    "v": 9.48,
+    "a": 4.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 3
+   },
+   "sodium": {
+    "v": 45.0,
+    "a": 19.0,
+    "r": 45.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2629043,
+   "description": "EXTRA FINE GREEN BEANS",
+   "servingSize": 85,
+   "unit": "GRM",
+   "household": "1/2 cup",
+   "category": "Frozen Vegetables",
+   "calories": {
+    "v": 24.6,
+    "a": 29.0,
+    "r": 25.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 10.2,
+    "a": 12.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2546911,
+   "description": "PREMIUM FLAVORED CHOCOLATE MILK",
+   "servingSize": 240,
+   "unit": "MLT",
+   "household": "1 cup",
+   "category": "Milk",
+   "calories": {
+    "v": 199,
+    "a": 83.0,
+    "r": 200.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 7.99,
+    "a": 3.33,
+    "r": 8.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 199,
+    "a": 83.0,
+    "r": 200.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1906375,
+   "description": "REFRESH JUICE DRINK BLEND, TART CHERRY LIMEADE",
+   "servingSize": 240,
+   "unit": "ml",
+   "household": "8 OZA",
+   "category": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+   "calories": {
+    "v": 79.2,
+    "a": 33.0,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 3
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1959373,
+   "description": "SOUTHWESTERN STYLE MAC & CHEESE",
+   "servingSize": 284,
+   "unit": "g",
+   "household": "1 TRAY",
+   "category": "Pasta Dinners",
+   "calories": {
+    "v": 449,
+    "a": 158,
+    "r": 450.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 20.0,
+    "a": 7.04,
+    "r": 20.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 951,
+    "a": 335,
+    "r": 950.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2421608,
+   "description": "SOUR GUMMY MIX, SOUR",
+   "servingSize": 30,
+   "unit": "g",
+   "household": "30 g",
+   "category": "Candy",
+   "calories": {
+    "v": 99.9,
+    "a": 333,
+    "r": 100.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 54.9,
+    "a": 183,
+    "r": 55.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2026517,
+   "description": "BREWED TO MATTER COFFEE ICE CREAM WITH FUDGE CHUNKS & A BROWNIE BATTER SWIRL, BREWED TO MATTER",
+   "servingSize": 141,
+   "unit": "g",
+   "household": "2/3 cup",
+   "category": "Ice Cream & Frozen Yogurt",
+   "calories": {
+    "v": 369,
+    "a": 262,
+    "r": 370.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 23.0,
+    "a": 16.3,
+    "r": 23.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 70.5,
+    "a": 50.0,
+    "r": 70.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1901466,
+   "description": "EASY MEDIUM SALSA",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "2 Tbsp",
+   "category": "Dips & Salsa",
+   "calories": {
+    "v": 5.04,
+    "a": 18.0,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 120,
+    "a": 429,
+    "r": 120.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1935421,
+   "description": "HEALTHY CHOICE, STEAMING ENTREES, HONEY BASALMIC CHICKEN",
+   "servingSize": 255,
+   "unit": "g",
+   "household": "1 MEAL",
+   "category": "Frozen Dinners & Entrees",
+   "calories": {
+    "v": 209,
+    "a": 82.0,
+    "r": 210.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 3.01,
+    "a": 1.18,
+    "r": 3.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 459,
+    "a": 180,
+    "r": 460.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2628524,
+   "description": "ORGANIC PLANT PROTEIN 16 G NUTRITION SHAKE, SMOOTH CHOCOLATE, SMOOTH CHOCOLATE",
+   "servingSize": 330,
+   "unit": "MLT",
+   "household": "1 Carton",
+   "category": "Energy, Protein & Muscle Recovery Drinks",
+   "calories": {
+    "v": 241,
+    "a": 73.0,
+    "r": 240.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 7.0,
+    "a": 2.12,
+    "r": 7.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 271,
+    "a": 82.0,
+    "r": 270.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2617467,
+   "description": "WHOLE WHEAT POCKET PITA BREAD",
+   "servingSize": 37,
+   "unit": "GRM",
+   "household": "1 pita (37g/1.3oz)",
+   "category": "Breads & Buns",
+   "calories": {
+    "v": 79.9,
+    "a": 216,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 62.2,
+    "a": 168,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2269669,
+   "description": "COOKED HAM AND WATER PRODUCT",
+   "servingSize": 56,
+   "unit": "g",
+   "household": "2 oz.",
+   "category": "Pepperoni, Salami & Cold Cuts",
+   "calories": {
+    "v": 59.9,
+    "a": 107,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 2.0,
+    "a": 3.57,
+    "r": 2.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 622,
+    "a": 1110.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2422455,
+   "description": "DEVILED EGG POTATO SALAD, DEVILED EGG POTATO",
+   "servingSize": 140,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Pickles, Olives, Peppers & Relishes",
+   "calories": {
+    "v": 239,
+    "a": 171,
+    "r": 240.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 14.0,
+    "a": 10.0,
+    "r": 14.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 659,
+    "a": 471,
+    "r": 660.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2155487,
+   "description": "SOUR PICKLE, SOUR",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "1 ONZ",
+   "category": "Pickles, Olives, Peppers & Relishes",
+   "calories": {
+    "v": 5.04,
+    "a": 18.0,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 330,
+    "a": 1180.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2055496,
+   "description": "PRICE RITE, SHREDDED LOW-MOISTURE WHOLE MILK MOZZARELLA CHEESE",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "0.25 cup",
+   "category": "Cheese",
+   "calories": {
+    "v": 89.9,
+    "a": 321,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 7.0,
+    "a": 25.0,
+    "r": 7.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 150,
+    "a": 536,
+    "r": 150.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2143698,
+   "description": "PETITE DICED TOMATOES",
+   "servingSize": 121,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Tomatoes",
+   "calories": {
+    "v": 25.4,
+    "a": 21.0,
+    "r": 25.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 14.5,
+    "a": 12.0,
+    "r": 15.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 413003,
+   "description": "EVOLUTION FRESH, COLD-PRESSED JUICE, APPLE",
+   "servingSize": 240,
+   "unit": "ml",
+   "household": "8 OZA",
+   "category": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+   "calories": {
+    "v": 149,
+    "a": 62.0,
+    "r": 150.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 3
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2027939,
+   "description": "LITE CHERRY PIE FILLING OR TOPPING, LITE CHERRY",
+   "servingSize": 85,
+   "unit": "g",
+   "household": "1/3 cup",
+   "category": "Pastry Shells & Fillings",
+   "calories": {
+    "v": 60.4,
+    "a": 71.0,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 15.3,
+    "a": 18.0,
+    "r": 15.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2063721,
+   "description": "PUMPKIN PIE",
+   "servingSize": 128,
+   "unit": "g",
+   "household": "4.5 ONZ",
+   "category": "Other Frozen Desserts",
+   "calories": {
+    "v": 349,
+    "a": 273,
+    "r": 350.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 16.0,
+    "a": 12.5,
+    "r": 16.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 270,
+    "a": 211,
+    "r": 270.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2507033,
+   "description": "TEXAS HONEY ORGANIC SEMI-SWEET BREWED BLACK TEA WITH ORGANIC HONEY, TEXAS HONEY",
+   "servingSize": 473,
+   "unit": "MLT",
+   "household": "1 Bottle",
+   "category": "Iced & Bottle Tea",
+   "calories": {
+    "v": 80.4,
+    "a": 17.0,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 5
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2125011,
+   "description": "VODKA SAUCE, VODKA",
+   "servingSize": 122,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Prepared Pasta & Pizza Sauces",
+   "calories": {
+    "v": 90.3,
+    "a": 74.0,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 6.0,
+    "a": 4.92,
+    "r": 6.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 429,
+    "a": 352,
+    "r": 430.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1812299,
+   "description": "KOSHER DILL PICKLES",
+   "servingSize": 30,
+   "unit": "g",
+   "household": "1 ONZ",
+   "category": "Pickles, Olives, Peppers & Relishes",
+   "calories": {
+    "v": 9.9,
+    "a": 33.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 140,
+    "a": 467,
+    "r": 140.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2281477,
+   "description": "STRAWBERRY DELICIOUS FRUIT BUTTER, STRAWBERRY BUTTER",
+   "servingSize": 17.5,
+   "unit": "g",
+   "household": "1 Tbsp",
+   "category": "Jam, Jelly & Fruit Spreads",
+   "calories": {
+    "v": 40.1,
+    "a": 229,
+    "r": 40.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2074170,
+   "description": "WHOLE WHITE POTATOES",
+   "servingSize": 165,
+   "unit": "g",
+   "household": "2/3 cup",
+   "category": "Canned Vegetables",
+   "calories": {
+    "v": 59.4,
+    "a": 36.0,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 280,
+    "a": 170,
+    "r": 280.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1909763,
+   "description": "CONDENSED SOUP, CREAM OF CHICKEN",
+   "servingSize": 123,
+   "unit": "g",
+   "household": "0.5 cup",
+   "category": "Canned Condensed Soup",
+   "calories": {
+    "v": 99.6,
+    "a": 81.0,
+    "r": 100.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 6.0,
+    "a": 4.88,
+    "r": 6.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 879,
+    "a": 715,
+    "r": 880.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2624267,
+   "description": "WHOLE  MILK",
+   "servingSize": 240,
+   "unit": "MLT",
+   "household": "1 Cup (240 mL)",
+   "category": "Milk",
+   "calories": {
+    "v": 161,
+    "a": 67.0,
+    "r": 160.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 9.0,
+    "a": 3.75,
+    "r": 9.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 130,
+    "a": 54.0,
+    "r": 130.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2373357,
+   "description": "SLICED CARROTS",
+   "servingSize": 120,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Canned Vegetables",
+   "calories": {
+    "v": 20.4,
+    "a": 17.0,
+    "r": 20.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 250,
+    "a": 208,
+    "r": 250.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1951048,
+   "description": "LITE RANCH DRESSING, LITE RANCH",
+   "servingSize": 30,
+   "unit": "g",
+   "household": "2 Tbsp",
+   "category": "Salad Dressing & Mayonnaise",
+   "calories": {
+    "v": 69.9,
+    "a": 233,
+    "r": 70.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 6.99,
+    "a": 23.3,
+    "r": 7.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 330,
+    "a": 1100.0,
+    "r": 330.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2430288,
+   "description": "WHOLE STRAWBERRIES",
+   "servingSize": 140,
+   "unit": "g",
+   "household": "1 cup",
+   "category": "Frozen Fruit & Fruit Juice Concentrates",
+   "calories": {
+    "v": 50.4,
+    "a": 36.0,
+    "r": 50.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2398045,
+   "description": "SPICY TACO SAUCE, SPICY",
+   "servingSize": 15,
+   "unit": "ml",
+   "household": "1 Tbsp",
+   "category": "Oriental, Mexican & Ethnic Sauces",
+   "calories": {
+    "v": 4.95,
+    "a": 33.0,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 50.0,
+    "a": 333,
+    "r": 50.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2431765,
+   "description": "BLACKEYED PEAS",
+   "servingSize": 130,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Canned & Bottled Beans",
+   "calories": {
+    "v": 89.7,
+    "a": 69.0,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 420,
+    "a": 323,
+    "r": 420.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2137629,
+   "description": "OVEN ROASTED TURKEY BREAST, OVEN ROASTED",
+   "servingSize": 56,
+   "unit": "g",
+   "household": "2 SLICES",
+   "category": "Pepperoni, Salami & Cold Cuts",
+   "calories": {
+    "v": 59.9,
+    "a": 107,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 1.0,
+    "a": 1.79,
+    "r": 1.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 420,
+    "a": 750,
+    "r": 420.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2548509,
+   "description": "DICED GREEN POBLANO PEPPERS",
+   "servingSize": 30,
+   "unit": "GRM",
+   "household": "2 Tbsp",
+   "category": "Pickles, Olives, Peppers & Relishes",
+   "calories": {
+    "v": 9.9,
+    "a": 33.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 110,
+    "a": 367,
+    "r": 110.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2213050,
+   "description": "APPLE SWEET POTATO SMASH FLAVORED FRUIT & VEGETABLE JUICE DRINK FROM CONCENTRATE, APPLE SWEET POTATO SMASH",
+   "servingSize": 177,
+   "unit": "ml",
+   "household": "1 POUCH",
+   "category": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+   "calories": {
+    "v": 60.2,
+    "a": 34.0,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 30.1,
+    "a": 17.0,
+    "r": 30.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2024264,
+   "description": "CHUNK LIGHT TUNA IN WATER",
+   "servingSize": 56,
+   "unit": "g",
+   "household": "2 ONZ",
+   "category": "Canned Tuna",
+   "calories": {
+    "v": 59.9,
+    "a": 107,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.498,
+    "a": 0.89,
+    "r": 0.5,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 250,
+    "a": 446,
+    "r": 250.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2418866,
+   "description": "CHOPPED ONIONS",
+   "servingSize": 85,
+   "unit": "g",
+   "household": "2/3 cup",
+   "category": "Frozen Vegetables",
+   "calories": {
+    "v": 29.8,
+    "a": 35.0,
+    "r": 30.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 5.1,
+    "a": 6.0,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2569143,
+   "description": "SEEDLESS STRAWBERRY SPREADABLE FRUIT, STRAWBERRY",
+   "servingSize": 18,
+   "unit": "GRM",
+   "household": "1 tbsp (18g)",
+   "category": "Jam, Jelly & Fruit Spreads",
+   "calories": {
+    "v": 34.9,
+    "a": 194,
+    "r": 35.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 14.9,
+    "a": 83.0,
+    "r": 15.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2620843,
+   "description": "4 CHEESE PIZZA BLEND OF WHOLE MILK LOW-MOISTURE MOZZARELLA, PROVOLONE CHEESE WITH NATURAL SMOKE FLAVOR, PARMESAN & ROMANO SHREDDED CHEESES, 4 CHEESE PIZZA",
+   "servingSize": 28,
+   "unit": "GRM",
+   "household": "1/4 cup",
+   "category": "Cheese",
+   "calories": {
+    "v": 89.9,
+    "a": 321,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 7.0,
+    "a": 25.0,
+    "r": 7.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 230,
+    "a": 821,
+    "r": 230.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2483541,
+   "description": "MOZZARELLA LOW-MOISTURE PART-SKIM THICK CUT SHREDDED CHEESE, MOZZARELLA",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "1/4 cup",
+   "category": "Cheese",
+   "calories": {
+    "v": 80.1,
+    "a": 286,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 5.99,
+    "a": 21.4,
+    "r": 6.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 190,
+    "a": 679,
+    "r": 190.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 413067,
+   "description": "GRAPE 100% JUICE BLEND",
+   "servingSize": 295,
+   "unit": "ml",
+   "household": "10 OZA",
+   "category": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+   "calories": {
+    "v": 171,
+    "a": 58.0,
+    "r": 170.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 3
+   },
+   "sodium": {
+    "v": 14.8,
+    "a": 5.0,
+    "r": 15.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1627089,
+   "description": "CAMPBELL'S, HOMESTYLE CHICKEN BROTH & NOODLE SOUP MIX",
+   "servingSize": 18.899999618530273,
+   "unit": "g",
+   "household": "1 K-CUP POD AND 1 PACKET",
+   "category": "Other Soups",
+   "calories": {
+    "v": 69.9,
+    "a": 370,
+    "r": 70.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 1.0,
+    "a": 5.29,
+    "r": 1.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 750,
+    "a": 3970.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1869806,
+   "description": "CREAMY MOZZARELLA SPREADABLE CHEESE WEDGES, SUN-DRIED TOMATO & BASIL",
+   "servingSize": 21,
+   "unit": "g",
+   "household": "1 WEDGE",
+   "category": "Cheese",
+   "calories": {
+    "v": 35.1,
+    "a": 167,
+    "r": 35.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 1.5,
+    "a": 7.14,
+    "r": 1.5,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 190,
+    "a": 905,
+    "r": 190.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2068404,
+   "description": "COBB SALAD",
+   "servingSize": 363,
+   "unit": "g",
+   "household": "363 GRM",
+   "category": "Pickles, Olives, Peppers & Relishes",
+   "calories": {
+    "v": 632,
+    "a": 174,
+    "r": 630.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 43.9,
+    "a": 12.1,
+    "r": 44.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 1300.0,
+    "a": 358,
+    "r": 1300.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2159671,
+   "description": "THREE CHEESE PASTA SAUCE HEARTY ROBUST FLAVOR OF SLOW-SIMMERED TOMATOES AND CHEESE WITH ONION, GARLIC AND SPICES, THREE CHEESE PASTA SAUCE",
+   "servingSize": 126,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Prepared Pasta & Pizza Sauces",
+   "calories": {
+    "v": 70.6,
+    "a": 56.0,
+    "r": 70.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 2.0,
+    "a": 1.59,
+    "r": 2.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 430,
+    "a": 341,
+    "r": 430.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2628018,
+   "description": "CREAMY ITALIAN DRESSING, CREAMY ITALIAN",
+   "servingSize": 30,
+   "unit": "MLT",
+   "household": "2 Tbsp",
+   "category": "Salad Dressing & Mayonnaise",
+   "calories": {
+    "v": 24.9,
+    "a": 83.0,
+    "r": 25.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 321,
+    "a": 1070.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1983615,
+   "description": "ICING DECORATIONS",
+   "servingSize": 1.600000023841858,
+   "unit": "g",
+   "household": "1 Pieces",
+   "category": "Baking Decorations & Dessert Toppings",
+   "calories": {
+    "v": 4.99,
+    "a": 312,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2154128,
+   "description": "WHITE BEANS POTTAGE",
+   "servingSize": 270,
+   "unit": "g",
+   "household": "1 cup",
+   "category": "Canned & Bottled Beans",
+   "calories": {
+    "v": 329,
+    "a": 122,
+    "r": 330.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 6.99,
+    "a": 2.59,
+    "r": 7.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 969,
+    "a": 359,
+    "r": 970.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2469855,
+   "description": "RED, WHITE & BLUEBERRY & RASPBERRY ICE CREAM SWIRLED WITH VANILLA ICE CREAM WITH STRAWBERRIES & SHORTBREAD PIECES, RED, WHITE & BLUEBERRY",
+   "servingSize": 134,
+   "unit": "g",
+   "household": "2/3 cup",
+   "category": "Ice Cream & Frozen Yogurt",
+   "calories": {
+    "v": 289,
+    "a": 216,
+    "r": 290.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 17.0,
+    "a": 12.7,
+    "r": 17.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 80.4,
+    "a": 60.0,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2474081,
+   "description": "TROPICAL HARMONY + ALOE FRUIT CONCENTRATE BLEND WITH ICE OR H2O, TROPICAL HARMONY",
+   "servingSize": 30,
+   "unit": "ml",
+   "household": "1.0 OZA",
+   "category": "Liquid Water Enhancer",
+   "calories": {
+    "v": 69.9,
+    "a": 233,
+    "r": 70.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 5.1,
+    "a": 17.0,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1551239,
+   "description": "RAW HONEY",
+   "servingSize": 21,
+   "unit": "g",
+   "household": "1 Tbsp",
+   "category": "Honey",
+   "calories": {
+    "v": 60.1,
+    "a": 286,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2614614,
+   "description": "REDUCED FAT WITH 1/3 LESS FAT CREAM CHEESE SPREAD",
+   "servingSize": 31,
+   "unit": "GRM",
+   "household": "2 Tbsp (31g)",
+   "category": "Cheese",
+   "calories": {
+    "v": 60.1,
+    "a": 194,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 4.99,
+    "a": 16.1,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 120,
+    "a": 387,
+    "r": 120.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2549933,
+   "description": "CREAMY JALAPENO RANCH DIP, CREAMY JALAPENO RANCH",
+   "servingSize": 32,
+   "unit": "GRM",
+   "household": "2 Tbsp",
+   "category": "Frozen Prepared Sides",
+   "calories": {
+    "v": 70.1,
+    "a": 219,
+    "r": 70.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 4.99,
+    "a": 15.6,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 200,
+    "a": 625,
+    "r": 200.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2654346,
+   "description": "MIXED FRUIT FRUIT SNACKS, MIXED FRUIT",
+   "servingSize": 14,
+   "unit": "GRM",
+   "household": "1 pouch",
+   "category": "Candy",
+   "calories": {
+    "v": 44.9,
+    "a": 321,
+    "r": 45.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 9.94,
+    "a": 71.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1958268,
+   "description": "CREAM CHEESE SPREAD, MAPLE",
+   "servingSize": 30,
+   "unit": "g",
+   "household": "2 Tbsp",
+   "category": "Cheese",
+   "calories": {
+    "v": 99.9,
+    "a": 333,
+    "r": 100.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 9.0,
+    "a": 30.0,
+    "r": 9.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 80.1,
+    "a": 267,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2114586,
+   "description": "SAUERKRAUT",
+   "servingSize": 30,
+   "unit": "g",
+   "household": "2 Tbsp",
+   "category": "Canned Vegetables",
+   "calories": {
+    "v": 5.1,
+    "a": 17.0,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 200,
+    "a": 667,
+    "r": 200.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 396345,
+   "description": "KAGOME, SOFT DRINK (JELLY)",
+   "servingSize": 180,
+   "unit": "g",
+   "household": "180 GRM",
+   "category": "Other Drinks",
+   "calories": {
+    "v": 79.2,
+    "a": 44.0,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 121,
+    "a": 67.0,
+    "r": 120.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2419831,
+   "description": "BLACK BEAN & CORN ORGANIC MILD SALSA, BLACK BEAN & CORN",
+   "servingSize": 31,
+   "unit": "g",
+   "household": "2 Tbsp",
+   "category": "Dips & Salsa",
+   "calories": {
+    "v": 14.9,
+    "a": 48.0,
+    "r": 15.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 89.9,
+    "a": 290,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2473047,
+   "description": "WHOLE BABY CARROTS",
+   "servingSize": 83,
+   "unit": "g",
+   "household": "3/4 cup",
+   "category": "Frozen Vegetables",
+   "calories": {
+    "v": 29.9,
+    "a": 36.0,
+    "r": 30.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 54.8,
+    "a": 66.0,
+    "r": 55.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2579679,
+   "description": "ACAI BOWLS, ACAI BLEND WITH FRUIT & GRANOLA, TROPICAL",
+   "servingSize": 170,
+   "unit": "GRM",
+   "household": "6 oz",
+   "category": "Other Frozen Desserts",
+   "calories": {
+    "v": 219,
+    "a": 129,
+    "r": 220.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 6.0,
+    "a": 3.53,
+    "r": 6.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2147694,
+   "description": "BLOOD ORANGE ACEROLA ORGANIC LOW CALORIE ANTIOXIDANT RICH ENERGY DRINK, BLOOD ORANGE ACEROLA",
+   "servingSize": 355,
+   "unit": "ml",
+   "household": "12 OZA",
+   "category": "Soda",
+   "calories": {
+    "v": 35.5,
+    "a": 10.0,
+    "r": 35.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 4
+   },
+   "sodium": {
+    "v": 39.0,
+    "a": 11.0,
+    "r": 40.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1906011,
+   "description": "POZOLE, PORK AND HOMINY SOUP",
+   "servingSize": 245,
+   "unit": "g",
+   "household": "1 cup",
+   "category": "Other Soups",
+   "calories": {
+    "v": 191,
+    "a": 78.0,
+    "r": 190.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 10.0,
+    "a": 4.08,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 941,
+    "a": 384,
+    "r": 940.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2067187,
+   "description": "MUSHROOM PASTA SAUCE, MUSHROOM",
+   "servingSize": 128,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Prepared Pasta & Pizza Sauces",
+   "calories": {
+    "v": 44.8,
+    "a": 35.0,
+    "r": 45.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.998,
+    "a": 0.78,
+    "r": 1.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 480,
+    "a": 375,
+    "r": 480.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2368463,
+   "description": "ORIGINAL APPLESAUCE, ORIGINAL",
+   "servingSize": 126,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Wholesome Snacks",
+   "calories": {
+    "v": 89.5,
+    "a": 71.0,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2612996,
+   "description": "FLAVAS POMEGRANATE/LIME FLAVA'D WATER, FLAVAS POMEGRANATE/LIME",
+   "servingSize": 507,
+   "unit": "MLT",
+   "household": "0.5 L",
+   "category": "Water",
+   "calories": {
+    "v": 5.07,
+    "a": 1.0,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 6
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1113437,
+   "description": "PICKLE & PIMENTO LOAF, PICKLE & PIMENTO",
+   "servingSize": 38,
+   "unit": "g",
+   "household": "1 SLICE",
+   "category": "Pepperoni, Salami & Cold Cuts",
+   "calories": {
+    "v": 99.9,
+    "a": 263,
+    "r": 100.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 7.98,
+    "a": 21.0,
+    "r": 8.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 320,
+    "a": 842,
+    "r": 320.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2143883,
+   "description": "FRESHLY FROZEN UNSWEETENED PITTED DARK SWEET CHERRIES, UNSWEETENED",
+   "servingSize": 140,
+   "unit": "g",
+   "household": "1 cup",
+   "category": "Frozen Fruit & Fruit Juice Concentrates",
+   "calories": {
+    "v": 89.6,
+    "a": 64.0,
+    "r": 90.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2665619,
+   "description": "CHIPOTLE CHICKEN 2 GRILLED CHICKEN PATTIES + CHIPOTLE QUESO SAUCE, ONIONS, TOMATOES & RICE DOUBLE CHICKEN BOWLS, CHIPOTLE CHICKEN",
+   "servingSize": 425,
+   "unit": "GRM",
+   "household": "1 meal",
+   "category": "Frozen Dinners & Entrees",
+   "calories": {
+    "v": 421,
+    "a": 99.0,
+    "r": 420.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 11.0,
+    "a": 2.59,
+    "r": 11.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 1060.0,
+    "a": 249,
+    "r": 1060.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2058666,
+   "description": "WILD GEORGIA WHITE PEELED & DEVEINED SHRIMP",
+   "servingSize": 112,
+   "unit": "g",
+   "household": "4 ONZ",
+   "category": "Frozen Fish & Seafood",
+   "calories": {
+    "v": 79.5,
+    "a": 71.0,
+    "r": 80.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.997,
+    "a": 0.89,
+    "r": 1.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 130,
+    "a": 116,
+    "r": 130.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2400349,
+   "description": "ORIGINAL COCONUT WATER, ORIGINAL",
+   "servingSize": 360,
+   "unit": "ml",
+   "household": "12 OZA",
+   "category": "Plant Based Water",
+   "calories": {
+    "v": 68.4,
+    "a": 19.0,
+    "r": 70.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 4
+   },
+   "sodium": {
+    "v": 130,
+    "a": 36.0,
+    "r": 130.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 1903578,
+   "description": "BLUE CRAB SOUP, SPICY MARYLAND",
+   "servingSize": 114,
+   "unit": "g",
+   "household": "1/2 cup",
+   "category": "Other Soups",
+   "calories": {
+    "v": 60.4,
+    "a": 53.0,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 540,
+    "a": 474,
+    "r": 540.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2016053,
+   "description": "FUN BUNCH ICE POPS, CHERRY, WATERMELON, BERRY, GRAPE",
+   "servingSize": 71,
+   "unit": "g",
+   "household": "2 POPS",
+   "category": "Ice Cream & Frozen Yogurt",
+   "calories": {
+    "v": 60.4,
+    "a": 85.0,
+    "r": 60.0,
+    "n_pre": 1
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "given_back"
+  },
+  {
+   "fdcId": 2669006,
+   "description": "BLACKCURRANT JAM, BLACKCURRANT",
+   "servingSize": 20,
+   "unit": "GRM",
+   "household": "1 Tbsp",
+   "category": "Jam, Jelly & Fruit Spreads",
+   "calories": {
+    "v": 54.0,
+    "a": 270,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 0.04,
+    "a": 0.2,
+    "r": null,
+    "n_pre": 0
+   },
+   "sodium": {
+    "v": 8.0,
+    "a": 40.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2095403,
+   "description": "FRIED CHILI IN OIL",
+   "servingSize": 60,
+   "unit": "g",
+   "household": "0.25 cup",
+   "category": "Oriental, Mexican & Ethnic Sauces",
+   "calories": {
+    "v": 377,
+    "a": 628,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 32.0,
+    "a": 53.3,
+    "r": 32.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 350,
+    "a": 583,
+    "r": 350.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2096916,
+   "description": "FERNDALE FARMSTEAD, CHEESE ARTISANS",
+   "servingSize": 28.399999618530273,
+   "unit": "g",
+   "household": "1 ONZ",
+   "category": "Cheese",
+   "calories": {
+    "v": 92.9,
+    "a": 327,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 6.99,
+    "a": 24.6,
+    "r": 7.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 158,
+    "a": 556,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 1914727,
+   "description": "ROASTED PEANUTS, SALTED",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "1 ONZ",
+   "category": "Popcorn, Peanuts, Seeds & Related Snacks",
+   "calories": {
+    "v": 164,
+    "a": 586,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 14.0,
+    "a": 50.0,
+    "r": 14.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 228,
+    "a": 814,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2167129,
+   "description": "WHOLE GRAINS THIN SLICED GREAT SEEDS BREAD, WHOLE GRAINS",
+   "servingSize": 27,
+   "unit": "g",
+   "household": "1 slice",
+   "category": "Breads & Buns",
+   "calories": {
+    "v": 5.94,
+    "a": 22.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 2.0,
+    "a": 7.41,
+    "r": 2.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 125,
+    "a": 463,
+    "r": 125.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 401843,
+   "description": "KOHYANG, OPUNTIA & CITRON TEA",
+   "servingSize": 14,
+   "unit": "g",
+   "household": "14 GRM",
+   "category": "Tea Bags",
+   "calories": {
+    "v": 55.0,
+    "a": 393,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 56.0,
+    "a": 400,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2108010,
+   "description": "SHIH-CHUAN, PLUM VINEGAR DRINK",
+   "servingSize": 100,
+   "unit": "ml",
+   "household": "100 MLT",
+   "category": "Other Drinks",
+   "calories": {
+    "v": 26.0,
+    "a": 26.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 23.0,
+    "a": 23.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 1902158,
+   "description": "DURUM WHEAT SEMOLINA PASTA",
+   "servingSize": 56,
+   "unit": "g",
+   "household": "1 cup",
+   "category": "Pasta by Shape & Type",
+   "calories": {
+    "v": 206,
+    "a": 368,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 0.14,
+    "a": 0.25,
+    "r": null,
+    "n_pre": 0
+   },
+   "sodium": {
+    "v": 2.8,
+    "a": 5.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 1918598,
+   "description": "PROBIOTIC DRINK, VANILLA",
+   "servingSize": 240,
+   "unit": "ml",
+   "household": "8 OZA",
+   "category": "Milk",
+   "calories": {
+    "v": 175,
+    "a": 73.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 2.5,
+    "a": 1.04,
+    "r": 2.5,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 161,
+    "a": 67.0,
+    "r": 160.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 384252,
+   "description": "IMPORTED VIRGIN SUNFLOWER OIL",
+   "servingSize": 14,
+   "unit": "g",
+   "household": "1 Tbsp",
+   "category": "Vegetable & Cooking Oils",
+   "calories": {
+    "v": 126,
+    "a": 900,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 14.0,
+    "a": 100,
+    "r": 14.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2311705,
+   "description": "BEAN PIE",
+   "servingSize": 106.30000305175781,
+   "unit": "g",
+   "household": "3.75 oz.",
+   "category": "Cakes, Cupcakes, Snack Cakes",
+   "calories": {
+    "v": 264,
+    "a": 248,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 14.0,
+    "a": 13.2,
+    "r": 14.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 179,
+    "a": 168,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2408650,
+   "description": "DATES + CACAO + HAZELNUTS + TURKISH COFFEE SNACKING FRUIT & NUT BITES BALLS, DATES + CACAO + HAZELNUTS + TURKISH COFFEE",
+   "servingSize": 12,
+   "unit": "g",
+   "household": "12 GRM",
+   "category": "Popcorn, Peanuts, Seeds & Related Snacks",
+   "calories": {
+    "v": 39.0,
+    "a": 325,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 0.6,
+    "a": 5.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2048052,
+   "description": "CHERRY NUT HARVEST MIX",
+   "servingSize": 40,
+   "unit": "g",
+   "household": "0.25 cup",
+   "category": "Popcorn, Peanuts, Seeds & Related Snacks",
+   "calories": {
+    "v": 166,
+    "a": 415,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 12.0,
+    "a": 30.0,
+    "r": 12.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 19.2,
+    "a": 48.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 1906993,
+   "description": "POPCORN TOPPING, CARAMEL",
+   "servingSize": 41,
+   "unit": "g",
+   "household": "2 Tbsp",
+   "category": "Baking Decorations & Dessert Toppings",
+   "calories": {
+    "v": 144,
+    "a": 351,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 84.0,
+    "a": 205,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 1902988,
+   "description": "VIVA LA RASPA SNO-CONE SYRUP, CHILI MANGO",
+   "servingSize": 59,
+   "unit": "ml",
+   "household": "2 OZA",
+   "category": "Syrups & Molasses",
+   "calories": {
+    "v": 144,
+    "a": 244,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 11.8,
+    "a": 20.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2608958,
+   "description": "DATE COCONUT ROLLS WITH ALMONDS, ALMONDS",
+   "servingSize": 40,
+   "unit": "GRM",
+   "household": "2 dates",
+   "category": "Wholesome Snacks",
+   "calories": {
+    "v": 138,
+    "a": 345,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 2.5,
+    "a": 6.25,
+    "r": 2.5,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2663813,
+   "description": "FINELY CHOPPED TOMATOES",
+   "servingSize": 125,
+   "unit": "GRM",
+   "household": "0.5 cup",
+   "category": "Tomatoes",
+   "calories": {
+    "v": 27.5,
+    "a": 22.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": null,
+    "n_pre": 2
+   },
+   "sodium": {
+    "v": 5.0,
+    "a": 4.0,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2271845,
+   "description": "ARTISAN COLD-PRESSED BLACK SESAME OIL",
+   "servingSize": 14,
+   "unit": "g",
+   "household": "1 Tbsp",
+   "category": "Vegetable & Cooking Oils",
+   "calories": {
+    "v": 125,
+    "a": 893,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 14.0,
+    "a": 100,
+    "r": 14.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2427665,
+   "description": "OLIVES WITH PROVOLONE",
+   "servingSize": 25,
+   "unit": "g",
+   "household": "0.9 ONZ",
+   "category": "Other Deli",
+   "calories": {
+    "v": 64.0,
+    "a": 256,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 6.0,
+    "a": 24.0,
+    "r": 6.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 258,
+    "a": 1030.0,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2443306,
+   "description": "SALMON SNACKER APPETIZER, NATURAL HARDWOODS SMOKED",
+   "servingSize": 20,
+   "unit": "g",
+   "household": "20 GRM",
+   "category": "Fish & Seafood",
+   "calories": {
+    "v": 68.0,
+    "a": 340,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 3.0,
+    "a": 15.0,
+    "r": 3.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 124,
+    "a": 620,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2422477,
+   "description": "VANILLA BEAN ORIGINAL COCONUT COOKIES, VANILLA BEAN",
+   "servingSize": 28,
+   "unit": "g",
+   "household": "2 cookies",
+   "category": "Cookies & Biscuits",
+   "calories": {
+    "v": 147,
+    "a": 525,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 12.0,
+    "a": 42.9,
+    "r": 12.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 0.0,
+    "a": 0.0,
+    "r": 0.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2043847,
+   "description": "CANDY",
+   "servingSize": 85,
+   "unit": "g",
+   "household": "2.9 ONZ",
+   "category": "Candy",
+   "calories": {
+    "v": 94.4,
+    "a": 111,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 5.0,
+    "a": 5.88,
+    "r": 5.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 529,
+    "a": 622,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2412718,
+   "description": "SEMI - SWEET SUGAR FREE CHOCOLATE, SEMI - SWEET",
+   "servingSize": 16,
+   "unit": "g",
+   "household": "2 squares",
+   "category": "Chocolate",
+   "calories": {
+    "v": 95.0,
+    "a": 594,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 6.0,
+    "a": 37.5,
+    "r": 6.0,
+    "n_pre": 1
+   },
+   "sodium": {
+    "v": 9.92,
+    "a": 62.0,
+    "r": 10.0,
+    "n_pre": 1
+   },
+   "fate": "unrestorable"
+  },
+  {
+   "fdcId": 2095487,
+   "description": "EXTRA DARK CHOCOLATE",
+   "servingSize": 100,
+   "unit": "g",
+   "household": "100 GRM",
+   "category": "Chocolate",
+   "calories": {
+    "v": 515,
+    "a": 515,
+    "r": null,
+    "n_pre": 0
+   },
+   "fat": {
+    "v": 31.3,
+    "a": 31.3,
+    "r": null,
+    "n_pre": 0
+   },
+   "fate": "unrestorable"
+  }
+ ]
+}

@@ -30,3 +30,20 @@ from a per-100 g amount that no lawful number produces (class D), 37 % of them f
 "fit neither" were a binary-rounding artefact of this practice's test: 12 remain. No work declared.
 Next: session 3, the rule fixed in `AUDIT.md` entry 2: whether a work restores the panels (inverts the record), with class D as what
 cannot be restored.
+
+Session 3 (2026-10-29 Berlin): `SESSION3.md` (registration, e293b43, pushed before the count); `count3.py` → `session3.json` (registered
+count); `panels3.py` → `panels3.json` (the work's 120 drawn foods, fields only); `check3.py` → `check3.json` (registered check);
+`explore3.py` → `explore3.json` (exploratory); `build.py` + `template.html` → `index.html` (section "Session 3"); `work-draft/` (the
+work's page as registered, not built); `AUDIT.md` entry 3.
+Predictions: 8 registered; 5 held (P1-P5), 3 not made (P6-P8: the check answered none). Found: **running the record's arithmetic
+backwards, 403,309 of 416,781 main-source calorie values (96.8 %) lead back to exactly one number a label may print; 100,618 of those
+are not the number the database shows, and can be given back; 13,396 lead back to none, 76 to two. Every lawful number the database holds
+comes back as itself. Sodium 90.7 % restored; fat 11.5 % ambiguous.** The outside check could not be made: Open Food Facts holds none of
+the 400 foods asked per serving as typed (345 per 100 g or ml, 50 not found, 5 no basis). Exploration after the failure: of 17 given-back
+foods there not imported from USDA, 15 show the number given back and none the database's. **No work declared**, by the rule registered.
+**Session 4's reason, written before it is taken** (`SESSION3.md`: "unless the check could not be made"): the inversion is counted and
+the work's form is fixed; what the work's claim rests on, that a number given back is the package's, has not been tested against any
+package. Session 4 would test only that, on packages themselves: the photographs of nutrition panels people upload to Open Food Facts for
+the drawn foods, read by this practice blind to both numbers, compared with the number given back and the database's. Whether enough of
+the drawn foods have such a photograph is not known and is asked first (field presence only); if fewer than 20 can be read, or the
+reading cannot be made blind, the project is put back with its balance at session 4. A fifth session is not taken.

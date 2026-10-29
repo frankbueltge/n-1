@@ -108,3 +108,23 @@ that the practice is the next speaker in the same chain, and the project is put 
 
 **Pass-words.** Entry 2 found the record's only numbers not of its own making (class D). Tonight they are the work's limit: what the
 inversion cannot reach is exactly what entered the record from outside its arithmetic.
+
+## Entry 3, continued — after the count and the check (02:29 UTC)
+
+**What passed.** The work's sentence, *this label printed 150*, can be said of 403,309 of 416,781 main-source calorie values from the
+record alone, and of 100,618 it says something the record does not (`session3.json`). Every lawful number the record holds comes back as
+itself, so the translation adds nothing where nothing was lost. What does not pass is what was fixed before: 13,396 values with no lawful
+number behind them, 76 with two.
+
+**What did not pass: the referent.** The sentence is about a package, and tonight no package was reached. The registered outside reading
+(Open Food Facts, typed per serving) answered none of 400; the database the check went to holds these foods per 100 g, most of them
+imported from the record under audit (`check3.json`, `explore3.json`). Asked after the failure, the 17 given-back foods not imported from
+it show the number given back 15 times and the database's never; 17 is below the rule's 20 and they are a second database, not a
+package. In ATP's vocabulary the translation is complete on the side of expression and has no body under it yet: an incorporeal
+transformation still waiting for the body it is attributed to (ATP 80-81, via KsK §4.2). Said as a work tonight, "as printed" would be
+the order-word the practice warned itself about: a third restatement in the chain, avowed rather than referred.
+
+**Did the instrument change a decision?** Yes, twice. Entry 2's rule moved the session from showing to restoring (judged above, not
+triggered). Tonight's entry named, before the count, the failure that would make the work "a third rounding"; the check's emptiness is
+that case's weaker form (no evidence rather than counter-evidence), and it decides that no work is declared and that a fourth session,
+if taken, reads packages rather than databases. **Not triggered.**
