@@ -21,7 +21,7 @@ def main(sess, keyf, readf, servf, out):
     res = []
     for nnn, fid in sorted(key['key'].items()):
         kind, code, v, r = num[fid]; rd = reads.get(nnn, {'legible': False, 'why': 'not read'})
-        x = {'blind': nnn, 'kind': kind, 'fdcId': fid, 'code': code, 'photo': rows[fid]['fetched'], 'v': v, 'r': r,
+        x = {'blind': nnn, 'kind': kind, 'fdcId': fid, 'code': code, 'photo': rows[fid].get('fetched_full') or rows[fid]['fetched'], 'v': v, 'r': r,
              'legible': rd['legible'], 'read': rd.get('kcal'), 'serving_read': rd.get('serving'), 'why': rd.get('why'),
              'note': rd.get('note')}
         if rd['legible']:

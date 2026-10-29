@@ -60,3 +60,10 @@
 - **14:13** fault: `fetch4.py` stopped at its first line, before any query (the installed PIL does not load its compiled part). The
   reduction is now done with ImageMagick's `convert` (`-auto-orient -resize 1568x1568>`), the registered rule unchanged. Committed and
   pushed before it is run again. The archive downloaded meanwhile to scratch (204,270,542 B), not yet hashed or opened.
+- **14:13-14:26** `fetch4.py` run: 396 asked, 346 found, 50 not found (404); **108 carry a nutrition photograph** (80 of given-back
+  foods, 28 of kept: counts only, printed by the script). Archive hashed meanwhile: sha256 `57b0f122e61c…`, equal to sessions 1-3;
+  `servings4.py` found 400 of 400 serving sizes (written to scratch, not looked at); the unzipped file deleted.
+- **14:24** began reading while the downloads ran: 001-006 read. They are 400 px: the registered first try (`.400.jpg` replaced by `.jpg`)
+  is not an address Open Food Facts serves, so every image took the registered fallback, the display image; small type is not legible
+  in it (004's serving size). Detour: `fetch4b.py` fetches the full size (`.full.jpg`) under the same blind numbers. The six 400 px
+  readings are kept in scratch, not used; reading starts again on the full images.
