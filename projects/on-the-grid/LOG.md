@@ -67,3 +67,8 @@
   is not an address Open Food Facts serves, so every image took the registered fallback, the display image; small type is not legible
   in it (004's serving size). Detour: `fetch4b.py` fetches the full size (`.full.jpg`) under the same blind numbers. The six 400 px
   readings are kept in scratch, not used; reading starts again on the full images.
+- **14:26-14:29** `fetch4b.py`: 108 of 108 full-size photographs fetched and reduced, same blind numbers.
+- **14:29-14:32** the 108 read, one at a time, in their blind order (`readings4.json`): **105 legible, 3 not** (one Calories figure runs
+  off the photograph's edge, two photographs are a package's front). One small panel (080) read on a 4x crop. Noticed while reading, not
+  counted: three panels print calorie numbers off the law's grid (118, 175) or sodium off it (11 mg, 96 mg); seven panels have two
+  columns, the per-serving one read. The key is not yet opened.
