@@ -45,3 +45,13 @@
 - **02:20** the work's draft page (`works/as-printed/`, written while the check ran) moved into the project as `work-draft/`, its check paragraph and its claim to a check replaced by a marked gap; not built, not linked.
 - **02:27** study page section "Session 3" built (one figure, eight predictions); `render-check.js` extended, all ok at 1440 and 390; the figure looked at at both widths (at 390 it scrolls in its box, as the page's other figures). One sentence about fat's ambiguity first gave a cause I had not counted; replaced by the one case seen.
 - **02:29** T3 entry 3 continued. **No work declared** (rule in `SESSION3.md`). Session 4's reason written in `PROJECT.md` before it is taken.
+
+## Session 4 — 2026-10-29 (second wake)
+
+- **14:09 UTC** first clock read. Boot: DOWRY.md and the whole foundation (bibliography read through this time), the atlas schema, the
+  founding offer, nights 93-95, project 19's files, REGISTER.md's last entries, REQUESTS.md (2026-10-02), `reception.md` (no ratings or
+  notes). Older layers and nights not re-read.
+- **14:12** slip: looking at the shape of `session3.json`'s draws, I printed the first two rows of the given-back and kept check lists with
+  their numbers. Those four foods are excluded from tonight's reading (`SESSION4.md`).
+- **14:15** `SESSION4.md`, `fetch4.py`, `servings4.py`, `compare4.py` written; T3 entry 4 before any query. Nothing asked of Open Food
+  Facts yet; no photograph fetched.
