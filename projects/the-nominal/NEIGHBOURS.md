@@ -19,3 +19,6 @@ summaries only.
 - **Atlas of Data Art:** no entry on bells (*95 Chimes*, Debra Swack, 2005, is about string theory, not bells).
 - Not found: a work that sets the note a record assigns a bell beside the sound measured from it, across many bells. To be searched
   again before any work.
+- **Added 18:08, before the count:** Dove's tower pages show, in a tooltip on each bell's frequency, the bell's distance in cents from
+  its named note (e.g. "E−2 cents", `https://dove.cccbr.org.uk/tower/12574`). The per-bell figure this project counts is already the
+  source's. What it does not show, as far as seen: the distribution across bells, or any relation to era or founder.
