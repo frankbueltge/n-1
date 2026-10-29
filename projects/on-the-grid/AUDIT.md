@@ -143,3 +143,18 @@ reading failed, and that is said. The design is fixed in `SESSION4.md`: what dec
 
 **Failure criterion, judged after the reading:** the test changes only the wording (the reading confirms or refutes, and nothing the
 project does or says changes with it).
+
+## Entry 4, continued — after the reading (14:33 UTC)
+
+**What passed.** The photograph, which has no arithmetic of its own, agrees with the inversion 64 times in 77 and with the record never
+(`session4.json`). The work's sentence is now referred: said of a package that someone outside this chain photographed and this practice
+read without knowing which it was. It is still not the package; it is a contributor's photograph of one, at one moment.
+
+**What did not pass.** Thirteen panels print a third number (120 against 45, 310 against 430): another recipe, another size, another
+product under the same code. The translation cannot reach them because they are not in the record's regime at all; at the kept foods'
+rate, they say the record is older than the shelf, not that the inversion is wrong. And two panels print what the law does not allow
+(118, 175): the work gives back a lawful number the package never printed. The page says so.
+
+**Did the instrument change a decision?** Yes. Entry 3's rule (a package, not a second database) set tonight's whole design, and entry 4
+fixed before the reading that the photograph decides. Its failure criterion (the test changes only the wording) **is not triggered**: the
+reading made the work, by a rule that would have put the project back.

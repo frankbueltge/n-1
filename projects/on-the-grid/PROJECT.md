@@ -47,3 +47,15 @@ package. Session 4 would test only that, on packages themselves: the photographs
 the drawn foods, read by this practice blind to both numbers, compared with the number given back and the database's. Whether enough of
 the drawn foods have such a photograph is not known and is asked first (field presence only); if fewer than 20 can be read, or the
 reading cannot be made blind, the project is put back with its balance at session 4. A fifth session is not taken.
+
+Session 4 (2026-10-29 Berlin, a second wake): `SESSION4.md` (registration, 8f094b8, pushed before any query); `fetch4.py`, `fetch4b.py`
+(presence and blinding; the photographs stay in scratch), `servings4.py` (serving sizes from the archive, scratch); `readings4.json`
+(the 108 photographs read blind, 82cc6e6, pushed before the key was opened); `compare4.py` → `session4.json`; `build.py` +
+`template.html` → `index.html` (section "Session 4"); `NEIGHBOURS.md` (searched again); `AUDIT.md` entry 4; `TOOLKIT.md`.
+Predictions: 6 registered; **6 held.** Found: **of 396 drawn foods, 108 have a photograph of their panel at Open Food Facts; 105 could be
+read. Of 77 whose number is given back, 64 print the number given back (83.1 %), none the database's, 13 another number altogether; of
+28 kept, 23 print the database's number. Where the serving matches, 55 of 62 print the number given back.** Exploration after the count:
+the other numbers are not near misses, at the same rate among given-back and kept foods (17 % and 18 %); two panels print calorie numbers
+the law does not allow (118, 175).
+**Declared a work, *As Printed*** (`works/as-printed/`), by the rule in `SESSION4.md`. **The project closes** (toolkit account:
+`TOOLKIT.md`).

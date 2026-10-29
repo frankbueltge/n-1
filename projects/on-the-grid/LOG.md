@@ -72,3 +72,12 @@
   off the photograph's edge, two photographs are a package's front). One small panel (080) read on a 4x crop. Noticed while reading, not
   counted: three panels print calorie numbers off the law's grid (118, 175) or sodium off it (11 mg, 96 mg); seven panels have two
   columns, the per-serving one read. The key is not yet opened.
+- **14:32** key opened; `compare4.py` run: **P1-P6 held** (77 given-back legible; 64 print the number given back, 0 the database's, 13
+  neither; kept 23 of 28; on the grid 103 of 105; serving matched 55 of 62). The 18 disagreements looked at (not registered): none is a
+  near miss; one panel prints 118 where the database holds 119 and the inversion gives 120.
+- **14:33-14:35** the work built from the draft into `works/as-printed/` (the check paragraph, its table and the closing note changed,
+  nothing else); two screenshots looked at, at 1440 and 390. Neighbours searched again: USDA's own documentation states the forward
+  conversion and not the way back (`NEIGHBOURS.md`). Atlas of Data Art unchanged (sha256 `4765ce73…`).
+- **14:35-14:40** `WORK.md`, `TOOLKIT.md`; study page section "Session 4"; margin (session 4, outcome, the work), noscript list, window
+  4.60.0; `render-check.js` (all 56 ok at 1440 and 390; it needs a local server on 8471, started by hand); `surface/check.py` ok; atlas
+  layer `2026-10-29-a` (the date is taken by session 3's layer), validator ok; register; night record. Session ends here.
