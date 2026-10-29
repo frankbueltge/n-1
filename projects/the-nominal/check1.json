@@ -1,0 +1,522 @@
+[
+ {
+  "bell_id": "40866",
+  "tower": "https://dove.cccbr.org.uk/tower/12994",
+  "role": "7",
+  "csv": {
+   "weight_lbs": "815",
+   "approx": "",
+   "nominal_hz": "888.0",
+   "note": "A"
+  },
+  "page": {
+   "cells": [
+    "",
+    "7",
+    "7–1–3",
+    "888.0",
+    "A",
+    "34.00″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "888.0",
+   "pitch_title": "A+15 cents"
+  },
+  "status": "ok",
+  "d_ours": 15.7
+ },
+ {
+  "bell_id": "33917",
+  "tower": "https://dove.cccbr.org.uk/tower/11438",
+  "role": "4",
+  "csv": {
+   "weight_lbs": "1027",
+   "approx": "",
+   "nominal_hz": "823.0",
+   "note": "G♯"
+  },
+  "page": {
+   "cells": [
+    "",
+    "4",
+    "9–0–19",
+    "823.0",
+    "G♯",
+    "36.50″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "823.0",
+   "pitch_title": "G♯−15 cents"
+  },
+  "status": "ok",
+  "d_ours": -15.9
+ },
+ {
+  "bell_id": "17362",
+  "tower": "https://dove.cccbr.org.uk/tower/12152",
+  "role": "3",
+  "csv": {
+   "weight_lbs": "650",
+   "approx": "",
+   "nominal_hz": "1019.0",
+   "note": "C"
+  },
+  "page": {
+   "cells": [
+    "",
+    "3",
+    "5–3–6",
+    "1019.0",
+    "C",
+    "31.75″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1019.0",
+   "pitch_title": "C−47 cents"
+  },
+  "status": "ok",
+  "d_ours": -46.1
+ },
+ {
+  "bell_id": "49688",
+  "tower": "https://dove.cccbr.org.uk/tower/17738",
+  "role": "4",
+  "csv": {
+   "weight_lbs": "510",
+   "approx": "",
+   "nominal_hz": "1029.5",
+   "note": "B"
+  },
+  "page": {
+   "cells": [
+    "",
+    "4 [4]",
+    "4–2–6",
+    "1029.5",
+    "B",
+    "30.00″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1029.5",
+   "pitch_title": "B+71 cents"
+  },
+  "status": "ok",
+  "d_ours": 71.6
+ },
+ {
+  "bell_id": "26843",
+  "tower": "https://dove.cccbr.org.uk/tower/13974",
+  "role": "6",
+  "csv": {
+   "weight_lbs": "710",
+   "approx": "",
+   "nominal_hz": "949.0",
+   "note": "A♯"
+  },
+  "page": {
+   "cells": [
+    "",
+    "6",
+    "6–1–10",
+    "949.0",
+    "A♯",
+    "32.50″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "949.0",
+   "pitch_title": "A♯+30 cents"
+  },
+  "status": "ok",
+  "d_ours": 30.7
+ },
+ {
+  "bell_id": "35237",
+  "tower": "https://dove.cccbr.org.uk/tower/11188",
+  "role": "6",
+  "csv": {
+   "weight_lbs": "664",
+   "approx": "",
+   "nominal_hz": "1034.0",
+   "note": "C"
+  },
+  "page": {
+   "cells": [
+    "",
+    "6",
+    "5–3–20",
+    "1034.0",
+    "C",
+    "33.25″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1034.0",
+   "pitch_title": "C−21 cents"
+  },
+  "status": "ok",
+  "d_ours": -20.8
+ },
+ {
+  "bell_id": "21845",
+  "tower": "https://dove.cccbr.org.uk/tower/11650",
+  "role": "1",
+  "csv": {
+   "weight_lbs": "467",
+   "approx": "",
+   "nominal_hz": "1376.0",
+   "note": "F"
+  },
+  "page": {
+   "cells": [
+    "",
+    "1",
+    "4–0–19",
+    "1376.0",
+    "F",
+    "27.38″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1376.0",
+   "pitch_title": "F−27 cents"
+  },
+  "status": "ok",
+  "d_ours": -26.1
+ },
+ {
+  "bell_id": "14002",
+  "tower": "https://dove.cccbr.org.uk/tower/14659",
+  "role": "3",
+  "csv": {
+   "weight_lbs": "462",
+   "approx": "",
+   "nominal_hz": "1343.0",
+   "note": "E"
+  },
+  "page": {
+   "cells": [
+    "",
+    "3",
+    "4–0–14",
+    "1343.0",
+    "E",
+    "26.50″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1343.0",
+   "pitch_title": "E+31 cents"
+  },
+  "status": "ok",
+  "d_ours": 31.9
+ },
+ {
+  "bell_id": "60299",
+  "tower": "https://dove.cccbr.org.uk/tower/23642",
+  "role": "3",
+  "csv": {
+   "weight_lbs": "88",
+   "approx": "",
+   "nominal_hz": "2591.0",
+   "note": "E"
+  },
+  "page": {
+   "cells": [
+    "",
+    "3",
+    "0–3–4",
+    "2591.0",
+    "E",
+    "14.69″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "2591.0",
+   "pitch_title": "E−31 cents"
+  },
+  "status": "ok",
+  "d_ours": -30.5
+ },
+ {
+  "bell_id": "35096",
+  "tower": "https://dove.cccbr.org.uk/tower/13438",
+  "role": "3",
+  "csv": {
+   "weight_lbs": "596",
+   "approx": "",
+   "nominal_hz": "1077.0",
+   "note": "C"
+  },
+  "page": {
+   "cells": [
+    "",
+    "3",
+    "5–1–8",
+    "1077.0",
+    "C",
+    "30.00″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1077.0",
+   "pitch_title": "C+49 cents"
+  },
+  "status": "ok",
+  "d_ours": 49.7
+ },
+ {
+  "bell_id": "62590",
+  "tower": "https://dove.cccbr.org.uk/tower/24945",
+  "role": "1",
+  "csv": {
+   "weight_lbs": "229",
+   "approx": "",
+   "nominal_hz": "1638.0",
+   "note": "A♭"
+  },
+  "page": {
+   "cells": [
+    "",
+    "1",
+    "2–0–5",
+    "1638.0",
+    "A♭",
+    "21.00″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1638.0",
+   "pitch_title": "A♭−25 cents"
+  },
+  "status": "ok",
+  "d_ours": -24.4
+ },
+ {
+  "bell_id": "32476",
+  "tower": "https://dove.cccbr.org.uk/tower/13231",
+  "role": "3",
+  "csv": {
+   "weight_lbs": "438",
+   "approx": "",
+   "nominal_hz": "1488.0",
+   "note": "F♯"
+  },
+  "page": {
+   "cells": [
+    "",
+    "3",
+    "3–3–18",
+    "1488.0",
+    "F♯",
+    "25.38″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1488.0",
+   "pitch_title": "F♯+9 cents"
+  },
+  "status": "ok",
+  "d_ours": 9.4
+ },
+ {
+  "bell_id": "6849",
+  "tower": "https://dove.cccbr.org.uk/tower/11024",
+  "role": "4",
+  "csv": {
+   "weight_lbs": "1239",
+   "approx": "",
+   "nominal_hz": "789.5",
+   "note": "G"
+  },
+  "page": {
+   "cells": [
+    "",
+    "4",
+    "11–0–7",
+    "789.5",
+    "G",
+    "39.75″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "789.5",
+   "pitch_title": "G+12 cents"
+  },
+  "status": "ok",
+  "d_ours": 12.1
+ },
+ {
+  "bell_id": "20904",
+  "tower": "https://dove.cccbr.org.uk/tower/16293",
+  "role": "7",
+  "csv": {
+   "weight_lbs": "1643",
+   "approx": "",
+   "nominal_hz": "714.0",
+   "note": "F"
+  },
+  "page": {
+   "cells": [
+    "",
+    "7",
+    "14–2–19",
+    "714.0",
+    "F",
+    "43.38″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "714.0",
+   "pitch_title": "F+38 cents"
+  },
+  "status": "ok",
+  "d_ours": 38.1
+ },
+ {
+  "bell_id": "63148",
+  "tower": "https://dove.cccbr.org.uk/tower/25167",
+  "role": "5",
+  "csv": {
+   "weight_lbs": "35",
+   "approx": "",
+   "nominal_hz": "2959.0",
+   "note": "F♯"
+  },
+  "page": {
+   "cells": [
+    "",
+    "5",
+    "0–1–7",
+    "2959.0",
+    "F♯",
+    "11.38″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "2959.0",
+   "pitch_title": "F♯−1 cents"
+  },
+  "status": "ok",
+  "d_ours": -0.6
+ },
+ {
+  "bell_id": "20161",
+  "tower": "https://dove.cccbr.org.uk/tower/11997",
+  "role": "1",
+  "csv": {
+   "weight_lbs": "364",
+   "approx": "Y",
+   "nominal_hz": "1232.5",
+   "note": "D♯"
+  },
+  "page": {
+   "cells": [
+    "",
+    "1",
+    "3¼ cwt",
+    "1232.5",
+    "D♯",
+    "26.75″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1232.5",
+   "pitch_title": "D♯−17 cents"
+  },
+  "status": "ok",
+  "d_ours": -16.8
+ },
+ {
+  "bell_id": "11353",
+  "tower": "https://dove.cccbr.org.uk/tower/10555",
+  "role": "5",
+  "csv": {
+   "weight_lbs": "466",
+   "approx": "",
+   "nominal_hz": "1237.0",
+   "note": "D♯"
+  },
+  "page": {
+   "cells": [
+    "",
+    "5",
+    "4–0–18",
+    "1237.0",
+    "D♯",
+    "27.50″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1237.0",
+   "pitch_title": "D♯−11 cents"
+  },
+  "status": "ok",
+  "d_ours": -10.5
+ },
+ {
+  "bell_id": "32444",
+  "tower": "https://dove.cccbr.org.uk/tower/10490",
+  "role": "4",
+  "csv": {
+   "weight_lbs": "561",
+   "approx": "",
+   "nominal_hz": "1320.0",
+   "note": "E"
+  },
+  "page": {
+   "cells": [
+    "",
+    "4",
+    "5–0–1",
+    "1320.0",
+    "E",
+    "28.00″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1320.0",
+   "pitch_title": "E+1 cents"
+  },
+  "status": "ok",
+  "d_ours": 2.0
+ },
+ {
+  "bell_id": "54432",
+  "tower": "https://dove.cccbr.org.uk/tower/20349",
+  "role": "2",
+  "csv": {
+   "weight_lbs": "511",
+   "approx": "",
+   "nominal_hz": "1066.5",
+   "note": "C"
+  },
+  "page": {
+   "cells": [
+    "",
+    "2 [3]",
+    "4–2–7",
+    "1066.5",
+    "C",
+    "28.00″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1066.5",
+   "pitch_title": "C+32 cents"
+  },
+  "status": "ok",
+  "d_ours": 32.8
+ },
+ {
+  "bell_id": "17788",
+  "tower": "https://dove.cccbr.org.uk/tower/14684",
+  "role": "4",
+  "csv": {
+   "weight_lbs": "400",
+   "approx": "",
+   "nominal_hz": "1360.0",
+   "note": "E"
+  },
+  "page": {
+   "cells": [
+    "",
+    "4",
+    "3–2–8",
+    "1360.0",
+    "E",
+    "25.75″"
+   ],
+   "weight_lbs": null,
+   "nominal_hz": "1360.0",
+   "pitch_title": "E+53 cents"
+  },
+  "status": "ok",
+  "d_ours": 53.6
+ }
+]

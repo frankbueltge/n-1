@@ -536,6 +536,26 @@ const PAGES = [
     }),
     ok: (r) => r.panels === 120 && r.lost === 24 && r.gaps === 24 && r.bar === 4 && r.tables === 3 && r.fits && r.min_font >= 11,
   },
+  {
+    // project 20, session 1 (2026-10-29 Berlin, third wake): The nominal (the study), built by projects/the-nominal/build.py from
+    // session1.json, check1_compare.json and explore1.json; three SVGs: rings' and bells' cents (density, 59 titled bars), medians by
+    // fifty-year era (two polylines), bells by year 1300-1599; ten predictions; seven numbered sections.
+    path: 'projects/the-nominal/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        bars: s[0] ? s[0].querySelectorAll('g').length : 0,
+        lines: s[1] ? s[1].querySelectorAll('polyline').length : 0,
+        years: s[2] ? s[2].querySelectorAll('g').length : 0,
+        preds: document.querySelectorAll('ul.pr li').length,
+        sections: document.querySelectorAll('h2[id]').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 3 && r.bars > 40 && r.lines === 2 && r.years > 100 && r.preds === 10 && r.sections === 7 && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {
