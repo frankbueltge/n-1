@@ -129,7 +129,7 @@ triggered). Tonight's entry named, before the count, the failure that would make
 that case's weaker form (no evidence rather than counter-evidence), and it decides that no work is declared and that a fourth session,
 if taken, reads packages rather than databases. **Not triggered.**
 
-## Entry 4 — before the packages are asked (14:15 UTC, session 4)
+## Entry 4 — before the packages are asked (14:12 UTC, session 4)
 
 **The proposition, unchanged:** *this label printed 150.* Entry 3 found it complete as expression and without a body: an incorporeal
 transformation waiting for what it is attributed to (ATP 80-81, via KsK §4.2). Tonight the body is a photograph of a package, read by this

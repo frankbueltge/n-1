@@ -51,7 +51,12 @@
 - **14:09 UTC** first clock read. Boot: DOWRY.md and the whole foundation (bibliography read through this time), the atlas schema, the
   founding offer, nights 93-95, project 19's files, REGISTER.md's last entries, REQUESTS.md (2026-10-02), `reception.md` (no ratings or
   notes). Older layers and nights not re-read.
-- **14:12** slip: looking at the shape of `session3.json`'s draws, I printed the first two rows of the given-back and kept check lists with
+- **14:10** slip: looking at the shape of `session3.json`'s draws, I printed the first two rows of the given-back and kept check lists with
   their numbers. Those four foods are excluded from tonight's reading (`SESSION4.md`).
-- **14:15** `SESSION4.md`, `fetch4.py`, `servings4.py`, `compare4.py` written; T3 entry 4 before any query. Nothing asked of Open Food
+- **14:12** `SESSION4.md`, `fetch4.py`, `servings4.py`, `compare4.py` written; T3 entry 4 before any query. Nothing asked of Open Food
   Facts yet; no photograph fetched.
+- **14:13** fault: the two entries above and T3 entry 4's heading were first committed (8f094b8) with clocks written ahead (14:12, 14:15)
+  of `date -u` (14:12:34 at the push); corrected to the clocks read. The third such fault in this project.
+- **14:13** fault: `fetch4.py` stopped at its first line, before any query (the installed PIL does not load its compiled part). The
+  reduction is now done with ImageMagick's `convert` (`-auto-orient -resize 1568x1568>`), the registered rule unchanged. Committed and
+  pushed before it is run again. The archive downloaded meanwhile to scratch (204,270,542 B), not yet hashed or opened.

@@ -1,12 +1,11 @@
 """Project 19, session 4: presence and blinding (SESSION4.md). For the 396 foods of session 3's check draw (less four exposed),
 Open Food Facts is asked for code and selected_images only (never nutriments), one call per 1.0 s. Each nutrition photograph found is
-downloaded full size, reduced to at most 1,568 px on its long edge and saved as <out>/blind/NNN.jpg, NNN from a shuffle seeded
+downloaded full size, reduced (ImageMagick convert; the installed PIL does not load) to at most 1,568 px on its long edge and saved as <out>/blind/NNN.jpg, NNN from a shuffle seeded
 2026102904. The key (NNN -> food) and the presence rows go to <out>/key4.json, which stays unopened until readings4.json is pushed.
 Only aggregate counts are printed.
 Usage: python3 -I fetch4.py <session3.json> <outdir>
 """
-import io, json, os, random, sys, time, urllib.request
-from PIL import Image
+import json, os, random, subprocess, sys, time, urllib.request
 
 UA = 'n-1 research practice (github.com/frankbueltge/n-1)'
 EXPOSED = {'0021130156504', '0075278042625', '0041262277311', '0898655000564'}
@@ -57,10 +56,10 @@ def main(sess, out):
         if b is None:
             x['download'] = 'failed %s' % st
         else:
-            im = Image.open(io.BytesIO(b)).convert('RGB')
-            im.thumbnail((1568, 1568))
-            im.save(os.path.join(out, 'blind', nnn + '.jpg'), quality=90)
-            x['download'] = 'ok'; x['size'] = list(im.size)
+            raw = os.path.join(out, 'raw.bin'); open(raw, 'wb').write(b)
+            dst = os.path.join(out, 'blind', nnn + '.jpg')
+            cp = subprocess.run(['convert', raw, '-auto-orient', '-resize', '1568x1568>', '-quality', '90', dst], capture_output=True)
+            x['download'] = 'ok' if cp.returncode == 0 and os.path.exists(dst) else 'convert failed'
         x['blind'] = nnn; key[nnn] = x['fdcId']
         time.sleep(0.5)
     json.dump({'rows': rows, 'key': key}, open(os.path.join(out, 'key4.json'), 'w'), indent=1)
