@@ -235,6 +235,21 @@ V.update({"{{FIG7}}": fig7, "{{KEY7}}": key7, "{{R3}}": f(L3["restored"]), "{{N3
           "{{G3}}": f(L3["given_back"]), "{{U3}}": f(L3["unrestorable"]), "{{A3}}": f(L3["ambiguous"]),
           "{{SR3}}": pc(F3["sodium|LI"]["restored"], F3["sodium|LI"]["testable"]), "{{FA3}}": pc(F3["fat|LI"]["ambiguous"], F3["fat|LI"]["testable"]),
           "{{OF100}}": f(of100), "{{OFNF}}": f(ofnf), "{{OFNB}}": f(ofnb), "{{EX3}}": ex3, "{{PREDS3}}": "".join(li3)})
+s4 = json.load(open("session4.json")); A4 = s4["agg"]; P4 = s4["predictions"]
+txt4 = [
+    (P4["P1 >= 20 given back legible"], "At least 20 given-back foods have a legible photograph: %d." % A4["legible_given"]),
+    (P4["P2 r == read >= 70 %"][1], "Of those, at least 70 %% print the number given back: %s." % pc(A4["given_r_eq"], A4["legible_given"])),
+    (P4["P3 v == read <= 10 %"][1], "At most 10 %% print the database's number: %s." % pc(A4["given_v_eq"], A4["legible_given"])),
+    (P4["P4 kept v == read >= 70 %"][1], "Of kept foods, at least 70 %% print the database's number: %s." % pc(A4["kept_v_eq"], A4["legible_kept"])),
+    (P4["P5 read on grid >= 95 %"][1], "At least 95 %% of all readings are on the law's grid: %s." % pc(A4["read_on_grid"], A4["legible"])),
+    (P4["P6 serving match r == read >= 85 %"][1], "Where the serving matches, at least 85 %% print the number given back: %s." % pc(
+        A4["given_serving_match_r_eq"], A4["given_serving_match"])),
+]
+li4 = ['<li><b>%s</b> %s</li>' % ({True: "Held.", False: "Failed."}[bool(ok)], tx) for ok, tx in txt4]
+V.update({"{{PH4}}": f(A4["with_photograph"]), "{{LEG4}}": f(A4["legible"]), "{{LG4}}": f(A4["legible_given"]), "{{LR4}}": f(A4["given_r_eq"]),
+          "{{LV4}}": f(A4["given_v_eq"]), "{{LN4}}": f(A4["given_neither"]), "{{LK4}}": f(A4["legible_kept"]), "{{KV4}}": f(A4["kept_v_eq"]),
+          "{{KN4}}": f(A4["legible_kept"] - A4["kept_v_eq"]), "{{SR4}}": f(A4["given_serving_match_r_eq"]), "{{SN4}}": f(A4["given_serving_match"]),
+          "{{PREDS4}}": "".join(li4)})
 t = open("template.html").read()
 for k, v in V.items():
     t = t.replace(k, v)

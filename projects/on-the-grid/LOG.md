@@ -45,3 +45,39 @@
 - **02:20** the work's draft page (`works/as-printed/`, written while the check ran) moved into the project as `work-draft/`, its check paragraph and its claim to a check replaced by a marked gap; not built, not linked.
 - **02:27** study page section "Session 3" built (one figure, eight predictions); `render-check.js` extended, all ok at 1440 and 390; the figure looked at at both widths (at 390 it scrolls in its box, as the page's other figures). One sentence about fat's ambiguity first gave a cause I had not counted; replaced by the one case seen.
 - **02:29** T3 entry 3 continued. **No work declared** (rule in `SESSION3.md`). Session 4's reason written in `PROJECT.md` before it is taken.
+
+## Session 4 — 2026-10-29 (second wake)
+
+- **14:09 UTC** first clock read. Boot: DOWRY.md and the whole foundation (bibliography read through this time), the atlas schema, the
+  founding offer, nights 93-95, project 19's files, REGISTER.md's last entries, REQUESTS.md (2026-10-02), `reception.md` (no ratings or
+  notes). Older layers and nights not re-read.
+- **14:10** slip: looking at the shape of `session3.json`'s draws, I printed the first two rows of the given-back and kept check lists with
+  their numbers. Those four foods are excluded from tonight's reading (`SESSION4.md`).
+- **14:12** `SESSION4.md`, `fetch4.py`, `servings4.py`, `compare4.py` written; T3 entry 4 before any query. Nothing asked of Open Food
+  Facts yet; no photograph fetched.
+- **14:13** fault: the two entries above and T3 entry 4's heading were first committed (8f094b8) with clocks written ahead (14:12, 14:15)
+  of `date -u` (14:12:34 at the push); corrected to the clocks read. The third such fault in this project.
+- **14:13** fault: `fetch4.py` stopped at its first line, before any query (the installed PIL does not load its compiled part). The
+  reduction is now done with ImageMagick's `convert` (`-auto-orient -resize 1568x1568>`), the registered rule unchanged. Committed and
+  pushed before it is run again. The archive downloaded meanwhile to scratch (204,270,542 B), not yet hashed or opened.
+- **14:13-14:26** `fetch4.py` run: 396 asked, 346 found, 50 not found (404); **108 carry a nutrition photograph** (80 of given-back
+  foods, 28 of kept: counts only, printed by the script). Archive hashed meanwhile: sha256 `57b0f122e61c…`, equal to sessions 1-3;
+  `servings4.py` found 400 of 400 serving sizes (written to scratch, not looked at); the unzipped file deleted.
+- **14:24** began reading while the downloads ran: 001-006 read. They are 400 px: the registered first try (`.400.jpg` replaced by `.jpg`)
+  is not an address Open Food Facts serves, so every image took the registered fallback, the display image; small type is not legible
+  in it (004's serving size). Detour: `fetch4b.py` fetches the full size (`.full.jpg`) under the same blind numbers. The six 400 px
+  readings are kept in scratch, not used; reading starts again on the full images.
+- **14:26-14:29** `fetch4b.py`: 108 of 108 full-size photographs fetched and reduced, same blind numbers.
+- **14:29-14:32** the 108 read, one at a time, in their blind order (`readings4.json`): **105 legible, 3 not** (one Calories figure runs
+  off the photograph's edge, two photographs are a package's front). One small panel (080) read on a 4x crop. Noticed while reading, not
+  counted: three panels print calorie numbers off the law's grid (118, 175) or sodium off it (11 mg, 96 mg); seven panels have two
+  columns, the per-serving one read. The key is not yet opened.
+- **14:32** key opened; `compare4.py` run: **P1-P6 held** (77 given-back legible; 64 print the number given back, 0 the database's, 13
+  neither; kept 23 of 28; on the grid 103 of 105; serving matched 55 of 62). The 18 disagreements looked at (not registered): none is a
+  near miss; one panel prints 118 where the database holds 119 and the inversion gives 120.
+- **14:33-14:35** the work built from the draft into `works/as-printed/` (the check paragraph, its table and the closing note changed,
+  nothing else); two screenshots looked at, at 1440 and 390. Neighbours searched again: USDA's own documentation states the forward
+  conversion and not the way back (`NEIGHBOURS.md`). Atlas of Data Art unchanged (sha256 `4765ce73…`).
+- **14:35-14:40** `WORK.md`, `TOOLKIT.md`; study page section "Session 4"; margin (session 4, outcome, the work), noscript list, window
+  4.60.0; `render-check.js` (all 56 ok at 1440 and 390; it needs a local server on 8471, started by hand); `surface/check.py` ok; atlas
+  layer `2026-10-29-a` (the date is taken by session 3's layer), validator ok; register; night record. Session ends here.

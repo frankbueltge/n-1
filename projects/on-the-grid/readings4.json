@@ -1,0 +1,574 @@
+{
+ "note": "Project 19 session 4: the photographs of Nutrition Facts panels, read blind by this session (SESSION4.md), one at a time, before the key from number to food was opened. kcal = the Calories figure of the per-serving column as printed; serving = the serving size as printed (? marks a character not read with certainty). The photographs are Open Food Facts contributors' images (CC BY-SA), not committed; compare4.py joins number, food and URL.",
+ "readings": {
+  "001": {
+   "legible": true,
+   "kcal": 350.0,
+   "serving": "1 Package (283g)"
+  },
+  "002": {
+   "legible": true,
+   "kcal": 120.0,
+   "serving": null,
+   "note": "blurred photo but the Calories figure reads; serving size not in frame"
+  },
+  "003": {
+   "legible": true,
+   "kcal": 45.0,
+   "serving": "1 cup (109g) frozen"
+  },
+  "004": {
+   "legible": true,
+   "kcal": 10.0,
+   "serving": "1 packet (3g)"
+  },
+  "005": {
+   "legible": true,
+   "kcal": 250.0,
+   "serving": "1 Carton (11 FL OZ)"
+  },
+  "006": {
+   "legible": true,
+   "kcal": 80.0,
+   "serving": "1 OZ (28g)"
+  },
+  "007": {
+   "legible": true,
+   "kcal": 100.0,
+   "serving": "1 Bottle"
+  },
+  "008": {
+   "legible": true,
+   "kcal": 180.0,
+   "serving": "1 Package (226g)"
+  },
+  "009": {
+   "legible": true,
+   "kcal": 180.0,
+   "serving": "1 bottle (325mL)"
+  },
+  "010": {
+   "legible": true,
+   "kcal": 30.0,
+   "serving": "3 oz (85g)"
+  },
+  "011": {
+   "legible": true,
+   "kcal": 170.0,
+   "serving": "1 cup (240mL)",
+   "note": "two columns by age (4+ years, 1-3 years), both 170"
+  },
+  "012": {
+   "legible": true,
+   "kcal": 15.0,
+   "serving": "2 tbsp. (24g)"
+  },
+  "013": {
+   "legible": true,
+   "kcal": 110.0,
+   "serving": "1/2 cup (140g)"
+  },
+  "014": {
+   "legible": true,
+   "kcal": 480.0,
+   "serving": "1 Package (?)",
+   "note": "serving size blurred, not read"
+  },
+  "015": {
+   "legible": true,
+   "kcal": 45.0,
+   "serving": "1/2 cup (113g)"
+  },
+  "016": {
+   "legible": true,
+   "kcal": 0.0,
+   "serving": "1 ? 4 tsp (0.7g) (makes 8 fl oz prepared)",
+   "note": "one character of the serving hidden by a reflection"
+  },
+  "017": {
+   "legible": true,
+   "kcal": 240.0,
+   "serving": "1 bowl (227g)"
+  },
+  "018": {
+   "legible": true,
+   "kcal": 10.0,
+   "serving": "2 Tbsp (3?g)",
+   "note": "serving's grams too small to read with certainty"
+  },
+  "019": {
+   "legible": true,
+   "kcal": 10.0,
+   "serving": "about 1 piece (30g)"
+  },
+  "020": {
+   "legible": true,
+   "kcal": 390.0,
+   "serving": "1 Package (283g)"
+  },
+  "021": {
+   "legible": true,
+   "kcal": 50.0,
+   "serving": "1 cup (79g) frozen"
+  },
+  "022": {
+   "legible": true,
+   "kcal": 45.0,
+   "serving": "1/2 cup (123g)"
+  },
+  "023": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "1 cup (236mL)"
+  },
+  "024": {
+   "legible": true,
+   "kcal": 260.0,
+   "serving": "1 bagel (95g)"
+  },
+  "025": {
+   "legible": true,
+   "kcal": 140.0,
+   "serving": "2 oz (56g.)",
+   "note": "older panel format (Calories from Fat)"
+  },
+  "026": {
+   "legible": true,
+   "kcal": 220.0,
+   "serving": "1 cup (124g)",
+   "note": "two columns, per serving 220 and per package 440; per serving read"
+  },
+  "027": {
+   "legible": true,
+   "kcal": 35.0,
+   "serving": "2 Tbsp (33g)"
+  },
+  "028": {
+   "legible": true,
+   "kcal": 60.0,
+   "serving": "1/2 cup (126g)"
+  },
+  "029": {
+   "legible": true,
+   "kcal": 70.0,
+   "serving": "1 oz (28g)"
+  },
+  "030": {
+   "legible": true,
+   "kcal": 180.0,
+   "serving": "1 can (355 mL)"
+  },
+  "031": {
+   "legible": true,
+   "kcal": 150.0,
+   "serving": null,
+   "note": "two columns, headings not in frame (150 and 300); first column read, as registered; serving not in frame"
+  },
+  "032": {
+   "legible": true,
+   "kcal": 100.0,
+   "serving": "1 Packet (31g)",
+   "note": "linear panel"
+  },
+  "033": {
+   "legible": true,
+   "kcal": 180.0,
+   "serving": "2/3 cup (?6g)",
+   "note": "first digit of the serving's grams uncertain"
+  },
+  "034": {
+   "legible": true,
+   "kcal": 160.0,
+   "serving": "1 package (28g)"
+  },
+  "035": {
+   "legible": true,
+   "kcal": 80.0,
+   "serving": null,
+   "note": "serving not in frame; photo blurred below the Calories line"
+  },
+  "036": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "1 frittata (57g)"
+  },
+  "037": {
+   "legible": true,
+   "kcal": 70.0,
+   "serving": "1 can (227g)"
+  },
+  "038": {
+   "legible": true,
+   "kcal": 30.0,
+   "serving": "1/2 cup (121g)"
+  },
+  "039": {
+   "legible": true,
+   "kcal": 50.0,
+   "serving": "1 Tbsp (20g)"
+  },
+  "040": {
+   "legible": true,
+   "kcal": 310.0,
+   "serving": "(227g)"
+  },
+  "041": {
+   "legible": true,
+   "kcal": 140.0,
+   "serving": "1 Piece (88g)",
+   "note": "bilingual panel"
+  },
+  "042": {
+   "legible": true,
+   "kcal": 60.0,
+   "serving": "3/4 cup (74g)"
+  },
+  "043": {
+   "legible": true,
+   "kcal": 110.0,
+   "serving": "3 Pops (133g)",
+   "note": "two columns, Per Serving 110 and Per Pop 35; per serving read"
+  },
+  "044": {
+   "legible": true,
+   "kcal": 5.0,
+   "serving": "1 Can (16 fl oz)",
+   "note": "small, the 5 is clear"
+  },
+  "045": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "1 packet (14g)",
+   "note": "linear panel, older format"
+  },
+  "046": {
+   "legible": true,
+   "kcal": 390.0,
+   "serving": "...ntainer (454g)",
+   "note": "panel's left edge out of frame"
+  },
+  "047": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "10 Slices (57g)"
+  },
+  "048": {
+   "legible": true,
+   "kcal": 240.0,
+   "serving": "1 bowl (284g)"
+  },
+  "049": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "8 fl oz (240 mL)"
+  },
+  "050": {
+   "legible": true,
+   "kcal": 15.0,
+   "serving": "1 cup (240 mL)"
+  },
+  "051": {
+   "legible": true,
+   "kcal": 70.0,
+   "serving": "2 Tbsp (30g)"
+  },
+  "052": {
+   "legible": true,
+   "kcal": 80.0,
+   "serving": "3 tbsp (24g) = 3 prepared pancakes"
+  },
+  "053": {
+   "legible": true,
+   "kcal": 220.0,
+   "serving": "2 bars (50g)"
+  },
+  "054": {
+   "legible": true,
+   "kcal": 50.0,
+   "serving": "2/3 cup (86g)"
+  },
+  "055": {
+   "legible": true,
+   "kcal": 340.0,
+   "serving": "2/3 Cup (123g)",
+   "note": "two columns, Per serving 340 and Per container 1010; per serving read"
+  },
+  "056": {
+   "legible": true,
+   "kcal": 80.0,
+   "serving": "11.5 fl oz (3?0mL)",
+   "note": "blurred; the 80 is clear, the serving's ml not"
+  },
+  "057": {
+   "legible": true,
+   "kcal": 160.0,
+   "serving": "about 1/4 cup 30g"
+  },
+  "058": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "2 Tbsp. (32g)"
+  },
+  "059": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "1 Bag (21g)"
+  },
+  "060": {
+   "legible": true,
+   "kcal": 0.0,
+   "serving": "1 can (355 mL)",
+   "note": "the panel prints sodium 11mg"
+  },
+  "061": {
+   "legible": true,
+   "kcal": 100.0,
+   "serving": "2 Tbsp (30mL)"
+  },
+  "062": {
+   "legible": false,
+   "why": "cut off",
+   "note": "the Calories figure runs off the photograph's right edge after its first digit (8); not read"
+  },
+  "063": {
+   "legible": true,
+   "kcal": 240.0,
+   "serving": "1 carton (237mL)"
+  },
+  "064": {
+   "legible": true,
+   "kcal": 50.0,
+   "serving": "1/2 cup (124g)"
+  },
+  "065": {
+   "legible": true,
+   "kcal": 80.0,
+   "serving": "2 Tbsp (3?g)",
+   "note": "serving's grams too small to read with certainty"
+  },
+  "066": {
+   "legible": true,
+   "kcal": 120.0,
+   "serving": "8 fl oz (240mL)"
+  },
+  "067": {
+   "legible": true,
+   "kcal": 10.0,
+   "serving": "2 Tbsp (30g)"
+  },
+  "068": {
+   "legible": true,
+   "kcal": 100.0,
+   "serving": "1 cup (227g)"
+  },
+  "069": {
+   "legible": true,
+   "kcal": 170.0,
+   "serving": "4 pieces (34g)"
+  },
+  "070": {
+   "legible": true,
+   "kcal": 10.0,
+   "serving": "1 tsp (5g)"
+  },
+  "071": {
+   "legible": true,
+   "kcal": 60.0,
+   "serving": "1 Pouch (91g)"
+  },
+  "072": {
+   "legible": true,
+   "kcal": 100.0,
+   "serving": "3 Pieces (27g)",
+   "note": "two columns, Per serving 100 and Per container 260; per serving read"
+  },
+  "073": {
+   "legible": true,
+   "kcal": 80.0,
+   "serving": "1 container (150g)"
+  },
+  "074": {
+   "legible": true,
+   "kcal": 50.0,
+   "serving": "2 Tbsp (30 mL)"
+  },
+  "075": {
+   "legible": true,
+   "kcal": 200.0,
+   "serving": "4 sections (30g)",
+   "note": "two columns, Per serving 200 and Per container 500; per serving read"
+  },
+  "076": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "1 oz (28g/about 7 pieces)"
+  },
+  "077": {
+   "legible": true,
+   "kcal": 5.0,
+   "serving": "1 Tbsp (15mL)"
+  },
+  "078": {
+   "legible": true,
+   "kcal": 150.0,
+   "serving": "1 Milk Box (236mL)"
+  },
+  "079": {
+   "legible": true,
+   "kcal": 80.0,
+   "serving": "1 Patty (42g)"
+  },
+  "081": {
+   "legible": false,
+   "why": "not a Nutrition Facts panel",
+   "note": "front of a can (a front-of-pack calorie icon is visible, not read)"
+  },
+  "082": {
+   "legible": true,
+   "kcal": 100.0,
+   "serving": "355 mL (1 bottle)"
+  },
+  "083": {
+   "legible": true,
+   "kcal": 118.0,
+   "serving": null,
+   "note": "serving not in frame; the panel prints 118, off the law's grid"
+  },
+  "084": {
+   "legible": false,
+   "why": "not a Nutrition Facts panel",
+   "note": "front of a package"
+  },
+  "080": {
+   "legible": true,
+   "kcal": 60.0,
+   "serving": "2 skillet cooked slices (13g)",
+   "note": "older panel, small and tilted; read on a 4x crop of the panel"
+  },
+  "085": {
+   "legible": true,
+   "kcal": 0.0,
+   "serving": "1/3 second spray (0.25g)"
+  },
+  "086": {
+   "legible": true,
+   "kcal": 230.0,
+   "serving": "3oz (85g/about 6 pieces) & 1.5 tbsp sauce (27g)"
+  },
+  "087": {
+   "legible": true,
+   "kcal": 60.0,
+   "serving": "2/3 cup (165g)",
+   "note": "two columns, Per 2/3 Cup 60 and Per Container 160; first (the serving) read"
+  },
+  "088": {
+   "legible": true,
+   "kcal": 20.0,
+   "serving": "1/4 cup (61g)"
+  },
+  "089": {
+   "legible": true,
+   "kcal": 150.0,
+   "serving": "28 Crackers (30g)"
+  },
+  "090": {
+   "legible": true,
+   "kcal": 120.0,
+   "serving": "4 Tbsp. (31g)"
+  },
+  "091": {
+   "legible": true,
+   "kcal": 190.0,
+   "serving": "1 Cup (59g)",
+   "note": "two columns, Cereal 190 and with 1/2 cup skim milk 250; first (the food alone) read"
+  },
+  "092": {
+   "legible": true,
+   "kcal": 60.0,
+   "serving": "2 Tbsp. (28g)"
+  },
+  "093": {
+   "legible": true,
+   "kcal": 240.0,
+   "serving": "1 Bar (56g)"
+  },
+  "094": {
+   "legible": true,
+   "kcal": 60.0,
+   "serving": "1 pouch (3.2oz/90g)"
+  },
+  "095": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "3 oz (84g) Cooked (Approx. 1 cup)"
+  },
+  "096": {
+   "legible": true,
+   "kcal": 110.0,
+   "serving": "1 cup (198g)"
+  },
+  "097": {
+   "legible": true,
+   "kcal": 150.0,
+   "serving": "1 cup (240mL)"
+  },
+  "098": {
+   "legible": true,
+   "kcal": 10.0,
+   "serving": "8 fl. oz. (240mL)",
+   "note": "older panel format"
+  },
+  "099": {
+   "legible": true,
+   "kcal": 260.0,
+   "serving": "1 bowl (411g)",
+   "note": "photographed sideways"
+  },
+  "100": {
+   "legible": true,
+   "kcal": 90.0,
+   "serving": "4 oz (112g / about 1 fillet)"
+  },
+  "101": {
+   "legible": true,
+   "kcal": 160.0,
+   "serving": "1 pudding cup (156g)"
+  },
+  "102": {
+   "legible": true,
+   "kcal": 40.0,
+   "serving": "1 cup (85g)"
+  },
+  "103": {
+   "legible": true,
+   "kcal": 60.0,
+   "serving": "1 cup (240 mL)"
+  },
+  "104": {
+   "legible": true,
+   "kcal": 160.0,
+   "serving": "1oz (28g)"
+  },
+  "105": {
+   "legible": true,
+   "kcal": 130.0,
+   "serving": "18 crackers (30g)"
+  },
+  "106": {
+   "legible": true,
+   "kcal": 300.0,
+   "serving": "3 cupcakes (71g)"
+  },
+  "107": {
+   "legible": true,
+   "kcal": 60.0,
+   "serving": "4 slices (56g)"
+  },
+  "108": {
+   "legible": true,
+   "kcal": 175.0,
+   "serving": "7 FL OZ (207mL)",
+   "note": "the panel prints 175, off the law's grid (the panel also prints sodium 96mg)"
+  }
+ }
+}

@@ -501,6 +501,7 @@ const PAGES = [
     // the held one with one titled cell per combination present in session2_cells.json (3,645); eight more predictions.
     // Session 3 (2026-10-29 Berlin): three bars (calories, fat, sodium) of four fates each, 12 titled segments; eight more predictions
     // (five held, three not made).
+    // Session 4 (2026-10-29 Berlin, second wake): no new figure; six more predictions (all held).
     path: 'projects/on-the-grid/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -517,7 +518,23 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 7 && r.cal > 100 && r.segs === 18 && r.bins === 21 && r.runs > 34 && r.held === 3645 && r.fates === 12 && r.preds === 24 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 7 && r.cal > 100 && r.segs === 18 && r.bins === 21 && r.runs > 34 && r.held === 3645 && r.fates === 12 && r.preds === 30 && r.fits && r.min_font >= 11,
+  },
+  {
+    // project 19, session 4 (2026-10-29 Berlin, second wake): the work As Printed, built by works/as-printed/build.py from
+    // projects/on-the-grid/session3.json, panels3.json and session4.json; 120 panels (96 given back, 24 with a gap), each a link to
+    // the food in FoodData Central; one bar of four fates; three tables (fates by source, by nutrient, the blind reading of packages).
+    path: 'works/as-printed/index.html',
+    probe: () => ({
+      panels: document.querySelectorAll('a.panel').length,
+      lost: document.querySelectorAll('a.panel.lost').length,
+      gaps: document.querySelectorAll('a.panel.lost .row.cal .n.gap').length,
+      bar: document.querySelectorAll('svg.bar rect').length,
+      tables: document.querySelectorAll('table').length,
+      fits: document.documentElement.scrollWidth <= innerWidth,
+      min_font: Math.min(...[...document.querySelectorAll('main p')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+    }),
+    ok: (r) => r.panels === 120 && r.lost === 24 && r.gaps === 24 && r.bar === 4 && r.tables === 3 && r.fits && r.min_font >= 11,
   },
 ];
 
