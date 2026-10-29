@@ -1,0 +1,3635 @@
+{
+ "answered_given": 0,
+ "answered_kept": 0,
+ "given_r_eq_off": 0,
+ "given_v_eq_off": 0,
+ "given_neither": 0,
+ "kept_v_eq_off": 0,
+ "off_decimals_answered": 0,
+ "P6 r == OFF >= 70 %": [
+  null,
+  false
+ ],
+ "P7 v == OFF <= 10 %": [
+  null,
+  false
+ ],
+ "P8 kept v == OFF >= 70 %": [
+  null,
+  false
+ ],
+ "at least 20 given back answered": false,
+ "reasons": {
+  "check_given|per 100g": 217,
+  "check_given|not found": 37,
+  "check_given|per 100ml": 43,
+  "check_given|per None": 3,
+  "check_kept|per 100g": 77,
+  "check_kept|per 100ml": 8,
+  "check_kept|per None": 2,
+  "check_kept|not found": 13
+ },
+ "source_tags_of_answered": {},
+ "rows": [
+  {
+   "kind": "check_given",
+   "fdcId": 2461030,
+   "code": "0021130156504",
+   "status": 200,
+   "clock_utc": "02:07:25",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2390006,
+   "code": "0075278042625",
+   "status": 200,
+   "clock_utc": "02:07:27",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2059461,
+   "code": "0041415323865",
+   "status": 200,
+   "clock_utc": "02:07:29",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2591414,
+   "code": "0080000521484",
+   "status": 200,
+   "clock_utc": "02:07:30",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2168953,
+   "code": "0854708003531",
+   "status": 404,
+   "clock_utc": "02:07:32",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2401407,
+   "code": "0852921005219",
+   "status": 200,
+   "clock_utc": "02:07:33",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2099538,
+   "code": "0035826080073",
+   "status": 200,
+   "clock_utc": "02:07:35",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2019580,
+   "code": "0037600126700",
+   "status": 200,
+   "clock_utc": "02:07:36",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2653064,
+   "code": "0886926497755",
+   "status": 200,
+   "clock_utc": "02:07:38",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2623427,
+   "code": "0072940744009",
+   "status": 200,
+   "clock_utc": "02:07:40",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2400364,
+   "code": "0011110901361",
+   "status": 200,
+   "clock_utc": "02:07:41",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2627592,
+   "code": "0726984410313",
+   "status": 200,
+   "clock_utc": "02:07:43",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2372115,
+   "code": "0043000064344",
+   "status": 404,
+   "clock_utc": "02:07:44",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1893319,
+   "code": "0070980119221",
+   "status": 200,
+   "clock_utc": "02:07:46",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2090354,
+   "code": "0795631807455",
+   "status": 200,
+   "clock_utc": "02:07:47",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2629338,
+   "code": "0895203001691",
+   "status": 200,
+   "clock_utc": "02:07:48",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2083144,
+   "code": "0719283983442",
+   "status": 200,
+   "clock_utc": "02:07:50",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1955790,
+   "code": "0733426014985",
+   "status": 200,
+   "clock_utc": "02:07:51",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2369663,
+   "code": "0818905023594",
+   "status": 404,
+   "clock_utc": "02:07:53",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2605845,
+   "code": "0085239110485",
+   "status": 200,
+   "clock_utc": "02:07:54",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2062810,
+   "code": "0041900079857",
+   "status": 200,
+   "clock_utc": "02:07:56",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2430480,
+   "code": "0041415043282",
+   "status": 200,
+   "clock_utc": "02:07:57",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1937902,
+   "code": "0816719020174",
+   "status": 200,
+   "clock_utc": "02:07:59",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2078245,
+   "code": "0002114029706",
+   "status": 200,
+   "clock_utc": "02:08:00",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2188769,
+   "code": "0072730344358",
+   "status": 200,
+   "clock_utc": "02:08:02",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2506587,
+   "code": "0180855000476",
+   "status": 200,
+   "clock_utc": "02:08:03",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1907054,
+   "code": "0044900300860",
+   "status": 200,
+   "clock_utc": "02:08:04",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2069463,
+   "code": "0029737005089",
+   "status": 200,
+   "clock_utc": "02:08:06",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1891769,
+   "code": "0850341006106",
+   "status": 200,
+   "clock_utc": "02:08:07",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2126230,
+   "code": "0074175505455",
+   "status": 200,
+   "clock_utc": "02:08:09",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2591841,
+   "code": "0850014634438",
+   "status": 200,
+   "clock_utc": "02:08:10",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2096845,
+   "code": "0667978745786",
+   "status": 200,
+   "clock_utc": "02:08:12",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2029664,
+   "code": "0074410055424",
+   "status": 200,
+   "clock_utc": "02:08:13",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2388049,
+   "code": "0007789051174",
+   "status": 404,
+   "clock_utc": "02:08:15",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2284201,
+   "code": "0018169802014",
+   "status": 200,
+   "clock_utc": "02:08:16",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2036005,
+   "code": "0072250011112",
+   "status": 200,
+   "clock_utc": "02:08:17",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2032791,
+   "code": "0070303022993",
+   "status": 200,
+   "clock_utc": "02:08:19",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2448113,
+   "code": "0007203673194",
+   "status": 200,
+   "clock_utc": "02:08:20",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2433885,
+   "code": "0818518202430",
+   "status": 200,
+   "clock_utc": "02:08:22",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1922700,
+   "code": "0047500016667",
+   "status": 200,
+   "clock_utc": "02:08:23",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1903653,
+   "code": "0818512017290",
+   "status": 200,
+   "clock_utc": "02:08:25",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2022868,
+   "code": "0041443903749",
+   "status": 200,
+   "clock_utc": "02:08:26",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2120573,
+   "code": "0070404004966",
+   "status": 200,
+   "clock_utc": "02:08:28",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1904299,
+   "code": "0077661022122",
+   "status": 200,
+   "clock_utc": "02:08:29",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2049207,
+   "code": "0732577204252",
+   "status": 200,
+   "clock_utc": "02:08:30",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2602206,
+   "code": "0677294998094",
+   "status": 200,
+   "clock_utc": "02:08:32",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2421603,
+   "code": "0041318011500",
+   "status": 404,
+   "clock_utc": "02:08:33",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2105015,
+   "code": "0072730262065",
+   "status": 200,
+   "clock_utc": "02:08:35",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2340596,
+   "code": "0079894003091",
+   "status": 404,
+   "clock_utc": "02:08:36",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1931409,
+   "code": "0617239010054",
+   "status": 200,
+   "clock_utc": "02:08:38",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1939448,
+   "code": "0810815020434",
+   "status": 200,
+   "clock_utc": "02:08:39",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2466188,
+   "code": "0036632071118",
+   "status": 200,
+   "clock_utc": "02:08:40",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2372263,
+   "code": "0021130337576",
+   "status": 200,
+   "clock_utc": "02:08:42",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2544974,
+   "code": "0041271028683",
+   "status": 200,
+   "clock_utc": "02:08:43",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2393660,
+   "code": "0070910001039",
+   "status": 200,
+   "clock_utc": "02:08:45",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2567062,
+   "code": "0053702011409",
+   "status": 404,
+   "clock_utc": "02:08:46",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2409909,
+   "code": "0046567039114",
+   "status": 200,
+   "clock_utc": "02:08:48",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2289721,
+   "code": "0041443102418",
+   "status": 200,
+   "clock_utc": "02:08:49",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2368261,
+   "code": "0091565214179",
+   "status": 404,
+   "clock_utc": "02:08:51",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2673468,
+   "code": "0040784985001",
+   "status": 200,
+   "clock_utc": "02:08:52",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 619894,
+   "code": "0072940742012",
+   "status": 200,
+   "clock_utc": "02:08:54",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2422665,
+   "code": "0098487959379",
+   "status": 404,
+   "clock_utc": "02:08:55",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2542100,
+   "code": "0070038365884",
+   "status": 200,
+   "clock_utc": "02:08:56",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2673759,
+   "code": "0041331028073",
+   "status": 200,
+   "clock_utc": "02:08:58",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1867591,
+   "code": "0011213071251",
+   "status": 200,
+   "clock_utc": "02:08:59",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2439983,
+   "code": "0015400015592",
+   "status": 200,
+   "clock_utc": "02:09:01",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2539367,
+   "code": "0860001925661",
+   "status": 200,
+   "clock_utc": "02:09:02",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2585702,
+   "code": "0609454663245",
+   "status": 404,
+   "clock_utc": "02:09:04",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2579691,
+   "code": "0071202094623",
+   "status": 200,
+   "clock_utc": "02:09:05",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2101390,
+   "code": "0013800796226",
+   "status": 200,
+   "clock_utc": "02:09:06",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2584328,
+   "code": "0855802003809",
+   "status": 200,
+   "clock_utc": "02:09:08",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2368354,
+   "code": "0812824013742",
+   "status": 404,
+   "clock_utc": "02:09:09",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2406058,
+   "code": "0041303051160",
+   "status": 200,
+   "clock_utc": "02:09:11",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2144873,
+   "code": "0734781105622",
+   "status": 200,
+   "clock_utc": "02:09:12",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1928384,
+   "code": "0038259102596",
+   "status": 200,
+   "clock_utc": "02:09:14",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2386581,
+   "code": "0079893408507",
+   "status": 200,
+   "clock_utc": "02:09:15",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2388962,
+   "code": "0073651115911",
+   "status": 200,
+   "clock_utc": "02:09:16",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2594441,
+   "code": "0013800581471",
+   "status": 200,
+   "clock_utc": "02:09:18",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2120383,
+   "code": "0042222293426",
+   "status": 200,
+   "clock_utc": "02:09:19",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2664022,
+   "code": "0810003515032",
+   "status": 200,
+   "clock_utc": "02:09:21",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2010381,
+   "code": "0078742049878",
+   "status": 200,
+   "clock_utc": "02:09:22",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2585704,
+   "code": "0609454666277",
+   "status": 200,
+   "clock_utc": "02:09:24",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2211330,
+   "code": "0070470461878",
+   "status": 200,
+   "clock_utc": "02:09:25",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2632330,
+   "code": "0031500004984",
+   "status": 200,
+   "clock_utc": "02:09:26",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2463466,
+   "code": "0613008759742",
+   "status": 200,
+   "clock_utc": "02:09:28",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1896611,
+   "code": "0763528302017",
+   "status": 200,
+   "clock_utc": "02:09:29",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2239734,
+   "code": "0075450006636",
+   "status": 200,
+   "clock_utc": "02:09:31",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2133197,
+   "code": "0074175019631",
+   "status": 200,
+   "clock_utc": "02:09:32",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2081315,
+   "code": "0896859000076",
+   "status": 200,
+   "clock_utc": "02:09:34",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2391556,
+   "code": "0050700262680",
+   "status": 200,
+   "clock_utc": "02:09:35",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2408605,
+   "code": "0041380000303",
+   "status": 200,
+   "clock_utc": "02:09:36",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2384392,
+   "code": "0704863050102",
+   "status": 200,
+   "clock_utc": "02:09:38",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2507391,
+   "code": "0704863028866",
+   "status": 404,
+   "clock_utc": "02:09:39",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2384393,
+   "code": "0014500019905",
+   "status": 200,
+   "clock_utc": "02:09:41",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2085413,
+   "code": "0079893406701",
+   "status": 200,
+   "clock_utc": "02:09:42",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2592196,
+   "code": "0859964007026",
+   "status": 404,
+   "clock_utc": "02:09:44",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2633252,
+   "code": "0041250946557",
+   "status": 200,
+   "clock_utc": "02:09:45",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2391311,
+   "code": "0041290207649",
+   "status": 404,
+   "clock_utc": "02:09:46",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2435052,
+   "code": "0002362756905",
+   "status": 200,
+   "clock_utc": "02:09:48",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2109259,
+   "code": "0753677287563",
+   "status": 200,
+   "clock_utc": "02:09:49",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2011333,
+   "code": "0046100000960",
+   "status": 200,
+   "clock_utc": "02:09:51",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 530148,
+   "code": "0897153002063",
+   "status": 200,
+   "clock_utc": "02:09:52",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2621494,
+   "code": "0041250565116",
+   "status": 200,
+   "clock_utc": "02:09:53",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2381950,
+   "code": "0091155123560",
+   "status": 200,
+   "clock_utc": "02:09:55",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2057419,
+   "code": "0628305000060",
+   "status": 200,
+   "clock_utc": "02:09:56",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2549712,
+   "code": "0078742014616",
+   "status": 200,
+   "clock_utc": "02:09:58",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2421676,
+   "code": "0076545001086",
+   "status": 200,
+   "clock_utc": "02:09:59",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2085187,
+   "code": "0030099119710",
+   "status": 200,
+   "clock_utc": "02:10:01",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2158147,
+   "code": "0096619242559",
+   "status": 200,
+   "clock_utc": "02:10:02",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2153964,
+   "code": "0850451007024",
+   "status": 200,
+   "clock_utc": "02:10:04",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1961304,
+   "code": "0044500984804",
+   "status": 200,
+   "clock_utc": "02:10:05",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2089366,
+   "code": "0035826005090",
+   "status": 200,
+   "clock_utc": "02:10:06",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2434619,
+   "code": "0048800309510",
+   "status": 200,
+   "clock_utc": "02:10:08",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2416558,
+   "code": "0813377024247",
+   "status": 404,
+   "clock_utc": "02:10:09",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2065162,
+   "code": "0079341011594",
+   "status": 200,
+   "clock_utc": "02:10:11",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2451736,
+   "code": "0719926391771",
+   "status": 404,
+   "clock_utc": "02:10:12",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2669703,
+   "code": "0862555000252",
+   "status": 200,
+   "clock_utc": "02:10:13",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2303096,
+   "code": "0030034014179",
+   "status": 200,
+   "clock_utc": "02:10:15",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2482310,
+   "code": "0840134307206",
+   "status": 404,
+   "clock_utc": "02:10:16",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2664102,
+   "code": "0810028293298",
+   "status": 200,
+   "clock_utc": "02:10:18",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1935413,
+   "code": "0050100600143",
+   "status": 200,
+   "clock_utc": "02:10:19",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2068086,
+   "code": "0731941515833",
+   "status": 200,
+   "clock_utc": "02:10:21",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2425466,
+   "code": "0041318582161",
+   "status": 404,
+   "clock_utc": "02:10:22",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2143289,
+   "code": "0024000245926",
+   "status": 200,
+   "clock_utc": "02:10:23",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1863855,
+   "code": "0076310681024",
+   "status": 200,
+   "clock_utc": "02:10:25",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2488189,
+   "code": "0607880102239",
+   "status": 200,
+   "clock_utc": "02:10:26",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2244732,
+   "code": "0075450068153",
+   "status": 200,
+   "clock_utc": "02:10:28",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2170501,
+   "code": "0681131404198",
+   "status": 404,
+   "clock_utc": "02:10:29",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2614391,
+   "code": "0013800512789",
+   "status": 200,
+   "clock_utc": "02:10:31",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2656986,
+   "code": "0079893405049",
+   "status": 200,
+   "clock_utc": "02:10:32",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1663314,
+   "code": "0882234200506",
+   "status": 200,
+   "clock_utc": "02:10:34",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2673554,
+   "code": "0041331090728",
+   "status": 200,
+   "clock_utc": "02:10:35",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2573596,
+   "code": "0027000419946",
+   "status": 200,
+   "clock_utc": "02:10:36",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2020812,
+   "code": "0041497032556",
+   "status": 200,
+   "clock_utc": "02:10:38",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1905597,
+   "code": "0020735096758",
+   "status": 200,
+   "clock_utc": "02:10:39",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 555751,
+   "code": "0999995167655",
+   "status": 200,
+   "clock_utc": "02:10:41",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2030082,
+   "code": "0041253360060",
+   "status": 200,
+   "clock_utc": "02:10:42",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2030109,
+   "code": "0041303009598",
+   "status": 200,
+   "clock_utc": "02:10:44",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2543417,
+   "code": "0078742329949",
+   "status": 200,
+   "clock_utc": "02:10:45",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2567559,
+   "code": "0070247407238",
+   "status": 200,
+   "clock_utc": "02:10:46",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1664906,
+   "code": "0021000069255",
+   "status": 200,
+   "clock_utc": "02:10:48",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1893516,
+   "code": "0073575970511",
+   "status": 200,
+   "clock_utc": "02:10:49",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2145332,
+   "code": "0041322379023",
+   "status": 200,
+   "clock_utc": "02:10:51",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2463915,
+   "code": "0041303045459",
+   "status": 200,
+   "clock_utc": "02:10:52",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2383689,
+   "code": "0076515003447",
+   "status": 200,
+   "clock_utc": "02:10:54",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2597405,
+   "code": "0070560939065",
+   "status": 200,
+   "clock_utc": "02:10:55",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2397323,
+   "code": "0832152000511",
+   "status": 200,
+   "clock_utc": "02:10:56",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2625340,
+   "code": "0085239120507",
+   "status": 200,
+   "clock_utc": "02:10:58",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1662772,
+   "code": "0793573195548",
+   "status": 200,
+   "clock_utc": "02:10:59",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2638841,
+   "code": "0713733828277",
+   "status": 200,
+   "clock_utc": "02:11:01",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2105423,
+   "code": "0041130212192",
+   "status": 200,
+   "clock_utc": "02:11:02",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2024662,
+   "code": "0011152291185",
+   "status": 200,
+   "clock_utc": "02:11:04",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1947000,
+   "code": "0072431205224",
+   "status": 200,
+   "clock_utc": "02:11:05",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2288417,
+   "code": "0885285444448",
+   "status": 200,
+   "clock_utc": "02:11:06",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2099916,
+   "code": "0681131387835",
+   "status": 200,
+   "clock_utc": "02:11:08",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2473147,
+   "code": "0032251203435",
+   "status": 200,
+   "clock_utc": "02:11:09",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2101881,
+   "code": "0075450501391",
+   "status": 200,
+   "clock_utc": "02:11:11",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1921183,
+   "code": "0081851207528",
+   "status": 200,
+   "clock_utc": "02:11:12",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2550121,
+   "code": "0078742351049",
+   "status": 200,
+   "clock_utc": "02:11:14",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2165091,
+   "code": "0041318211214",
+   "status": 404,
+   "clock_utc": "02:11:15",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 370617,
+   "code": "0055369900485",
+   "status": 200,
+   "clock_utc": "02:11:16",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2615940,
+   "code": "0053600000024",
+   "status": 200,
+   "clock_utc": "02:11:18",
+   "answered": false,
+   "why": "per None"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 467158,
+   "code": "5051379101862",
+   "status": 200,
+   "clock_utc": "02:11:19",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2428669,
+   "code": "0021130242733",
+   "status": 200,
+   "clock_utc": "02:11:21",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2056249,
+   "code": "0051933630314",
+   "status": 200,
+   "clock_utc": "02:11:22",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2467469,
+   "code": "0860353001501",
+   "status": 200,
+   "clock_utc": "02:11:24",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2581853,
+   "code": "0079893163093",
+   "status": 200,
+   "clock_utc": "02:11:25",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2069906,
+   "code": "0893913001338",
+   "status": 200,
+   "clock_utc": "02:11:26",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2597434,
+   "code": "0070560978637",
+   "status": 200,
+   "clock_utc": "02:11:28",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2575051,
+   "code": "0038900020521",
+   "status": 200,
+   "clock_utc": "02:11:29",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2503006,
+   "code": "0071202067474",
+   "status": 404,
+   "clock_utc": "02:11:31",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2481685,
+   "code": "0753610897538",
+   "status": 200,
+   "clock_utc": "02:11:32",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1865344,
+   "code": "0011110839534",
+   "status": 200,
+   "clock_utc": "02:11:34",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1882223,
+   "code": "0804879515166",
+   "status": 200,
+   "clock_utc": "02:11:35",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2132125,
+   "code": "0070038646167",
+   "status": 200,
+   "clock_utc": "02:11:37",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2642364,
+   "code": "0007789046558",
+   "status": 404,
+   "clock_utc": "02:11:38",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2125163,
+   "code": "0013800884152",
+   "status": 200,
+   "clock_utc": "02:11:39",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2073775,
+   "code": "0072180635754",
+   "status": 200,
+   "clock_utc": "02:11:41",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1892128,
+   "code": "0011433119795",
+   "status": 200,
+   "clock_utc": "02:11:42",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2630117,
+   "code": "0042187203928",
+   "status": 200,
+   "clock_utc": "02:11:44",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2561992,
+   "code": "0025000134050",
+   "status": 200,
+   "clock_utc": "02:11:45",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2089518,
+   "code": "0605806000089",
+   "status": 200,
+   "clock_utc": "02:11:47",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2402848,
+   "code": "0075501961921",
+   "status": 200,
+   "clock_utc": "02:11:48",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2675039,
+   "code": "0024000525387",
+   "status": 200,
+   "clock_utc": "02:11:49",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1882601,
+   "code": "0038020453124",
+   "status": 200,
+   "clock_utc": "02:11:51",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2039475,
+   "code": "0002114064044",
+   "status": 200,
+   "clock_utc": "02:11:52",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 475627,
+   "code": "8904073310498",
+   "status": 200,
+   "clock_utc": "02:11:54",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2503912,
+   "code": "0073849661206",
+   "status": 404,
+   "clock_utc": "02:11:55",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2389518,
+   "code": "0076606691379",
+   "status": 200,
+   "clock_utc": "02:11:57",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2065722,
+   "code": "0046567027296",
+   "status": 200,
+   "clock_utc": "02:11:58",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2485906,
+   "code": "0826504737583",
+   "status": 200,
+   "clock_utc": "02:11:59",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2611755,
+   "code": "0041290208165",
+   "status": 404,
+   "clock_utc": "02:12:01",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2494503,
+   "code": "0012546004954",
+   "status": 404,
+   "clock_utc": "02:12:02",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2617361,
+   "code": "0015400014328",
+   "status": 200,
+   "clock_utc": "02:12:04",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1980663,
+   "code": "0721557216200",
+   "status": 200,
+   "clock_utc": "02:12:05",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2396565,
+   "code": "0768486704002",
+   "status": 200,
+   "clock_utc": "02:12:07",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2674115,
+   "code": "0014500500151",
+   "status": 200,
+   "clock_utc": "02:12:08",
+   "answered": false,
+   "why": "per None"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2482696,
+   "code": "0075450282863",
+   "status": 404,
+   "clock_utc": "02:12:09",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1916433,
+   "code": "0075450067491",
+   "status": 200,
+   "clock_utc": "02:12:11",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2666872,
+   "code": "0783919135338",
+   "status": 200,
+   "clock_utc": "02:12:12",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2190877,
+   "code": "0085239077283",
+   "status": 200,
+   "clock_utc": "02:12:14",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2569753,
+   "code": "0073490130120",
+   "status": 200,
+   "clock_utc": "02:12:15",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2471240,
+   "code": "0041303026458",
+   "status": 200,
+   "clock_utc": "02:12:17",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2475888,
+   "code": "0851770003063",
+   "status": 200,
+   "clock_utc": "02:12:18",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2040743,
+   "code": "0074683008066",
+   "status": 200,
+   "clock_utc": "02:12:19",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1906557,
+   "code": "0041497314553",
+   "status": 200,
+   "clock_utc": "02:12:21",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2597272,
+   "code": "0070227500522",
+   "status": 200,
+   "clock_utc": "02:12:22",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2563989,
+   "code": "0036632032492",
+   "status": 200,
+   "clock_utc": "02:12:24",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2651956,
+   "code": "0851949004525",
+   "status": 200,
+   "clock_utc": "02:12:25",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1886432,
+   "code": "0788679009400",
+   "status": 200,
+   "clock_utc": "02:12:27",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1144996,
+   "code": "0000778901327",
+   "status": 200,
+   "clock_utc": "02:12:28",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2369447,
+   "code": "0041497209859",
+   "status": 404,
+   "clock_utc": "02:12:29",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2400494,
+   "code": "0078354515136",
+   "status": 200,
+   "clock_utc": "02:12:31",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1970701,
+   "code": "0036200431191",
+   "status": 200,
+   "clock_utc": "02:12:32",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2110954,
+   "code": "0074584702025",
+   "status": 200,
+   "clock_utc": "02:12:34",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2509317,
+   "code": "0812689020787",
+   "status": 200,
+   "clock_utc": "02:12:35",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2425415,
+   "code": "0864264000318",
+   "status": 404,
+   "clock_utc": "02:12:37",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1873027,
+   "code": "0022655305583",
+   "status": 200,
+   "clock_utc": "02:12:38",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1940328,
+   "code": "0072220000146",
+   "status": 200,
+   "clock_utc": "02:12:39",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2477047,
+   "code": "0071330024738",
+   "status": 200,
+   "clock_utc": "02:12:41",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2448599,
+   "code": "0076606720543",
+   "status": 200,
+   "clock_utc": "02:12:42",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2025058,
+   "code": "0038274415053",
+   "status": 200,
+   "clock_utc": "02:12:44",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2632482,
+   "code": "0035971650886",
+   "status": 200,
+   "clock_utc": "02:12:45",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2664187,
+   "code": "0815473010513",
+   "status": 200,
+   "clock_utc": "02:12:47",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2100074,
+   "code": "0725439984614",
+   "status": 200,
+   "clock_utc": "02:12:48",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2091906,
+   "code": "0881245100324",
+   "status": 200,
+   "clock_utc": "02:12:49",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2593319,
+   "code": "0842094166862",
+   "status": 404,
+   "clock_utc": "02:12:51",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2578057,
+   "code": "0613008714253",
+   "status": 200,
+   "clock_utc": "02:12:52",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2017432,
+   "code": "0673803045068",
+   "status": 200,
+   "clock_utc": "02:12:54",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2636023,
+   "code": "0085239408612",
+   "status": 200,
+   "clock_utc": "02:12:55",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2327317,
+   "code": "0052525404245",
+   "status": 200,
+   "clock_utc": "02:12:57",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2578465,
+   "code": "0064144009664",
+   "status": 200,
+   "clock_utc": "02:12:58",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2024529,
+   "code": "0011110828521",
+   "status": 200,
+   "clock_utc": "02:12:59",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2012888,
+   "code": "0070796600272",
+   "status": 200,
+   "clock_utc": "02:13:01",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2009115,
+   "code": "0856209005090",
+   "status": 200,
+   "clock_utc": "02:13:02",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1924050,
+   "code": "0030223017981",
+   "status": 200,
+   "clock_utc": "02:13:04",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2628891,
+   "code": "0865791000406",
+   "status": 200,
+   "clock_utc": "02:13:05",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2102539,
+   "code": "0092825094197",
+   "status": 200,
+   "clock_utc": "02:13:07",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2447782,
+   "code": "0007203672364",
+   "status": 404,
+   "clock_utc": "02:13:08",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2408136,
+   "code": "0041380550037",
+   "status": 200,
+   "clock_utc": "02:13:10",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2576551,
+   "code": "0041220934881",
+   "status": 200,
+   "clock_utc": "02:13:11",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1514923,
+   "code": "0025155057150",
+   "status": 200,
+   "clock_utc": "02:13:12",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2631464,
+   "code": "0013800103406",
+   "status": 200,
+   "clock_utc": "02:13:14",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2133680,
+   "code": "0074175506100",
+   "status": 200,
+   "clock_utc": "02:13:15",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2090110,
+   "code": "0030223008866",
+   "status": 200,
+   "clock_utc": "02:13:17",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1592941,
+   "code": "0021000034628",
+   "status": 200,
+   "clock_utc": "02:13:18",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2572863,
+   "code": "0021130152971",
+   "status": 200,
+   "clock_utc": "02:13:19",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2471441,
+   "code": "0008346500123",
+   "status": 200,
+   "clock_utc": "02:13:21",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1126106,
+   "code": "7412900100262",
+   "status": 200,
+   "clock_utc": "02:13:22",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2017096,
+   "code": "0035826084200",
+   "status": 200,
+   "clock_utc": "02:13:24",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2484392,
+   "code": "0041679950968",
+   "status": 200,
+   "clock_utc": "02:13:25",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1598403,
+   "code": "0044700075470",
+   "status": 200,
+   "clock_utc": "02:13:27",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1886076,
+   "code": "0688672800021",
+   "status": 200,
+   "clock_utc": "02:13:28",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2663995,
+   "code": "0810979007395",
+   "status": 200,
+   "clock_utc": "02:13:29",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1625471,
+   "code": "01364901",
+   "status": 200,
+   "clock_utc": "02:13:31",
+   "answered": false,
+   "why": "per None"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 493785,
+   "code": "0072036985675",
+   "status": 200,
+   "clock_utc": "02:13:32",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2593571,
+   "code": "0852163008139",
+   "status": 404,
+   "clock_utc": "02:13:34",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2089798,
+   "code": "0072730680425",
+   "status": 200,
+   "clock_utc": "02:13:35",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2634456,
+   "code": "0079893127026",
+   "status": 200,
+   "clock_utc": "02:13:37",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2623730,
+   "code": "0075450009378",
+   "status": 200,
+   "clock_utc": "02:13:38",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2023228,
+   "code": "0011110021939",
+   "status": 200,
+   "clock_utc": "02:13:40",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2266176,
+   "code": "0013800166081",
+   "status": 200,
+   "clock_utc": "02:13:41",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2116792,
+   "code": "0052603040938",
+   "status": 200,
+   "clock_utc": "02:13:42",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1868235,
+   "code": "0041224870208",
+   "status": 200,
+   "clock_utc": "02:13:44",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2164323,
+   "code": "0780961430152",
+   "status": 404,
+   "clock_utc": "02:13:45",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2049611,
+   "code": "0852174005011",
+   "status": 200,
+   "clock_utc": "02:13:47",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2438839,
+   "code": "0696859187414",
+   "status": 200,
+   "clock_utc": "02:13:48",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1885644,
+   "code": "0070153292584",
+   "status": 200,
+   "clock_utc": "02:13:49",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2499615,
+   "code": "0041220225620",
+   "status": 200,
+   "clock_utc": "02:13:51",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1913474,
+   "code": "0048894059971",
+   "status": 200,
+   "clock_utc": "02:13:52",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2551282,
+   "code": "0861292000099",
+   "status": 200,
+   "clock_utc": "02:13:54",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2038682,
+   "code": "0031200024770",
+   "status": 200,
+   "clock_utc": "02:13:55",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 484345,
+   "code": "0852909003527",
+   "status": 200,
+   "clock_utc": "02:13:57",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2365839,
+   "code": "0041415068452",
+   "status": 200,
+   "clock_utc": "02:13:58",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1618164,
+   "code": "0051000245106",
+   "status": 200,
+   "clock_utc": "02:13:59",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2039763,
+   "code": "0019969001119",
+   "status": 200,
+   "clock_utc": "02:14:01",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2308819,
+   "code": "0041376107481",
+   "status": 200,
+   "clock_utc": "02:14:02",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1901813,
+   "code": "0748350000140",
+   "status": 200,
+   "clock_utc": "02:14:04",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2074798,
+   "code": "0041268190638",
+   "status": 200,
+   "clock_utc": "02:14:05",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2633848,
+   "code": "0051900801112",
+   "status": 200,
+   "clock_utc": "02:14:07",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2663943,
+   "code": "0811307025678",
+   "status": 200,
+   "clock_utc": "02:14:08",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2566223,
+   "code": "0044700022689",
+   "status": 200,
+   "clock_utc": "02:14:09",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2669702,
+   "code": "0862555000245",
+   "status": 200,
+   "clock_utc": "02:14:11",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1853464,
+   "code": "0052334116599",
+   "status": 200,
+   "clock_utc": "02:14:12",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2631755,
+   "code": "0078812366058",
+   "status": 404,
+   "clock_utc": "02:14:14",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1633327,
+   "code": "0020000100272",
+   "status": 200,
+   "clock_utc": "02:14:15",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1944096,
+   "code": "0787984693786",
+   "status": 200,
+   "clock_utc": "02:14:16",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2576933,
+   "code": "0041512152368",
+   "status": 200,
+   "clock_utc": "02:14:18",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 1478718,
+   "code": "0072940113171",
+   "status": 200,
+   "clock_utc": "02:14:19",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2387481,
+   "code": "0851030005011",
+   "status": 404,
+   "clock_utc": "02:14:21",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2146575,
+   "code": "0075450032277",
+   "status": 200,
+   "clock_utc": "02:14:22",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2277254,
+   "code": "0074465351830",
+   "status": 404,
+   "clock_utc": "02:14:24",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2489042,
+   "code": "0681131104180",
+   "status": 200,
+   "clock_utc": "02:14:25",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2276560,
+   "code": "0027000231005",
+   "status": 404,
+   "clock_utc": "02:14:26",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2522809,
+   "code": "0022000021243",
+   "status": 200,
+   "clock_utc": "02:14:28",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2475435,
+   "code": "0099482450885",
+   "status": 200,
+   "clock_utc": "02:14:29",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2677541,
+   "code": "0186852000341",
+   "status": 200,
+   "clock_utc": "02:14:31",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2611624,
+   "code": "0030034951757",
+   "status": 404,
+   "clock_utc": "02:14:32",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2441864,
+   "code": "0767119510287",
+   "status": 200,
+   "clock_utc": "02:14:34",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_given",
+   "fdcId": 2482138,
+   "code": "0073934158659",
+   "status": 200,
+   "clock_utc": "02:14:35",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2021817,
+   "code": "0041262277311",
+   "status": 200,
+   "clock_utc": "02:14:37",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1926279,
+   "code": "0898655000564",
+   "status": 200,
+   "clock_utc": "02:14:38",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2678148,
+   "code": "0085239194584",
+   "status": 200,
+   "clock_utc": "02:14:39",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1929177,
+   "code": "0041710142888",
+   "status": 200,
+   "clock_utc": "02:14:41",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2152735,
+   "code": "0856063007490",
+   "status": 200,
+   "clock_utc": "02:14:42",
+   "answered": false,
+   "why": "per None"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2267922,
+   "code": "0077567274427",
+   "status": 200,
+   "clock_utc": "02:14:44",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2676028,
+   "code": "0021000642762",
+   "status": 200,
+   "clock_utc": "02:14:45",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1934271,
+   "code": "0061763014543",
+   "status": 200,
+   "clock_utc": "02:14:46",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2658788,
+   "code": "0021130311866",
+   "status": 404,
+   "clock_utc": "02:14:48",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2673288,
+   "code": "0041318300345",
+   "status": 200,
+   "clock_utc": "02:14:49",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2046158,
+   "code": "0688267176166",
+   "status": 200,
+   "clock_utc": "02:14:51",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2433852,
+   "code": "0072273133105",
+   "status": 200,
+   "clock_utc": "02:14:52",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2098887,
+   "code": "0041268115051",
+   "status": 200,
+   "clock_utc": "02:14:54",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2530412,
+   "code": "0052603280754",
+   "status": 200,
+   "clock_utc": "02:14:55",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2667548,
+   "code": "0026638200223",
+   "status": 404,
+   "clock_utc": "02:14:56",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1853544,
+   "code": "0725439110846",
+   "status": 200,
+   "clock_utc": "02:14:58",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2476074,
+   "code": "0078742299839",
+   "status": 200,
+   "clock_utc": "02:14:59",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2629681,
+   "code": "0011110119537",
+   "status": 200,
+   "clock_utc": "02:15:01",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2543622,
+   "code": "0859908003022",
+   "status": 200,
+   "clock_utc": "02:15:02",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2106960,
+   "code": "0817670011089",
+   "status": 200,
+   "clock_utc": "02:15:04",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2605992,
+   "code": "0085239143322",
+   "status": 404,
+   "clock_utc": "02:15:05",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2142388,
+   "code": "0075450242928",
+   "status": 200,
+   "clock_utc": "02:15:06",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2657042,
+   "code": "0070970547355",
+   "status": 200,
+   "clock_utc": "02:15:08",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2031322,
+   "code": "0021130984121",
+   "status": 200,
+   "clock_utc": "02:15:09",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2167820,
+   "code": "0025702000080",
+   "status": 200,
+   "clock_utc": "02:15:11",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1885269,
+   "code": "0070896131331",
+   "status": 200,
+   "clock_utc": "02:15:12",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2366083,
+   "code": "0043427161060",
+   "status": 200,
+   "clock_utc": "02:15:14",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1937405,
+   "code": "0037600117470",
+   "status": 200,
+   "clock_utc": "02:15:15",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2194413,
+   "code": "0860000320221",
+   "status": 200,
+   "clock_utc": "02:15:16",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2431823,
+   "code": "0070038586289",
+   "status": 200,
+   "clock_utc": "02:15:18",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2596056,
+   "code": "0038000270840",
+   "status": 200,
+   "clock_utc": "02:15:19",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2570606,
+   "code": "0076301752528",
+   "status": 200,
+   "clock_utc": "02:15:21",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2395875,
+   "code": "0816115010595",
+   "status": 404,
+   "clock_utc": "02:15:22",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2509164,
+   "code": "0810091780442",
+   "status": 200,
+   "clock_utc": "02:15:24",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2452024,
+   "code": "0046567042039",
+   "status": 404,
+   "clock_utc": "02:15:25",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2618148,
+   "code": "0026200162300",
+   "status": 404,
+   "clock_utc": "02:15:26",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2081820,
+   "code": "0015109001339",
+   "status": 200,
+   "clock_utc": "02:15:28",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2066892,
+   "code": "0078742051130",
+   "status": 200,
+   "clock_utc": "02:15:29",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2289217,
+   "code": "0041497131792",
+   "status": 200,
+   "clock_utc": "02:15:31",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1931983,
+   "code": "0826766143924",
+   "status": 200,
+   "clock_utc": "02:15:32",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2665730,
+   "code": "0711535502463",
+   "status": 200,
+   "clock_utc": "02:15:34",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2500137,
+   "code": "0041512085734",
+   "status": 200,
+   "clock_utc": "02:15:35",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2671515,
+   "code": "0036632071903",
+   "status": 200,
+   "clock_utc": "02:15:36",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1874192,
+   "code": "0011822583596",
+   "status": 200,
+   "clock_utc": "02:15:38",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2118225,
+   "code": "0075925299846",
+   "status": 200,
+   "clock_utc": "02:15:39",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2671696,
+   "code": "0034000226702",
+   "status": 200,
+   "clock_utc": "02:15:41",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2156210,
+   "code": "0682430010271",
+   "status": 200,
+   "clock_utc": "02:15:42",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2499292,
+   "code": "0041000008856",
+   "status": 200,
+   "clock_utc": "02:15:44",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2042188,
+   "code": "0078742062969",
+   "status": 200,
+   "clock_utc": "02:15:45",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2060742,
+   "code": "0748252914637",
+   "status": 200,
+   "clock_utc": "02:15:46",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1881907,
+   "code": "0632674855756",
+   "status": 200,
+   "clock_utc": "02:15:48",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1854444,
+   "code": "0072609740342",
+   "status": 200,
+   "clock_utc": "02:15:49",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2367486,
+   "code": "0790429271548",
+   "status": 200,
+   "clock_utc": "02:15:51",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2634505,
+   "code": "0842096106101",
+   "status": 200,
+   "clock_utc": "02:15:52",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2641836,
+   "code": "0026883235056",
+   "status": 404,
+   "clock_utc": "02:15:54",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1950860,
+   "code": "0816193010357",
+   "status": 200,
+   "clock_utc": "02:15:55",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2415120,
+   "code": "0019600059929",
+   "status": 404,
+   "clock_utc": "02:15:56",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2486941,
+   "code": "0077438218406",
+   "status": 404,
+   "clock_utc": "02:15:58",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2422211,
+   "code": "0810003780829",
+   "status": 200,
+   "clock_utc": "02:15:59",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2657212,
+   "code": "0070640020119",
+   "status": 200,
+   "clock_utc": "02:16:01",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2605088,
+   "code": "0085239036280",
+   "status": 200,
+   "clock_utc": "02:16:02",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1895535,
+   "code": "0818777010265",
+   "status": 200,
+   "clock_utc": "02:16:04",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2107563,
+   "code": "0011110677273",
+   "status": 200,
+   "clock_utc": "02:16:05",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2126360,
+   "code": "0007025326999",
+   "status": 200,
+   "clock_utc": "02:16:06",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2597557,
+   "code": "0070796230011",
+   "status": 404,
+   "clock_utc": "02:16:08",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2398054,
+   "code": "0064144000548",
+   "status": 200,
+   "clock_utc": "02:16:09",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2436953,
+   "code": "0812986010283",
+   "status": 200,
+   "clock_utc": "02:16:11",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2075708,
+   "code": "0075450132052",
+   "status": 200,
+   "clock_utc": "02:16:12",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2639889,
+   "code": "0760236125235",
+   "status": 200,
+   "clock_utc": "02:16:14",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2654987,
+   "code": "0810051804966",
+   "status": 404,
+   "clock_utc": "02:16:15",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2659574,
+   "code": "0085239432402",
+   "status": 200,
+   "clock_utc": "02:16:17",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2367174,
+   "code": "0018894463078",
+   "status": 200,
+   "clock_utc": "02:16:18",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2635867,
+   "code": "0085239309353",
+   "status": 404,
+   "clock_utc": "02:16:20",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2039068,
+   "code": "0040129200493",
+   "status": 200,
+   "clock_utc": "02:16:21",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2021724,
+   "code": "0041497129164",
+   "status": 200,
+   "clock_utc": "02:16:23",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2055428,
+   "code": "0038200003217",
+   "status": 200,
+   "clock_utc": "02:16:24",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2499949,
+   "code": "0041415160330",
+   "status": 200,
+   "clock_utc": "02:16:26",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2041009,
+   "code": "0046567032160",
+   "status": 200,
+   "clock_utc": "02:16:27",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1898747,
+   "code": "0049705086780",
+   "status": 200,
+   "clock_utc": "02:16:29",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2663848,
+   "code": "0843237005512",
+   "status": 200,
+   "clock_utc": "02:16:30",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2652557,
+   "code": "0824295136530",
+   "status": 200,
+   "clock_utc": "02:16:32",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2629570,
+   "code": "0041331091053",
+   "status": 200,
+   "clock_utc": "02:16:33",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1898524,
+   "code": "0035457722694",
+   "status": 200,
+   "clock_utc": "02:16:34",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2052084,
+   "code": "0076958621550",
+   "status": 200,
+   "clock_utc": "02:16:36",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2566476,
+   "code": "0048000005564",
+   "status": 200,
+   "clock_utc": "02:16:37",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2096204,
+   "code": "0616973020107",
+   "status": 200,
+   "clock_utc": "02:16:39",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2460666,
+   "code": "0041303011706",
+   "status": 200,
+   "clock_utc": "02:16:40",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1982635,
+   "code": "0077890472576",
+   "status": 200,
+   "clock_utc": "02:16:42",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2285612,
+   "code": "0048176661021",
+   "status": 200,
+   "clock_utc": "02:16:43",
+   "answered": false,
+   "why": "per 100ml"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2107276,
+   "code": "0819898019007",
+   "status": 200,
+   "clock_utc": "02:16:45",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2642649,
+   "code": "0194888000556",
+   "status": 404,
+   "clock_utc": "02:16:46",
+   "answered": false,
+   "why": "not found"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1955436,
+   "code": "0041364088563",
+   "status": 200,
+   "clock_utc": "02:16:48",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2106968,
+   "code": "0641548101431",
+   "status": 200,
+   "clock_utc": "02:16:49",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2286270,
+   "code": "0023637498088",
+   "status": 200,
+   "clock_utc": "02:16:50",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2679268,
+   "code": "0004656701107",
+   "status": 200,
+   "clock_utc": "02:16:52",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 1890857,
+   "code": "0041303058626",
+   "status": 200,
+   "clock_utc": "02:16:53",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2127716,
+   "code": "0041335365495",
+   "status": 200,
+   "clock_utc": "02:16:55",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2466321,
+   "code": "0744473720118",
+   "status": 200,
+   "clock_utc": "02:16:56",
+   "answered": false,
+   "why": "per 100g"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2535233,
+   "code": "0711381312254",
+   "status": 200,
+   "clock_utc": "02:16:58",
+   "answered": false,
+   "why": "per None"
+  },
+  {
+   "kind": "check_kept",
+   "fdcId": 2585612,
+   "code": "0602652204005",
+   "status": 200,
+   "clock_utc": "02:16:59",
+   "answered": false,
+   "why": "per 100g"
+  }
+ ]
+}

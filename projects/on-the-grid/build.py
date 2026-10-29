@@ -182,6 +182,59 @@ V.update({
     "{{ND}}": f(nD), "{{NDO}}": f(nDo), "{{NDW}}": f(GD["v_whole"].get("True", 0)), "{{ND100}}": f(GD["s_eq_100"].get("True", 0)),
     "{{NDNZ}}": f(GD["marketCountry"].get("New Zealand", 0)), "{{NE}}": f(sum(e2["groups"]["E"]["source"].values())),
 })
+
+s3 = json.load(open("session3.json")); c3 = json.load(open("check3.json")); x3 = json.load(open("explore3.json"))
+F3 = s3["fate"]; L3 = F3["calories|LI"]
+bars = []; Y = 0
+for k, name in (("calories", "Calories"), ("fat", "Total fat"), ("sodium", "Sodium")):
+    fz = F3[k + "|LI"]; x = 160.0
+    bars.append('<text x="0" y="%d" class="lb">%s</text>' % (Y + 22, name))
+    for part, cls, lab in (("kept", "s3", "kept as printed"), ("given_back", "g", "given back"), ("ambiguous", "s2", "more than one"),
+                           ("unrestorable", "s0", "none")):
+        w = (W - 170) * fz.get(part, 0) / fz["testable"]
+        bars.append('<g><title>%s, %s: %s of %s</title><rect x="%.1f" y="%d" width="%.1f" height="28" class="%s"/></g>' % (
+            name, lab, f(fz.get(part, 0)), f(fz["testable"]), x, Y + 4, w, cls))
+        x += w
+    Y += 40
+fig7 = '<svg class="ch" viewBox="0 0 %d %d" role="img" aria-label="Main-source values by what running the arithmetic backwards gives">%s</svg>' % (W, Y + 4, "".join(bars))
+key7 = ('<span style="background:var(--s3)"></span>kept as printed <span style="background:var(--g)"></span>given back (one lawful '
+        'number, not the one shown) <span style="background:var(--s2)"></span>more than one lawful number <span style="background:var(--s0)">'
+        '</span>no lawful number')
+R = c3["reasons"]
+of100 = sum(v for k, v in R.items() if "|per 100" in k); ofnf = sum(v for k, v in R.items() if k.endswith("not found"))
+ofnb = sum(v for k, v in R.items() if k.endswith("per None"))
+A = x3["agg"]
+def ag(kind, u, k):
+    return A.get("%s|%s|%s" % (kind, u, k), 0)
+ex3 = ("<b>A second look, after the check failed (exploration).</b> Asked again, the {{N}} of those foods held per 100 grams that carry a "
+       "per-serving number at all were compared anyway, though that number is computed by Open Food Facts from its per-100 g one. Of "
+       "{{GU}} given-back foods it holds as imported from the U.S. database, {{GUV}} show the database's number and {{GUR}} the one given "
+       "back. <b>Of the {{GN}} given-back foods not imported from it, {{GNR}} show the number given back, {{GNV}} the database's, {{GNX}} "
+       "neither.</b> {{GN}} is fewer than the 20 the rule asks, none of them was typed per serving, and they were looked at after the "
+       "check failed: suggestive, not a confirmation. The next session has to read packages, not databases.")
+gu = ag("check_given", "usda", "n"); gn = ag("check_given", "not usda", "n")
+for k_, v_ in {"{{N}}": f(gu + gn + ag("check_kept", "usda", "n") + ag("check_kept", "not usda", "n")),
+               "{{GU}}": f(gu), "{{GUV}}": f(ag("check_given", "usda", "v_eq")), "{{GUR}}": f(ag("check_given", "usda", "r_eq")),
+               "{{GN}}": f(gn), "{{GNV}}": f(ag("check_given", "not usda", "v_eq")), "{{GNR}}": f(ag("check_given", "not usda", "r_eq")),
+               "{{GNX}}": f(ag("check_given", "not usda", "neither"))}.items():
+    ex3 = ex3.replace(k_, v_)
+P3 = s3["predictions_P1_P5"]
+txt3 = [
+    (P3["P1 restored >= 93 %"][1], "At least 93 %% of main-source calorie values lead back to exactly one lawful number: %s." % pc(L3["restored"], L3["testable"])),
+    (P3["P2 ambiguous <= 0.5 %"][1], "At most 0.5 %% lead back to more than one: %s." % pc(L3["ambiguous"], L3["testable"])),
+    (P3["P3 given back >= 20 % of restored"][1], "At least 20 %% of those restored are not the number the database shows: %s." % pc(L3["given_back"], L3["restored"])),
+    (P3["P4 r == v for >= 99 % of restored on-grid"][1], "Where the database holds a lawful number, at least 99 %% come back as themselves: %s." % pc(
+        s3["LI_calories_on_grid_restored"]["r_eq_v"], s3["LI_calories_on_grid_restored"]["n"])),
+    (P3["P5 sodium restored >= 90 %"][1], "Sodium: at least 90 %% restored: %s." % pc(F3["sodium|LI"]["restored"], F3["sodium|LI"]["testable"])),
+    (None, "Of given-back foods answered by Open Food Facts, at least 70 % agree with the number given back: not judged, none answered."),
+    (None, "Of the same, at most 10 % agree with the database's number: not judged, none answered."),
+    (None, "Of kept foods answered, at least 70 % agree with the database: not judged, none answered."),
+]
+li3 = ['<li><b>%s</b> %s</li>' % ({True: "Held.", False: "Failed.", None: "Not made."}[ok], tx) for ok, tx in txt3]
+V.update({"{{FIG7}}": fig7, "{{KEY7}}": key7, "{{R3}}": f(L3["restored"]), "{{N3}}": f(L3["testable"]), "{{R3P}}": pc(L3["restored"], L3["testable"]),
+          "{{G3}}": f(L3["given_back"]), "{{U3}}": f(L3["unrestorable"]), "{{A3}}": f(L3["ambiguous"]),
+          "{{SR3}}": pc(F3["sodium|LI"]["restored"], F3["sodium|LI"]["testable"]), "{{FA3}}": pc(F3["fat|LI"]["ambiguous"], F3["fat|LI"]["testable"]),
+          "{{OF100}}": f(of100), "{{OFNF}}": f(ofnf), "{{OFNB}}": f(ofnb), "{{EX3}}": ex3, "{{PREDS3}}": "".join(li3)})
 t = open("template.html").read()
 for k, v in V.items():
     t = t.replace(k, v)
