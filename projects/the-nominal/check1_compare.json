@@ -1,0 +1,187 @@
+{
+ "agree_all_three": 20,
+ "of": 20,
+ "max_abs_diff_cents_vs_dove": 1.0,
+ "bells": [
+  {
+   "bell_id": "40866",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 15.7,
+   "dove_cents": 15,
+   "diff": 0.7
+  },
+  {
+   "bell_id": "33917",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": -15.9,
+   "dove_cents": -15,
+   "diff": -0.9
+  },
+  {
+   "bell_id": "17362",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": -46.1,
+   "dove_cents": -47,
+   "diff": 0.9
+  },
+  {
+   "bell_id": "49688",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 71.6,
+   "dove_cents": 71,
+   "diff": 0.6
+  },
+  {
+   "bell_id": "26843",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 30.7,
+   "dove_cents": 30,
+   "diff": 0.7
+  },
+  {
+   "bell_id": "35237",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": -20.8,
+   "dove_cents": -21,
+   "diff": 0.2
+  },
+  {
+   "bell_id": "21845",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": -26.1,
+   "dove_cents": -27,
+   "diff": 0.9
+  },
+  {
+   "bell_id": "14002",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 31.9,
+   "dove_cents": 31,
+   "diff": 0.9
+  },
+  {
+   "bell_id": "60299",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": -30.5,
+   "dove_cents": -31,
+   "diff": 0.5
+  },
+  {
+   "bell_id": "35096",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 49.7,
+   "dove_cents": 49,
+   "diff": 0.7
+  },
+  {
+   "bell_id": "62590",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": -24.4,
+   "dove_cents": -25,
+   "diff": 0.6
+  },
+  {
+   "bell_id": "32476",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 9.4,
+   "dove_cents": 9,
+   "diff": 0.4
+  },
+  {
+   "bell_id": "6849",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 12.1,
+   "dove_cents": 12,
+   "diff": 0.1
+  },
+  {
+   "bell_id": "20904",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 38.1,
+   "dove_cents": 38,
+   "diff": 0.1
+  },
+  {
+   "bell_id": "63148",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": -0.6,
+   "dove_cents": -1,
+   "diff": 0.4
+  },
+  {
+   "bell_id": "20161",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": -16.8,
+   "dove_cents": -17,
+   "diff": 0.2
+  },
+  {
+   "bell_id": "11353",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": -10.5,
+   "dove_cents": -11,
+   "diff": 0.5
+  },
+  {
+   "bell_id": "32444",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 2.0,
+   "dove_cents": 1,
+   "diff": 1.0
+  },
+  {
+   "bell_id": "54432",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 32.8,
+   "dove_cents": 32,
+   "diff": 0.8
+  },
+  {
+   "bell_id": "17788",
+   "weight_equal": true,
+   "nominal_equal": true,
+   "note_equal": true,
+   "d_ours": 53.6,
+   "dove_cents": 53,
+   "diff": 0.6
+  }
+ ]
+}
