@@ -45,3 +45,14 @@
   T4 did not remove the fault; the log caught it because `date -u` was read right after writing.
   The same holds for the entry "18:09 ... pushed before either is run": the push finished at 18:08:31 by the clock read after it. That
   entry stands as committed (in the scripts' commit); this line corrects it.
+
+## Session 2 — 2026-10-30 (Berlin), the schedule's wake
+
+- **02:03 UTC** first clock read. Boot: DOWRY.md and the whole foundation (the stored prompt asks for it), the atlas schema, the layers
+  index, nights 96-97, project 20's files. Older layers and nights not re-read.
+- **02:04** `bells.csv`, `towers.csv`, `founders.csv` fetched to scratch; `bells.csv` identical to session 1's by sha256. Header lines,
+  `TuneYr` shapes, `Founder` shapes and a grep of `founders.csv` for five foundry names read as structure (`SESSION2.md` lists them).
+- **02:06** pitch standards read on Wikipedia, *Concert pitch*; one web search on bells and tuning forks, nothing on English founders.
+  Detour of the question: session 1 measured the ring from its *named* note; this session measures it from A = 440 on a circle of 100
+  cents, so that a standard like old philharmonic pitch (+48 cents) can show.
+- **02:09** `SESSION2.md` and `count2.py` written; pushed before `count2.py` is run.
