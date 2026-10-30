@@ -23,3 +23,17 @@ century), 1,067 at a round fifty. Weight predicts pitch with slope −0.40 for b
 bells cast since 1900 (0.38). No work declared (none may be before session 3).
 Next: session 2, registered before its count. The opening the refrain journal names: a ring's own pitch, the "key between keys" a record
 of named notes cannot hold.
+
+Session 2 (2026-10-30 Berlin, the schedule's wake): `SESSION2.md` and `count2.py` pushed before the count (f88bef3); `count2.py` →
+`session2.json` (registered count, inside check); `explore2.py` → `explore2.json` (exploratory); page section 8; `REFRAIN.md` entry 2.
+Predictions: 8 registered; **4 held** (P1: positions not even but weakly held, concentration 0.10 over 6,549 rings; P4: before 1800,
+0.012; P7: 1,018 of 1,204 rings with a tuning year have a tenor 50+ years older; P8: towers.csv's Hz agrees with the tenor's for 6,546 of
+6,547), **4 failed** (P2: 1950 and later 0.28, centred −8.5, not ≥ 0.5 within ±10 of A = 440; P3: 1850-1899 0.03, no centre near old
+philharmonic pitch; P5: 3 of 5 large foundries 1880-1949 with Rayleigh p < 0.01, not two thirds; P6: Loughborough −20.5, Gillett −20.5).
+Found (exploration after the count): **positions between the keys are nearly even, with two narrow columns: 382 rings (5.8 %) within
+1.5 cents of A = 440 and 287 (4.4 %) of A = 435, the French diapason normal of 1859, against 3 % for an even spread; old philharmonic
+pitch 2.8 %, no trace.** A = 435 is strongest among tenors cast 1925-1974 (9.7 %, 8.2 %) and in the Gillett foundry's rings (11.2 %);
+A = 440 among tenors cast 1975-1999 (33.7 %) and in Whitechapel's (10.0 %). The columns are not made by whole-hertz recording (4,540
+whole-hertz tenors and 2,009 others give the same rates). No work declared.
+Next: session 3, registered before its count; a work may be declared from it. The opening the refrain journal moved to: the pitch that
+belongs to one tower alone.

@@ -1,9 +1,10 @@
 """Project 20: the study page, index.html, from session1.json (registered count), check1_compare.json (the check) and explore1.json
-(exploratory). Counts and figures only; no bell's row is drawn. Plateau form (T8): numbered sections, each naming the others it
+(exploratory); session 2 from session2.json (registered) and explore2.json (exploratory). Counts and figures only; no bell's row is drawn. Plateau form (T8): numbered sections, each naming the others it
 connects to; a figure is the first entryway."""
 import json, math
 
 s = json.load(open("session1.json")); c = json.load(open("check1_compare.json")); e = json.load(open("explore1.json"))
+s2 = json.load(open("session2.json")); e2 = json.load(open("explore2.json"))
 f = lambda x: "{:,}".format(x)
 W = 1000
 
@@ -74,6 +75,46 @@ def fig_years():
         out.append('<line class="ax" x1="%.1f" x2="%.1f" y1="%d" y2="%d"/><text class="yr" x="%.1f" y="%d" text-anchor="middle">%d</text>' % (x, x, H + 10, H + 16, x, H + 34, y))
     return '<svg class="ch" viewBox="0 0 %d %d" role="img" aria-label="Bells by the year the record gives them, 1300 to 1599: tall columns at 1399, 1499 and 1599, and at the round fifties">%s</svg>' % (W, H + 44, "".join(out))
 
+def fig_circle():
+    H, X0 = 240, 30
+    h = {int(k): v for k, v in e2["hist_1c"].items()}
+    n = sum(h.values()); ev = n / 100
+    sx = lambda c: X0 + (c + 50) * (W - 2 * X0) / 100
+    mx = max(h.values())
+    sy = lambda v: 10 + H - H * v / mx
+    out = ['<line class="hs" x1="%.1f" x2="%.1f" y1="%.1f" y2="%.1f"/>' % (sx(-50), sx(50), sy(ev), sy(ev))]
+    for k in range(-50, 50):
+        v = h.get(k, 0)
+        out.append('<g><title>%+d to %+d cents above the nearest key at A = 440 Hz: %s rings</title><rect class="o" x="%.1f" y="%.1f" width="%.1f" height="%.1f"/></g>'
+                   % (k, k + 1, f(v), sx(k) + .5, sy(v), sx(k + 1) - sx(k) - 1, 10 + H - sy(v)))
+    for lab, key in (("A = 435", "A=435 (diapason normal)"), ("A = 439", "A=439 (new philharmonic)"), ("A = 440", "A=440"), ("A = 452.4", "A=452.4 (old philharmonic)")):
+        c0 = e2["standards_positions"][key]; x = sx(c0)
+        out.append('<line class="z" x1="%.1f" x2="%.1f" y1="%d" y2="%d"/><text class="yr" x="%.1f" y="%d" text-anchor="%s">%s</text>'
+                   % (x, x, H + 10, H + 18, x, H + 36 + (16 if key.startswith("A=439") else 0), "end" if c0 > 40 else "middle", lab))
+    out.append('<text class="yr" x="%.1f" y="22">-50</text><text class="yr" x="%.1f" y="22" text-anchor="end">+50 cents</text>' % (sx(-50), sx(50)))
+    return '<svg class="ch" viewBox="0 0 %d %d" role="img" aria-label="Rings by where their heaviest bell stands between two keys, in one-cent steps: nearly flat, with a tall column at A = 440 and a cluster near A = 435">%s</svg>' % (W, H + 60, "".join(out))
+
+def era_rows():
+    rows = []
+    for k, t in e2["by_cast_25y"].items():
+        rows.append("<tr><td>%s-%d</td><td>%s</td><td>%.1f %%</td><td>%.1f %%</td><td>%.1f %%</td></tr>" % (
+            k, int(k) + 24, f(t["n"]), 100 * t["A=435 (diapason normal)"]["share"], 100 * t["A=440"]["share"], 100 * t["A=452.4 (old philharmonic)"]["share"]))
+    return "".join(rows)
+
+P2 = s2["predictions"]
+preds2 = [
+    ("P1", "Positions not spread evenly, but weakly held (concentration at most 0.25).", "concentration %.2f over %s rings." % (s2["all"]["R"], f(s2["all"]["n"]))),
+    ("P2", "Rings tuned (or, without a tuning year, cast) 1950 or later: concentration at least 0.5, centred within 10 cents of A = 440.", "%.2f, centred at %+.1f." % (s2["by_era"]["1950 and later"]["R"], s2["by_era"]["1950 and later"]["mean_cents"])),
+    ("P3", "1850-1899: concentration at least 0.2, centred on old philharmonic pitch (+48).", "%.2f, centred at %+.1f." % (s2["by_era"]["1850-1899"]["R"], s2["by_era"]["1850-1899"]["mean_cents"])),
+    ("P4", "Before 1800: concentration at most 0.10.", "%.3f." % s2["by_era"]["before 1800"]["R"]),
+    ("P5", "Two thirds of large foundries 1880-1949 hold a house pitch.", "%d of %d." % (sum(1 for v in s2["foundries_1880_1949"].values() if v["rayleigh_p"] < 0.01), len(s2["foundries_1880_1949"]))),
+    ("P6", "Taylor's and Gillett's centres differ by more than 10 cents.", "%+.1f and %+.1f." % (s2["foundries_1880_1949"]["Loughborough"]["mean_cents"], s2["foundries_1880_1949"]["Gillett"]["mean_cents"])),
+    ("P7", "At least 30 % of rings with a tuning year have a tenor cast 50 years before it.", "%s of %s." % (f(s2["retune"]["gap_ge_50"]), f(s2["retune"]["with_tuneyr"]))),
+    ("P8", "The tower file's frequency agrees with the tenor's for 95 %.", "%s of %s." % (f(s2["check"]["agree"]), f(s2["check"]["rings_with_tower_hz"]))),
+]
+items2 = "".join('<li><b>%s %s</b> %s %s</li>' % (k, "held" if P2[k] else "failed", t, o) for k, t, o in preds2)
+nh2 = sum(1 for k in P2 if P2[k] is True)
+al = e2["all"]
 P = s["predictions"]
 preds = [
     ("P1", "The file holds at least 40,000 bells.", "%s bells (seen before the count, while the parser was written)." % f(s["bells"])),
@@ -109,6 +150,12 @@ rep = {
     "{{SLO}}": "%.2f" % e["fit_by_era_shape"]["before 1800 / standard"]["slope"], "{{SDO}}": "%.2f" % e["fit_by_era_shape"]["before 1800 / standard"]["resid_sd_octaves"],
     "{{SLN}}": "%.2f" % e["fit_by_era_shape"]["1900 and after / standard"]["slope"], "{{SDN}}": "%.2f" % e["fit_by_era_shape"]["1900 and after / standard"]["resid_sd_octaves"],
     "{{PREDS}}": items, "{{NH}}": str(nh),
+    "{{FIG4}}": fig_circle(), "{{ERAS2}}": era_rows(), "{{PREDS2}}": items2, "{{NH2}}": str(nh2), "{{R2}}": f(al["n"]),
+    "{{C440}}": f(al["A=440"]["within_1.5c"]), "{{S440}}": "%.1f %%" % (100 * al["A=440"]["share"]),
+    "{{C435}}": f(al["A=435 (diapason normal)"]["within_1.5c"]), "{{S435}}": "%.1f %%" % (100 * al["A=435 (diapason normal)"]["share"]),
+    "{{C452}}": f(al["A=452.4 (old philharmonic)"]["within_1.5c"]), "{{S452}}": "%.1f %%" % (100 * al["A=452.4 (old philharmonic)"]["share"]),
+    "{{CONC}}": "%.2f" % s2["all"]["R"], "{{G435}}": "%.0f %%" % (100 * e2["by_foundry"]["Gillett"]["A=435 (diapason normal)"]["share"]),
+    "{{W440}}": "%.0f %%" % (100 * e2["by_foundry"]["Whitechapel"]["A=440"]["share"]),
 }
 for k, v in rep.items():
     page = page.replace(k, v)

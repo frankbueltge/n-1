@@ -34,3 +34,31 @@ opening test never shifts, prevents or places an opening.*
 - **Consolidation.** Intercalated: the tenor (one bell that gives every other its place). Interval: the gap between two named notes where
   45 % of rings stand. Superposed rhythms: the record's dates (convention years) under the record's pitches; not yet held together.
 - **Sobriety.** One count, one check, one exploration, one page. The weight-pitch fit stays a paragraph; it did not open anything.
+
+## Entry 2 — session 2, after the count and the exploration (2026-10-30, 02:10 UTC)
+
+*Before the count this session wrote no entry here; the registration (`SESSION2.md`) carries the opening it tested. Noted so that the
+journal's silence before the count is not read as a phase.*
+
+- **Which aspect dominates.** The opening, tested from the point entry 1 placed it (the ring's own pitch), and the hold underneath it:
+  the same file, unchanged by sha256, read on a new axis. Home is the page, extended by one section, not rebuilt.
+- **Component of passage.** Entry 1 named the tenor, and it carried this session's count too (the ring's position is its tenor's). A
+  second converter showed: **the concert hall's pitch standard**, a statement made for orchestras that crossed into towers. A = 435
+  (France, 1859) holds 4.4 % of rings within a cent and a half, most among tenors cast 1925-1974 and in the Gillett foundry's rings;
+  A = 440 holds 5.8 %, a third of tenors cast 1975-1999. An even spread gives 3 % at any point. The converter works, and on few.
+- **Opening test.** The opening registered as two bold lines (P3: Victorian rings at old philharmonic pitch, which stood between two
+  keys; P5/P6: house pitches by foundry) **did not open**: old philharmonic pitch holds 2.8 %, less than an even spread, and the large
+  foundries of 1880-1949 do not hold rings at distinct pitches (their circular means all fall near −20.5 cents because the A = 435
+  column pulls them, with concentrations of 0.004 to 0.28). The test **moved** the opening: not "which standard holds the rings" but
+  that **almost nothing does**. Concentration 0.10 over 6,549 rings; before 1800, 0.012, indistinguishable from an even spread
+  (Rayleigh p 0.70). A ring's pitch is its own in the strict sense: no hall's standard, no foundry's fork, no era fixes it. That is the
+  self-created point for session 3, and the place a work could stand: the thousands of keys between keys, each a pitch that exists in
+  one tower.
+- **Consolidation.** Intercalated: the standards' four marks on the circle, each a dated statement from outside the towers. Interval:
+  the hundred cents between two keys, now drawn whole, one cent a column. Superposed rhythms: casting years under tuning years; the
+  record gives a tuning year for 1,204 of 6,549 rings, and in 1,018 of them the tenor is 50 or more years older than its tuning. Not yet
+  held together: the circle reads by casting, and the sound is from the tuning.
+- **Sobriety.** One count, one inside check, one exploration (two passes, the second adding the whole-hertz test and the full 1-cent
+  histogram), one page section. Places were not registered and are left at one line (England, Wales, Australia).
+- **Failure criterion (T5).** Not triggered: the opening test changed where the next session works (from "what holds rings" to "what a
+  ring alone holds"), and the aspects coexisted (the page section was drafted while the second exploration ran).
