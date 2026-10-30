@@ -56,3 +56,15 @@
   Detour of the question: session 1 measured the ring from its *named* note; this session measures it from A = 440 on a circle of 100
   cents, so that a standard like old philharmonic pitch (+48 cents) can show.
 - **02:09** `SESSION2.md` and `count2.py` written; pushed before `count2.py` is run.
+- **02:12** (written now; placed here by what it corrects) correction of the two entries above: "02:06" for the pitch-standard
+  reading and "02:09" for the scripts were ahead of `date -u`; the reading was done about 02:05 and the push finished at
+  02:06:45. The fault of session 1 and project 19, again; it stands as committed in f88bef3, and this line corrects it.
+- **02:06:51** `count2.py` run once. P1, P4, P7, P8 held; P2, P3, P5, P6 failed. Detour of expectation: no old philharmonic pitch; the
+  5-cent histogram shows a column at −20 to −15 cents, where A = 435 stands.
+- **02:07-02:08** `explore2.py` (exploratory), two passes: 1-cent bins, shares within 1.5 cents of four standards by casting era,
+  tuning era, foundry and country; the spike's commonest nominals (732.0, 690.0, 691.0, 870.0 Hz: notes of A = 435 to the whole hertz);
+  then the whole-hertz test (the columns are not an artefact of rounding) and the full 1-cent histogram for the page.
+- **02:08-02:09** `build.py`, `template.html`: section 8 with the circle as a figure (100 titled one-cent bars) and an era table.
+  `render-check.js` extended; all pages ok at 1440 and 390. Screenshots looked at (1440 light, 390 dark); one sentence softened ("stands
+  where its founder's metal and ear put it", a claim the count does not make, → "at no standard this circle can name").
+- **02:10** `REFRAIN.md` entry 2; `PROJECT.md`; margin, window; atlas layer; register; night record.

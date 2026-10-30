@@ -1,0 +1,1257 @@
+{
+ "standards_positions": {
+  "A=435 (diapason normal)": -19.78574734628273,
+  "A=439 (new philharmonic)": -3.9391007871617774,
+  "A=440": 0.0,
+  "A=452.4 (old philharmonic)": 48.11448669335806
+ },
+ "expected_share_even": 0.03,
+ "all": {
+  "n": 6549,
+  "A=435 (diapason normal)": {
+   "within_1.5c": 287,
+   "share": 0.043823484501450606
+  },
+  "A=439 (new philharmonic)": {
+   "within_1.5c": 200,
+   "share": 0.03053901358986105
+  },
+  "A=440": {
+   "within_1.5c": 382,
+   "share": 0.0583295159566346
+  },
+  "A=452.4 (old philharmonic)": {
+   "within_1.5c": 181,
+   "share": 0.027637807298824247
+  }
+ },
+ "hist_1c": {
+  "-50": 62,
+  "-49": 49,
+  "-48": 81,
+  "-47": 56,
+  "-46": 97,
+  "-45": 52,
+  "-44": 63,
+  "-43": 69,
+  "-42": 73,
+  "-41": 73,
+  "-40": 62,
+  "-39": 39,
+  "-38": 73,
+  "-37": 53,
+  "-36": 63,
+  "-35": 60,
+  "-34": 65,
+  "-33": 44,
+  "-32": 86,
+  "-31": 36,
+  "-30": 53,
+  "-29": 76,
+  "-28": 59,
+  "-27": 62,
+  "-26": 44,
+  "-25": 81,
+  "-24": 68,
+  "-23": 64,
+  "-22": 95,
+  "-21": 47,
+  "-20": 87,
+  "-19": 117,
+  "-18": 151,
+  "-17": 123,
+  "-16": 98,
+  "-15": 53,
+  "-14": 77,
+  "-13": 45,
+  "-12": 76,
+  "-11": 24,
+  "-10": 91,
+  "-9": 79,
+  "-8": 57,
+  "-7": 74,
+  "-6": 54,
+  "-5": 83,
+  "-4": 85,
+  "-3": 82,
+  "-2": 86,
+  "-1": 97,
+  "0": 178,
+  "1": 89,
+  "2": 90,
+  "3": 76,
+  "4": 91,
+  "5": 42,
+  "6": 52,
+  "7": 69,
+  "8": 61,
+  "9": 68,
+  "10": 38,
+  "11": 66,
+  "12": 35,
+  "13": 77,
+  "14": 56,
+  "15": 58,
+  "16": 49,
+  "17": 59,
+  "18": 55,
+  "19": 51,
+  "20": 48,
+  "21": 68,
+  "22": 25,
+  "23": 66,
+  "24": 38,
+  "25": 51,
+  "26": 50,
+  "27": 75,
+  "28": 58,
+  "29": 59,
+  "30": 79,
+  "31": 37,
+  "32": 57,
+  "33": 71,
+  "34": 72,
+  "35": 64,
+  "36": 28,
+  "37": 48,
+  "38": 49,
+  "39": 60,
+  "40": 42,
+  "41": 55,
+  "42": 54,
+  "43": 68,
+  "44": 34,
+  "45": 47,
+  "46": 52,
+  "47": 64,
+  "48": 93,
+  "49": 33
+ },
+ "by_cast_25y": {
+  "1700": {
+   "n": 323,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 15,
+    "share": 0.04643962848297214
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 8,
+    "share": 0.02476780185758514
+   },
+   "A=440": {
+    "within_1.5c": 12,
+    "share": 0.03715170278637771
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 10,
+    "share": 0.030959752321981424
+   }
+  },
+  "1725": {
+   "n": 330,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 13,
+    "share": 0.03939393939393939
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 7,
+    "share": 0.021212121212121213
+   },
+   "A=440": {
+    "within_1.5c": 15,
+    "share": 0.045454545454545456
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 13,
+    "share": 0.03939393939393939
+   }
+  },
+  "1750": {
+   "n": 314,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 12,
+    "share": 0.03821656050955414
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 12,
+    "share": 0.03821656050955414
+   },
+   "A=440": {
+    "within_1.5c": 12,
+    "share": 0.03821656050955414
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 9,
+    "share": 0.028662420382165606
+   }
+  },
+  "1775": {
+   "n": 265,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 6,
+    "share": 0.022641509433962263
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 8,
+    "share": 0.03018867924528302
+   },
+   "A=440": {
+    "within_1.5c": 14,
+    "share": 0.052830188679245285
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 11,
+    "share": 0.04150943396226415
+   }
+  },
+  "1800": {
+   "n": 248,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 13,
+    "share": 0.05241935483870968
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 8,
+    "share": 0.03225806451612903
+   },
+   "A=440": {
+    "within_1.5c": 19,
+    "share": 0.07661290322580645
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 4,
+    "share": 0.016129032258064516
+   }
+  },
+  "1825": {
+   "n": 298,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 14,
+    "share": 0.04697986577181208
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 15,
+    "share": 0.050335570469798654
+   },
+   "A=440": {
+    "within_1.5c": 21,
+    "share": 0.07046979865771812
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 7,
+    "share": 0.02348993288590604
+   }
+  },
+  "1850": {
+   "n": 497,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 20,
+    "share": 0.04024144869215292
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 22,
+    "share": 0.04426559356136821
+   },
+   "A=440": {
+    "within_1.5c": 30,
+    "share": 0.060362173038229376
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 17,
+    "share": 0.03420523138832998
+   }
+  },
+  "1875": {
+   "n": 767,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 25,
+    "share": 0.03259452411994785
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 17,
+    "share": 0.02216427640156454
+   },
+   "A=440": {
+    "within_1.5c": 43,
+    "share": 0.0560625814863103
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 23,
+    "share": 0.02998696219035202
+   }
+  },
+  "1900": {
+   "n": 760,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 23,
+    "share": 0.030263157894736843
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 17,
+    "share": 0.02236842105263158
+   },
+   "A=440": {
+    "within_1.5c": 27,
+    "share": 0.035526315789473684
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 27,
+    "share": 0.035526315789473684
+   }
+  },
+  "1925": {
+   "n": 452,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 44,
+    "share": 0.09734513274336283
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 11,
+    "share": 0.024336283185840708
+   },
+   "A=440": {
+    "within_1.5c": 8,
+    "share": 0.017699115044247787
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 9,
+    "share": 0.01991150442477876
+   }
+  },
+  "1950": {
+   "n": 331,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 27,
+    "share": 0.08157099697885196
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 18,
+    "share": 0.054380664652567974
+   },
+   "A=440": {
+    "within_1.5c": 33,
+    "share": 0.09969788519637462
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 6,
+    "share": 0.01812688821752266
+   }
+  },
+  "1975": {
+   "n": 190,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 5,
+    "share": 0.02631578947368421
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 10,
+    "share": 0.05263157894736842
+   },
+   "A=440": {
+    "within_1.5c": 64,
+    "share": 0.3368421052631579
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 2,
+    "share": 0.010526315789473684
+   }
+  },
+  "2000": {
+   "n": 140,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 7,
+    "share": 0.05
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 9,
+    "share": 0.06428571428571428
+   },
+   "A=440": {
+    "within_1.5c": 23,
+    "share": 0.16428571428571428
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 1,
+    "share": 0.007142857142857143
+   }
+  }
+ },
+ "by_tuneyr_25y": {
+  "1600": {
+   "n": 1,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=440": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   }
+  },
+  "1775": {
+   "n": 1,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=440": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   }
+  },
+  "1850": {
+   "n": 1,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=440": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   }
+  },
+  "1875": {
+   "n": 11,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 1,
+    "share": 0.09090909090909091
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 1,
+    "share": 0.09090909090909091
+   },
+   "A=440": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   }
+  },
+  "1900": {
+   "n": 83,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 5,
+    "share": 0.060240963855421686
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 4,
+    "share": 0.04819277108433735
+   },
+   "A=440": {
+    "within_1.5c": 2,
+    "share": 0.024096385542168676
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 4,
+    "share": 0.04819277108433735
+   }
+  },
+  "1925": {
+   "n": 249,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 15,
+    "share": 0.060240963855421686
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 8,
+    "share": 0.0321285140562249
+   },
+   "A=440": {
+    "within_1.5c": 12,
+    "share": 0.04819277108433735
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 6,
+    "share": 0.024096385542168676
+   }
+  },
+  "1950": {
+   "n": 176,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 8,
+    "share": 0.045454545454545456
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 7,
+    "share": 0.03977272727272727
+   },
+   "A=440": {
+    "within_1.5c": 8,
+    "share": 0.045454545454545456
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 6,
+    "share": 0.03409090909090909
+   }
+  },
+  "1975": {
+   "n": 286,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 15,
+    "share": 0.05244755244755245
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 8,
+    "share": 0.027972027972027972
+   },
+   "A=440": {
+    "within_1.5c": 33,
+    "share": 0.11538461538461539
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 9,
+    "share": 0.03146853146853147
+   }
+  },
+  "2000": {
+   "n": 377,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 18,
+    "share": 0.04774535809018567
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 16,
+    "share": 0.042440318302387266
+   },
+   "A=440": {
+    "within_1.5c": 22,
+    "share": 0.058355437665782495
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 4,
+    "share": 0.010610079575596816
+   }
+  },
+  "2025": {
+   "n": 19,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 1,
+    "share": 0.05263157894736842
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=440": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 2,
+    "share": 0.10526315789473684
+   }
+  }
+ },
+ "by_foundry": {
+  "Loughborough": {
+   "n": 1548,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 83,
+    "share": 0.053617571059431525
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 49,
+    "share": 0.03165374677002584
+   },
+   "A=440": {
+    "within_1.5c": 87,
+    "share": 0.0562015503875969
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 49,
+    "share": 0.03165374677002584
+   }
+  },
+  "Whitechapel": {
+   "n": 1293,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 45,
+    "share": 0.03480278422273782
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 57,
+    "share": 0.04408352668213457
+   },
+   "A=440": {
+    "within_1.5c": 129,
+    "share": 0.09976798143851508
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 31,
+    "share": 0.02397525135344161
+   }
+  },
+  "Warner": {
+   "n": 359,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 14,
+    "share": 0.03899721448467967
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 11,
+    "share": 0.03064066852367688
+   },
+   "A=440": {
+    "within_1.5c": 21,
+    "share": 0.0584958217270195
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 8,
+    "share": 0.022284122562674095
+   }
+  },
+  "Rudhall": {
+   "n": 339,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 18,
+    "share": 0.05309734513274336
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 10,
+    "share": 0.029498525073746312
+   },
+   "A=440": {
+    "within_1.5c": 17,
+    "share": 0.05014749262536873
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 10,
+    "share": 0.029498525073746312
+   }
+  },
+  "Gillett": {
+   "n": 242,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 27,
+    "share": 0.1115702479338843
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.012396694214876033
+   },
+   "A=440": {
+    "within_1.5c": 12,
+    "share": 0.049586776859504134
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.012396694214876033
+   }
+  },
+  "Nottingham": {
+   "n": 232,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 13,
+    "share": 0.05603448275862069
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.01293103448275862
+   },
+   "A=440": {
+    "within_1.5c": 8,
+    "share": 0.034482758620689655
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 7,
+    "share": 0.03017241379310345
+   }
+  },
+  "West Country": {
+   "n": 230,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 6,
+    "share": 0.02608695652173913
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 8,
+    "share": 0.034782608695652174
+   },
+   "A=440": {
+    "within_1.5c": 12,
+    "share": 0.05217391304347826
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 11,
+    "share": 0.04782608695652174
+   }
+  },
+  "Norwich": {
+   "n": 141,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 4,
+    "share": 0.028368794326241134
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 4,
+    "share": 0.028368794326241134
+   },
+   "A=440": {
+    "within_1.5c": 5,
+    "share": 0.03546099290780142
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 4,
+    "share": 0.028368794326241134
+   }
+  },
+  "Pennington": {
+   "n": 132,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 1,
+    "share": 0.007575757575757576
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 1,
+    "share": 0.007575757575757576
+   },
+   "A=440": {
+    "within_1.5c": 5,
+    "share": 0.03787878787878788
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 5,
+    "share": 0.03787878787878788
+   }
+  },
+  "London": {
+   "n": 89,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 3,
+    "share": 0.033707865168539325
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.033707865168539325
+   },
+   "A=440": {
+    "within_1.5c": 1,
+    "share": 0.011235955056179775
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 1,
+    "share": 0.011235955056179775
+   }
+  },
+  "Purdue": {
+   "n": 87,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 2,
+    "share": 0.022988505747126436
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 2,
+    "share": 0.022988505747126436
+   },
+   "A=440": {
+    "within_1.5c": 3,
+    "share": 0.034482758620689655
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 5,
+    "share": 0.05747126436781609
+   }
+  },
+  "Bagley": {
+   "n": 82,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 4,
+    "share": 0.04878048780487805
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 2,
+    "share": 0.024390243902439025
+   },
+   "A=440": {
+    "within_1.5c": 2,
+    "share": 0.024390243902439025
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 1,
+    "share": 0.012195121951219513
+   }
+  },
+  "York": {
+   "n": 80,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 2,
+    "share": 0.025
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.0375
+   },
+   "A=440": {
+    "within_1.5c": 2,
+    "share": 0.025
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 4,
+    "share": 0.05
+   }
+  },
+  "Leicester": {
+   "n": 79,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 3,
+    "share": 0.0379746835443038
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.0379746835443038
+   },
+   "A=440": {
+    "within_1.5c": 1,
+    "share": 0.012658227848101266
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.0379746835443038
+   }
+  },
+  "Hugh II Watts": {
+   "n": 77,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 3,
+    "share": 0.03896103896103896
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.03896103896103896
+   },
+   "A=440": {
+    "within_1.5c": 4,
+    "share": 0.05194805194805195
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   }
+  },
+  "Salisbury": {
+   "n": 75,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 2,
+    "share": 0.02666666666666667
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=440": {
+    "within_1.5c": 1,
+    "share": 0.013333333333333334
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 1,
+    "share": 0.013333333333333334
+   }
+  },
+  "Reading": {
+   "n": 70,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 2,
+    "share": 0.02857142857142857
+   },
+   "A=440": {
+    "within_1.5c": 7,
+    "share": 0.1
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.04285714285714286
+   }
+  },
+  "Bristol C19th": {
+   "n": 60,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 3,
+    "share": 0.05
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 1,
+    "share": 0.016666666666666666
+   },
+   "A=440": {
+    "within_1.5c": 3,
+    "share": 0.05
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   }
+  },
+  "Chepstow": {
+   "n": 58,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 2,
+    "share": 0.034482758620689655
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 3,
+    "share": 0.05172413793103448
+   },
+   "A=440": {
+    "within_1.5c": 1,
+    "share": 0.017241379310344827
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 1,
+    "share": 0.017241379310344827
+   }
+  }
+ },
+ "by_country": {
+  "England": {
+   "n": 6152,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 276,
+    "share": 0.044863459037711315
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 175,
+    "share": 0.028446033810143042
+   },
+   "A=440": {
+    "within_1.5c": 342,
+    "share": 0.055591677503250975
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 166,
+    "share": 0.026983094928478543
+   }
+  },
+  "Wales": {
+   "n": 181,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 5,
+    "share": 0.027624309392265192
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 5,
+    "share": 0.027624309392265192
+   },
+   "A=440": {
+    "within_1.5c": 8,
+    "share": 0.04419889502762431
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 8,
+    "share": 0.04419889502762431
+   }
+  },
+  "Australia": {
+   "n": 68,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 1,
+    "share": 0.014705882352941176
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 6,
+    "share": 0.08823529411764706
+   },
+   "A=440": {
+    "within_1.5c": 8,
+    "share": 0.11764705882352941
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 0,
+    "share": 0.0
+   }
+  }
+ },
+ "spike435_top_nominals": [
+  [
+   732.0,
+   35
+  ],
+  [
+   690.0,
+   24
+  ],
+  [
+   691.0,
+   21
+  ],
+  [
+   870.0,
+   19
+  ],
+  [
+   775.0,
+   17
+  ],
+  [
+   652.0,
+   16
+  ],
+  [
+   821.0,
+   11
+  ],
+  [
+   731.0,
+   10
+  ],
+  [
+   774.5,
+   8
+  ],
+  [
+   581.0,
+   7
+  ],
+  [
+   820.5,
+   7
+  ],
+  [
+   821.5,
+   6
+  ],
+  [
+   615.0,
+   6
+  ],
+  [
+   922.0,
+   6
+  ],
+  [
+   869.5,
+   5
+  ]
+ ],
+ "spike435_by_foundry": [
+  [
+   "Loughborough",
+   83
+  ],
+  [
+   "Whitechapel",
+   45
+  ],
+  [
+   "Gillett",
+   27
+  ],
+  [
+   "Rudhall",
+   18
+  ],
+  [
+   "Warner",
+   14
+  ],
+  [
+   "Nottingham",
+   13
+  ],
+  [
+   "West Country",
+   6
+  ],
+  [
+   "Bagley",
+   4
+  ]
+ ],
+ "spike435_by_cast_25y": {
+  "1425": 3,
+  "1450": 2,
+  "1475": 1,
+  "1500": 4,
+  "1550": 3,
+  "1575": 4,
+  "1600": 14,
+  "1625": 13,
+  "1650": 11,
+  "1675": 8,
+  "1700": 15,
+  "1725": 13,
+  "1750": 12,
+  "1775": 6,
+  "1800": 13,
+  "1825": 14,
+  "1850": 20,
+  "1875": 25,
+  "1900": 23,
+  "1925": 44,
+  "1950": 27,
+  "1975": 5,
+  "2000": 7
+ },
+ "whole_hz": {
+  "rings": 4540,
+  "table": {
+   "n": 4540,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 202,
+    "share": 0.04449339207048458
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 130,
+    "share": 0.028634361233480177
+   },
+   "A=440": {
+    "within_1.5c": 257,
+    "share": 0.0566079295154185
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 123,
+    "share": 0.02709251101321586
+   }
+  },
+  "not_whole_table": {
+   "n": 2009,
+   "A=435 (diapason normal)": {
+    "within_1.5c": 85,
+    "share": 0.042309606769537086
+   },
+   "A=439 (new philharmonic)": {
+    "within_1.5c": 70,
+    "share": 0.03484320557491289
+   },
+   "A=440": {
+    "within_1.5c": 125,
+    "share": 0.06222000995520159
+   },
+   "A=452.4 (old philharmonic)": {
+    "within_1.5c": 58,
+    "share": 0.02887008461921354
+   }
+  }
+ },
+ "spike440_top_nominals": [
+  [
+   784.0,
+   34
+  ],
+  [
+   740.0,
+   32
+  ],
+  [
+   880.0,
+   26
+  ],
+  [
+   698.0,
+   23
+  ],
+  [
+   830.0,
+   19
+  ],
+  [
+   699.0,
+   15
+  ],
+  [
+   932.0,
+   15
+  ],
+  [
+   659.0,
+   14
+  ],
+  [
+   932.5,
+   9
+  ],
+  [
+   831.0,
+   9
+  ],
+  [
+   740.5,
+   9
+  ],
+  [
+   698.5,
+   9
+  ]
+ ],
+ "spike440_by_foundry": [
+  [
+   "Whitechapel",
+   129
+  ],
+  [
+   "Loughborough",
+   87
+  ],
+  [
+   "Warner",
+   21
+  ],
+  [
+   "Rudhall",
+   17
+  ],
+  [
+   "Gillett",
+   12
+  ],
+  [
+   "West Country",
+   12
+  ]
+ ],
+ "spike440_by_cast_25y": {
+  "1150": 1,
+  "1350": 1,
+  "1400": 1,
+  "1450": 3,
+  "1475": 3,
+  "1525": 1,
+  "1575": 7,
+  "1600": 8,
+  "1625": 16,
+  "1650": 11,
+  "1675": 8,
+  "1700": 12,
+  "1725": 15,
+  "1750": 12,
+  "1775": 14,
+  "1800": 19,
+  "1825": 21,
+  "1850": 30,
+  "1875": 43,
+  "1900": 27,
+  "1925": 8,
+  "1950": 33,
+  "1975": 64,
+  "2000": 23
+ }
+}
