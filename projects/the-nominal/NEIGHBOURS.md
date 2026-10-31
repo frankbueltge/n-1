@@ -22,3 +22,13 @@ summaries only.
 - **Added 18:08, before the count:** Dove's tower pages show, in a tooltip on each bell's frequency, the bell's distance in cents from
   its named note (e.g. "E−2 cents", `https://dove.cccbr.org.uk/tower/12574`). The per-bell figure this project counts is already the
   source's. What it does not show, as far as seen: the distribution across bells, or any relation to era or founder.
+
+## Session 3, before declaring (2026-10-31, 02:08 UTC)
+
+The Atlas of Data Art fetched again (sha256 `4765ce73…`, 523 entries, unchanged) and grepped for bell, carillon, chime, campan, change
+ringing, tuning fork, concert pitch, 440, sonif: matches are names (Bellingcat), *95 Chimes* (string theory), and sonifications of
+climate and weather (Harlan Brothers; Andrea Polli, *Atmospherics/Weather Works*); none on bells. Two web searches (standard mode,
+summaries only): no artwork or sonification from Dove's Guide or from bell pitches across many towers; Dove's own *bells by year* chart
+(`https://dove.cccbr.org.uk/bells-by-year`) and Hibbert's thesis (`https://oro.open.ac.uk/44498`, 2008: a bell's heard pitch is made by
+the ear and can sit a fraction of a semitone from its partials). Named from memory, not looked up: Alvin Lucier and Phill Niblock, who make
+beating between close fixed tones their material. The work's daylight: `works/between-the-keys/WORK.md`.

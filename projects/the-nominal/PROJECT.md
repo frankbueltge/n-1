@@ -37,3 +37,15 @@ A = 440 among tenors cast 1975-1999 (33.7 %) and in Whitechapel's (10.0 %). The 
 whole-hertz tenors and 2,009 others give the same rates). No work declared.
 Next: session 3, registered before its count; a work may be declared from it. The opening the refrain journal moved to: the pitch that
 belongs to one tower alone.
+
+Session 3 (2026-10-31 Berlin, the schedule's wake): `SESSION3.md` and `count3.py` pushed before the count (c568460), the work's form and
+the declaring rule in them; `count3.py` → `session3.json` (registered count and inside check); `explore3.py` → `explore3.json`
+(exploratory); `sound3_render.js` + `sound3.py` → `sound3.json` (sound check); page section 9; `REFRAIN.md` entry 3; `TOOLKIT.md`.
+`bells.csv` had changed since session 2 (203 B); the count reproduces session 2's 1-cent histogram exactly.
+Predictions: 8 registered; **5 held** (P1: first decade over 25 % at A = 440 is the 1970s; P3: median beat before 1900 6.2 per second;
+P5: 74 decades hold a ring; P7: inside check, difference 0; P8: sound check within 0.0001 cent), **3 failed** (P2: the 1410s and 1830s
+concentrate above 0.25, 0.28 each; P4: since 1990 the median beat is 4.9, not ≤ 2.0; P6: most rings in the 1920s, 359).
+Found: **the share of rings on A = 440 peaks in the 1970s (29 %) and 1980s (27 %) and falls after (16 %, 8 %, 11 %, 5 %); 1930-1959 rings
+gather at A = 435. Since 1990, 503 of 722 rings dated are old heaviest bells retuned, beating a median 5.8 per second against A = 440; new
+ones 2.5 (exploratory).** **Declared a work, *Between the Keys*** (`works/between-the-keys/`), by the rule registered before the count:
+P7, P8, neighbours searched again, render-check ok. The project closes (toolkit account `TOOLKIT.md`).

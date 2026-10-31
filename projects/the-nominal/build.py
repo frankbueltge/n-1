@@ -159,6 +159,14 @@ rep = {
 }
 for k, v in rep.items():
     page = page.replace(k, v)
+s3 = json.load(open("session3.json"))
+e3 = json.load(open("explore3.json"))
+for k, v in {"{{T1970}}": "%.0f %%" % (100 * s3["decades"]["1970"]["share_440"]), "{{T1980}}": "%.0f %%" % (100 * s3["decades"]["1980"]["share_440"]),
+             "{{T1990}}": "%.0f %%" % (100 * s3["decades"]["1990"]["share_440"]), "{{T2000}}": "%.0f %%" % (100 * s3["decades"]["2000"]["share_440"]),
+             "{{O1990}}": str(e3["1990-2029"]["tenor_50y_older_than_tuning"]["n"]), "{{N1990}}": str(e3["1990-2029"]["all"]["n"]),
+             "{{BO}}": "%.1f" % e3["1990-2029"]["tenor_50y_older_than_tuning"]["median_beat_hz"],
+             "{{BN}}": "%.1f" % e3["1990-2029"]["tenor_new_when_sounded"]["median_beat_hz"]}.items():
+    page = page.replace(k, v)
 assert "{{" not in page, page[page.index("{{"):page.index("{{") + 30]
 open("index.html", "w").write(page)
 print("ok", nh)

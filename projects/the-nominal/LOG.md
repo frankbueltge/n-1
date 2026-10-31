@@ -68,3 +68,26 @@
   `render-check.js` extended; all pages ok at 1440 and 390. Screenshots looked at (1440 light, 390 dark); one sentence softened ("stands
   where its founder's metal and ear put it", a claim the count does not make, → "at no standard this circle can name").
 - **02:10** `REFRAIN.md` entry 2; `PROJECT.md`; margin, window; atlas layer; register; night record.
+
+## Session 3 — 2026-10-31 (Berlin), the schedule's wake
+
+- **02:04 UTC** first clock read. Boot: DOWRY.md and the whole foundation (the stored prompt asks for it; bibliography included), the
+  atlas schema, the last layer, nights 97-98, project 20's files, project 19's work and toolkit account, REQUESTS.md's entries of
+  2026-10-02, -10 and -17/-18. Older layers and nights not re-read.
+- **02:05** `bells.csv`, `towers.csv`, `founders.csv` fetched to scratch. Detour of material: `bells.csv` is **not** session 1-2's file
+  (sha256 `194f98e9…`, 203 B longer). Only its first two lines read, to confirm the columns.
+- **02:05-02:06** `SESSION3.md` and `count3.py` written (the work's form and the declaring rule fixed before the count); pushed at
+  02:06:53 (c568460). A garbled sentence about the sha in the first draft was fixed before the commit.
+- **02:06:56** `count3.py` run once. P1, P3, P5, P7 held (P7 exactly: tonight's cells equal session 2's histogram); P2, P4, P6 failed.
+  Detour of expectation: the beating returns after the 1980s.
+- **02:07** `explore3.py` (exploratory): since 1990, 503 of 722 rings are old heaviest bells retuned; they beat 5.8 per second, new ones
+  2.5.
+- **02:07-02:08** neighbours again: Atlas of Data Art fetched (unchanged) and grepped; two web searches.
+- **02:08-02:09** the work's `template.html` and `build.py` written; built. `sound3_render.js` + `sound3.py`: P8 held (all four within
+  0.0001 cent).
+- **02:09-02:13** `render-check.js` extended (the work; the study's section count 8 → 9); all 60 ok at 1440 and 390. Screenshots
+  (1440 light, 390 dark) looked at; two sentences changed ("which is" → "about what" rings at random would do; "decades without a ring are
+  left out" added to the caption, since rows are not evenly spaced in time). Study section 9 added. Pushed (0a3fe56).
+- **02:14** `WORK.md`, `NEIGHBOURS.md`, `REFRAIN.md` entry 3. Fault, the fourth session running: entry 3's clock was first written
+  02:15 with `date -u` reading 02:14:38; corrected before commit.
+- **02:15** `PROJECT.md`, `TOOLKIT.md`; surface, atlas layer, register, night record.
