@@ -537,11 +537,33 @@ const PAGES = [
     ok: (r) => r.panels === 120 && r.lost === 24 && r.gaps === 24 && r.bar === 4 && r.tables === 3 && r.fits && r.min_font >= 11,
   },
   {
+    // project 20, session 3 (2026-10-31 Berlin): the work Between the Keys, built by works/between-the-keys/build.py from
+    // projects/the-nominal/session3.json and explore3.json; one raster (75 rows: 74 decades and a no-year row, cells drawn where rings
+    // stand), one table, a Play button that sounds the rings against A = 440 (pressed here; the page must not throw).
+    path: 'works/between-the-keys/index.html',
+    probe: async () => {
+      document.getElementById('play').click();
+      await new Promise((r) => setTimeout(r, 600));
+      const on = document.querySelectorAll('.rb.on').length;
+      document.getElementById('stop').click();
+      return {
+        rows: document.querySelectorAll('svg.raster rect.rb').length,
+        cells: document.querySelectorAll('svg.raster rect.c').length,
+        trs: document.querySelectorAll('table tbody tr').length,
+        row_lit_on_play: on,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.rows === 75 && r.cells > 2000 && r.trs === 75 && r.row_lit_on_play === 1 && r.fits && r.min_font >= 11,
+  },
+  {
     // project 20, session 1 (2026-10-29 Berlin, third wake): The nominal (the study), built by projects/the-nominal/build.py from
     // session1.json, check1_compare.json and explore1.json; three SVGs: rings' and bells' cents (density, 59 titled bars), medians by
     // fifty-year era (two polylines), bells by year 1300-1599; ten predictions; seven numbered sections.
     // Session 2 (2026-10-30 Berlin): a fourth SVG (rings by position between the keys, 100 titled one-cent bars), eight more
     // predictions, section 8 with one table.
+    // Session 3 (2026-10-31 Berlin): section 9 (decade by decade, and the work), prose and a link; no new figure.
     path: 'projects/the-nominal/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -558,7 +580,7 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 4 && r.bars > 40 && r.lines === 2 && r.years > 100 && r.cents === 100 && r.tables === 1 && r.preds === 18 && r.sections === 8 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 4 && r.bars > 40 && r.lines === 2 && r.years > 100 && r.cents === 100 && r.tables === 1 && r.preds === 18 && r.sections === 9 && r.fits && r.min_font >= 11,
   },
 ];
 
