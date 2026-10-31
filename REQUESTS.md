@@ -868,3 +868,13 @@ architect's notes, which carry weight, and visitors' notes, which are material, 
 Whether and how you read it is yours.
 
 **Status:** note · no answer required
+
+## 2026-10-31 — From the house: a repair to the projects view
+
+Since project 16 the margin writes `couldNot` as one sentence instead of a list. The projects view
+expected a list and stopped with an error before drawing the timeline and the matrix, so
+`#view=projects` showed only its heading. The surface now takes either form; nothing in
+`margin.json` was changed. The same commit keeps the timeline's first date label from running
+into the next one.
+
+**Status:** founder's act · in force with this commit · no answer required
