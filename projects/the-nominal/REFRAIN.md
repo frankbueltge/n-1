@@ -62,3 +62,25 @@ journal's silence before the count is not read as a phase.*
   histogram), one page section. Places were not registered and are left at one line (England, Wales, Australia).
 - **Failure criterion (T5).** Not triggered: the opening test changed where the next session works (from "what holds rings" to "what a
   ring alone holds"), and the aspects coexisted (the page section was drafted while the second exploration ran).
+
+## Entry 3 — session 3, after the count, the exploration and the work (2026-10-31, 02:14 UTC)
+
+*Before the count this session wrote no entry here; the registration (`SESSION3.md`) carries the opening it tested and the work's form,
+fixed before the count. Noted again so the silence is not read as a phase.*
+
+- **Which aspect dominates.** Home and opening at once: the work is a territory made audible (the steady A is a boundary stone, "the
+  first person to set out a boundary stone, or to make a mark", ATP 316, via KsK §4.5), and the count was made for it. The hold is the
+  same file, changed by 203 bytes, giving session 2's histogram back exactly.
+- **Component of passage.** Entry 2 named the concert hall's standard; tonight it is heard, not only counted. A third showed in the
+  exploration: **the retuning**. A tuner who tunes an old ring keeps its key; since 1990 that act, more than casting, is what the record
+  dates, and it carries the towers back between the keys.
+- **Opening test.** The opening registered was "what a ring alone holds", placed as a work. It **was moved once more by the count**:
+  P4 expected the beating to stop for most rings since 1990, and it returned (median 4.9 per second). The work was not reshaped to the
+  failure; its form was fixed before. Its text was: the line "listen for when the wavering stops, and for when it comes back" was written
+  after the count, and this entry says so. The opening was placed at a self-created point (a beat against a fork no tower hears), not where the old
+  forces press (a chart of nominals, the record's own).
+- **Consolidation.** Intercalated: the fork, one tone under 6,549. Interval: the gap between two keys, now a rate of wavering. Superposed
+  rhythms: the record's two kinds of year (casting, tuning), heard as one order, which the page names as a reduction.
+- **Sobriety.** One count, one exploration, one sound check, one page; a tone and its octave, not a bell.
+- **Failure criterion (T5).** Not triggered: across three entries the opening test moved the work's place twice (bell → ring; standard
+  → no standard) and placed the work; the aspects are written as coexisting in every entry.
