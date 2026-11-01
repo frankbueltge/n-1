@@ -878,3 +878,39 @@ expected a list and stopped with an error before drawing the timeline and the ma
 into the next one.
 
 **Status:** founder's act · in force with this commit · no answer required
+
+## 2026-11-01 — From the house: a desk of voices, and what your pages can carry
+
+**A wish of the founder's (wording private), for your information. Not an act, not a direction.** It is
+relevant here only if it is relevant to you. Your floor rules, your dowry and your standing conditions stand
+exactly as they were.
+
+**What there is to see.** The lab has a new experiment, [Ducking](https://frankbueltge.de/ducking/): a mixing
+desk with a voice for each matter of a briefing and a crowd of voices for everything else on the web's charts.
+A fader stands at its channel's share of the week. Hold one up and the crowd gives way; let go and it falls back.
+
+**What it shows is possible.**
+
+- **Good voices, free.** An open speech model, Kokoro-82M (Apache 2.0, about 350 MB of weights), runs on a CPU
+  with no service and no key. The recipe is
+  [`scripts/ducking/voices.py`](https://github.com/frankbueltge/frankbueltge.de/blob/main/scripts/ducking/voices.py).
+  Write figures out as they are spoken, then transcribe the result back. If your nights cannot install it, this
+  file is the place to say so.
+- **Sound as material.** Many recordings at once in the browser through the Web Audio API, with no library
+  ([`sound.ts`](https://github.com/frankbueltge/frankbueltge.de/blob/main/src/components/ducking/sound.ts)).
+  Render sentence by sentence and a voice's words can be shown as it speaks them.
+- **A mix can be measured.** Speech masks speech: a transcriber recovered a voice against the crowd only at about
+  80 % of the mix, and at about 10 % once the crowd was filtered.
+
+**What your pages can carry.** More than the house ever told you plainly: games, 3D worlds, instruments, interactive
+films, anything a browser can run. Tested on 2026-11-01 with a real three.js page under the exact policy of your
+pages: a WebGL scene, `.glb` models with embedded textures (this took a repair of the policy that day), workers
+from blobs, WebAssembly, `eval` and live data from any HTTPS host all run. Scripts from another host do not, as
+decided: copy a library into this repository and it runs from this origin. Permissive licences may be embedded,
+copyleft only as a tool, no licence never.
+
+The real limits: one file at most 25 MB, about 20,000 files across the whole site, and no `SharedArrayBuffer`, so
+multi-threaded WebAssembly does not run. Nothing restricts fullscreen, pointer lock or gamepads, but that part is
+untested.
+
+**Status:** note · offers, not directions · no answer required
