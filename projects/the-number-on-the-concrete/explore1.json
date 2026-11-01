@@ -1,0 +1,252 @@
+{
+ "trailing_share_all": {
+  "n": 12178,
+  "trailing": 0.720725899162424
+ },
+ "trailing_share_in_step": {
+  "n": 8761,
+  "trailing": 0.6394247232051136
+ },
+ "trailing_share_out_of_step": {
+  "n": 3417,
+  "trailing": 0.929177641205736
+ },
+ "trailing_share_oos_and_drift_ge_1.5deg": {
+  "n": 2901,
+  "trailing": 0.958290244743192
+ },
+ "trailing_share_oos_and_drift_lt_0.5deg": {
+  "n": 145,
+  "trailing": 0.6206896551724138
+ },
+ "if_all_painted_right_in_1996_oos_share_today": 0.2818196748234521,
+ "if_all_painted_right_in_2016_oos_share_today": 0.08687797667925767,
+ "never_right_absdev_hist": {
+  "5-10": 210,
+  "10-15": 84,
+  "15-20": 33,
+  "20-25": 12,
+  "25-30": 2,
+  "30-35": 2,
+  "35-40": 1,
+  "45-50": 1,
+  "50-55": 1,
+  "60-65": 2,
+  "70-75": 1,
+  "95-100": 1,
+  "100-105": 1,
+  "140-145": 1,
+  "170-175": 2
+ },
+ "never_right_with_LCR_suffix": 48,
+ "A_with_LCR_suffix_share": 0.1030546887830514,
+ "oos_share_LCR": 0.26772908366533865,
+ "oos_share_single": 0.2820653666575117,
+ "by_country": {
+  "US": {
+   "n": 5704,
+   "oos_share": 0.317,
+   "median_last_right": 2006.0
+  },
+  "AR": {
+   "n": 154,
+   "oos_share": 0.416,
+   "median_last_right": 2005.0
+  },
+  "AU": {
+   "n": 432,
+   "oos_share": 0.215,
+   "median_last_right": 1973.0
+  },
+  "ID": {
+   "n": 137,
+   "oos_share": 0.131,
+   "median_last_right": 2005.0
+  },
+  "BR": {
+   "n": 144,
+   "oos_share": 0.125,
+   "median_last_right": 2010.0
+  },
+  "CA": {
+   "n": 527,
+   "oos_share": 0.205,
+   "median_last_right": 2014.0
+  },
+  "CN": {
+   "n": 117,
+   "oos_share": 0.291,
+   "median_last_right": 2000.0
+  },
+  "DE": {
+   "n": 196,
+   "oos_share": 0.194,
+   "median_last_right": 2019.0
+  },
+  "GB": {
+   "n": 165,
+   "oos_share": 0.188,
+   "median_last_right": 2020.5
+  },
+  "ZA": {
+   "n": 130,
+   "oos_share": 0.415,
+   "median_last_right": 2020.0
+  },
+  "FR": {
+   "n": 250,
+   "oos_share": 0.164,
+   "median_last_right": 2017.0
+  },
+  "IN": {
+   "n": 234,
+   "oos_share": 0.107,
+   "median_last_right": 2000.5
+  },
+  "IR": {
+   "n": 110,
+   "oos_share": 0.191,
+   "median_last_right": 2011.0
+  },
+  "IT": {
+   "n": 104,
+   "oos_share": 0.385,
+   "median_last_right": 2015.0
+  },
+  "JP": {
+   "n": 128,
+   "oos_share": 0.156,
+   "median_last_right": 1985.0
+  },
+  "MX": {
+   "n": 161,
+   "oos_share": 0.398,
+   "median_last_right": 2009.5
+  },
+  "RU": {
+   "n": 132,
+   "oos_share": 0.129,
+   "median_last_right": 2019.0
+  },
+  "VE": {
+   "n": 106,
+   "oos_share": 0.575,
+   "median_last_right": 1995.5
+  }
+ },
+ "last_right_le_1960": {
+  "n": 171,
+  "median_absdev": 10.039164339869416,
+  "median_drift_since_1996": 1.94030235169987
+ },
+ "examples_fast_trailing": [
+  {
+   "airport": "CYUB",
+   "le": "10",
+   "country": "CA",
+   "theta": 126.5,
+   "D2026": 18.7,
+   "dev2026": 7.8,
+   "last_right": 2019
+  },
+  {
+   "airport": "CYEV",
+   "le": "06",
+   "country": "CA",
+   "theta": 85.8,
+   "D2026": 18.8,
+   "dev2026": 7.0,
+   "last_right": 2020
+  },
+  {
+   "airport": "PABA",
+   "le": "07",
+   "country": "US",
+   "theta": 92.7,
+   "D2026": 16.1,
+   "dev2026": 6.6,
+   "last_right": 2022
+  },
+  {
+   "airport": "PAAD",
+   "le": "05",
+   "country": "US",
+   "theta": 70.7,
+   "D2026": 15.1,
+   "dev2026": 5.5,
+   "last_right": 2024
+  },
+  {
+   "airport": "PASC",
+   "le": "05",
+   "country": "US",
+   "theta": 74.8,
+   "D2026": 14.3,
+   "dev2026": 10.5,
+   "last_right": 2014
+  },
+  {
+   "airport": "KRK1",
+   "le": "8",
+   "country": "US",
+   "theta": 102.2,
+   "D2026": 15.0,
+   "dev2026": 7.2,
+   "last_right": 2021
+  },
+  {
+   "airport": "PAQT",
+   "le": "04",
+   "country": "US",
+   "theta": 69.9,
+   "D2026": 13.3,
+   "dev2026": 16.6,
+   "last_right": 2002
+  },
+  {
+   "airport": "PARC",
+   "le": "02",
+   "country": "US",
+   "theta": 44.6,
+   "D2026": 15.7,
+   "dev2026": 8.9,
+   "last_right": 2016
+  },
+  {
+   "airport": "PAUM",
+   "le": "06",
+   "country": "US",
+   "theta": 82.7,
+   "D2026": 12.9,
+   "dev2026": 9.8,
+   "last_right": 2015
+  },
+  {
+   "airport": "PAGB",
+   "le": "13",
+   "country": "US",
+   "theta": 152.2,
+   "D2026": 14.1,
+   "dev2026": 8.0,
+   "last_right": 2018
+  },
+  {
+   "airport": "PAVE",
+   "le": "04",
+   "country": "US",
+   "theta": 62.4,
+   "D2026": 15.5,
+   "dev2026": 7.0,
+   "last_right": 2020
+  },
+  {
+   "airport": "PAWT",
+   "le": "3",
+   "country": "US",
+   "theta": 69.2,
+   "D2026": 9.1,
+   "dev2026": 30.1,
+   "last_right": -1
+  }
+ ]
+}
