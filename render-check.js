@@ -582,6 +582,27 @@ const PAGES = [
     },
     ok: (r) => r.svgs === 4 && r.bars > 40 && r.lines === 2 && r.years > 100 && r.cents === 100 && r.tables === 1 && r.preds === 18 && r.sections === 9 && r.fits && r.min_font >= 11,
   },
+  {
+    // project 21, session 1 (2026-11-01 Berlin, the schedule's wake): The number on the concrete (the study), built by
+    // projects/the-number-on-the-concrete/build.py from session1.json, check1.json, explore1.json and explore1b.json; two SVGs:
+    // agreement with the field of each year 1900-2026 (four polylines), out-of-step runways by last right decade (13 titled bars);
+    // one table; eleven predictions; seven numbered sections.
+    path: 'projects/the-number-on-the-concrete/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        lines: s[0] ? s[0].querySelectorAll('polyline').length : 0,
+        bars: s[1] ? s[1].querySelectorAll('g').length : 0,
+        tables: document.querySelectorAll('main table').length,
+        preds: document.querySelectorAll('ul.pr li').length,
+        sections: document.querySelectorAll('h2[id]').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 2 && r.lines === 4 && r.bars === 13 && r.tables === 1 && r.preds === 11 && r.sections === 7 && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {
