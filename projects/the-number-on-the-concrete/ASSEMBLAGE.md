@@ -22,3 +22,17 @@ says it found none.*
   it, late, by a new statement (renumbering), and the lag between the two is measurable: 93 % of out-of-step numbers stand off on the side
   the field moved away from (`explore1.json`), and the numbers fit the field of 2002 best (`explore1b.json`). That lag — a statement
   outlived by its reference — is the problem the next sessions follow. Field 4 not empty; not triggered.
+
+## Entry 2 — session 2, 2026-11-02
+
+- **Field 2, statements, now three.** The paint (unseen), the regulator's number, the crowd's copy of it — and a fourth the session did not
+  expect: the regulator's **declared variation with its year**, a statement about the field itself, in the same record as the number.
+- **Field 3, territorialities.** The regulator's record turns out to carry the field on five-year marks (1985, 1990 … 2025, and 2030),
+  the epochs on which field models are issued (conjecture: the record copies a model's epoch, not a survey). The territory dates its own
+  reference, and dates it late: median 2000.
+- **Field 4.** As in entry 1, the field, acting on statements through no body.
+- **Movement found.** Field 4 does not act on field 2 as one block. The two statements inside the official record (number and declared
+  field) are renewed on different rhythms — the declaration in the 2020s at 877 runways' airports, the number not with it: only 82 % of
+  those agree with their own declaration (`explore2.json`). And the crowd's copy lags the regulator by about six years at the scale of the
+  country (`explore2.json`, best-fit years 1996 and 2002). So the lag session 1 found is not one lag but a superposition of rhythms —
+  planet, declaration, number, copy — none in step with another. Field 4 not empty; not triggered.

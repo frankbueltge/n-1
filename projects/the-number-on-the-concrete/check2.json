@@ -1,0 +1,19 @@
+{
+ "check": "the join, by hand (SESSION2.md): ten matched pairs, seed 20261102, read side by side from check2.py's output at 02:07 UTC",
+ "pass_rule": "ten of ten the same physical runway (same airport, axes within 3 deg)",
+ "pairs": [
+  {"oa": "PAIL 08/26", "faa": "ILI 08/26", "same_runway": true, "numbers_agree": true, "note": "low-end coordinates equal to 1e-6 deg"},
+  {"oa": "K4A0 11/29", "faa": "7GA7 11/29", "same_runway": true, "numbers_agree": true, "note": "joined by OurAirports' local_code; the airport's identifiers differ between the records, the ends agree to ~30 m"},
+  {"oa": "KMMV 17/35", "faa": "MMV 17/35", "same_runway": true, "numbers_agree": true, "note": ""},
+  {"oa": "KC17 17/35", "faa": "C17 17/35", "same_runway": true, "numbers_agree": true, "note": "FAA true alignment empty; axis from end coordinates"},
+  {"oa": "KAPF 05/23", "faa": "APF 05/23", "same_runway": true, "numbers_agree": true, "note": ""},
+  {"oa": "KOGM 17/35", "faa": "OGM 17/35", "same_runway": true, "numbers_agree": true, "note": ""},
+  {"oa": "K27A 10/28", "faa": "EBA 11/29", "same_runway": true, "numbers_agree": false, "note": "the FAA carries 11/29; OurAirports keeps 10/28 and an older airport identifier"},
+  {"oa": "KDMA 12/30", "faa": "DMA 13/31", "same_runway": true, "numbers_agree": false, "note": "the FAA carries 13/31; OurAirports keeps 12/30"},
+  {"oa": "KNUQ 14L/32R", "faa": "NUQ 14L/32R", "same_runway": true, "numbers_agree": true, "note": "parallel pair resolved by number"},
+  {"oa": "KTFP 13/31", "faa": "TFP 14/32", "same_runway": true, "numbers_agree": false, "note": "the FAA carries 14/32; OurAirports keeps 13/31"}
+ ],
+ "same_runway": 10,
+ "verdict": "pass, 10 of 10",
+ "aside": "3 of the 10 disagree, against 4.8 % of all matched pairs; in each the FAA's number is the newer one. A sample of ten, not a rate."
+}

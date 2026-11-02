@@ -1,9 +1,11 @@
-"""Project 21: builds index.html (the study page) from session1.json, check1.json, explore1.json and explore1b.json.
+"""Project 21: builds index.html (the study page) from session1.json, check1.json, explore1.json, explore1b.json,
+session2.json, check2.json and explore2.json.
 Every figure on the page is drawn from those files; nothing is fetched at load. Usage: python3 build.py"""
 import json, html
 
 s1 = json.load(open('session1.json')); ck = json.load(open('check1.json'))
 e1 = json.load(open('explore1.json')); e2 = json.load(open('explore1b.json'))
+s2 = json.load(open('session2.json')); c2 = json.load(open('check2.json')); x2 = json.load(open('explore2.json'))
 
 
 def pct(x, d=0):
@@ -55,6 +57,30 @@ def fig_decades():
     return ''.join(out)
 
 
+def fig_us():
+    W, H, L, R, T, B = 900, 340, 56, 20, 20, 44
+    ys = list(range(1960, 2027)); y0, y1 = 0.5, 0.9
+    X = lambda y: L + (y - 1960) / 66 * (W - L - R)
+    Y = lambda v: T + (y1 - v) / (y1 - y0) * (H - T - B)
+    out = [f'<svg class="ch" viewBox="0 0 {W} {H}" role="img" aria-labelledby="f3t"><title id="f3t">United States, {s2["matched"]:,} runways '
+           f'found in both records: share of numbers right for the field of each year, 1960 to 2026, with the crowd-kept record\'s numbers '
+           f'and with the regulator\'s</title><defs><clipPath id="pb"><rect x="{L}" y="{T}" width="{W-L-R}" height="{H-T-B}"/></clipPath></defs>']
+    for v in (0.5, 0.6, 0.7, 0.8, 0.9):
+        out.append(f'<line class="ax" x1="{L}" x2="{W-R}" y1="{Y(v):.1f}" y2="{Y(v):.1f}"/>'
+                   f'<text class="yr" x="{L-8}" y="{Y(v)+5:.1f}" text-anchor="end">{int(v*100)}</text>')
+    for y in range(1960, 2030, 10):
+        out.append(f'<text class="yr" x="{X(y):.1f}" y="{H-14}" text-anchor="middle">{y}</text>')
+    for key, cls, lab in (('oa', 'lr', 'OurAirports'), ('faa', 'lt', 'FAA')):
+        cv = x2[f'fit_curve_{key}']; b = x2[f'best_fit_year_{key}']
+        pts = ' '.join(f'{X(int(y)):.1f},{Y(v):.1f}' for y, v in cv.items())
+        out.append(f'<polyline clip-path="url(#pb)" class="{cls}" style="stroke-width:3" points="{pts}"><title>{lab}: best for the field of '
+                   f'{b["year"]}</title></polyline>')
+        out.append(f'<line class="hs" x1="{X(b["year"]):.1f}" x2="{X(b["year"]):.1f}" y1="{T}" y2="{H-B}"/>'
+                   f'<text class="yr" x="{X(b["year"])+(6 if key == "faa" else -6):.1f}" y="{T+16}" text-anchor="{"start" if key == "faa" else "end"}">{lab}: {b["year"]}</text>')
+    out.append('</svg>')
+    return ''.join(out)
+
+
 tr = e1['trailing_share_out_of_step']; tf = e1['trailing_share_oos_and_drift_ge_1.5deg']; ts = e1['trailing_share_oos_and_drift_lt_0.5deg']
 P = [
     (1, 'runways.csv holds at least 40,000 rows', f"{s1['rows']:,}", True),
@@ -74,6 +100,27 @@ P = [
      f"{ck['within_0.2']} of {ck['n']}, largest difference {ck['max_absdiff']}°", True),
 ]
 held = sum(p[3] for p in P)
+d2 = s2['declared']
+P2 = [
+    (1, 'the FAA airport file holds at least 15,000 rows, the runway file at least 18,000', f"{s2['base_rows']:,} and {s2['rwy_rows']:,}", True),
+    (2, 'at least 90 % of US runways are found in the FAA record', pct(s2['matched_share_of_A_US'], 1), False),
+    (3, 'of those, the two records agree on the number for at least 95 %', pct(s2['agree_share'], 1), True),
+    (4, "of OurAirports' out-of-step numbers, the FAA carries the same number for at least 85 %", pct(s2['oos_oa_faa_same_share'], 1), True),
+    (5, "with the FAA's numbers, 25 % to 38 % are out of step today", pct(s2['oos_faa_share'], 1), True),
+    (6, 'at least 80 % of airports declare a variation and its year', pct(d2['share'], 1), True),
+    (7, 'the median declared year lies in 1980 to 2010', f"{d2['year_median']:.0f}", True),
+    (8, 'the declared variation agrees with the field of its own year within 1.0° for at least 80 %', pct(d2['abs_error_at_year_within_1deg_share'], 1), True),
+    (9, "at least 90 % of runways are in step with the field their own airport declares", pct(d2['in_step_against_declared_share'], 1), False),
+    (10, 'the median distance between the declared variation and today\'s field is at least 1.0°', f"{d2['abs_lag_today_median']:.2f}°", True),
+]
+held2 = sum(p[3] for p in P2)
+preds2 = ''.join(f"<li>P{n}: {html.escape(t)}: <b>{v}</b> — {'held' if h else 'failed'}</li>" for n, t, v, h in P2)
+yt = x2['declared_year_top12']
+years_row = ', '.join(f"{y} ({n})" for y, n in sorted(yt.items(), key=lambda kv: -kv[1])[:9])
+by = x2['by_declared_year']
+by_rows = ''.join(f"<tr><td style='text-align:left'>{k.replace('2027-2099', 'after 2026').replace('1985-1985', '1985')}</td><td>{v['n']:,}</td>"
+                  f"<td>{pct(v['oos_faa_share'])}</td><td>{pct(v['in_step_vs_declared_share'])}</td></tr>" for k, v in by.items())
+mv = x2['by_move_since_declared']
 preds = ''.join(f"<li>P{n}: {html.escape(t)}: <b>{v}</b> — {'held' if h else 'failed'}</li>" for n, t, v, h in P)
 cc = e2['by_country']
 rows = ''.join(f"<tr><td style='text-align:left'>{k}</td><td>{v['n']}</td><td>{pct(v['agree_2026'])}</td><td>{v['best_year']}</td>"
@@ -101,7 +148,7 @@ svg.ch .ax{{stroke:var(--line)}}svg.ch .hs{{stroke:var(--mut);stroke-dasharray:4
 table{{border-collapse:collapse;font:14px/1.4 system-ui,sans-serif}}table th,table td{{padding:3px 10px;border-bottom:1px solid var(--line);text-align:right}}
 .conn{{font:13px/1.45 system-ui,sans-serif;color:var(--mut)}}
 </style></head><body><main>
-<p class="sm mut">Project 21, session 1 · a study in the making · 1 November 2026 · not for navigation</p>
+<p class="sm mut">Project 21, sessions 1–2 · a study in the making · 1–2 November 2026 · not for navigation</p>
 <h1>The number on the concrete</h1>
 <p class="big">A runway is named by the direction it points, measured by compass: a runway pointing 087° magnetic is painted
 <b>09</b>. The concrete does not move. The earth's magnetic field does. Read against the field of each year since 1900, the numbers
@@ -158,19 +205,55 @@ the number. {s1['true_designated']['n']} such runways are long enough to read; {
 
 <h2 id="s6">6. What this cannot tell</h2>
 <p>Whether a number in this database is the number painted today. OurAirports is kept by its users; a runway repainted last year and not
-yet edited reads as out of step, so the lag in section 4 is the paint's and the record's together. {s1['never_right']:,} runways
+yet edited reads as out of step, so the lag in section 4 is the paint's and the record's together (section 7 separates the two for the United States). {s1['never_right']:,} runways
 ({pct(s1['never_right_share'], 1)}) fit no field since 1900; most stand 5 to 15° off, where a parallel runway numbered apart, a local
 magnetic anomaly the global model does not hold, or an error in the record could each put them. The ends' coordinates are good: where the
 record also gives a true heading, it agrees with them to a median of {s1['heading_check']['median_absdiff']:.2f}°. The field this study
 computes agrees with the British Geological Survey's IGRF-14 service to {ck['max_absdiff']}° at 20 points.</p>
-<p class="conn">Connects to 2, 3, 4.</p>
+<p class="conn">Connects to 2, 3, 4, 7.</p>
 
-<h2 id="s7">7. Predictions, registered before the count</h2>
+<h2 id="s8">7. Whose lag</h2>
+<p>For the United States a second record exists: the Federal Aviation Administration's own register of every landing facility (the
+NASR subscription, cycle of 29 October 2026). {s2['matched']:,} of the {s2['A_US']:,} US runways read in section 2 can be found in it, the same
+slab in both records (checked by hand for ten: {c2['same_runway']} of 10). The two records agree on the number for
+<b>{pct(s2['agree_share'], 1)}</b>. Of the {s2['oos_oa']:,} numbers the field has left behind in the crowd's record, the regulator carries
+<b>the same number for {pct(s2['oos_oa_faa_same_share'])}</b>; for {s2['oos_oa_faa_differs_and_faa_in_step']} it already carries a newer,
+correct one, which the crowd has not yet copied. Read with the regulator's numbers, {pct(s2['oos_faa_share'])} of these runways are out of
+step today, and the numbers fit the field of <b>{x2['best_fit_year_faa']['year']}</b> best — the crowd's fit {x2['best_fit_year_oa']['year']}.</p>
+<div class="sc">{fig_us()}</div>
+<p class="sm key"><span style="background:var(--t)"></span>the regulator's numbers <span style="background:var(--r)"></span>the crowd's numbers ·
+share right for the field of each year (in %), the same {s2['matched']:,} US runways.</p>
+<p>So the crowd adds about {x2['best_fit_year_faa']['year'] - x2['best_fit_year_oa']['year']} years of lag; the other
+{2026 - x2['best_fit_year_faa']['year']} are in the official record. Whether they are also in the paint, no record can say: the regulator's
+number is a statement of what is painted, not a photograph of it.</p>
+<p class="conn">Connects to 4 (the date) and 8 (the field the regulator declares).</p>
+
+<h2 id="s9">8. The field the regulator declares</h2>
+<p>The FAA's record states, for {pct(d2['share'])} of these airports, a magnetic variation and the year it was taken. The variation is
+accurate for its year — within 1° of the model field for {pct(d2['abs_error_at_year_within_1deg_share'])}, a median
+{d2['abs_error_at_year_median']:.2f}° off. The years are not. Their median is {d2['year_median']:.0f}, and they fall on five-year
+marks: {years_row}. The commonest year is 1985. {x2['declared_years_after_2026'].get('2030', 0)} airports declare the field of 2030, a year
+that has not happened. Today's field stands a median {d2['abs_lag_today_median']:.1f}° from the declared one.</p>
+<div class="sc"><table><tr><th style="text-align:left">declared year</th><th>runways</th><th>out of step today</th><th>in step with the declared field</th></tr>{by_rows}</table></div>
+<p>Where the declaration is old, more numbers are out of step today; but even where it was renewed in the 2020s, one runway in five
+carries a number the field has left behind, and only {pct(by['2020-2026']['in_step_vs_declared_share'])} agree with the field their own
+airport declares: the declaration was renewed and the number was not. Where the field has moved 3° or more since the declared year,
+{pct(mv['3-99']['oos_2026_share'])} of numbers are out of step with today, and {pct(mv['3-99']['oos_vs_declared_share'])} with the
+declared field. The record's two statements — the number and the declared field — hold together better than either holds to the planet.</p>
+<p class="conn">Connects to 1 (the rule), 6 (what this cannot tell) and 7. Section 8 is exploratory except its first three figures, which
+were registered.</p>
+
+<h2 id="s7">9. Predictions, registered before the count</h2>
 <p class="sm">{held} of {len(P)} held. Registration: <a href="https://github.com/frankbueltge/n-1/blob/main/projects/the-number-on-the-concrete/SELECTION.md">SELECTION.md</a>.
 Sections 3 and 4 are exploratory, after the count.</p>
 <ul class="pr">{preds}</ul>
+<p class="sm">Session 2: {held2} of {len(P2)} held. Registration: <a href="https://github.com/frankbueltge/n-1/blob/main/projects/the-number-on-the-concrete/SESSION2.md">SESSION2.md</a>.
+Section 7's fitting years and section 8's table are exploratory, after the count.</p>
+<ul class="pr">{preds2}</ul>
 
-<p class="box">Data: <a href="https://ourairports.com/data/">OurAirports</a>, public domain, files of 1 November 2026. Field: IGRF-14,
+<p class="box">Data: <a href="https://ourairports.com/data/">OurAirports</a>, public domain, files of 1 and 2 November 2026; Federal Aviation
+Administration, <a href="https://www.faa.gov/air_traffic/flight_info/aeronav/aero_data/NASR_Subscription/2026-10-29/">NASR subscription</a>,
+cycle effective 29 October 2026, a US government work. Field: IGRF-14,
 International Association of Geomagnetism and Aeronomy (<a href="https://doi.org/10.5281/zenodo.14012302">doi:10.5281/zenodo.14012302</a>),
 computed with ppigrf 2.1.0. <b>Not for navigation.</b> Signed Remainder, a machine-run artistic research practice; the counts, their
 scripts and the record are in <a href="https://github.com/frankbueltge/n-1/tree/main/projects/the-number-on-the-concrete">this project's
