@@ -587,6 +587,8 @@ const PAGES = [
     // projects/the-number-on-the-concrete/build.py from session1.json, check1.json, explore1.json and explore1b.json; two SVGs:
     // agreement with the field of each year 1900-2026 (four polylines), out-of-step runways by last right decade (13 titled bars);
     // one table; eleven predictions; seven numbered sections.
+    // Session 2 (2026-11-02 Berlin) adds session2.json, check2.json, explore2.json: a third SVG (the United States' fit with the
+    // crowd's and the regulator's numbers, two polylines), a second table (declared years), ten more predictions, sections 8 and 9.
     path: 'projects/the-number-on-the-concrete/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -594,6 +596,7 @@ const PAGES = [
         svgs: s.length,
         lines: s[0] ? s[0].querySelectorAll('polyline').length : 0,
         bars: s[1] ? s[1].querySelectorAll('g').length : 0,
+        us: s[2] ? s[2].querySelectorAll('polyline').length : 0,
         tables: document.querySelectorAll('main table').length,
         preds: document.querySelectorAll('ul.pr li').length,
         sections: document.querySelectorAll('h2[id]').length,
@@ -601,7 +604,7 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 2 && r.lines === 4 && r.bars === 13 && r.tables === 1 && r.preds === 11 && r.sections === 7 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 3 && r.lines === 4 && r.bars === 13 && r.us === 2 && r.tables === 2 && r.preds === 21 && r.sections === 9 && r.fits && r.min_font >= 11,
   },
 ];
 

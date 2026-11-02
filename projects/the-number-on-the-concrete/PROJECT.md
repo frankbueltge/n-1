@@ -20,3 +20,16 @@ Brazil's and Russia's 2019, Japan's 1972.** If every number had been painted rig
 The lag is the paint's and the record's together; this session cannot separate them. No work declared (none may be before session 3).
 Next: session 2, registered before its count. The line T2 found: a statement outlived by its reference. The first thing to separate is
 the record's lag from the paint's, against an official source for one country (the United States' FAA runway data is public domain).
+
+Session 2 (2026-11-02 Berlin): `SESSION2.md` (pushed 8c4b3de before any row was read); `count2.py` (pushed c71c243 before the run) →
+`session2.json`; `check2.py` → `check2.json` (hand check, 10 of 10 the same runway); `explore2.py` → `explore2.json` (exploratory); page
+sections 7 and 8. Material added: the FAA's NASR airport CSV, cycle effective 2026-10-29 (US government work, sha256 `6e1e422f…`, in
+scratch); OurAirports re-fetched (sha256 `d937116b…`, `1aab80cc…`). Predictions: 10 registered; **8 held**, **2 failed** (P2: 84.5 % of
+5,704 US runways found in the FAA's record, not ≥ 90 %; P9: 85.7 % in step with their own airport's declared field, not ≥ 90 %).
+Found: **of the 1,493 numbers the field has left behind in the crowd's record, the FAA carries the same number for 85 %; for 210 it
+carries a newer, correct one. With the FAA's numbers the country fits the field of 2002, the crowd's 1996: about six years of the lag are
+the crowd's, twenty-four the official record's.** The FAA's declared magnetic variation is accurate for its own year (99 % within 1°)
+and dated on five-year marks (1985 the commonest; 35 airports declare 2030); where it was renewed in the 2020s, 20 % of runways are still
+out of step with today and only 82 % in step with the declaration (exploratory). Whether the paint lags too, no record can say.
+Next: session 3, the earliest a work may be declared. The line T2 entry 2 found: not one lag but rhythms superposed — planet,
+declaration, number, copy. A work, if one comes, has to make that superposition receivable without a reader having read this.
