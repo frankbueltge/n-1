@@ -112,7 +112,7 @@ def main(rw_fn, ap_fn, out_fn, cells_fn):
     p['P5'] = len(d) > 0 and out['dated_share_le_2025'] >= 0.85
     p['P6'] = len(d) > 0 and out['dated_share_le_1985'] >= 0.10
     p['P7'] = S[YEARS.index(1950)] <= 0.55 and S[YEARS.index(2030)] <= 0.70
-    out['predictions'] = p
+    out['predictions'] = {k: bool(v) for k, v in p.items()}
     json.dump(out, open(out_fn, 'w'), indent=1)
     json.dump({'years': [YEARS[0], YEARS[-1]], 'world_n': len(A), 'world_agree': [int(x) for x in ag.sum(1)],
                'cell_deg': 5, 'min_cell': MIN_CELL, 'cells': shown}, open(cells_fn, 'w'), separators=(',', ':'))
