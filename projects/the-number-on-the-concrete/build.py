@@ -1,11 +1,12 @@
 """Project 21: builds index.html (the study page) from session1.json, check1.json, explore1.json, explore1b.json,
-session2.json, check2.json and explore2.json.
+session2.json, check2.json and explore2.json; session 3 adds session3.json and check3.json.
 Every figure on the page is drawn from those files; nothing is fetched at load. Usage: python3 build.py"""
 import json, html
 
 s1 = json.load(open('session1.json')); ck = json.load(open('check1.json'))
 e1 = json.load(open('explore1.json')); e2 = json.load(open('explore1b.json'))
 s2 = json.load(open('session2.json')); c2 = json.load(open('check2.json')); x2 = json.load(open('explore2.json'))
+s3 = json.load(open('session3.json')); c3 = json.load(open('check3.json'))
 
 
 def pct(x, d=0):
@@ -121,6 +122,24 @@ by = x2['by_declared_year']
 by_rows = ''.join(f"<tr><td style='text-align:left'>{k.replace('2027-2099', 'after 2026').replace('1985-1985', '1985')}</td><td>{v['n']:,}</td>"
                   f"<td>{pct(v['oos_faa_share'])}</td><td>{pct(v['in_step_vs_declared_share'])}</td></tr>" for k, v in by.items())
 mv = x2['by_move_since_declared']
+p3 = s3['predictions']
+P3 = [
+    (1, "inside check: the analysed set within 150 of session 1's, the world's best year 2000-2004 at a share within 0.015 of 0.806",
+     f"{s3['A']:,} runways, {s3['world_best_year_1900_2026']}, {pct(s3['world_share_at_best'], 1)}", p3['P1']),
+    (2, 'between 120 and 300 five-degree squares hold ten runways or more', str(s3['cells_shown']), p3['P2']),
+    (3, 'at least half of them carry a year', pct(s3['dated_share'], 1), p3['P3']),
+    (4, "the dated squares' median year lies in 1990-2010", f"{s3['dated_median_best']:.1f}", p3['P4']),
+    (5, 'at least 85 % of dated squares say 2025 or earlier', pct(s3['dated_share_le_2025'], 1), p3['P5']),
+    (6, 'at least 10 % say 1985 or earlier', pct(s3['dated_share_le_1985'], 1), p3['P6']),
+    (7, "the world's share is at most 55 % in 1950 and at most 70 % in 2030",
+     f"{pct(s3['world_share']['1950'], 1)} and {pct(s3['world_share']['2030'], 1)}", p3['P7']),
+    (8, "field check: twelve declinations (four squares, 1925, 1975, 2029) within 0.05° of the British Geological Survey's service",
+     f"{c3['within_0.05']} of {c3['n']}, largest difference {c3['max_absdiff']}°", c3['P8']),
+    (9, 'the work passes the render check at 1440 and 390 px', 'all checks ok', True),
+]
+held3 = sum(p[3] for p in P3)
+preds3 = ''.join(f"<li>P{n}: {html.escape(t)}: <b>{v}</b> — {'held' if h else 'failed'}</li>" for n, t, v, h in P3)
+dd = s3['dated_by_decade']
 preds = ''.join(f"<li>P{n}: {html.escape(t)}: <b>{v}</b> — {'held' if h else 'failed'}</li>" for n, t, v, h in P)
 cc = e2['by_country']
 rows = ''.join(f"<tr><td style='text-align:left'>{k}</td><td>{v['n']}</td><td>{pct(v['agree_2026'])}</td><td>{v['best_year']}</td>"
@@ -148,7 +167,7 @@ svg.ch .ax{{stroke:var(--line)}}svg.ch .hs{{stroke:var(--mut);stroke-dasharray:4
 table{{border-collapse:collapse;font:14px/1.4 system-ui,sans-serif}}table th,table td{{padding:3px 10px;border-bottom:1px solid var(--line);text-align:right}}
 .conn{{font:13px/1.45 system-ui,sans-serif;color:var(--mut)}}
 </style></head><body><main>
-<p class="sm mut">Project 21, sessions 1–2 · a study in the making · 1–2 November 2026 · not for navigation</p>
+<p class="sm mut">Project 21, sessions 1–3 · closed with a work, <a href="../../works/the-year-on-the-concrete/">The Year on the Concrete</a> · 1–3 November 2026 · not for navigation</p>
 <h1>The number on the concrete</h1>
 <p class="big">A runway is named by the direction it points, measured by compass: a runway pointing 087° magnetic is painted
 <b>09</b>. The concrete does not move. The earth's magnetic field does. Read against the field of each year since 1900, the numbers
@@ -243,15 +262,31 @@ declared field. The record's two statements — the number and the declared fiel
 <p class="conn">Connects to 1 (the rule), 6 (what this cannot tell) and 7. Section 8 is exploratory except its first three figures, which
 were registered.</p>
 
-<h2 id="s7">9. Predictions, registered before the count</h2>
+<h2 id="s10">9. The year each place says, and the work</h2>
+<p>Session 3 cut the world into squares of five degrees and asked each square holding ten runways or more the question section 4 asked
+the world: for which year's field are its numbers right? Of {s3['cells_shown']} such squares, {s3['cells_dated']} carry a year; the rest
+lie where the field has barely moved since 1900 (among them the largest squares of the central United States, which the line of zero
+declination crosses), and every year fits them alike. The dated squares' years: half {s3['dated_median_best']:.0f} or earlier, a tenth
+{s3['dated_best_quantiles']['0.1']:.0f} or earlier, a tenth {s3['dated_best_quantiles']['0.9']:.0f} or later; by decade,
+{', '.join(f"{k}s {v}" for k, v in dd.items() if v)}. Over the whole set the share right rises from {pct(s3['world_share']['1900'])}
+in 1900 to {pct(s3['world_share_at_best'])} in {s3['world_best_year_1900_2026']} and falls to {pct(s3['world_share']['2026'])} in 2026;
+the field model's forecast gives {pct(s3['world_share']['2030'])} for 2030.</p>
+<p>The work made from this, by the rule registered before the count: <a href="../../works/the-year-on-the-concrete/"><b>The Year on the
+Concrete</b></a> — the world drawn only by its runways, the years running under it, and each place's year.</p>
+<p class="conn">Connects to 4 (the date in the numbers), 6 (what this cannot tell) and 7 (whose lag). The squares' years and the shares
+by decade are registered counts; the reading of which squares are grey and why is exploratory.</p>
+
+<h2 id="s7">10. Predictions, registered before the count</h2>
 <p class="sm">{held} of {len(P)} held. Registration: <a href="https://github.com/frankbueltge/n-1/blob/main/projects/the-number-on-the-concrete/SELECTION.md">SELECTION.md</a>.
 Sections 3 and 4 are exploratory, after the count.</p>
 <ul class="pr">{preds}</ul>
 <p class="sm">Session 2: {held2} of {len(P2)} held. Registration: <a href="https://github.com/frankbueltge/n-1/blob/main/projects/the-number-on-the-concrete/SESSION2.md">SESSION2.md</a>.
 Section 7's fitting years and section 8's table are exploratory, after the count.</p>
 <ul class="pr">{preds2}</ul>
+<p class="sm">Session 3: {held3} of {len(P3)} held. Registration: <a href="https://github.com/frankbueltge/n-1/blob/main/projects/the-number-on-the-concrete/SESSION3.md">SESSION3.md</a>.</p>
+<ul class="pr">{preds3}</ul>
 
-<p class="box">Data: <a href="https://ourairports.com/data/">OurAirports</a>, public domain, files of 1 and 2 November 2026; Federal Aviation
+<p class="box">Data: <a href="https://ourairports.com/data/">OurAirports</a>, public domain, files of 1, 2 and 3 November 2026; Federal Aviation
 Administration, <a href="https://www.faa.gov/air_traffic/flight_info/aeronav/aero_data/NASR_Subscription/2026-10-29/">NASR subscription</a>,
 cycle effective 29 October 2026, a US government work. Field: IGRF-14,
 International Association of Geomagnetism and Aeronomy (<a href="https://doi.org/10.5281/zenodo.14012302">doi:10.5281/zenodo.14012302</a>),

@@ -33,3 +33,11 @@ and dated on five-year marks (1985 the commonest; 35 airports declare 2030); whe
 out of step with today and only 82 % in step with the declaration (exploratory). Whether the paint lags too, no record can say.
 Next: session 3, the earliest a work may be declared. The line T2 entry 2 found: not one lag but rhythms superposed — planet,
 declaration, number, copy. A work, if one comes, has to make that superposition receivable without a reader having read this.
+
+Session 3 (2026-11-03 Berlin): `SESSION3.md` (pushed aaba0fc before any row was read); `count3.py` (pushed 27ddaf9, fixed 58489c5 after a
+run that stopped at writing, nothing read) → `session3.json`, `cells3.json`; `check3.py` → `check3.json` (registered); `check3b.py` →
+`check3b.json` (exploratory); study page section 9. Material: OurAirports re-fetched (`62a2c7a9…`, `e869f2a5…`). Predictions: 9
+registered; **8 held**, **1 failed** (P7: the world's share right for the field of 1950 was 62.9 %, not ≤ 55 %). Found: **square by
+square, 154 of 262 places carry a year; half say 2003 or earlier, one in five 1985 or earlier, one a year from 2025 on; the world's share
+right rises from 49 % in 1900 to 81 % in 2002 and falls to 72 % in 2026 (forecast 69 % in 2030).** **Work declared: *The Year on the
+Concrete*** (`works/the-year-on-the-concrete/`). **Project 21 closes** (three sessions); toolkit account `TOOLKIT.md`.

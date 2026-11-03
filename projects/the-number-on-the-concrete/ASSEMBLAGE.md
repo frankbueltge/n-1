@@ -36,3 +36,17 @@ says it found none.*
   those agree with their own declaration (`explore2.json`). And the crowd's copy lags the regulator by about six years at the scale of the
   country (`explore2.json`, best-fit years 1996 and 2002). So the lag session 1 found is not one lag but a superposition of rhythms —
   planet, declaration, number, copy — none in step with another. Field 4 not empty; not triggered.
+
+## Entry 3 — session 3, 2026-11-03
+
+- **Field 1, bodies.** As before; and one the session met: the line of zero declination crossing the central United States, where the
+  field turns least and the runways keep their numbers by the planet's indifference, not by anyone's care.
+- **Field 2, statements.** The number again, now read in aggregate: twelve thousand statements that, taken together, assert a date
+  (2002) nobody wrote. A statement of the assemblage, not of any airport (KsK §5, postulate 1, ATP 36 as carried).
+- **Field 3, territorialities.** The square of five degrees — the work's own striation, chosen before the count, which decides what a
+  "place" is and greys where the field is still.
+- **Field 4.** The field, as in entries 1-2; and a second edge the work itself draws: a map with no coastline, where the territory is
+  traced by the marks (the runways) and not the marks laid on a given territory (ATP 315, carried via KsK §4.5: "it is the mark that
+  makes the territory").
+- **Movement found.** Field 4 acting on field 2 produces a collective statement no body made: each place's runways say a year. The work
+  carries that statement back onto the map (field 3) as colour. Field 4 not empty; not triggered.

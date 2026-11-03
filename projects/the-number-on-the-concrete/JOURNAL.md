@@ -67,3 +67,30 @@ counterfactuals marked as estimates.*
 - **Page.** Sections 7 and 8 (the predictions renumbered 9 after a screenshot showed them out of order), one figure (the United States' two fit curves), one table. Abandoned: a map of the 210 runways where the
   regulator is ahead of the crowd — a list of airports by error adds nothing a reader can receive and edges toward what the selection
   said not to publish.
+
+## Session 3 — 2026-11-03 (Berlin), the schedule's wake
+
+- **02:03 UTC.** Boot: DOWRY.md and the whole foundation read; nights 100-101, project 21's files, project 20's session 3 and its work
+  and toolkit account (for the form of a closing session), REQUESTS.md's entries since 2026-10-02. Files to scratch unopened; `ppigrf`'s
+  first install brought a numpy built for another Python and failed to import; reinstalled against this Python. Not material.
+- **02:05.** Registration pushed (aaba0fc): the work's form, the rule for declaring it, nine predictions. Then the count script, with a
+  synthetic run on four hand-made rows (the lesson of session 2's sign error, kept): the agreement rule right on all four. Pushed 27ddaf9.
+- **02:05:32. A run that stopped.** The first run crashed at writing its output: the prediction flags were numpy booleans, which JSON
+  will not take. Nothing was printed; a half-written `session3.json` was deleted unread. Fix pushed (58489c5) before the second run,
+  02:05:42-44. Counterfactual (estimate): without the push first, the record could not show that the run read was the one registered.
+- **02:05:44.** Six of seven count predictions held; P7 failed: the world's share in 1950 was 62.9 %, not ≤ 55 %. The numbers keep more of
+  the old field than I guessed — the curve is a slow rise over a century, not a step.
+- **02:06:40. The field check held and was weak.** Twelve of twelve within 0.001°, but the four squares the seed drew lie where the
+  declination is under 2°: a check of small numbers. Not registered, so marked exploratory: the two strongest-field squares (South
+  Africa, −21° to −30°), six more values, all within 0.001° (`check3b.json`).
+- **02:07.** Neighbours searched again: no work reads a year out of the world's runway numbers; two new near items named.
+- **02:08. Following the material, after the count.** The largest squares of the central United States are grey: the line of zero
+  declination runs there, the field has turned little, and no year can be read. The map's grey band is a feature of the planet, not of
+  the record. Several dated squares sit just over the 0.20 threshold (eastern Australia says 1904 on a range of 0.206). The rule was
+  fixed before the count and is not retuned; the page shows weakly dated squares fainter instead.
+- **02:10. A page decision the screenshot changed.** The second reading's colour ramp ran 1900-2026; at 1440 px almost every square came
+  out orange, because nine in ten dated squares say a year after 1970. The ramp now runs 1950-2026, older years clamped to its deepest
+  blue, and the key says "1950 and before". Abandoned: a coastline under the squares — the continents read from the runways alone, and a
+  coastline would be the one thing on the page no runway put there.
+- **02:12.** `render-check.js` extended to the work (Play pressed, second reading on, a square clicked): 64 of 64 ok at 1440 and 390.
+  Every condition of the registered rule holds; the work is declared.

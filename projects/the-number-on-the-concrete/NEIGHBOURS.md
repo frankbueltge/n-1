@@ -22,3 +22,12 @@ declination, aviation, flight.*
    invisible electromagnetic flows; Keysar and Caine, *Terra Ex Machina*; Bellingcat, *MH17*), none near.
 
 Searched again before any work is declared (session 3 at the earliest).
+
+**Searched again, session 3 (2026-11-03, before declaring).** The Atlas of Data Art (`werke.json`, sha256 `4765ce73…`, unchanged, 523
+entries) grepped for runway, airport, magnet, compass, declination, aviation, geomagnetic: one hit, *Sensing Streams*, not near. Two web
+searches (standard mode, 02:07 UTC): "map of runway numbers out of date magnetic declination worldwide visualization" and "data art
+runways magnetic north drift airports artwork". Both summaries reported no map or dataset of runway numbers against the field's years
+and no data-art work on it (search summaries; conjecture that none exists). New in the result lists, named from them and not read in
+full: a patent, *Predicting the future magnetic alignment of a runway* (`https://patents.justia.com/patent/11454737`), a tool for one
+runway's future; NOAA NCEI's explainer (`https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field`); the St. Maarten
+(2008) and Fairbanks (2009) renumberings. **Daylight held:** none reads a year out of the world's numbers, place by place.
