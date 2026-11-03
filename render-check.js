@@ -589,6 +589,8 @@ const PAGES = [
     // one table; eleven predictions; seven numbered sections.
     // Session 2 (2026-11-02 Berlin) adds session2.json, check2.json, explore2.json: a third SVG (the United States' fit with the
     // crowd's and the regulator's numbers, two polylines), a second table (declared years), ten more predictions, sections 8 and 9.
+    // Session 3 (2026-11-03 Berlin) adds session3.json and check3.json: section 9 (the year each place says, and the work), prose and
+    // a link; nine more predictions; the predictions become section 10. No new figure.
     path: 'projects/the-number-on-the-concrete/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -604,7 +606,34 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 3 && r.lines === 4 && r.bars === 13 && r.us === 2 && r.tables === 2 && r.preds === 21 && r.sections === 9 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 3 && r.lines === 4 && r.bars === 13 && r.us === 2 && r.tables === 2 && r.preds === 30 && r.sections === 10 && r.fits && r.min_font >= 11,
+  },
+  {
+    // project 21, session 3 (2026-11-03 Berlin): the work The Year on the Concrete, built by works/the-year-on-the-concrete/build.py
+    // from projects/the-number-on-the-concrete/cells3.json and session3.json; one map (262 five-degree squares of ten or more
+    // runways, no coastline), one line (world share by year, two polylines: record and forecast), one table (13 decades + no year).
+    // Play is pressed (the year must move off 2026), the second reading is switched on (squares recoloured), a square is clicked.
+    path: 'works/the-year-on-the-concrete/index.html',
+    probe: async () => {
+      document.getElementById('play').click();
+      await new Promise((r) => setTimeout(r, 500));
+      const moved = document.getElementById('year').textContent !== '2026';
+      document.getElementById('play').click();
+      document.getElementById('mode').click();
+      const fills = new Set([...document.querySelectorAll('#map .cell')].map((e) => e.getAttribute('fill'))).size;
+      document.querySelectorAll('#map .cell')[0].dispatchEvent(new MouseEvent('click', { bubbles: true }));
+      return {
+        cells: document.querySelectorAll('#map rect.cell').length,
+        lines: document.querySelectorAll('svg polyline').length,
+        trs: document.querySelectorAll('table tr').length,
+        year_moved_on_play: moved,
+        fills_in_second_reading: fills,
+        info: document.getElementById('info').textContent.includes('runways'),
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.cells === 262 && r.lines === 2 && r.trs === 15 && r.year_moved_on_play && r.fills_in_second_reading > 20 && r.info && r.fits && r.min_font >= 11,
   },
 ];
 

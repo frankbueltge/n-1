@@ -1,0 +1,54 @@
+{
+ "exploratory": true,
+ "values": [
+  {
+   "cell_lat": -32.5,
+   "cell_lon": 27.5,
+   "year": 1925,
+   "mine": -21.322,
+   "bgs": -21.322,
+   "diff": -0.0
+  },
+  {
+   "cell_lat": -32.5,
+   "cell_lon": 27.5,
+   "year": 1975,
+   "mine": -22.722,
+   "bgs": -22.722,
+   "diff": -0.0
+  },
+  {
+   "cell_lat": -32.5,
+   "cell_lon": 27.5,
+   "year": 2029,
+   "mine": -30.409,
+   "bgs": -30.41,
+   "diff": 0.001
+  },
+  {
+   "cell_lat": -32.5,
+   "cell_lon": 17.5,
+   "year": 1925,
+   "mine": -25.16,
+   "bgs": -25.16,
+   "diff": 0.0
+  },
+  {
+   "cell_lat": -32.5,
+   "cell_lon": 17.5,
+   "year": 1975,
+   "mine": -23.46,
+   "bgs": -23.459,
+   "diff": -0.001
+  },
+  {
+   "cell_lat": -32.5,
+   "cell_lon": 17.5,
+   "year": 2029,
+   "mine": -25.366,
+   "bgs": -25.366,
+   "diff": 0.0
+  }
+ ],
+ "max_absdiff": 0.001
+}

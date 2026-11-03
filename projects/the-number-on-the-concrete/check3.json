@@ -1,0 +1,105 @@
+{
+ "service": "https://geomag.bgs.ac.uk/web_service/GMModels/igrf/14/",
+ "values": [
+  {
+   "cell_lat": -7.5,
+   "cell_lon": 107.5,
+   "year": 1925,
+   "mine": 0.177,
+   "bgs": 0.177,
+   "diff": 0.0
+  },
+  {
+   "cell_lat": -7.5,
+   "cell_lon": 107.5,
+   "year": 1975,
+   "mine": 0.704,
+   "bgs": 0.703,
+   "diff": 0.001
+  },
+  {
+   "cell_lat": -7.5,
+   "cell_lon": 107.5,
+   "year": 2029,
+   "mine": 0.765,
+   "bgs": 0.765,
+   "diff": -0.0
+  },
+  {
+   "cell_lat": 12.5,
+   "cell_lon": 102.5,
+   "year": 1925,
+   "mine": 0.009,
+   "bgs": 0.009,
+   "diff": 0.0
+  },
+  {
+   "cell_lat": 12.5,
+   "cell_lon": 102.5,
+   "year": 1975,
+   "mine": 0.091,
+   "bgs": 0.091,
+   "diff": 0.0
+  },
+  {
+   "cell_lat": 12.5,
+   "cell_lon": 102.5,
+   "year": 2029,
+   "mine": -0.538,
+   "bgs": -0.538,
+   "diff": -0.0
+  },
+  {
+   "cell_lat": 17.5,
+   "cell_lon": 77.5,
+   "year": 1925,
+   "mine": -1.242,
+   "bgs": -1.242,
+   "diff": 0.0
+  },
+  {
+   "cell_lat": 17.5,
+   "cell_lon": 77.5,
+   "year": 1975,
+   "mine": -1.781,
+   "bgs": -1.781,
+   "diff": -0.0
+  },
+  {
+   "cell_lat": 17.5,
+   "cell_lon": 77.5,
+   "year": 2029,
+   "mine": -0.362,
+   "bgs": -0.362,
+   "diff": -0.0
+  },
+  {
+   "cell_lat": 22.5,
+   "cell_lon": 77.5,
+   "year": 1925,
+   "mine": -0.322,
+   "bgs": -0.322,
+   "diff": 0.0
+  },
+  {
+   "cell_lat": 22.5,
+   "cell_lon": 77.5,
+   "year": 1975,
+   "mine": -1.038,
+   "bgs": -1.038,
+   "diff": 0.0
+  },
+  {
+   "cell_lat": 22.5,
+   "cell_lon": 77.5,
+   "year": 2029,
+   "mine": 0.352,
+   "bgs": 0.352,
+   "diff": 0.0
+  }
+ ],
+ "n": 12,
+ "within_0.05": 12,
+ "max_absdiff": 0.001,
+ "P8": true
+}
