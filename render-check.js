@@ -635,6 +635,26 @@ const PAGES = [
     },
     ok: (r) => r.cells === 262 && r.lines === 2 && r.trs === 15 && r.year_moved_on_play && r.fills_in_second_reading > 20 && r.info && r.fits && r.min_font >= 11,
   },
+  {
+    // project 22, session 1 (2026-11-04 Berlin): the study page "Standing", built by projects/standing/build.py from session1.json,
+    // explore1.json, explore1b.json and check1.json; two SVGs: every year's species names 1753-2026 stacked by verdict (274 titled
+    // groups), decades' share standing and share moved (two polylines); one table (28 decades); eleven predictions; seven sections.
+    path: 'projects/standing/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        years: s[0] ? s[0].querySelectorAll('g').length : 0,
+        lines: s[1] ? s[1].querySelectorAll('polyline').length : 0,
+        trs: document.querySelectorAll('main table tbody tr').length,
+        preds: document.querySelectorAll('ul.pr li').length,
+        sections: document.querySelectorAll('h2[id]').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 2 && r.years === 274 && r.lines === 2 && r.trs === 28 && r.preds === 11 && r.sections === 7 && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {

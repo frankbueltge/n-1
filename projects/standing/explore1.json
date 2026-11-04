@@ -1,0 +1,4884 @@
+{
+ "note": "exploratory; homotypic flag found coded \"T\" (registered belief was TRUE), so moved/merged here are not the registered P6/P7",
+ "decades_with_moved": {
+  "1750": {
+   "n": 6643,
+   "share_standing": 0.4841,
+   "moved_share_of_synonyms": 0.7112,
+   "standing": 3216,
+   "moved": 2339,
+   "merged": 950,
+   "Invalid": 44,
+   "Unplaced": 35,
+   "Illegitimate": 46,
+   "Orthographic": 11,
+   "Artificial Hybrid": 2
+  },
+  "1760": {
+   "n": 5308,
+   "share_standing": 0.1833,
+   "moved_share_of_synonyms": 0.3918,
+   "standing": 973,
+   "merged": 2102,
+   "moved": 1354,
+   "Invalid": 228,
+   "Illegitimate": 335,
+   "Orthographic": 51,
+   "Unplaced": 237,
+   "Misapplied": 25,
+   "Artificial Hybrid": 3
+  },
+  "1770": {
+   "n": 4819,
+   "share_standing": 0.1897,
+   "moved_share_of_synonyms": 0.3912,
+   "standing": 914,
+   "merged": 1827,
+   "moved": 1174,
+   "Invalid": 56,
+   "Orthographic": 41,
+   "Illegitimate": 550,
+   "Unplaced": 178,
+   "Misapplied": 76,
+   "Artificial Hybrid": 3
+  },
+  "1780": {
+   "n": 9832,
+   "share_standing": 0.1949,
+   "moved_share_of_synonyms": 0.4217,
+   "standing": 1916,
+   "moved": 2513,
+   "Misapplied": 136,
+   "merged": 3446,
+   "Invalid": 563,
+   "Orthographic": 30,
+   "Illegitimate": 923,
+   "Unplaced": 301,
+   "Artificial Hybrid": 4
+  },
+  "1790": {
+   "n": 13925,
+   "share_standing": 0.15,
+   "moved_share_of_synonyms": 0.3412,
+   "standing": 2089,
+   "Illegitimate": 2161,
+   "merged": 5599,
+   "moved": 2900,
+   "Unplaced": 584,
+   "Invalid": 440,
+   "Misapplied": 89,
+   "Orthographic": 58,
+   "Artificial Hybrid": 5
+  },
+  "1800": {
+   "n": 18196,
+   "share_standing": 0.1893,
+   "moved_share_of_synonyms": 0.3341,
+   "standing": 3444,
+   "merged": 7642,
+   "Illegitimate": 2155,
+   "moved": 3835,
+   "Invalid": 227,
+   "Unplaced": 699,
+   "Orthographic": 58,
+   "Misapplied": 126,
+   "Artificial Hybrid": 10
+  },
+  "1810": {
+   "n": 23065,
+   "share_standing": 0.1865,
+   "moved_share_of_synonyms": 0.3173,
+   "merged": 9917,
+   "standing": 4301,
+   "Illegitimate": 2276,
+   "moved": 4610,
+   "Invalid": 804,
+   "Unplaced": 1006,
+   "Orthographic": 64,
+   "Misapplied": 78,
+   "Artificial Hybrid": 9
+  },
+  "1820": {
+   "n": 41800,
+   "share_standing": 0.158,
+   "moved_share_of_synonyms": 0.3247,
+   "moved": 8614,
+   "merged": 17913,
+   "Illegitimate": 3686,
+   "standing": 6604,
+   "Invalid": 2053,
+   "Unplaced": 2649,
+   "Artificial Hybrid": 23,
+   "Orthographic": 132,
+   "Misapplied": 117,
+   "Local Biotype": 9
+  },
+  "1830": {
+   "n": 54948,
+   "share_standing": 0.1876,
+   "moved_share_of_synonyms": 0.3213,
+   "standing": 10306,
+   "merged": 23182,
+   "moved": 10974,
+   "Illegitimate": 3919,
+   "Invalid": 3568,
+   "Unplaced": 2602,
+   "Misapplied": 198,
+   "Orthographic": 167,
+   "Artificial Hybrid": 31,
+   "Local Biotype": 1
+  },
+  "1840": {
+   "n": 55830,
+   "share_standing": 0.2069,
+   "moved_share_of_synonyms": 0.3102,
+   "merged": 23905,
+   "standing": 11550,
+   "Invalid": 3880,
+   "Illegitimate": 3152,
+   "Unplaced": 2264,
+   "moved": 10752,
+   "Misapplied": 89,
+   "Orthographic": 199,
+   "Artificial Hybrid": 38,
+   "Local Biotype": 1
+  },
+  "1850": {
+   "n": 45691,
+   "share_standing": 0.2073,
+   "moved_share_of_synonyms": 0.2937,
+   "merged": 21093,
+   "standing": 9472,
+   "Unplaced": 1550,
+   "Illegitimate": 2665,
+   "moved": 8771,
+   "Invalid": 1914,
+   "Orthographic": 114,
+   "Artificial Hybrid": 40,
+   "Misapplied": 57,
+   "Local Biotype": 15
+  },
+  "1860": {
+   "n": 42785,
+   "share_standing": 0.2401,
+   "moved_share_of_synonyms": 0.3377,
+   "merged": 17423,
+   "standing": 10272,
+   "moved": 8883,
+   "Misapplied": 65,
+   "Illegitimate": 2578,
+   "Invalid": 1830,
+   "Artificial Hybrid": 36,
+   "Local Biotype": 40,
+   "Unplaced": 1545,
+   "Orthographic": 113
+  },
+  "1870": {
+   "n": 36253,
+   "share_standing": 0.2587,
+   "moved_share_of_synonyms": 0.3412,
+   "merged": 13907,
+   "Illegitimate": 1871,
+   "standing": 9379,
+   "Invalid": 1668,
+   "moved": 7204,
+   "Unplaced": 2023,
+   "Artificial Hybrid": 46,
+   "Orthographic": 100,
+   "Misapplied": 33,
+   "Local Biotype": 22
+  },
+  "1880": {
+   "n": 36664,
+   "share_standing": 0.278,
+   "moved_share_of_synonyms": 0.3484,
+   "merged": 13430,
+   "standing": 10191,
+   "Illegitimate": 1710,
+   "moved": 7181,
+   "Invalid": 1036,
+   "Artificial Hybrid": 163,
+   "Unplaced": 2649,
+   "Orthographic": 273,
+   "Misapplied": 11,
+   "Local Biotype": 20
+  },
+  "1890": {
+   "n": 82521,
+   "share_standing": 0.1824,
+   "moved_share_of_synonyms": 0.4676,
+   "standing": 15054,
+   "Invalid": 1213,
+   "merged": 31769,
+   "Unplaced": 3246,
+   "moved": 27897,
+   "Illegitimate": 2963,
+   "Orthographic": 130,
+   "Artificial Hybrid": 195,
+   "Local Biotype": 43,
+   "Misapplied": 11
+  },
+  "1900": {
+   "n": 63650,
+   "share_standing": 0.2661,
+   "moved_share_of_synonyms": 0.3038,
+   "merged": 27515,
+   "standing": 16940,
+   "moved": 12005,
+   "Invalid": 571,
+   "Illegitimate": 2142,
+   "Unplaced": 4115,
+   "Artificial Hybrid": 135,
+   "Misapplied": 15,
+   "Orthographic": 69,
+   "Local Biotype": 143
+  },
+  "1910": {
+   "n": 61554,
+   "share_standing": 0.2992,
+   "moved_share_of_synonyms": 0.3009,
+   "merged": 26138,
+   "moved": 11251,
+   "standing": 18417,
+   "Illegitimate": 1769,
+   "Invalid": 752,
+   "Unplaced": 2950,
+   "Orthographic": 36,
+   "Artificial Hybrid": 86,
+   "Local Biotype": 153,
+   "Misapplied": 2
+  },
+  "1920": {
+   "n": 56424,
+   "share_standing": 0.3242,
+   "moved_share_of_synonyms": 0.3214,
+   "moved": 10661,
+   "standing": 18293,
+   "merged": 22512,
+   "Invalid": 761,
+   "Unplaced": 2296,
+   "Artificial Hybrid": 117,
+   "Illegitimate": 1446,
+   "Orthographic": 38,
+   "Local Biotype": 298,
+   "Misapplied": 2
+  },
+  "1930": {
+   "n": 56277,
+   "share_standing": 0.3383,
+   "moved_share_of_synonyms": 0.3234,
+   "moved": 10550,
+   "merged": 22077,
+   "standing": 19039,
+   "Illegitimate": 1170,
+   "Artificial Hybrid": 82,
+   "Invalid": 1206,
+   "Unplaced": 2017,
+   "Orthographic": 27,
+   "Local Biotype": 107,
+   "Misapplied": 2
+  },
+  "1940": {
+   "n": 31563,
+   "share_standing": 0.3803,
+   "moved_share_of_synonyms": 0.3536,
+   "merged": 11515,
+   "moved": 6299,
+   "standing": 12002,
+   "Invalid": 267,
+   "Unplaced": 724,
+   "Illegitimate": 541,
+   "Orthographic": 15,
+   "Artificial Hybrid": 36,
+   "Local Biotype": 164
+  },
+  "1950": {
+   "n": 30048,
+   "share_standing": 0.44,
+   "moved_share_of_synonyms": 0.3976,
+   "merged": 9181,
+   "standing": 13220,
+   "Invalid": 306,
+   "moved": 6059,
+   "Illegitimate": 541,
+   "Unplaced": 541,
+   "Artificial Hybrid": 55,
+   "Orthographic": 7,
+   "Local Biotype": 137,
+   "Misapplied": 1
+  },
+  "1960": {
+   "n": 29418,
+   "share_standing": 0.4834,
+   "moved_share_of_synonyms": 0.4739,
+   "standing": 14222,
+   "moved": 6746,
+   "merged": 7489,
+   "Illegitimate": 393,
+   "Invalid": 234,
+   "Unplaced": 288,
+   "Artificial Hybrid": 38,
+   "Orthographic": 8
+  },
+  "1970": {
+   "n": 34750,
+   "share_standing": 0.5043,
+   "moved_share_of_synonyms": 0.5609,
+   "standing": 17523,
+   "merged": 7114,
+   "moved": 9089,
+   "Invalid": 234,
+   "Illegitimate": 419,
+   "Unplaced": 305,
+   "Artificial Hybrid": 57,
+   "Local Biotype": 4,
+   "Orthographic": 5
+  },
+  "1980": {
+   "n": 42709,
+   "share_standing": 0.5468,
+   "moved_share_of_synonyms": 0.5208,
+   "standing": 23352,
+   "merged": 8589,
+   "moved": 9333,
+   "Illegitimate": 539,
+   "Invalid": 373,
+   "Unplaced": 470,
+   "Artificial Hybrid": 43,
+   "Orthographic": 10
+  },
+  "1990": {
+   "n": 39284,
+   "share_standing": 0.6511,
+   "moved_share_of_synonyms": 0.6205,
+   "moved": 7833,
+   "merged": 4790,
+   "standing": 25579,
+   "Illegitimate": 432,
+   "Invalid": 191,
+   "Unplaced": 380,
+   "Artificial Hybrid": 73,
+   "Orthographic": 5,
+   "Local Biotype": 1
+  },
+  "2000": {
+   "n": 41830,
+   "share_standing": 0.6199,
+   "moved_share_of_synonyms": 0.7438,
+   "standing": 25930,
+   "merged": 3823,
+   "moved": 11099,
+   "Unplaced": 288,
+   "Invalid": 189,
+   "Illegitimate": 393,
+   "Artificial Hybrid": 107,
+   "Orthographic": 1
+  },
+  "2010": {
+   "n": 53158,
+   "share_standing": 0.7369,
+   "moved_share_of_synonyms": 0.7327,
+   "standing": 39174,
+   "merged": 3432,
+   "Unplaced": 399,
+   "moved": 9407,
+   "Artificial Hybrid": 117,
+   "Illegitimate": 483,
+   "Invalid": 145,
+   "Local Biotype": 1
+  },
+  "2020": {
+   "n": 28960,
+   "share_standing": 0.7583,
+   "moved_share_of_synonyms": 0.8405,
+   "moved": 4959,
+   "merged": 941,
+   "Invalid": 159,
+   "standing": 21960,
+   "Illegitimate": 194,
+   "Unplaced": 348,
+   "Artificial Hybrid": 106,
+   "Local Biotype": 292,
+   "Orthographic": 1
+  }
+ },
+ "revis_gen_pl_1891": {
+  "n": 27102,
+  "share_standing": 0.0263,
+  "moved_share_of_synonyms": 0.6283,
+  "moved": 16126,
+  "merged": 9541,
+  "standing": 712,
+  "Illegitimate": 485,
+  "Orthographic": 10,
+  "Unplaced": 161,
+  "Invalid": 66,
+  "Misapplied": 1
+ },
+ "decades_without_that_book": {
+  "1750": {
+   "n": 6643,
+   "share_standing": 0.4841,
+   "moved_share_of_synonyms": 0.7112,
+   "standing": 3216,
+   "moved": 2339,
+   "merged": 950,
+   "Invalid": 44,
+   "Unplaced": 35,
+   "Illegitimate": 46,
+   "Orthographic": 11,
+   "Artificial Hybrid": 2
+  },
+  "1760": {
+   "n": 5308,
+   "share_standing": 0.1833,
+   "moved_share_of_synonyms": 0.3918,
+   "standing": 973,
+   "merged": 2102,
+   "moved": 1354,
+   "Invalid": 228,
+   "Illegitimate": 335,
+   "Orthographic": 51,
+   "Unplaced": 237,
+   "Misapplied": 25,
+   "Artificial Hybrid": 3
+  },
+  "1770": {
+   "n": 4819,
+   "share_standing": 0.1897,
+   "moved_share_of_synonyms": 0.3912,
+   "standing": 914,
+   "merged": 1827,
+   "moved": 1174,
+   "Invalid": 56,
+   "Orthographic": 41,
+   "Illegitimate": 550,
+   "Unplaced": 178,
+   "Misapplied": 76,
+   "Artificial Hybrid": 3
+  },
+  "1780": {
+   "n": 9832,
+   "share_standing": 0.1949,
+   "moved_share_of_synonyms": 0.4217,
+   "standing": 1916,
+   "moved": 2513,
+   "Misapplied": 136,
+   "merged": 3446,
+   "Invalid": 563,
+   "Orthographic": 30,
+   "Illegitimate": 923,
+   "Unplaced": 301,
+   "Artificial Hybrid": 4
+  },
+  "1790": {
+   "n": 13925,
+   "share_standing": 0.15,
+   "moved_share_of_synonyms": 0.3412,
+   "standing": 2089,
+   "Illegitimate": 2161,
+   "merged": 5599,
+   "moved": 2900,
+   "Unplaced": 584,
+   "Invalid": 440,
+   "Misapplied": 89,
+   "Orthographic": 58,
+   "Artificial Hybrid": 5
+  },
+  "1800": {
+   "n": 18196,
+   "share_standing": 0.1893,
+   "moved_share_of_synonyms": 0.3341,
+   "standing": 3444,
+   "merged": 7642,
+   "Illegitimate": 2155,
+   "moved": 3835,
+   "Invalid": 227,
+   "Unplaced": 699,
+   "Orthographic": 58,
+   "Misapplied": 126,
+   "Artificial Hybrid": 10
+  },
+  "1810": {
+   "n": 23065,
+   "share_standing": 0.1865,
+   "moved_share_of_synonyms": 0.3173,
+   "merged": 9917,
+   "standing": 4301,
+   "Illegitimate": 2276,
+   "moved": 4610,
+   "Invalid": 804,
+   "Unplaced": 1006,
+   "Orthographic": 64,
+   "Misapplied": 78,
+   "Artificial Hybrid": 9
+  },
+  "1820": {
+   "n": 41800,
+   "share_standing": 0.158,
+   "moved_share_of_synonyms": 0.3247,
+   "moved": 8614,
+   "merged": 17913,
+   "Illegitimate": 3686,
+   "standing": 6604,
+   "Invalid": 2053,
+   "Unplaced": 2649,
+   "Artificial Hybrid": 23,
+   "Orthographic": 132,
+   "Misapplied": 117,
+   "Local Biotype": 9
+  },
+  "1830": {
+   "n": 54948,
+   "share_standing": 0.1876,
+   "moved_share_of_synonyms": 0.3213,
+   "standing": 10306,
+   "merged": 23182,
+   "moved": 10974,
+   "Illegitimate": 3919,
+   "Invalid": 3568,
+   "Unplaced": 2602,
+   "Misapplied": 198,
+   "Orthographic": 167,
+   "Artificial Hybrid": 31,
+   "Local Biotype": 1
+  },
+  "1840": {
+   "n": 55830,
+   "share_standing": 0.2069,
+   "moved_share_of_synonyms": 0.3102,
+   "merged": 23905,
+   "standing": 11550,
+   "Invalid": 3880,
+   "Illegitimate": 3152,
+   "Unplaced": 2264,
+   "moved": 10752,
+   "Misapplied": 89,
+   "Orthographic": 199,
+   "Artificial Hybrid": 38,
+   "Local Biotype": 1
+  },
+  "1850": {
+   "n": 45691,
+   "share_standing": 0.2073,
+   "moved_share_of_synonyms": 0.2937,
+   "merged": 21093,
+   "standing": 9472,
+   "Unplaced": 1550,
+   "Illegitimate": 2665,
+   "moved": 8771,
+   "Invalid": 1914,
+   "Orthographic": 114,
+   "Artificial Hybrid": 40,
+   "Misapplied": 57,
+   "Local Biotype": 15
+  },
+  "1860": {
+   "n": 42785,
+   "share_standing": 0.2401,
+   "moved_share_of_synonyms": 0.3377,
+   "merged": 17423,
+   "standing": 10272,
+   "moved": 8883,
+   "Misapplied": 65,
+   "Illegitimate": 2578,
+   "Invalid": 1830,
+   "Artificial Hybrid": 36,
+   "Local Biotype": 40,
+   "Unplaced": 1545,
+   "Orthographic": 113
+  },
+  "1870": {
+   "n": 36253,
+   "share_standing": 0.2587,
+   "moved_share_of_synonyms": 0.3412,
+   "merged": 13907,
+   "Illegitimate": 1871,
+   "standing": 9379,
+   "Invalid": 1668,
+   "moved": 7204,
+   "Unplaced": 2023,
+   "Artificial Hybrid": 46,
+   "Orthographic": 100,
+   "Misapplied": 33,
+   "Local Biotype": 22
+  },
+  "1880": {
+   "n": 36664,
+   "share_standing": 0.278,
+   "moved_share_of_synonyms": 0.3484,
+   "merged": 13430,
+   "standing": 10191,
+   "Illegitimate": 1710,
+   "moved": 7181,
+   "Invalid": 1036,
+   "Artificial Hybrid": 163,
+   "Unplaced": 2649,
+   "Orthographic": 273,
+   "Misapplied": 11,
+   "Local Biotype": 20
+  },
+  "1890": {
+   "n": 55419,
+   "share_standing": 0.2588,
+   "moved_share_of_synonyms": 0.3462,
+   "standing": 14342,
+   "Invalid": 1147,
+   "merged": 22228,
+   "Unplaced": 3085,
+   "moved": 11771,
+   "Illegitimate": 2478,
+   "Orthographic": 120,
+   "Artificial Hybrid": 195,
+   "Local Biotype": 43,
+   "Misapplied": 10
+  },
+  "1900": {
+   "n": 63650,
+   "share_standing": 0.2661,
+   "moved_share_of_synonyms": 0.3038,
+   "merged": 27515,
+   "standing": 16940,
+   "moved": 12005,
+   "Invalid": 571,
+   "Illegitimate": 2142,
+   "Unplaced": 4115,
+   "Artificial Hybrid": 135,
+   "Misapplied": 15,
+   "Orthographic": 69,
+   "Local Biotype": 143
+  },
+  "1910": {
+   "n": 61554,
+   "share_standing": 0.2992,
+   "moved_share_of_synonyms": 0.3009,
+   "merged": 26138,
+   "moved": 11251,
+   "standing": 18417,
+   "Illegitimate": 1769,
+   "Invalid": 752,
+   "Unplaced": 2950,
+   "Orthographic": 36,
+   "Artificial Hybrid": 86,
+   "Local Biotype": 153,
+   "Misapplied": 2
+  },
+  "1920": {
+   "n": 56424,
+   "share_standing": 0.3242,
+   "moved_share_of_synonyms": 0.3214,
+   "moved": 10661,
+   "standing": 18293,
+   "merged": 22512,
+   "Invalid": 761,
+   "Unplaced": 2296,
+   "Artificial Hybrid": 117,
+   "Illegitimate": 1446,
+   "Orthographic": 38,
+   "Local Biotype": 298,
+   "Misapplied": 2
+  },
+  "1930": {
+   "n": 56277,
+   "share_standing": 0.3383,
+   "moved_share_of_synonyms": 0.3234,
+   "moved": 10550,
+   "merged": 22077,
+   "standing": 19039,
+   "Illegitimate": 1170,
+   "Artificial Hybrid": 82,
+   "Invalid": 1206,
+   "Unplaced": 2017,
+   "Orthographic": 27,
+   "Local Biotype": 107,
+   "Misapplied": 2
+  },
+  "1940": {
+   "n": 31563,
+   "share_standing": 0.3803,
+   "moved_share_of_synonyms": 0.3536,
+   "merged": 11515,
+   "moved": 6299,
+   "standing": 12002,
+   "Invalid": 267,
+   "Unplaced": 724,
+   "Illegitimate": 541,
+   "Orthographic": 15,
+   "Artificial Hybrid": 36,
+   "Local Biotype": 164
+  },
+  "1950": {
+   "n": 30048,
+   "share_standing": 0.44,
+   "moved_share_of_synonyms": 0.3976,
+   "merged": 9181,
+   "standing": 13220,
+   "Invalid": 306,
+   "moved": 6059,
+   "Illegitimate": 541,
+   "Unplaced": 541,
+   "Artificial Hybrid": 55,
+   "Orthographic": 7,
+   "Local Biotype": 137,
+   "Misapplied": 1
+  },
+  "1960": {
+   "n": 29418,
+   "share_standing": 0.4834,
+   "moved_share_of_synonyms": 0.4739,
+   "standing": 14222,
+   "moved": 6746,
+   "merged": 7489,
+   "Illegitimate": 393,
+   "Invalid": 234,
+   "Unplaced": 288,
+   "Artificial Hybrid": 38,
+   "Orthographic": 8
+  },
+  "1970": {
+   "n": 34750,
+   "share_standing": 0.5043,
+   "moved_share_of_synonyms": 0.5609,
+   "standing": 17523,
+   "merged": 7114,
+   "moved": 9089,
+   "Invalid": 234,
+   "Illegitimate": 419,
+   "Unplaced": 305,
+   "Artificial Hybrid": 57,
+   "Local Biotype": 4,
+   "Orthographic": 5
+  },
+  "1980": {
+   "n": 42709,
+   "share_standing": 0.5468,
+   "moved_share_of_synonyms": 0.5208,
+   "standing": 23352,
+   "merged": 8589,
+   "moved": 9333,
+   "Illegitimate": 539,
+   "Invalid": 373,
+   "Unplaced": 470,
+   "Artificial Hybrid": 43,
+   "Orthographic": 10
+  },
+  "1990": {
+   "n": 39284,
+   "share_standing": 0.6511,
+   "moved_share_of_synonyms": 0.6205,
+   "moved": 7833,
+   "merged": 4790,
+   "standing": 25579,
+   "Illegitimate": 432,
+   "Invalid": 191,
+   "Unplaced": 380,
+   "Artificial Hybrid": 73,
+   "Orthographic": 5,
+   "Local Biotype": 1
+  },
+  "2000": {
+   "n": 41830,
+   "share_standing": 0.6199,
+   "moved_share_of_synonyms": 0.7438,
+   "standing": 25930,
+   "merged": 3823,
+   "moved": 11099,
+   "Unplaced": 288,
+   "Invalid": 189,
+   "Illegitimate": 393,
+   "Artificial Hybrid": 107,
+   "Orthographic": 1
+  },
+  "2010": {
+   "n": 53158,
+   "share_standing": 0.7369,
+   "moved_share_of_synonyms": 0.7327,
+   "standing": 39174,
+   "merged": 3432,
+   "Unplaced": 399,
+   "moved": 9407,
+   "Artificial Hybrid": 117,
+   "Illegitimate": 483,
+   "Invalid": 145,
+   "Local Biotype": 1
+  },
+  "2020": {
+   "n": 28960,
+   "share_standing": 0.7583,
+   "moved_share_of_synonyms": 0.8405,
+   "moved": 4959,
+   "merged": 941,
+   "Invalid": 159,
+   "standing": 21960,
+   "Illegitimate": 194,
+   "Unplaced": 348,
+   "Artificial Hybrid": 106,
+   "Local Biotype": 292,
+   "Orthographic": 1
+  }
+ },
+ "years_n_ge_1000_lowest_share": [
+  [
+   1796,
+   1971,
+   0.0188
+  ],
+  [
+   1891,
+   31636,
+   0.0593
+  ],
+  [
+   1814,
+   1445,
+   0.1128
+  ],
+  [
+   1812,
+   2531,
+   0.1169
+  ],
+  [
+   1821,
+   3993,
+   0.1182
+  ],
+  [
+   1829,
+   5299,
+   0.121
+  ],
+  [
+   1790,
+   1486,
+   0.1245
+  ],
+  [
+   1794,
+   2307,
+   0.1313
+  ],
+  [
+   1815,
+   1070,
+   0.1374
+  ],
+  [
+   1768,
+   2102,
+   0.1394
+  ]
+ ],
+ "years_largest": [
+  [
+   1891,
+   31636,
+   0.0593
+  ],
+  [
+   2018,
+   9190,
+   0.681
+  ],
+  [
+   1913,
+   9112,
+   0.2924
+  ],
+  [
+   1838,
+   8735,
+   0.1823
+  ],
+  [
+   1905,
+   8450,
+   0.2698
+  ],
+  [
+   1912,
+   8344,
+   0.3219
+  ],
+  [
+   1895,
+   7675,
+   0.2494
+  ],
+  [
+   1906,
+   7518,
+   0.2663
+  ],
+  [
+   1908,
+   7434,
+   0.3067
+  ],
+  [
+   1840,
+   7402,
+   0.1517
+  ]
+ ],
+ "year_1753": {
+  "n": 5537,
+  "share_standing": 0.5207,
+  "moved_share_of_synonyms": 0.7544,
+  "standing": 2883,
+  "moved": 1984,
+  "merged": 646,
+  "Unplaced": 16,
+  "Invalid": 3,
+  "Illegitimate": 2,
+  "Artificial Hybrid": 2,
+  "Orthographic": 1
+ },
+ "years_share": {
+  "1753": [
+   5537,
+   0.5207
+  ],
+  "1754": [
+   47,
+   0.1915
+  ],
+  "1755": [
+   128,
+   0.3516
+  ],
+  "1756": [
+   161,
+   0.3106
+  ],
+  "1757": [
+   36,
+   0.0278
+  ],
+  "1758": [
+   39,
+   0.1795
+  ],
+  "1759": [
+   695,
+   0.318
+  ],
+  "1760": [
+   391,
+   0.3069
+  ],
+  "1761": [
+   31,
+   0.129
+  ],
+  "1762": [
+   570,
+   0.286
+  ],
+  "1763": [
+   542,
+   0.2214
+  ],
+  "1764": [
+   302,
+   0.0762
+  ],
+  "1765": [
+   45,
+   0.2667
+  ],
+  "1766": [
+   308,
+   0.0714
+  ],
+  "1767": [
+   831,
+   0.2407
+  ],
+  "1768": [
+   2102,
+   0.1394
+  ],
+  "1769": [
+   186,
+   0.086
+  ],
+  "1770": [
+   164,
+   0.2256
+  ],
+  "1771": [
+   1013,
+   0.1846
+  ],
+  "1772": [
+   88,
+   0.1477
+  ],
+  "1773": [
+   344,
+   0.2762
+  ],
+  "1774": [
+   167,
+   0.1437
+  ],
+  "1775": [
+   1295,
+   0.2301
+  ],
+  "1776": [
+   407,
+   0.2629
+  ],
+  "1777": [
+   170,
+   0.1353
+  ],
+  "1778": [
+   177,
+   0.2486
+  ],
+  "1779": [
+   994,
+   0.0865
+  ],
+  "1780": [
+   136,
+   0.1912
+  ],
+  "1781": [
+   191,
+   0.2513
+  ],
+  "1782": [
+   1770,
+   0.1825
+  ],
+  "1783": [
+   561,
+   0.1569
+  ],
+  "1784": [
+   546,
+   0.2015
+  ],
+  "1785": [
+   989,
+   0.1911
+  ],
+  "1786": [
+   1029,
+   0.2021
+  ],
+  "1787": [
+   718,
+   0.124
+  ],
+  "1788": [
+   2171,
+   0.2059
+  ],
+  "1789": [
+   1721,
+   0.2255
+  ],
+  "1790": [
+   1486,
+   0.1245
+  ],
+  "1791": [
+   1692,
+   0.1537
+  ],
+  "1792": [
+   1270,
+   0.1425
+  ],
+  "1793": [
+   435,
+   0.1678
+  ],
+  "1794": [
+   2307,
+   0.1313
+  ],
+  "1795": [
+   429,
+   0.1422
+  ],
+  "1796": [
+   1971,
+   0.0188
+  ],
+  "1797": [
+   1157,
+   0.185
+  ],
+  "1798": [
+   1827,
+   0.2671
+  ],
+  "1799": [
+   1351,
+   0.2124
+  ],
+  "1800": [
+   1928,
+   0.2204
+  ],
+  "1801": [
+   939,
+   0.196
+  ],
+  "1802": [
+   1629,
+   0.194
+  ],
+  "1803": [
+   2295,
+   0.1852
+  ],
+  "1804": [
+   1802,
+   0.1759
+  ],
+  "1805": [
+   2794,
+   0.1847
+  ],
+  "1806": [
+   2216,
+   0.1832
+  ],
+  "1807": [
+   1362,
+   0.2034
+  ],
+  "1808": [
+   1483,
+   0.2111
+  ],
+  "1809": [
+   1748,
+   0.1516
+  ],
+  "1810": [
+   3301,
+   0.3693
+  ],
+  "1811": [
+   1489,
+   0.1518
+  ],
+  "1812": [
+   2531,
+   0.1169
+  ],
+  "1813": [
+   2315,
+   0.1577
+  ],
+  "1814": [
+   1445,
+   0.1128
+  ],
+  "1815": [
+   1070,
+   0.1374
+  ],
+  "1816": [
+   2268,
+   0.1724
+  ],
+  "1817": [
+   2749,
+   0.1855
+  ],
+  "1818": [
+   2987,
+   0.1858
+  ],
+  "1819": [
+   2910,
+   0.1474
+  ],
+  "1820": [
+   2050,
+   0.1629
+  ],
+  "1821": [
+   3993,
+   0.1182
+  ],
+  "1822": [
+   2308,
+   0.1594
+  ],
+  "1823": [
+   2126,
+   0.1914
+  ],
+  "1824": [
+   6420,
+   0.1589
+  ],
+  "1825": [
+   6144,
+   0.1768
+  ],
+  "1826": [
+   4963,
+   0.1695
+  ],
+  "1827": [
+   4333,
+   0.1558
+  ],
+  "1828": [
+   4164,
+   0.1825
+  ],
+  "1829": [
+   5299,
+   0.121
+  ],
+  "1830": [
+   6884,
+   0.2005
+  ],
+  "1831": [
+   5234,
+   0.1481
+  ],
+  "1832": [
+   5293,
+   0.1806
+  ],
+  "1833": [
+   3508,
+   0.2263
+  ],
+  "1834": [
+   4828,
+   0.1891
+  ],
+  "1835": [
+   3126,
+   0.2179
+  ],
+  "1836": [
+   6821,
+   0.1957
+  ],
+  "1837": [
+   6520,
+   0.1584
+  ],
+  "1838": [
+   8735,
+   0.1823
+  ],
+  "1839": [
+   3999,
+   0.2118
+  ],
+  "1840": [
+   7402,
+   0.1517
+  ],
+  "1841": [
+   6816,
+   0.1756
+  ],
+  "1842": [
+   3882,
+   0.2375
+  ],
+  "1843": [
+   5084,
+   0.2358
+  ],
+  "1844": [
+   5917,
+   0.2342
+  ],
+  "1845": [
+   6806,
+   0.1853
+  ],
+  "1846": [
+   5267,
+   0.2415
+  ],
+  "1847": [
+   5619,
+   0.17
+  ],
+  "1848": [
+   3987,
+   0.2473
+  ],
+  "1849": [
+   5050,
+   0.2473
+  ],
+  "1850": [
+   3661,
+   0.1808
+  ],
+  "1851": [
+   3902,
+   0.1914
+  ],
+  "1852": [
+   5532,
+   0.192
+  ],
+  "1853": [
+   3577,
+   0.2018
+  ],
+  "1854": [
+   5920,
+   0.187
+  ],
+  "1855": [
+   4056,
+   0.2093
+  ],
+  "1856": [
+   5168,
+   0.2146
+  ],
+  "1857": [
+   4982,
+   0.1885
+  ],
+  "1858": [
+   4022,
+   0.2019
+  ],
+  "1859": [
+   4871,
+   0.3003
+  ],
+  "1860": [
+   4446,
+   0.2411
+  ],
+  "1861": [
+   4605,
+   0.2354
+  ],
+  "1862": [
+   3942,
+   0.2577
+  ],
+  "1863": [
+   3468,
+   0.2514
+  ],
+  "1864": [
+   4927,
+   0.2346
+  ],
+  "1865": [
+   3597,
+   0.295
+  ],
+  "1866": [
+   5020,
+   0.208
+  ],
+  "1867": [
+   4190,
+   0.2379
+  ],
+  "1868": [
+   4626,
+   0.2531
+  ],
+  "1869": [
+   3964,
+   0.2016
+  ],
+  "1870": [
+   2431,
+   0.2304
+  ],
+  "1871": [
+   3261,
+   0.3054
+  ],
+  "1872": [
+   2820,
+   0.2645
+  ],
+  "1873": [
+   3440,
+   0.264
+  ],
+  "1874": [
+   4053,
+   0.2531
+  ],
+  "1875": [
+   4743,
+   0.2454
+  ],
+  "1876": [
+   3497,
+   0.2805
+  ],
+  "1877": [
+   3750,
+   0.2509
+  ],
+  "1878": [
+   4492,
+   0.2389
+  ],
+  "1879": [
+   3766,
+   0.2613
+  ],
+  "1880": [
+   2936,
+   0.2497
+  ],
+  "1881": [
+   3654,
+   0.2545
+  ],
+  "1882": [
+   4298,
+   0.2573
+  ],
+  "1883": [
+   3862,
+   0.3281
+  ],
+  "1884": [
+   3227,
+   0.2197
+  ],
+  "1885": [
+   3402,
+   0.269
+  ],
+  "1886": [
+   3575,
+   0.3102
+  ],
+  "1887": [
+   3530,
+   0.2904
+  ],
+  "1888": [
+   3775,
+   0.2938
+  ],
+  "1889": [
+   4405,
+   0.2924
+  ],
+  "1890": [
+   4358,
+   0.2501
+  ],
+  "1891": [
+   31636,
+   0.0593
+  ],
+  "1892": [
+   3769,
+   0.2741
+  ],
+  "1893": [
+   5307,
+   0.2423
+  ],
+  "1894": [
+   7233,
+   0.2396
+  ],
+  "1895": [
+   7675,
+   0.2494
+  ],
+  "1896": [
+   6021,
+   0.2765
+  ],
+  "1897": [
+   5267,
+   0.2664
+  ],
+  "1898": [
+   5952,
+   0.2483
+  ],
+  "1899": [
+   5303,
+   0.2972
+  ],
+  "1900": [
+   5999,
+   0.2674
+  ],
+  "1901": [
+   5555,
+   0.2563
+  ],
+  "1902": [
+   5472,
+   0.2462
+  ],
+  "1903": [
+   6354,
+   0.2543
+  ],
+  "1904": [
+   5488,
+   0.2684
+  ],
+  "1905": [
+   8450,
+   0.2698
+  ],
+  "1906": [
+   7518,
+   0.2663
+  ],
+  "1907": [
+   5170,
+   0.2656
+  ],
+  "1908": [
+   7434,
+   0.3067
+  ],
+  "1909": [
+   6210,
+   0.2481
+  ],
+  "1910": [
+   6147,
+   0.3104
+  ],
+  "1911": [
+   6730,
+   0.3198
+  ],
+  "1912": [
+   8344,
+   0.3219
+  ],
+  "1913": [
+   9112,
+   0.2924
+  ],
+  "1914": [
+   5989,
+   0.2882
+  ],
+  "1915": [
+   6406,
+   0.2863
+  ],
+  "1916": [
+   5807,
+   0.29
+  ],
+  "1917": [
+   4827,
+   0.2942
+  ],
+  "1918": [
+   3822,
+   0.2711
+  ],
+  "1919": [
+   4370,
+   0.2991
+  ],
+  "1920": [
+   5541,
+   0.3261
+  ],
+  "1921": [
+   5139,
+   0.2851
+  ],
+  "1922": [
+   6097,
+   0.318
+  ],
+  "1923": [
+   5809,
+   0.3281
+  ],
+  "1924": [
+   5720,
+   0.3227
+  ],
+  "1925": [
+   5145,
+   0.3331
+  ],
+  "1926": [
+   4553,
+   0.3411
+  ],
+  "1927": [
+   5426,
+   0.3415
+  ],
+  "1928": [
+   5739,
+   0.3262
+  ],
+  "1929": [
+   7255,
+   0.3223
+  ],
+  "1930": [
+   5634,
+   0.301
+  ],
+  "1931": [
+   6048,
+   0.3047
+  ],
+  "1932": [
+   5315,
+   0.3445
+  ],
+  "1933": [
+   5454,
+   0.3082
+  ],
+  "1934": [
+   6179,
+   0.3433
+  ],
+  "1935": [
+   5459,
+   0.3387
+  ],
+  "1936": [
+   7219,
+   0.3665
+  ],
+  "1937": [
+   5233,
+   0.3619
+  ],
+  "1938": [
+   4884,
+   0.3516
+  ],
+  "1939": [
+   4852,
+   0.3629
+  ],
+  "1940": [
+   4998,
+   0.384
+  ],
+  "1941": [
+   4596,
+   0.3403
+  ],
+  "1942": [
+   3960,
+   0.4121
+  ],
+  "1943": [
+   2893,
+   0.3775
+  ],
+  "1944": [
+   2884,
+   0.3402
+  ],
+  "1945": [
+   1721,
+   0.4172
+  ],
+  "1946": [
+   1772,
+   0.3933
+  ],
+  "1947": [
+   2915,
+   0.3081
+  ],
+  "1948": [
+   2829,
+   0.4033
+  ],
+  "1949": [
+   2995,
+   0.4541
+  ],
+  "1950": [
+   3832,
+   0.4397
+  ],
+  "1951": [
+   3551,
+   0.4365
+  ],
+  "1952": [
+   3046,
+   0.4117
+  ],
+  "1953": [
+   3331,
+   0.4494
+  ],
+  "1954": [
+   2632,
+   0.4415
+  ],
+  "1955": [
+   2623,
+   0.4857
+  ],
+  "1956": [
+   2728,
+   0.4109
+  ],
+  "1957": [
+   2840,
+   0.4486
+  ],
+  "1958": [
+   3049,
+   0.4641
+  ],
+  "1959": [
+   2416,
+   0.4089
+  ],
+  "1960": [
+   2991,
+   0.447
+  ],
+  "1961": [
+   3095,
+   0.4226
+  ],
+  "1962": [
+   2814,
+   0.4481
+  ],
+  "1963": [
+   3223,
+   0.4356
+  ],
+  "1964": [
+   2838,
+   0.4729
+  ],
+  "1965": [
+   2874,
+   0.4784
+  ],
+  "1966": [
+   2920,
+   0.5158
+  ],
+  "1967": [
+   3143,
+   0.5317
+  ],
+  "1968": [
+   2905,
+   0.5504
+  ],
+  "1969": [
+   2615,
+   0.5426
+  ],
+  "1970": [
+   3402,
+   0.5447
+  ],
+  "1971": [
+   2727,
+   0.5438
+  ],
+  "1972": [
+   4117,
+   0.4758
+  ],
+  "1973": [
+   3502,
+   0.4403
+  ],
+  "1974": [
+   3437,
+   0.467
+  ],
+  "1975": [
+   3247,
+   0.5497
+  ],
+  "1976": [
+   3137,
+   0.4661
+  ],
+  "1977": [
+   3273,
+   0.4757
+  ],
+  "1978": [
+   3836,
+   0.6176
+  ],
+  "1979": [
+   4072,
+   0.4686
+  ],
+  "1980": [
+   3963,
+   0.5683
+  ],
+  "1981": [
+   4405,
+   0.4894
+  ],
+  "1982": [
+   4390,
+   0.5831
+  ],
+  "1983": [
+   4963,
+   0.4338
+  ],
+  "1984": [
+   4120,
+   0.5408
+  ],
+  "1985": [
+   3972,
+   0.5768
+  ],
+  "1986": [
+   3986,
+   0.6247
+  ],
+  "1987": [
+   4585,
+   0.5032
+  ],
+  "1988": [
+   4412,
+   0.5947
+  ],
+  "1989": [
+   3913,
+   0.5855
+  ],
+  "1990": [
+   3910,
+   0.6535
+  ],
+  "1991": [
+   3996,
+   0.6549
+  ],
+  "1992": [
+   4404,
+   0.6969
+  ],
+  "1993": [
+   3999,
+   0.6179
+  ],
+  "1994": [
+   3037,
+   0.5986
+  ],
+  "1995": [
+   4200,
+   0.6612
+  ],
+  "1996": [
+   3772,
+   0.6424
+  ],
+  "1997": [
+   4023,
+   0.6413
+  ],
+  "1998": [
+   3937,
+   0.6675
+  ],
+  "1999": [
+   4006,
+   0.6593
+  ],
+  "2000": [
+   3240,
+   0.6269
+  ],
+  "2001": [
+   4758,
+   0.5874
+  ],
+  "2002": [
+   4044,
+   0.5818
+  ],
+  "2003": [
+   4842,
+   0.4967
+  ],
+  "2004": [
+   3859,
+   0.5843
+  ],
+  "2005": [
+   3610,
+   0.6399
+  ],
+  "2006": [
+   4728,
+   0.5679
+  ],
+  "2007": [
+   4704,
+   0.723
+  ],
+  "2008": [
+   4000,
+   0.7218
+  ],
+  "2009": [
+   4045,
+   0.6942
+  ],
+  "2010": [
+   4244,
+   0.7274
+  ],
+  "2011": [
+   4739,
+   0.7647
+  ],
+  "2012": [
+   5110,
+   0.7202
+  ],
+  "2013": [
+   4603,
+   0.7456
+  ],
+  "2014": [
+   4655,
+   0.7985
+  ],
+  "2015": [
+   5037,
+   0.728
+  ],
+  "2016": [
+   4604,
+   0.768
+  ],
+  "2017": [
+   5642,
+   0.7127
+  ],
+  "2018": [
+   9190,
+   0.681
+  ],
+  "2019": [
+   5334,
+   0.7784
+  ],
+  "2020": [
+   5309,
+   0.8395
+  ],
+  "2021": [
+   4932,
+   0.807
+  ],
+  "2022": [
+   4806,
+   0.7484
+  ],
+  "2023": [
+   4999,
+   0.6601
+  ],
+  "2024": [
+   5160,
+   0.6516
+  ],
+  "2025": [
+   3722,
+   0.8684
+  ],
+  "2026": [
+   32,
+   1.0
+  ]
+ },
+ "years_kinds": {
+  "1753": {
+   "standing": 2883,
+   "moved": 1984,
+   "merged": 646,
+   "Unplaced": 16,
+   "Invalid": 3,
+   "Illegitimate": 2,
+   "Artificial Hybrid": 2,
+   "Orthographic": 1
+  },
+  "1754": {
+   "merged": 15,
+   "standing": 9,
+   "moved": 16,
+   "Unplaced": 3,
+   "Invalid": 4
+  },
+  "1755": {
+   "moved": 38,
+   "merged": 36,
+   "standing": 45,
+   "Illegitimate": 7,
+   "Invalid": 1,
+   "Unplaced": 1
+  },
+  "1756": {
+   "Invalid": 28,
+   "merged": 36,
+   "standing": 50,
+   "moved": 45,
+   "Illegitimate": 2
+  },
+  "1757": {
+   "merged": 20,
+   "moved": 8,
+   "standing": 1,
+   "Invalid": 4,
+   "Unplaced": 3
+  },
+  "1758": {
+   "moved": 10,
+   "merged": 18,
+   "standing": 7,
+   "Illegitimate": 3,
+   "Invalid": 1
+  },
+  "1759": {
+   "standing": 221,
+   "moved": 238,
+   "merged": 179,
+   "Illegitimate": 32,
+   "Orthographic": 10,
+   "Invalid": 3,
+   "Unplaced": 12
+  },
+  "1760": {
+   "moved": 151,
+   "merged": 102,
+   "standing": 120,
+   "Illegitimate": 5,
+   "Unplaced": 10,
+   "Orthographic": 2,
+   "Invalid": 1
+  },
+  "1761": {
+   "Illegitimate": 4,
+   "merged": 9,
+   "Unplaced": 10,
+   "moved": 3,
+   "standing": 4,
+   "Orthographic": 1
+  },
+  "1762": {
+   "Illegitimate": 56,
+   "moved": 134,
+   "merged": 194,
+   "standing": 163,
+   "Unplaced": 6,
+   "Invalid": 1,
+   "Misapplied": 9,
+   "Orthographic": 6,
+   "Artificial Hybrid": 1
+  },
+  "1763": {
+   "moved": 170,
+   "standing": 120,
+   "Orthographic": 6,
+   "merged": 185,
+   "Unplaced": 10,
+   "Illegitimate": 48,
+   "Misapplied": 1,
+   "Invalid": 2
+  },
+  "1764": {
+   "Invalid": 199,
+   "moved": 21,
+   "standing": 23,
+   "Unplaced": 9,
+   "merged": 35,
+   "Illegitimate": 13,
+   "Misapplied": 1,
+   "Orthographic": 1
+  },
+  "1765": {
+   "Unplaced": 6,
+   "moved": 3,
+   "merged": 20,
+   "standing": 12,
+   "Illegitimate": 3,
+   "Orthographic": 1
+  },
+  "1766": {
+   "moved": 108,
+   "merged": 132,
+   "Orthographic": 11,
+   "Illegitimate": 21,
+   "Unplaced": 9,
+   "standing": 22,
+   "Invalid": 5
+  },
+  "1767": {
+   "merged": 277,
+   "moved": 267,
+   "standing": 200,
+   "Illegitimate": 60,
+   "Unplaced": 15,
+   "Orthographic": 5,
+   "Invalid": 5,
+   "Artificial Hybrid": 1,
+   "Misapplied": 1
+  },
+  "1768": {
+   "standing": 293,
+   "merged": 1070,
+   "moved": 435,
+   "Unplaced": 154,
+   "Illegitimate": 109,
+   "Orthographic": 15,
+   "Misapplied": 10,
+   "Invalid": 15,
+   "Artificial Hybrid": 1
+  },
+  "1769": {
+   "moved": 62,
+   "standing": 16,
+   "merged": 78,
+   "Orthographic": 3,
+   "Illegitimate": 16,
+   "Unplaced": 8,
+   "Misapplied": 3
+  },
+  "1770": {
+   "standing": 37,
+   "merged": 76,
+   "moved": 33,
+   "Orthographic": 3,
+   "Artificial Hybrid": 2,
+   "Unplaced": 8,
+   "Misapplied": 2,
+   "Illegitimate": 2,
+   "Invalid": 1
+  },
+  "1771": {
+   "merged": 362,
+   "standing": 187,
+   "moved": 313,
+   "Illegitimate": 102,
+   "Misapplied": 8,
+   "Orthographic": 7,
+   "Unplaced": 32,
+   "Invalid": 2
+  },
+  "1772": {
+   "Orthographic": 4,
+   "moved": 23,
+   "Illegitimate": 6,
+   "merged": 33,
+   "Unplaced": 7,
+   "standing": 13,
+   "Invalid": 1,
+   "Misapplied": 1
+  },
+  "1773": {
+   "Invalid": 5,
+   "merged": 126,
+   "standing": 95,
+   "Illegitimate": 36,
+   "moved": 63,
+   "Unplaced": 11,
+   "Misapplied": 4,
+   "Orthographic": 4
+  },
+  "1774": {
+   "Illegitimate": 31,
+   "Orthographic": 5,
+   "standing": 24,
+   "moved": 32,
+   "merged": 63,
+   "Artificial Hybrid": 1,
+   "Unplaced": 7,
+   "Invalid": 1,
+   "Misapplied": 3
+  },
+  "1775": {
+   "standing": 298,
+   "merged": 372,
+   "moved": 397,
+   "Invalid": 21,
+   "Illegitimate": 94,
+   "Unplaced": 70,
+   "Misapplied": 37,
+   "Orthographic": 6
+  },
+  "1776": {
+   "Invalid": 16,
+   "standing": 107,
+   "merged": 112,
+   "moved": 100,
+   "Orthographic": 4,
+   "Unplaced": 8,
+   "Illegitimate": 54,
+   "Misapplied": 6
+  },
+  "1777": {
+   "merged": 74,
+   "moved": 41,
+   "Unplaced": 8,
+   "standing": 23,
+   "Orthographic": 3,
+   "Illegitimate": 15,
+   "Misapplied": 2,
+   "Invalid": 4
+  },
+  "1778": {
+   "merged": 64,
+   "standing": 44,
+   "Illegitimate": 24,
+   "moved": 21,
+   "Unplaced": 17,
+   "Invalid": 3,
+   "Misapplied": 3,
+   "Orthographic": 1
+  },
+  "1779": {
+   "moved": 151,
+   "merged": 545,
+   "Illegitimate": 186,
+   "standing": 86,
+   "Unplaced": 10,
+   "Orthographic": 4,
+   "Misapplied": 10,
+   "Invalid": 2
+  },
+  "1780": {
+   "standing": 26,
+   "moved": 26,
+   "merged": 58,
+   "Illegitimate": 21,
+   "Unplaced": 2,
+   "Orthographic": 2,
+   "Misapplied": 1
+  },
+  "1781": {
+   "moved": 41,
+   "merged": 67,
+   "standing": 48,
+   "Illegitimate": 16,
+   "Misapplied": 4,
+   "Unplaced": 5,
+   "Invalid": 8,
+   "Orthographic": 2
+  },
+  "1782": {
+   "standing": 323,
+   "moved": 502,
+   "Invalid": 455,
+   "merged": 340,
+   "Illegitimate": 101,
+   "Orthographic": 6,
+   "Unplaced": 40,
+   "Misapplied": 3
+  },
+  "1783": {
+   "moved": 117,
+   "merged": 252,
+   "Illegitimate": 50,
+   "Unplaced": 45,
+   "standing": 88,
+   "Invalid": 6,
+   "Misapplied": 3
+  },
+  "1784": {
+   "Misapplied": 38,
+   "merged": 149,
+   "moved": 158,
+   "Unplaced": 23,
+   "standing": 110,
+   "Illegitimate": 63,
+   "Orthographic": 3,
+   "Invalid": 2
+  },
+  "1785": {
+   "merged": 412,
+   "Misapplied": 19,
+   "moved": 210,
+   "Illegitimate": 113,
+   "standing": 189,
+   "Invalid": 9,
+   "Unplaced": 35,
+   "Artificial Hybrid": 1,
+   "Orthographic": 1
+  },
+  "1786": {
+   "merged": 392,
+   "standing": 208,
+   "moved": 286,
+   "Illegitimate": 78,
+   "Invalid": 26,
+   "Unplaced": 22,
+   "Misapplied": 10,
+   "Orthographic": 6,
+   "Artificial Hybrid": 1
+  },
+  "1787": {
+   "standing": 89,
+   "Invalid": 17,
+   "moved": 166,
+   "Illegitimate": 86,
+   "Misapplied": 13,
+   "merged": 310,
+   "Unplaced": 37
+  },
+  "1788": {
+   "standing": 447,
+   "moved": 621,
+   "merged": 757,
+   "Illegitimate": 229,
+   "Misapplied": 33,
+   "Invalid": 27,
+   "Unplaced": 54,
+   "Orthographic": 3
+  },
+  "1789": {
+   "merged": 709,
+   "moved": 386,
+   "standing": 388,
+   "Orthographic": 7,
+   "Illegitimate": 166,
+   "Unplaced": 38,
+   "Misapplied": 12,
+   "Invalid": 13,
+   "Artificial Hybrid": 2
+  },
+  "1790": {
+   "moved": 289,
+   "Unplaced": 159,
+   "Invalid": 205,
+   "Illegitimate": 118,
+   "merged": 496,
+   "standing": 185,
+   "Misapplied": 25,
+   "Orthographic": 7,
+   "Artificial Hybrid": 2
+  },
+  "1791": {
+   "standing": 260,
+   "merged": 715,
+   "moved": 405,
+   "Illegitimate": 204,
+   "Unplaced": 65,
+   "Invalid": 19,
+   "Orthographic": 17,
+   "Misapplied": 6,
+   "Artificial Hybrid": 1
+  },
+  "1792": {
+   "merged": 495,
+   "Illegitimate": 113,
+   "Invalid": 141,
+   "standing": 181,
+   "moved": 243,
+   "Unplaced": 76,
+   "Misapplied": 6,
+   "Orthographic": 14,
+   "Artificial Hybrid": 1
+  },
+  "1793": {
+   "merged": 176,
+   "moved": 97,
+   "Unplaced": 22,
+   "Illegitimate": 50,
+   "standing": 73,
+   "Orthographic": 3,
+   "Invalid": 14
+  },
+  "1794": {
+   "Illegitimate": 358,
+   "moved": 555,
+   "merged": 1032,
+   "standing": 303,
+   "Invalid": 3,
+   "Misapplied": 8,
+   "Unplaced": 45,
+   "Orthographic": 3
+  },
+  "1795": {
+   "moved": 135,
+   "Invalid": 8,
+   "merged": 160,
+   "standing": 61,
+   "Illegitimate": 43,
+   "Unplaced": 17,
+   "Misapplied": 4,
+   "Orthographic": 1
+  },
+  "1796": {
+   "merged": 916,
+   "Illegitimate": 779,
+   "Unplaced": 77,
+   "moved": 144,
+   "standing": 37,
+   "Misapplied": 4,
+   "Invalid": 10,
+   "Orthographic": 3,
+   "Artificial Hybrid": 1
+  },
+  "1797": {
+   "merged": 499,
+   "Illegitimate": 119,
+   "moved": 260,
+   "Invalid": 28,
+   "standing": 214,
+   "Orthographic": 3,
+   "Unplaced": 31,
+   "Misapplied": 3
+  },
+  "1798": {
+   "standing": 488,
+   "merged": 655,
+   "Misapplied": 22,
+   "Illegitimate": 178,
+   "moved": 438,
+   "Unplaced": 38,
+   "Orthographic": 3,
+   "Invalid": 5
+  },
+  "1799": {
+   "standing": 287,
+   "merged": 455,
+   "moved": 334,
+   "Illegitimate": 199,
+   "Misapplied": 11,
+   "Unplaced": 54,
+   "Orthographic": 4,
+   "Invalid": 7
+  },
+  "1800": {
+   "Illegitimate": 225,
+   "moved": 451,
+   "merged": 735,
+   "standing": 425,
+   "Invalid": 12,
+   "Misapplied": 20,
+   "Unplaced": 51,
+   "Orthographic": 8,
+   "Artificial Hybrid": 1
+  },
+  "1801": {
+   "merged": 356,
+   "moved": 251,
+   "Unplaced": 29,
+   "standing": 184,
+   "Illegitimate": 111,
+   "Invalid": 5,
+   "Orthographic": 2,
+   "Misapplied": 1
+  },
+  "1802": {
+   "merged": 679,
+   "moved": 325,
+   "Illegitimate": 217,
+   "Unplaced": 67,
+   "standing": 316,
+   "Misapplied": 10,
+   "Invalid": 14,
+   "Orthographic": 1
+  },
+  "1803": {
+   "merged": 1007,
+   "moved": 495,
+   "standing": 425,
+   "Illegitimate": 276,
+   "Invalid": 15,
+   "Misapplied": 10,
+   "Orthographic": 4,
+   "Unplaced": 62,
+   "Artificial Hybrid": 1
+  },
+  "1804": {
+   "standing": 317,
+   "moved": 351,
+   "merged": 791,
+   "Illegitimate": 215,
+   "Unplaced": 74,
+   "Misapplied": 16,
+   "Invalid": 32,
+   "Orthographic": 5,
+   "Artificial Hybrid": 1
+  },
+  "1805": {
+   "moved": 640,
+   "merged": 1157,
+   "Illegitimate": 359,
+   "standing": 516,
+   "Invalid": 45,
+   "Orthographic": 17,
+   "Unplaced": 53,
+   "Misapplied": 7
+  },
+  "1806": {
+   "moved": 488,
+   "merged": 958,
+   "standing": 406,
+   "Unplaced": 82,
+   "Illegitimate": 237,
+   "Misapplied": 12,
+   "Invalid": 23,
+   "Artificial Hybrid": 2,
+   "Orthographic": 8
+  },
+  "1807": {
+   "merged": 567,
+   "Invalid": 20,
+   "standing": 277,
+   "moved": 285,
+   "Illegitimate": 111,
+   "Orthographic": 7,
+   "Unplaced": 89,
+   "Misapplied": 3,
+   "Artificial Hybrid": 3
+  },
+  "1808": {
+   "merged": 523,
+   "moved": 278,
+   "Invalid": 37,
+   "Illegitimate": 213,
+   "standing": 313,
+   "Unplaced": 80,
+   "Misapplied": 36,
+   "Orthographic": 3
+  },
+  "1809": {
+   "moved": 271,
+   "Illegitimate": 191,
+   "merged": 869,
+   "standing": 265,
+   "Unplaced": 112,
+   "Misapplied": 11,
+   "Invalid": 24,
+   "Orthographic": 3,
+   "Artificial Hybrid": 2
+  },
+  "1810": {
+   "merged": 1020,
+   "standing": 1219,
+   "Illegitimate": 225,
+   "moved": 760,
+   "Unplaced": 46,
+   "Invalid": 20,
+   "Misapplied": 7,
+   "Orthographic": 4
+  },
+  "1811": {
+   "merged": 701,
+   "moved": 279,
+   "standing": 226,
+   "Unplaced": 101,
+   "Orthographic": 4,
+   "Illegitimate": 151,
+   "Invalid": 20,
+   "Artificial Hybrid": 1,
+   "Misapplied": 6
+  },
+  "1812": {
+   "Illegitimate": 249,
+   "moved": 573,
+   "merged": 1162,
+   "standing": 296,
+   "Unplaced": 101,
+   "Invalid": 125,
+   "Orthographic": 16,
+   "Misapplied": 8,
+   "Artificial Hybrid": 1
+  },
+  "1813": {
+   "moved": 423,
+   "Illegitimate": 328,
+   "merged": 1035,
+   "Invalid": 62,
+   "standing": 365,
+   "Misapplied": 22,
+   "Unplaced": 75,
+   "Orthographic": 4,
+   "Artificial Hybrid": 1
+  },
+  "1814": {
+   "moved": 218,
+   "merged": 664,
+   "standing": 163,
+   "Invalid": 145,
+   "Unplaced": 107,
+   "Illegitimate": 132,
+   "Misapplied": 7,
+   "Artificial Hybrid": 1,
+   "Orthographic": 8
+  },
+  "1815": {
+   "Unplaced": 76,
+   "merged": 480,
+   "standing": 147,
+   "Illegitimate": 127,
+   "moved": 150,
+   "Invalid": 84,
+   "Orthographic": 3,
+   "Misapplied": 2,
+   "Artificial Hybrid": 1
+  },
+  "1816": {
+   "merged": 949,
+   "Invalid": 52,
+   "Illegitimate": 251,
+   "standing": 391,
+   "Unplaced": 94,
+   "moved": 518,
+   "Misapplied": 6,
+   "Orthographic": 7
+  },
+  "1817": {
+   "merged": 1158,
+   "standing": 510,
+   "Illegitimate": 253,
+   "moved": 525,
+   "Invalid": 142,
+   "Unplaced": 153,
+   "Artificial Hybrid": 1,
+   "Orthographic": 4,
+   "Misapplied": 3
+  },
+  "1818": {
+   "standing": 555,
+   "merged": 1348,
+   "moved": 598,
+   "Illegitimate": 272,
+   "Invalid": 77,
+   "Unplaced": 119,
+   "Misapplied": 10,
+   "Artificial Hybrid": 3,
+   "Orthographic": 5
+  },
+  "1819": {
+   "standing": 429,
+   "Illegitimate": 288,
+   "merged": 1400,
+   "moved": 566,
+   "Invalid": 77,
+   "Unplaced": 134,
+   "Orthographic": 9,
+   "Misapplied": 7
+  },
+  "1820": {
+   "merged": 886,
+   "moved": 377,
+   "Illegitimate": 231,
+   "standing": 334,
+   "Unplaced": 157,
+   "Orthographic": 5,
+   "Invalid": 55,
+   "Misapplied": 3,
+   "Artificial Hybrid": 2
+  },
+  "1821": {
+   "moved": 656,
+   "merged": 1788,
+   "Invalid": 380,
+   "Illegitimate": 407,
+   "standing": 472,
+   "Unplaced": 256,
+   "Orthographic": 23,
+   "Misapplied": 9,
+   "Artificial Hybrid": 2
+  },
+  "1822": {
+   "moved": 390,
+   "merged": 1106,
+   "Invalid": 28,
+   "Illegitimate": 229,
+   "Unplaced": 169,
+   "Orthographic": 10,
+   "standing": 368,
+   "Misapplied": 6,
+   "Artificial Hybrid": 1,
+   "Local Biotype": 1
+  },
+  "1823": {
+   "moved": 437,
+   "Illegitimate": 222,
+   "merged": 808,
+   "standing": 407,
+   "Invalid": 85,
+   "Unplaced": 145,
+   "Misapplied": 14,
+   "Orthographic": 8
+  },
+  "1824": {
+   "merged": 2873,
+   "Invalid": 255,
+   "Illegitimate": 596,
+   "moved": 1348,
+   "standing": 1020,
+   "Unplaced": 290,
+   "Orthographic": 20,
+   "Misapplied": 15,
+   "Artificial Hybrid": 3
+  },
+  "1825": {
+   "moved": 1421,
+   "standing": 1086,
+   "merged": 2551,
+   "Illegitimate": 523,
+   "Unplaced": 295,
+   "Invalid": 234,
+   "Misapplied": 8,
+   "Orthographic": 19,
+   "Artificial Hybrid": 1,
+   "Local Biotype": 6
+  },
+  "1826": {
+   "merged": 2069,
+   "Illegitimate": 386,
+   "moved": 1162,
+   "standing": 841,
+   "Invalid": 114,
+   "Unplaced": 367,
+   "Orthographic": 11,
+   "Artificial Hybrid": 3,
+   "Misapplied": 10
+  },
+  "1827": {
+   "merged": 2030,
+   "moved": 885,
+   "Artificial Hybrid": 4,
+   "Illegitimate": 336,
+   "standing": 675,
+   "Invalid": 151,
+   "Unplaced": 224,
+   "Misapplied": 15,
+   "Orthographic": 13
+  },
+  "1828": {
+   "standing": 760,
+   "moved": 880,
+   "merged": 1712,
+   "Illegitimate": 270,
+   "Invalid": 200,
+   "Orthographic": 13,
+   "Misapplied": 13,
+   "Unplaced": 313,
+   "Artificial Hybrid": 3
+  },
+  "1829": {
+   "Illegitimate": 486,
+   "moved": 1058,
+   "Invalid": 551,
+   "Unplaced": 433,
+   "standing": 641,
+   "merged": 2090,
+   "Misapplied": 24,
+   "Artificial Hybrid": 4,
+   "Orthographic": 10,
+   "Local Biotype": 2
+  },
+  "1830": {
+   "standing": 1380,
+   "merged": 2719,
+   "moved": 1283,
+   "Invalid": 656,
+   "Illegitimate": 401,
+   "Unplaced": 412,
+   "Orthographic": 25,
+   "Misapplied": 7,
+   "Artificial Hybrid": 1
+  },
+  "1831": {
+   "Illegitimate": 413,
+   "merged": 1882,
+   "moved": 841,
+   "Invalid": 1009,
+   "standing": 775,
+   "Unplaced": 256,
+   "Misapplied": 31,
+   "Orthographic": 23,
+   "Artificial Hybrid": 4
+  },
+  "1832": {
+   "merged": 2110,
+   "moved": 1008,
+   "Illegitimate": 502,
+   "Invalid": 443,
+   "Misapplied": 21,
+   "Unplaced": 237,
+   "standing": 956,
+   "Orthographic": 16
+  },
+  "1833": {
+   "moved": 779,
+   "standing": 794,
+   "merged": 1331,
+   "Illegitimate": 262,
+   "Unplaced": 185,
+   "Invalid": 130,
+   "Misapplied": 11,
+   "Orthographic": 13,
+   "Artificial Hybrid": 3
+  },
+  "1834": {
+   "merged": 2160,
+   "standing": 913,
+   "Invalid": 178,
+   "Illegitimate": 341,
+   "moved": 960,
+   "Artificial Hybrid": 5,
+   "Unplaced": 256,
+   "Misapplied": 8,
+   "Orthographic": 7
+  },
+  "1835": {
+   "moved": 564,
+   "merged": 1317,
+   "Unplaced": 193,
+   "Invalid": 72,
+   "standing": 681,
+   "Misapplied": 20,
+   "Illegitimate": 268,
+   "Orthographic": 11
+  },
+  "1836": {
+   "merged": 3075,
+   "Illegitimate": 384,
+   "moved": 1467,
+   "Unplaced": 235,
+   "standing": 1335,
+   "Invalid": 291,
+   "Misapplied": 19,
+   "Orthographic": 12,
+   "Artificial Hybrid": 3
+  },
+  "1837": {
+   "merged": 2957,
+   "moved": 1368,
+   "Illegitimate": 531,
+   "standing": 1033,
+   "Unplaced": 261,
+   "Invalid": 283,
+   "Misapplied": 57,
+   "Orthographic": 23,
+   "Artificial Hybrid": 7
+  },
+  "1838": {
+   "standing": 1592,
+   "merged": 3921,
+   "moved": 1928,
+   "Illegitimate": 535,
+   "Invalid": 342,
+   "Unplaced": 382,
+   "Orthographic": 19,
+   "Misapplied": 13,
+   "Artificial Hybrid": 3
+  },
+  "1839": {
+   "Invalid": 164,
+   "Illegitimate": 282,
+   "merged": 1710,
+   "moved": 776,
+   "standing": 847,
+   "Unplaced": 185,
+   "Orthographic": 18,
+   "Misapplied": 11,
+   "Artificial Hybrid": 5,
+   "Local Biotype": 1
+  },
+  "1840": {
+   "standing": 1123,
+   "moved": 1394,
+   "merged": 3037,
+   "Illegitimate": 401,
+   "Unplaced": 476,
+   "Invalid": 905,
+   "Misapplied": 10,
+   "Orthographic": 51,
+   "Artificial Hybrid": 5
+  },
+  "1841": {
+   "merged": 2516,
+   "Invalid": 1091,
+   "Illegitimate": 393,
+   "Unplaced": 440,
+   "moved": 1117,
+   "standing": 1197,
+   "Orthographic": 48,
+   "Artificial Hybrid": 4,
+   "Misapplied": 10
+  },
+  "1842": {
+   "standing": 922,
+   "merged": 1621,
+   "Illegitimate": 260,
+   "Invalid": 131,
+   "moved": 797,
+   "Unplaced": 122,
+   "Misapplied": 10,
+   "Orthographic": 14,
+   "Artificial Hybrid": 5
+  },
+  "1843": {
+   "Invalid": 276,
+   "standing": 1199,
+   "merged": 2200,
+   "moved": 945,
+   "Unplaced": 142,
+   "Illegitimate": 287,
+   "Orthographic": 20,
+   "Misapplied": 10,
+   "Artificial Hybrid": 5
+  },
+  "1844": {
+   "standing": 1386,
+   "merged": 2518,
+   "moved": 1289,
+   "Illegitimate": 331,
+   "Invalid": 203,
+   "Unplaced": 165,
+   "Artificial Hybrid": 4,
+   "Orthographic": 14,
+   "Misapplied": 7
+  },
+  "1845": {
+   "moved": 1317,
+   "Unplaced": 237,
+   "merged": 3286,
+   "Illegitimate": 396,
+   "standing": 1261,
+   "Invalid": 286,
+   "Orthographic": 7,
+   "Misapplied": 16
+  },
+  "1846": {
+   "moved": 974,
+   "Illegitimate": 303,
+   "merged": 2343,
+   "standing": 1272,
+   "Invalid": 145,
+   "Unplaced": 203,
+   "Misapplied": 11,
+   "Orthographic": 14,
+   "Local Biotype": 1,
+   "Artificial Hybrid": 1
+  },
+  "1847": {
+   "merged": 2470,
+   "Invalid": 465,
+   "Illegitimate": 290,
+   "standing": 955,
+   "moved": 1218,
+   "Unplaced": 201,
+   "Orthographic": 12,
+   "Artificial Hybrid": 6,
+   "Misapplied": 2
+  },
+  "1848": {
+   "merged": 1777,
+   "moved": 718,
+   "Unplaced": 100,
+   "Invalid": 131,
+   "Orthographic": 7,
+   "standing": 986,
+   "Illegitimate": 257,
+   "Misapplied": 8,
+   "Artificial Hybrid": 3
+  },
+  "1849": {
+   "Unplaced": 178,
+   "merged": 2137,
+   "moved": 983,
+   "Invalid": 247,
+   "standing": 1249,
+   "Illegitimate": 234,
+   "Orthographic": 12,
+   "Artificial Hybrid": 5,
+   "Misapplied": 5
+  },
+  "1850": {
+   "merged": 1746,
+   "moved": 753,
+   "Illegitimate": 233,
+   "standing": 662,
+   "Invalid": 110,
+   "Unplaced": 141,
+   "Artificial Hybrid": 4,
+   "Orthographic": 9,
+   "Local Biotype": 1,
+   "Misapplied": 2
+  },
+  "1851": {
+   "merged": 1936,
+   "moved": 741,
+   "standing": 747,
+   "Orthographic": 5,
+   "Unplaced": 118,
+   "Illegitimate": 221,
+   "Invalid": 124,
+   "Misapplied": 6,
+   "Artificial Hybrid": 4
+  },
+  "1852": {
+   "moved": 1094,
+   "Illegitimate": 244,
+   "merged": 2681,
+   "Unplaced": 181,
+   "standing": 1062,
+   "Orthographic": 15,
+   "Invalid": 240,
+   "Misapplied": 10,
+   "Artificial Hybrid": 5
+  },
+  "1853": {
+   "Unplaced": 134,
+   "merged": 1696,
+   "moved": 673,
+   "Illegitimate": 190,
+   "standing": 722,
+   "Invalid": 141,
+   "Orthographic": 12,
+   "Misapplied": 5,
+   "Artificial Hybrid": 4
+  },
+  "1854": {
+   "moved": 1069,
+   "merged": 2787,
+   "Illegitimate": 410,
+   "standing": 1107,
+   "Unplaced": 231,
+   "Orthographic": 22,
+   "Invalid": 279,
+   "Misapplied": 6,
+   "Artificial Hybrid": 9
+  },
+  "1855": {
+   "merged": 1962,
+   "standing": 849,
+   "moved": 806,
+   "Invalid": 117,
+   "Illegitimate": 210,
+   "Unplaced": 95,
+   "Orthographic": 11,
+   "Misapplied": 4,
+   "Artificial Hybrid": 2
+  },
+  "1856": {
+   "merged": 2196,
+   "moved": 1026,
+   "Illegitimate": 282,
+   "Invalid": 389,
+   "standing": 1109,
+   "Unplaced": 156,
+   "Orthographic": 8,
+   "Misapplied": 1,
+   "Local Biotype": 1
+  },
+  "1857": {
+   "standing": 939,
+   "Illegitimate": 309,
+   "moved": 911,
+   "merged": 2387,
+   "Unplaced": 183,
+   "Invalid": 234,
+   "Misapplied": 6,
+   "Artificial Hybrid": 5,
+   "Orthographic": 8
+  },
+  "1858": {
+   "merged": 1830,
+   "moved": 761,
+   "standing": 812,
+   "Illegitimate": 270,
+   "Unplaced": 158,
+   "Invalid": 166,
+   "Orthographic": 11,
+   "Artificial Hybrid": 1,
+   "Misapplied": 7,
+   "Local Biotype": 6
+  },
+  "1859": {
+   "standing": 1463,
+   "Illegitimate": 296,
+   "merged": 1872,
+   "Invalid": 114,
+   "moved": 937,
+   "Unplaced": 153,
+   "Orthographic": 13,
+   "Misapplied": 10,
+   "Local Biotype": 7,
+   "Artificial Hybrid": 6
+  },
+  "1860": {
+   "Misapplied": 10,
+   "moved": 932,
+   "merged": 1737,
+   "Invalid": 175,
+   "Illegitimate": 301,
+   "standing": 1072,
+   "Unplaced": 206,
+   "Orthographic": 9,
+   "Local Biotype": 2,
+   "Artificial Hybrid": 2
+  },
+  "1861": {
+   "merged": 2008,
+   "Illegitimate": 258,
+   "moved": 905,
+   "standing": 1084,
+   "Invalid": 104,
+   "Unplaced": 215,
+   "Artificial Hybrid": 2,
+   "Misapplied": 8,
+   "Orthographic": 10,
+   "Local Biotype": 11
+  },
+  "1862": {
+   "moved": 855,
+   "merged": 1472,
+   "standing": 1016,
+   "Illegitimate": 241,
+   "Misapplied": 4,
+   "Unplaced": 133,
+   "Invalid": 199,
+   "Orthographic": 18,
+   "Artificial Hybrid": 4
+  },
+  "1863": {
+   "merged": 1378,
+   "moved": 793,
+   "standing": 872,
+   "Illegitimate": 183,
+   "Unplaced": 114,
+   "Artificial Hybrid": 4,
+   "Invalid": 112,
+   "Orthographic": 4,
+   "Misapplied": 8
+  },
+  "1864": {
+   "moved": 1088,
+   "standing": 1156,
+   "merged": 1982,
+   "Illegitimate": 320,
+   "Invalid": 202,
+   "Unplaced": 143,
+   "Misapplied": 10,
+   "Orthographic": 15,
+   "Artificial Hybrid": 7,
+   "Local Biotype": 4
+  },
+  "1865": {
+   "merged": 1368,
+   "standing": 1061,
+   "moved": 751,
+   "Illegitimate": 186,
+   "Unplaced": 97,
+   "Invalid": 120,
+   "Orthographic": 10,
+   "Misapplied": 3,
+   "Artificial Hybrid": 1
+  },
+  "1866": {
+   "merged": 2097,
+   "standing": 1044,
+   "moved": 962,
+   "Unplaced": 164,
+   "Illegitimate": 318,
+   "Invalid": 404,
+   "Orthographic": 12,
+   "Misapplied": 12,
+   "Local Biotype": 5,
+   "Artificial Hybrid": 2
+  },
+  "1867": {
+   "moved": 847,
+   "merged": 1750,
+   "Illegitimate": 322,
+   "standing": 997,
+   "Artificial Hybrid": 4,
+   "Unplaced": 107,
+   "Invalid": 142,
+   "Orthographic": 16,
+   "Misapplied": 3,
+   "Local Biotype": 2
+  },
+  "1868": {
+   "merged": 1871,
+   "moved": 1019,
+   "Illegitimate": 221,
+   "Invalid": 160,
+   "Artificial Hybrid": 2,
+   "standing": 1171,
+   "Unplaced": 153,
+   "Orthographic": 12,
+   "Misapplied": 5,
+   "Local Biotype": 12
+  },
+  "1869": {
+   "merged": 1760,
+   "moved": 731,
+   "Local Biotype": 4,
+   "standing": 799,
+   "Illegitimate": 228,
+   "Unplaced": 213,
+   "Orthographic": 7,
+   "Invalid": 212,
+   "Misapplied": 2,
+   "Artificial Hybrid": 8
+  },
+  "1870": {
+   "merged": 965,
+   "Illegitimate": 161,
+   "moved": 558,
+   "standing": 560,
+   "Artificial Hybrid": 5,
+   "Invalid": 66,
+   "Unplaced": 103,
+   "Misapplied": 3,
+   "Local Biotype": 4,
+   "Orthographic": 6
+  },
+  "1871": {
+   "merged": 1119,
+   "moved": 715,
+   "Illegitimate": 154,
+   "standing": 996,
+   "Unplaced": 151,
+   "Invalid": 107,
+   "Misapplied": 2,
+   "Orthographic": 10,
+   "Local Biotype": 6,
+   "Artificial Hybrid": 1
+  },
+  "1872": {
+   "merged": 1094,
+   "moved": 500,
+   "standing": 746,
+   "Unplaced": 101,
+   "Invalid": 222,
+   "Illegitimate": 144,
+   "Orthographic": 9,
+   "Artificial Hybrid": 2,
+   "Misapplied": 2
+  },
+  "1873": {
+   "merged": 1359,
+   "moved": 715,
+   "standing": 908,
+   "Invalid": 120,
+   "Illegitimate": 185,
+   "Artificial Hybrid": 1,
+   "Unplaced": 136,
+   "Orthographic": 11,
+   "Misapplied": 3,
+   "Local Biotype": 2
+  },
+  "1874": {
+   "standing": 1026,
+   "merged": 1647,
+   "moved": 830,
+   "Unplaced": 119,
+   "Artificial Hybrid": 8,
+   "Orthographic": 11,
+   "Illegitimate": 246,
+   "Invalid": 160,
+   "Misapplied": 6
+  },
+  "1875": {
+   "merged": 1970,
+   "standing": 1164,
+   "moved": 854,
+   "Illegitimate": 194,
+   "Unplaced": 374,
+   "Artificial Hybrid": 8,
+   "Invalid": 166,
+   "Orthographic": 10,
+   "Local Biotype": 1,
+   "Misapplied": 2
+  },
+  "1876": {
+   "Invalid": 146,
+   "merged": 1249,
+   "moved": 750,
+   "standing": 981,
+   "Unplaced": 189,
+   "Illegitimate": 165,
+   "Artificial Hybrid": 8,
+   "Orthographic": 7,
+   "Misapplied": 2
+  },
+  "1877": {
+   "standing": 941,
+   "moved": 793,
+   "merged": 1258,
+   "Invalid": 174,
+   "Illegitimate": 249,
+   "Artificial Hybrid": 5,
+   "Unplaced": 310,
+   "Orthographic": 9,
+   "Misapplied": 3,
+   "Local Biotype": 8
+  },
+  "1878": {
+   "moved": 777,
+   "merged": 1774,
+   "Invalid": 301,
+   "Illegitimate": 180,
+   "Unplaced": 357,
+   "standing": 1073,
+   "Orthographic": 16,
+   "Artificial Hybrid": 5,
+   "Misapplied": 8,
+   "Local Biotype": 1
+  },
+  "1879": {
+   "Illegitimate": 193,
+   "Invalid": 206,
+   "merged": 1472,
+   "moved": 712,
+   "Unplaced": 183,
+   "standing": 984,
+   "Misapplied": 2,
+   "Orthographic": 11,
+   "Artificial Hybrid": 3
+  },
+  "1880": {
+   "moved": 523,
+   "merged": 1054,
+   "standing": 733,
+   "Illegitimate": 192,
+   "Invalid": 58,
+   "Artificial Hybrid": 10,
+   "Unplaced": 218,
+   "Orthographic": 146,
+   "Misapplied": 2
+  },
+  "1881": {
+   "moved": 720,
+   "merged": 1396,
+   "Artificial Hybrid": 8,
+   "Unplaced": 285,
+   "standing": 930,
+   "Invalid": 139,
+   "Illegitimate": 147,
+   "Orthographic": 26,
+   "Misapplied": 2,
+   "Local Biotype": 1
+  },
+  "1882": {
+   "moved": 932,
+   "merged": 1623,
+   "standing": 1106,
+   "Unplaced": 285,
+   "Illegitimate": 208,
+   "Invalid": 119,
+   "Orthographic": 10,
+   "Artificial Hybrid": 13,
+   "Local Biotype": 1,
+   "Misapplied": 1
+  },
+  "1883": {
+   "merged": 1283,
+   "Invalid": 127,
+   "Orthographic": 17,
+   "moved": 786,
+   "standing": 1267,
+   "Illegitimate": 178,
+   "Unplaced": 189,
+   "Artificial Hybrid": 12,
+   "Local Biotype": 1,
+   "Misapplied": 2
+  },
+  "1884": {
+   "merged": 1226,
+   "Invalid": 119,
+   "moved": 506,
+   "Unplaced": 506,
+   "Illegitimate": 138,
+   "standing": 709,
+   "Artificial Hybrid": 13,
+   "Orthographic": 7,
+   "Local Biotype": 3
+  },
+  "1885": {
+   "standing": 915,
+   "merged": 1270,
+   "moved": 743,
+   "Illegitimate": 129,
+   "Invalid": 115,
+   "Unplaced": 201,
+   "Artificial Hybrid": 16,
+   "Orthographic": 10,
+   "Local Biotype": 3
+  },
+  "1886": {
+   "merged": 1243,
+   "Illegitimate": 142,
+   "standing": 1109,
+   "Invalid": 128,
+   "moved": 761,
+   "Unplaced": 160,
+   "Orthographic": 14,
+   "Artificial Hybrid": 15,
+   "Local Biotype": 3
+  },
+  "1887": {
+   "merged": 1363,
+   "standing": 1025,
+   "moved": 619,
+   "Unplaced": 260,
+   "Illegitimate": 165,
+   "Artificial Hybrid": 19,
+   "Invalid": 60,
+   "Misapplied": 3,
+   "Orthographic": 11,
+   "Local Biotype": 5
+  },
+  "1888": {
+   "merged": 1383,
+   "moved": 746,
+   "standing": 1109,
+   "Invalid": 43,
+   "Illegitimate": 202,
+   "Unplaced": 252,
+   "Artificial Hybrid": 30,
+   "Orthographic": 8,
+   "Local Biotype": 2
+  },
+  "1889": {
+   "moved": 845,
+   "merged": 1589,
+   "Illegitimate": 209,
+   "standing": 1288,
+   "Unplaced": 293,
+   "Invalid": 128,
+   "Artificial Hybrid": 27,
+   "Orthographic": 24,
+   "Misapplied": 1,
+   "Local Biotype": 1
+  },
+  "1890": {
+   "moved": 875,
+   "merged": 1587,
+   "standing": 1090,
+   "Illegitimate": 186,
+   "Orthographic": 9,
+   "Invalid": 285,
+   "Artificial Hybrid": 24,
+   "Unplaced": 295,
+   "Local Biotype": 5,
+   "Misapplied": 2
+  },
+  "1891": {
+   "moved": 17282,
+   "merged": 11241,
+   "standing": 1876,
+   "Illegitimate": 681,
+   "Invalid": 115,
+   "Orthographic": 22,
+   "Artificial Hybrid": 25,
+   "Unplaced": 386,
+   "Local Biotype": 7,
+   "Misapplied": 1
+  },
+  "1892": {
+   "Unplaced": 250,
+   "merged": 1447,
+   "moved": 714,
+   "standing": 1033,
+   "Artificial Hybrid": 27,
+   "Illegitimate": 185,
+   "Invalid": 85,
+   "Orthographic": 15,
+   "Local Biotype": 13
+  },
+  "1893": {
+   "standing": 1286,
+   "Invalid": 116,
+   "merged": 2107,
+   "moved": 1053,
+   "Unplaced": 395,
+   "Illegitimate": 288,
+   "Artificial Hybrid": 38,
+   "Orthographic": 21,
+   "Local Biotype": 1,
+   "Misapplied": 2
+  },
+  "1894": {
+   "merged": 2852,
+   "standing": 1733,
+   "moved": 1401,
+   "Invalid": 213,
+   "Illegitimate": 403,
+   "Unplaced": 584,
+   "Artificial Hybrid": 30,
+   "Orthographic": 11,
+   "Local Biotype": 5,
+   "Misapplied": 1
+  },
+  "1895": {
+   "standing": 1914,
+   "moved": 1522,
+   "merged": 3336,
+   "Orthographic": 15,
+   "Illegitimate": 326,
+   "Unplaced": 446,
+   "Artificial Hybrid": 10,
+   "Invalid": 105,
+   "Local Biotype": 1
+  },
+  "1896": {
+   "moved": 1473,
+   "merged": 2261,
+   "Illegitimate": 220,
+   "standing": 1665,
+   "Orthographic": 13,
+   "Invalid": 147,
+   "Artificial Hybrid": 10,
+   "Unplaced": 226,
+   "Local Biotype": 3,
+   "Misapplied": 3
+  },
+  "1897": {
+   "merged": 2231,
+   "standing": 1403,
+   "moved": 1055,
+   "Illegitimate": 225,
+   "Invalid": 55,
+   "Unplaced": 276,
+   "Artificial Hybrid": 16,
+   "Orthographic": 4,
+   "Local Biotype": 1,
+   "Misapplied": 1
+  },
+  "1898": {
+   "merged": 2547,
+   "standing": 1478,
+   "Illegitimate": 235,
+   "moved": 1356,
+   "Unplaced": 246,
+   "Invalid": 65,
+   "Orthographic": 8,
+   "Artificial Hybrid": 11,
+   "Local Biotype": 5,
+   "Misapplied": 1
+  },
+  "1899": {
+   "moved": 1166,
+   "Illegitimate": 214,
+   "standing": 1576,
+   "merged": 2160,
+   "Unplaced": 142,
+   "Artificial Hybrid": 4,
+   "Invalid": 27,
+   "Orthographic": 12,
+   "Local Biotype": 2
+  },
+  "1900": {
+   "merged": 2616,
+   "moved": 1143,
+   "standing": 1604,
+   "Illegitimate": 275,
+   "Invalid": 64,
+   "Unplaced": 275,
+   "Artificial Hybrid": 8,
+   "Orthographic": 5,
+   "Local Biotype": 6,
+   "Misapplied": 3
+  },
+  "1901": {
+   "merged": 2528,
+   "standing": 1424,
+   "Illegitimate": 243,
+   "moved": 1060,
+   "Artificial Hybrid": 14,
+   "Invalid": 29,
+   "Unplaced": 241,
+   "Orthographic": 10,
+   "Local Biotype": 5,
+   "Misapplied": 1
+  },
+  "1902": {
+   "Invalid": 48,
+   "moved": 1093,
+   "merged": 2466,
+   "Illegitimate": 179,
+   "standing": 1347,
+   "Unplaced": 310,
+   "Orthographic": 11,
+   "Artificial Hybrid": 10,
+   "Local Biotype": 6,
+   "Misapplied": 2
+  },
+  "1903": {
+   "merged": 2889,
+   "moved": 1157,
+   "Invalid": 32,
+   "standing": 1616,
+   "Unplaced": 417,
+   "Illegitimate": 191,
+   "Artificial Hybrid": 13,
+   "Orthographic": 8,
+   "Local Biotype": 31
+  },
+  "1904": {
+   "merged": 2364,
+   "moved": 1079,
+   "Artificial Hybrid": 14,
+   "standing": 1473,
+   "Illegitimate": 183,
+   "Unplaced": 325,
+   "Invalid": 42,
+   "Local Biotype": 4,
+   "Orthographic": 2,
+   "Misapplied": 2
+  },
+  "1905": {
+   "moved": 1569,
+   "standing": 2280,
+   "Illegitimate": 256,
+   "merged": 3597,
+   "Invalid": 56,
+   "Unplaced": 636,
+   "Artificial Hybrid": 14,
+   "Orthographic": 7,
+   "Local Biotype": 32,
+   "Misapplied": 3
+  },
+  "1906": {
+   "merged": 3137,
+   "moved": 1509,
+   "Illegitimate": 222,
+   "standing": 2002,
+   "Unplaced": 528,
+   "Invalid": 53,
+   "Artificial Hybrid": 20,
+   "Misapplied": 1,
+   "Orthographic": 7,
+   "Local Biotype": 39
+  },
+  "1907": {
+   "merged": 2277,
+   "moved": 908,
+   "Illegitimate": 171,
+   "standing": 1373,
+   "Unplaced": 307,
+   "Invalid": 118,
+   "Orthographic": 4,
+   "Local Biotype": 4,
+   "Artificial Hybrid": 8
+  },
+  "1908": {
+   "standing": 2280,
+   "merged": 2899,
+   "moved": 1320,
+   "Illegitimate": 217,
+   "Unplaced": 637,
+   "Misapplied": 1,
+   "Invalid": 46,
+   "Artificial Hybrid": 15,
+   "Orthographic": 10,
+   "Local Biotype": 9
+  },
+  "1909": {
+   "merged": 2742,
+   "standing": 1541,
+   "moved": 1167,
+   "Invalid": 83,
+   "Illegitimate": 205,
+   "Artificial Hybrid": 19,
+   "Unplaced": 439,
+   "Orthographic": 5,
+   "Local Biotype": 7,
+   "Misapplied": 2
+  },
+  "1910": {
+   "merged": 2533,
+   "moved": 909,
+   "standing": 1908,
+   "Unplaced": 509,
+   "Illegitimate": 139,
+   "Invalid": 80,
+   "Orthographic": 8,
+   "Artificial Hybrid": 13,
+   "Local Biotype": 48
+  },
+  "1911": {
+   "merged": 2682,
+   "moved": 1104,
+   "Illegitimate": 202,
+   "Unplaced": 451,
+   "Invalid": 122,
+   "standing": 2152,
+   "Orthographic": 4,
+   "Artificial Hybrid": 7,
+   "Local Biotype": 6
+  },
+  "1912": {
+   "merged": 3426,
+   "moved": 1505,
+   "standing": 2686,
+   "Illegitimate": 276,
+   "Unplaced": 336,
+   "Invalid": 65,
+   "Artificial Hybrid": 5,
+   "Local Biotype": 37,
+   "Orthographic": 7,
+   "Misapplied": 1
+  },
+  "1913": {
+   "merged": 3757,
+   "moved": 1835,
+   "Invalid": 136,
+   "Illegitimate": 237,
+   "standing": 2664,
+   "Unplaced": 459,
+   "Orthographic": 3,
+   "Artificial Hybrid": 10,
+   "Local Biotype": 10,
+   "Misapplied": 1
+  },
+  "1914": {
+   "standing": 1726,
+   "merged": 2750,
+   "moved": 1106,
+   "Invalid": 61,
+   "Illegitimate": 125,
+   "Unplaced": 211,
+   "Local Biotype": 3,
+   "Artificial Hybrid": 7
+  },
+  "1915": {
+   "merged": 2717,
+   "standing": 1834,
+   "Illegitimate": 215,
+   "moved": 1318,
+   "Unplaced": 158,
+   "Invalid": 101,
+   "Artificial Hybrid": 20,
+   "Local Biotype": 40,
+   "Orthographic": 3
+  },
+  "1916": {
+   "merged": 2519,
+   "moved": 1197,
+   "standing": 1684,
+   "Illegitimate": 148,
+   "Invalid": 38,
+   "Unplaced": 211,
+   "Artificial Hybrid": 6,
+   "Orthographic": 3,
+   "Local Biotype": 1
+  },
+  "1917": {
+   "moved": 841,
+   "Illegitimate": 172,
+   "merged": 2147,
+   "standing": 1420,
+   "Unplaced": 198,
+   "Orthographic": 2,
+   "Invalid": 40,
+   "Artificial Hybrid": 7
+  },
+  "1918": {
+   "standing": 1036,
+   "moved": 713,
+   "merged": 1607,
+   "Illegitimate": 114,
+   "Unplaced": 303,
+   "Orthographic": 1,
+   "Invalid": 44,
+   "Artificial Hybrid": 4
+  },
+  "1919": {
+   "merged": 2000,
+   "moved": 723,
+   "Illegitimate": 141,
+   "standing": 1307,
+   "Invalid": 65,
+   "Unplaced": 114,
+   "Artificial Hybrid": 7,
+   "Orthographic": 5,
+   "Local Biotype": 8
+  },
+  "1920": {
+   "merged": 2192,
+   "standing": 1807,
+   "Artificial Hybrid": 17,
+   "Illegitimate": 131,
+   "Invalid": 203,
+   "moved": 1022,
+   "Unplaced": 164,
+   "Orthographic": 5
+  },
+  "1921": {
+   "moved": 913,
+   "merged": 2312,
+   "standing": 1465,
+   "Illegitimate": 169,
+   "Invalid": 41,
+   "Unplaced": 222,
+   "Artificial Hybrid": 8,
+   "Orthographic": 5,
+   "Local Biotype": 3,
+   "Misapplied": 1
+  },
+  "1922": {
+   "moved": 1149,
+   "Unplaced": 261,
+   "merged": 2491,
+   "Illegitimate": 150,
+   "standing": 1939,
+   "Invalid": 90,
+   "Artificial Hybrid": 13,
+   "Local Biotype": 3,
+   "Orthographic": 1
+  },
+  "1923": {
+   "standing": 1906,
+   "merged": 2064,
+   "moved": 1159,
+   "Illegitimate": 183,
+   "Invalid": 64,
+   "Unplaced": 329,
+   "Orthographic": 4,
+   "Artificial Hybrid": 13,
+   "Local Biotype": 87
+  },
+  "1924": {
+   "merged": 2219,
+   "standing": 1846,
+   "moved": 1058,
+   "Illegitimate": 164,
+   "Invalid": 59,
+   "Artificial Hybrid": 10,
+   "Unplaced": 293,
+   "Local Biotype": 69,
+   "Orthographic": 2
+  },
+  "1925": {
+   "moved": 994,
+   "merged": 2035,
+   "standing": 1714,
+   "Invalid": 45,
+   "Illegitimate": 117,
+   "Unplaced": 218,
+   "Artificial Hybrid": 9,
+   "Orthographic": 6,
+   "Local Biotype": 7
+  },
+  "1926": {
+   "Invalid": 59,
+   "standing": 1553,
+   "merged": 1822,
+   "moved": 796,
+   "Illegitimate": 115,
+   "Unplaced": 187,
+   "Artificial Hybrid": 7,
+   "Orthographic": 4,
+   "Local Biotype": 10
+  },
+  "1927": {
+   "standing": 1853,
+   "merged": 2104,
+   "moved": 994,
+   "Invalid": 56,
+   "Illegitimate": 137,
+   "Unplaced": 216,
+   "Artificial Hybrid": 16,
+   "Orthographic": 4,
+   "Local Biotype": 46
+  },
+  "1928": {
+   "merged": 2267,
+   "moved": 1163,
+   "standing": 1872,
+   "Illegitimate": 125,
+   "Unplaced": 205,
+   "Invalid": 96,
+   "Artificial Hybrid": 4,
+   "Orthographic": 6,
+   "Misapplied": 1
+  },
+  "1929": {
+   "moved": 1413,
+   "merged": 3006,
+   "standing": 2338,
+   "Unplaced": 201,
+   "Illegitimate": 155,
+   "Artificial Hybrid": 20,
+   "Invalid": 48,
+   "Local Biotype": 73,
+   "Orthographic": 1
+  },
+  "1930": {
+   "merged": 2390,
+   "moved": 1130,
+   "standing": 1696,
+   "Artificial Hybrid": 13,
+   "Illegitimate": 131,
+   "Invalid": 71,
+   "Unplaced": 201,
+   "Local Biotype": 1,
+   "Orthographic": 1
+  },
+  "1931": {
+   "moved": 1207,
+   "merged": 2537,
+   "Artificial Hybrid": 9,
+   "standing": 1843,
+   "Illegitimate": 151,
+   "Unplaced": 215,
+   "Invalid": 82,
+   "Orthographic": 3,
+   "Misapplied": 1
+  },
+  "1932": {
+   "merged": 2012,
+   "moved": 908,
+   "Illegitimate": 121,
+   "standing": 1831,
+   "Invalid": 110,
+   "Unplaced": 296,
+   "Artificial Hybrid": 8,
+   "Orthographic": 5,
+   "Local Biotype": 23,
+   "Misapplied": 1
+  },
+  "1933": {
+   "merged": 2218,
+   "moved": 1095,
+   "standing": 1681,
+   "Artificial Hybrid": 14,
+   "Unplaced": 228,
+   "Invalid": 108,
+   "Illegitimate": 106,
+   "Orthographic": 4
+  },
+  "1934": {
+   "standing": 2121,
+   "merged": 2570,
+   "moved": 1096,
+   "Illegitimate": 111,
+   "Invalid": 101,
+   "Unplaced": 170,
+   "Orthographic": 3,
+   "Artificial Hybrid": 7
+  },
+  "1935": {
+   "moved": 911,
+   "merged": 2157,
+   "standing": 1849,
+   "Illegitimate": 120,
+   "Invalid": 112,
+   "Unplaced": 261,
+   "Orthographic": 3,
+   "Artificial Hybrid": 11,
+   "Local Biotype": 35
+  },
+  "1936": {
+   "standing": 2646,
+   "merged": 2717,
+   "moved": 1195,
+   "Invalid": 206,
+   "Unplaced": 273,
+   "Illegitimate": 126,
+   "Artificial Hybrid": 7,
+   "Local Biotype": 46,
+   "Orthographic": 3
+  },
+  "1937": {
+   "standing": 1894,
+   "moved": 977,
+   "Illegitimate": 116,
+   "merged": 1946,
+   "Orthographic": 3,
+   "Unplaced": 140,
+   "Invalid": 153,
+   "Local Biotype": 1,
+   "Artificial Hybrid": 3
+  },
+  "1938": {
+   "standing": 1717,
+   "merged": 1736,
+   "moved": 1094,
+   "Invalid": 127,
+   "Unplaced": 101,
+   "Illegitimate": 103,
+   "Artificial Hybrid": 5,
+   "Orthographic": 1
+  },
+  "1939": {
+   "standing": 1761,
+   "moved": 937,
+   "merged": 1794,
+   "Invalid": 136,
+   "Illegitimate": 85,
+   "Unplaced": 132,
+   "Artificial Hybrid": 5,
+   "Local Biotype": 1,
+   "Orthographic": 1
+  },
+  "1940": {
+   "merged": 1881,
+   "moved": 991,
+   "standing": 1919,
+   "Illegitimate": 80,
+   "Invalid": 40,
+   "Unplaced": 83,
+   "Orthographic": 1,
+   "Artificial Hybrid": 2,
+   "Local Biotype": 1
+  },
+  "1941": {
+   "merged": 1747,
+   "moved": 1077,
+   "Unplaced": 94,
+   "Illegitimate": 76,
+   "standing": 1564,
+   "Invalid": 35,
+   "Artificial Hybrid": 2,
+   "Orthographic": 1
+  },
+  "1942": {
+   "merged": 1406,
+   "standing": 1632,
+   "moved": 730,
+   "Unplaced": 96,
+   "Illegitimate": 51,
+   "Invalid": 42,
+   "Artificial Hybrid": 2,
+   "Orthographic": 1
+  },
+  "1943": {
+   "moved": 529,
+   "merged": 1123,
+   "standing": 1092,
+   "Illegitimate": 47,
+   "Invalid": 18,
+   "Unplaced": 81,
+   "Artificial Hybrid": 3
+  },
+  "1944": {
+   "merged": 1086,
+   "standing": 981,
+   "moved": 607,
+   "Unplaced": 82,
+   "Illegitimate": 47,
+   "Invalid": 15,
+   "Artificial Hybrid": 4,
+   "Orthographic": 2,
+   "Local Biotype": 60
+  },
+  "1945": {
+   "merged": 628,
+   "moved": 282,
+   "standing": 718,
+   "Illegitimate": 40,
+   "Invalid": 10,
+   "Unplaced": 40,
+   "Orthographic": 1,
+   "Local Biotype": 1,
+   "Artificial Hybrid": 1
+  },
+  "1946": {
+   "Unplaced": 56,
+   "merged": 605,
+   "standing": 697,
+   "moved": 336,
+   "Illegitimate": 44,
+   "Invalid": 21,
+   "Orthographic": 1,
+   "Artificial Hybrid": 10,
+   "Local Biotype": 2
+  },
+  "1947": {
+   "merged": 1142,
+   "standing": 898,
+   "Invalid": 20,
+   "moved": 732,
+   "Illegitimate": 53,
+   "Unplaced": 62,
+   "Orthographic": 3,
+   "Artificial Hybrid": 5
+  },
+  "1948": {
+   "merged": 984,
+   "moved": 548,
+   "standing": 1141,
+   "Illegitimate": 54,
+   "Unplaced": 57,
+   "Invalid": 40,
+   "Artificial Hybrid": 3,
+   "Orthographic": 2
+  },
+  "1949": {
+   "merged": 913,
+   "Illegitimate": 49,
+   "moved": 467,
+   "standing": 1360,
+   "Unplaced": 73,
+   "Invalid": 26,
+   "Orthographic": 3,
+   "Artificial Hybrid": 4,
+   "Local Biotype": 100
+  },
+  "1950": {
+   "moved": 659,
+   "standing": 1685,
+   "Unplaced": 69,
+   "merged": 1320,
+   "Invalid": 32,
+   "Illegitimate": 55,
+   "Artificial Hybrid": 7,
+   "Local Biotype": 5
+  },
+  "1951": {
+   "merged": 1118,
+   "moved": 677,
+   "standing": 1550,
+   "Unplaced": 54,
+   "Illegitimate": 70,
+   "Invalid": 19,
+   "Artificial Hybrid": 6,
+   "Local Biotype": 57
+  },
+  "1952": {
+   "merged": 1030,
+   "moved": 638,
+   "standing": 1254,
+   "Illegitimate": 66,
+   "Unplaced": 38,
+   "Invalid": 17,
+   "Artificial Hybrid": 3
+  },
+  "1953": {
+   "merged": 1019,
+   "standing": 1497,
+   "Illegitimate": 65,
+   "moved": 669,
+   "Invalid": 23,
+   "Unplaced": 52,
+   "Artificial Hybrid": 6
+  },
+  "1954": {
+   "merged": 755,
+   "standing": 1162,
+   "moved": 534,
+   "Illegitimate": 53,
+   "Invalid": 25,
+   "Artificial Hybrid": 14,
+   "Unplaced": 46,
+   "Local Biotype": 43
+  },
+  "1955": {
+   "merged": 755,
+   "Invalid": 16,
+   "standing": 1274,
+   "moved": 481,
+   "Unplaced": 38,
+   "Illegitimate": 48,
+   "Artificial Hybrid": 5,
+   "Orthographic": 5,
+   "Misapplied": 1
+  },
+  "1956": {
+   "standing": 1121,
+   "merged": 805,
+   "moved": 635,
+   "Illegitimate": 44,
+   "Unplaced": 73,
+   "Invalid": 17,
+   "Local Biotype": 32,
+   "Artificial Hybrid": 1
+  },
+  "1957": {
+   "standing": 1274,
+   "moved": 640,
+   "merged": 771,
+   "Illegitimate": 50,
+   "Invalid": 26,
+   "Unplaced": 74,
+   "Orthographic": 1,
+   "Artificial Hybrid": 4
+  },
+  "1958": {
+   "merged": 816,
+   "moved": 641,
+   "standing": 1415,
+   "Illegitimate": 54,
+   "Invalid": 59,
+   "Unplaced": 60,
+   "Artificial Hybrid": 4
+  },
+  "1959": {
+   "merged": 792,
+   "moved": 485,
+   "standing": 988,
+   "Invalid": 72,
+   "Unplaced": 37,
+   "Illegitimate": 36,
+   "Orthographic": 1,
+   "Artificial Hybrid": 5
+  },
+  "1960": {
+   "merged": 821,
+   "standing": 1337,
+   "moved": 737,
+   "Invalid": 30,
+   "Illegitimate": 48,
+   "Unplaced": 16,
+   "Artificial Hybrid": 1,
+   "Orthographic": 1
+  },
+  "1961": {
+   "merged": 795,
+   "moved": 870,
+   "standing": 1308,
+   "Unplaced": 47,
+   "Illegitimate": 41,
+   "Invalid": 25,
+   "Artificial Hybrid": 9
+  },
+  "1962": {
+   "moved": 698,
+   "standing": 1261,
+   "merged": 758,
+   "Illegitimate": 35,
+   "Unplaced": 26,
+   "Invalid": 28,
+   "Artificial Hybrid": 5,
+   "Orthographic": 3
+  },
+  "1963": {
+   "moved": 844,
+   "standing": 1404,
+   "merged": 847,
+   "Illegitimate": 55,
+   "Unplaced": 39,
+   "Invalid": 31,
+   "Artificial Hybrid": 3
+  },
+  "1964": {
+   "standing": 1342,
+   "moved": 646,
+   "merged": 760,
+   "Artificial Hybrid": 6,
+   "Invalid": 15,
+   "Illegitimate": 35,
+   "Unplaced": 33,
+   "Orthographic": 1
+  },
+  "1965": {
+   "merged": 774,
+   "standing": 1375,
+   "moved": 647,
+   "Invalid": 21,
+   "Illegitimate": 38,
+   "Unplaced": 19
+  },
+  "1966": {
+   "merged": 768,
+   "standing": 1506,
+   "moved": 536,
+   "Illegitimate": 38,
+   "Unplaced": 44,
+   "Invalid": 23,
+   "Artificial Hybrid": 5
+  },
+  "1967": {
+   "standing": 1671,
+   "moved": 655,
+   "Illegitimate": 40,
+   "merged": 720,
+   "Invalid": 26,
+   "Unplaced": 27,
+   "Artificial Hybrid": 4
+  },
+  "1968": {
+   "standing": 1599,
+   "moved": 502,
+   "merged": 716,
+   "Unplaced": 23,
+   "Illegitimate": 32,
+   "Invalid": 27,
+   "Artificial Hybrid": 3,
+   "Orthographic": 3
+  },
+  "1969": {
+   "merged": 530,
+   "standing": 1419,
+   "moved": 611,
+   "Invalid": 8,
+   "Unplaced": 14,
+   "Illegitimate": 31,
+   "Artificial Hybrid": 2
+  },
+  "1970": {
+   "merged": 760,
+   "moved": 709,
+   "standing": 1853,
+   "Illegitimate": 31,
+   "Invalid": 25,
+   "Unplaced": 22,
+   "Artificial Hybrid": 2
+  },
+  "1971": {
+   "standing": 1483,
+   "moved": 580,
+   "merged": 571,
+   "Invalid": 17,
+   "Unplaced": 37,
+   "Illegitimate": 36,
+   "Artificial Hybrid": 3
+  },
+  "1972": {
+   "standing": 1959,
+   "merged": 756,
+   "moved": 1279,
+   "Illegitimate": 39,
+   "Unplaced": 43,
+   "Invalid": 30,
+   "Local Biotype": 2,
+   "Orthographic": 3,
+   "Artificial Hybrid": 6
+  },
+  "1973": {
+   "merged": 646,
+   "moved": 1193,
+   "standing": 1542,
+   "Illegitimate": 44,
+   "Invalid": 25,
+   "Unplaced": 46,
+   "Artificial Hybrid": 6
+  },
+  "1974": {
+   "merged": 808,
+   "standing": 1605,
+   "moved": 901,
+   "Invalid": 33,
+   "Illegitimate": 46,
+   "Artificial Hybrid": 20,
+   "Unplaced": 23,
+   "Orthographic": 1
+  },
+  "1975": {
+   "standing": 1785,
+   "moved": 690,
+   "merged": 690,
+   "Invalid": 19,
+   "Unplaced": 20,
+   "Illegitimate": 35,
+   "Artificial Hybrid": 7,
+   "Local Biotype": 1
+  },
+  "1976": {
+   "standing": 1462,
+   "moved": 885,
+   "merged": 689,
+   "Illegitimate": 50,
+   "Invalid": 33,
+   "Artificial Hybrid": 2,
+   "Unplaced": 16
+  },
+  "1977": {
+   "standing": 1557,
+   "merged": 660,
+   "moved": 957,
+   "Illegitimate": 42,
+   "Unplaced": 36,
+   "Invalid": 17,
+   "Artificial Hybrid": 4
+  },
+  "1978": {
+   "moved": 730,
+   "standing": 2369,
+   "merged": 633,
+   "Illegitimate": 53,
+   "Unplaced": 33,
+   "Artificial Hybrid": 4,
+   "Invalid": 13,
+   "Orthographic": 1
+  },
+  "1979": {
+   "merged": 901,
+   "moved": 1165,
+   "Illegitimate": 43,
+   "standing": 1908,
+   "Unplaced": 29,
+   "Invalid": 22,
+   "Artificial Hybrid": 3,
+   "Local Biotype": 1
+  },
+  "1980": {
+   "merged": 787,
+   "moved": 807,
+   "standing": 2252,
+   "Illegitimate": 52,
+   "Unplaced": 28,
+   "Invalid": 29,
+   "Artificial Hybrid": 3,
+   "Orthographic": 5
+  },
+  "1981": {
+   "moved": 1071,
+   "Illegitimate": 37,
+   "merged": 968,
+   "standing": 2156,
+   "Invalid": 138,
+   "Unplaced": 25,
+   "Artificial Hybrid": 9,
+   "Orthographic": 1
+  },
+  "1982": {
+   "standing": 2560,
+   "merged": 707,
+   "moved": 1003,
+   "Illegitimate": 55,
+   "Unplaced": 39,
+   "Invalid": 17,
+   "Orthographic": 1,
+   "Artificial Hybrid": 8
+  },
+  "1983": {
+   "standing": 2153,
+   "merged": 1206,
+   "moved": 1476,
+   "Illegitimate": 60,
+   "Unplaced": 42,
+   "Invalid": 25,
+   "Artificial Hybrid": 1
+  },
+  "1984": {
+   "standing": 2228,
+   "moved": 936,
+   "merged": 830,
+   "Illegitimate": 69,
+   "Invalid": 24,
+   "Unplaced": 32,
+   "Orthographic": 1
+  },
+  "1985": {
+   "moved": 849,
+   "standing": 2291,
+   "merged": 716,
+   "Artificial Hybrid": 8,
+   "Invalid": 30,
+   "Illegitimate": 43,
+   "Unplaced": 35
+  },
+  "1986": {
+   "standing": 2490,
+   "moved": 677,
+   "merged": 681,
+   "Illegitimate": 47,
+   "Unplaced": 52,
+   "Invalid": 36,
+   "Artificial Hybrid": 3
+  },
+  "1987": {
+   "standing": 2307,
+   "merged": 1182,
+   "moved": 911,
+   "Illegitimate": 62,
+   "Unplaced": 102,
+   "Invalid": 19,
+   "Artificial Hybrid": 2
+  },
+  "1988": {
+   "merged": 779,
+   "moved": 822,
+   "standing": 2624,
+   "Illegitimate": 61,
+   "Unplaced": 77,
+   "Invalid": 44,
+   "Artificial Hybrid": 3,
+   "Orthographic": 2
+  },
+  "1989": {
+   "standing": 2291,
+   "moved": 781,
+   "merged": 733,
+   "Invalid": 11,
+   "Illegitimate": 53,
+   "Unplaced": 38,
+   "Artificial Hybrid": 6
+  },
+  "1990": {
+   "standing": 2555,
+   "merged": 491,
+   "moved": 746,
+   "Illegitimate": 41,
+   "Invalid": 22,
+   "Unplaced": 47,
+   "Artificial Hybrid": 7,
+   "Local Biotype": 1
+  },
+  "1991": {
+   "moved": 747,
+   "standing": 2617,
+   "merged": 519,
+   "Unplaced": 46,
+   "Invalid": 18,
+   "Illegitimate": 44,
+   "Artificial Hybrid": 5
+  },
+  "1992": {
+   "standing": 3069,
+   "moved": 792,
+   "merged": 437,
+   "Illegitimate": 39,
+   "Invalid": 24,
+   "Unplaced": 36,
+   "Artificial Hybrid": 6,
+   "Orthographic": 1
+  },
+  "1993": {
+   "moved": 926,
+   "standing": 2471,
+   "merged": 466,
+   "Illegitimate": 49,
+   "Unplaced": 50,
+   "Invalid": 27,
+   "Artificial Hybrid": 10
+  },
+  "1994": {
+   "merged": 410,
+   "moved": 713,
+   "Invalid": 15,
+   "standing": 1818,
+   "Unplaced": 34,
+   "Illegitimate": 42,
+   "Artificial Hybrid": 4,
+   "Orthographic": 1
+  },
+  "1995": {
+   "moved": 806,
+   "standing": 2777,
+   "merged": 529,
+   "Illegitimate": 35,
+   "Invalid": 16,
+   "Unplaced": 31,
+   "Artificial Hybrid": 4,
+   "Orthographic": 2
+  },
+  "1996": {
+   "standing": 2423,
+   "moved": 853,
+   "Invalid": 15,
+   "merged": 414,
+   "Illegitimate": 39,
+   "Unplaced": 22,
+   "Artificial Hybrid": 6
+  },
+  "1997": {
+   "moved": 813,
+   "merged": 530,
+   "standing": 2580,
+   "Illegitimate": 40,
+   "Unplaced": 34,
+   "Invalid": 15,
+   "Artificial Hybrid": 11
+  },
+  "1998": {
+   "standing": 2628,
+   "moved": 726,
+   "merged": 467,
+   "Illegitimate": 49,
+   "Unplaced": 30,
+   "Artificial Hybrid": 15,
+   "Invalid": 22
+  },
+  "1999": {
+   "standing": 2641,
+   "moved": 711,
+   "Illegitimate": 54,
+   "merged": 527,
+   "Invalid": 17,
+   "Artificial Hybrid": 5,
+   "Orthographic": 1,
+   "Unplaced": 50
+  },
+  "2000": {
+   "standing": 2031,
+   "moved": 737,
+   "merged": 376,
+   "Invalid": 7,
+   "Unplaced": 32,
+   "Illegitimate": 28,
+   "Artificial Hybrid": 29
+  },
+  "2001": {
+   "merged": 519,
+   "moved": 1305,
+   "Invalid": 20,
+   "standing": 2795,
+   "Unplaced": 38,
+   "Illegitimate": 74,
+   "Artificial Hybrid": 7
+  },
+  "2002": {
+   "standing": 2353,
+   "moved": 1177,
+   "merged": 441,
+   "Illegitimate": 31,
+   "Invalid": 10,
+   "Unplaced": 25,
+   "Orthographic": 1,
+   "Artificial Hybrid": 6
+  },
+  "2003": {
+   "standing": 2405,
+   "moved": 1905,
+   "merged": 410,
+   "Illegitimate": 41,
+   "Unplaced": 42,
+   "Invalid": 22,
+   "Artificial Hybrid": 17
+  },
+  "2004": {
+   "standing": 2255,
+   "merged": 361,
+   "moved": 1152,
+   "Artificial Hybrid": 12,
+   "Unplaced": 28,
+   "Invalid": 20,
+   "Illegitimate": 31
+  },
+  "2005": {
+   "standing": 2310,
+   "moved": 883,
+   "merged": 332,
+   "Unplaced": 16,
+   "Invalid": 22,
+   "Illegitimate": 34,
+   "Artificial Hybrid": 13
+  },
+  "2006": {
+   "moved": 1545,
+   "merged": 414,
+   "standing": 2685,
+   "Illegitimate": 29,
+   "Unplaced": 24,
+   "Invalid": 24,
+   "Artificial Hybrid": 7
+  },
+  "2007": {
+   "standing": 3401,
+   "moved": 917,
+   "merged": 310,
+   "Invalid": 21,
+   "Illegitimate": 33,
+   "Unplaced": 18,
+   "Artificial Hybrid": 4
+  },
+  "2008": {
+   "standing": 2887,
+   "moved": 717,
+   "merged": 311,
+   "Unplaced": 21,
+   "Illegitimate": 43,
+   "Invalid": 16,
+   "Artificial Hybrid": 5
+  },
+  "2009": {
+   "standing": 2808,
+   "moved": 761,
+   "Unplaced": 44,
+   "merged": 349,
+   "Illegitimate": 49,
+   "Invalid": 27,
+   "Artificial Hybrid": 7
+  },
+  "2010": {
+   "standing": 3087,
+   "moved": 701,
+   "Unplaced": 50,
+   "merged": 346,
+   "Invalid": 15,
+   "Illegitimate": 37,
+   "Artificial Hybrid": 8
+  },
+  "2011": {
+   "Unplaced": 41,
+   "merged": 399,
+   "moved": 624,
+   "standing": 3624,
+   "Invalid": 10,
+   "Illegitimate": 35,
+   "Artificial Hybrid": 6
+  },
+  "2012": {
+   "standing": 3680,
+   "moved": 978,
+   "Illegitimate": 43,
+   "merged": 350,
+   "Unplaced": 39,
+   "Invalid": 15,
+   "Artificial Hybrid": 5
+  },
+  "2013": {
+   "standing": 3432,
+   "moved": 817,
+   "merged": 283,
+   "Illegitimate": 30,
+   "Invalid": 6,
+   "Artificial Hybrid": 5,
+   "Unplaced": 30
+  },
+  "2014": {
+   "standing": 3717,
+   "moved": 582,
+   "Illegitimate": 47,
+   "Artificial Hybrid": 5,
+   "merged": 271,
+   "Unplaced": 24,
+   "Invalid": 8,
+   "Local Biotype": 1
+  },
+  "2015": {
+   "standing": 3667,
+   "merged": 366,
+   "moved": 893,
+   "Artificial Hybrid": 11,
+   "Invalid": 12,
+   "Illegitimate": 34,
+   "Unplaced": 54
+  },
+  "2016": {
+   "standing": 3536,
+   "Artificial Hybrid": 26,
+   "Illegitimate": 50,
+   "merged": 229,
+   "moved": 715,
+   "Unplaced": 35,
+   "Invalid": 13
+  },
+  "2017": {
+   "moved": 1201,
+   "merged": 289,
+   "standing": 4021,
+   "Unplaced": 49,
+   "Artificial Hybrid": 16,
+   "Illegitimate": 51,
+   "Invalid": 15
+  },
+  "2018": {
+   "moved": 2057,
+   "merged": 674,
+   "standing": 6258,
+   "Unplaced": 44,
+   "Invalid": 33,
+   "Illegitimate": 109,
+   "Artificial Hybrid": 15
+  },
+  "2019": {
+   "merged": 225,
+   "moved": 839,
+   "standing": 4152,
+   "Illegitimate": 47,
+   "Unplaced": 33,
+   "Invalid": 18,
+   "Artificial Hybrid": 20
+  },
+  "2020": {
+   "merged": 194,
+   "moved": 531,
+   "Illegitimate": 32,
+   "standing": 4457,
+   "Unplaced": 56,
+   "Artificial Hybrid": 16,
+   "Invalid": 23
+  },
+  "2021": {
+   "moved": 543,
+   "merged": 138,
+   "standing": 3980,
+   "Unplaced": 97,
+   "Invalid": 53,
+   "Illegitimate": 22,
+   "Artificial Hybrid": 11,
+   "Local Biotype": 88
+  },
+  "2022": {
+   "moved": 948,
+   "Invalid": 17,
+   "standing": 3597,
+   "Illegitimate": 31,
+   "Unplaced": 58,
+   "merged": 142,
+   "Artificial Hybrid": 12,
+   "Local Biotype": 1
+  },
+  "2023": {
+   "moved": 1190,
+   "standing": 3300,
+   "merged": 213,
+   "Illegitimate": 21,
+   "Invalid": 16,
+   "Unplaced": 47,
+   "Artificial Hybrid": 10,
+   "Local Biotype": 202
+  },
+  "2024": {
+   "moved": 1497,
+   "merged": 161,
+   "Invalid": 17,
+   "standing": 3362,
+   "Illegitimate": 40,
+   "Unplaced": 47,
+   "Artificial Hybrid": 34,
+   "Local Biotype": 1,
+   "Orthographic": 1
+  },
+  "2025": {
+   "Illegitimate": 48,
+   "Invalid": 33,
+   "merged": 93,
+   "moved": 250,
+   "standing": 3232,
+   "Artificial Hybrid": 23,
+   "Unplaced": 43
+  },
+  "2026": {
+   "standing": 32
+  }
+ }
+}

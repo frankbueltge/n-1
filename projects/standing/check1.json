@@ -1,0 +1,116 @@
+{
+ "registered_check": "not run: POWO answered with a bot challenge (02:08 UTC), not circumvented",
+ "substitute": "exploratory, GBIF copy of WCVP",
+ "n": 12,
+ "agree": 11,
+ "rows": [
+  {
+   "plant_name_id": "526950",
+   "taxon_name": "Steyerbromelia nukakii",
+   "wcvp_2026_06_status": "Accepted",
+   "gbif_statuses": [
+    "ACCEPTED"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "2367652",
+   "taxon_name": "Meibomia sericea",
+   "wcvp_2026_06_status": "Synonym",
+   "gbif_statuses": [
+    "SYNONYM"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "2542698",
+   "taxon_name": "Pedicularis philippica",
+   "wcvp_2026_06_status": "Synonym",
+   "gbif_statuses": [
+    "SYNONYM"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "2567924",
+   "taxon_name": "Piper poeppigii",
+   "wcvp_2026_06_status": "Accepted",
+   "gbif_statuses": [
+    "ACCEPTED"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "3063686",
+   "taxon_name": "Ptiloria ramosa",
+   "wcvp_2026_06_status": "Synonym",
+   "gbif_statuses": [
+    "SYNONYM"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "3111464",
+   "taxon_name": "Tanacetum bachtiaricum",
+   "wcvp_2026_06_status": "Accepted",
+   "gbif_statuses": [
+    "ACCEPTED"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "2388672",
+   "taxon_name": "Orobus mutabilis",
+   "wcvp_2026_06_status": "Synonym",
+   "gbif_statuses": [
+    "SYNONYM"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "2601473",
+   "taxon_name": "Sciadotenia microphylla",
+   "wcvp_2026_06_status": "Synonym",
+   "gbif_statuses": [
+    "SYNONYM"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "2924803",
+   "taxon_name": "Dovyalis cesatiana",
+   "wcvp_2026_06_status": "Synonym",
+   "gbif_statuses": [
+    "SYNONYM"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "3164514",
+   "taxon_name": "Pteris hastata",
+   "wcvp_2026_06_status": "Illegitimate",
+   "gbif_statuses": [
+    "SYNONYM"
+   ],
+   "agree": false
+  },
+  {
+   "plant_name_id": "3295395",
+   "taxon_name": "Rhododendron kuomeianum",
+   "wcvp_2026_06_status": "Accepted",
+   "gbif_statuses": [
+    "ACCEPTED"
+   ],
+   "agree": true
+  },
+  {
+   "plant_name_id": "143628",
+   "taxon_name": "Oreopanax seemannianus",
+   "wcvp_2026_06_status": "Accepted",
+   "gbif_statuses": [
+    "ACCEPTED"
+   ],
+   "agree": true
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "year": "1796",
+ "top": [
+  [
+   "Prodr. Stirp. Chap. Allerton",
+   1594,
+   {
+    "Synonym": 801,
+    "Illegitimate": 732,
+    "Unplaced": 44,
+    "Accepted": 13,
+    "Invalid": 3,
+    "Orthographic": 1
+   }
+  ],
+  [
+   "Arch. Bot. (Leipzig)",
+   99,
+   {
+    "Synonym": 90,
+    "Illegitimate": 4,
+    "Unplaced": 3,
+    "Accepted": 2
+   }
+  ],
+  [
+   "Ann. Bot. (Usteri)",
+   44,
+   {
+    "Synonym": 24,
+    "Illegitimate": 2,
+    "Unplaced": 13,
+    "Accepted": 4,
+    "Invalid": 1
+   }
+  ],
+  [
+   "Neueste Nord. Beytr. Phys. Geogr. Erd- V\u00f6lkerbeschreib.",
+   39,
+   {
+    "Synonym": 23,
+    "Accepted": 1,
+    "Illegitimate": 6,
+    "Unplaced": 6,
+    "Invalid": 2,
+    "Misapplied": 1
+   }
+  ],
+  [
+   "Arr. Brit. Pl., ed. 3.",
+   32,
+   {
+    "Illegitimate": 12,
+    "Synonym": 15,
+    "Accepted": 3,
+    "Unplaced": 1,
+    "Misapplied": 1
+   }
+  ]
+ ]
+}

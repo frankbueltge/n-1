@@ -1,0 +1,2365 @@
+{
+ "rows": 1448984,
+ "species_names": 1048616,
+ "species_with_year": 1047905,
+ "share_with_year": 0.9993,
+ "kinds_all_species": {
+  "standing": 365813,
+  "merged": 573643,
+  "void": 69322,
+  "unjudged": 36723,
+  "other:Artificial Hybrid": 1663,
+  "other:Local Biotype": 1452
+ },
+ "kinds_species_with_year": {
+  "standing": 365332,
+  "merged": 573513,
+  "void": 69260,
+  "unjudged": 36689,
+  "other:Artificial Hybrid": 1660,
+  "other:Local Biotype": 1451
+ },
+ "share_standing_overall": 0.3486,
+ "decades": {
+  "1750": {
+   "n": 6643,
+   "share_standing": 0.4841,
+   "standing": 3216,
+   "merged": 3289,
+   "void": 101,
+   "unjudged": 35,
+   "other:Artificial Hybrid": 2
+  },
+  "1760": {
+   "n": 5308,
+   "share_standing": 0.1833,
+   "standing": 973,
+   "merged": 3456,
+   "void": 639,
+   "unjudged": 237,
+   "other:Artificial Hybrid": 3
+  },
+  "1770": {
+   "n": 4819,
+   "share_standing": 0.1897,
+   "standing": 914,
+   "merged": 3001,
+   "void": 723,
+   "unjudged": 178,
+   "other:Artificial Hybrid": 3
+  },
+  "1780": {
+   "n": 9832,
+   "share_standing": 0.1949,
+   "standing": 1916,
+   "merged": 5959,
+   "void": 1652,
+   "unjudged": 301,
+   "other:Artificial Hybrid": 4
+  },
+  "1790": {
+   "n": 13925,
+   "share_standing": 0.15,
+   "standing": 2089,
+   "void": 2748,
+   "merged": 8499,
+   "unjudged": 584,
+   "other:Artificial Hybrid": 5
+  },
+  "1800": {
+   "n": 18196,
+   "share_standing": 0.1893,
+   "standing": 3444,
+   "merged": 11477,
+   "void": 2566,
+   "unjudged": 699,
+   "other:Artificial Hybrid": 10
+  },
+  "1810": {
+   "n": 23065,
+   "share_standing": 0.1865,
+   "merged": 14527,
+   "standing": 4301,
+   "void": 3222,
+   "unjudged": 1006,
+   "other:Artificial Hybrid": 9
+  },
+  "1820": {
+   "n": 41800,
+   "share_standing": 0.158,
+   "merged": 26527,
+   "void": 5988,
+   "standing": 6604,
+   "unjudged": 2649,
+   "other:Artificial Hybrid": 23,
+   "other:Local Biotype": 9
+  },
+  "1830": {
+   "n": 54948,
+   "share_standing": 0.1876,
+   "standing": 10306,
+   "merged": 34156,
+   "void": 7852,
+   "unjudged": 2602,
+   "other:Artificial Hybrid": 31,
+   "other:Local Biotype": 1
+  },
+  "1840": {
+   "n": 55830,
+   "share_standing": 0.2069,
+   "merged": 34657,
+   "standing": 11550,
+   "void": 7320,
+   "unjudged": 2264,
+   "other:Artificial Hybrid": 38,
+   "other:Local Biotype": 1
+  },
+  "1850": {
+   "n": 45691,
+   "share_standing": 0.2073,
+   "merged": 29864,
+   "standing": 9472,
+   "unjudged": 1550,
+   "void": 4750,
+   "other:Artificial Hybrid": 40,
+   "other:Local Biotype": 15
+  },
+  "1860": {
+   "n": 42785,
+   "share_standing": 0.2401,
+   "merged": 26306,
+   "standing": 10272,
+   "void": 4586,
+   "other:Artificial Hybrid": 36,
+   "other:Local Biotype": 40,
+   "unjudged": 1545
+  },
+  "1870": {
+   "n": 36253,
+   "share_standing": 0.2587,
+   "merged": 21111,
+   "void": 3672,
+   "standing": 9379,
+   "unjudged": 2023,
+   "other:Artificial Hybrid": 46,
+   "other:Local Biotype": 22
+  },
+  "1880": {
+   "n": 36664,
+   "share_standing": 0.278,
+   "merged": 20611,
+   "standing": 10191,
+   "void": 3030,
+   "other:Artificial Hybrid": 163,
+   "unjudged": 2649,
+   "other:Local Biotype": 20
+  },
+  "1890": {
+   "n": 82521,
+   "share_standing": 0.1824,
+   "standing": 15054,
+   "void": 4317,
+   "merged": 59666,
+   "unjudged": 3246,
+   "other:Artificial Hybrid": 195,
+   "other:Local Biotype": 43
+  },
+  "1900": {
+   "n": 63650,
+   "share_standing": 0.2661,
+   "merged": 39520,
+   "standing": 16940,
+   "void": 2797,
+   "unjudged": 4115,
+   "other:Artificial Hybrid": 135,
+   "other:Local Biotype": 143
+  },
+  "1910": {
+   "n": 61554,
+   "share_standing": 0.2992,
+   "merged": 37389,
+   "standing": 18417,
+   "void": 2559,
+   "unjudged": 2950,
+   "other:Artificial Hybrid": 86,
+   "other:Local Biotype": 153
+  },
+  "1920": {
+   "n": 56424,
+   "share_standing": 0.3242,
+   "merged": 33173,
+   "standing": 18293,
+   "void": 2247,
+   "unjudged": 2296,
+   "other:Artificial Hybrid": 117,
+   "other:Local Biotype": 298
+  },
+  "1930": {
+   "n": 56277,
+   "share_standing": 0.3383,
+   "merged": 32627,
+   "standing": 19039,
+   "void": 2405,
+   "other:Artificial Hybrid": 82,
+   "unjudged": 2017,
+   "other:Local Biotype": 107
+  },
+  "1940": {
+   "n": 31563,
+   "share_standing": 0.3803,
+   "merged": 17814,
+   "standing": 12002,
+   "void": 823,
+   "unjudged": 724,
+   "other:Artificial Hybrid": 36,
+   "other:Local Biotype": 164
+  },
+  "1950": {
+   "n": 30048,
+   "share_standing": 0.44,
+   "merged": 15240,
+   "standing": 13220,
+   "void": 855,
+   "unjudged": 541,
+   "other:Artificial Hybrid": 55,
+   "other:Local Biotype": 137
+  },
+  "1960": {
+   "n": 29418,
+   "share_standing": 0.4834,
+   "standing": 14222,
+   "merged": 14235,
+   "void": 635,
+   "unjudged": 288,
+   "other:Artificial Hybrid": 38
+  },
+  "1970": {
+   "n": 34750,
+   "share_standing": 0.5043,
+   "standing": 17523,
+   "merged": 16203,
+   "void": 658,
+   "unjudged": 305,
+   "other:Artificial Hybrid": 57,
+   "other:Local Biotype": 4
+  },
+  "1980": {
+   "n": 42709,
+   "share_standing": 0.5468,
+   "standing": 23352,
+   "merged": 17922,
+   "void": 922,
+   "unjudged": 470,
+   "other:Artificial Hybrid": 43
+  },
+  "1990": {
+   "n": 39284,
+   "share_standing": 0.6511,
+   "merged": 12623,
+   "standing": 25579,
+   "void": 628,
+   "unjudged": 380,
+   "other:Artificial Hybrid": 73,
+   "other:Local Biotype": 1
+  },
+  "2000": {
+   "n": 41830,
+   "share_standing": 0.6199,
+   "standing": 25930,
+   "merged": 14922,
+   "unjudged": 288,
+   "void": 583,
+   "other:Artificial Hybrid": 107
+  },
+  "2010": {
+   "n": 53158,
+   "share_standing": 0.7369,
+   "standing": 39174,
+   "merged": 12839,
+   "unjudged": 399,
+   "other:Artificial Hybrid": 117,
+   "void": 628,
+   "other:Local Biotype": 1
+  },
+  "2020": {
+   "n": 28960,
+   "share_standing": 0.7583,
+   "merged": 5900,
+   "void": 354,
+   "standing": 21960,
+   "unjudged": 348,
+   "other:Artificial Hybrid": 106,
+   "other:Local Biotype": 292
+  }
+ },
+ "top_decade": "2020",
+ "low_decade": "1790",
+ "moved_share_1753_1799": 0.0,
+ "synonyms_1753_1799": 24204,
+ "moved_share_1900_1999": 0.0,
+ "synonyms_1900_1999": 236746,
+ "standing_n": 365813,
+ "standing_with_basionym": 102471,
+ "share_standing_with_basionym": 0.2801,
+ "waits_n": 101989,
+ "wait_median": 56,
+ "wait_quartiles": [
+  22.0,
+  56.0,
+  105.0
+ ],
+ "years": {
+  "1753": {
+   "standing": 2883,
+   "merged": 2630,
+   "unjudged": 16,
+   "void": 6,
+   "other:Artificial Hybrid": 2
+  },
+  "1754": {
+   "merged": 31,
+   "standing": 9,
+   "unjudged": 3,
+   "void": 4
+  },
+  "1755": {
+   "merged": 74,
+   "standing": 45,
+   "void": 8,
+   "unjudged": 1
+  },
+  "1756": {
+   "void": 30,
+   "merged": 81,
+   "standing": 50
+  },
+  "1757": {
+   "merged": 28,
+   "standing": 1,
+   "void": 4,
+   "unjudged": 3
+  },
+  "1758": {
+   "merged": 28,
+   "standing": 7,
+   "void": 4
+  },
+  "1759": {
+   "standing": 221,
+   "merged": 417,
+   "void": 45,
+   "unjudged": 12
+  },
+  "1760": {
+   "merged": 253,
+   "standing": 120,
+   "void": 8,
+   "unjudged": 10
+  },
+  "1761": {
+   "void": 5,
+   "merged": 12,
+   "unjudged": 10,
+   "standing": 4
+  },
+  "1762": {
+   "void": 72,
+   "merged": 328,
+   "standing": 163,
+   "unjudged": 6,
+   "other:Artificial Hybrid": 1
+  },
+  "1763": {
+   "merged": 355,
+   "standing": 120,
+   "void": 57,
+   "unjudged": 10
+  },
+  "1764": {
+   "void": 214,
+   "merged": 56,
+   "standing": 23,
+   "unjudged": 9
+  },
+  "1765": {
+   "unjudged": 6,
+   "merged": 23,
+   "standing": 12,
+   "void": 4
+  },
+  "1766": {
+   "merged": 240,
+   "void": 37,
+   "unjudged": 9,
+   "standing": 22
+  },
+  "1767": {
+   "merged": 544,
+   "standing": 200,
+   "void": 71,
+   "unjudged": 15,
+   "other:Artificial Hybrid": 1
+  },
+  "1768": {
+   "standing": 293,
+   "merged": 1505,
+   "unjudged": 154,
+   "void": 149,
+   "other:Artificial Hybrid": 1
+  },
+  "1769": {
+   "merged": 140,
+   "standing": 16,
+   "void": 22,
+   "unjudged": 8
+  },
+  "1770": {
+   "standing": 37,
+   "merged": 109,
+   "void": 8,
+   "other:Artificial Hybrid": 2,
+   "unjudged": 8
+  },
+  "1771": {
+   "merged": 675,
+   "standing": 187,
+   "void": 119,
+   "unjudged": 32
+  },
+  "1772": {
+   "void": 12,
+   "merged": 56,
+   "unjudged": 7,
+   "standing": 13
+  },
+  "1773": {
+   "void": 49,
+   "merged": 189,
+   "standing": 95,
+   "unjudged": 11
+  },
+  "1774": {
+   "void": 40,
+   "standing": 24,
+   "merged": 95,
+   "other:Artificial Hybrid": 1,
+   "unjudged": 7
+  },
+  "1775": {
+   "standing": 298,
+   "merged": 769,
+   "void": 158,
+   "unjudged": 70
+  },
+  "1776": {
+   "void": 80,
+   "standing": 107,
+   "merged": 212,
+   "unjudged": 8
+  },
+  "1777": {
+   "merged": 115,
+   "unjudged": 8,
+   "standing": 23,
+   "void": 24
+  },
+  "1778": {
+   "merged": 85,
+   "standing": 44,
+   "void": 31,
+   "unjudged": 17
+  },
+  "1779": {
+   "merged": 696,
+   "void": 202,
+   "standing": 86,
+   "unjudged": 10
+  },
+  "1780": {
+   "standing": 26,
+   "merged": 84,
+   "void": 24,
+   "unjudged": 2
+  },
+  "1781": {
+   "merged": 108,
+   "standing": 48,
+   "void": 30,
+   "unjudged": 5
+  },
+  "1782": {
+   "standing": 323,
+   "merged": 842,
+   "void": 565,
+   "unjudged": 40
+  },
+  "1783": {
+   "merged": 369,
+   "void": 59,
+   "unjudged": 45,
+   "standing": 88
+  },
+  "1784": {
+   "void": 106,
+   "merged": 307,
+   "unjudged": 23,
+   "standing": 110
+  },
+  "1785": {
+   "merged": 622,
+   "void": 142,
+   "standing": 189,
+   "unjudged": 35,
+   "other:Artificial Hybrid": 1
+  },
+  "1786": {
+   "merged": 678,
+   "standing": 208,
+   "void": 120,
+   "unjudged": 22,
+   "other:Artificial Hybrid": 1
+  },
+  "1787": {
+   "standing": 89,
+   "void": 116,
+   "merged": 476,
+   "unjudged": 37
+  },
+  "1788": {
+   "standing": 447,
+   "merged": 1378,
+   "void": 292,
+   "unjudged": 54
+  },
+  "1789": {
+   "merged": 1095,
+   "standing": 388,
+   "void": 198,
+   "unjudged": 38,
+   "other:Artificial Hybrid": 2
+  },
+  "1790": {
+   "merged": 785,
+   "unjudged": 159,
+   "void": 355,
+   "standing": 185,
+   "other:Artificial Hybrid": 2
+  },
+  "1791": {
+   "standing": 260,
+   "merged": 1120,
+   "void": 246,
+   "unjudged": 65,
+   "other:Artificial Hybrid": 1
+  },
+  "1792": {
+   "merged": 738,
+   "void": 274,
+   "standing": 181,
+   "unjudged": 76,
+   "other:Artificial Hybrid": 1
+  },
+  "1793": {
+   "merged": 273,
+   "unjudged": 22,
+   "void": 67,
+   "standing": 73
+  },
+  "1794": {
+   "void": 372,
+   "merged": 1587,
+   "standing": 303,
+   "unjudged": 45
+  },
+  "1795": {
+   "merged": 295,
+   "void": 56,
+   "standing": 61,
+   "unjudged": 17
+  },
+  "1796": {
+   "merged": 1060,
+   "void": 796,
+   "unjudged": 77,
+   "standing": 37,
+   "other:Artificial Hybrid": 1
+  },
+  "1797": {
+   "merged": 759,
+   "void": 153,
+   "standing": 214,
+   "unjudged": 31
+  },
+  "1798": {
+   "standing": 488,
+   "merged": 1093,
+   "void": 208,
+   "unjudged": 38
+  },
+  "1799": {
+   "standing": 287,
+   "merged": 789,
+   "void": 221,
+   "unjudged": 54
+  },
+  "1800": {
+   "void": 265,
+   "merged": 1186,
+   "standing": 425,
+   "unjudged": 51,
+   "other:Artificial Hybrid": 1
+  },
+  "1801": {
+   "merged": 607,
+   "unjudged": 29,
+   "standing": 184,
+   "void": 119
+  },
+  "1802": {
+   "merged": 1004,
+   "void": 242,
+   "unjudged": 67,
+   "standing": 316
+  },
+  "1803": {
+   "merged": 1502,
+   "standing": 425,
+   "void": 305,
+   "unjudged": 62,
+   "other:Artificial Hybrid": 1
+  },
+  "1804": {
+   "standing": 317,
+   "merged": 1142,
+   "void": 268,
+   "unjudged": 74,
+   "other:Artificial Hybrid": 1
+  },
+  "1805": {
+   "merged": 1797,
+   "void": 428,
+   "standing": 516,
+   "unjudged": 53
+  },
+  "1806": {
+   "merged": 1446,
+   "standing": 406,
+   "unjudged": 82,
+   "void": 280,
+   "other:Artificial Hybrid": 2
+  },
+  "1807": {
+   "merged": 852,
+   "void": 141,
+   "standing": 277,
+   "unjudged": 89,
+   "other:Artificial Hybrid": 3
+  },
+  "1808": {
+   "merged": 801,
+   "void": 289,
+   "standing": 313,
+   "unjudged": 80
+  },
+  "1809": {
+   "merged": 1140,
+   "void": 229,
+   "standing": 265,
+   "unjudged": 112,
+   "other:Artificial Hybrid": 2
+  },
+  "1810": {
+   "merged": 1780,
+   "standing": 1219,
+   "void": 256,
+   "unjudged": 46
+  },
+  "1811": {
+   "merged": 980,
+   "standing": 226,
+   "unjudged": 101,
+   "void": 181,
+   "other:Artificial Hybrid": 1
+  },
+  "1812": {
+   "void": 398,
+   "merged": 1735,
+   "standing": 296,
+   "unjudged": 101,
+   "other:Artificial Hybrid": 1
+  },
+  "1813": {
+   "merged": 1458,
+   "void": 416,
+   "standing": 365,
+   "unjudged": 75,
+   "other:Artificial Hybrid": 1
+  },
+  "1814": {
+   "merged": 882,
+   "standing": 163,
+   "void": 292,
+   "unjudged": 107,
+   "other:Artificial Hybrid": 1
+  },
+  "1815": {
+   "unjudged": 76,
+   "merged": 630,
+   "standing": 147,
+   "void": 216,
+   "other:Artificial Hybrid": 1
+  },
+  "1816": {
+   "merged": 1467,
+   "void": 316,
+   "standing": 391,
+   "unjudged": 94
+  },
+  "1817": {
+   "merged": 1683,
+   "standing": 510,
+   "void": 402,
+   "unjudged": 153,
+   "other:Artificial Hybrid": 1
+  },
+  "1818": {
+   "standing": 555,
+   "merged": 1946,
+   "void": 364,
+   "unjudged": 119,
+   "other:Artificial Hybrid": 3
+  },
+  "1819": {
+   "standing": 429,
+   "void": 381,
+   "merged": 1966,
+   "unjudged": 134
+  },
+  "1820": {
+   "merged": 1263,
+   "void": 294,
+   "standing": 334,
+   "unjudged": 157,
+   "other:Artificial Hybrid": 2
+  },
+  "1821": {
+   "merged": 2444,
+   "void": 819,
+   "standing": 472,
+   "unjudged": 256,
+   "other:Artificial Hybrid": 2
+  },
+  "1822": {
+   "merged": 1496,
+   "void": 273,
+   "unjudged": 169,
+   "standing": 368,
+   "other:Artificial Hybrid": 1,
+   "other:Local Biotype": 1
+  },
+  "1823": {
+   "merged": 1245,
+   "void": 329,
+   "standing": 407,
+   "unjudged": 145
+  },
+  "1824": {
+   "merged": 4221,
+   "void": 886,
+   "standing": 1020,
+   "unjudged": 290,
+   "other:Artificial Hybrid": 3
+  },
+  "1825": {
+   "merged": 3972,
+   "standing": 1086,
+   "void": 784,
+   "unjudged": 295,
+   "other:Artificial Hybrid": 1,
+   "other:Local Biotype": 6
+  },
+  "1826": {
+   "merged": 3231,
+   "void": 521,
+   "standing": 841,
+   "unjudged": 367,
+   "other:Artificial Hybrid": 3
+  },
+  "1827": {
+   "merged": 2915,
+   "other:Artificial Hybrid": 4,
+   "void": 515,
+   "standing": 675,
+   "unjudged": 224
+  },
+  "1828": {
+   "standing": 760,
+   "merged": 2592,
+   "void": 496,
+   "unjudged": 313,
+   "other:Artificial Hybrid": 3
+  },
+  "1829": {
+   "void": 1071,
+   "merged": 3148,
+   "unjudged": 433,
+   "standing": 641,
+   "other:Artificial Hybrid": 4,
+   "other:Local Biotype": 2
+  },
+  "1830": {
+   "standing": 1380,
+   "merged": 4002,
+   "void": 1089,
+   "unjudged": 412,
+   "other:Artificial Hybrid": 1
+  },
+  "1831": {
+   "void": 1476,
+   "merged": 2723,
+   "standing": 775,
+   "unjudged": 256,
+   "other:Artificial Hybrid": 4
+  },
+  "1832": {
+   "merged": 3118,
+   "void": 982,
+   "unjudged": 237,
+   "standing": 956
+  },
+  "1833": {
+   "merged": 2110,
+   "standing": 794,
+   "void": 416,
+   "unjudged": 185,
+   "other:Artificial Hybrid": 3
+  },
+  "1834": {
+   "merged": 3120,
+   "standing": 913,
+   "void": 534,
+   "other:Artificial Hybrid": 5,
+   "unjudged": 256
+  },
+  "1835": {
+   "merged": 1881,
+   "unjudged": 193,
+   "void": 371,
+   "standing": 681
+  },
+  "1836": {
+   "merged": 4542,
+   "void": 706,
+   "unjudged": 235,
+   "standing": 1335,
+   "other:Artificial Hybrid": 3
+  },
+  "1837": {
+   "merged": 4325,
+   "void": 894,
+   "standing": 1033,
+   "unjudged": 261,
+   "other:Artificial Hybrid": 7
+  },
+  "1838": {
+   "standing": 1592,
+   "merged": 5849,
+   "void": 909,
+   "unjudged": 382,
+   "other:Artificial Hybrid": 3
+  },
+  "1839": {
+   "void": 475,
+   "merged": 2486,
+   "standing": 847,
+   "unjudged": 185,
+   "other:Artificial Hybrid": 5,
+   "other:Local Biotype": 1
+  },
+  "1840": {
+   "standing": 1123,
+   "merged": 4431,
+   "void": 1367,
+   "unjudged": 476,
+   "other:Artificial Hybrid": 5
+  },
+  "1841": {
+   "merged": 3633,
+   "void": 1542,
+   "unjudged": 440,
+   "standing": 1197,
+   "other:Artificial Hybrid": 4
+  },
+  "1842": {
+   "standing": 922,
+   "merged": 2418,
+   "void": 415,
+   "unjudged": 122,
+   "other:Artificial Hybrid": 5
+  },
+  "1843": {
+   "void": 593,
+   "standing": 1199,
+   "merged": 3145,
+   "unjudged": 142,
+   "other:Artificial Hybrid": 5
+  },
+  "1844": {
+   "standing": 1386,
+   "merged": 3807,
+   "void": 555,
+   "unjudged": 165,
+   "other:Artificial Hybrid": 4
+  },
+  "1845": {
+   "merged": 4603,
+   "unjudged": 237,
+   "void": 705,
+   "standing": 1261
+  },
+  "1846": {
+   "merged": 3317,
+   "void": 473,
+   "standing": 1272,
+   "unjudged": 203,
+   "other:Local Biotype": 1,
+   "other:Artificial Hybrid": 1
+  },
+  "1847": {
+   "merged": 3688,
+   "void": 769,
+   "standing": 955,
+   "unjudged": 201,
+   "other:Artificial Hybrid": 6
+  },
+  "1848": {
+   "merged": 2495,
+   "unjudged": 100,
+   "void": 403,
+   "standing": 986,
+   "other:Artificial Hybrid": 3
+  },
+  "1849": {
+   "unjudged": 178,
+   "merged": 3120,
+   "void": 498,
+   "standing": 1249,
+   "other:Artificial Hybrid": 5
+  },
+  "1850": {
+   "merged": 2499,
+   "void": 354,
+   "standing": 662,
+   "unjudged": 141,
+   "other:Artificial Hybrid": 4,
+   "other:Local Biotype": 1
+  },
+  "1851": {
+   "merged": 2677,
+   "standing": 747,
+   "void": 356,
+   "unjudged": 118,
+   "other:Artificial Hybrid": 4
+  },
+  "1852": {
+   "merged": 3775,
+   "void": 509,
+   "unjudged": 181,
+   "standing": 1062,
+   "other:Artificial Hybrid": 5
+  },
+  "1853": {
+   "unjudged": 134,
+   "merged": 2369,
+   "void": 348,
+   "standing": 722,
+   "other:Artificial Hybrid": 4
+  },
+  "1854": {
+   "merged": 3856,
+   "void": 717,
+   "standing": 1107,
+   "unjudged": 231,
+   "other:Artificial Hybrid": 9
+  },
+  "1855": {
+   "merged": 2768,
+   "standing": 849,
+   "void": 342,
+   "unjudged": 95,
+   "other:Artificial Hybrid": 2
+  },
+  "1856": {
+   "merged": 3222,
+   "void": 680,
+   "standing": 1109,
+   "unjudged": 156,
+   "other:Local Biotype": 1
+  },
+  "1857": {
+   "standing": 939,
+   "void": 557,
+   "merged": 3298,
+   "unjudged": 183,
+   "other:Artificial Hybrid": 5
+  },
+  "1858": {
+   "merged": 2591,
+   "standing": 812,
+   "void": 454,
+   "unjudged": 158,
+   "other:Artificial Hybrid": 1,
+   "other:Local Biotype": 6
+  },
+  "1859": {
+   "standing": 1463,
+   "void": 433,
+   "merged": 2809,
+   "unjudged": 153,
+   "other:Local Biotype": 7,
+   "other:Artificial Hybrid": 6
+  },
+  "1860": {
+   "void": 495,
+   "merged": 2669,
+   "standing": 1072,
+   "unjudged": 206,
+   "other:Local Biotype": 2,
+   "other:Artificial Hybrid": 2
+  },
+  "1861": {
+   "merged": 2913,
+   "void": 380,
+   "standing": 1084,
+   "unjudged": 215,
+   "other:Artificial Hybrid": 2,
+   "other:Local Biotype": 11
+  },
+  "1862": {
+   "merged": 2327,
+   "standing": 1016,
+   "void": 462,
+   "unjudged": 133,
+   "other:Artificial Hybrid": 4
+  },
+  "1863": {
+   "merged": 2171,
+   "standing": 872,
+   "void": 307,
+   "unjudged": 114,
+   "other:Artificial Hybrid": 4
+  },
+  "1864": {
+   "merged": 3070,
+   "standing": 1156,
+   "void": 547,
+   "unjudged": 143,
+   "other:Artificial Hybrid": 7,
+   "other:Local Biotype": 4
+  },
+  "1865": {
+   "merged": 2119,
+   "standing": 1061,
+   "void": 319,
+   "unjudged": 97,
+   "other:Artificial Hybrid": 1
+  },
+  "1866": {
+   "merged": 3059,
+   "standing": 1044,
+   "unjudged": 164,
+   "void": 746,
+   "other:Local Biotype": 5,
+   "other:Artificial Hybrid": 2
+  },
+  "1867": {
+   "merged": 2597,
+   "void": 483,
+   "standing": 997,
+   "other:Artificial Hybrid": 4,
+   "unjudged": 107,
+   "other:Local Biotype": 2
+  },
+  "1868": {
+   "merged": 2890,
+   "void": 398,
+   "other:Artificial Hybrid": 2,
+   "standing": 1171,
+   "unjudged": 153,
+   "other:Local Biotype": 12
+  },
+  "1869": {
+   "merged": 2491,
+   "other:Local Biotype": 4,
+   "standing": 799,
+   "void": 449,
+   "unjudged": 213,
+   "other:Artificial Hybrid": 8
+  },
+  "1870": {
+   "merged": 1523,
+   "void": 236,
+   "standing": 560,
+   "other:Artificial Hybrid": 5,
+   "unjudged": 103,
+   "other:Local Biotype": 4
+  },
+  "1871": {
+   "merged": 1834,
+   "void": 273,
+   "standing": 996,
+   "unjudged": 151,
+   "other:Local Biotype": 6,
+   "other:Artificial Hybrid": 1
+  },
+  "1872": {
+   "merged": 1594,
+   "standing": 746,
+   "unjudged": 101,
+   "void": 377,
+   "other:Artificial Hybrid": 2
+  },
+  "1873": {
+   "merged": 2074,
+   "standing": 908,
+   "void": 319,
+   "other:Artificial Hybrid": 1,
+   "unjudged": 136,
+   "other:Local Biotype": 2
+  },
+  "1874": {
+   "standing": 1026,
+   "merged": 2477,
+   "unjudged": 119,
+   "other:Artificial Hybrid": 8,
+   "void": 423
+  },
+  "1875": {
+   "merged": 2824,
+   "standing": 1164,
+   "void": 372,
+   "unjudged": 374,
+   "other:Artificial Hybrid": 8,
+   "other:Local Biotype": 1
+  },
+  "1876": {
+   "void": 320,
+   "merged": 1999,
+   "standing": 981,
+   "unjudged": 189,
+   "other:Artificial Hybrid": 8
+  },
+  "1877": {
+   "standing": 941,
+   "merged": 2051,
+   "void": 435,
+   "other:Artificial Hybrid": 5,
+   "unjudged": 310,
+   "other:Local Biotype": 8
+  },
+  "1878": {
+   "merged": 2551,
+   "void": 505,
+   "unjudged": 357,
+   "standing": 1073,
+   "other:Artificial Hybrid": 5,
+   "other:Local Biotype": 1
+  },
+  "1879": {
+   "void": 412,
+   "merged": 2184,
+   "unjudged": 183,
+   "standing": 984,
+   "other:Artificial Hybrid": 3
+  },
+  "1880": {
+   "merged": 1577,
+   "standing": 733,
+   "void": 398,
+   "other:Artificial Hybrid": 10,
+   "unjudged": 218
+  },
+  "1881": {
+   "merged": 2116,
+   "other:Artificial Hybrid": 8,
+   "unjudged": 285,
+   "standing": 930,
+   "void": 314,
+   "other:Local Biotype": 1
+  },
+  "1882": {
+   "merged": 2555,
+   "standing": 1106,
+   "unjudged": 285,
+   "void": 338,
+   "other:Artificial Hybrid": 13,
+   "other:Local Biotype": 1
+  },
+  "1883": {
+   "merged": 2069,
+   "void": 324,
+   "standing": 1267,
+   "unjudged": 189,
+   "other:Artificial Hybrid": 12,
+   "other:Local Biotype": 1
+  },
+  "1884": {
+   "merged": 1732,
+   "void": 264,
+   "unjudged": 506,
+   "standing": 709,
+   "other:Artificial Hybrid": 13,
+   "other:Local Biotype": 3
+  },
+  "1885": {
+   "standing": 915,
+   "merged": 2013,
+   "void": 254,
+   "unjudged": 201,
+   "other:Artificial Hybrid": 16,
+   "other:Local Biotype": 3
+  },
+  "1886": {
+   "merged": 2004,
+   "void": 284,
+   "standing": 1109,
+   "unjudged": 160,
+   "other:Artificial Hybrid": 15,
+   "other:Local Biotype": 3
+  },
+  "1887": {
+   "merged": 1982,
+   "standing": 1025,
+   "unjudged": 260,
+   "void": 239,
+   "other:Artificial Hybrid": 19,
+   "other:Local Biotype": 5
+  },
+  "1888": {
+   "merged": 2129,
+   "standing": 1109,
+   "void": 253,
+   "unjudged": 252,
+   "other:Artificial Hybrid": 30,
+   "other:Local Biotype": 2
+  },
+  "1889": {
+   "merged": 2434,
+   "void": 362,
+   "standing": 1288,
+   "unjudged": 293,
+   "other:Artificial Hybrid": 27,
+   "other:Local Biotype": 1
+  },
+  "1890": {
+   "merged": 2462,
+   "standing": 1090,
+   "void": 482,
+   "other:Artificial Hybrid": 24,
+   "unjudged": 295,
+   "other:Local Biotype": 5
+  },
+  "1891": {
+   "merged": 28523,
+   "standing": 1876,
+   "void": 819,
+   "other:Artificial Hybrid": 25,
+   "unjudged": 386,
+   "other:Local Biotype": 7
+  },
+  "1892": {
+   "unjudged": 250,
+   "merged": 2161,
+   "standing": 1033,
+   "other:Artificial Hybrid": 27,
+   "void": 285,
+   "other:Local Biotype": 13
+  },
+  "1893": {
+   "standing": 1286,
+   "void": 427,
+   "merged": 3160,
+   "unjudged": 395,
+   "other:Artificial Hybrid": 38,
+   "other:Local Biotype": 1
+  },
+  "1894": {
+   "merged": 4253,
+   "standing": 1733,
+   "void": 628,
+   "unjudged": 584,
+   "other:Artificial Hybrid": 30,
+   "other:Local Biotype": 5
+  },
+  "1895": {
+   "standing": 1914,
+   "merged": 4858,
+   "void": 446,
+   "unjudged": 446,
+   "other:Artificial Hybrid": 10,
+   "other:Local Biotype": 1
+  },
+  "1896": {
+   "merged": 3734,
+   "void": 383,
+   "standing": 1665,
+   "other:Artificial Hybrid": 10,
+   "unjudged": 226,
+   "other:Local Biotype": 3
+  },
+  "1897": {
+   "merged": 3286,
+   "standing": 1403,
+   "void": 285,
+   "unjudged": 276,
+   "other:Artificial Hybrid": 16,
+   "other:Local Biotype": 1
+  },
+  "1898": {
+   "merged": 3903,
+   "standing": 1478,
+   "void": 309,
+   "unjudged": 246,
+   "other:Artificial Hybrid": 11,
+   "other:Local Biotype": 5
+  },
+  "1899": {
+   "merged": 3326,
+   "void": 253,
+   "standing": 1576,
+   "unjudged": 142,
+   "other:Artificial Hybrid": 4,
+   "other:Local Biotype": 2
+  },
+  "1900": {
+   "merged": 3759,
+   "standing": 1604,
+   "void": 347,
+   "unjudged": 275,
+   "other:Artificial Hybrid": 8,
+   "other:Local Biotype": 6
+  },
+  "1901": {
+   "merged": 3588,
+   "standing": 1424,
+   "void": 283,
+   "other:Artificial Hybrid": 14,
+   "unjudged": 241,
+   "other:Local Biotype": 5
+  },
+  "1902": {
+   "void": 240,
+   "merged": 3559,
+   "standing": 1347,
+   "unjudged": 310,
+   "other:Artificial Hybrid": 10,
+   "other:Local Biotype": 6
+  },
+  "1903": {
+   "merged": 4046,
+   "void": 231,
+   "standing": 1616,
+   "unjudged": 417,
+   "other:Artificial Hybrid": 13,
+   "other:Local Biotype": 31
+  },
+  "1904": {
+   "merged": 3443,
+   "other:Artificial Hybrid": 14,
+   "standing": 1473,
+   "void": 229,
+   "unjudged": 325,
+   "other:Local Biotype": 4
+  },
+  "1905": {
+   "merged": 5166,
+   "standing": 2280,
+   "void": 322,
+   "unjudged": 636,
+   "other:Artificial Hybrid": 14,
+   "other:Local Biotype": 32
+  },
+  "1906": {
+   "merged": 4646,
+   "void": 283,
+   "standing": 2002,
+   "unjudged": 528,
+   "other:Artificial Hybrid": 20,
+   "other:Local Biotype": 39
+  },
+  "1907": {
+   "merged": 3185,
+   "void": 293,
+   "standing": 1373,
+   "unjudged": 307,
+   "other:Local Biotype": 4,
+   "other:Artificial Hybrid": 8
+  },
+  "1908": {
+   "standing": 2280,
+   "merged": 4219,
+   "void": 274,
+   "unjudged": 637,
+   "other:Artificial Hybrid": 15,
+   "other:Local Biotype": 9
+  },
+  "1909": {
+   "merged": 3909,
+   "standing": 1541,
+   "void": 295,
+   "other:Artificial Hybrid": 19,
+   "unjudged": 439,
+   "other:Local Biotype": 7
+  },
+  "1910": {
+   "merged": 3442,
+   "standing": 1908,
+   "unjudged": 509,
+   "void": 227,
+   "other:Artificial Hybrid": 13,
+   "other:Local Biotype": 48
+  },
+  "1911": {
+   "merged": 3786,
+   "void": 328,
+   "unjudged": 451,
+   "standing": 2152,
+   "other:Artificial Hybrid": 7,
+   "other:Local Biotype": 6
+  },
+  "1912": {
+   "merged": 4931,
+   "standing": 2686,
+   "void": 349,
+   "unjudged": 336,
+   "other:Artificial Hybrid": 5,
+   "other:Local Biotype": 37
+  },
+  "1913": {
+   "merged": 5592,
+   "void": 377,
+   "standing": 2664,
+   "unjudged": 459,
+   "other:Artificial Hybrid": 10,
+   "other:Local Biotype": 10
+  },
+  "1914": {
+   "standing": 1726,
+   "merged": 3856,
+   "void": 186,
+   "unjudged": 211,
+   "other:Local Biotype": 3,
+   "other:Artificial Hybrid": 7
+  },
+  "1915": {
+   "merged": 4035,
+   "standing": 1834,
+   "void": 319,
+   "unjudged": 158,
+   "other:Artificial Hybrid": 20,
+   "other:Local Biotype": 40
+  },
+  "1916": {
+   "merged": 3716,
+   "standing": 1684,
+   "void": 189,
+   "unjudged": 211,
+   "other:Artificial Hybrid": 6,
+   "other:Local Biotype": 1
+  },
+  "1917": {
+   "merged": 2988,
+   "void": 214,
+   "standing": 1420,
+   "unjudged": 198,
+   "other:Artificial Hybrid": 7
+  },
+  "1918": {
+   "standing": 1036,
+   "merged": 2320,
+   "void": 159,
+   "unjudged": 303,
+   "other:Artificial Hybrid": 4
+  },
+  "1919": {
+   "merged": 2723,
+   "void": 211,
+   "standing": 1307,
+   "unjudged": 114,
+   "other:Artificial Hybrid": 7,
+   "other:Local Biotype": 8
+  },
+  "1920": {
+   "merged": 3214,
+   "standing": 1807,
+   "other:Artificial Hybrid": 17,
+   "void": 339,
+   "unjudged": 164
+  },
+  "1921": {
+   "merged": 3225,
+   "standing": 1465,
+   "void": 216,
+   "unjudged": 222,
+   "other:Artificial Hybrid": 8,
+   "other:Local Biotype": 3
+  },
+  "1922": {
+   "merged": 3640,
+   "unjudged": 261,
+   "void": 241,
+   "standing": 1939,
+   "other:Artificial Hybrid": 13,
+   "other:Local Biotype": 3
+  },
+  "1923": {
+   "standing": 1906,
+   "merged": 3223,
+   "void": 251,
+   "unjudged": 329,
+   "other:Artificial Hybrid": 13,
+   "other:Local Biotype": 87
+  },
+  "1924": {
+   "merged": 3277,
+   "standing": 1846,
+   "void": 225,
+   "other:Artificial Hybrid": 10,
+   "unjudged": 293,
+   "other:Local Biotype": 69
+  },
+  "1925": {
+   "merged": 3029,
+   "standing": 1714,
+   "void": 168,
+   "unjudged": 218,
+   "other:Artificial Hybrid": 9,
+   "other:Local Biotype": 7
+  },
+  "1926": {
+   "void": 178,
+   "standing": 1553,
+   "merged": 2618,
+   "unjudged": 187,
+   "other:Artificial Hybrid": 7,
+   "other:Local Biotype": 10
+  },
+  "1927": {
+   "standing": 1853,
+   "merged": 3098,
+   "void": 197,
+   "unjudged": 216,
+   "other:Artificial Hybrid": 16,
+   "other:Local Biotype": 46
+  },
+  "1928": {
+   "merged": 3430,
+   "standing": 1872,
+   "void": 228,
+   "unjudged": 205,
+   "other:Artificial Hybrid": 4
+  },
+  "1929": {
+   "merged": 4419,
+   "standing": 2338,
+   "unjudged": 201,
+   "void": 204,
+   "other:Artificial Hybrid": 20,
+   "other:Local Biotype": 73
+  },
+  "1930": {
+   "merged": 3520,
+   "standing": 1696,
+   "other:Artificial Hybrid": 13,
+   "void": 203,
+   "unjudged": 201,
+   "other:Local Biotype": 1
+  },
+  "1931": {
+   "merged": 3744,
+   "other:Artificial Hybrid": 9,
+   "standing": 1843,
+   "void": 237,
+   "unjudged": 215
+  },
+  "1932": {
+   "merged": 2920,
+   "void": 237,
+   "standing": 1831,
+   "unjudged": 296,
+   "other:Artificial Hybrid": 8,
+   "other:Local Biotype": 23
+  },
+  "1933": {
+   "merged": 3313,
+   "standing": 1681,
+   "other:Artificial Hybrid": 14,
+   "unjudged": 228,
+   "void": 218
+  },
+  "1934": {
+   "standing": 2121,
+   "merged": 3666,
+   "void": 215,
+   "unjudged": 170,
+   "other:Artificial Hybrid": 7
+  },
+  "1935": {
+   "merged": 3068,
+   "standing": 1849,
+   "void": 235,
+   "unjudged": 261,
+   "other:Artificial Hybrid": 11,
+   "other:Local Biotype": 35
+  },
+  "1936": {
+   "standing": 2646,
+   "merged": 3912,
+   "void": 335,
+   "unjudged": 273,
+   "other:Artificial Hybrid": 7,
+   "other:Local Biotype": 46
+  },
+  "1937": {
+   "standing": 1894,
+   "merged": 2923,
+   "void": 272,
+   "unjudged": 140,
+   "other:Local Biotype": 1,
+   "other:Artificial Hybrid": 3
+  },
+  "1938": {
+   "standing": 1717,
+   "merged": 2830,
+   "void": 231,
+   "unjudged": 101,
+   "other:Artificial Hybrid": 5
+  },
+  "1939": {
+   "standing": 1761,
+   "merged": 2731,
+   "void": 222,
+   "unjudged": 132,
+   "other:Artificial Hybrid": 5,
+   "other:Local Biotype": 1
+  },
+  "1940": {
+   "merged": 2872,
+   "standing": 1919,
+   "void": 121,
+   "unjudged": 83,
+   "other:Artificial Hybrid": 2,
+   "other:Local Biotype": 1
+  },
+  "1941": {
+   "merged": 2824,
+   "unjudged": 94,
+   "void": 112,
+   "standing": 1564,
+   "other:Artificial Hybrid": 2
+  },
+  "1942": {
+   "merged": 2136,
+   "standing": 1632,
+   "unjudged": 96,
+   "void": 94,
+   "other:Artificial Hybrid": 2
+  },
+  "1943": {
+   "merged": 1652,
+   "standing": 1092,
+   "void": 65,
+   "unjudged": 81,
+   "other:Artificial Hybrid": 3
+  },
+  "1944": {
+   "merged": 1693,
+   "standing": 981,
+   "unjudged": 82,
+   "void": 64,
+   "other:Artificial Hybrid": 4,
+   "other:Local Biotype": 60
+  },
+  "1945": {
+   "merged": 910,
+   "standing": 718,
+   "void": 51,
+   "unjudged": 40,
+   "other:Local Biotype": 1,
+   "other:Artificial Hybrid": 1
+  },
+  "1946": {
+   "unjudged": 56,
+   "merged": 941,
+   "standing": 697,
+   "void": 66,
+   "other:Artificial Hybrid": 10,
+   "other:Local Biotype": 2
+  },
+  "1947": {
+   "merged": 1874,
+   "standing": 898,
+   "void": 76,
+   "unjudged": 62,
+   "other:Artificial Hybrid": 5
+  },
+  "1948": {
+   "merged": 1532,
+   "standing": 1141,
+   "void": 96,
+   "unjudged": 57,
+   "other:Artificial Hybrid": 3
+  },
+  "1949": {
+   "merged": 1380,
+   "void": 78,
+   "standing": 1360,
+   "unjudged": 73,
+   "other:Artificial Hybrid": 4,
+   "other:Local Biotype": 100
+  },
+  "1950": {
+   "merged": 1979,
+   "standing": 1685,
+   "unjudged": 69,
+   "void": 87,
+   "other:Artificial Hybrid": 7,
+   "other:Local Biotype": 5
+  },
+  "1951": {
+   "merged": 1795,
+   "standing": 1550,
+   "unjudged": 54,
+   "void": 89,
+   "other:Artificial Hybrid": 6,
+   "other:Local Biotype": 57
+  },
+  "1952": {
+   "merged": 1668,
+   "standing": 1254,
+   "void": 83,
+   "unjudged": 38,
+   "other:Artificial Hybrid": 3
+  },
+  "1953": {
+   "merged": 1688,
+   "standing": 1497,
+   "void": 88,
+   "unjudged": 52,
+   "other:Artificial Hybrid": 6
+  },
+  "1954": {
+   "merged": 1289,
+   "standing": 1162,
+   "void": 78,
+   "other:Artificial Hybrid": 14,
+   "unjudged": 46,
+   "other:Local Biotype": 43
+  },
+  "1955": {
+   "merged": 1236,
+   "void": 70,
+   "standing": 1274,
+   "unjudged": 38,
+   "other:Artificial Hybrid": 5
+  },
+  "1956": {
+   "standing": 1121,
+   "merged": 1440,
+   "void": 61,
+   "unjudged": 73,
+   "other:Local Biotype": 32,
+   "other:Artificial Hybrid": 1
+  },
+  "1957": {
+   "standing": 1274,
+   "merged": 1411,
+   "void": 77,
+   "unjudged": 74,
+   "other:Artificial Hybrid": 4
+  },
+  "1958": {
+   "merged": 1457,
+   "standing": 1415,
+   "void": 113,
+   "unjudged": 60,
+   "other:Artificial Hybrid": 4
+  },
+  "1959": {
+   "merged": 1277,
+   "standing": 988,
+   "void": 109,
+   "unjudged": 37,
+   "other:Artificial Hybrid": 5
+  },
+  "1960": {
+   "merged": 1558,
+   "standing": 1337,
+   "void": 79,
+   "unjudged": 16,
+   "other:Artificial Hybrid": 1
+  },
+  "1961": {
+   "merged": 1665,
+   "standing": 1308,
+   "unjudged": 47,
+   "void": 66,
+   "other:Artificial Hybrid": 9
+  },
+  "1962": {
+   "merged": 1456,
+   "standing": 1261,
+   "void": 66,
+   "unjudged": 26,
+   "other:Artificial Hybrid": 5
+  },
+  "1963": {
+   "merged": 1691,
+   "standing": 1404,
+   "void": 86,
+   "unjudged": 39,
+   "other:Artificial Hybrid": 3
+  },
+  "1964": {
+   "standing": 1342,
+   "merged": 1406,
+   "other:Artificial Hybrid": 6,
+   "void": 51,
+   "unjudged": 33
+  },
+  "1965": {
+   "merged": 1421,
+   "standing": 1375,
+   "void": 59,
+   "unjudged": 19
+  },
+  "1966": {
+   "merged": 1304,
+   "standing": 1506,
+   "void": 61,
+   "unjudged": 44,
+   "other:Artificial Hybrid": 5
+  },
+  "1967": {
+   "standing": 1671,
+   "merged": 1375,
+   "void": 66,
+   "unjudged": 27,
+   "other:Artificial Hybrid": 4
+  },
+  "1968": {
+   "standing": 1599,
+   "merged": 1218,
+   "unjudged": 23,
+   "void": 62,
+   "other:Artificial Hybrid": 3
+  },
+  "1969": {
+   "merged": 1141,
+   "standing": 1419,
+   "void": 39,
+   "unjudged": 14,
+   "other:Artificial Hybrid": 2
+  },
+  "1970": {
+   "merged": 1469,
+   "standing": 1853,
+   "void": 56,
+   "unjudged": 22,
+   "other:Artificial Hybrid": 2
+  },
+  "1971": {
+   "standing": 1483,
+   "merged": 1151,
+   "void": 53,
+   "unjudged": 37,
+   "other:Artificial Hybrid": 3
+  },
+  "1972": {
+   "standing": 1959,
+   "merged": 2035,
+   "void": 72,
+   "unjudged": 43,
+   "other:Local Biotype": 2,
+   "other:Artificial Hybrid": 6
+  },
+  "1973": {
+   "merged": 1839,
+   "standing": 1542,
+   "void": 69,
+   "unjudged": 46,
+   "other:Artificial Hybrid": 6
+  },
+  "1974": {
+   "merged": 1709,
+   "standing": 1605,
+   "void": 80,
+   "other:Artificial Hybrid": 20,
+   "unjudged": 23
+  },
+  "1975": {
+   "standing": 1785,
+   "merged": 1380,
+   "void": 54,
+   "unjudged": 20,
+   "other:Artificial Hybrid": 7,
+   "other:Local Biotype": 1
+  },
+  "1976": {
+   "standing": 1462,
+   "merged": 1574,
+   "void": 83,
+   "other:Artificial Hybrid": 2,
+   "unjudged": 16
+  },
+  "1977": {
+   "standing": 1557,
+   "merged": 1617,
+   "void": 59,
+   "unjudged": 36,
+   "other:Artificial Hybrid": 4
+  },
+  "1978": {
+   "merged": 1363,
+   "standing": 2369,
+   "void": 67,
+   "unjudged": 33,
+   "other:Artificial Hybrid": 4
+  },
+  "1979": {
+   "merged": 2066,
+   "void": 65,
+   "standing": 1908,
+   "unjudged": 29,
+   "other:Artificial Hybrid": 3,
+   "other:Local Biotype": 1
+  },
+  "1980": {
+   "merged": 1594,
+   "standing": 2252,
+   "void": 86,
+   "unjudged": 28,
+   "other:Artificial Hybrid": 3
+  },
+  "1981": {
+   "merged": 2039,
+   "void": 176,
+   "standing": 2156,
+   "unjudged": 25,
+   "other:Artificial Hybrid": 9
+  },
+  "1982": {
+   "standing": 2560,
+   "merged": 1710,
+   "void": 73,
+   "unjudged": 39,
+   "other:Artificial Hybrid": 8
+  },
+  "1983": {
+   "standing": 2153,
+   "merged": 2682,
+   "void": 85,
+   "unjudged": 42,
+   "other:Artificial Hybrid": 1
+  },
+  "1984": {
+   "standing": 2228,
+   "merged": 1766,
+   "void": 94,
+   "unjudged": 32
+  },
+  "1985": {
+   "merged": 1565,
+   "standing": 2291,
+   "other:Artificial Hybrid": 8,
+   "void": 73,
+   "unjudged": 35
+  },
+  "1986": {
+   "standing": 2490,
+   "merged": 1358,
+   "void": 83,
+   "unjudged": 52,
+   "other:Artificial Hybrid": 3
+  },
+  "1987": {
+   "standing": 2307,
+   "merged": 2093,
+   "void": 81,
+   "unjudged": 102,
+   "other:Artificial Hybrid": 2
+  },
+  "1988": {
+   "merged": 1601,
+   "standing": 2624,
+   "void": 107,
+   "unjudged": 77,
+   "other:Artificial Hybrid": 3
+  },
+  "1989": {
+   "standing": 2291,
+   "merged": 1514,
+   "void": 64,
+   "unjudged": 38,
+   "other:Artificial Hybrid": 6
+  },
+  "1990": {
+   "standing": 2555,
+   "merged": 1237,
+   "void": 63,
+   "unjudged": 47,
+   "other:Artificial Hybrid": 7,
+   "other:Local Biotype": 1
+  },
+  "1991": {
+   "merged": 1266,
+   "standing": 2617,
+   "unjudged": 46,
+   "void": 62,
+   "other:Artificial Hybrid": 5
+  },
+  "1992": {
+   "standing": 3069,
+   "merged": 1229,
+   "void": 64,
+   "unjudged": 36,
+   "other:Artificial Hybrid": 6
+  },
+  "1993": {
+   "merged": 1392,
+   "standing": 2471,
+   "void": 76,
+   "unjudged": 50,
+   "other:Artificial Hybrid": 10
+  },
+  "1994": {
+   "merged": 1123,
+   "void": 58,
+   "standing": 1818,
+   "unjudged": 34,
+   "other:Artificial Hybrid": 4
+  },
+  "1995": {
+   "merged": 1335,
+   "standing": 2777,
+   "void": 53,
+   "unjudged": 31,
+   "other:Artificial Hybrid": 4
+  },
+  "1996": {
+   "standing": 2423,
+   "merged": 1267,
+   "void": 54,
+   "unjudged": 22,
+   "other:Artificial Hybrid": 6
+  },
+  "1997": {
+   "merged": 1343,
+   "standing": 2580,
+   "void": 55,
+   "unjudged": 34,
+   "other:Artificial Hybrid": 11
+  },
+  "1998": {
+   "standing": 2628,
+   "merged": 1193,
+   "void": 71,
+   "unjudged": 30,
+   "other:Artificial Hybrid": 15
+  },
+  "1999": {
+   "standing": 2641,
+   "merged": 1238,
+   "void": 72,
+   "other:Artificial Hybrid": 5,
+   "unjudged": 50
+  },
+  "2000": {
+   "standing": 2031,
+   "merged": 1113,
+   "void": 35,
+   "unjudged": 32,
+   "other:Artificial Hybrid": 29
+  },
+  "2001": {
+   "merged": 1824,
+   "void": 94,
+   "standing": 2795,
+   "unjudged": 38,
+   "other:Artificial Hybrid": 7
+  },
+  "2002": {
+   "standing": 2353,
+   "merged": 1618,
+   "void": 42,
+   "unjudged": 25,
+   "other:Artificial Hybrid": 6
+  },
+  "2003": {
+   "standing": 2405,
+   "merged": 2315,
+   "void": 63,
+   "unjudged": 42,
+   "other:Artificial Hybrid": 17
+  },
+  "2004": {
+   "standing": 2255,
+   "merged": 1513,
+   "other:Artificial Hybrid": 12,
+   "unjudged": 28,
+   "void": 51
+  },
+  "2005": {
+   "standing": 2310,
+   "merged": 1215,
+   "unjudged": 16,
+   "void": 56,
+   "other:Artificial Hybrid": 13
+  },
+  "2006": {
+   "merged": 1959,
+   "standing": 2685,
+   "void": 53,
+   "unjudged": 24,
+   "other:Artificial Hybrid": 7
+  },
+  "2007": {
+   "standing": 3401,
+   "merged": 1227,
+   "void": 54,
+   "unjudged": 18,
+   "other:Artificial Hybrid": 4
+  },
+  "2008": {
+   "standing": 2887,
+   "merged": 1028,
+   "unjudged": 21,
+   "void": 59,
+   "other:Artificial Hybrid": 5
+  },
+  "2009": {
+   "standing": 2808,
+   "merged": 1110,
+   "unjudged": 44,
+   "void": 76,
+   "other:Artificial Hybrid": 7
+  },
+  "2010": {
+   "standing": 3087,
+   "merged": 1047,
+   "unjudged": 50,
+   "void": 52,
+   "other:Artificial Hybrid": 8
+  },
+  "2011": {
+   "unjudged": 41,
+   "merged": 1023,
+   "standing": 3624,
+   "void": 45,
+   "other:Artificial Hybrid": 6
+  },
+  "2012": {
+   "standing": 3680,
+   "merged": 1328,
+   "void": 58,
+   "unjudged": 39,
+   "other:Artificial Hybrid": 5
+  },
+  "2013": {
+   "standing": 3432,
+   "merged": 1100,
+   "void": 36,
+   "other:Artificial Hybrid": 5,
+   "unjudged": 30
+  },
+  "2014": {
+   "standing": 3717,
+   "merged": 853,
+   "void": 55,
+   "other:Artificial Hybrid": 5,
+   "unjudged": 24,
+   "other:Local Biotype": 1
+  },
+  "2015": {
+   "standing": 3667,
+   "merged": 1259,
+   "other:Artificial Hybrid": 11,
+   "void": 46,
+   "unjudged": 54
+  },
+  "2016": {
+   "standing": 3536,
+   "other:Artificial Hybrid": 26,
+   "void": 63,
+   "merged": 944,
+   "unjudged": 35
+  },
+  "2017": {
+   "merged": 1490,
+   "standing": 4021,
+   "unjudged": 49,
+   "other:Artificial Hybrid": 16,
+   "void": 66
+  },
+  "2018": {
+   "merged": 2731,
+   "standing": 6258,
+   "unjudged": 44,
+   "void": 142,
+   "other:Artificial Hybrid": 15
+  },
+  "2019": {
+   "merged": 1064,
+   "standing": 4152,
+   "void": 65,
+   "unjudged": 33,
+   "other:Artificial Hybrid": 20
+  },
+  "2020": {
+   "merged": 725,
+   "void": 55,
+   "standing": 4457,
+   "unjudged": 56,
+   "other:Artificial Hybrid": 16
+  },
+  "2021": {
+   "merged": 681,
+   "standing": 3980,
+   "unjudged": 97,
+   "void": 75,
+   "other:Artificial Hybrid": 11,
+   "other:Local Biotype": 88
+  },
+  "2022": {
+   "merged": 1090,
+   "void": 48,
+   "standing": 3597,
+   "unjudged": 58,
+   "other:Artificial Hybrid": 12,
+   "other:Local Biotype": 1
+  },
+  "2023": {
+   "merged": 1403,
+   "standing": 3300,
+   "void": 37,
+   "unjudged": 47,
+   "other:Artificial Hybrid": 10,
+   "other:Local Biotype": 202
+  },
+  "2024": {
+   "merged": 1658,
+   "void": 58,
+   "standing": 3362,
+   "unjudged": 47,
+   "other:Artificial Hybrid": 34,
+   "other:Local Biotype": 1
+  },
+  "2025": {
+   "void": 81,
+   "merged": 343,
+   "standing": 3232,
+   "other:Artificial Hybrid": 23,
+   "unjudged": 43
+  },
+  "2026": {
+   "standing": 32
+  }
+ },
+ "check_sample": [
+  {
+   "plant_name_id": "143628",
+   "year": 1879,
+   "kind": "standing"
+  },
+  {
+   "plant_name_id": "3164514",
+   "year": 1825,
+   "kind": "void"
+  },
+  {
+   "plant_name_id": "2542698",
+   "year": 1846,
+   "kind": "merged"
+  },
+  {
+   "plant_name_id": "3063686",
+   "year": 1900,
+   "kind": "merged"
+  },
+  {
+   "plant_name_id": "3111464",
+   "year": 2005,
+   "kind": "standing"
+  },
+  {
+   "plant_name_id": "2601473",
+   "year": 1910,
+   "kind": "merged"
+  },
+  {
+   "plant_name_id": "2924803",
+   "year": 1941,
+   "kind": "merged"
+  },
+  {
+   "plant_name_id": "2367652",
+   "year": 1924,
+   "kind": "merged"
+  },
+  {
+   "plant_name_id": "2567924",
+   "year": 1841,
+   "kind": "standing"
+  },
+  {
+   "plant_name_id": "2388672",
+   "year": 1861,
+   "kind": "merged"
+  },
+  {
+   "plant_name_id": "526950",
+   "year": 2015,
+   "kind": "standing"
+  },
+  {
+   "plant_name_id": "3295395",
+   "year": 2021,
+   "kind": "standing"
+  }
+ ],
+ "raw_first_published_20": [
+  "(1940)",
+  "(1846)",
+  "(2022)",
+  "(1938)",
+  "(2018)",
+  "(1912)",
+  "(1902)",
+  "(1992)",
+  "(1986)",
+  "(1891)",
+  "(2002)",
+  "(1805)",
+  "(1865)",
+  "(1908 publ. 1907)",
+  "(1855)",
+  "(2014)",
+  "(2024)",
+  "(1925)",
+  "(1894)",
+  "(1902)"
+ ],
+ "predictions": {
+  "P1": true,
+  "P2": true,
+  "P3": true,
+  "P4": true,
+  "P5": false,
+  "P6": true,
+  "P7": false,
+  "P8": false,
+  "P9": true,
+  "P10": true
+ },
+ "P11": "checked separately (check1.py)"
+}
