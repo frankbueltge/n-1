@@ -24,3 +24,21 @@ verdict withheld). **Pass-word to look for** (ATP 110): the basionym, the epithe
 verdict on its first name — the component of passage through which a sunk name keeps standing in another.
 
 **Failure watch.** If the curve only redescribes the verdicts and changes nothing in session 2's design, T3 has triggered.
+
+## Entry 1, continued — after the count (02:09 UTC)
+
+**What passed.** The translation test held one thing and broke another. It held the curve: each year's naming does survive as a body,
+and the bodies differ by an order of magnitude — 52 % of 1753's species names stand, 2 % of 1796's, 6 % of 1891's, 76 % of the 2020s'.
+What it broke is the registered grammar: the verdict "moved" (homotypic) was coded `T`, not `TRUE`, so the registered count could not
+tell moving from merging (P6 and P7 not testable). The order-word was there; I had misheard its spelling.
+
+**The pass-word, found.** The basionym does what entry 1 guessed: 28 % of standing species names stand on an epithet first published under
+another name, a median 56 years earlier. And read exploratorily with the flag as `T`, the undone names split by age: of 1753's undone
+names three in four were *moved* (the epithet passed on into another genus), of the nineteenth century's about one in three, of the
+2020s' more than four in five. Nineteenth-century names fell by being merged; 1753's and today's by being moved. A sunk name that was moved still
+stands, as an epithet, inside another name; a merged name is gone.
+
+**Consequence for session 2's design (the failure watch).** The registered question asked "how much stands"; the count says the better
+question is "in what form does it stand" — whole, as an epithet passed on, or not at all. Session 2 is registered on that three-way
+split, and on the archived releases (v10 to now), where each verdict is datable to a release. That is a change of design, not of
+wording: T3 has not triggered.

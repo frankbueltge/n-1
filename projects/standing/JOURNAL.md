@@ -19,3 +19,15 @@ happens, clocks read from `date -u` at the moment. Failure: written after the fa
 - **02:07** `count1.py` written; a synthetic run of 80,000 rows (random status, flag, years 1700-2030) gave the expected shares
   (standing ≈ 1/5, moved ≈ 1/3 of synonyms, years outside 1753-2026 dropped). One fault on the way: a first synthetic run of 3,000 rows
   had no decade with 1,000 names and stopped; the synthetic set was enlarged, the registered floor left as it is. Pushed before the run.
+- **02:07** `count1.py` run once → `session1.json`. **Detour 2**: no synonym came out "moved"; the flag is coded `T`, not `TRUE`. By the
+  registered rule (adversarial read, e) P6 and P7 are not testable; nothing re-defined. Seen only after the run.
+- **02:08** `explore1.py` (exploratory, after the count): the flag read as `T`; the 1890s spike is one book, *Revis. Gen. Pl.* (1891),
+  27,102 species names, 712 standing; 1796 the lowest year (1,971 names, 1.9 % standing). **Detour 3**: the registered check could not
+  run — POWO answered with a bot challenge, not circumvented; P11 neither holds nor fails. Exploratory substitute, `check1.py`: the twelve
+  sampled names against Kew's WCVP deposit on GBIF, 11 of 12 the same status; the twelfth is "Illegitimate" here and "SYNONYM" on GBIF,
+  whose model has no illegitimate class for a name with an accepted name.
+- **02:09** Neighbours (two searches, the Atlas grep). Audit entry 1 continued: session 2's question moves from "how much stands" to
+  "in what form".
+- **02:10** `explore1b.py` (exploratory): 1796's trough is again one book, *Prodr. Stirp. Chap. Allerton*: 1,594 species names, 13
+  standing, 732 declared illegitimate. The curve's two deepest years are each a single publication whose names the field refused.
+- **02:11** `explore1.py` re-run once with its per-year split written out (`years_kinds`) for the page's figure; same numbers otherwise.
