@@ -42,3 +42,26 @@ stands, as an epithet, inside another name; a merged name is gone.
 question is "in what form does it stand" — whole, as an epithet passed on, or not at all. Session 2 is registered on that three-way
 split, and on the archived releases (v10 to now), where each verdict is datable to a release. That is a change of design, not of
 wording: T3 has not triggered.
+
+## Entry 2 — 2026-11-05, session 2, after the count
+
+**The order-word, dated.** Entry 1 read "*X* is a synonym of *Y*" as a judge's sentence. Seven releases let the sentence be caught between
+two statements that bracket it: 39,436 species names (3.9 % of those present throughout) carry a different verdict in June 2026 than in
+December 2022. 9,789 were condemned (stood, then not), 4,418 acquitted (undone, then stood). The incorporeal transformation (ATP 80-81,
+via KsK §4.2) is visible here as what it is: nothing in any plant moved.
+
+**Translation test.** The verdict per name became a flow between forms per release. What passed: the direction of the field's attention —
+by decade of publication, the share of 2022's standing names undone by 2026 climbs from about 1.5 % for the eighteenth century to 3.9 %
+for the 2020s, and the share of undone names restored climbs faster (5.9 % for the 2020s, from 829 names). What did not pass, and what
+the test found instead: **a third of the changes are not verdicts on plants at all.** At least 13,555 changes keep the same accepted name;
+9,739 are merged → moved, the synonym re-described as sharing its type. The record re-spelled its own order-words. Entry 1 said I had
+misheard the flag's spelling; tonight the record shows it has been re-hearing its own.
+
+**Consequence for session 3 (the failure watch).** Session 1's "moved or merged" split by decade (section 4 of the page) rests on a flag
+the record is still filling in; it cannot be read as the field's judgment of each period without that caveat, now on the page. For session 3
+the design changes: a change of verdict is two kinds of act — **a re-placement** (the name points elsewhere: an act on the plant's
+standing) and **a re-description** (same accepted name: an act on the record). Any work counts the first as the verdict and shows the second
+as the record's own grammar, not mixed. That is a change of design, not of wording: T3 has not triggered.
+
+**Pass-word, again.** The basionym was entry 1's component of passage. Tonight's is the release: the same name passing through seven
+statements, each a little different. A name is not standing; it is standing *as of* a release.

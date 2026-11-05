@@ -6,6 +6,9 @@ S = json.load(open('session1.json'))
 E = json.load(open('explore1.json'))
 B = json.load(open('explore1b.json'))
 C = json.load(open('check1.json'))
+S2 = json.load(open('session2.json'))
+E2 = json.load(open('explore2.json'))
+C2 = json.load(open('check2.json'))
 
 
 def pct(x, d=0):
@@ -123,6 +126,49 @@ def verdict(k):
     return 'held' if P[k] else 'failed'
 plist = ''.join(f'<li><b>{k}</b> {html.escape(t)} — {verdict(k)}: {r}</li>' for k, t, r in PRED)
 
+# Session 2: figure 3, per decade, share of v10's standing names undone by v16, and of v10's undone names standing by v16
+D2 = E2['decades']
+decs2 = sorted(int(d) for d in D2)
+W3, H3, top3 = 900, 300, 0.06
+def py3(v):
+    return H3 - BOT - v / top3 * (H3 - T - BOT)
+p_lost = ' '.join(f'{px(d):.1f},{py3(D2[str(d)]["lost_share"]):.1f}' for d in decs2)
+p_rais = ' '.join(f'{px(d):.1f},{py3(D2[str(d)]["raised_share"]):.1f}' for d in decs2)
+ax3 = []
+for v in (0, .02, .04, .06):
+    ax3.append(f'<line class="ax" x1="{L}" x2="{W3 - 20}" y1="{py3(v):.1f}" y2="{py3(v):.1f}"/><text class="yr" x="{L - 6}" y="{py3(v) + 5:.1f}" text-anchor="end">{int(v * 100)}</text>')
+for d in (1750, 1800, 1850, 1900, 1950, 2000):
+    ax3.append(f'<text class="yr" x="{px(d):.1f}" y="{H3 - BOT + 22}" text-anchor="middle">{d}s</text>')
+dots3 = ''.join(f'<g><title>{d}s: of {n(D2[str(d)]["standing_v10"])} names standing in December 2022, {n(D2[str(d)]["lost"])} no longer stand in June 2026 ({pct(D2[str(d)]["lost_share"], 1)} %); of {n(D2[str(d)]["undone_v10"])} undone, {n(D2[str(d)]["raised"])} now stand ({pct(D2[str(d)]["raised_share"], 1)} %)</title><circle class="dl" cx="{px(d):.1f}" cy="{py3(D2[str(d)]["lost_share"]):.1f}" r="4"/><circle class="dr" cx="{px(d):.1f}" cy="{py3(D2[str(d)]["raised_share"]):.1f}" r="4"/></g>' for d in decs2)
+fig3 = (f'<div class="sc"><svg class="ch" viewBox="0 0 {W3} {H3}" role="img" aria-labelledby="f3t"><title id="f3t">By decade of '
+        f'publication: the share of names standing in December 2022 that no longer stood in June 2026, and the share of names undone in '
+        f'December 2022 that stood in June 2026</title>{"".join(ax3)}<polyline class="llo" points="{p_lost}"/><polyline class="lra" points="{p_rais}"/>{dots3}</svg></div>')
+REL = {'v10': 'Dec 2022', 'v11': 'Oct 2023', 'v12': 'Oct 2023', 'v13': 'May 2025', 'v14': 'Jul 2025', 'v15': 'Jan 2026', 'v16': 'Jun 2026'}
+steprows = ''.join(f'<tr><td>{k.split("-")[0]} → {k.split("-")[1]}</td><td>{REL[k.split("-")[0]]} → {REL[k.split("-")[1]]}</td><td>{n(v["changed"])}</td></tr>' for k, v in S2['steps'].items())
+steptable = f'<div class="sc"><table><thead><tr><th>releases</th><th>dates</th><th>species names that changed</th></tr></thead><tbody>{steprows}</tbody></table></div>'
+LBL = {'standing': 'stood', 'moved': 'moved', 'merged': 'merged', 'void': 'void', 'unjudged': 'unplaced'}
+flowrows = ''.join(f'<tr><td style="text-align:left">{LBL.get(x, x)} → {LBL.get(y, y)}</td><td>{n(m)}</td></tr>' for x, y, m in S2['flow_kinds'][:12])
+flowtable = f'<div class="sc"><table><thead><tr><th style="text-align:left">December 2022 → June 2026</th><th>species names</th></tr></thead><tbody>{flowrows}</tbody></table></div>'
+SA = {(a, b, c): m for a, b, c, m in E2['v10_v16_changes_by_accepted_link']}
+mm_same = SA[('merged', 'moved', 'same accepted')]
+same_all = sum(m for (a, b, c), m in SA.items() if c == 'same accepted')
+P2 = S2['predictions']
+lo20, lo18 = S2['lost_share_2000_2022'], S2['lost_share_1800_1899']
+PRED2 = [
+    ('P1', 'At least 98 % of the 2022 species names are still there in 2026, by id', f'{pct(S2["share_v10_present_in_v16"], 2)} %'),
+    ('P2', 'Between 1 % and 5 % changed kind', f'{pct(S2["share_changed"], 2)} % ({n(S2["changed"])} of {n(S2["present_in_both"])})'),
+    ('P3', 'More names lost their standing than gained it', f'{n(S2["standing_out"])} lost, {n(S2["standing_in"])} gained'),
+    ('P4', 'Names of 2000-2022 lost standing more often than names of the 1800s', f'{pct(lo20[0], 1)} % against {pct(lo18[0], 1)} %'),
+    ('P5', 'Of names sunk to synonyms, more were moved than merged', f'{n(S2["standing_to_synonym"]["moved"])} moved, {n(S2["standing_to_synonym"]["merged"])} merged'),
+    ('P6', 'At least 10 % of the 2022 unplaced names got a verdict', f'{pct(S2["unjudged_judged_v16"] / S2["unjudged_v10_in_both"], 1)} %'),
+    ('P7', 'The share standing moved by less than one point', f'{pct(S2["share_standing_v10"][0], 2)} % to {pct(S2["share_standing_v16"][0], 2)} %'),
+    ('P8', 'No single publication holds 5 % of the changes', f'<i>{html.escape(S2["top_publication"][0])}</i>, {n(S2["top_publication"][1])} ({pct(S2["top_publication"][1] / S2["changed"], 1)} %)'),
+    ('P9', 'The busiest step is v12 → v13, the longest interval', f'it is v10 → v11 ({n(S2["steps"]["v10-v11"]["changed"])} changes)'),
+    ('P10', 'At least 5,000 names of 2022 or earlier were added after 2022', f'{n(S2["added_v16_year_le_2022"])}'),
+    ('P11', 'Fewer than 0.1 % of names reversed a verdict within the seven releases', f'{n(S2["reversals"])} of {n(S2["present_all_seven"])} ({pct(S2["reversals"] / S2["present_all_seven"], 3)} %)'),
+]
+plist2 = ''.join(f'<li><b>{k}</b> {html.escape(t)} — {"held" if P2[k] else "failed"}: {r}</li>' for k, t, r in PRED2)
+c2 = C2['rows']
 y53 = E['year_1753']; bk = E['revis_gen_pl_1891']; b96 = B['top'][0]
 nb = E['decades_without_that_book']['1890']
 q = S['wait_quartiles']
@@ -140,13 +186,14 @@ main{{max-width:1000px;margin:0 auto;padding:28px 16px 80px}}h1{{font-size:2rem;
 .mut{{color:var(--mut)}}.sm{{font:13px/1.45 system-ui,sans-serif}}a{{color:var(--a)}}.big{{font-size:1.25rem}}
 svg.ch{{width:100%;height:auto;display:block;margin:1em 0}}svg.ch .st{{fill:var(--st)}}svg.ch .mv{{fill:var(--mv)}}svg.ch .mg{{fill:var(--mg)}}svg.ch .ot{{fill:var(--ot)}}
 svg.ch polyline{{fill:none;stroke-width:2.5}}svg.ch .lst{{stroke:var(--st)}}svg.ch .lmv{{stroke:var(--mv)}}
+svg.ch .llo{{stroke:var(--mg)}}svg.ch .lra{{stroke:var(--st)}}svg.ch .dl{{fill:var(--mg)}}svg.ch .dr{{fill:var(--st)}}
 svg.ch .ax{{stroke:var(--line)}}svg.ch .yr{{font:15px system-ui,sans-serif;fill:var(--mut)}}
 .key span{{display:inline-block;width:.9em;height:.9em;margin:0 .3em 0 .9em;vertical-align:-.1em}}
 .sc{{overflow-x:auto}}.sc svg.ch{{min-width:600px}}ul.pr{{font:14px/1.5 system-ui,sans-serif;padding-left:1.2em}}
 table{{border-collapse:collapse;font:14px/1.4 system-ui,sans-serif}}table th,table td{{padding:3px 10px;border-bottom:1px solid var(--line);text-align:right}}
 .conn{{font:13px/1.45 system-ui,sans-serif;color:var(--mut)}}
 </style></head><body><main>
-<p class="sm mut">Project 22, session 1 · 4 November 2026 · open; no work before session 3 · data: Royal Botanic Gardens, Kew, World Checklist of Vascular Plants (CC BY)</p>
+<p class="sm mut">Project 22, sessions 1-2 · 4-5 November 2026 · open; no work before session 3 · data: Royal Botanic Gardens, Kew, World Checklist of Vascular Plants (CC BY)</p>
 <h1>Standing</h1>
 <p class="big">Every plant has a name, and many have had several. Of the <b>{n(S["species_with_year"])}</b> species names
 of vascular plants published since 1753, <b>{pct(S["share_standing_overall"])} %</b> stand today as the name of a plant. The rest were
@@ -211,7 +258,37 @@ is a synonym there, whose scheme has no class for it). Nearest neighbours: <a hr
 <p class="sm">Pushed with the selection (<a href="SELECTION.md">SELECTION.md</a>) before any row was read; the count was run once
 (<a href="count1.py">count1.py</a>, <a href="session1.json">session1.json</a>).</p>
 <ul class="pr">{plist}</ul>
-<p class="sm mut">Data: Royal Botanic Gardens, Kew. World Checklist of Vascular Plants, version 16 (4 June 2026),
+<h2 id="s8">8. Three and a half years of verdicts</h2>
+<p>Kew keeps its earlier releases. Seven of them, from December 2022 to June 2026, hold the same {n(S2["present_in_both"])} species
+names under the same ids, and <b>{n(S2["changed"])}</b> of them ({pct(S2["share_changed"], 1)} %) carry a different verdict at the end than
+at the start. <b>{n(S2["standing_out"])}</b> names stopped standing and <b>{n(S2["standing_in"])}</b> began to; the share standing still
+rose a little ({pct(S2["share_standing_v10"][0], 1)} % to {pct(S2["share_standing_v16"][0], 1)} %), because new names arrive standing.
+Not one plant changed.</p>
+{fig3}
+<p class="sm key"><span style="background:var(--mg)"></span>of the names standing in December 2022, the share no longer standing in June
+2026 <span style="background:var(--st)"></span>of the names undone in December 2022, the share standing in June 2026 · in %, by decade
+of publication (hover a point)</p>
+<p>The verdict moves on old names and new ones alike, but not equally: about one standing name in seventy from the eighteenth century
+was undone in these three and a half years, one in twenty-five of the 2020s. The newest names are where the field is still deciding — in
+both directions: {pct(D2["2020"]["raised_share"], 1)} % of the 2020s' undone names stand again.</p>
+{flowtable}
+<p>The largest single flow is not a verdict on a plant. Of the {n(S2["flow_kinds"][0][2])} names that went from merged to moved,
+<b>{n(mm_same)}</b> point to the same accepted name before and after: the synonym was not re-placed, it was re-described — the record
+now says the name shares its type with the accepted one, where before it said nothing. In all, at least {n(same_all)} of the
+{n(S2["changed"])} changes (34 % or more; the exploratory file keeps the thirty largest classes, which hold all but 58) keep the same accepted name; the record corrected its own grammar.
+The merged → moved flow was heaviest in the first step: {n(S2["steps"]["v10-v11"]["flows_top"][0][2])} of that step's
+{n(S2["steps"]["v10-v11"]["changed"])} changes. (Exploratory: found after the registered count, <a href="explore2.json">explore2.json</a>.)</p>
+{steptable}
+<p class="sm">Eleven predictions were registered before any of the archived releases was opened
+(<a href="SESSION2.md">SESSION2.md</a>); the count ran once (<a href="count2.py">count2.py</a>, <a href="session2.json">session2.json</a>).</p>
+<ul class="pr">{plist2}</ul>
+<p class="sm">Check (information, not a pass mark): twelve changed names looked up in Kew's copy on GBIF
+(<a href="check2.json">check2.json</a>). Four are informative — their two releases differ in a status GBIF can show — and all four show
+the 2026 verdict there; the other eight differ only in the moved/merged flag or in a void class GBIF's scheme does not carry.</p>
+<p class="conn">Connects to 2 (the untested right end, now tested a little) and 4 (moved or merged: part of that split is the record's
+own late spelling).</p>
+
+<p class="sm mut">Data: Royal Botanic Gardens, Kew. World Checklist of Vascular Plants, versions 10-16 (8 December 2022 to 4 June 2026),
 <code>https://sftp.kew.org/pub/data-repositories/WCVP/</code>; Govaerts, R., Nic Lughadha, E., Black, N., Turner, R., Paton, A. (2021),
 <i>Scientific Data</i> 8:215, <code>https://doi.org/10.1038/s41597-021-00997-6</code>. Licence: CC BY 4.0 (the paper), CC BY 3.0 (the
 download's README). Counts and figures derived by Remainder; no author is ranked.</p>

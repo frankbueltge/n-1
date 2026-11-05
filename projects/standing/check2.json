@@ -1,0 +1,269 @@
+{
+ "check": "P12, information: which release GBIF copy follows",
+ "rows": [
+  {
+   "plant_name_id": "2611638",
+   "taxon_name": "Acacia centrinervia",
+   "year": 1927,
+   "v10": [
+    "Synonym",
+    "",
+    "2612810"
+   ],
+   "v16": [
+    "Accepted",
+    "",
+    "2611638"
+   ],
+   "kinds": [
+    "merged",
+    "standing"
+   ],
+   "gbif_statuses": [
+    "ACCEPTED"
+   ]
+  },
+  {
+   "plant_name_id": "2678936",
+   "taxon_name": "Bolax pedunculata",
+   "year": 1818,
+   "v10": [
+    "Synonym",
+    "",
+    "2667486"
+   ],
+   "v16": [
+    "Synonym",
+    "T",
+    "2667486"
+   ],
+   "kinds": [
+    "merged",
+    "moved"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "2516994",
+   "taxon_name": "Telotia nodiflora",
+   "year": 1888,
+   "v10": [
+    "Synonym",
+    "",
+    "2547737"
+   ],
+   "v16": [
+    "Synonym",
+    "T",
+    "3307676"
+   ],
+   "kinds": [
+    "merged",
+    "moved"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "3153161",
+   "taxon_name": "Tectaria menyanthidis",
+   "year": 1907,
+   "v10": [
+    "Accepted",
+    "",
+    "3153161"
+   ],
+   "v16": [
+    "Synonym",
+    "T",
+    "3182436"
+   ],
+   "kinds": [
+    "standing",
+    "moved"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "2730225",
+   "taxon_name": "Coelidium fourcadei",
+   "year": 1940,
+   "v10": [
+    "Unplaced",
+    "",
+    ""
+   ],
+   "v16": [
+    "Synonym",
+    "",
+    "2634836"
+   ],
+   "kinds": [
+    "unjudged",
+    "merged"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "3160464",
+   "taxon_name": "Orthiopteris brasiliensis",
+   "year": 1972,
+   "v10": [
+    "Synonym",
+    "T",
+    "3146556"
+   ],
+   "v16": [
+    "Synonym",
+    "",
+    "3296353"
+   ],
+   "kinds": [
+    "moved",
+    "merged"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "3046913",
+   "taxon_name": "Rhaponticum imatongense",
+   "year": 1962,
+   "v10": [
+    "Synonym",
+    "",
+    "3046915"
+   ],
+   "v16": [
+    "Synonym",
+    "T",
+    "3046915"
+   ],
+   "kinds": [
+    "merged",
+    "moved"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "2731634",
+   "taxon_name": "Columbia subobovata",
+   "year": 1904,
+   "v10": [
+    "Unplaced",
+    "",
+    ""
+   ],
+   "v16": [
+    "Synonym",
+    "",
+    "2731413"
+   ],
+   "kinds": [
+    "unjudged",
+    "merged"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "3177571",
+   "taxon_name": "Polystichopsis wardii",
+   "year": 1956,
+   "v10": [
+    "Synonym",
+    "",
+    "3150921"
+   ],
+   "v16": [
+    "Synonym",
+    "T",
+    "3150921"
+   ],
+   "kinds": [
+    "merged",
+    "moved"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "3057151",
+   "taxon_name": "Crepis hieracioides",
+   "year": 1799,
+   "v10": [
+    "Synonym",
+    "",
+    "3057160"
+   ],
+   "v16": [
+    "Illegitimate",
+    "",
+    "3240142"
+   ],
+   "kinds": [
+    "merged",
+    "void"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "2779878",
+   "taxon_name": "Dysoxylum baillonii",
+   "year": 1886,
+   "v10": [
+    "Synonym",
+    "",
+    "2626567"
+   ],
+   "v16": [
+    "Invalid",
+    "",
+    "2626567"
+   ],
+   "kinds": [
+    "merged",
+    "void"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  },
+  {
+   "plant_name_id": "2731092",
+   "taxon_name": "Collinsia davidsonii",
+   "year": 1893,
+   "v10": [
+    "Synonym",
+    "",
+    "2731074"
+   ],
+   "v16": [
+    "Synonym",
+    "T",
+    "2731074"
+   ],
+   "kinds": [
+    "merged",
+    "moved"
+   ],
+   "gbif_statuses": [
+    "SYNONYM"
+   ]
+  }
+ ]
+}

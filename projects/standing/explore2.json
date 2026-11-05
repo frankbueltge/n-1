@@ -1,0 +1,411 @@
+{
+ "note": "exploratory, after the count; not registered",
+ "v10_v16_changes_by_accepted_link": [
+  [
+   "merged",
+   "moved",
+   "same accepted",
+   9739
+  ],
+  [
+   "standing",
+   "moved",
+   "accepted changed or none",
+   5859
+  ],
+  [
+   "merged",
+   "moved",
+   "accepted changed or none",
+   4098
+  ],
+  [
+   "standing",
+   "merged",
+   "accepted changed or none",
+   3727
+  ],
+  [
+   "merged",
+   "void",
+   "same accepted",
+   3149
+  ],
+  [
+   "merged",
+   "standing",
+   "accepted changed or none",
+   2343
+  ],
+  [
+   "moved",
+   "standing",
+   "accepted changed or none",
+   2013
+  ],
+  [
+   "moved",
+   "merged",
+   "accepted changed or none",
+   1978
+  ],
+  [
+   "unjudged",
+   "merged",
+   "accepted changed or none",
+   1865
+  ],
+  [
+   "unjudged",
+   "moved",
+   "accepted changed or none",
+   1228
+  ],
+  [
+   "merged",
+   "void",
+   "accepted changed or none",
+   707
+  ],
+  [
+   "unjudged",
+   "void",
+   "accepted changed or none",
+   557
+  ],
+  [
+   "unjudged",
+   "standing",
+   "accepted changed or none",
+   520
+  ],
+  [
+   "moved",
+   "void",
+   "same accepted",
+   400
+  ],
+  [
+   "standing",
+   "unjudged",
+   "accepted changed or none",
+   215
+  ],
+  [
+   "standing",
+   "void",
+   "accepted changed or none",
+   203
+  ],
+  [
+   "void",
+   "merged",
+   "same accepted",
+   157
+  ],
+  [
+   "moved",
+   "void",
+   "accepted changed or none",
+   92
+  ],
+  [
+   "unjudged",
+   "other:Artificial Hybrid",
+   "accepted changed or none",
+   87
+  ],
+  [
+   "void",
+   "standing",
+   "accepted changed or none",
+   62
+  ],
+  [
+   "moved",
+   "merged",
+   "same accepted",
+   60
+  ],
+  [
+   "other:Artificial Hybrid",
+   "unjudged",
+   "accepted changed or none",
+   55
+  ],
+  [
+   "merged",
+   "unjudged",
+   "accepted changed or none",
+   50
+  ],
+  [
+   "void",
+   "moved",
+   "same accepted",
+   50
+  ],
+  [
+   "other:Artificial Hybrid",
+   "merged",
+   "accepted changed or none",
+   44
+  ],
+  [
+   "unjudged",
+   "other:Local Biotype",
+   "accepted changed or none",
+   33
+  ],
+  [
+   "void",
+   "merged",
+   "accepted changed or none",
+   32
+  ],
+  [
+   "other:Artificial Hybrid",
+   "moved",
+   "accepted changed or none",
+   20
+  ],
+  [
+   "void",
+   "moved",
+   "accepted changed or none",
+   20
+  ],
+  [
+   "void",
+   "unjudged",
+   "accepted changed or none",
+   15
+  ]
+ ],
+ "decades": {
+  "1750": {
+   "undone_v10": 3352,
+   "standing_v10": 3243,
+   "lost": 49,
+   "raised": 22,
+   "lost_share": 0.0151,
+   "raised_share": 0.0066
+  },
+  "1760": {
+   "undone_v10": 4072,
+   "standing_v10": 978,
+   "lost": 15,
+   "raised": 11,
+   "lost_share": 0.0153,
+   "raised_share": 0.0027
+  },
+  "1770": {
+   "undone_v10": 3717,
+   "standing_v10": 910,
+   "raised": 15,
+   "lost": 13,
+   "lost_share": 0.0143,
+   "raised_share": 0.004
+  },
+  "1780": {
+   "undone_v10": 7576,
+   "standing_v10": 1911,
+   "lost": 25,
+   "raised": 30,
+   "lost_share": 0.0131,
+   "raised_share": 0.004
+  },
+  "1790": {
+   "undone_v10": 11083,
+   "standing_v10": 2102,
+   "lost": 32,
+   "raised": 17,
+   "lost_share": 0.0152,
+   "raised_share": 0.0015
+  },
+  "1800": {
+   "undone_v10": 13930,
+   "standing_v10": 3434,
+   "raised": 49,
+   "lost": 36,
+   "lost_share": 0.0105,
+   "raised_share": 0.0035
+  },
+  "1810": {
+   "undone_v10": 17667,
+   "standing_v10": 4299,
+   "lost": 69,
+   "raised": 66,
+   "lost_share": 0.0161,
+   "raised_share": 0.0037
+  },
+  "1820": {
+   "undone_v10": 32230,
+   "standing_v10": 6672,
+   "lost": 173,
+   "raised": 96,
+   "lost_share": 0.0259,
+   "raised_share": 0.003
+  },
+  "1830": {
+   "undone_v10": 41720,
+   "raised": 178,
+   "standing_v10": 10314,
+   "lost": 191,
+   "lost_share": 0.0185,
+   "raised_share": 0.0043
+  },
+  "1840": {
+   "undone_v10": 41492,
+   "standing_v10": 11629,
+   "lost": 272,
+   "raised": 182,
+   "lost_share": 0.0234,
+   "raised_share": 0.0044
+  },
+  "1850": {
+   "undone_v10": 34213,
+   "raised": 187,
+   "standing_v10": 9483,
+   "lost": 224,
+   "lost_share": 0.0236,
+   "raised_share": 0.0055
+  },
+  "1860": {
+   "undone_v10": 30548,
+   "standing_v10": 10244,
+   "lost": 240,
+   "raised": 262,
+   "lost_share": 0.0234,
+   "raised_share": 0.0086
+  },
+  "1870": {
+   "undone_v10": 24441,
+   "raised": 163,
+   "standing_v10": 9438,
+   "lost": 241,
+   "lost_share": 0.0255,
+   "raised_share": 0.0067
+  },
+  "1880": {
+   "undone_v10": 23234,
+   "raised": 127,
+   "standing_v10": 10310,
+   "lost": 261,
+   "lost_share": 0.0253,
+   "raised_share": 0.0055
+  },
+  "1890": {
+   "undone_v10": 63278,
+   "raised": 244,
+   "standing_v10": 15223,
+   "lost": 432,
+   "lost_share": 0.0284,
+   "raised_share": 0.0039
+  },
+  "1900": {
+   "undone_v10": 41693,
+   "standing_v10": 16981,
+   "lost": 453,
+   "raised": 358,
+   "lost_share": 0.0267,
+   "raised_share": 0.0086
+  },
+  "1910": {
+   "undone_v10": 39295,
+   "raised": 231,
+   "standing_v10": 18717,
+   "lost": 559,
+   "lost_share": 0.0299,
+   "raised_share": 0.0059
+  },
+  "1920": {
+   "undone_v10": 34959,
+   "standing_v10": 18445,
+   "raised": 240,
+   "lost": 458,
+   "lost_share": 0.0248,
+   "raised_share": 0.0069
+  },
+  "1930": {
+   "undone_v10": 34480,
+   "standing_v10": 19314,
+   "raised": 281,
+   "lost": 566,
+   "lost_share": 0.0293,
+   "raised_share": 0.0081
+  },
+  "1940": {
+   "undone_v10": 18281,
+   "standing_v10": 12240,
+   "raised": 144,
+   "lost": 393,
+   "lost_share": 0.0321,
+   "raised_share": 0.0079
+  },
+  "1950": {
+   "undone_v10": 15813,
+   "standing_v10": 13400,
+   "raised": 149,
+   "lost": 336,
+   "lost_share": 0.0251,
+   "raised_share": 0.0094
+  },
+  "1960": {
+   "undone_v10": 14544,
+   "standing_v10": 14455,
+   "lost": 395,
+   "raised": 156,
+   "lost_share": 0.0273,
+   "raised_share": 0.0107
+  },
+  "1970": {
+   "undone_v10": 16393,
+   "standing_v10": 17895,
+   "lost": 615,
+   "raised": 232,
+   "lost_share": 0.0344,
+   "raised_share": 0.0142
+  },
+  "1980": {
+   "undone_v10": 18309,
+   "standing_v10": 23737,
+   "raised": 178,
+   "lost": 593,
+   "lost_share": 0.025,
+   "raised_share": 0.0097
+  },
+  "1990": {
+   "undone_v10": 12575,
+   "standing_v10": 26092,
+   "raised": 210,
+   "lost": 765,
+   "lost_share": 0.0293,
+   "raised_share": 0.0167
+  },
+  "2000": {
+   "undone_v10": 14831,
+   "standing_v10": 26420,
+   "raised": 218,
+   "lost": 765,
+   "lost_share": 0.029,
+   "raised_share": 0.0147
+  },
+  "2010": {
+   "undone_v10": 11998,
+   "standing_v10": 39673,
+   "raised": 322,
+   "lost": 1343,
+   "lost_share": 0.0339,
+   "raised_share": 0.0268
+  },
+  "2020": {
+   "standing_v10": 6987,
+   "undone_v10": 829,
+   "raised": 49,
+   "lost": 275,
+   "lost_share": 0.0394,
+   "raised_share": 0.0591
+  }
+ }
+}
