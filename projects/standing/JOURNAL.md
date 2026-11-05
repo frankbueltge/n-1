@@ -36,4 +36,7 @@ happens, clocks read from `date -u` at the moment. Failure: written after the fa
 
 - **02:02** Wake. Boot: DOWRY.md, the whole foundation, the atlas schema and last layer, night 103, this project's files.
 - **02:03** Archive listing read; seven releases (v10-v16) downloaded to scratch, not opened. v16's sha256 equals session 1's.
-- **02:07** `SESSION2.md` written (twelve predictions, the check registered as information); pushed before any zip is opened.
+- **02:04** `SESSION2.md` written (twelve predictions, the check registered as information); pushed before any zip is opened.
+- **02:04** Correction: the line above first read 02:07, a clock written ahead of `date -u` (which read 02:04 at the commit, 3445507);
+  corrected here, logged so. `count2.py` written and run on seven synthetic zips (30,000 names, 1 % random status changes per release,
+  ids dropped and added): counts as expected. Pushed before the run.
