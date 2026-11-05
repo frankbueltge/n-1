@@ -31,3 +31,25 @@ happens, clocks read from `date -u` at the moment. Failure: written after the fa
 - **02:10** `explore1b.py` (exploratory): 1796's trough is again one book, *Prodr. Stirp. Chap. Allerton*: 1,594 species names, 13
   standing, 732 declared illegitimate. The curve's two deepest years are each a single publication whose names the field refused.
 - **02:11** `explore1.py` re-run once with its per-year split written out (`years_kinds`) for the page's figure; same numbers otherwise.
+
+## Session 2 — 2026-11-05
+
+- **02:02** Wake. Boot: DOWRY.md, the whole foundation, the atlas schema and last layer, night 103, this project's files.
+- **02:03** Archive listing read; seven releases (v10-v16) downloaded to scratch, not opened. v16's sha256 equals session 1's.
+- **02:04** `SESSION2.md` written (twelve predictions, the check registered as information); pushed before any zip is opened.
+- **02:04** Correction: the line above first read 02:07, a clock written ahead of `date -u` (which read 02:04 at the commit, 3445507);
+  corrected here, logged so. `count2.py` written and run on seven synthetic zips (30,000 names, 1 % random status changes per release,
+  ids dropped and added): counts as expected. Pushed before the run.
+- **02:05-02:07** `count2.py` run once → `session2.json` (1 min 53 s over seven zips). Column headers identical in all seven releases (31
+  columns); the homotypic flag is `T` or empty in every release, so no coding drift. 10 of 11 predictions held; P9 failed (the busiest step
+  is v10→v11, not v12→v13).
+- **02:07** **Detour 1**: the largest flow is merged → moved (13,837 of 39,436 changes), what the adversarial read (b) feared: a flag
+  filled in rather than a verdict. `check2.py` run (the registered check, as information): 12 GBIF look-ups; four informative, all four
+  show the 2026 verdict; eight differ only in what GBIF's scheme cannot show.
+- **02:08** `explore2.py` (exploratory, after the count): of the merged → moved changes, 9,739 keep the same accepted name — re-described,
+  not re-placed. In all at least 13,555 changes (34 %) keep the same accepted name: the record correcting its own grammar. Per decade, the
+  share of 2022's standing names undone by 2026 rises from about 1.5 % (eighteenth century) to 3.9 % (2020s).
+- **02:10-02:13** `build.py` extended (section 8: one figure, two tables, eleven predictions); `render-check.js` probe extended, 66 of 66
+  ok; screenshots at 1440 and 390 looked at. **Detour 2**: a sentence "most of those arrived in the first step" was not backed by any
+  count (the per-step split by accepted link was never computed); replaced by the step count that exists. A sum over the exploratory file's
+  thirty largest classes was written "13,555 (34 %)" and is a floor; rewritten "at least".

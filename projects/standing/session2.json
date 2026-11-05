@@ -1,0 +1,1287 @@
+{
+ "releases": {
+  "v10": {
+   "member": "wcvp_names.csv",
+   "header": [
+    "plant_name_id",
+    "ipni_id",
+    "taxon_rank",
+    "taxon_status",
+    "family",
+    "genus_hybrid",
+    "genus",
+    "species_hybrid",
+    "species",
+    "infraspecific_rank",
+    "infraspecies",
+    "parenthetical_author",
+    "primary_author",
+    "publication_author",
+    "place_of_publication",
+    "volume_and_page",
+    "first_published",
+    "nomenclatural_remarks",
+    "geographic_area",
+    "lifeform_description",
+    "climate_description",
+    "taxon_name",
+    "taxon_authors",
+    "accepted_plant_name_id",
+    "basionym_plant_name_id",
+    "replaced_synonym_author",
+    "homotypic_synonym",
+    "parent_plant_name_id",
+    "powo_id",
+    "hybrid_formula",
+    "reviewed"
+   ],
+   "rows": 1415007,
+   "species_names": 1025951,
+   "synonym_flag_values": {
+    "": 360565,
+    "T": 203382
+   },
+   "kinds": {
+    "unjudged": 40508,
+    "merged": 360565,
+    "void": 64115,
+    "moved": 203382,
+    "standing": 354764,
+    "other:Local Biotype": 1091,
+    "other:Artificial Hybrid": 1526
+   }
+  },
+  "v11": {
+   "member": "wcvp_names.csv",
+   "header": [
+    "plant_name_id",
+    "ipni_id",
+    "taxon_rank",
+    "taxon_status",
+    "family",
+    "genus_hybrid",
+    "genus",
+    "species_hybrid",
+    "species",
+    "infraspecific_rank",
+    "infraspecies",
+    "parenthetical_author",
+    "primary_author",
+    "publication_author",
+    "place_of_publication",
+    "volume_and_page",
+    "first_published",
+    "nomenclatural_remarks",
+    "geographic_area",
+    "lifeform_description",
+    "climate_description",
+    "taxon_name",
+    "taxon_authors",
+    "accepted_plant_name_id",
+    "basionym_plant_name_id",
+    "replaced_synonym_author",
+    "homotypic_synonym",
+    "parent_plant_name_id",
+    "powo_id",
+    "hybrid_formula",
+    "reviewed"
+   ],
+   "rows": 1419265,
+   "species_names": 1028856,
+   "synonym_flag_values": {
+    "": 353319,
+    "T": 211147
+   },
+   "kinds": {
+    "merged": 353319,
+    "moved": 211147,
+    "void": 65242,
+    "standing": 356618,
+    "unjudged": 39872,
+    "other:Artificial Hybrid": 1567,
+    "other:Local Biotype": 1091
+   }
+  },
+  "v12": {
+   "member": "wcvp_names.csv",
+   "header": [
+    "plant_name_id",
+    "ipni_id",
+    "taxon_rank",
+    "taxon_status",
+    "family",
+    "genus_hybrid",
+    "genus",
+    "species_hybrid",
+    "species",
+    "infraspecific_rank",
+    "infraspecies",
+    "parenthetical_author",
+    "primary_author",
+    "publication_author",
+    "place_of_publication",
+    "volume_and_page",
+    "first_published",
+    "nomenclatural_remarks",
+    "geographic_area",
+    "lifeform_description",
+    "climate_description",
+    "taxon_name",
+    "taxon_authors",
+    "accepted_plant_name_id",
+    "basionym_plant_name_id",
+    "replaced_synonym_author",
+    "homotypic_synonym",
+    "parent_plant_name_id",
+    "powo_id",
+    "hybrid_formula",
+    "reviewed"
+   ],
+   "rows": 1422868,
+   "species_names": 1030585,
+   "synonym_flag_values": {
+    "": 350075,
+    "T": 215125
+   },
+   "kinds": {
+    "standing": 357347,
+    "moved": 215125,
+    "void": 66180,
+    "merged": 350075,
+    "unjudged": 39193,
+    "other:Artificial Hybrid": 1574,
+    "other:Local Biotype": 1091
+   }
+  },
+  "v13": {
+   "member": "wcvp_names.csv",
+   "header": [
+    "plant_name_id",
+    "ipni_id",
+    "taxon_rank",
+    "taxon_status",
+    "family",
+    "genus_hybrid",
+    "genus",
+    "species_hybrid",
+    "species",
+    "infraspecific_rank",
+    "infraspecies",
+    "parenthetical_author",
+    "primary_author",
+    "publication_author",
+    "place_of_publication",
+    "volume_and_page",
+    "first_published",
+    "nomenclatural_remarks",
+    "geographic_area",
+    "lifeform_description",
+    "climate_description",
+    "taxon_name",
+    "taxon_authors",
+    "accepted_plant_name_id",
+    "basionym_plant_name_id",
+    "replaced_synonym_author",
+    "homotypic_synonym",
+    "parent_plant_name_id",
+    "powo_id",
+    "hybrid_formula",
+    "reviewed"
+   ],
+   "rows": 1431677,
+   "species_names": 1036226,
+   "synonym_flag_values": {
+    "": 350365,
+    "T": 217738
+   },
+   "kinds": {
+    "moved": 217738,
+    "standing": 360064,
+    "unjudged": 38154,
+    "other:Artificial Hybrid": 1567,
+    "merged": 350365,
+    "void": 67246,
+    "other:Local Biotype": 1092
+   }
+  },
+  "v14": {
+   "member": "wcvp_names.csv",
+   "header": [
+    "plant_name_id",
+    "ipni_id",
+    "taxon_rank",
+    "taxon_status",
+    "family",
+    "genus_hybrid",
+    "genus",
+    "species_hybrid",
+    "species",
+    "infraspecific_rank",
+    "infraspecies",
+    "parenthetical_author",
+    "primary_author",
+    "publication_author",
+    "place_of_publication",
+    "volume_and_page",
+    "first_published",
+    "nomenclatural_remarks",
+    "geographic_area",
+    "lifeform_description",
+    "climate_description",
+    "taxon_name",
+    "taxon_authors",
+    "accepted_plant_name_id",
+    "basionym_plant_name_id",
+    "replaced_synonym_author",
+    "homotypic_synonym",
+    "parent_plant_name_id",
+    "powo_id",
+    "hybrid_formula",
+    "reviewed"
+   ],
+   "rows": 1440076,
+   "species_names": 1042468,
+   "synonym_flag_values": {
+    "": 349515,
+    "T": 221076
+   },
+   "kinds": {
+    "moved": 221076,
+    "standing": 362754,
+    "unjudged": 37682,
+    "other:Artificial Hybrid": 1609,
+    "other:Local Biotype": 1456,
+    "merged": 349515,
+    "void": 68376
+   }
+  },
+  "v15": {
+   "member": "wcvp_names.csv",
+   "header": [
+    "plant_name_id",
+    "ipni_id",
+    "taxon_rank",
+    "taxon_status",
+    "family",
+    "genus_hybrid",
+    "genus",
+    "species_hybrid",
+    "species",
+    "infraspecific_rank",
+    "infraspecies",
+    "parenthetical_author",
+    "primary_author",
+    "publication_author",
+    "place_of_publication",
+    "volume_and_page",
+    "first_published",
+    "nomenclatural_remarks",
+    "geographic_area",
+    "lifeform_description",
+    "climate_description",
+    "taxon_name",
+    "taxon_authors",
+    "accepted_plant_name_id",
+    "basionym_plant_name_id",
+    "replaced_synonym_author",
+    "homotypic_synonym",
+    "parent_plant_name_id",
+    "powo_id",
+    "hybrid_formula",
+    "reviewed"
+   ],
+   "rows": 1441152,
+   "species_names": 1042591,
+   "synonym_flag_values": {
+    "": 349201,
+    "T": 221415
+   },
+   "kinds": {
+    "standing": 362739,
+    "merged": 349201,
+    "unjudged": 37428,
+    "moved": 221415,
+    "void": 68742,
+    "other:Artificial Hybrid": 1610,
+    "other:Local Biotype": 1456
+   }
+  },
+  "v16": {
+   "member": "wcvp_names.csv",
+   "header": [
+    "plant_name_id",
+    "ipni_id",
+    "taxon_rank",
+    "taxon_status",
+    "family",
+    "genus_hybrid",
+    "genus",
+    "species_hybrid",
+    "species",
+    "infraspecific_rank",
+    "infraspecies",
+    "parenthetical_author",
+    "primary_author",
+    "publication_author",
+    "place_of_publication",
+    "volume_and_page",
+    "first_published",
+    "nomenclatural_remarks",
+    "geographic_area",
+    "lifeform_description",
+    "climate_description",
+    "taxon_name",
+    "taxon_authors",
+    "accepted_plant_name_id",
+    "basionym_plant_name_id",
+    "replaced_synonym_author",
+    "homotypic_synonym",
+    "parent_plant_name_id",
+    "powo_id",
+    "hybrid_formula",
+    "reviewed"
+   ],
+   "rows": 1448984,
+   "species_names": 1048616,
+   "synonym_flag_values": {
+    "": 349328,
+    "T": 224315
+   },
+   "kinds": {
+    "standing": 365813,
+    "merged": 349328,
+    "moved": 224315,
+    "void": 69322,
+    "unjudged": 36723,
+    "other:Artificial Hybrid": 1663,
+    "other:Local Biotype": 1452
+   }
+  }
+ },
+ "v10_species": 1025951,
+ "v16_species": 1048616,
+ "present_in_both": 1023761,
+ "share_v10_present_in_v16": 0.99787,
+ "v10_species_now_other_rank": 122,
+ "v10_species_vanished": 2068,
+ "changed": 39436,
+ "share_changed": 0.03852,
+ "flow_kinds": [
+  [
+   "merged",
+   "moved",
+   13837
+  ],
+  [
+   "standing",
+   "moved",
+   5859
+  ],
+  [
+   "merged",
+   "void",
+   3856
+  ],
+  [
+   "standing",
+   "merged",
+   3727
+  ],
+  [
+   "merged",
+   "standing",
+   2343
+  ],
+  [
+   "moved",
+   "merged",
+   2038
+  ],
+  [
+   "moved",
+   "standing",
+   2013
+  ],
+  [
+   "unjudged",
+   "merged",
+   1865
+  ],
+  [
+   "unjudged",
+   "moved",
+   1228
+  ],
+  [
+   "unjudged",
+   "void",
+   557
+  ],
+  [
+   "unjudged",
+   "standing",
+   520
+  ],
+  [
+   "moved",
+   "void",
+   492
+  ],
+  [
+   "standing",
+   "unjudged",
+   215
+  ],
+  [
+   "standing",
+   "void",
+   203
+  ],
+  [
+   "void",
+   "merged",
+   189
+  ],
+  [
+   "unjudged",
+   "other:Artificial Hybrid",
+   87
+  ],
+  [
+   "void",
+   "moved",
+   70
+  ],
+  [
+   "void",
+   "standing",
+   62
+  ],
+  [
+   "other:Artificial Hybrid",
+   "unjudged",
+   55
+  ],
+  [
+   "merged",
+   "unjudged",
+   50
+  ],
+  [
+   "other:Artificial Hybrid",
+   "merged",
+   44
+  ],
+  [
+   "unjudged",
+   "other:Local Biotype",
+   33
+  ],
+  [
+   "other:Artificial Hybrid",
+   "moved",
+   20
+  ],
+  [
+   "void",
+   "unjudged",
+   15
+  ],
+  [
+   "moved",
+   "unjudged",
+   15
+  ],
+  [
+   "merged",
+   "other:Artificial Hybrid",
+   12
+  ],
+  [
+   "other:Artificial Hybrid",
+   "standing",
+   9
+  ],
+  [
+   "standing",
+   "other:Artificial Hybrid",
+   7
+  ],
+  [
+   "moved",
+   "other:Artificial Hybrid",
+   5
+  ],
+  [
+   "other:Artificial Hybrid",
+   "void",
+   3
+  ],
+  [
+   "standing",
+   "other:Local Biotype",
+   3
+  ],
+  [
+   "other:Local Biotype",
+   "standing",
+   2
+  ],
+  [
+   "other:Local Biotype",
+   "merged",
+   1
+  ],
+  [
+   "merged",
+   "other:Local Biotype",
+   1
+  ]
+ ],
+ "flow_forms": [
+  [
+   "gone",
+   "passed on",
+   13907
+  ],
+  [
+   "whole",
+   "passed on",
+   5859
+  ],
+  [
+   "gone",
+   "gone",
+   4045
+  ],
+  [
+   "whole",
+   "gone",
+   3930
+  ],
+  [
+   "passed on",
+   "gone",
+   2530
+  ],
+  [
+   "unjudged",
+   "gone",
+   2422
+  ],
+  [
+   "gone",
+   "whole",
+   2405
+  ],
+  [
+   "passed on",
+   "whole",
+   2013
+  ],
+  [
+   "unjudged",
+   "passed on",
+   1228
+  ],
+  [
+   "unjudged",
+   "whole",
+   520
+  ],
+  [
+   "whole",
+   "unjudged",
+   215
+  ],
+  [
+   "unjudged",
+   "other:Artificial Hybrid",
+   87
+  ],
+  [
+   "gone",
+   "unjudged",
+   65
+  ],
+  [
+   "other:Artificial Hybrid",
+   "unjudged",
+   55
+  ],
+  [
+   "other:Artificial Hybrid",
+   "gone",
+   47
+  ],
+  [
+   "unjudged",
+   "other:Local Biotype",
+   33
+  ],
+  [
+   "other:Artificial Hybrid",
+   "passed on",
+   20
+  ],
+  [
+   "passed on",
+   "unjudged",
+   15
+  ],
+  [
+   "gone",
+   "other:Artificial Hybrid",
+   12
+  ],
+  [
+   "other:Artificial Hybrid",
+   "whole",
+   9
+  ],
+  [
+   "whole",
+   "other:Artificial Hybrid",
+   7
+  ],
+  [
+   "passed on",
+   "other:Artificial Hybrid",
+   5
+  ],
+  [
+   "whole",
+   "other:Local Biotype",
+   3
+  ],
+  [
+   "other:Local Biotype",
+   "whole",
+   2
+  ],
+  [
+   "other:Local Biotype",
+   "gone",
+   1
+  ],
+  [
+   "gone",
+   "other:Local Biotype",
+   1
+  ]
+ ],
+ "standing_out": 9789,
+ "standing_in": 4418,
+ "moved_merged_only": 15875,
+ "lost_share_2000_2022": [
+  0.03264,
+  2383,
+  73004
+ ],
+ "lost_share_1800_1899": [
+  0.02349,
+  2139,
+  91046
+ ],
+ "standing_to_synonym": {
+  "merged": 3727,
+  "moved": 5859
+ },
+ "unjudged_v10_in_both": 39754,
+ "unjudged_judged_v16": 4290,
+ "share_standing_v10": [
+  0.34579,
+  1025580
+ ],
+ "share_standing_v16": [
+  0.34863,
+  1047905
+ ],
+ "top_publication": [
+  "Revis. Gen. Pl.",
+  1801
+ ],
+ "publications_top10": [
+  [
+   "Revis. Gen. Pl.",
+   1801
+  ],
+  [
+   "Prodr.",
+   862
+  ],
+  [
+   "Phytologia",
+   555
+  ],
+  [
+   "Bot. Jahrb. Syst.",
+   516
+  ],
+  [
+   "Linnaea",
+   493
+  ],
+  [
+   "Phytotaxa",
+   377
+  ],
+  [
+   "Repert. Spec. Nov. Regni Veg.",
+   330
+  ],
+  [
+   "Kew Bull.",
+   324
+  ],
+  [
+   "Fl. Bras.",
+   320
+  ],
+  [
+   "J. Bot.",
+   292
+  ]
+ ],
+ "steps": {
+  "v10-v11": {
+   "changed": 11226,
+   "present_in_both": 1025434,
+   "flows_top": [
+    [
+     "merged",
+     "moved",
+     7062
+    ],
+    [
+     "merged",
+     "void",
+     960
+    ],
+    [
+     "standing",
+     "moved",
+     871
+    ],
+    [
+     "standing",
+     "merged",
+     546
+    ],
+    [
+     "merged",
+     "standing",
+     310
+    ],
+    [
+     "moved",
+     "merged",
+     297
+    ],
+    [
+     "unjudged",
+     "merged",
+     274
+    ],
+    [
+     "moved",
+     "standing",
+     223
+    ]
+   ]
+  },
+  "v11-v12": {
+   "changed": 7974,
+   "present_in_both": 1028340,
+   "flows_top": [
+    [
+     "merged",
+     "moved",
+     3724
+    ],
+    [
+     "standing",
+     "moved",
+     806
+    ],
+    [
+     "standing",
+     "merged",
+     776
+    ],
+    [
+     "merged",
+     "void",
+     747
+    ],
+    [
+     "moved",
+     "merged",
+     429
+    ],
+    [
+     "merged",
+     "standing",
+     314
+    ],
+    [
+     "moved",
+     "standing",
+     288
+    ],
+    [
+     "unjudged",
+     "merged",
+     251
+    ]
+   ]
+  },
+  "v12-v13": {
+   "changed": 6300,
+   "present_in_both": 1030209,
+   "flows_top": [
+    [
+     "standing",
+     "moved",
+     1342
+    ],
+    [
+     "merged",
+     "moved",
+     929
+    ],
+    [
+     "unjudged",
+     "merged",
+     839
+    ],
+    [
+     "merged",
+     "void",
+     683
+    ],
+    [
+     "standing",
+     "merged",
+     649
+    ],
+    [
+     "moved",
+     "merged",
+     357
+    ],
+    [
+     "moved",
+     "standing",
+     334
+    ],
+    [
+     "merged",
+     "standing",
+     318
+    ]
+   ]
+  },
+  "v13-v14": {
+   "changed": 8455,
+   "present_in_both": 1035827,
+   "flows_top": [
+    [
+     "standing",
+     "moved",
+     1868
+    ],
+    [
+     "merged",
+     "moved",
+     1187
+    ],
+    [
+     "moved",
+     "standing",
+     1041
+    ],
+    [
+     "standing",
+     "merged",
+     910
+    ],
+    [
+     "merged",
+     "void",
+     892
+    ],
+    [
+     "merged",
+     "standing",
+     737
+    ],
+    [
+     "moved",
+     "merged",
+     593
+    ],
+    [
+     "unjudged",
+     "moved",
+     280
+    ]
+   ]
+  },
+  "v14-v15": {
+   "changed": 3523,
+   "present_in_both": 1042300,
+   "flows_top": [
+    [
+     "standing",
+     "merged",
+     586
+    ],
+    [
+     "merged",
+     "moved",
+     581
+    ],
+    [
+     "merged",
+     "standing",
+     435
+    ],
+    [
+     "standing",
+     "moved",
+     391
+    ],
+    [
+     "moved",
+     "standing",
+     376
+    ],
+    [
+     "merged",
+     "void",
+     341
+    ],
+    [
+     "moved",
+     "merged",
+     318
+    ],
+    [
+     "unjudged",
+     "merged",
+     140
+    ]
+   ]
+  },
+  "v15-v16": {
+   "changed": 4436,
+   "present_in_both": 1042346,
+   "flows_top": [
+    [
+     "standing",
+     "moved",
+     1219
+    ],
+    [
+     "merged",
+     "moved",
+     651
+    ],
+    [
+     "unjudged",
+     "moved",
+     480
+    ],
+    [
+     "standing",
+     "merged",
+     410
+    ],
+    [
+     "moved",
+     "merged",
+     292
+    ],
+    [
+     "merged",
+     "standing",
+     274
+    ],
+    [
+     "merged",
+     "void",
+     258
+    ],
+    [
+     "moved",
+     "standing",
+     239
+    ]
+   ]
+  }
+ },
+ "top_step": "v10-v11",
+ "added_v16_year_le_2022": 10663,
+ "added_v16_all": 24855,
+ "present_all_seven": 1023760,
+ "changed_twice_or_more": 1049,
+ "reversals": 674,
+ "decades": {
+  "1750": {
+   "n": 6638,
+   "changed": 198,
+   "standing_out": 49,
+   "standing_in": 22
+  },
+  "1760": {
+   "n": 5296,
+   "changed": 188,
+   "standing_out": 15,
+   "standing_in": 11
+  },
+  "1770": {
+   "n": 4811,
+   "changed": 182,
+   "standing_in": 15,
+   "standing_out": 13
+  },
+  "1780": {
+   "n": 9801,
+   "changed": 346,
+   "standing_out": 25,
+   "standing_in": 30
+  },
+  "1790": {
+   "n": 13773,
+   "changed": 471,
+   "standing_out": 32,
+   "standing_in": 17
+  },
+  "1800": {
+   "n": 18082,
+   "changed": 642,
+   "standing_in": 49,
+   "standing_out": 36
+  },
+  "1810": {
+   "n": 23021,
+   "changed": 694,
+   "standing_out": 69,
+   "standing_in": 66
+  },
+  "1820": {
+   "n": 41645,
+   "changed": 1451,
+   "standing_out": 173,
+   "standing_in": 96
+  },
+  "1830": {
+   "n": 54614,
+   "changed": 2051,
+   "standing_in": 178,
+   "standing_out": 191
+  },
+  "1840": {
+   "n": 55457,
+   "changed": 1894,
+   "standing_out": 272,
+   "standing_in": 182
+  },
+  "1850": {
+   "n": 45464,
+   "changed": 1768,
+   "standing_in": 187,
+   "standing_out": 224
+  },
+  "1860": {
+   "n": 42632,
+   "changed": 1885,
+   "standing_out": 240,
+   "standing_in": 262
+  },
+  "1870": {
+   "n": 36191,
+   "changed": 1540,
+   "standing_in": 163,
+   "standing_out": 241
+  },
+  "1880": {
+   "n": 36488,
+   "changed": 1294,
+   "standing_in": 127,
+   "standing_out": 261
+  },
+  "1890": {
+   "n": 82377,
+   "changed": 3715,
+   "standing_in": 244,
+   "standing_out": 432
+  },
+  "1900": {
+   "n": 63475,
+   "changed": 2382,
+   "standing_out": 453,
+   "standing_in": 358
+  },
+  "1910": {
+   "n": 61435,
+   "changed": 1984,
+   "standing_in": 231,
+   "standing_out": 559
+  },
+  "1920": {
+   "n": 56317,
+   "changed": 1732,
+   "standing_in": 240,
+   "standing_out": 458
+  },
+  "1930": {
+   "n": 56190,
+   "changed": 2271,
+   "standing_in": 281,
+   "standing_out": 566
+  },
+  "1940": {
+   "n": 31534,
+   "changed": 1309,
+   "standing_in": 144,
+   "standing_out": 393
+  },
+  "1950": {
+   "n": 30032,
+   "changed": 1208,
+   "standing_in": 149,
+   "standing_out": 336
+  },
+  "1960": {
+   "n": 29386,
+   "changed": 1311,
+   "standing_out": 395,
+   "standing_in": 156
+  },
+  "1970": {
+   "n": 34717,
+   "changed": 1866,
+   "standing_out": 615,
+   "standing_in": 232
+  },
+  "1980": {
+   "n": 42676,
+   "changed": 1369,
+   "standing_in": 178,
+   "standing_out": 593
+  },
+  "1990": {
+   "n": 39240,
+   "changed": 1495,
+   "standing_in": 210,
+   "standing_out": 765
+  },
+  "2000": {
+   "n": 41754,
+   "changed": 1411,
+   "standing_in": 218,
+   "standing_out": 765
+  },
+  "2010": {
+   "n": 52342,
+   "changed": 2253,
+   "standing_in": 322,
+   "standing_out": 1343
+  },
+  "2020": {
+   "n": 8029,
+   "changed": 517,
+   "standing_in": 49,
+   "standing_out": 275
+  }
+ },
+ "check_sample": [
+  {
+   "plant_name_id": "2611638",
+   "v10": "merged",
+   "v16": "standing",
+   "year": 1927
+  },
+  {
+   "plant_name_id": "2678936",
+   "v10": "merged",
+   "v16": "moved",
+   "year": 1818
+  },
+  {
+   "plant_name_id": "2516994",
+   "v10": "merged",
+   "v16": "moved",
+   "year": 1888
+  },
+  {
+   "plant_name_id": "3153161",
+   "v10": "standing",
+   "v16": "moved",
+   "year": 1907
+  },
+  {
+   "plant_name_id": "2730225",
+   "v10": "unjudged",
+   "v16": "merged",
+   "year": 1940
+  },
+  {
+   "plant_name_id": "3160464",
+   "v10": "moved",
+   "v16": "merged",
+   "year": 1972
+  },
+  {
+   "plant_name_id": "3046913",
+   "v10": "merged",
+   "v16": "moved",
+   "year": 1962
+  },
+  {
+   "plant_name_id": "2731634",
+   "v10": "unjudged",
+   "v16": "merged",
+   "year": 1904
+  },
+  {
+   "plant_name_id": "3177571",
+   "v10": "merged",
+   "v16": "moved",
+   "year": 1956
+  },
+  {
+   "plant_name_id": "3057151",
+   "v10": "merged",
+   "v16": "void",
+   "year": 1799
+  },
+  {
+   "plant_name_id": "2779878",
+   "v10": "merged",
+   "v16": "void",
+   "year": 1886
+  },
+  {
+   "plant_name_id": "2731092",
+   "v10": "merged",
+   "v16": "moved",
+   "year": 1893
+  }
+ ],
+ "predictions": {
+  "P1": true,
+  "P2": true,
+  "P3": true,
+  "P4": true,
+  "P5": true,
+  "P6": true,
+  "P7": true,
+  "P8": true,
+  "P9": false,
+  "P10": true,
+  "P11": true
+ }
+}

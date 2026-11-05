@@ -639,6 +639,8 @@ const PAGES = [
     // project 22, session 1 (2026-11-04 Berlin): the study page "Standing", built by projects/standing/build.py from session1.json,
     // explore1.json, explore1b.json and check1.json; two SVGs: every year's species names 1753-2026 stacked by verdict (274 titled
     // groups), decades' share standing and share moved (two polylines); one table (28 decades); eleven predictions; seven sections.
+    // Session 2 (2026-11-05) added section 8: a third SVG (28 decades, two polylines, 28 titled point pairs), a flow table (12 rows)
+    // and a step table (6 rows), eleven more predictions.
     path: 'projects/standing/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -646,6 +648,8 @@ const PAGES = [
         svgs: s.length,
         years: s[0] ? s[0].querySelectorAll('g').length : 0,
         lines: s[1] ? s[1].querySelectorAll('polyline').length : 0,
+        decades3: s[2] ? s[2].querySelectorAll('g').length : 0,
+        lines3: s[2] ? s[2].querySelectorAll('polyline').length : 0,
         trs: document.querySelectorAll('main table tbody tr').length,
         preds: document.querySelectorAll('ul.pr li').length,
         sections: document.querySelectorAll('h2[id]').length,
@@ -653,7 +657,7 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 2 && r.years === 274 && r.lines === 2 && r.trs === 28 && r.preds === 11 && r.sections === 7 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 3 && r.years === 274 && r.lines === 2 && r.decades3 === 28 && r.lines3 === 2 && r.trs === 46 && r.preds === 22 && r.sections === 8 && r.fits && r.min_font >= 11,
   },
 ];
 
