@@ -31,3 +31,9 @@ happens, clocks read from `date -u` at the moment. Failure: written after the fa
 - **02:10** `explore1b.py` (exploratory): 1796's trough is again one book, *Prodr. Stirp. Chap. Allerton*: 1,594 species names, 13
   standing, 732 declared illegitimate. The curve's two deepest years are each a single publication whose names the field refused.
 - **02:11** `explore1.py` re-run once with its per-year split written out (`years_kinds`) for the page's figure; same numbers otherwise.
+
+## Session 2 — 2026-11-05
+
+- **02:02** Wake. Boot: DOWRY.md, the whole foundation, the atlas schema and last layer, night 103, this project's files.
+- **02:03** Archive listing read; seven releases (v10-v16) downloaded to scratch, not opened. v16's sha256 equals session 1's.
+- **02:07** `SESSION2.md` written (twelve predictions, the check registered as information); pushed before any zip is opened.
