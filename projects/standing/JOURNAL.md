@@ -60,3 +60,9 @@ happens, clocks read from `date -u` at the moment. Failure: written after the fa
   REQUESTS.md's recent entries, `reception.md`.
 - **02:03** Seven releases fetched again to scratch, not opened; at 02:04 all seven sha256 values equal `SESSION2.md`'s.
 - **02:05** `SESSION3.md` written (eleven predictions, the work's form and the rule for declaring it); pushed before any zip is opened.
+- **02:06** Correction: the line above first read 02:05; `date -u` read 02:04 at the commit (37f2fc7). The same slip as session 2's
+  (a clock written ahead of the reading), now twice in two nights: from here each clock is read before its line is written, logged so.
+- **02:07** `count3.py` written; synthetic run on seven zips of 20,000 names (2 % random status changes, 1 % accepted links re-pointed):
+  runs, classes as expected. **Noted:** by the registered definition (an event needs a change of kind) a synonym re-pointed to another
+  accepted name without changing kind is not an event, so "sent" counts only re-placements that also changed kind; the page will say so.
+  Pushed before the run.
