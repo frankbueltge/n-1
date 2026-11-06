@@ -169,6 +169,26 @@ PRED2 = [
 ]
 plist2 = ''.join(f'<li><b>{k}</b> {html.escape(t)} — {"held" if P2[k] else "failed"}: {r}</li>' for k, t, r in PRED2)
 c2 = C2['rows']
+S3 = json.load(open('session3.json'))
+C3 = json.load(open('check3.json'))
+T3 = S3['totals']
+P3 = dict(S3['predictions'])
+P3['P10'] = True   # render-check.js, 2026-11-06: 68 of 68 ok at 1440 and 390, the work's probe among them
+P3['P11'] = C3['agree'] == C3['of'] == 16
+PRED3 = [
+    ('P1', 'the six steps' + "'" + ' change events equal session 2' + "'" + 's counts (a check: seen before)', ' · '.join(n(x) for x in S3['step_events'])),
+    ('P2', 're-described is the largest class and at least 30 % of all events (weak: leans on session 2)', f"{n(T3['re-described'])} of {n(S3['all_events'])}, {100 * T3['re-described'] / S3['all_events']:.1f} %"),
+    ('P3', 'condemned outnumbers acquitted in each of the six steps', 'in all six'),
+    ('P4', 're-described is at least half of step v10 → v11 (weak)', f"{n(S3['steps']['v10-v11']['classes']['re-described'])} of {n(S3['steps']['v10-v11']['events'])}"),
+    ('P5', 'drawn events between 20,000 and 32,000', n(S3['drawn'])),
+    ('P6', 'sent at least 5,000', n(T3['sent'])),
+    ('P7', 'the year with most drawn events is 1891 (weak: one book)', f"{S3['top_year_drawn'][0]}, {n(S3['top_year_drawn'][1])}"),
+    ('P8', 'a name of 1753 has a drawn event in at least four of six steps', f"in {S3['steps_with_1753_drawn']}"),
+    ('P9', 'drawn events per thousand names higher for 2000-2026 than for 1753-1799', f"{S3['rate_2000_2026'][0]:.1f} against {S3['rate_1753_1799'][0]:.1f}"),
+    ('P10', 'the work' + "'" + 's page passes render-check.js at 1440 and 390 px', '68 of 68 ok'),
+    ('P11', 'an independent parse of 16 sampled events agrees 16 of 16', f"{C3['agree']} of {C3['of']}"),
+]
+plist3 = ''.join(f'<li><b>{k}</b> {html.escape(t)} — {"held" if P3[k] else "failed"}: {r}</li>' for k, t, r in PRED3)
 y53 = E['year_1753']; bk = E['revis_gen_pl_1891']; b96 = B['top'][0]
 nb = E['decades_without_that_book']['1890']
 q = S['wait_quartiles']
@@ -287,6 +307,20 @@ The merged → moved flow was heaviest in the first step: {n(S2["steps"]["v10-v1
 the 2026 verdict there; the other eight differ only in the moved/merged flag or in a void class GBIF's scheme does not carry.</p>
 <p class="conn">Connects to 2 (the untested right end, now tested a little) and 4 (moved or merged: part of that split is the record's
 own late spelling).</p>
+
+<h2 id="s9">9. The court still sits</h2>
+<p>Session 3 split every change of the six steps into what it does. A <b>verdict</b> touches a plant's standing or where a name points:
+{n(T3["condemned"])} names stopped standing, {n(T3["acquitted"])} began to, {n(T3["sent"])} synonyms were sent to another plant,
+{n(T3["judged"])} names were judged for the first time and {n(T3["withdrawn"])} had a judgment withdrawn. A <b>re-description</b> keeps the
+same accepted name and changes only the record's wording: {n(T3["re-described"])} ({100 * T3["re-described"] / S3["all_events"]:.0f} %), three in
+four of them in the first two steps. In every step a verdict fell on a name of 1753; recent names are judged about twice as often per
+name as the eighteenth century's. The work draws each verdict as a dot at the year its name was published, and the re-descriptions
+apart: <a href="../../works/the-court-still-sits/"><b>The Court Still Sits</b></a>.</p>
+<p class="sm">Eleven predictions were registered before any row was read (<a href="SESSION3.md">SESSION3.md</a>); the count ran once
+(<a href="count3.py">count3.py</a>, <a href="session3.json">session3.json</a>); the check re-read sixteen events with a second parser
+sharing no code (<a href="check3.py">check3.py</a>, <a href="check3.json">check3.json</a>).</p>
+<ul class="pr">{plist3}</ul>
+<p class="conn">Connects to 8 (the re-descriptions found there, now counted per step) and to the work.</p>
 
 <p class="sm mut">Data: Royal Botanic Gardens, Kew. World Checklist of Vascular Plants, versions 10-16 (8 December 2022 to 4 June 2026),
 <code>https://sftp.kew.org/pub/data-repositories/WCVP/</code>; Govaerts, R., Nic Lughadha, E., Black, N., Turner, R., Paton, A. (2021),

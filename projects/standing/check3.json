@@ -1,0 +1,310 @@
+{
+ "agree": 16,
+ "of": 16,
+ "rows": [
+  {
+   "step": "v14-v15",
+   "plant_name_id": "2570311",
+   "count3": "acquitted",
+   "check3": "acquitted",
+   "agree": true,
+   "raw_v14": [
+    "Species",
+    "Synonym",
+    "",
+    "2570401"
+   ],
+   "raw_v15": [
+    "Species",
+    "Accepted",
+    "",
+    "2570311"
+   ]
+  },
+  {
+   "step": "v10-v11",
+   "plant_name_id": "2725445",
+   "count3": "sent",
+   "check3": "sent",
+   "agree": true,
+   "raw_v10": [
+    "Species",
+    "Synonym",
+    "T",
+    "2725371"
+   ],
+   "raw_v11": [
+    "Species",
+    "Synonym",
+    "",
+    "2725370"
+   ]
+  },
+  {
+   "step": "v10-v11",
+   "plant_name_id": "3115444",
+   "count3": "sent",
+   "check3": "sent",
+   "agree": true,
+   "raw_v10": [
+    "Species",
+    "Synonym",
+    "",
+    "3115445"
+   ],
+   "raw_v11": [
+    "Species",
+    "Synonym",
+    "T",
+    "3115442"
+   ]
+  },
+  {
+   "step": "v10-v11",
+   "plant_name_id": "72461",
+   "count3": "condemned",
+   "check3": "condemned",
+   "agree": true,
+   "raw_v10": [
+    "Species",
+    "Accepted",
+    "",
+    "72461"
+   ],
+   "raw_v11": [
+    "Species",
+    "Synonym",
+    "",
+    "72633"
+   ]
+  },
+  {
+   "step": "v11-v12",
+   "plant_name_id": "335134",
+   "count3": "acquitted",
+   "check3": "acquitted",
+   "agree": true,
+   "raw_v11": [
+    "Species",
+    "Illegitimate",
+    "T",
+    "117740"
+   ],
+   "raw_v12": [
+    "Species",
+    "Accepted",
+    "",
+    "335134"
+   ]
+  },
+  {
+   "step": "v10-v11",
+   "plant_name_id": "186965",
+   "count3": "sent",
+   "check3": "sent",
+   "agree": true,
+   "raw_v10": [
+    "Species",
+    "Synonym",
+    "T",
+    "221084"
+   ],
+   "raw_v11": [
+    "Species",
+    "Synonym",
+    "",
+    "17822"
+   ]
+  },
+  {
+   "step": "v13-v14",
+   "plant_name_id": "546802",
+   "count3": "acquitted",
+   "check3": "acquitted",
+   "agree": true,
+   "raw_v13": [
+    "Species",
+    "Synonym",
+    "",
+    "151000"
+   ],
+   "raw_v14": [
+    "Species",
+    "Accepted",
+    "",
+    "546802"
+   ]
+  },
+  {
+   "step": "v12-v13",
+   "plant_name_id": "2923825",
+   "count3": "condemned",
+   "check3": "condemned",
+   "agree": true,
+   "raw_v12": [
+    "Species",
+    "Accepted",
+    "",
+    "2923825"
+   ],
+   "raw_v13": [
+    "Species",
+    "Synonym",
+    "T",
+    "2923288"
+   ]
+  },
+  {
+   "step": "v12-v13",
+   "plant_name_id": "507952",
+   "count3": "sent",
+   "check3": "sent",
+   "agree": true,
+   "raw_v12": [
+    "Species",
+    "Synonym",
+    "",
+    "548917"
+   ],
+   "raw_v13": [
+    "Species",
+    "Synonym",
+    "T",
+    "3307748"
+   ]
+  },
+  {
+   "step": "v12-v13",
+   "plant_name_id": "2377041",
+   "count3": "condemned",
+   "check3": "condemned",
+   "agree": true,
+   "raw_v12": [
+    "Species",
+    "Accepted",
+    "",
+    "2377041"
+   ],
+   "raw_v13": [
+    "Species",
+    "Synonym",
+    "T",
+    "3308502"
+   ]
+  },
+  {
+   "step": "v14-v15",
+   "plant_name_id": "3027260",
+   "count3": "sent",
+   "check3": "sent",
+   "agree": true,
+   "raw_v14": [
+    "Species",
+    "Synonym",
+    "T",
+    "3020965"
+   ],
+   "raw_v15": [
+    "Species",
+    "Synonym",
+    "",
+    "3020114"
+   ]
+  },
+  {
+   "step": "v10-v11",
+   "plant_name_id": "221081",
+   "count3": "condemned",
+   "check3": "condemned",
+   "agree": true,
+   "raw_v10": [
+    "Species",
+    "Accepted",
+    "",
+    "221081"
+   ],
+   "raw_v11": [
+    "Species",
+    "Synonym",
+    "",
+    "17772"
+   ]
+  },
+  {
+   "step": "v12-v13",
+   "plant_name_id": "223125",
+   "count3": "re-described",
+   "check3": "re-described",
+   "agree": true,
+   "raw_v12": [
+    "Species",
+    "Synonym",
+    "",
+    "250046"
+   ],
+   "raw_v13": [
+    "Species",
+    "Invalid",
+    "",
+    "250046"
+   ]
+  },
+  {
+   "step": "v10-v11",
+   "plant_name_id": "2652130",
+   "count3": "re-described",
+   "check3": "re-described",
+   "agree": true,
+   "raw_v10": [
+    "Species",
+    "Synonym",
+    "",
+    "2706460"
+   ],
+   "raw_v11": [
+    "Species",
+    "Synonym",
+    "T",
+    "2706460"
+   ]
+  },
+  {
+   "step": "v10-v11",
+   "plant_name_id": "3027320",
+   "count3": "re-described",
+   "check3": "re-described",
+   "agree": true,
+   "raw_v10": [
+    "Species",
+    "Synonym",
+    "",
+    "3020998"
+   ],
+   "raw_v11": [
+    "Species",
+    "Synonym",
+    "T",
+    "3020998"
+   ]
+  },
+  {
+   "step": "v10-v11",
+   "plant_name_id": "3111381",
+   "count3": "re-described",
+   "check3": "re-described",
+   "agree": true,
+   "raw_v10": [
+    "Species",
+    "Synonym",
+    "",
+    "3111383"
+   ],
+   "raw_v11": [
+    "Species",
+    "Synonym",
+    "T",
+    "3111383"
+   ]
+  }
+ ]
+}

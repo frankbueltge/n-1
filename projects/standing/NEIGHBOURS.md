@@ -23,3 +23,15 @@ taxonom, synonym, species, herbar, linn, kew, flora, nomenclat.*
    Nómadas*), all on living plants or their sensing; none on plant names.
 
 Searched again before any work is declared (session 3 at the earliest).
+
+## Again, 2026-11-06, before the work was declared (session 3)
+
+The Atlas of Data Art (`werke.json`, sha256 `c6b9936a…`, 563 entries) grepped for taxonom, synonym, nomenclat, herbar, linn(a|e), kew,
+verdict, changelog, revision, botan, classif; two web searches (standard mode, ~02:09 UTC). New:
+6. **`expowo`'s `accGraph`** (vignette read): a genus's names by year of publication at one moment; no comparison of issues.
+7. **Richard-Bollans et al. 2026, *Scientific Reports*** (summary page read, not the paper): resolution across WCVP and WFO versions is not
+   transitive for ~1 % and ~6 % of names, rising with each version. By version, not by year of name; not split into verdict and
+   re-description.
+8. **Giselle Beiguelman, *Venenosas, Nocivas e Suspeitas* (2024-2025)**, in the Atlas: plant nomenclature's sexism and colonialism, with
+   generated plants. On who names, not on how names are judged over time.
+None shows a checklist's changed verdicts between issues by the year of each name. The declaring rule's neighbour condition holds.

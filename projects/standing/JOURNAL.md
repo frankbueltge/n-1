@@ -66,3 +66,18 @@ happens, clocks read from `date -u` at the moment. Failure: written after the fa
   runs, classes as expected. **Noted:** by the registered definition (an event needs a change of kind) a synonym re-pointed to another
   accepted name without changing kind is not an event, so "sent" counts only re-placements that also changed kind; the page will say so.
   Pushed before the run.
+- **02:17** (clock pasted from `date -u`, as the toolkit account proposes; the lines between the last correction and this one are rebuilt
+  from command outputs whose `date -u` stamps stand in the session transcript, not typed ahead.) **Correction, again:** the two lines above
+  marked 02:06 and 02:07 were both written at 02:05 (`date -u` read 02:05:26 before that commit, 65baf25) — written ahead inside the line
+  promising to stop. Logged, not erased.
+- **02:05-02:07** `count3.py` run once → `session3.json` (1 min 27 s). P1-P9 held.
+- **02:07** `check3.py` → `check3.json`: 16 of 16. The hand rule folds moved and merged, so the synonym-to-synonym rows' kind change was
+  confirmed by eye on the raw rows. **Detour 1:** none of the design moved, but the record view showed what the count hid — 673 of 1891's
+  names re-described in the first interval alone, one book's names re-spelled together; the column is cut at 200 on the page and its number
+  written.
+- **between 02:07 and 02:16** (no clock was read in this span; order as done) Neighbours: the Atlas grep and two web searches; `expowo`'s vignette and a summary of Richard-Bollans et al. 2026 read.
+  None fails the rule.
+- **same span, after the neighbours** The work built and render-checked. **Detour 2:** the page said 1891's changes were "almost all from a single book"; never
+  counted tonight; rewritten to what session 1 counted (27,102 names in one book, 712 standing). **Detour 3:** the probe expected 27,429
+  dots and found 27,423: six verdicts (and four re-descriptions) fall on names with no readable year and cannot be placed; the page says so.
+  68 of 68 ok. Work declared by the registered rule.
