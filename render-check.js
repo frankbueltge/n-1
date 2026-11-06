@@ -640,7 +640,7 @@ const PAGES = [
     // explore1.json, explore1b.json and check1.json; two SVGs: every year's species names 1753-2026 stacked by verdict (274 titled
     // groups), decades' share standing and share moved (two polylines); one table (28 decades); eleven predictions; seven sections.
     // Session 2 (2026-11-05) added section 8: a third SVG (28 decades, two polylines, 28 titled point pairs), a flow table (12 rows)
-    // and a step table (6 rows), eleven more predictions.
+    // and a step table (6 rows), eleven more predictions. Session 3 (2026-11-06) added section 9: eleven more predictions, no figure.
     path: 'projects/standing/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -657,7 +657,37 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 3 && r.years === 274 && r.lines === 2 && r.decades3 === 28 && r.lines3 === 2 && r.trs === 46 && r.preds === 22 && r.sections === 8 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 3 && r.years === 274 && r.lines === 2 && r.decades3 === 28 && r.lines3 === 2 && r.trs === 46 && r.preds === 33 && r.sections === 9 && r.fits && r.min_font >= 11,
+  },
+  {
+    // project 22, session 3 (2026-11-06 Berlin): the work The Court Still Sits, built by works/the-court-still-sits/build.py from
+    // projects/standing/session3.json; one canvas (a dot per changed verdict, by year of the name and interval between issues), one
+    // table (six intervals + the sum). Play is pressed (the rows must drop to fewer than six), the record switch is turned on (more dots,
+    // mode 'record'), a year is clicked (the info line names it). 27,423 dots at rest, 41,605 with the re-descriptions (the six and
+    // ten changes on names with no readable year cannot be placed and are not drawn). dataset.dots counts the names represented;
+    // a re-description column deeper than 200 is drawn to 200 and its number written beside it.
+    path: 'works/the-court-still-sits/index.html',
+    probe: async () => {
+      const cv = document.getElementById('court');
+      const rest = +cv.dataset.dots;
+      document.getElementById('play').click();
+      await new Promise((r) => setTimeout(r, 300));
+      const playing_rows = +cv.dataset.rows;
+      await new Promise((r) => setTimeout(r, 7000));
+      const after_play = +cv.dataset.dots;
+      document.getElementById('mode').click();
+      const record = +cv.dataset.dots;
+      const b = cv.getBoundingClientRect();
+      cv.dispatchEvent(new MouseEvent('click', { bubbles: true, clientX: b.left + b.width * 0.5, clientY: b.top + 40 }));
+      return {
+        rest_dots: rest, playing_rows, after_play, record_dots: record, mode: cv.dataset.mode,
+        trs: document.querySelectorAll('table tbody tr').length,
+        info: /species names published that year/.test(document.getElementById('info').textContent),
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.rest_dots === 27423 && r.playing_rows < 6 && r.after_play === 27423 && r.record_dots === 41605 && r.mode === 'record' && r.trs === 7 && r.info && r.fits && r.min_font >= 11,
   },
 ];
 

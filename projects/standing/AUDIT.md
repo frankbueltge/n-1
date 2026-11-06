@@ -65,3 +65,24 @@ as the record's own grammar, not mixed. That is a change of design, not of wordi
 
 **Pass-word, again.** The basionym was entry 1's component of passage. Tonight's is the release: the same name passing through seven
 statements, each a little different. A name is not standing; it is standing *as of* a release.
+
+## Entry 3 — 2026-11-06, session 3, the work
+
+**The translation, tested on the picture.** Entry 2 split a change of verdict into two acts — a re-placement (on a plant's standing) and a
+re-description (on the record) — and asked any work to keep them apart. The work is that translation carried into a form: a dot per change,
+at the year of the name. The danger the registration named (`SESSION3.md`, instruments): that a dot flattens both back into one "change".
+The design answers it in three places, each a decision, not a wording: re-descriptions are not drawn until asked for; when asked, they go
+below the line, in grey, never stacked with the verdicts; and the counts that make the page's opening claim ("27,429 verdicts") exclude
+them. The count shows the split was worth making: re-descriptions are 34 % of all changes and 75 % of them fall in the first two intervals,
+so a picture that mixed them would have shown the court busiest at the start, when it was mostly the record re-spelling itself.
+
+**What did not pass.** The class "sent" is itself mixed (adversarial read (a)): a synonym whose accepted name was sunk is "sent" though no
+one ruled on it, and a synonym re-pointed without a change of kind is not counted at all. The order-word "Synonym" hides two speakers —
+an editor ruling on this name, and a cascade from a ruling on another. The work says so in words; it cannot draw it.
+
+**The order-word, last.** Entry 1 read the verdict as a judge's sentence (ATP 80-81, via KsK §4.2). The title keeps the figure and the
+page undoes it in its last lines (a database, kept by editors, stating a consensus view). That is the minor usage tried once: the court's
+vocabulary put in variation against a record that is not a court.
+
+**Failure watch.** T3 fails if the translation changes only the wording. It changed the work's design (what is drawn by default, where the
+re-descriptions go, what the headline counts). **Not triggered.**

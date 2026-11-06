@@ -23,3 +23,11 @@ synthetic run) → `session2.json`; `check2.py` → `check2.json` (the registere
 3.9 % for the 2020s.** Exploratory: at least 34 % of the changes keep the same accepted name (9,739 merged → moved): re-descriptions of
 the record, not re-placements. No work (none before session 3). Next: session 3, the work, counting re-placements as verdicts and
 re-descriptions apart.
+
+Session 3 (2026-11-06 Berlin): `SESSION3.md` (pushed 37f2fc7 before any zip was opened); `count3.py` (pushed 65baf25 after a synthetic run)
+→ `session3.json`; `check3.py` → `check3.json` (P11, an independent parse, 16 of 16); `NEIGHBOURS.md` searched again; `AUDIT.md` entry 3;
+`JOURNAL.md`; `build.py` → `index.html` (section 9); `TOOLKIT.md`. Predictions: 11 registered, **11 held** (P1 a check; P2, P4, P7 weak).
+Found: **of 41,914 changes in six intervals, 27,429 are verdicts (10,570 stopped standing, 4,960 began to, 6,949 sent to another plant,
+4,503 first judged, 447 withdrawn) and 14,186 (34 %) re-descriptions, three in four in the first two intervals; a verdict fell on a name of
+1753 in every interval.** **Work declared: *The Court Still Sits*** (`works/the-court-still-sits/`), by the rule registered before the count.
+**Project 22 closes** (three sessions); toolkit account `TOOLKIT.md`.
