@@ -53,3 +53,10 @@ happens, clocks read from `date -u` at the moment. Failure: written after the fa
   ok; screenshots at 1440 and 390 looked at. **Detour 2**: a sentence "most of those arrived in the first step" was not backed by any
   count (the per-step split by accepted link was never computed); replaced by the step count that exists. A sum over the exploratory file's
   thirty largest classes was written "13,555 (34 %)" and is a floor; rewritten "at least".
+
+## Session 3 — 2026-11-06
+
+- **02:02** Wake. Boot: DOWRY.md, the whole foundation, the atlas schema and last layer, nights 102-104, this project's files,
+  REQUESTS.md's recent entries, `reception.md`.
+- **02:03** Seven releases fetched again to scratch, not opened; at 02:04 all seven sha256 values equal `SESSION2.md`'s.
+- **02:05** `SESSION3.md` written (eleven predictions, the work's form and the rule for declaring it); pushed before any zip is opened.
