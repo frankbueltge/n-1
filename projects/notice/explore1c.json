@@ -1,0 +1,3154 @@
+{
+"counts": {
+"news/new_offset": 114,
+"past/retimed": 116,
+"past/new_offset": 112,
+"news/retimed": 51
+},
+"rows": [
+{
+"zone": "Africa/Cairo",
+"t": 1158872400,
+"first": "2006m",
+"lead_days": -10.125,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Africa/Tripoli",
+"t": 860108400,
+"first": "1998h",
+"lead_days": -538.042,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Africa/Tripoli",
+"t": 1352505600,
+"first": "2012j",
+"lead_days": -2.0,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Africa/Casablanca",
+"t": 1220223600,
+"first": "2008f",
+"lead_days": -8.042,
+"prev_offset_at_t": 3600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1212278400,
+"first": "2013h",
+"lead_days": -1972.0,
+"prev_offset_at_t": 0,
+"kind": "past/new_offset"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1220223600,
+"first": "2013h",
+"lead_days": -1880.042,
+"prev_offset_at_t": 0,
+"kind": "past/retimed"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1243814400,
+"first": "2013h",
+"lead_days": -1607.0,
+"prev_offset_at_t": 0,
+"kind": "past/new_offset"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1250809200,
+"first": "2013h",
+"lead_days": -1526.042,
+"prev_offset_at_t": 0,
+"kind": "past/retimed"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1272758400,
+"first": "2013h",
+"lead_days": -1272.0,
+"prev_offset_at_t": 0,
+"kind": "past/new_offset"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1281222000,
+"first": "2013h",
+"lead_days": -1174.042,
+"prev_offset_at_t": 0,
+"kind": "past/retimed"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1301788800,
+"first": "2013h",
+"lead_days": -936.0,
+"prev_offset_at_t": 0,
+"kind": "past/new_offset"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1312066800,
+"first": "2013h",
+"lead_days": -817.042,
+"prev_offset_at_t": 0,
+"kind": "past/retimed"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1335664800,
+"first": "2013h",
+"lead_days": -543.917,
+"prev_offset_at_t": 0,
+"kind": "past/new_offset"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1342749600,
+"first": "2013h",
+"lead_days": -461.917,
+"prev_offset_at_t": 0,
+"kind": "past/retimed"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1345428000,
+"first": "2013h",
+"lead_days": -430.917,
+"prev_offset_at_t": 0,
+"kind": "past/new_offset"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1348970400,
+"first": "2013h",
+"lead_days": -389.917,
+"prev_offset_at_t": 0,
+"kind": "past/retimed"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1367114400,
+"first": "2013h",
+"lead_days": -179.917,
+"prev_offset_at_t": 0,
+"kind": "news/new_offset"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1373162400,
+"first": "2013h",
+"lead_days": -109.917,
+"prev_offset_at_t": 0,
+"kind": "news/retimed"
+},
+{
+"zone": "Africa/El_Aaiun",
+"t": 1376100000,
+"first": "2013h",
+"lead_days": -75.917,
+"prev_offset_at_t": 0,
+"kind": "news/new_offset"
+},
+{
+"zone": "Africa/Windhoek",
+"t": 860284800,
+"first": "1997i",
+"lead_days": -184.0,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Africa/Windhoek",
+"t": 873594000,
+"first": "1997i",
+"lead_days": -29.958,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Africa/Khartoum",
+"t": 947930400,
+"first": "2000c",
+"lead_days": -48.583,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Africa/Tunis",
+"t": 1114902000,
+"first": "2005l",
+"lead_days": -113.042,
+"prev_offset_at_t": 3600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Africa/Tunis",
+"t": 1143334800,
+"first": "2006c",
+"lead_days": -7.958,
+"prev_offset_at_t": 3600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1255802400,
+"first": "2009r",
+"lead_days": -22.25,
+"prev_offset_at_t": 28800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1267714800,
+"first": "2010f",
+"lead_days": -17.375,
+"prev_offset_at_t": 39600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1319738400,
+"first": "2012a",
+"lead_days": -125.25,
+"prev_offset_at_t": 28800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1329843600,
+"first": "2012a",
+"lead_days": -8.292,
+"prev_offset_at_t": 28800,
+"kind": "news/retimed"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1477065600,
+"first": "2016i",
+"lead_days": -10.333,
+"prev_offset_at_t": 28800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1520701200,
+"first": "2018d",
+"lead_days": -11.292,
+"prev_offset_at_t": 39600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1538856000,
+"first": "2020b",
+"lead_days": -730.167,
+"prev_offset_at_t": 28800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1552752000,
+"first": "2020b",
+"lead_days": -569.333,
+"prev_offset_at_t": 28800,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1570129200,
+"first": "2020b",
+"lead_days": -368.208,
+"prev_offset_at_t": 28800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1583596800,
+"first": "2020b",
+"lead_days": -212.333,
+"prev_offset_at_t": 28800,
+"kind": "news/retimed"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1601740860,
+"first": "2020b",
+"lead_days": -2.333,
+"prev_offset_at_t": 28800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1615640400,
+"first": "2023d",
+"lead_days": -1012.458,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1633190460,
+"first": "2023d",
+"lead_days": -809.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1647090000,
+"first": "2023d",
+"lead_days": -648.458,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1664640060,
+"first": "2023d",
+"lead_days": -445.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Casey",
+"t": 1678291200,
+"first": "2023d",
+"lead_days": -287.333,
+"prev_offset_at_t": 39600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Davis",
+"t": 1255806000,
+"first": "2009r",
+"lead_days": -22.208,
+"prev_offset_at_t": 25200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Davis",
+"t": 1268251200,
+"first": "2010f",
+"lead_days": -11.167,
+"prev_offset_at_t": 18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Davis",
+"t": 1319742000,
+"first": "2012a",
+"lead_days": -125.208,
+"prev_offset_at_t": 25200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Davis",
+"t": 1329854400,
+"first": "2012a",
+"lead_days": -8.167,
+"prev_offset_at_t": 25200,
+"kind": "news/retimed"
+},
+{
+"zone": "Antarctica/Mawson",
+"t": 1255809600,
+"first": "2009r",
+"lead_days": -22.167,
+"prev_offset_at_t": 21600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Yerevan",
+"t": 859672800,
+"first": "1998h",
+"lead_days": -543.083,
+"prev_offset_at_t": 14400,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Yerevan",
+"t": 877816800,
+"first": "1998h",
+"lead_days": -333.083,
+"prev_offset_at_t": 14400,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Yerevan",
+"t": 891122400,
+"first": "1998h",
+"lead_days": -179.083,
+"prev_offset_at_t": 14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Baku",
+"t": 859680000,
+"first": "2005o",
+"lead_days": -3165.0,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 877824000,
+"first": "2005o",
+"lead_days": -2955.0,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 891129600,
+"first": "2005o",
+"lead_days": -2801.0,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 909273600,
+"first": "2005o",
+"lead_days": -2591.0,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 922579200,
+"first": "2005o",
+"lead_days": -2437.0,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 941328000,
+"first": "2005o",
+"lead_days": -2220.0,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 954028800,
+"first": "2005o",
+"lead_days": -2073.0,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 972777600,
+"first": "2005o",
+"lead_days": -1856.0,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 985478400,
+"first": "2005o",
+"lead_days": -1709.0,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 1004227200,
+"first": "2005o",
+"lead_days": -1492.0,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 1017532800,
+"first": "2005o",
+"lead_days": -1338.0,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 1035676800,
+"first": "2005o",
+"lead_days": -1128.0,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 1048982400,
+"first": "2005o",
+"lead_days": -974.0,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 1067126400,
+"first": "2005o",
+"lead_days": -764.0,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 1080432000,
+"first": "2005o",
+"lead_days": -610.0,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 1099180800,
+"first": "2005o",
+"lead_days": -393.0,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 1111881600,
+"first": "2005o",
+"lead_days": -246.0,
+"prev_offset_at_t": 18000,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Baku",
+"t": 1130630400,
+"first": "2005o",
+"lead_days": -29.0,
+"prev_offset_at_t": 14400,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Nicosia",
+"t": 909277200,
+"first": "1999b",
+"lead_days": -98.958,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Tbilisi",
+"t": 877806000,
+"first": "1999b",
+"lead_days": -463.208,
+"prev_offset_at_t": 18000,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Tbilisi",
+"t": 891115200,
+"first": "1999b",
+"lead_days": -309.167,
+"prev_offset_at_t": 18000,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Tbilisi",
+"t": 909255600,
+"first": "1999b",
+"lead_days": -99.208,
+"prev_offset_at_t": 18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Tbilisi",
+"t": 1088276400,
+"first": "2004b",
+"lead_days": -22.208,
+"prev_offset_at_t": 18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Dili",
+"t": 969120000,
+"first": "2000h",
+"lead_days": -88.333,
+"prev_offset_at_t": 28800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Tehran",
+"t": 858976200,
+"first": "2003a",
+"lead_days": -2193.146,
+"prev_offset_at_t": 16200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Tehran",
+"t": 874870200,
+"first": "2003a",
+"lead_days": -2009.188,
+"prev_offset_at_t": 16200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Tehran",
+"t": 890512200,
+"first": "2003a",
+"lead_days": -1828.146,
+"prev_offset_at_t": 16200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Tehran",
+"t": 906406200,
+"first": "2003a",
+"lead_days": -1644.188,
+"prev_offset_at_t": 16200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Tehran",
+"t": 922048200,
+"first": "2003a",
+"lead_days": -1463.146,
+"prev_offset_at_t": 16200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Tehran",
+"t": 937942200,
+"first": "2003a",
+"lead_days": -1279.188,
+"prev_offset_at_t": 16200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Tehran",
+"t": 953584200,
+"first": "2003a",
+"lead_days": -1098.146,
+"prev_offset_at_t": 16200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Tehran",
+"t": 969478200,
+"first": "2003a",
+"lead_days": -914.188,
+"prev_offset_at_t": 16200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Tehran",
+"t": 985206600,
+"first": "2003a",
+"lead_days": -732.146,
+"prev_offset_at_t": 16200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Tehran",
+"t": 1001100600,
+"first": "2003a",
+"lead_days": -548.188,
+"prev_offset_at_t": 16200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Tehran",
+"t": 1016742600,
+"first": "2003a",
+"lead_days": -367.146,
+"prev_offset_at_t": 16200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Tehran",
+"t": 1032636600,
+"first": "2003a",
+"lead_days": -183.188,
+"prev_offset_at_t": 16200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Tehran",
+"t": 1048278600,
+"first": "2003a",
+"lead_days": -2.146,
+"prev_offset_at_t": 16200,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 930780000,
+"first": "1999f",
+"lead_days": -84.083,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Amman",
+"t": 938124000,
+"first": "2009e",
+"lead_days": -3482.083,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Amman",
+"t": 970178400,
+"first": "2009e",
+"lead_days": -3111.083,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1001628000,
+"first": "2009e",
+"lead_days": -2747.083,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1017352800,
+"first": "2009e",
+"lead_days": -2565.083,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1033077600,
+"first": "2009e",
+"lead_days": -2383.083,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1048802400,
+"first": "2009e",
+"lead_days": -2201.083,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1066946400,
+"first": "2005o",
+"lead_days": -766.083,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1080252000,
+"first": "2009e",
+"lead_days": -1837.083,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1097791200,
+"first": "2005o",
+"lead_days": -409.083,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1128031200,
+"first": "2005o",
+"lead_days": -59.083,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1143756000,
+"first": "2009e",
+"lead_days": -1102.083,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1175205600,
+"first": "2009e",
+"lead_days": -738.083,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1206655200,
+"first": "2009e",
+"lead_days": -374.083,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Amman",
+"t": 1238104800,
+"first": "2009e",
+"lead_days": -10.083,
+"prev_offset_at_t": 10800,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 859665600,
+"first": "2002b",
+"lead_days": -1765.167,
+"prev_offset_at_t": 25200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 877809600,
+"first": "2002b",
+"lead_days": -1555.167,
+"prev_offset_at_t": 21600,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 891115200,
+"first": "2002b",
+"lead_days": -1401.167,
+"prev_offset_at_t": 25200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 909259200,
+"first": "2002b",
+"lead_days": -1191.167,
+"prev_offset_at_t": 21600,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 922564800,
+"first": "2002b",
+"lead_days": -1037.167,
+"prev_offset_at_t": 25200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 941313600,
+"first": "2002b",
+"lead_days": -820.167,
+"prev_offset_at_t": 21600,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 954014400,
+"first": "2002b",
+"lead_days": -673.167,
+"prev_offset_at_t": 25200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 972763200,
+"first": "2002b",
+"lead_days": -456.167,
+"prev_offset_at_t": 21600,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 985464000,
+"first": "2002b",
+"lead_days": -309.167,
+"prev_offset_at_t": 25200,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Almaty",
+"t": 1004212800,
+"first": "2002b",
+"lead_days": -92.167,
+"prev_offset_at_t": 21600,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 859669200,
+"first": "2016d",
+"lead_days": -6958.125,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 877813200,
+"first": "2016d",
+"lead_days": -6748.125,
+"prev_offset_at_t": 21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 891118800,
+"first": "2016d",
+"lead_days": -6594.125,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 909262800,
+"first": "2016d",
+"lead_days": -6384.125,
+"prev_offset_at_t": 21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 922568400,
+"first": "2016d",
+"lead_days": -6230.125,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 941317200,
+"first": "2016d",
+"lead_days": -6013.125,
+"prev_offset_at_t": 21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 954018000,
+"first": "2016d",
+"lead_days": -5866.125,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 972766800,
+"first": "2016d",
+"lead_days": -5649.125,
+"prev_offset_at_t": 21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 985467600,
+"first": "2016d",
+"lead_days": -5502.125,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 1004216400,
+"first": "2016d",
+"lead_days": -5285.125,
+"prev_offset_at_t": 21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 1017522000,
+"first": "2016d",
+"lead_days": -5131.125,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 1035666000,
+"first": "2016d",
+"lead_days": -4921.125,
+"prev_offset_at_t": 21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 1048971600,
+"first": "2016d",
+"lead_days": -4767.125,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 1067115600,
+"first": "2016d",
+"lead_days": -4557.125,
+"prev_offset_at_t": 21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 1080421200,
+"first": "2016d",
+"lead_days": -4403.125,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Qyzylorda",
+"t": 1545328800,
+"first": "2018h",
+"lead_days": -2.25,
+"prev_offset_at_t": 21600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 859669200,
+"first": "2002b",
+"lead_days": -1765.125,
+"prev_offset_at_t": 21600,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 877813200,
+"first": "2002b",
+"lead_days": -1555.125,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 891118800,
+"first": "2002b",
+"lead_days": -1401.125,
+"prev_offset_at_t": 21600,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 909262800,
+"first": "2002b",
+"lead_days": -1191.125,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 922568400,
+"first": "2002b",
+"lead_days": -1037.125,
+"prev_offset_at_t": 21600,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 941317200,
+"first": "2002b",
+"lead_days": -820.125,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 954018000,
+"first": "2002b",
+"lead_days": -673.125,
+"prev_offset_at_t": 21600,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 972766800,
+"first": "2002b",
+"lead_days": -456.125,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 985467600,
+"first": "2002b",
+"lead_days": -309.125,
+"prev_offset_at_t": 21600,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Aqtobe",
+"t": 1004216400,
+"first": "2002b",
+"lead_days": -92.125,
+"prev_offset_at_t": 18000,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 859672800,
+"first": "2002b",
+"lead_days": -1765.083,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 877816800,
+"first": "2002b",
+"lead_days": -1555.083,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 891122400,
+"first": "2002b",
+"lead_days": -1401.083,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 909266400,
+"first": "2002b",
+"lead_days": -1191.083,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 922572000,
+"first": "2002b",
+"lead_days": -1037.083,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 941320800,
+"first": "2002b",
+"lead_days": -820.083,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 954021600,
+"first": "2002b",
+"lead_days": -673.083,
+"prev_offset_at_t": 18000,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 972770400,
+"first": "2002b",
+"lead_days": -456.083,
+"prev_offset_at_t": 14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 985471200,
+"first": "2002b",
+"lead_days": -309.083,
+"prev_offset_at_t": 18000,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Aqtau",
+"t": 1004220000,
+"first": "2002b",
+"lead_days": -92.083,
+"prev_offset_at_t": 14400,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Bishkek",
+"t": 859671000,
+"first": "1998h",
+"lead_days": -543.104,
+"prev_offset_at_t": 18000,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Bishkek",
+"t": 877811400,
+"first": "1998h",
+"lead_days": -333.146,
+"prev_offset_at_t": 18000,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Bishkek",
+"t": 891120600,
+"first": "1998h",
+"lead_days": -179.104,
+"prev_offset_at_t": 18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Pyongyang",
+"t": 1525446000,
+"first": "2018f",
+"lead_days": -166.375,
+"prev_offset_at_t": 30600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Hovd",
+"t": 988398000,
+"first": "2004a",
+"lead_days": -1125.208,
+"prev_offset_at_t": 28800,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Hovd",
+"t": 1001700000,
+"first": "2004a",
+"lead_days": -971.25,
+"prev_offset_at_t": 25200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Hovd",
+"t": 1017428400,
+"first": "2004a",
+"lead_days": -789.208,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Hovd",
+"t": 1033149600,
+"first": "2004a",
+"lead_days": -607.25,
+"prev_offset_at_t": 25200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Hovd",
+"t": 1048878000,
+"first": "2004a",
+"lead_days": -425.208,
+"prev_offset_at_t": 25200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Hovd",
+"t": 1064599200,
+"first": "2004a",
+"lead_days": -243.25,
+"prev_offset_at_t": 25200,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Hovd",
+"t": 1080327600,
+"first": "2004a",
+"lead_days": -61.208,
+"prev_offset_at_t": 25200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Ulaanbaatar",
+"t": 988394400,
+"first": "2004a",
+"lead_days": -1125.25,
+"prev_offset_at_t": 32400,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Ulaanbaatar",
+"t": 1001696400,
+"first": "2004a",
+"lead_days": -971.292,
+"prev_offset_at_t": 28800,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Ulaanbaatar",
+"t": 1017424800,
+"first": "2004a",
+"lead_days": -789.25,
+"prev_offset_at_t": 28800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Ulaanbaatar",
+"t": 1033146000,
+"first": "2004a",
+"lead_days": -607.292,
+"prev_offset_at_t": 28800,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Ulaanbaatar",
+"t": 1048874400,
+"first": "2004a",
+"lead_days": -425.25,
+"prev_offset_at_t": 28800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Ulaanbaatar",
+"t": 1064595600,
+"first": "2004a",
+"lead_days": -243.292,
+"prev_offset_at_t": 28800,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Ulaanbaatar",
+"t": 1080324000,
+"first": "2004a",
+"lead_days": -61.25,
+"prev_offset_at_t": 28800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Karachi",
+"t": 1033840800,
+"first": "2016a",
+"lead_days": -4860.25,
+"prev_offset_at_t": 21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 860104800,
+"first": "1998c",
+"lead_days": -330.083,
+"prev_offset_at_t": 10800,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Gaza",
+"t": 874620000,
+"first": "1998c",
+"lead_days": -162.083,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Gaza",
+"t": 924213600,
+"first": "1999f",
+"lead_days": -160.083,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1096581600,
+"first": "2005o",
+"lead_days": -423.083,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1128380400,
+"first": "2006a",
+"lead_days": -118.042,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1143842400,
+"first": "2006k",
+"lead_days": -149.083,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1158872400,
+"first": "2006m",
+"lead_days": -10.125,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1189638000,
+"first": "2007h",
+"lead_days": -18.042,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1206655200,
+"first": "2013c",
+"lead_days": -1848.083,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1219957200,
+"first": "2011k",
+"lead_days": -1117.125,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1238104800,
+"first": "2009e",
+"lead_days": -10.083,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1252015200,
+"first": "2013c",
+"lead_days": -1323.083,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1281474000,
+"first": "2010l",
+"lead_days": -5.125,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1301608860,
+"first": "2013c",
+"lead_days": -749.083,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1312146000,
+"first": "2011k",
+"lead_days": -50.125,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1414098000,
+"first": "2015b",
+"lead_days": -146.125,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1445551200,
+"first": "2020d",
+"lead_days": -1825.083,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Gaza",
+"t": 1572037200,
+"first": "2020d",
+"lead_days": -361.125,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1206655200,
+"first": "2013c",
+"lead_days": -1848.083,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1252015200,
+"first": "2013c",
+"lead_days": -1323.083,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1269554400,
+"first": "2013c",
+"lead_days": -1120.083,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1301608860,
+"first": "2013c",
+"lead_days": -749.083,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1317330000,
+"first": "2013c",
+"lead_days": -567.125,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1348178400,
+"first": "2012g",
+"lead_days": -26.083,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1364508000,
+"first": "2013c",
+"lead_days": -21.083,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1414098000,
+"first": "2015b",
+"lead_days": -146.125,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1445551200,
+"first": "2020d",
+"lead_days": -1825.083,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Asia/Hebron",
+"t": 1572037200,
+"first": "2020d",
+"lead_days": -361.125,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Colombo",
+"t": 1145039400,
+"first": "2006d",
+"lead_days": -2.229,
+"prev_offset_at_t": 19800,
+"kind": "news/retimed"
+},
+{
+"zone": "Asia/Damascus",
+"t": 859759200,
+"first": "1999i",
+"lead_days": -952.083,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Damascus",
+"t": 891208800,
+"first": "1999i",
+"lead_days": -588.083,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Damascus",
+"t": 1158872400,
+"first": "2006m",
+"lead_days": -10.125,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Damascus",
+"t": 1175205600,
+"first": "2007e",
+"lead_days": -3.083,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Damascus",
+"t": 1256850000,
+"first": "2009q",
+"lead_days": -3.125,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Australia/Lord_Howe",
+"t": 859647600,
+"first": "2001a",
+"lead_days": -1444.375,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Australia/Lord_Howe",
+"t": 891097200,
+"first": "2001a",
+"lead_days": -1080.375,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Australia/Lord_Howe",
+"t": 922546800,
+"first": "2001a",
+"lead_days": -716.375,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Australia/Lord_Howe",
+"t": 953996400,
+"first": "2001a",
+"lead_days": -352.375,
+"prev_offset_at_t": 39600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1301760000,
+"first": "2020b",
+"lead_days": -3474.333,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1317484800,
+"first": "2020b",
+"lead_days": -3292.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1333209600,
+"first": "2020b",
+"lead_days": -3110.333,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1349539200,
+"first": "2020b",
+"lead_days": -2921.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1365264000,
+"first": "2020b",
+"lead_days": -2739.333,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1380988800,
+"first": "2020b",
+"lead_days": -2557.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1396713600,
+"first": "2020b",
+"lead_days": -2375.333,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1412438400,
+"first": "2020b",
+"lead_days": -2193.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1428163200,
+"first": "2020b",
+"lead_days": -2011.333,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1443888000,
+"first": "2020b",
+"lead_days": -1829.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1459612800,
+"first": "2020b",
+"lead_days": -1647.333,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1475337600,
+"first": "2020b",
+"lead_days": -1465.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1491062400,
+"first": "2020b",
+"lead_days": -1283.333,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1506787200,
+"first": "2020b",
+"lead_days": -1101.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1522512000,
+"first": "2020b",
+"lead_days": -919.333,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1538841600,
+"first": "2020b",
+"lead_days": -730.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1554566400,
+"first": "2020b",
+"lead_days": -548.333,
+"prev_offset_at_t": 39600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1570291200,
+"first": "2020b",
+"lead_days": -366.333,
+"prev_offset_at_t": 39600,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1586016000,
+"first": "2020b",
+"lead_days": -184.333,
+"prev_offset_at_t": 39600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Macquarie",
+"t": 1601740800,
+"first": "2020b",
+"lead_days": -2.333,
+"prev_offset_at_t": 39600,
+"kind": "news/retimed"
+},
+{
+"zone": "Pacific/Fiji",
+"t": 909842400,
+"first": "1999b",
+"lead_days": -92.417,
+"prev_offset_at_t": 43200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Pacific/Fiji",
+"t": 1390050000,
+"first": "2014a",
+"lead_days": -47.458,
+"prev_offset_at_t": 46800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Pacific/Kosrae",
+"t": 915105600,
+"first": "1999i",
+"lead_days": -311.5,
+"prev_offset_at_t": 43200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Pacific/Noumea",
+"t": 857228400,
+"first": "1997e",
+"lead_days": -27.375,
+"prev_offset_at_t": 39600,
+"kind": "news/retimed"
+},
+{
+"zone": "Pacific/Pitcairn",
+"t": 893665800,
+"first": "1999j",
+"lead_days": -566.646,
+"prev_offset_at_t": -30600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Pacific/Apia",
+"t": 1348927200,
+"first": "2012g",
+"lead_days": -17.417,
+"prev_offset_at_t": 46800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Pacific/Fakaofo",
+"t": 1325242800,
+"first": "2012e",
+"lead_days": -215.542,
+"prev_offset_at_t": 50400,
+"kind": "news/new_offset"
+},
+{
+"zone": "Pacific/Tongatapu",
+"t": 939214800,
+"first": "2000h",
+"lead_days": -434.458,
+"prev_offset_at_t": 50400,
+"kind": "past/retimed"
+},
+{
+"zone": "Pacific/Tongatapu",
+"t": 953384400,
+"first": "2000h",
+"lead_days": -270.458,
+"prev_offset_at_t": 50400,
+"kind": "news/new_offset"
+},
+{
+"zone": "Pacific/Tongatapu",
+"t": 973342800,
+"first": "2002b",
+"lead_days": -449.458,
+"prev_offset_at_t": 50400,
+"kind": "past/retimed"
+},
+{
+"zone": "Pacific/Tongatapu",
+"t": 980596800,
+"first": "2002b",
+"lead_days": -365.5,
+"prev_offset_at_t": 46800,
+"kind": "past/retimed"
+},
+{
+"zone": "Pacific/Tongatapu",
+"t": 1004792400,
+"first": "2002b",
+"lead_days": -85.458,
+"prev_offset_at_t": 46800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Pacific/Tongatapu",
+"t": 1012046400,
+"first": "2002b",
+"lead_days": -1.5,
+"prev_offset_at_t": 50400,
+"kind": "news/new_offset"
+},
+{
+"zone": "Europe/Sofia",
+"t": 859683600,
+"first": "1999f",
+"lead_days": -906.958,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Sofia",
+"t": 877827600,
+"first": "1999f",
+"lead_days": -696.958,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Sofia",
+"t": 891133200,
+"first": "1999f",
+"lead_days": -542.958,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Sofia",
+"t": 909277200,
+"first": "1999f",
+"lead_days": -332.958,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Europe/Sofia",
+"t": 922582800,
+"first": "1999f",
+"lead_days": -178.958,
+"prev_offset_at_t": 10800,
+"kind": "news/retimed"
+},
+{
+"zone": "Europe/Riga",
+"t": 859683600,
+"first": "1998h",
+"lead_days": -542.958,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Riga",
+"t": 877827600,
+"first": "1998h",
+"lead_days": -332.958,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Europe/Riga",
+"t": 891133200,
+"first": "1998h",
+"lead_days": -178.958,
+"prev_offset_at_t": 10800,
+"kind": "news/retimed"
+},
+{
+"zone": "Europe/Warsaw",
+"t": 859683600,
+"first": "2005l",
+"lead_days": -3066.958,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Warsaw",
+"t": 877827600,
+"first": "2005l",
+"lead_days": -2856.958,
+"prev_offset_at_t": 3600,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Warsaw",
+"t": 891133200,
+"first": "2005l",
+"lead_days": -2702.958,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Warsaw",
+"t": 909277200,
+"first": "2005l",
+"lead_days": -2492.958,
+"prev_offset_at_t": 3600,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Warsaw",
+"t": 922582800,
+"first": "1999e",
+"lead_days": -141.958,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Europe/Bucharest",
+"t": 859683600,
+"first": "1999i",
+"lead_days": -952.958,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Bucharest",
+"t": 877827600,
+"first": "1999i",
+"lead_days": -742.958,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Bucharest",
+"t": 891133200,
+"first": "1999i",
+"lead_days": -588.958,
+"prev_offset_at_t": 10800,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Bucharest",
+"t": 909277200,
+"first": "1999i",
+"lead_days": -378.958,
+"prev_offset_at_t": 7200,
+"kind": "past/retimed"
+},
+{
+"zone": "Europe/Bucharest",
+"t": 922582800,
+"first": "1999i",
+"lead_days": -224.958,
+"prev_offset_at_t": 10800,
+"kind": "news/retimed"
+},
+{
+"zone": "Europe/Bucharest",
+"t": 941331600,
+"first": "1999i",
+"lead_days": -7.958,
+"prev_offset_at_t": 7200,
+"kind": "news/retimed"
+},
+{
+"zone": "Europe/Simferopol",
+"t": 877827600,
+"first": "1998h",
+"lead_days": -332.958,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Europe/Simferopol",
+"t": 891133200,
+"first": "1998h",
+"lead_days": -178.958,
+"prev_offset_at_t": 14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Anadyr",
+"t": 859644000,
+"first": "1999j",
+"lead_days": -960.417,
+"prev_offset_at_t": 50400,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Anadyr",
+"t": 877788000,
+"first": "1999j",
+"lead_days": -750.417,
+"prev_offset_at_t": 46800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Anadyr",
+"t": 891093600,
+"first": "1999j",
+"lead_days": -596.417,
+"prev_offset_at_t": 50400,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Anadyr",
+"t": 909237600,
+"first": "1999j",
+"lead_days": -386.417,
+"prev_offset_at_t": 46800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Asia/Anadyr",
+"t": 922543200,
+"first": "1999j",
+"lead_days": -232.417,
+"prev_offset_at_t": 50400,
+"kind": "news/new_offset"
+},
+{
+"zone": "Asia/Anadyr",
+"t": 941292000,
+"first": "1999j",
+"lead_days": -15.417,
+"prev_offset_at_t": 46800,
+"kind": "news/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 859676400,
+"first": "2007c",
+"lead_days": -3620.042,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 877820400,
+"first": "2007c",
+"lead_days": -3410.042,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 891126000,
+"first": "2007c",
+"lead_days": -3256.042,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 909270000,
+"first": "2007c",
+"lead_days": -3046.042,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 922575600,
+"first": "2007c",
+"lead_days": -2892.042,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 941324400,
+"first": "2007c",
+"lead_days": -2675.042,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 954025200,
+"first": "2007c",
+"lead_days": -2528.042,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 972774000,
+"first": "2007c",
+"lead_days": -2311.042,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 985474800,
+"first": "2007c",
+"lead_days": -2164.042,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1004223600,
+"first": "2007c",
+"lead_days": -1947.042,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1017529200,
+"first": "2007c",
+"lead_days": -1793.042,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1035673200,
+"first": "2007c",
+"lead_days": -1583.042,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1048978800,
+"first": "2007c",
+"lead_days": -1429.042,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1067122800,
+"first": "2007c",
+"lead_days": -1219.042,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1080428400,
+"first": "2007c",
+"lead_days": -1065.042,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1099177200,
+"first": "2007c",
+"lead_days": -848.042,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1111878000,
+"first": "2007c",
+"lead_days": -701.042,
+"prev_offset_at_t": 7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1130626800,
+"first": "2007c",
+"lead_days": -484.042,
+"prev_offset_at_t": 10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1143327600,
+"first": "2007c",
+"lead_days": -337.042,
+"prev_offset_at_t": 7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "Europe/Istanbul",
+"t": 1162076400,
+"first": "2007c",
+"lead_days": -120.042,
+"prev_offset_at_t": 10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Metlakatla",
+"t": 1446372000,
+"first": "2016a",
+"lead_days": -85.583,
+"prev_offset_at_t": -28800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Metlakatla",
+"t": 1547978400,
+"first": "2019a",
+"lead_days": -63.583,
+"prev_offset_at_t": -28800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/St_Johns",
+"t": 860297460,
+"first": "2000g",
+"lead_days": -1282.853,
+"prev_offset_at_t": -12600,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/St_Johns",
+"t": 877833060,
+"first": "2000g",
+"lead_days": -1079.895,
+"prev_offset_at_t": -9000,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/St_Johns",
+"t": 891747060,
+"first": "2000g",
+"lead_days": -918.853,
+"prev_offset_at_t": -12600,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/St_Johns",
+"t": 909282660,
+"first": "2000g",
+"lead_days": -715.895,
+"prev_offset_at_t": -9000,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/St_Johns",
+"t": 923196660,
+"first": "2000g",
+"lead_days": -554.853,
+"prev_offset_at_t": -12600,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/St_Johns",
+"t": 941337060,
+"first": "2000g",
+"lead_days": -344.895,
+"prev_offset_at_t": -9000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/St_Johns",
+"t": 954646260,
+"first": "2000g",
+"lead_days": -190.853,
+"prev_offset_at_t": -12600,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Goose_Bay",
+"t": 860299260,
+"first": "2000g",
+"lead_days": -1282.833,
+"prev_offset_at_t": -14400,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Goose_Bay",
+"t": 877834860,
+"first": "2000g",
+"lead_days": -1079.874,
+"prev_offset_at_t": -10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Goose_Bay",
+"t": 891748860,
+"first": "2000g",
+"lead_days": -918.833,
+"prev_offset_at_t": -14400,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Goose_Bay",
+"t": 909284460,
+"first": "2000g",
+"lead_days": -715.874,
+"prev_offset_at_t": -10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Goose_Bay",
+"t": 923198460,
+"first": "2000g",
+"lead_days": -554.833,
+"prev_offset_at_t": -14400,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Goose_Bay",
+"t": 941338860,
+"first": "2000g",
+"lead_days": -344.874,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Goose_Bay",
+"t": 954648060,
+"first": "2000g",
+"lead_days": -190.833,
+"prev_offset_at_t": -14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Winnipeg",
+"t": 877852800,
+"first": "2000g",
+"lead_days": -1079.667,
+"prev_offset_at_t": -21600,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Winnipeg",
+"t": 909302400,
+"first": "2000g",
+"lead_days": -715.667,
+"prev_offset_at_t": -21600,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Winnipeg",
+"t": 941356800,
+"first": "2000g",
+"lead_days": -344.667,
+"prev_offset_at_t": -21600,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Resolute",
+"t": 1194159600,
+"first": "2011i",
+"lead_days": -1393.708,
+"prev_offset_at_t": -18000,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Resolute",
+"t": 1205049600,
+"first": "2011i",
+"lead_days": -1267.667,
+"prev_offset_at_t": -18000,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Resolute",
+"t": 1225609200,
+"first": "2011i",
+"lead_days": -1029.708,
+"prev_offset_at_t": -18000,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Resolute",
+"t": 1236499200,
+"first": "2011i",
+"lead_days": -903.667,
+"prev_offset_at_t": -18000,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Resolute",
+"t": 1257058800,
+"first": "2011i",
+"lead_days": -665.708,
+"prev_offset_at_t": -18000,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Resolute",
+"t": 1268553600,
+"first": "2011i",
+"lead_days": -532.667,
+"prev_offset_at_t": -18000,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Resolute",
+"t": 1289113200,
+"first": "2011i",
+"lead_days": -294.708,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Resolute",
+"t": 1300003200,
+"first": "2011i",
+"lead_days": -168.667,
+"prev_offset_at_t": -18000,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Cambridge_Bay",
+"t": 973400400,
+"first": "2001a",
+"lead_days": -127.792,
+"prev_offset_at_t": -21600,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Cancun",
+"t": 902037600,
+"first": "1999b",
+"lead_days": -182.75,
+"prev_offset_at_t": -14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Cancun",
+"t": 909298800,
+"first": "1999b",
+"lead_days": -98.708,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Bahia_Banderas",
+"t": 1270371600,
+"first": "2010k",
+"lead_days": -112.625,
+"prev_offset_at_t": -18000,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Havana",
+"t": 891147600,
+"first": "1998h",
+"lead_days": -178.792,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Havana",
+"t": 922597200,
+"first": "1999d",
+"lead_days": -1.792,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Havana",
+"t": 1173589200,
+"first": "2007d",
+"lead_days": -8.792,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Santo_Domingo",
+"t": 972799200,
+"first": "2000h",
+"lead_days": -45.75,
+"prev_offset_at_t": -14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Santo_Domingo",
+"t": 975823200,
+"first": "2000h",
+"lead_days": -10.75,
+"prev_offset_at_t": -14400,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Guatemala",
+"t": 1146376800,
+"first": "2006f",
+"lead_days": -0.75,
+"prev_offset_at_t": -21600,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Port-au-Prince",
+"t": 1112504400,
+"first": "2005i",
+"lead_days": -17.792,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Port-au-Prince",
+"t": 1143954000,
+"first": "2006d",
+"lead_days": -14.792,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Port-au-Prince",
+"t": 1331449200,
+"first": "2012c",
+"lead_days": -15.708,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Tegucigalpa",
+"t": 1146981600,
+"first": "2006g",
+"lead_days": -0.75,
+"prev_offset_at_t": -21600,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Tegucigalpa",
+"t": 1154926800,
+"first": "2006j",
+"lead_days": -13.792,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Managua",
+"t": 852094800,
+"first": "2006f",
+"lead_days": -3406.792,
+"prev_offset_at_t": -18000,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Managua",
+"t": 1113112800,
+"first": "2005i",
+"lead_days": -10.75,
+"prev_offset_at_t": -21600,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Managua",
+"t": 1128229200,
+"first": "2005o",
+"lead_days": -56.792,
+"prev_offset_at_t": -21600,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Managua",
+"t": 1146384000,
+"first": "2006f",
+"lead_days": -0.667,
+"prev_offset_at_t": -21600,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Managua",
+"t": 1159682400,
+"first": "2006n",
+"lead_days": -8.75,
+"prev_offset_at_t": -21600,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Grand_Turk",
+"t": 1173596400,
+"first": "2007f",
+"lead_days": -56.708,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/Buenos_Aires",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/Cordoba",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/Tucuman",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/La_Rioja",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/San_Juan",
+"t": 1085972400,
+"first": "2004e",
+"lead_days": -132.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/San_Juan",
+"t": 1090728000,
+"first": "2004e",
+"lead_days": -77.833,
+"prev_offset_at_t": -14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/San_Juan",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/Jujuy",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/Catamarca",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/Mendoza",
+"t": 1096171200,
+"first": "2004e",
+"lead_days": -14.833,
+"prev_offset_at_t": -14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/Mendoza",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/San_Luis",
+"t": 1205031600,
+"first": "2009p",
+"lead_days": -592.875,
+"prev_offset_at_t": -10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Argentina/San_Luis",
+"t": 1223784000,
+"first": "2009p",
+"lead_days": -375.833,
+"prev_offset_at_t": -10800,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Argentina/San_Luis",
+"t": 1236481200,
+"first": "2009p",
+"lead_days": -228.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/San_Luis",
+"t": 1255233600,
+"first": "2009p",
+"lead_days": -11.833,
+"prev_offset_at_t": -14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/Rio_Gallegos",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Argentina/Ushuaia",
+"t": 1198983600,
+"first": "2007k",
+"lead_days": -0.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Noronha",
+"t": 938916000,
+"first": "2003e",
+"lead_days": -1533.917,
+"prev_offset_at_t": -7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Noronha",
+"t": 951613200,
+"first": "2003e",
+"lead_days": -1386.958,
+"prev_offset_at_t": -7200,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Noronha",
+"t": 970970400,
+"first": "2003e",
+"lead_days": -1162.917,
+"prev_offset_at_t": -7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Noronha",
+"t": 971571600,
+"first": "2003e",
+"lead_days": -1155.958,
+"prev_offset_at_t": -7200,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Noronha",
+"t": 1003024800,
+"first": "2003e",
+"lead_days": -791.917,
+"prev_offset_at_t": -7200,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Noronha",
+"t": 1013907600,
+"first": "2003e",
+"lead_days": -665.958,
+"prev_offset_at_t": -7200,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Fortaleza",
+"t": 938919600,
+"first": "1999i",
+"lead_days": -35.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Fortaleza",
+"t": 970974000,
+"first": "2000g",
+"lead_days": -1.875,
+"prev_offset_at_t": -7200,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Fortaleza",
+"t": 972180000,
+"first": "2000h",
+"lead_days": -52.917,
+"prev_offset_at_t": -7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Araguaina",
+"t": 1350788400,
+"first": "2012h",
+"lead_days": -4.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Maceio",
+"t": 970974000,
+"first": "2000g",
+"lead_days": -1.875,
+"prev_offset_at_t": -7200,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Maceio",
+"t": 972180000,
+"first": "2000h",
+"lead_days": -52.917,
+"prev_offset_at_t": -7200,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Bahia",
+"t": 1318734000,
+"first": "2011m",
+"lead_days": -7.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Sao_Paulo",
+"t": 876106800,
+"first": "1999b",
+"lead_days": -482.875,
+"prev_offset_at_t": -7200,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Cuiaba",
+"t": 876110400,
+"first": "1999i",
+"lead_days": -762.833,
+"prev_offset_at_t": -14400,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Cuiaba",
+"t": 970977600,
+"first": "2000g",
+"lead_days": -1.833,
+"prev_offset_at_t": -10800,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Boa_Vista",
+"t": 970977600,
+"first": "2000g",
+"lead_days": -1.833,
+"prev_offset_at_t": -10800,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Boa_Vista",
+"t": 971578800,
+"first": "2000h",
+"lead_days": -59.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Eirunepe",
+"t": 1214283600,
+"first": "2008d",
+"lead_days": -12.792,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Rio_Branco",
+"t": 1214283600,
+"first": "2008d",
+"lead_days": -12.792,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Santiago",
+"t": 859690800,
+"first": "2006o",
+"lead_days": -3507.875,
+"prev_offset_at_t": -14400,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Santiago",
+"t": 906868800,
+"first": "1998i",
+"lead_days": -3.833,
+"prev_offset_at_t": -14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "Pacific/Easter",
+"t": 859690800,
+"first": "2006o",
+"lead_days": -3507.875,
+"prev_offset_at_t": -21600,
+"kind": "past/retimed"
+},
+{
+"zone": "Pacific/Easter",
+"t": 876628800,
+"first": "2001a",
+"lead_days": -1247.833,
+"prev_offset_at_t": -21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Pacific/Easter",
+"t": 889930800,
+"first": "2001a",
+"lead_days": -1093.875,
+"prev_offset_at_t": -18000,
+"kind": "past/new_offset"
+},
+{
+"zone": "Pacific/Easter",
+"t": 906868800,
+"first": "2001a",
+"lead_days": -897.833,
+"prev_offset_at_t": -21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Pacific/Easter",
+"t": 923194800,
+"first": "2001a",
+"lead_days": -708.875,
+"prev_offset_at_t": -18000,
+"kind": "past/new_offset"
+},
+{
+"zone": "Pacific/Easter",
+"t": 939528000,
+"first": "2001a",
+"lead_days": -519.833,
+"prev_offset_at_t": -21600,
+"kind": "past/new_offset"
+},
+{
+"zone": "Pacific/Easter",
+"t": 952830000,
+"first": "2001a",
+"lead_days": -365.875,
+"prev_offset_at_t": -18000,
+"kind": "past/new_offset"
+},
+{
+"zone": "Pacific/Easter",
+"t": 971582400,
+"first": "2001a",
+"lead_days": -148.833,
+"prev_offset_at_t": -21600,
+"kind": "news/new_offset"
+},
+{
+"zone": "Pacific/Easter",
+"t": 984279600,
+"first": "2001a",
+"lead_days": -1.875,
+"prev_offset_at_t": -18000,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Palmer",
+"t": 859690800,
+"first": "2006o",
+"lead_days": -3507.875,
+"prev_offset_at_t": -14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Palmer",
+"t": 906868800,
+"first": "1999c",
+"lead_days": -178.833,
+"prev_offset_at_t": -14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "Antarctica/Palmer",
+"t": 1206846000,
+"first": "2012a",
+"lead_days": -1431.875,
+"prev_offset_at_t": -14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Palmer",
+"t": 1270350000,
+"first": "2012a",
+"lead_days": -696.875,
+"prev_offset_at_t": -14400,
+"kind": "past/retimed"
+},
+{
+"zone": "Antarctica/Palmer",
+"t": 1304823600,
+"first": "2012a",
+"lead_days": -297.875,
+"prev_offset_at_t": -14400,
+"kind": "news/retimed"
+},
+{
+"zone": "Antarctica/Palmer",
+"t": 1313899200,
+"first": "2012a",
+"lead_days": -192.833,
+"prev_offset_at_t": -14400,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Asuncion",
+"t": 856666800,
+"first": "1999i",
+"lead_days": -987.875,
+"prev_offset_at_t": -10800,
+"kind": "past/new_offset"
+},
+{
+"zone": "America/Asuncion",
+"t": 876024000,
+"first": "1998h",
+"lead_days": -353.833,
+"prev_offset_at_t": -10800,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Asuncion",
+"t": 920775600,
+"first": "2001a",
+"lead_days": -736.875,
+"prev_offset_at_t": -14400,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Asuncion",
+"t": 952225200,
+"first": "2001a",
+"lead_days": -372.875,
+"prev_offset_at_t": -14400,
+"kind": "past/retimed"
+},
+{
+"zone": "America/Asuncion",
+"t": 983674800,
+"first": "2001a",
+"lead_days": -8.875,
+"prev_offset_at_t": -14400,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Asuncion",
+"t": 1097985600,
+"first": "2005c",
+"lead_days": -91.833,
+"prev_offset_at_t": -10800,
+"kind": "news/retimed"
+},
+{
+"zone": "America/Montevideo",
+"t": 1095562800,
+"first": "2004d",
+"lead_days": -2.875,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+},
+{
+"zone": "America/Montevideo",
+"t": 1159678800,
+"first": "2006m",
+"lead_days": -0.792,
+"prev_offset_at_t": -10800,
+"kind": "news/new_offset"
+}
+]
+}

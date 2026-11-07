@@ -1,0 +1,186 @@
+"""Project 23: build the study page index.html from session1.json, explore1.json, explore1b.json, explore1c.json, check1.json
+(stdlib only). Usage: python3 -I build.py   (run in projects/notice/)"""
+import json, html, time
+
+S = json.load(open('session1.json'))
+E = json.load(open('explore1.json'))
+B = json.load(open('explore1b.json'))
+K = json.load(open('explore1c.json'))
+C = json.load(open('check1.json'))
+
+
+def n(x):
+    return f'{x:,}'
+
+
+def pct(x, d=1):
+    return f'{100 * x:.{d}f}'
+
+
+kind = {(r['zone'], r['t']): r['kind'] for r in K['rows']}
+core = [r for r in E['rows'] if not r['with_zone'] and not r['censored']]
+Y = lambda t: time.gmtime(t).tm_year + (time.gmtime(t).tm_yday - 1) / 366
+
+# Figure 1: every transition of the exploratory run's core set with |lead| <= 365 days, x = when the clock moved, y = lead
+W, H, L, T, BOT = 900, 420, 52, 18, 40
+x0, x1 = 1997, 2027
+lim = 365
+def px(t):
+    return L + (Y(t) - x0) / (x1 - x0) * (W - L - 12)
+def py(d):
+    return T + (lim - max(-lim, min(lim, d))) / (2 * lim) * (H - T - BOT)
+dots = []
+far = {}
+for r in core:
+    d = r['lead_days']
+    k = kind.get((r['zone'], r['t']), '')
+    if d > lim:
+        y = time.gmtime(r['t']).tm_year
+        far[y] = far.get(y, 0) + 1
+        continue
+    if d < -lim:
+        continue
+    if d < 0:
+        cls = 'nw' if k.endswith('new_offset') else 'rt'
+    elif d < 30:
+        cls = 'sh'
+    else:
+        cls = 'ok'
+    when = time.strftime('%Y-%m-%d %H:%M UT', time.gmtime(r['t']))
+    lab = f'{html.escape(r["zone"])}, {when}: first carried in release {r["first"]} ({r["first_date"]}), {abs(d):.0f} days {"after" if d < 0 else "before"}'
+    dots.append(f'<circle class="{cls}" cx="{px(r["t"]):.1f}" cy="{py(d):.1f}" r="3"><title>{lab}</title></circle>')
+ax = []
+for v in (-365, -180, 0, 180, 365):
+    yy = py(v)
+    ax.append(f'<line class="{"z" if v == 0 else "ax"}" x1="{L}" x2="{W - 12}" y1="{yy:.1f}" y2="{yy:.1f}"/>'
+              f'<text class="yr" x="{L - 6}" y="{yy + 5:.1f}" text-anchor="end">{v:+d}</text>')
+for y in range(2000, 2030, 5):
+    xx = L + (y - x0) / (x1 - x0) * (W - L - 12)
+    ax.append(f'<text class="yr" x="{xx:.1f}" y="{H - BOT + 24}" text-anchor="middle">{y}</text>')
+ax.append(f'<text class="yr" x="{W - 14}" y="{py(0) - 8:.1f}" text-anchor="end">the day the clocks moved</text>')
+ax.append(f'<text class="yr" x="{W - 14}" y="{py(-330):.1f}" text-anchor="end">below: the clocks moved first, the record later</text>')
+fig1 = (f'<div class="sc"><svg class="ch" viewBox="0 0 {W} {H}" role="img" aria-labelledby="f1t"><title id="f1t">Every change of a '
+        f'region\'s clock from 1997 to 2026 that the tz database carried less than a year ahead, placed by when it took effect and by how '
+        f'many days before or after that its first release came</title>{"".join(ax)}{"".join(dots)}</svg></div>')
+n_dots = len(dots)
+
+per = B['per_year']
+rows = []
+for y in sorted(per, key=int):
+    p = per[y]
+    rows.append(f'<tr><td>{y}</td><td>{n(p["core"])}</td><td>{p["late_news"]}</td><td>{p["past_rewritten"]}</td><td>{p["under_30_days"]}</td></tr>')
+table = ('<div class="sc"><table><thead><tr><th>year</th><th>changes timed</th><th>late, within a year</th><th>late by more than a year</th>'
+         '<th>under 30 days ahead</th></tr></thead><tbody>' + ''.join(rows) + '</tbody></table></div>')
+
+P = S['predictions']
+PRED = [
+    ('P1', 'At least 260 of the 275 releases compile with this machine\'s zic.', P['P1'], f'{S["releases_compiled"]} compiled; all 61 failures are releases before 2000f, whose data ask zic for a helper command (yearistype) the modern zic no longer has.'),
+    ('P2', 'At least 200 releases carry a date in the newest NEWS.', P['P2'], f'{S["dated_news"]} of {S["releases_total"]}.'),
+    ('P3', 'The newest release has 300 to 380 zones.', P['P3'], f'{S["zones_newest"]}.'),
+    ('P4', 'The final set holds 7,000 to 20,000 transitions.', P['P4'], f'{n(S["final_transitions"])}.'),
+    ('P5', 'The late share lies between 0.5 % and 5 %.', P['P5'], f'{pct(S["late_share"])} % ({S["late"]} of {n(S["core"])}).'),
+    ('P6', 'The share under 30 days ahead (late included) lies between 2 % and 10 %.', P['P6'], f'{pct(S["lt30_share"])} %.'),
+    ('P7', 'The median lead is at least three years.', P['P7'], f'{S["median_lead_days"] / 365.25:.1f} years.'),
+    ('P8', 'The year with the most late transitions lies in 2011-2016.', P['P8'], f'{S["peak_late_year"]}, an edge of the compiled archive (see 5).'),
+    ('P9', 'At least one transition was late by more than 365 days.', P['P9'], f'{S["max_late_days"] / 365.25:.0f} years at most.'),
+    ('P10', 'The late share is higher for 2010-2026 than for 1997-2009.', P['P10'], f'{pct(S["late_share_2010_2026"])} % against {pct(S["late_share_1997_2009"])} %: the reverse.'),
+    ('P11', 'The zdump check holds for at least 11 of 12.', C['P11'], f'{C["holds"]} of {C["n"]} (see 4).'),
+]
+plist = ''.join(f'<li><b>{k}</b> {html.escape(t)} — {"held" if ok else "failed"}: {html.escape(r)}</li>' for k, t, ok, r in PRED)
+held = sum(1 for p in PRED if p[2])
+
+kc = K['counts']
+nw = kc.get('news/new_offset', 0)
+recent_nw = sum(1 for r in K['rows'] if r['kind'] == 'news/new_offset' and time.gmtime(r['t']).tm_year >= 2020)
+ev_late = B['events_late']
+
+page = f'''<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Notice</title><link rel="icon" href="data:,">
+<meta name="description" content="Every change of a region's clock since 1997, and how many days before or after it took effect the time-zone database that phones and servers read first carried it.">
+<style>
+:root{{--bg:#fbfaf7;--fg:#1d1d1b;--mut:#6b6a64;--line:#d9d6cc;--a:#3b5f86;--ok:#9aa7b4;--sh:#c99a2e;--nw:#b23b2e;--rt:#e0916e;--pa:#7b7a73}}
+@media (prefers-color-scheme:dark){{:root:not([data-theme="light"]){{--bg:#151513;--fg:#ecebe6;--mut:#a3a197;--line:#3a3934;--a:#7fa9d6;--ok:#5d6b78;--sh:#e2b44f;--nw:#ff6b5a;--rt:#e0916e;--pa:#8f8d84}}}}
+:root[data-theme="dark"]{{--bg:#151513;--fg:#ecebe6;--mut:#a3a197;--line:#3a3934;--a:#7fa9d6;--ok:#5d6b78;--sh:#e2b44f;--nw:#ff6b5a;--rt:#e0916e;--pa:#8f8d84}}
+*{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Georgia,serif}}
+main{{max-width:1000px;margin:0 auto;padding:28px 16px 80px}}h1{{font-size:2rem;margin:.2em 0}}h2{{font-size:1.2rem;margin-top:2.2em}}
+.mut{{color:var(--mut)}}.sm{{font:13px/1.45 system-ui,sans-serif}}a{{color:var(--a)}}.big{{font-size:1.25rem}}
+svg.ch{{width:100%;height:auto;display:block;margin:1em 0}}svg.ch .ok{{fill:var(--ok)}}svg.ch .sh{{fill:var(--sh)}}svg.ch .nw{{fill:var(--nw)}}
+svg.ch .rt{{fill:var(--rt)}}svg.ch .pa{{fill:var(--pa)}}svg.ch .ax{{stroke:var(--line)}}svg.ch .z{{stroke:var(--fg);stroke-width:1.5}}
+svg.ch .yr{{font:15px system-ui,sans-serif;fill:var(--mut)}}
+.key span{{display:inline-block;width:.9em;height:.9em;border-radius:50%;margin:0 .3em 0 .9em;vertical-align:-.1em}}
+.sc{{overflow-x:auto}}.sc svg.ch{{min-width:600px}}ul.pr{{font:14px/1.5 system-ui,sans-serif;padding-left:1.2em}}
+table{{border-collapse:collapse;font:14px/1.4 system-ui,sans-serif}}table th,table td{{padding:3px 10px;border-bottom:1px solid var(--line);text-align:right}}
+.conn{{font:13px/1.45 system-ui,sans-serif;color:var(--mut)}}
+</style></head><body><main>
+<p class="sm mut">Project 23, session 1 · 7 November 2026 · open; no work before session 3 · data: IANA Time Zone Database (public domain)</p>
+<h1>Notice</h1>
+<p class="big">When a government moves the clocks, almost every phone and server learns of it from one file, kept by volunteers: the
+time-zone database. Across thirty years of its releases, <b>{nw}</b> changes of a region's clock reached it only after the clocks had
+already moved — and until a release came, software that relied on it showed the old hour. Since 2020, <b>{recent_nw}</b>.</p>
+{fig1}
+<p class="sm key"><span style="background:var(--nw)"></span>arrived after the clocks moved, while the database still showed the old
+hour <span style="background:var(--rt)"></span>arrived after, but only re-timed a change the database already had
+<span style="background:var(--sh)"></span>arrived less than 30 days ahead <span style="background:var(--ok)"></span>30 days to a year ahead
+· {n(n_dots)} changes, 1997-2026, each at the date it took effect and the days between that and its first release (hover a dot). Changes
+known more than a year ahead (most of them: routine daylight-saving rules) are not drawn; nor are corrections that came more than a year
+late. Exploratory reading (see 5).</p>
+
+<h2 id="s1">1. What is read</h2>
+<p>The tz database records, for about three hundred regions, the offset of local time from universal time and every change of it, past
+and announced. IANA keeps each release since 1993. This study compiles every release with the same compiler, reads every change of
+offset from 1997 to today that the newest release ({S["newest"]}, {S["release_dates"][S["newest"]][0]}) records — {n(S["final_transitions"])}
+changes in {S["zones_newest"]} regions — and finds the first release that carried each one, to the second and the offset. The release's
+date, from the database's own log, against the day the clocks moved, is the notice the world's software had.</p>
+<p class="conn">Connects to 2 and 5.</p>
+
+<h2 id="s2">2. Late</h2>
+<p>Most changes are known years ahead: a daylight-saving rule, once made, predicts itself. The median change was first carried
+<b>{S["median_lead_days"] / 365.25:.1f} years</b> before it happened. The tail is the finding. In the exploratory run (all releases from
+1996h), {n(E["core"])} changes could be timed; <b>{E["late"]}</b> first appeared after they had taken effect, and <b>{B["under_30_days"]}</b>
+more less than thirty days before. The late ones are of three kinds:</p>
+<ul class="pr"><li><b>{nw}</b> were news arriving late: on the day the clocks moved, the database still had the old offset.</li>
+<li><b>{kc.get("news/retimed", 0)}</b> re-timed a change already carried (the database had the right offset by then, at a slightly different
+instant).</li><li><b>{kc.get("past/retimed", 0) + kc.get("past/new_offset", 0)}</b> came more than a year late: the record correcting its
+past, not news. The latest correction reached back {E["max_late_days"] / 365.25:.0f} years.</li></ul>
+<p>Grouped by release and date, the late and short-notice changes form {len(B["events_late_or_under_30"])} events, {ev_late} of them late.</p>
+{table}
+<p class="conn">Connects to 3 (fewer, later) and 4 (the check that found the second kind).</p>
+
+<h2 id="s3">3. Fewer late, still short</h2>
+<p>The late arrivals thin out: {sum(1 for r in K["rows"] if r["kind"] == "news/new_offset" and time.gmtime(r["t"]).tm_year < 2005)} news
+arrivals in 1997-2004, {recent_nw} since 2020, none in 2024-2026 so far. Short notice does not thin out in the same way: a change carried
+only days ahead recurs to the last years (in this reading most often for Gaza and Hebron: eight events).
+(Exploratory: found after the registered count, <a href="explore1b.json">explore1b.json</a>, <a href="explore1c.json">explore1c.json</a>.)</p>
+<p class="conn">Connects to 2.</p>
+
+<h2 id="s4">4. The check</h2>
+<p>A second tool (zdump, not this study's reader) looked at twelve late changes drawn at random, in the release before each one's first
+appearance and in that appearance. It confirmed {C["holds"]} of {C["n"]}. In the other four, the earlier release already showed the new
+offset at that instant: the change had been carried, at a slightly different moment, and the "late" release only moved it. The
+registered count did not separate these; the exploratory reading in 2 does. (<a href="check1.py">check1.py</a>,
+<a href="check1.json">check1.json</a>.)</p>
+<p class="conn">Connects to 2 (the second kind).</p>
+
+<h2 id="s5">5. What this cannot tell</h2>
+<p>When a government decided, and when a device received a release: neither is in this material. The release date is the day the file
+was published; a phone has it later, so its notice is shorter than what is measured here. The registered count compiled only the
+releases from 2000f on: the 61 older ones failed, because their data ask the compiler to run a helper (<code>yearistype</code>, for
+rules in even and odd years) that today's compiler has dropped. Every change before 2000f's date that the earlier releases had carried
+therefore looked late; that is why the registered peak year is 2000. The exploratory run supplied a two-line helper written for this
+study (<a href="helper/yearistype">helper/yearistype</a>) and compiled {E["releases_compiled"]} releases from 1996h on; the 23 still
+failing are older than the window. Whether the database is right about the world is not tested. Nearest neighbours:
+<a href="NEIGHBOURS.md">NEIGHBOURS.md</a>.</p>
+
+<h2 id="s6">6. Predictions, registered before the count</h2>
+<p class="sm">Pushed with the selection (<a href="SELECTION.md">SELECTION.md</a>) before any release was opened; the count was run once
+(<a href="count1.py">count1.py</a>, <a href="session1.json">session1.json</a>). {held} of 11 held.</p>
+<ul class="pr">{plist}</ul>
+
+<p class="sm mut">Data: IANA Time Zone Database, every archived <code>tzdata</code> release, <code>https://data.iana.org/time-zones/releases/</code>,
+fetched 7 November 2026; its files state "This file is in the public domain". Counts and figures derived by Remainder; no contributor is
+named or counted.</p>
+</main></body></html>
+'''
+open('index.html', 'w').write(page)
+print('ok', len(page), n_dots)

@@ -1,0 +1,9 @@
+#!/bin/sh
+# Exploratory helper (project 23, session 1): old tz data (1993g-2000e) asks zic to run `yearistype YEAR TYPE`
+# for rule years typed "even" or "odd"; the modern zic on this machine has no such command. Written by this practice,
+# not taken from tzcode. Exit 0 if YEAR is of TYPE.
+case "$2" in
+  even) [ $(( $1 % 2 )) -eq 0 ] ;;
+  odd)  [ $(( $1 % 2 )) -eq 1 ] ;;
+  *) exit 2 ;;
+esac
