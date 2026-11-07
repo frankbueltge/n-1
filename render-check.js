@@ -660,6 +660,26 @@ const PAGES = [
     ok: (r) => r.svgs === 3 && r.years === 274 && r.lines === 2 && r.decades3 === 28 && r.lines3 === 2 && r.trs === 46 && r.preds === 33 && r.sections === 9 && r.fits && r.min_font >= 11,
   },
   {
+    // project 23, session 1 (2026-11-07 Berlin): the study page "Notice", built by projects/notice/build.py from session1.json,
+    // explore1.json, explore1b.json, explore1c.json and check1.json; one SVG (581 titled dots: changes of offset 1997-2026 known less
+    // than a year ahead or late by less than a year), one table (30 years), eleven predictions, six sections.
+    path: 'projects/notice/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        dots: s[0] ? s[0].querySelectorAll('circle').length : 0,
+        late_news: s[0] ? s[0].querySelectorAll('circle.nw').length : 0,
+        trs: document.querySelectorAll('main table tbody tr').length,
+        preds: document.querySelectorAll('ul.pr li').length,
+        sections: document.querySelectorAll('h2[id]').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 1 && r.dots === 581 && r.late_news === 114 && r.trs === 30 && r.preds === 14 && r.sections === 6 && r.fits && r.min_font >= 11,
+  },
+  {
     // project 22, session 3 (2026-11-06 Berlin): the work The Court Still Sits, built by works/the-court-still-sits/build.py from
     // projects/standing/session3.json; one canvas (a dot per changed verdict, by year of the name and interval between issues), one
     // table (six intervals + the sum). Play is pressed (the rows must drop to fewer than six), the record switch is turned on (more dots,

@@ -1,0 +1,2481 @@
+{
+"core": 4285,
+"late_news": 165,
+"past_rewritten": 228,
+"under_30_days": 105,
+"per_year": {
+"1997": {
+"core": 86,
+"late_news": 10,
+"past_rewritten": 42,
+"under_30_days": 1
+},
+"1998": {
+"core": 91,
+"late_news": 15,
+"past_rewritten": 31,
+"under_30_days": 3
+},
+"1999": {
+"core": 101,
+"late_news": 13,
+"past_rewritten": 23,
+"under_30_days": 5
+},
+"2000": {
+"core": 110,
+"late_news": 17,
+"past_rewritten": 21,
+"under_30_days": 4
+},
+"2001": {
+"core": 109,
+"late_news": 9,
+"past_rewritten": 15,
+"under_30_days": 2
+},
+"2002": {
+"core": 104,
+"late_news": 2,
+"past_rewritten": 15,
+"under_30_days": 5
+},
+"2003": {
+"core": 97,
+"late_news": 3,
+"past_rewritten": 10,
+"under_30_days": 0
+},
+"2004": {
+"core": 102,
+"late_news": 8,
+"past_rewritten": 8,
+"under_30_days": 3
+},
+"2005": {
+"core": 93,
+"late_news": 8,
+"past_rewritten": 2,
+"under_30_days": 2
+},
+"2006": {
+"core": 109,
+"late_news": 15,
+"past_rewritten": 1,
+"under_30_days": 5
+},
+"2007": {
+"core": 165,
+"late_news": 14,
+"past_rewritten": 2,
+"under_30_days": 4
+},
+"2008": {
+"core": 193,
+"late_news": 3,
+"past_rewritten": 11,
+"under_30_days": 6
+},
+"2009": {
+"core": 183,
+"late_news": 8,
+"past_rewritten": 6,
+"under_30_days": 4
+},
+"2010": {
+"core": 179,
+"late_news": 5,
+"past_rewritten": 5,
+"under_30_days": 7
+},
+"2014": {
+"core": 187,
+"late_news": 3,
+"past_rewritten": 2,
+"under_30_days": 5
+},
+"2023": {
+"core": 147,
+"late_news": 1,
+"past_rewritten": 0,
+"under_30_days": 0
+},
+"2024": {
+"core": 150,
+"late_news": 0,
+"past_rewritten": 0,
+"under_30_days": 2
+},
+"2025": {
+"core": 147,
+"late_news": 0,
+"past_rewritten": 0,
+"under_30_days": 0
+},
+"2026": {
+"core": 144,
+"late_news": 0,
+"past_rewritten": 0,
+"under_30_days": 0
+},
+"2012": {
+"core": 175,
+"late_news": 7,
+"past_rewritten": 6,
+"under_30_days": 2
+},
+"2013": {
+"core": 171,
+"late_news": 4,
+"past_rewritten": 2,
+"under_30_days": 10
+},
+"2011": {
+"core": 171,
+"late_news": 8,
+"past_rewritten": 7,
+"under_30_days": 6
+},
+"2015": {
+"core": 167,
+"late_news": 1,
+"past_rewritten": 4,
+"under_30_days": 7
+},
+"2016": {
+"core": 167,
+"late_news": 1,
+"past_rewritten": 2,
+"under_30_days": 7
+},
+"2017": {
+"core": 159,
+"late_news": 0,
+"past_rewritten": 2,
+"under_30_days": 2
+},
+"2018": {
+"core": 163,
+"late_news": 3,
+"past_rewritten": 3,
+"under_30_days": 3
+},
+"2019": {
+"core": 159,
+"late_news": 3,
+"past_rewritten": 4,
+"under_30_days": 2
+},
+"2020": {
+"core": 156,
+"late_news": 4,
+"past_rewritten": 0,
+"under_30_days": 3
+},
+"2021": {
+"core": 151,
+"late_news": 0,
+"past_rewritten": 2,
+"under_30_days": 3
+},
+"2022": {
+"core": 149,
+"late_news": 0,
+"past_rewritten": 2,
+"under_30_days": 2
+}
+},
+"events_late_or_under_30": [
+{
+"first": "1997c",
+"first_date": "1997-03-04",
+"t": 858895200,
+"when": "1997-03-20 22:00",
+"zones": [
+"Asia/Jerusalem"
+],
+"lead_days_min": 16.917,
+"n": 1
+},
+{
+"first": "1997e",
+"first_date": "1997-03-29",
+"t": 857228400,
+"when": "1997-03-01 15:00",
+"zones": [
+"Pacific/Noumea"
+],
+"lead_days_min": -27.375,
+"n": 1
+},
+{
+"first": "1997i",
+"first_date": "1997-10-07",
+"t": 860284800,
+"when": "1997-04-06 00:00",
+"zones": [
+"Africa/Windhoek"
+],
+"lead_days_min": -184.0,
+"n": 1
+},
+{
+"first": "1997i",
+"first_date": "1997-10-07",
+"t": 873594000,
+"when": "1997-09-07 01:00",
+"zones": [
+"Africa/Windhoek"
+],
+"lead_days_min": -29.958,
+"n": 1
+},
+{
+"first": "1998c",
+"first_date": "1998-02-28",
+"t": 860104800,
+"when": "1997-04-03 22:00",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": -330.083,
+"n": 1
+},
+{
+"first": "1998c",
+"first_date": "1998-02-28",
+"t": 874620000,
+"when": "1997-09-18 22:00",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": -162.083,
+"n": 1
+},
+{
+"first": "1998c",
+"first_date": "1998-02-28",
+"t": 888717600,
+"when": "1998-03-01 02:00",
+"zones": [
+"America/Sao_Paulo",
+"America/Cuiaba"
+],
+"lead_days_min": 1.083,
+"n": 2
+},
+{
+"first": "1998h",
+"first_date": "1998-09-24",
+"t": 876024000,
+"when": "1997-10-05 04:00",
+"zones": [
+"America/Asuncion"
+],
+"lead_days_min": -353.833,
+"n": 1
+},
+{
+"first": "1998h",
+"first_date": "1998-09-24",
+"t": 877811400,
+"when": "1997-10-25 20:30",
+"zones": [
+"Asia/Bishkek",
+"Asia/Yerevan",
+"Europe/Riga",
+"Europe/Simferopol"
+],
+"lead_days_min": -333.146,
+"n": 4
+},
+{
+"first": "1998h",
+"first_date": "1998-09-24",
+"t": 891120600,
+"when": "1998-03-28 21:30",
+"zones": [
+"Asia/Bishkek",
+"Asia/Yerevan",
+"Europe/Riga",
+"Europe/Simferopol",
+"America/Havana"
+],
+"lead_days_min": -179.104,
+"n": 5
+},
+{
+"first": "1998h",
+"first_date": "1998-09-24",
+"t": 907473600,
+"when": "1998-10-04 04:00",
+"zones": [
+"America/Asuncion"
+],
+"lead_days_min": 10.167,
+"n": 1
+},
+{
+"first": "1998i",
+"first_date": "1998-10-01",
+"t": 906868800,
+"when": "1998-09-27 04:00",
+"zones": [
+"America/Santiago"
+],
+"lead_days_min": -3.833,
+"n": 1
+},
+{
+"first": "1999b",
+"first_date": "1999-02-01",
+"t": 891115200,
+"when": "1998-03-28 20:00",
+"zones": [
+"Asia/Tbilisi"
+],
+"lead_days_min": -309.167,
+"n": 1
+},
+{
+"first": "1999b",
+"first_date": "1999-02-01",
+"t": 902037600,
+"when": "1998-08-02 06:00",
+"zones": [
+"America/Cancun"
+],
+"lead_days_min": -182.75,
+"n": 1
+},
+{
+"first": "1999b",
+"first_date": "1999-02-01",
+"t": 909255600,
+"when": "1998-10-24 19:00",
+"zones": [
+"Asia/Tbilisi",
+"Asia/Nicosia",
+"America/Cancun"
+],
+"lead_days_min": -99.208,
+"n": 3
+},
+{
+"first": "1999b",
+"first_date": "1999-02-01",
+"t": 909842400,
+"when": "1998-10-31 14:00",
+"zones": [
+"Pacific/Fiji"
+],
+"lead_days_min": -92.417,
+"n": 1
+},
+{
+"first": "1999b",
+"first_date": "1999-02-01",
+"t": 920124000,
+"when": "1999-02-27 14:00",
+"zones": [
+"Pacific/Fiji"
+],
+"lead_days_min": 26.583,
+"n": 1
+},
+{
+"first": "1999c",
+"first_date": "1999-03-25",
+"t": 906868800,
+"when": "1998-09-27 04:00",
+"zones": [
+"Antarctica/Palmer"
+],
+"lead_days_min": -178.833,
+"n": 1
+},
+{
+"first": "1999c",
+"first_date": "1999-03-25",
+"t": 923194800,
+"when": "1999-04-04 03:00",
+"zones": [
+"America/Santiago",
+"Antarctica/Palmer"
+],
+"lead_days_min": 10.125,
+"n": 2
+},
+{
+"first": "1999d",
+"first_date": "1999-03-30",
+"t": 922597200,
+"when": "1999-03-28 05:00",
+"zones": [
+"America/Havana"
+],
+"lead_days_min": -1.792,
+"n": 1
+},
+{
+"first": "1999e",
+"first_date": "1999-08-17",
+"t": 922582800,
+"when": "1999-03-28 01:00",
+"zones": [
+"Europe/Warsaw"
+],
+"lead_days_min": -141.958,
+"n": 1
+},
+{
+"first": "1999f",
+"first_date": "1999-09-23",
+"t": 909277200,
+"when": "1998-10-25 01:00",
+"zones": [
+"Europe/Sofia"
+],
+"lead_days_min": -332.958,
+"n": 1
+},
+{
+"first": "1999f",
+"first_date": "1999-09-23",
+"t": 922582800,
+"when": "1999-03-28 01:00",
+"zones": [
+"Europe/Sofia"
+],
+"lead_days_min": -178.958,
+"n": 1
+},
+{
+"first": "1999f",
+"first_date": "1999-09-23",
+"t": 924213600,
+"when": "1999-04-15 22:00",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": -160.083,
+"n": 1
+},
+{
+"first": "1999f",
+"first_date": "1999-09-23",
+"t": 930780000,
+"when": "1999-06-30 22:00",
+"zones": [
+"Asia/Amman"
+],
+"lead_days_min": -84.083,
+"n": 1
+},
+{
+"first": "1999f",
+"first_date": "1999-09-23",
+"t": 938919600,
+"when": "1999-10-03 03:00",
+"zones": [
+"America/Araguaina"
+],
+"lead_days_min": 10.125,
+"n": 1
+},
+{
+"first": "1999f",
+"first_date": "1999-09-23",
+"t": 939934800,
+"when": "1999-10-14 21:00",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": 21.875,
+"n": 1
+},
+{
+"first": "1999i",
+"first_date": "1999-11-08",
+"t": 915105600,
+"when": "1998-12-31 12:00",
+"zones": [
+"Pacific/Kosrae"
+],
+"lead_days_min": -311.5,
+"n": 1
+},
+{
+"first": "1999i",
+"first_date": "1999-11-08",
+"t": 922582800,
+"when": "1999-03-28 01:00",
+"zones": [
+"Europe/Bucharest"
+],
+"lead_days_min": -224.958,
+"n": 1
+},
+{
+"first": "1999i",
+"first_date": "1999-11-08",
+"t": 938919600,
+"when": "1999-10-03 03:00",
+"zones": [
+"America/Fortaleza"
+],
+"lead_days_min": -35.875,
+"n": 1
+},
+{
+"first": "1999i",
+"first_date": "1999-11-08",
+"t": 941331600,
+"when": "1999-10-31 01:00",
+"zones": [
+"Europe/Bucharest"
+],
+"lead_days_min": -7.958,
+"n": 1
+},
+{
+"first": "1999j",
+"first_date": "1999-11-15",
+"t": 922543200,
+"when": "1999-03-27 14:00",
+"zones": [
+"Asia/Anadyr"
+],
+"lead_days_min": -232.417,
+"n": 1
+},
+{
+"first": "1999j",
+"first_date": "1999-11-15",
+"t": 941292000,
+"when": "1999-10-30 14:00",
+"zones": [
+"Asia/Anadyr"
+],
+"lead_days_min": -15.417,
+"n": 1
+},
+{
+"first": "2000c",
+"first_date": "2000-03-04",
+"t": 947930400,
+"when": "2000-01-15 10:00",
+"zones": [
+"Africa/Khartoum"
+],
+"lead_days_min": -48.583,
+"n": 1
+},
+{
+"first": "2000c",
+"first_date": "2000-03-04",
+"t": 954367200,
+"when": "2000-03-29 22:00",
+"zones": [
+"Asia/Amman"
+],
+"lead_days_min": 25.917,
+"n": 1
+},
+{
+"first": "2000g",
+"first_date": "2000-10-10",
+"t": 941337060,
+"when": "1999-10-31 02:31",
+"zones": [
+"America/St_Johns",
+"America/Goose_Bay",
+"America/Winnipeg"
+],
+"lead_days_min": -344.895,
+"n": 3
+},
+{
+"first": "2000g",
+"first_date": "2000-10-10",
+"t": 954646260,
+"when": "2000-04-02 03:31",
+"zones": [
+"America/St_Johns",
+"America/Goose_Bay"
+],
+"lead_days_min": -190.853,
+"n": 2
+},
+{
+"first": "2000g",
+"first_date": "2000-10-10",
+"t": 970974000,
+"when": "2000-10-08 03:00",
+"zones": [
+"America/Fortaleza",
+"America/Maceio",
+"America/Cuiaba",
+"America/Boa_Vista"
+],
+"lead_days_min": -1.875,
+"n": 4
+},
+{
+"first": "2000g",
+"first_date": "2000-10-10",
+"t": 972786660,
+"when": "2000-10-29 02:31",
+"zones": [
+"America/St_Johns",
+"America/Goose_Bay",
+"America/Winnipeg"
+],
+"lead_days_min": 19.105,
+"n": 3
+},
+{
+"first": "2000h",
+"first_date": "2000-12-14",
+"t": 953384400,
+"when": "2000-03-18 13:00",
+"zones": [
+"Pacific/Tongatapu"
+],
+"lead_days_min": -270.458,
+"n": 1
+},
+{
+"first": "2000h",
+"first_date": "2000-12-14",
+"t": 969120000,
+"when": "2000-09-16 16:00",
+"zones": [
+"Asia/Dili"
+],
+"lead_days_min": -88.333,
+"n": 1
+},
+{
+"first": "2000h",
+"first_date": "2000-12-14",
+"t": 971578800,
+"when": "2000-10-15 03:00",
+"zones": [
+"America/Boa_Vista"
+],
+"lead_days_min": -59.875,
+"n": 1
+},
+{
+"first": "2000h",
+"first_date": "2000-12-14",
+"t": 972180000,
+"when": "2000-10-22 02:00",
+"zones": [
+"America/Fortaleza",
+"America/Maceio"
+],
+"lead_days_min": -52.917,
+"n": 2
+},
+{
+"first": "2000h",
+"first_date": "2000-12-14",
+"t": 972799200,
+"when": "2000-10-29 06:00",
+"zones": [
+"America/Santo_Domingo"
+],
+"lead_days_min": -45.75,
+"n": 1
+},
+{
+"first": "2000h",
+"first_date": "2000-12-14",
+"t": 975823200,
+"when": "2000-12-03 06:00",
+"zones": [
+"America/Santo_Domingo"
+],
+"lead_days_min": -10.75,
+"n": 1
+},
+{
+"first": "2001a",
+"first_date": "2001-03-13",
+"t": 953996400,
+"when": "2000-03-25 15:00",
+"zones": [
+"Australia/Lord_Howe"
+],
+"lead_days_min": -352.375,
+"n": 1
+},
+{
+"first": "2001a",
+"first_date": "2001-03-13",
+"t": 971582400,
+"when": "2000-10-15 04:00",
+"zones": [
+"Pacific/Easter"
+],
+"lead_days_min": -148.833,
+"n": 1
+},
+{
+"first": "2001a",
+"first_date": "2001-03-13",
+"t": 973400400,
+"when": "2000-11-05 05:00",
+"zones": [
+"America/Cambridge_Bay"
+],
+"lead_days_min": -127.792,
+"n": 1
+},
+{
+"first": "2001a",
+"first_date": "2001-03-13",
+"t": 983674800,
+"when": "2001-03-04 03:00",
+"zones": [
+"America/Asuncion"
+],
+"lead_days_min": -8.875,
+"n": 1
+},
+{
+"first": "2001a",
+"first_date": "2001-03-13",
+"t": 984279600,
+"when": "2001-03-11 03:00",
+"zones": [
+"Pacific/Easter"
+],
+"lead_days_min": -1.875,
+"n": 1
+},
+{
+"first": "2001a",
+"first_date": "2001-03-13",
+"t": 985446000,
+"when": "2001-03-24 15:00",
+"zones": [
+"Australia/Lord_Howe"
+],
+"lead_days_min": 11.625,
+"n": 1
+},
+{
+"first": "2001d",
+"first_date": "2001-10-09",
+"t": 1003028400,
+"when": "2001-10-14 03:00",
+"zones": [
+"America/Recife"
+],
+"lead_days_min": 5.125,
+"n": 1
+},
+{
+"first": "2002b",
+"first_date": "2002-01-28",
+"t": 985464000,
+"when": "2001-03-24 20:00",
+"zones": [
+"Asia/Almaty",
+"Asia/Aqtobe",
+"Asia/Aqtau"
+],
+"lead_days_min": -309.167,
+"n": 3
+},
+{
+"first": "2002b",
+"first_date": "2002-01-28",
+"t": 1004212800,
+"when": "2001-10-27 20:00",
+"zones": [
+"Asia/Almaty",
+"Asia/Aqtobe",
+"Asia/Aqtau"
+],
+"lead_days_min": -92.167,
+"n": 3
+},
+{
+"first": "2002b",
+"first_date": "2002-01-28",
+"t": 1004792400,
+"when": "2001-11-03 13:00",
+"zones": [
+"Pacific/Tongatapu"
+],
+"lead_days_min": -85.458,
+"n": 1
+},
+{
+"first": "2002b",
+"first_date": "2002-01-28",
+"t": 1012046400,
+"when": "2002-01-26 12:00",
+"zones": [
+"Pacific/Tongatapu"
+],
+"lead_days_min": -1.5,
+"n": 1
+},
+{
+"first": "2002c",
+"first_date": "2002-04-04",
+"t": 1018119600,
+"when": "2002-04-06 19:00",
+"zones": [
+"Asia/Karachi",
+"America/Asuncion"
+],
+"lead_days_min": 2.792,
+"n": 2
+},
+{
+"first": "2002d",
+"first_date": "2002-10-15",
+"t": 1036292400,
+"when": "2002-11-03 03:00",
+"zones": [
+"America/Araguaina",
+"America/Sao_Paulo",
+"America/Cuiaba"
+],
+"lead_days_min": 19.125,
+"n": 3
+},
+{
+"first": "2003a",
+"first_date": "2003-03-24",
+"t": 1032636600,
+"when": "2002-09-21 19:30",
+"zones": [
+"Asia/Tehran"
+],
+"lead_days_min": -183.188,
+"n": 1
+},
+{
+"first": "2003a",
+"first_date": "2003-03-24",
+"t": 1048278600,
+"when": "2003-03-21 20:30",
+"zones": [
+"Asia/Tehran"
+],
+"lead_days_min": -2.146,
+"n": 1
+},
+{
+"first": "2004a",
+"first_date": "2004-05-27",
+"t": 1064595600,
+"when": "2003-09-26 17:00",
+"zones": [
+"Asia/Ulaanbaatar",
+"Asia/Hovd"
+],
+"lead_days_min": -243.292,
+"n": 2
+},
+{
+"first": "2004a",
+"first_date": "2004-05-27",
+"t": 1080324000,
+"when": "2004-03-26 18:00",
+"zones": [
+"Asia/Ulaanbaatar",
+"Asia/Hovd"
+],
+"lead_days_min": -61.25,
+"n": 2
+},
+{
+"first": "2004b",
+"first_date": "2004-07-19",
+"t": 1088276400,
+"when": "2004-06-26 19:00",
+"zones": [
+"Asia/Tbilisi"
+],
+"lead_days_min": -22.208,
+"n": 1
+},
+{
+"first": "2004d",
+"first_date": "2004-09-22",
+"t": 1095562800,
+"when": "2004-09-19 03:00",
+"zones": [
+"America/Montevideo"
+],
+"lead_days_min": -2.875,
+"n": 1
+},
+{
+"first": "2004e",
+"first_date": "2004-10-11",
+"t": 1085972400,
+"when": "2004-05-31 03:00",
+"zones": [
+"America/Argentina/San_Juan"
+],
+"lead_days_min": -132.875,
+"n": 1
+},
+{
+"first": "2004e",
+"first_date": "2004-10-11",
+"t": 1090728000,
+"when": "2004-07-25 04:00",
+"zones": [
+"America/Argentina/San_Juan"
+],
+"lead_days_min": -77.833,
+"n": 1
+},
+{
+"first": "2004e",
+"first_date": "2004-10-11",
+"t": 1096171200,
+"when": "2004-09-26 04:00",
+"zones": [
+"America/Argentina/Mendoza"
+],
+"lead_days_min": -14.833,
+"n": 1
+},
+{
+"first": "2004e",
+"first_date": "2004-10-11",
+"t": 1099364400,
+"when": "2004-11-02 03:00",
+"zones": [
+"America/Sao_Paulo",
+"America/Campo_Grande",
+"America/Cuiaba"
+],
+"lead_days_min": 22.125,
+"n": 3
+},
+{
+"first": "2005c",
+"first_date": "2005-01-17",
+"t": 1097985600,
+"when": "2004-10-17 04:00",
+"zones": [
+"America/Asuncion"
+],
+"lead_days_min": -91.833,
+"n": 1
+},
+{
+"first": "2005g",
+"first_date": "2005-03-14",
+"t": 1111896000,
+"when": "2005-03-27 04:00",
+"zones": [
+"America/Montevideo"
+],
+"lead_days_min": 13.167,
+"n": 1
+},
+{
+"first": "2005i",
+"first_date": "2005-04-21",
+"t": 1112504400,
+"when": "2005-04-03 05:00",
+"zones": [
+"America/Port-au-Prince"
+],
+"lead_days_min": -17.792,
+"n": 1
+},
+{
+"first": "2005i",
+"first_date": "2005-04-21",
+"t": 1113112800,
+"when": "2005-04-10 06:00",
+"zones": [
+"America/Managua"
+],
+"lead_days_min": -10.75,
+"n": 1
+},
+{
+"first": "2005l",
+"first_date": "2005-08-22",
+"t": 1114902000,
+"when": "2005-04-30 23:00",
+"zones": [
+"Africa/Tunis"
+],
+"lead_days_min": -113.042,
+"n": 1
+},
+{
+"first": "2005n",
+"first_date": "2005-10-03",
+"t": 1128834000,
+"when": "2005-10-09 05:00",
+"zones": [
+"America/Montevideo"
+],
+"lead_days_min": 6.208,
+"n": 1
+},
+{
+"first": "2005o",
+"first_date": "2005-11-28",
+"t": 1111881600,
+"when": "2005-03-27 00:00",
+"zones": [
+"Asia/Baku"
+],
+"lead_days_min": -246.0,
+"n": 1
+},
+{
+"first": "2005o",
+"first_date": "2005-11-28",
+"t": 1128031200,
+"when": "2005-09-29 22:00",
+"zones": [
+"Asia/Amman"
+],
+"lead_days_min": -59.083,
+"n": 1
+},
+{
+"first": "2005o",
+"first_date": "2005-11-28",
+"t": 1128229200,
+"when": "2005-10-02 05:00",
+"zones": [
+"America/Managua"
+],
+"lead_days_min": -56.792,
+"n": 1
+},
+{
+"first": "2005o",
+"first_date": "2005-11-28",
+"t": 1130630400,
+"when": "2005-10-30 00:00",
+"zones": [
+"Asia/Baku"
+],
+"lead_days_min": -29.0,
+"n": 1
+},
+{
+"first": "2006a",
+"first_date": "2006-01-30",
+"t": 1128380400,
+"when": "2005-10-03 23:00",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": -118.042,
+"n": 1
+},
+{
+"first": "2006c",
+"first_date": "2006-04-03",
+"t": 1143334800,
+"when": "2006-03-26 01:00",
+"zones": [
+"Africa/Tunis"
+],
+"lead_days_min": -7.958,
+"n": 1
+},
+{
+"first": "2006d",
+"first_date": "2006-04-17",
+"t": 1143954000,
+"when": "2006-04-02 05:00",
+"zones": [
+"America/Port-au-Prince"
+],
+"lead_days_min": -14.792,
+"n": 1
+},
+{
+"first": "2006d",
+"first_date": "2006-04-17",
+"t": 1145039400,
+"when": "2006-04-14 18:30",
+"zones": [
+"Asia/Colombo"
+],
+"lead_days_min": -2.229,
+"n": 1
+},
+{
+"first": "2006f",
+"first_date": "2006-05-01",
+"t": 1146376800,
+"when": "2006-04-30 06:00",
+"zones": [
+"America/Guatemala",
+"America/Managua"
+],
+"lead_days_min": -0.75,
+"n": 2
+},
+{
+"first": "2006g",
+"first_date": "2006-05-08",
+"t": 1146981600,
+"when": "2006-05-07 06:00",
+"zones": [
+"America/Tegucigalpa"
+],
+"lead_days_min": -0.75,
+"n": 1
+},
+{
+"first": "2006j",
+"first_date": "2006-08-21",
+"t": 1154926800,
+"when": "2006-08-07 05:00",
+"zones": [
+"America/Tegucigalpa"
+],
+"lead_days_min": -13.792,
+"n": 1
+},
+{
+"first": "2006k",
+"first_date": "2006-08-28",
+"t": 1143842400,
+"when": "2006-03-31 22:00",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": -149.083,
+"n": 1
+},
+{
+"first": "2006m",
+"first_date": "2006-10-02",
+"t": 1158872400,
+"when": "2006-09-21 21:00",
+"zones": [
+"Africa/Cairo",
+"Asia/Gaza",
+"Asia/Damascus"
+],
+"lead_days_min": -10.125,
+"n": 3
+},
+{
+"first": "2006m",
+"first_date": "2006-10-02",
+"t": 1159678800,
+"when": "2006-10-01 05:00",
+"zones": [
+"America/Montevideo"
+],
+"lead_days_min": -0.792,
+"n": 1
+},
+{
+"first": "2006n",
+"first_date": "2006-10-10",
+"t": 1159682400,
+"when": "2006-10-01 06:00",
+"zones": [
+"America/Managua"
+],
+"lead_days_min": -8.75,
+"n": 1
+},
+{
+"first": "2006n",
+"first_date": "2006-10-10",
+"t": 1161900000,
+"when": "2006-10-26 22:00",
+"zones": [
+"Asia/Amman"
+],
+"lead_days_min": 16.917,
+"n": 1
+},
+{
+"first": "2006n",
+"first_date": "2006-10-10",
+"t": 1162695600,
+"when": "2006-11-05 03:00",
+"zones": [
+"America/Sao_Paulo",
+"America/Campo_Grande",
+"America/Cuiaba"
+],
+"lead_days_min": 26.125,
+"n": 3
+},
+{
+"first": "2006p",
+"first_date": "2006-11-27",
+"t": 1165082400,
+"when": "2006-12-02 18:00",
+"zones": [
+"Australia/Perth"
+],
+"lead_days_min": 5.75,
+"n": 1
+},
+{
+"first": "2007c",
+"first_date": "2007-02-26",
+"t": 1143327600,
+"when": "2006-03-25 23:00",
+"zones": [
+"Europe/Istanbul"
+],
+"lead_days_min": -337.042,
+"n": 1
+},
+{
+"first": "2007c",
+"first_date": "2007-02-26",
+"t": 1162076400,
+"when": "2006-10-28 23:00",
+"zones": [
+"Europe/Istanbul"
+],
+"lead_days_min": -120.042,
+"n": 1
+},
+{
+"first": "2007d",
+"first_date": "2007-03-20",
+"t": 1173589200,
+"when": "2007-03-11 05:00",
+"zones": [
+"America/Havana"
+],
+"lead_days_min": -8.792,
+"n": 1
+},
+{
+"first": "2007e",
+"first_date": "2007-04-02",
+"t": 1175205600,
+"when": "2007-03-29 22:00",
+"zones": [
+"Asia/Damascus"
+],
+"lead_days_min": -3.083,
+"n": 1
+},
+{
+"first": "2007f",
+"first_date": "2007-05-07",
+"t": 1173596400,
+"when": "2007-03-11 07:00",
+"zones": [
+"America/Grand_Turk"
+],
+"lead_days_min": -56.708,
+"n": 1
+},
+{
+"first": "2007g",
+"first_date": "2007-08-20",
+"t": 1189112400,
+"when": "2007-09-06 21:00",
+"zones": [
+"Africa/Cairo"
+],
+"lead_days_min": 17.875,
+"n": 1
+},
+{
+"first": "2007h",
+"first_date": "2007-10-01",
+"t": 1189638000,
+"when": "2007-09-12 23:00",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": -18.042,
+"n": 1
+},
+{
+"first": "2007h",
+"first_date": "2007-10-01",
+"t": 1192334400,
+"when": "2007-10-14 04:00",
+"zones": [
+"America/Campo_Grande"
+],
+"lead_days_min": 13.167,
+"n": 1
+},
+{
+"first": "2007i",
+"first_date": "2007-10-30",
+"t": 1193950800,
+"when": "2007-11-01 21:00",
+"zones": [
+"Asia/Damascus"
+],
+"lead_days_min": 2.875,
+"n": 1
+},
+{
+"first": "2007j",
+"first_date": "2007-12-03",
+"t": 1197183600,
+"when": "2007-12-09 07:00",
+"zones": [
+"America/Caracas"
+],
+"lead_days_min": 6.292,
+"n": 1
+},
+{
+"first": "2007k",
+"first_date": "2007-12-31",
+"t": 1198983600,
+"when": "2007-12-30 03:00",
+"zones": [
+"America/Argentina/Buenos_Aires",
+"America/Argentina/Cordoba",
+"America/Argentina/Tucuman",
+"America/Argentina/La_Rioja",
+"America/Argentina/San_Juan",
+"America/Argentina/Jujuy",
+"America/Argentina/Catamarca",
+"America/Argentina/Mendoza",
+"America/Argentina/Rio_Gallegos",
+"America/Argentina/Ushuaia"
+],
+"lead_days_min": -0.875,
+"n": 10
+},
+{
+"first": "2008a",
+"first_date": "2008-03-08",
+"t": 1206846000,
+"when": "2008-03-30 03:00",
+"zones": [
+"America/Santiago",
+"Pacific/Easter"
+],
+"lead_days_min": 22.125,
+"n": 2
+},
+{
+"first": "2008b",
+"first_date": "2008-03-24",
+"t": 1207260000,
+"when": "2008-04-03 22:00",
+"zones": [
+"Asia/Damascus"
+],
+"lead_days_min": 10.917,
+"n": 1
+},
+{
+"first": "2008c",
+"first_date": "2008-05-19",
+"t": 1212260400,
+"when": "2008-05-31 19:00",
+"zones": [
+"Asia/Karachi",
+"Africa/Casablanca"
+],
+"lead_days_min": 12.792,
+"n": 2
+},
+{
+"first": "2008d",
+"first_date": "2008-07-07",
+"t": 1214283600,
+"when": "2008-06-24 05:00",
+"zones": [
+"America/Eirunepe",
+"America/Rio_Branco"
+],
+"lead_days_min": -12.792,
+"n": 2
+},
+{
+"first": "2008f",
+"first_date": "2008-09-09",
+"t": 1220223600,
+"when": "2008-08-31 23:00",
+"zones": [
+"Africa/Casablanca"
+],
+"lead_days_min": -8.042,
+"n": 1
+},
+{
+"first": "2008h",
+"first_date": "2008-10-13",
+"t": 1225486800,
+"when": "2008-10-31 21:00",
+"zones": [
+"Asia/Damascus"
+],
+"lead_days_min": 18.875,
+"n": 1
+},
+{
+"first": "2009e",
+"first_date": "2009-04-06",
+"t": 1238104800,
+"when": "2009-03-26 22:00",
+"zones": [
+"Asia/Amman",
+"Asia/Gaza"
+],
+"lead_days_min": -10.083,
+"n": 2
+},
+{
+"first": "2009f",
+"first_date": "2009-04-10",
+"t": 1239735600,
+"when": "2009-04-14 19:00",
+"zones": [
+"Asia/Karachi"
+],
+"lead_days_min": 4.792,
+"n": 1
+},
+{
+"first": "2009j",
+"first_date": "2009-06-15",
+"t": 1245430800,
+"when": "2009-06-19 17:00",
+"zones": [
+"Asia/Dhaka"
+],
+"lead_days_min": 4.708,
+"n": 1
+},
+{
+"first": "2009l",
+"first_date": "2009-08-14",
+"t": 1250802000,
+"when": "2009-08-20 21:00",
+"zones": [
+"Africa/Cairo"
+],
+"lead_days_min": 6.875,
+"n": 1
+},
+{
+"first": "2009p",
+"first_date": "2009-10-23",
+"t": 1236481200,
+"when": "2009-03-08 03:00",
+"zones": [
+"America/Argentina/San_Luis"
+],
+"lead_days_min": -228.875,
+"n": 1
+},
+{
+"first": "2009p",
+"first_date": "2009-10-23",
+"t": 1255233600,
+"when": "2009-10-11 04:00",
+"zones": [
+"America/Argentina/San_Luis"
+],
+"lead_days_min": -11.833,
+"n": 1
+},
+{
+"first": "2009q",
+"first_date": "2009-11-02",
+"t": 1256850000,
+"when": "2009-10-29 21:00",
+"zones": [
+"Asia/Damascus"
+],
+"lead_days_min": -3.125,
+"n": 1
+},
+{
+"first": "2009r",
+"first_date": "2009-11-09",
+"t": 1255802400,
+"when": "2009-10-17 18:00",
+"zones": [
+"Antarctica/Casey",
+"Antarctica/Davis",
+"Antarctica/Mawson"
+],
+"lead_days_min": -22.25,
+"n": 3
+},
+{
+"first": "2009s",
+"first_date": "2009-11-14",
+"t": 1259416800,
+"when": "2009-11-28 14:00",
+"zones": [
+"Pacific/Fiji"
+],
+"lead_days_min": 14.583,
+"n": 1
+},
+{
+"first": "2010d",
+"first_date": "2010-03-06",
+"t": 1269698400,
+"when": "2010-03-27 14:00",
+"zones": [
+"Pacific/Fiji"
+],
+"lead_days_min": 21.583,
+"n": 1
+},
+{
+"first": "2010d",
+"first_date": "2010-03-06",
+"t": 1270350000,
+"when": "2010-04-04 03:00",
+"zones": [
+"America/Santiago",
+"Pacific/Easter"
+],
+"lead_days_min": 29.125,
+"n": 2
+},
+{
+"first": "2010f",
+"first_date": "2010-03-22",
+"t": 1267714800,
+"when": "2010-03-04 15:00",
+"zones": [
+"Antarctica/Casey"
+],
+"lead_days_min": -17.375,
+"n": 1
+},
+{
+"first": "2010f",
+"first_date": "2010-03-22",
+"t": 1268251200,
+"when": "2010-03-10 20:00",
+"zones": [
+"Antarctica/Davis"
+],
+"lead_days_min": -11.167,
+"n": 1
+},
+{
+"first": "2010g",
+"first_date": "2010-03-24",
+"t": 1269640860,
+"when": "2010-03-26 22:01",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": 2.917,
+"n": 1
+},
+{
+"first": "2010i",
+"first_date": "2010-04-16",
+"t": 1272758400,
+"when": "2010-05-02 00:00",
+"zones": [
+"Africa/Casablanca"
+],
+"lead_days_min": 16.0,
+"n": 1
+},
+{
+"first": "2010k",
+"first_date": "2010-07-26",
+"t": 1270371600,
+"when": "2010-04-04 09:00",
+"zones": [
+"America/Bahia_Banderas"
+],
+"lead_days_min": -112.625,
+"n": 1
+},
+{
+"first": "2010k",
+"first_date": "2010-07-26",
+"t": 1281474000,
+"when": "2010-08-10 21:00",
+"zones": [
+"Africa/Cairo"
+],
+"lead_days_min": 15.875,
+"n": 1
+},
+{
+"first": "2010l",
+"first_date": "2010-08-16",
+"t": 1281474000,
+"when": "2010-08-10 21:00",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": -5.125,
+"n": 1
+},
+{
+"first": "2010l",
+"first_date": "2010-08-16",
+"t": 1284069600,
+"when": "2010-09-09 22:00",
+"zones": [
+"Africa/Cairo"
+],
+"lead_days_min": 24.917,
+"n": 1
+},
+{
+"first": "2011d",
+"first_date": "2011-03-14",
+"t": 1301274000,
+"when": "2011-03-28 01:00",
+"zones": [
+"Europe/Istanbul"
+],
+"lead_days_min": 14.042,
+"n": 1
+},
+{
+"first": "2011d",
+"first_date": "2011-03-14",
+"t": 1301752800,
+"when": "2011-04-02 14:00",
+"zones": [
+"Pacific/Apia"
+],
+"lead_days_min": 19.583,
+"n": 1
+},
+{
+"first": "2011e",
+"first_date": "2011-03-31",
+"t": 1301788800,
+"when": "2011-04-03 00:00",
+"zones": [
+"Africa/Casablanca"
+],
+"lead_days_min": 3.0,
+"n": 1
+},
+{
+"first": "2011i",
+"first_date": "2011-08-29",
+"t": 1289113200,
+"when": "2010-11-07 07:00",
+"zones": [
+"America/Resolute"
+],
+"lead_days_min": -294.708,
+"n": 1
+},
+{
+"first": "2011i",
+"first_date": "2011-08-29",
+"t": 1300003200,
+"when": "2011-03-13 08:00",
+"zones": [
+"America/Resolute"
+],
+"lead_days_min": -168.667,
+"n": 1
+},
+{
+"first": "2011j",
+"first_date": "2011-09-12",
+"t": 1316872800,
+"when": "2011-09-24 14:00",
+"zones": [
+"Pacific/Apia"
+],
+"lead_days_min": 12.583,
+"n": 1
+},
+{
+"first": "2011k",
+"first_date": "2011-09-20",
+"t": 1312146000,
+"when": "2011-07-31 21:00",
+"zones": [
+"Asia/Gaza"
+],
+"lead_days_min": -50.125,
+"n": 1
+},
+{
+"first": "2011l",
+"first_date": "2011-10-10",
+"t": 1319292000,
+"when": "2011-10-22 14:00",
+"zones": [
+"Pacific/Fiji"
+],
+"lead_days_min": 12.583,
+"n": 1
+},
+{
+"first": "2011m",
+"first_date": "2011-10-24",
+"t": 1318734000,
+"when": "2011-10-16 03:00",
+"zones": [
+"America/Bahia"
+],
+"lead_days_min": -7.875,
+"n": 1
+},
+{
+"first": "2011n",
+"first_date": "2011-10-30",
+"t": 1321160400,
+"when": "2011-11-13 05:00",
+"zones": [
+"America/Havana"
+],
+"lead_days_min": 14.208,
+"n": 1
+},
+{
+"first": "2012a",
+"first_date": "2012-03-01",
+"t": 1304823600,
+"when": "2011-05-08 03:00",
+"zones": [
+"Antarctica/Palmer"
+],
+"lead_days_min": -297.875,
+"n": 1
+},
+{
+"first": "2012a",
+"first_date": "2012-03-01",
+"t": 1313899200,
+"when": "2011-08-21 04:00",
+"zones": [
+"Antarctica/Palmer"
+],
+"lead_days_min": -192.833,
+"n": 1
+},
+{
+"first": "2012a",
+"first_date": "2012-03-01",
+"t": 1319738400,
+"when": "2011-10-27 18:00",
+"zones": [
+"Antarctica/Casey",
+"Antarctica/Davis"
+],
+"lead_days_min": -125.25,
+"n": 2
+},
+{
+"first": "2012a",
+"first_date": "2012-03-01",
+"t": 1329843600,
+"when": "2012-02-21 17:00",
+"zones": [
+"Antarctica/Casey",
+"Antarctica/Davis"
+],
+"lead_days_min": -8.292,
+"n": 2
+},
+{
+"first": "2012c",
+"first_date": "2012-03-27",
+"t": 1331449200,
+"when": "2012-03-11 07:00",
+"zones": [
+"America/Port-au-Prince"
+],
+"lead_days_min": -15.708,
+"n": 1
+},
+{
+"first": "2012c",
+"first_date": "2012-03-27",
+"t": 1333058400,
+"when": "2012-03-29 22:00",
+"zones": [
+"Asia/Hebron"
+],
+"lead_days_min": 2.917,
+"n": 1
+},
+{
+"first": "2012d",
+"first_date": "2012-07-19",
+"t": 1342749600,
+"when": "2012-07-20 02:00",
+"zones": [
+"Africa/Casablanca"
+],
+"lead_days_min": 1.083,
+"n": 1
+},
+{
+"first": "2012e",
+"first_date": "2012-08-02",
+"t": 1325242800,
+"when": "2011-12-30 11:00",
+"zones": [
+"Pacific/Fakaofo"
+],
+"lead_days_min": -215.542,
+"n": 1
+},
+{
+"first": "2012g",
+"first_date": "2012-10-17",
+"t": 1348178400,
+"when": "2012-09-20 22:00",
+"zones": [
+"Asia/Hebron"
+],
+"lead_days_min": -26.083,
+"n": 1
+},
+{
+"first": "2012g",
+"first_date": "2012-10-17",
+"t": 1348927200,
+"when": "2012-09-29 14:00",
+"zones": [
+"Pacific/Apia"
+],
+"lead_days_min": -17.417,
+"n": 1
+},
+{
+"first": "2012h",
+"first_date": "2012-10-26",
+"t": 1350788400,
+"when": "2012-10-21 03:00",
+"zones": [
+"America/Araguaina"
+],
+"lead_days_min": -4.875,
+"n": 1
+},
+{
+"first": "2012j",
+"first_date": "2012-11-12",
+"t": 1352505600,
+"when": "2012-11-10 00:00",
+"zones": [
+"Africa/Tripoli"
+],
+"lead_days_min": -2.0,
+"n": 1
+},
+{
+"first": "2013b",
+"first_date": "2013-03-10",
+"t": 1362898800,
+"when": "2013-03-10 07:00",
+"zones": [
+"America/Port-au-Prince"
+],
+"lead_days_min": 0.292,
+"n": 1
+},
+{
+"first": "2013b",
+"first_date": "2013-03-10",
+"t": 1364094000,
+"when": "2013-03-24 03:00",
+"zones": [
+"America/Asuncion"
+],
+"lead_days_min": 14.125,
+"n": 1
+},
+{
+"first": "2013c",
+"first_date": "2013-04-19",
+"t": 1364508000,
+"when": "2013-03-28 22:00",
+"zones": [
+"Asia/Hebron"
+],
+"lead_days_min": -21.083,
+"n": 1
+},
+{
+"first": "2013d",
+"first_date": "2013-07-05",
+"t": 1373162400,
+"when": "2013-07-07 02:00",
+"zones": [
+"Africa/Casablanca"
+],
+"lead_days_min": 2.083,
+"n": 1
+},
+{
+"first": "2013f",
+"first_date": "2013-09-24",
+"t": 1380229200,
+"when": "2013-09-26 21:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": 2.875,
+"n": 2
+},
+{
+"first": "2013g",
+"first_date": "2013-09-30",
+"t": 1382839200,
+"when": "2013-10-27 02:00",
+"zones": [
+"Africa/Casablanca"
+],
+"lead_days_min": 27.083,
+"n": 1
+},
+{
+"first": "2013h",
+"first_date": "2013-10-25",
+"t": 1367114400,
+"when": "2013-04-28 02:00",
+"zones": [
+"Africa/El_Aaiun"
+],
+"lead_days_min": -179.917,
+"n": 1
+},
+{
+"first": "2013h",
+"first_date": "2013-10-25",
+"t": 1373162400,
+"when": "2013-07-07 02:00",
+"zones": [
+"Africa/El_Aaiun"
+],
+"lead_days_min": -109.917,
+"n": 1
+},
+{
+"first": "2013h",
+"first_date": "2013-10-25",
+"t": 1376100000,
+"when": "2013-08-10 02:00",
+"zones": [
+"Africa/El_Aaiun"
+],
+"lead_days_min": -75.917,
+"n": 1
+},
+{
+"first": "2013h",
+"first_date": "2013-10-25",
+"t": 1382839200,
+"when": "2013-10-27 02:00",
+"zones": [
+"Africa/El_Aaiun"
+],
+"lead_days_min": 2.083,
+"n": 1
+},
+{
+"first": "2013h",
+"first_date": "2013-10-25",
+"t": 1384056000,
+"when": "2013-11-10 04:00",
+"zones": [
+"America/Eirunepe",
+"America/Rio_Branco"
+],
+"lead_days_min": 16.167,
+"n": 2
+},
+{
+"first": "2013i",
+"first_date": "2013-12-17",
+"t": 1387486800,
+"when": "2013-12-19 21:00",
+"zones": [
+"Asia/Amman"
+],
+"lead_days_min": 2.875,
+"n": 1
+},
+{
+"first": "2014a",
+"first_date": "2014-03-07",
+"t": 1390050000,
+"when": "2014-01-18 13:00",
+"zones": [
+"Pacific/Fiji"
+],
+"lead_days_min": -47.458,
+"n": 1
+},
+{
+"first": "2014a",
+"first_date": "2014-03-07",
+"t": 1396227600,
+"when": "2014-03-31 01:00",
+"zones": [
+"Europe/Istanbul"
+],
+"lead_days_min": 24.042,
+"n": 1
+},
+{
+"first": "2014c",
+"first_date": "2014-05-13",
+"t": 1400191200,
+"when": "2014-05-15 22:00",
+"zones": [
+"Africa/Cairo"
+],
+"lead_days_min": 2.917,
+"n": 1
+},
+{
+"first": "2014e",
+"first_date": "2014-06-12",
+"t": 1403816400,
+"when": "2014-06-26 21:00",
+"zones": [
+"Africa/Cairo",
+"Africa/Casablanca",
+"Africa/El_Aaiun"
+],
+"lead_days_min": 14.875,
+"n": 3
+},
+{
+"first": "2015a",
+"first_date": "2015-01-29",
+"t": 1422777600,
+"when": "2015-02-01 08:00",
+"zones": [
+"America/Cancun"
+],
+"lead_days_min": 3.333,
+"n": 1
+},
+{
+"first": "2015b",
+"first_date": "2015-03-19",
+"t": 1414098000,
+"when": "2014-10-23 21:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": -146.125,
+"n": 2
+},
+{
+"first": "2015b",
+"first_date": "2015-03-19",
+"t": 1427493600,
+"when": "2015-03-27 22:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": 8.917,
+"n": 2
+},
+{
+"first": "2015e",
+"first_date": "2015-06-13",
+"t": 1434247200,
+"when": "2015-06-14 02:00",
+"zones": [
+"Africa/Casablanca",
+"Africa/El_Aaiun"
+],
+"lead_days_min": 1.083,
+"n": 2
+},
+{
+"first": "2015f",
+"first_date": "2015-08-10",
+"t": 1439564400,
+"when": "2015-08-14 15:00",
+"zones": [
+"Asia/Pyongyang"
+],
+"lead_days_min": 4.625,
+"n": 1
+},
+{
+"first": "2015g",
+"first_date": "2015-10-01",
+"t": 1443882600,
+"when": "2015-10-03 14:30",
+"zones": [
+"Pacific/Norfolk"
+],
+"lead_days_min": 2.604,
+"n": 1
+},
+{
+"first": "2016a",
+"first_date": "2016-01-26",
+"t": 1446372000,
+"when": "2015-11-01 10:00",
+"zones": [
+"America/Metlakatla"
+],
+"lead_days_min": -85.583,
+"n": 1
+},
+{
+"first": "2016b",
+"first_date": "2016-03-12",
+"t": 1458946800,
+"when": "2016-03-25 23:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": 13.958,
+"n": 2
+},
+{
+"first": "2016d",
+"first_date": "2016-04-17",
+"t": 1461427200,
+"when": "2016-04-23 16:00",
+"zones": [
+"Asia/Magadan"
+],
+"lead_days_min": 6.667,
+"n": 1
+},
+{
+"first": "2016d",
+"first_date": "2016-04-17",
+"t": 1462086000,
+"when": "2016-05-01 07:00",
+"zones": [
+"America/Caracas"
+],
+"lead_days_min": 14.292,
+"n": 1
+},
+{
+"first": "2016f",
+"first_date": "2016-07-05",
+"t": 1469304000,
+"when": "2016-07-23 20:00",
+"zones": [
+"Asia/Novosibirsk"
+],
+"lead_days_min": 18.833,
+"n": 1
+},
+{
+"first": "2016h",
+"first_date": "2016-10-19",
+"t": 1477692000,
+"when": "2016-10-28 22:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": 9.917,
+"n": 2
+},
+{
+"first": "2016i",
+"first_date": "2016-11-01",
+"t": 1477065600,
+"when": "2016-10-21 16:00",
+"zones": [
+"Antarctica/Casey"
+],
+"lead_days_min": -10.333,
+"n": 1
+},
+{
+"first": "2017c",
+"first_date": "2017-10-20",
+"t": 1509238800,
+"when": "2017-10-29 01:00",
+"zones": [
+"Asia/Famagusta"
+],
+"lead_days_min": 9.042,
+"n": 1
+},
+{
+"first": "2017c",
+"first_date": "2017-10-20",
+"t": 1509483600,
+"when": "2017-10-31 21:00",
+"zones": [
+"Africa/Khartoum"
+],
+"lead_days_min": 11.875,
+"n": 1
+},
+{
+"first": "2018d",
+"first_date": "2018-03-22",
+"t": 1520701200,
+"when": "2018-03-10 17:00",
+"zones": [
+"Antarctica/Casey"
+],
+"lead_days_min": -11.292,
+"n": 1
+},
+{
+"first": "2018d",
+"first_date": "2018-03-22",
+"t": 1521846000,
+"when": "2018-03-23 23:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": 1.958,
+"n": 2
+},
+{
+"first": "2018f",
+"first_date": "2018-10-18",
+"t": 1525446000,
+"when": "2018-05-04 15:00",
+"zones": [
+"Asia/Pyongyang"
+],
+"lead_days_min": -166.375,
+"n": 1
+},
+{
+"first": "2018f",
+"first_date": "2018-10-18",
+"t": 1540681200,
+"when": "2018-10-27 23:00",
+"zones": [
+"Europe/Volgograd"
+],
+"lead_days_min": 9.958,
+"n": 1
+},
+{
+"first": "2018h",
+"first_date": "2018-12-23",
+"t": 1545328800,
+"when": "2018-12-20 18:00",
+"zones": [
+"Asia/Qyzylorda"
+],
+"lead_days_min": -2.25,
+"n": 1
+},
+{
+"first": "2018i",
+"first_date": "2018-12-30",
+"t": 1546304400,
+"when": "2019-01-01 01:00",
+"zones": [
+"Africa/Sao_Tome"
+],
+"lead_days_min": 2.042,
+"n": 1
+},
+{
+"first": "2019a",
+"first_date": "2019-03-25",
+"t": 1547978400,
+"when": "2019-01-20 10:00",
+"zones": [
+"America/Metlakatla"
+],
+"lead_days_min": -63.583,
+"n": 1
+},
+{
+"first": "2019c",
+"first_date": "2019-09-11",
+"t": 1570287600,
+"when": "2019-10-05 15:00",
+"zones": [
+"Pacific/Norfolk"
+],
+"lead_days_min": 24.625,
+"n": 1
+},
+{
+"first": "2020b",
+"first_date": "2020-10-06",
+"t": 1583596800,
+"when": "2020-03-07 16:00",
+"zones": [
+"Antarctica/Casey"
+],
+"lead_days_min": -212.333,
+"n": 1
+},
+{
+"first": "2020b",
+"first_date": "2020-10-06",
+"t": 1586016000,
+"when": "2020-04-04 16:00",
+"zones": [
+"Antarctica/Macquarie"
+],
+"lead_days_min": -184.333,
+"n": 1
+},
+{
+"first": "2020b",
+"first_date": "2020-10-06",
+"t": 1601740800,
+"when": "2020-10-03 16:00",
+"zones": [
+"Antarctica/Macquarie",
+"Antarctica/Casey"
+],
+"lead_days_min": -2.333,
+"n": 2
+},
+{
+"first": "2020d",
+"first_date": "2020-10-21",
+"t": 1572037200,
+"when": "2019-10-25 21:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": -361.125,
+"n": 2
+},
+{
+"first": "2020d",
+"first_date": "2020-10-21",
+"t": 1603490400,
+"when": "2020-10-23 22:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": 2.917,
+"n": 2
+},
+{
+"first": "2020e",
+"first_date": "2020-12-22",
+"t": 1609020000,
+"when": "2020-12-26 22:00",
+"zones": [
+"Europe/Volgograd"
+],
+"lead_days_min": 4.917,
+"n": 1
+},
+{
+"first": "2021a",
+"first_date": "2021-01-24",
+"t": 1612126800,
+"when": "2021-01-31 21:00",
+"zones": [
+"Africa/Juba"
+],
+"lead_days_min": 7.875,
+"n": 1
+},
+{
+"first": "2021e",
+"first_date": "2021-10-21",
+"t": 1635458400,
+"when": "2021-10-28 22:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": 7.917,
+"n": 2
+},
+{
+"first": "2022a",
+"first_date": "2022-03-15",
+"t": 1648332000,
+"when": "2022-03-26 22:00",
+"zones": [
+"Asia/Gaza",
+"Asia/Hebron"
+],
+"lead_days_min": 11.917,
+"n": 2
+},
+{
+"first": "2023d",
+"first_date": "2023-12-21",
+"t": 1678291200,
+"when": "2023-03-08 16:00",
+"zones": [
+"Antarctica/Casey"
+],
+"lead_days_min": -287.333,
+"n": 1
+},
+{
+"first": "2024a",
+"first_date": "2024-02-01",
+"t": 1709229600,
+"when": "2024-02-29 18:00",
+"zones": [
+"Asia/Almaty",
+"Asia/Qostanay"
+],
+"lead_days_min": 28.75,
+"n": 2
+}
+],
+"events_late": 122,
+"past_rewritten_by_first_release_year": {
+"2002": 26,
+"2020": 23,
+"2005": 23,
+"2013": 20,
+"1999": 18,
+"2007": 18,
+"2003": 17,
+"2016": 16,
+"2000": 13,
+"2009": 12,
+"2001": 11,
+"2004": 10,
+"2011": 7,
+"1998": 4,
+"2023": 4,
+"2006": 4,
+"2012": 2
+},
+"late_news_lead_median": -59.083
+}

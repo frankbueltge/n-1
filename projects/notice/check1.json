@@ -1,0 +1,127 @@
+{
+ "n": 12,
+ "holds": 8,
+ "P11": false,
+ "rows": [
+  {
+   "zone": "America/Goose_Bay",
+   "t": 923198460,
+   "offset": -10800,
+   "prev_release": "2000f",
+   "first": "2000g",
+   "offset_prev_release": -14400,
+   "offset_first": -10800,
+   "holds": true
+  },
+  {
+   "zone": "America/Grand_Turk",
+   "t": 1112511600,
+   "offset": -14400,
+   "prev_release": "2007e",
+   "first": "2007f",
+   "offset_prev_release": -14400,
+   "offset_first": -14400,
+   "holds": false
+  },
+  {
+   "zone": "Antarctica/Macquarie",
+   "t": 1443888000,
+   "offset": 39600,
+   "prev_release": "2020a",
+   "first": "2020b",
+   "offset_prev_release": null,
+   "offset_first": 39600,
+   "holds": true
+  },
+  {
+   "zone": "Europe/Chisinau",
+   "t": 1035676800,
+   "offset": 7200,
+   "prev_release": "2015e",
+   "first": "2015f",
+   "offset_prev_release": 10800,
+   "offset_first": 7200,
+   "holds": true
+  },
+  {
+   "zone": "Africa/El_Aaiun",
+   "t": 1376100000,
+   "offset": 3600,
+   "prev_release": "2013g",
+   "first": "2013h",
+   "offset_prev_release": null,
+   "offset_first": 3600,
+   "holds": true
+  },
+  {
+   "zone": "Asia/Amman",
+   "t": 1001628000,
+   "offset": 7200,
+   "prev_release": "2009d",
+   "first": "2009e",
+   "offset_prev_release": 7200,
+   "offset_first": 7200,
+   "holds": false
+  },
+  {
+   "zone": "America/Cuiaba",
+   "t": 970977600,
+   "offset": -10800,
+   "prev_release": "2000f",
+   "first": "2000g",
+   "offset_prev_release": -10800,
+   "offset_first": -10800,
+   "holds": false
+  },
+  {
+   "zone": "America/Guatemala",
+   "t": 1146376800,
+   "offset": -18000,
+   "prev_release": "2006d",
+   "first": "2006f",
+   "offset_prev_release": null,
+   "offset_first": -18000,
+   "holds": true
+  },
+  {
+   "zone": "Asia/Gaza",
+   "t": 1252015200,
+   "offset": 7200,
+   "prev_release": "2013b",
+   "first": "2013c",
+   "offset_prev_release": 10800,
+   "offset_first": 7200,
+   "holds": true
+  },
+  {
+   "zone": "Asia/Aqtobe",
+   "t": 1004216400,
+   "offset": 18000,
+   "prev_release": "2001d",
+   "first": "2002b",
+   "offset_prev_release": 18000,
+   "offset_first": 18000,
+   "holds": false
+  },
+  {
+   "zone": "Asia/Qyzylorda",
+   "t": 1048971600,
+   "offset": 21600,
+   "prev_release": "2016c",
+   "first": "2016d",
+   "offset_prev_release": 25200,
+   "offset_first": 21600,
+   "holds": true
+  },
+  {
+   "zone": "America/Argentina/Mendoza",
+   "t": 1096171200,
+   "offset": -10800,
+   "prev_release": "2004d",
+   "first": "2004e",
+   "offset_prev_release": -14400,
+   "offset_first": -10800,
+   "holds": true
+  }
+ ]
+}
