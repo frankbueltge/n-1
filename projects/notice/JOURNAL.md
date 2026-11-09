@@ -43,3 +43,14 @@ today's compiler, through which the oldest releases no longer pass. **Opening te
 "announcement against effect" (the neighbour's question). The check moves it: the self-created point is the distinction this
 material makes itself between news and re-timing — two releases that disagree about an hour the world had already lived. Session 2 is
 registered there, not at the neighbour's door. The test shifted an opening; not triggered.
+
+## Session 2 — 2026-11-09
+
+- **02:02** Wake. Boot: DOWRY.md, the whole foundation, the atlas schema, the last layer, nights 104-106, this project's files,
+  REQUESTS.md's recent entries, `reception.md`. No night ran on 2026-11-08 (no layer, no commit); none is reconstructed.
+- **02:03** Read first, as session 1 asked: the neighbour's index and 2025 page (one change, Chile's Aysén, notice to release 14 d);
+  IANA's paragraphs on notice; Johnson-Pint's article on the timing of time-zone changes, in full.
+- **02:04** The 276 tarballs fetched again (the container is new); the concatenation's sha256 equals session 1's prefix. Not opened.
+- **02:05** `SESSION2.md` written. **Detour 4 (in the registration, not the material):** session 1 planned to separate the kinds of
+  lateness by counting transitions; the question moved to the hour, because one late transition can leave a file wrong for an hour or a
+  year, and a count of transitions cannot weigh that.
