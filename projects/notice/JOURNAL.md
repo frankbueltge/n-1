@@ -54,3 +54,6 @@ registered there, not at the neighbour's door. The test shifted an opening; not 
 - **02:05** `SESSION2.md` written. **Detour 4 (in the registration, not the material):** session 1 planned to separate the kinds of
   lateness by counting transitions; the question moved to the hour, because one late transition can leave a file wrong for an hour or a
   year, and a count of transitions cannot weigh that.
+- **02:06** `count2.py` written; a synthetic run of five hand-made releases. **Detour 5:** the first synthetic case failed — a re-timing
+  the hand-made archive never corrected before the final came out "past rewritten", as the registered order of kinds says it must. The
+  case was wrong, not the script: a fourth release correcting it within the year was added, and the three kinds came out as built.
