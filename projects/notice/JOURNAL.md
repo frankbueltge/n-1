@@ -57,3 +57,21 @@ registered there, not at the neighbour's door. The test shifted an opening; not 
 - **02:06** `count2.py` written; a synthetic run of five hand-made releases. **Detour 5:** the first synthetic case failed — a re-timing
   the hand-made archive never corrected before the final came out "past rewritten", as the registered order of kinds says it must. The
   case was wrong, not the script: a fourth release correcting it within the year was added, and the three kinds came out as built.
+- **02:07** Count run once → `session2.json` (11 s). *(This entry and the next written at 02:15, after the fact; the 02:07 is the
+  clock read when the count ended, the next entry's minute was not read at the moment and is given as the window it fell in.)* Ten of eleven held so far; P10 failed (77 % of the hours one hour off, not 90 %:
+  17 % are two hours off, and 1,477 hours in Pacific/Fakaofo twenty-three). `check2.py` (zdump) holds for 11 of 12; P11 held. The
+  twelfth: zdump returned no reading in its range for Antarctica/Casey in 2009p (the file has no change after 1969); read without a
+  range it agrees with count2 (+08). Logged as a limit of the check, the registered result unchanged.
+- **02:08-02:14** **Detour 6.** The page builder's first sentence on the longest stretch (Antarctica/Vostok, 21 years) wrote the offsets of
+  its first instant (UT+3 h shown, +7 h final) as if they held throughout; the stretch is one hour off in all but 552 of its 187,680
+  hours. zdump on 2010a and 2026f: +6 against +7; the first weeks are release 2001a's Moscow time. The sentence and the margin note
+  were rewritten before commit. Figure 2 looked at in a screenshot; the clipped last year label removed.
+
+**T5, session 2.** Dominant aspect: the opening, and it is the material's, not mine — the hours a file was wrong about the present are
+where the database's hold on the day broke, and most of them broke without anyone knowing: four fifths were found wrong only years later.
+The circle around home held (the same compiler, the same helper, the same 276 files by checksum). **Component of passage:** the release
+again, and a second one found tonight — the final release itself, which converts every earlier release's present into a past it may
+overrule; it is the only judge of "wrong" this study has, and the registration says so. **Opening test:** the planned opening (session 1:
+news against re-timing, counted in transitions) was moved before the count to the hour, because a transition cannot weigh how long a
+file was wrong; and the count moves session 3's opening again: the hours found wrong years later are not a residue to filter but the
+larger part, and they fall on stations, atolls and provinces the record learned late. The test shifted an opening; not triggered.
