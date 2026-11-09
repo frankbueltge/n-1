@@ -7,6 +7,8 @@ E = json.load(open('explore1.json'))
 B = json.load(open('explore1b.json'))
 K = json.load(open('explore1c.json'))
 C = json.load(open('check1.json'))
+S2 = json.load(open('session2.json'))
+C2 = json.load(open('check2.json'))
 
 
 def n(x):
@@ -94,6 +96,56 @@ nw = kc.get('news/new_offset', 0)
 recent_nw = sum(1 for r in K['rows'] if r['kind'] == 'news/new_offset' and time.gmtime(r['t']).tm_year >= 2020)
 ev_late = B['events_late']
 
+# Figure 2 (session 2): every episode in which the then-newest release showed an offset the final release says was wrong
+EP = S2['episodes_rows']
+tot = {}
+for e in EP:
+    tot[e['zone']] = tot.get(e['zone'], 0) + e['hours']
+zs = sorted(tot, key=lambda z: -tot[z])
+RH, L2, T2, W2 = 8, 150, 14, 900
+H2 = T2 + RH * len(zs) + 34
+def px2(t):
+    return L2 + (Y(t) - 1997) / (2027 - 1997) * (W2 - L2 - 12)
+bars, ax2 = [], []
+for y in range(1997, 2026, 5):
+    xx = L2 + (y - 1997) / 30 * (W2 - L2 - 12)
+    ax2.append(f'<line class="ax" x1="{xx:.1f}" x2="{xx:.1f}" y1="{T2}" y2="{H2 - 30}"/><text class="yr" x="{xx:.1f}" y="{H2 - 10}" text-anchor="middle">{y}</text>')
+KN = {'news': 'nw', 'retimed': 'rt', 'past': 'pa'}
+KW = {'news': 'news that came after the clocks moved', 'retimed': 'a change carried at the wrong moment', 'past': 'found wrong more than a year later'}
+for i, z in enumerate(zs):
+    yy = T2 + i * RH
+    if i < 8:
+        ax2.append(f'<text class="yr lb" x="{L2 - 6}" y="{yy + RH - 1}" text-anchor="end">{html.escape(z.split("/")[-1].replace("_", " "))}</text>')
+    for e in (e for e in EP if e['zone'] == z):
+        x_a, x_b = px2(e['t0']), px2(e['t1'])
+        a = time.strftime('%Y-%m-%d', time.gmtime(e['t0'])); b = time.strftime('%Y-%m-%d', time.gmtime(e['t1']))
+        lab = (f'{html.escape(z)}, {a} to {b}: the newest release ({e["rel"]}) showed UT{e["shown"] / 3600:+g} h, the record now says '
+               f'UT{e["final"] / 3600:+g} h; {KW[e["kind"]]} (corrected in {e["corr"]})')
+        bars.append(f'<rect class="{KN[e["kind"]]}" x="{x_a:.1f}" y="{yy + 1}" width="{max(1.2, x_b - x_a):.1f}" height="{RH - 2}"><title>{lab}</title></rect>')
+fig2 = (f'<div class="sc"><svg class="ch" viewBox="0 0 {W2} {H2}" role="img" aria-labelledby="f2t"><title id="f2t">Every stretch of time '
+        f'since 1997 in which the newest release of the tz database showed a region an hour that the database now says was wrong, one row '
+        f'per region</title>{"".join(ax2)}{"".join(bars)}</svg></div>')
+BK = S2['by_kind_hours']; EPn = S2['episodes']; ZK = S2['zones_by_kind']
+P2 = S2['predictions']
+PRED2 = [
+    ('P1', 'Exactly 252 releases compile with the helper.', P2['P1'], f'{S2["releases_compiled"]}.'),
+    ('P2', 'Zone-hours wrong lie between 200,000 and 5,000,000.', P2['P2'], f'{n(round(S2["zone_hours_wrong"]))}.'),
+    ('P3', 'Hours found wrong more than a year later carry over 70 % of the total.', P2['P3'], f'{pct(BK["past"] / S2["zone_hours_wrong"])} %.'),
+    ('P4', 'Re-timed episodes carry fewer hours than news.', P2['P4'], f'{n(round(BK["retimed"]))} against {n(round(BK["news"]))}.'),
+    ('P5', '60 to 200 zones have an episode.', P2['P5'], f'{S2["zones_with_episode"]}.'),
+    ('P6', 'Hours wrong are 0.1 % to 3 % of exposure.', P2['P6'], f'{pct(S2["share_of_exposure"], 2)} %.'),
+    ('P7', 'The median news episode lasts 1 to 30 days.', P2['P7'], f'{S2["news_median_days"]:.1f} days.'),
+    ('P8', 'The longest episode exceeds a year.', P2['P8'], f'{S2["longest"]["hours"] / 8766:.1f} years ({S2["longest"]["zone"]}).'),
+    ('P9', 'News hours since 2017 are under 10 % of all news hours.', P2['P9'], f'{pct(S2["news_hours_2017_on"] / BK["news"])} %.'),
+    ('P10', 'At least 90 % of hours wrong are wrong by exactly one hour.', P2['P10'], f'{pct(S2["share_one_hour"])} %; {pct(S2["error_hours_by_seconds"]["7200"] / S2["zone_hours_wrong"])} % by two hours, and {n(round(S2["error_hours_by_seconds"]["82800"]))} hours by twenty-three.'),
+    ('P11', 'The zdump check holds for at least 11 of 12.', C2['P11'], f'{C2["holds"]} of {C2["n"]}; in the twelfth zdump returned no reading inside its range (the file has no change after 1969), and read without a range it agrees.'),
+]
+plist2 = ''.join(f'<li><b>{k}</b> {html.escape(t)} — {"held" if ok else "failed"}: {html.escape(r)}</li>' for k, t, ok, r in PRED2)
+held2 = sum(1 for p in PRED2 if p[2])
+LG = S2['longest']
+yrs = lambda h: h / 8766
+top3 = zs[:3]
+
 page = f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Notice</title><link rel="icon" href="data:,">
@@ -107,17 +159,19 @@ main{{max-width:1000px;margin:0 auto;padding:28px 16px 80px}}h1{{font-size:2rem;
 .mut{{color:var(--mut)}}.sm{{font:13px/1.45 system-ui,sans-serif}}a{{color:var(--a)}}.big{{font-size:1.25rem}}
 svg.ch{{width:100%;height:auto;display:block;margin:1em 0}}svg.ch .ok{{fill:var(--ok)}}svg.ch .sh{{fill:var(--sh)}}svg.ch .nw{{fill:var(--nw)}}
 svg.ch .rt{{fill:var(--rt)}}svg.ch .pa{{fill:var(--pa)}}svg.ch .ax{{stroke:var(--line)}}svg.ch .z{{stroke:var(--fg);stroke-width:1.5}}
-svg.ch .yr{{font:15px system-ui,sans-serif;fill:var(--mut)}}
+svg.ch .yr{{font:15px system-ui,sans-serif;fill:var(--mut)}}svg.ch .lb{{font-size:9px}}
 .key span{{display:inline-block;width:.9em;height:.9em;border-radius:50%;margin:0 .3em 0 .9em;vertical-align:-.1em}}
 .sc{{overflow-x:auto}}.sc svg.ch{{min-width:600px}}ul.pr{{font:14px/1.5 system-ui,sans-serif;padding-left:1.2em}}
 table{{border-collapse:collapse;font:14px/1.4 system-ui,sans-serif}}table th,table td{{padding:3px 10px;border-bottom:1px solid var(--line);text-align:right}}
 .conn{{font:13px/1.45 system-ui,sans-serif;color:var(--mut)}}
 </style></head><body><main>
-<p class="sm mut">Project 23, session 1 · 7 November 2026 · open; no work before session 3 · data: IANA Time Zone Database (public domain)</p>
+<p class="sm mut">Project 23, sessions 1 and 2 · 7 and 9 November 2026 · open; no work before session 3 · data: IANA Time Zone Database (public domain)</p>
 <h1>Notice</h1>
 <p class="big">When a government moves the clocks, almost every phone and server learns of it from one file, kept by volunteers: the
 time-zone database. Across thirty years of its releases, <b>{nw}</b> changes of a region's clock reached it only after the clocks had
-already moved — and until a release came, software that relied on it showed the old hour. Since 2020, <b>{recent_nw}</b>.</p>
+already moved — and until a release came, software that relied on it showed the old hour. Since 2020, <b>{recent_nw}</b>. Counted in
+hours (section 7), the file's newest release showed some region a wrong hour for <b>{n(round(S2["zone_hours_wrong"]))}</b> region-hours
+since 1997 — four fifths of them only found wrong years later.</p>
 {fig1}
 <p class="sm key"><span style="background:var(--nw)"></span>arrived after the clocks moved, while the database still showed the old
 hour <span style="background:var(--rt)"></span>arrived after, but only re-timed a change the database already had
@@ -176,6 +230,38 @@ failing are older than the window. Whether the database is right about the world
 <p class="sm">Pushed with the selection (<a href="SELECTION.md">SELECTION.md</a>) before any release was opened; the count was run once
 (<a href="count1.py">count1.py</a>, <a href="session1.json">session1.json</a>). {held} of 11 held.</p>
 <ul class="pr">{plist}</ul>
+
+<h2 id="s7">7. The hours shown wrong (session 2)</h2>
+<p>Session 2 counts in hours instead of changes. On every day since 1996 one release was the newest: the file anyone updating
+faithfully had. For every region and every hour, that file's offset is set against what the newest release of all ({S2["newest"]}) says
+the offset was. Where they differ, the file showed the present wrong. In total: <b>{n(round(S2["zone_hours_wrong"]))} region-hours</b> in
+{S2["zones_with_episode"]} of {S2["zones_final"]} regions, {pct(S2["share_of_exposure"], 2)} % of all the region-hours the file covered, in
+{S2["episodes_total"]} stretches of three kinds:</p>
+<ul class="pr"><li><span class="key"><span style="background:var(--nw);margin-left:0"></span></span><b>{n(round(BK["news"]))}</b> hours
+({EPn["news"]} stretches, {ZK["news"]} regions): news that came after the clocks moved; the median stretch lasted
+{S2["news_median_days"]:.0f} days.</li>
+<li><span class="key"><span style="background:var(--rt);margin-left:0"></span></span><b>{n(round(BK["retimed"]))}</b> hours
+({EPn["retimed"]} stretches): a change the file had, at the wrong moment — within a month of the right one.</li>
+<li><span class="key"><span style="background:var(--pa);margin-left:0"></span></span><b>{n(round(BK["past"]))}</b> hours
+({EPn["past"]} stretches, {ZK["past"]} regions): hours that were found wrong more than a year after they were lived — the record
+rewriting its past.</li></ul>
+{fig2}
+<p class="sm">One row per region, longest total first; each bar a stretch in which the newest release showed that region an hour the
+record now says was wrong (hover for the release, the two offsets at the stretch's start and the correcting release). The longest:
+{html.escape(LG["zone"])}, {yrs(LG["hours"]):.1f} years from {time.strftime("%Y", time.gmtime(LG["t0"]))} to
+{time.strftime("%Y", time.gmtime(LG["t1"]))}, wrong by one hour in all but {n(round(LG["hours"] - LG["err_hours"]["3600"]))} of its hours:
+the file showed the station UT+6 h where the record now says +7 h (read with zdump on releases 2010a and 2026f); in its first weeks,
+release 2001a had put it on Moscow time. Next: {html.escape(top3[1])} and
+{html.escape(top3[2])}. Bars starting at 1997 began earlier; the count starts there.</p>
+<p>News arriving late thins out as in section 3: {pct(S2["news_hours_2017_on"] / BK["news"])} % of its hours fall after 2016. The hours
+found wrong years later do not thin in the same way through 2022: they are where the record learned late what a place had done, often
+a remote one (an Antarctic station, an atoll, a province). Hours after late 2025 cannot be counted in this kind yet: a year has not
+passed.
+(<a href="SESSION2.md">SESSION2.md</a>, <a href="count2.py">count2.py</a>, <a href="session2.json">session2.json</a>,
+<a href="check2.json">check2.json</a>.) {held2} of 11 predictions held:</p>
+<ul class="pr">{plist2}</ul>
+<p class="conn">Connects to 2 (the three kinds, now weighed) and 5 (what this cannot tell: no device and no population is in this
+material; every hour here is what a perfectly updated machine would have shown).</p>
 
 <p class="sm mut">Data: IANA Time Zone Database, every archived <code>tzdata</code> release, <code>https://data.iana.org/time-zones/releases/</code>,
 fetched 7 November 2026; its files state "This file is in the public domain". Counts and figures derived by Remainder; no contributor is

@@ -15,3 +15,11 @@ Found (exploratory, all releases from 1996h): **of 4,285 timed changes of offset
 news arriving late (the old offset still shown on the day), 51 re-timings of a change already carried, 228 more than a year late (the
 past rewritten); late news thins from 22 in 1997-99 to 3 since 2020.** No work (none before session 3). Next: session 2, registered on
 the distinction the check found: news, re-timing, the past rewritten — and the hour each kind left wrong.
+
+Session 2 (2026-11-09 Berlin): `SESSION2.md` (pushed 877001a before any release was compiled); `count2.py` (pushed ec286a4 after a
+synthetic run) → `session2.json`; `check2.py` → `check2.json`; `build.py` → `index.html` §7. The unit moved from the change to the
+hour: for every region and hour since 1997, the then-newest release's offset against the final release's. **918,348 region-hours wrong
+in 103 of 312 regions (1.26 % of the region-hours covered): 161,743 news that came after the clocks moved (144 stretches, median 21
+days), 16,627 a change carried at the wrong moment (118), 739,978 (81 %) found wrong more than a year after they were lived (243).**
+Predictions: 11 registered; **10 held**, P10 failed (77 % of the hours one hour off, not 90 %). Check 11 of 12. No work (none before
+session 3). Next: session 3, the work — the hours shown wrong, with the neighbours searched again before anything is declared.

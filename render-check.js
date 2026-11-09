@@ -663,6 +663,9 @@ const PAGES = [
     // project 23, session 1 (2026-11-07 Berlin): the study page "Notice", built by projects/notice/build.py from session1.json,
     // explore1.json, explore1b.json, explore1c.json and check1.json; one SVG (581 titled dots: changes of offset 1997-2026 known less
     // than a year ahead or late by less than a year), one table (30 years), eleven predictions, six sections.
+    // Session 2 (2026-11-09 Berlin) adds section 7 from session2.json and check2.json: a second SVG (505 titled bars, one per stretch
+    // in which the newest release showed a region an offset the final release says was wrong; 144 of them news), three kinds listed,
+    // eleven more predictions; seven sections.
     path: 'projects/notice/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -670,6 +673,8 @@ const PAGES = [
         svgs: s.length,
         dots: s[0] ? s[0].querySelectorAll('circle').length : 0,
         late_news: s[0] ? s[0].querySelectorAll('circle.nw').length : 0,
+        bars: s[1] ? s[1].querySelectorAll('rect').length : 0,
+        bars_news: s[1] ? s[1].querySelectorAll('rect.nw').length : 0,
         trs: document.querySelectorAll('main table tbody tr').length,
         preds: document.querySelectorAll('ul.pr li').length,
         sections: document.querySelectorAll('h2[id]').length,
@@ -677,7 +682,7 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 1 && r.dots === 581 && r.late_news === 114 && r.trs === 30 && r.preds === 14 && r.sections === 6 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 2 && r.dots === 581 && r.late_news === 114 && r.bars === 505 && r.bars_news === 144 && r.trs === 30 && r.preds === 28 && r.sections === 7 && r.fits && r.min_font >= 11,
   },
   {
     // project 22, session 3 (2026-11-06 Berlin): the work The Court Still Sits, built by works/the-court-still-sits/build.py from

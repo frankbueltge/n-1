@@ -1,0 +1,139 @@
+{
+ "n": 12,
+ "holds": 11,
+ "P11": true,
+ "rows": [
+  {
+   "zone": "Asia/Amman",
+   "kind": "past",
+   "t_mid": 1112263200,
+   "current": "2005g",
+   "zdump_current": 10800,
+   "zdump_final": 7200,
+   "count2_shown": 10800,
+   "count2_final": 7200,
+   "holds": true
+  },
+  {
+   "zone": "Antarctica/Casey",
+   "kind": "news",
+   "t_mid": 1256763600,
+   "current": "2009p",
+   "zdump_current": null,
+   "zdump_final": 39600,
+   "count2_shown": 28800,
+   "count2_final": 39600,
+   "holds": false
+  },
+  {
+   "zone": "Europe/Chisinau",
+   "kind": "past",
+   "t_mid": 909268200,
+   "current": "1998i",
+   "zdump_current": 7200,
+   "zdump_final": 10800,
+   "count2_shown": 7200,
+   "count2_final": 10800,
+   "holds": true
+  },
+  {
+   "zone": "Asia/Hovd",
+   "kind": "past",
+   "t_mid": 1025289000,
+   "current": "2002c",
+   "zdump_current": 25200,
+   "zdump_final": 28800,
+   "count2_shown": 25200,
+   "count2_final": 28800,
+   "holds": true
+  },
+  {
+   "zone": "Europe/Istanbul",
+   "kind": "past",
+   "t_mid": 972777600,
+   "current": "2000g",
+   "zdump_current": 10800,
+   "zdump_final": 7200,
+   "count2_shown": 10800,
+   "count2_final": 7200,
+   "holds": true
+  },
+  {
+   "zone": "Asia/Tehran",
+   "kind": "past",
+   "t_mid": 874913400,
+   "current": "1997h",
+   "zdump_current": 16200,
+   "zdump_final": 12600,
+   "count2_shown": 16200,
+   "count2_final": 12600,
+   "holds": true
+  },
+  {
+   "zone": "Pacific/Fiji",
+   "kind": "retimed",
+   "t_mid": 1390051800,
+   "current": "2013i",
+   "zdump_current": 46800,
+   "zdump_final": 43200,
+   "count2_shown": 46800,
+   "count2_final": 43200,
+   "holds": true
+  },
+  {
+   "zone": "Asia/Hebron",
+   "kind": "retimed",
+   "t_mid": 1572039000,
+   "current": "2019c",
+   "zdump_current": 10800,
+   "zdump_final": 7200,
+   "count2_shown": 10800,
+   "count2_final": 7200,
+   "holds": true
+  },
+  {
+   "zone": "Asia/Amman",
+   "kind": "past",
+   "t_mid": 1097143200,
+   "current": "2004d",
+   "zdump_current": 7200,
+   "zdump_final": 10800,
+   "count2_shown": 7200,
+   "count2_final": 10800,
+   "holds": true
+  },
+  {
+   "zone": "Africa/Tripoli",
+   "kind": "past",
+   "t_mid": 859851000,
+   "current": "1997e",
+   "zdump_current": 7200,
+   "zdump_final": 3600,
+   "count2_shown": 7200,
+   "count2_final": 3600,
+   "holds": true
+  },
+  {
+   "zone": "America/Recife",
+   "kind": "news",
+   "t_mid": 1034559000,
+   "current": "2002c",
+   "zdump_current": -7200,
+   "zdump_final": -10800,
+   "count2_shown": -7200,
+   "count2_final": -10800,
+   "holds": true
+  },
+  {
+   "zone": "Europe/Sofia",
+   "kind": "retimed",
+   "t_mid": 922577400,
+   "current": "1999c",
+   "zdump_current": 10800,
+   "zdump_final": 7200,
+   "count2_shown": 10800,
+   "count2_final": 7200,
+   "holds": true
+  }
+ ]
+}
