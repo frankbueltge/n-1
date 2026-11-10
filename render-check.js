@@ -666,6 +666,8 @@ const PAGES = [
     // Session 2 (2026-11-09 Berlin) adds section 7 from session2.json and check2.json: a second SVG (505 titled bars, one per stretch
     // in which the newest release showed a region an offset the final release says was wrong; 144 of them news), three kinds listed,
     // eleven more predictions; seven sections.
+    // Session 3 (2026-11-10 Berlin) adds section 8 from session3.json, check3.json and check3b.json: eleven more predictions, no
+    // figure (the figure is the work's); eight sections.
     path: 'projects/notice/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -682,7 +684,7 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 2 && r.dots === 581 && r.late_news === 114 && r.bars === 505 && r.bars_news === 144 && r.trs === 30 && r.preds === 28 && r.sections === 7 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 2 && r.dots === 581 && r.late_news === 114 && r.bars === 505 && r.bars_news === 144 && r.trs === 30 && r.preds === 39 && r.sections === 8 && r.fits && r.min_font >= 11,
   },
   {
     // project 22, session 3 (2026-11-06 Berlin): the work The Court Still Sits, built by works/the-court-still-sits/build.py from
@@ -713,6 +715,38 @@ const PAGES = [
       };
     },
     ok: (r) => r.rest_dots === 27423 && r.playing_rows < 6 && r.after_play === 27423 && r.record_dots === 41605 && r.mode === 'record' && r.trs === 7 && r.info && r.fits && r.min_font >= 11,
+  },
+  {
+    // project 23, session 3 (2026-11-10 Berlin): the work The Hours Shown Wrong, built by works/the-hours-shown-wrong/build.py from
+    // projects/notice/session2.json (the 505 episodes) and session3.json (the hidden curve, by-year counts); two canvases (505 lines
+    // by time lived and date set right; the hidden curve), one table (30 years + the sum). At rest every line is drawn and nothing is
+    // hidden; the slider is set to 2012-08-01 (the registered count's peak: 423,411 hidden region-hours, drawn faint); Play is pressed
+    // (fewer lines while it runs); a point on the Vostok line is hovered (the info line names it).
+    path: 'works/the-hours-shown-wrong/index.html',
+    probe: async () => {
+      const cv = document.getElementById('map'), sl = document.getElementById('t');
+      const rest = { lines: +cv.dataset.lines, faint: +cv.dataset.faint, hidden: +cv.dataset.hidden };
+      sl.value = Date.UTC(2012, 7, 1) / 1000; sl.dispatchEvent(new Event('input'));
+      const peak = { lines: +cv.dataset.lines, faint: +cv.dataset.faint, hidden: +cv.dataset.hidden };
+      sl.value = sl.max; sl.dispatchEvent(new Event('input'));
+      const b = cv.getBoundingClientRect(), W = b.width;
+      const X0 = Date.UTC(1997, 0, 1) / 1000, X1 = Date.UTC(2027, 0, 1) / 1000;
+      const sx = (t) => 44 + (t - X0) / (X1 - X0) * (W - 54), sy = (t) => W - 30 - (t - X0) / (X1 - X0) * (W - 40);
+      const tm = Date.UTC(2010, 0, 1) / 1000, ty = Date.UTC(2023, 11, 21) / 1000;
+      cv.dispatchEvent(new MouseEvent('mousemove', { bubbles: true, clientX: b.left + sx(tm), clientY: b.top + sy(ty) }));
+      const info = /Antarctica\/Vostok/.test(document.getElementById('info').textContent);
+      document.getElementById('play').click();
+      await new Promise((r) => setTimeout(r, 600));
+      const playing = +cv.dataset.lines;
+      return {
+        rest, peak, playing, info,
+        trs: document.querySelectorAll('table tbody tr').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.rest.lines === 505 && r.rest.faint === 0 && r.rest.hidden === 0 && r.peak.hidden === 423411 && r.peak.faint > 0 &&
+      r.peak.lines < 505 && r.playing < 505 && r.info && r.trs === 31 && r.fits && r.min_font >= 11,
   },
 ];
 

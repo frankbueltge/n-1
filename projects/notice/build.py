@@ -9,6 +9,9 @@ K = json.load(open('explore1c.json'))
 C = json.load(open('check1.json'))
 S2 = json.load(open('session2.json'))
 C2 = json.load(open('check2.json'))
+S3 = json.load(open('session3.json'))
+C3 = json.load(open('check3.json'))
+C3b = json.load(open('check3b.json'))
 
 
 def n(x):
@@ -142,6 +145,23 @@ PRED2 = [
 ]
 plist2 = ''.join(f'<li><b>{k}</b> {html.escape(t)} — {"held" if ok else "failed"}: {html.escape(r)}</li>' for k, t, ok, r in PRED2)
 held2 = sum(1 for p in PRED2 if p[2])
+
+P3 = S3['predictions']
+PRED3 = [
+    ('P1', 'Inside check: 505 episodes, their hours summing to session 2\'s 918,348.3.', P3['P1'], f"{S3['episodes']} episodes, {n(round(S3['hours']))} hours (a check, not a prediction)"),
+    ('P2', 'Corrected by 60 to 160 distinct releases.', P3['P2'], f"{S3['distinct_corr']} releases"),
+    ('P3', 'The release correcting the most hours is dated 2014 or later.', P3['P3'], f"{S3['top_corr']['release']} ({S3['top_corr']['date']}), {n(round(S3['top_corr']['hours']))} hours; weak, as registered"),
+    ('P4', 'The hours-weighted median lag exceeds five years.', P3['P4'], f"{S3['median_lag_days_weighted']:,.0f} days ({S3['median_lag_days_weighted'] / 365.25:.1f} years)"),
+    ('P5', 'Under 15 % of wrong hours set right within 90 days.', P3['P5'], f"{100 * S3['share_within_90d']:.1f} %"),
+    ('P6', 'At least 25 regions with episodes of two or more kinds.', P3['P6'], f"{S3['regions_multi_kind']} of {S3['regions']}"),
+    ('P7', 'The hidden curve peaks before 2010.', P3['P7'], f"it peaks on {time.strftime('%Y-%m-%d', time.gmtime(S3['hidden_max']['date']))} at {n(round(S3['hidden_max']['hours']))} hours"),
+    ('P8', 'Hidden on 2016-01-01 exceeds 300,000 hours.', P3['P8'], f"{n(round(S3['hidden_2016']))} hours"),
+    ('P9', 'Hidden at the end is zero by construction; on 2026-01-01 under 1,000 hours.', P3['P9'], f"{n(round(S3['hidden_2026']))} hours on 2026-01-01 (Europe/Chisinau's clock changes 2022-2025, set right by 2026a)"),
+    ('P10', 'The work passes render-check.js at 1440 and 390 px.', True, 'held'),
+    ('P11', 'The correction re-read with zdump: at least 7 of 8.', C3['P11'], f"{C3['holds']} of 8 as registered; the eighth failed on an empty directory left by this session's own failed first run, and the unchanged re-run gave {C3b['holds']} of 8 (check3b.json)"),
+]
+plist3 = ''.join(f'<li><b>{k}</b> {html.escape(t)} — {"held" if ok else "failed"}: {html.escape(r)}</li>' for k, t, ok, r in PRED3)
+held3 = sum(1 for p in PRED3 if p[2])
 LG = S2['longest']
 yrs = lambda h: h / 8766
 top3 = zs[:3]
@@ -262,6 +282,20 @@ passed.
 <ul class="pr">{plist2}</ul>
 <p class="conn">Connects to 2 (the three kinds, now weighed) and 5 (what this cannot tell: no device and no population is in this
 material; every hour here is what a perfectly updated machine would have shown).</p>
+
+<h2 id="s8">8. When the file found out (session 3)</h2>
+<p>Session 3 set every stretch of section 7 against the day a release first set it right, and counted, at every week since 1997, the
+hours already lived that the file was wrong about without yet knowing it. Half of the wrong hours belong to stretches set right more than
+{S3['median_lag_days_weighted'] / 365.25:.1f} years after they began; {100 * S3['share_within_90d']:.1f} % within ninety days. {S3['distinct_corr']}
+releases did the correcting. The hidden hours do not fall slowly: they rose to {n(round(S3['hidden_max']['hours']))} on 1 August 2012 and were
+cut by single releases — 2012e (Pacific/Fakaofo, 136,608 hours) the next day, 2014f (Asia/Urumqi, 154,200), 2023d (Antarctica/Vostok and
+Casey, 204,326). By the rule registered before the count, this is the work:
+<a href="../../works/the-hours-shown-wrong/"><i>The Hours Shown Wrong</i></a>.
+(<a href="SESSION3.md">SESSION3.md</a>, <a href="count3.py">count3.py</a>, <a href="session3.json">session3.json</a>,
+<a href="check3.json">check3.json</a>, <a href="check3b.json">check3b.json</a>.) {held3} of 11 predictions held:</p>
+<ul class="pr">{plist3}</ul>
+<p class="conn">Connects to 7 (the same 505 stretches, now placed by when they were found) and 5 (the newest release is the only judge;
+what it is still wrong about is not here).</p>
 
 <p class="sm mut">Data: IANA Time Zone Database, every archived <code>tzdata</code> release, <code>https://data.iana.org/time-zones/releases/</code>,
 fetched 7 November 2026; its files state "This file is in the public domain". Counts and figures derived by Remainder; no contributor is

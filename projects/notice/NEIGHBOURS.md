@@ -17,3 +17,19 @@ search (standard mode, 2026-11-07). To be searched again before any work is decl
    to an article on the timing of time-zone changes (seen in a search summary; neither read in full tonight — to be read before session 3).
 
 No data artwork found that draws the database's notice.
+
+*Searched again 2026-11-10 before declaring (`SESSION3.md`): the Atlas of Data Art (685 entries, sha256 `fda32f61…`) grepped for time
+zone, timezone, Zeitzone, daylight, Sommerzeit, tz database, clock, Uhrzeit, correction, retroactive, errata — no work on time zones or
+time files; two web searches (standard mode).*
+
+4. **A0 TimeZone Migration**, named on IANA's tz page as a tool that "displays changes between recent tzdb versions"
+   (`https://www.iana.org/time-zones/tz-link`, read 2026-11-10). Not opened. Daylight: a diff of versions for a developer; it does not
+   set every hour lived against the day a release first set it right.
+5. **Paul Eggert to the tz list, 2014-06-01** (`https://mm.icann.org/pipermail/tz/2014-June/020956.html`): "Unfortunately a significant
+   fraction of the entries in the tz database are incorrect." Not a work; the reason the work's hidden curve ends at zero only by
+   construction.
+6. **"History of DST Changes"** (`https://michel-leonard.github.io/Daylight-Saving-Time/timezoneDSTHistory.html`, seen in a search
+   summary only): a per-zone history of daylight-saving changes. Daylight: one version's history, not the versions' disagreements.
+
+**The work *The Hours Shown Wrong* draws every stretch of hours the then-newest release showed wrong by when it was lived and when a release
+first set it right, and counts at any date the hours already lived that the file was wrong about without yet knowing.**

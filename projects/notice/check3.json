@@ -1,0 +1,103 @@
+{
+ "n": 8,
+ "holds": 7,
+ "P11": true,
+ "rows": [
+  {
+   "zone": "Asia/Aqtau",
+   "tau": 954016200,
+   "rel": "2000c",
+   "corr": "2002b",
+   "zdump_rel": 18000,
+   "zdump_corr": 14400,
+   "zdump_final": 14400,
+   "count2_shown": 18000,
+   "count2_final": 14400,
+   "holds": true
+  },
+  {
+   "zone": "Asia/Anadyr",
+   "tau": 877789800,
+   "rel": "1997i",
+   "corr": "1999j",
+   "zdump_rel": null,
+   "zdump_corr": 43200,
+   "zdump_final": 43200,
+   "count2_shown": 46800,
+   "count2_final": 43200,
+   "holds": false
+  },
+  {
+   "zone": "Asia/Amman",
+   "tau": 1017268200,
+   "rel": "2002b",
+   "corr": "2009e",
+   "zdump_rel": 10800,
+   "zdump_corr": 7200,
+   "zdump_final": 7200,
+   "count2_shown": 10800,
+   "count2_final": 7200,
+   "holds": true
+  },
+  {
+   "zone": "Europe/Chisinau",
+   "tau": 1332635400,
+   "rel": "2012b",
+   "corr": "2015f",
+   "zdump_rel": 7200,
+   "zdump_corr": 10800,
+   "zdump_final": 10800,
+   "count2_shown": 7200,
+   "count2_final": 10800,
+   "holds": true
+  },
+  {
+   "zone": "America/Grand_Turk",
+   "tau": 1049607000,
+   "rel": "2003a",
+   "corr": "2007f",
+   "zdump_rel": -14400,
+   "zdump_corr": -18000,
+   "zdump_final": -18000,
+   "count2_shown": -14400,
+   "count2_final": -18000,
+   "holds": true
+  },
+  {
+   "zone": "Europe/Istanbul",
+   "tau": 1111879800,
+   "rel": "2005g",
+   "corr": "2007c",
+   "zdump_rel": 7200,
+   "zdump_corr": 10800,
+   "zdump_final": 10800,
+   "count2_shown": 7200,
+   "count2_final": 10800,
+   "holds": true
+  },
+  {
+   "zone": "America/St_Johns",
+   "tau": 860299260,
+   "rel": "1997e",
+   "corr": "2000g",
+   "zdump_rel": -12600,
+   "zdump_corr": -9000,
+   "zdump_final": -9000,
+   "count2_shown": -12600,
+   "count2_final": -9000,
+   "holds": true
+  },
+  {
+   "zone": "Europe/Chisinau",
+   "tau": 954030600,
+   "rel": "2000c",
+   "corr": "2015f",
+   "zdump_rel": 7200,
+   "zdump_corr": 10800,
+   "zdump_final": 10800,
+   "count2_shown": 7200,
+   "count2_final": 10800,
+   "holds": true
+  }
+ ]
+}

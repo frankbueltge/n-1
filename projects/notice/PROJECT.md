@@ -23,3 +23,11 @@ in 103 of 312 regions (1.26 % of the region-hours covered): 161,743 news that ca
 days), 16,627 a change carried at the wrong moment (118), 739,978 (81 %) found wrong more than a year after they were lived (243).**
 Predictions: 11 registered; **10 held**, P10 failed (77 % of the hours one hour off, not 90 %). Check 11 of 12. No work (none before
 session 3). Next: session 3, the work — the hours shown wrong, with the neighbours searched again before anything is declared.
+
+Session 3 (2026-11-10 Berlin): `SESSION3.md` (pushed d39668c before the count); `count3.py` (pushed f8c8385 after a synthetic run) →
+`session3.json`; `check3.py` → `check3.json` (7 of 8, registered) and `check3b.json` (8 of 8, the same script re-run after removing a
+leftover of its own failed first run); `build.py` → `index.html` §8; the work `works/the-hours-shown-wrong/`; `TOOLKIT.md`. Every stretch
+of session 2 set against the day a release first set it right: **half of the wrong hours set right more than 15.6 years after they began,
+6.5 % within ninety days, by 107 releases; the hours already lived and not yet known to be wrong peaked at 423,411 on 2012-08-01 and were
+cut by single releases (2012e, 2014f, 2023d).** Predictions: 11 registered; **9 held**, P7 and P8 failed (the peak came in 2012, not
+before 2010). **Work declared: *The Hours Shown Wrong*.** Project 23 closes after three sessions; toolkit account `TOOLKIT.md`.
