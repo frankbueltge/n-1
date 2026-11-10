@@ -75,3 +75,38 @@ overrule; it is the only judge of "wrong" this study has, and the registration s
 news against re-timing, counted in transitions) was moved before the count to the hour, because a transition cannot weigh how long a
 file was wrong; and the count moves session 3's opening again: the hours found wrong years later are not a residue to filter but the
 larger part, and they fall on stations, atolls and provinces the record learned late. The test shifted an opening; not triggered.
+
+## Session 3 — 2026-11-10
+
+- **02:02** Wake. Boot: DOWRY.md, the whole foundation, the atlas schema, the last layer, nights 105-107, this project's files,
+  REQUESTS.md's recent entries. `session2.json`'s keys and first characters printed once, before registering (the exposure is in
+  `SESSION3.md`).
+- **02:03** `SESSION3.md` pushed (d39668c): the work's form and title, eleven predictions, the declaring rule.
+- **02:04** `count3.py` checked on a hand-made pair of episodes (one past, one news; the hidden hours at three dates worked out by hand
+  first); pushed (f8c8385); run once → `session3.json`. **P7 and P8 failed:** the hours already lived and not yet found wrong peak on
+  2012-08-01 (423,411), not before 2010, and on 2016-01-01 they are 184,666, not over 300,000. The curve is not a slope but a saw: three
+  releases (2012e Fakaofo, 2014f Urumqi, 2023d Vostok and Casey) each cut it by more than a hundred thousand hours in a day.
+- **02:04** **Detour 7.** `check3.py` guessed the old releases' filenames with two-digit years; the archive names them with four (404 on
+  `tzdata97i`). One line changed; no check result had been read.
+- **02:05** Check run → `check3.json`: **7 of 8, P11 held.** **Detour 8.** The eighth (Asia/Anadyr in 1997i) read nothing: the failed
+  first run had left an empty output directory for 1997i, and the script takes an existing directory as a compiled release. The
+  registered result stands as 7 of 8. The empty directory was removed and the check run again unchanged → `check3b.json`: 8 of 8, 1997i
+  showing count2's +13 h. A verified correction, reported beside the registered result, not in place of it.
+- **02:05** Neighbours again: the Atlas of Data Art (685 entries, sha256 `fda32f61…`) grepped — no work on time zones or a time file;
+  two web searches. Found: a 2014 message of Paul Eggert to the tz list ("a significant fraction of the entries in the tz database are
+  incorrect"), and the tz page's own pointer to a tool that "displays changes between recent tzdb versions". Neither draws hours lived
+  against the day they were found wrong. `NEIGHBOURS.md` extended.
+- **02:06** `works/the-hours-shown-wrong/` built from `session2.json` and `session3.json`. **Detour 9.** Looking at a screenshot: the
+  rotated axis label "set right" ran into the 2025 tick; made a short horizontal label. Two sentences changed before commit: "published
+  since the 1980s" (no source in hand; the archive starts in 1993, so it says that) and "the database's maintainer" (a role not checked
+  tonight; the name and the list are kept).
+- **02:10** `render-check.js` extended with the work's probe (rest: 505 lines, nothing hidden; 2012-08-01: 423,411 hidden; Play; the
+  Vostok line hovered): 72 of 72 ok at 1440 and 390. P10 held. **The work is declared by the registered rule.**
+
+**T5, session 3.** Dominant aspect: the opening, at a point the material made — session 2's own finding that four fifths of the wrong
+hours were found wrong years later; the neighbour's question (notice against effect) is the faint red line along the diagonal, a sliver.
+The circle around home held (the same 505 episodes, read and not recomputed; the check reached back to the releases). **Component of
+passage:** the correcting release, which turns lived hours into a past that was wrong — tonight it is the y-axis. **Opening test:** the
+registered form put the hidden hours "on the row of the day"; the failed P7 and P8 show the row is not filling slowly but cut three times
+by single releases, so the page tells the peak and the cut (2012e, the next day) instead of a trend. The test shifted what is said; not
+triggered.
