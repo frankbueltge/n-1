@@ -1,0 +1,91 @@
+{
+ "twin_groups": 835,
+ "twin_sequences": 3394,
+ "group_sizes": {
+  "2": 710,
+  "3": 38,
+  "4": 14,
+  "5": 7,
+  "6": 3,
+  "7": 6,
+  "8": 2,
+  "9": 3,
+  "10": 2,
+  "14": 1,
+  "18": 1,
+  "19": 1,
+  "25": 1,
+  "26": 1,
+  "29": 1,
+  "30": 1,
+  "31": 2,
+  "32": 1,
+  "33": 4,
+  "34": 13,
+  "35": 12,
+  "36": 10,
+  "37": 1
+ },
+ "twin_shown_terms_median": 52,
+ "twin_groups_with_at_least_20_terms": 673,
+ "twin_group_anumber_span_median": 2568,
+ "twin_groups_span_over_100000": 115,
+ "largest_groups": [
+  {
+   "size": 37,
+   "first": "A063819",
+   "last": "A170755",
+   "first_name": "Growth series for fundamental group of orientable closed surface of genus 9."
+  },
+  {
+   "size": 36,
+   "first": "A063818",
+   "last": "A170713",
+   "first_name": "Growth series for fundamental group of orientable closed surface of genus 8."
+  },
+  {
+   "size": 36,
+   "first": "A167818",
+   "last": "A170718",
+   "first_name": "Number of reduced words of length n in Coxeter group on 37 generators S_i with relations (S_i)^2 = (S_i S_j)^15 = I."
+  },
+  {
+   "size": 36,
+   "first": "A167828",
+   "last": "A170720",
+   "first_name": "Number of reduced words of length n in Coxeter group on 39 generators S_i with relations (S_i)^2 = (S_i S_j)^15 = I."
+  },
+  {
+   "size": 36,
+   "first": "A167829",
+   "last": "A170721",
+   "first_name": "Number of reduced words of length n in Coxeter group on 40 generators S_i with relations (S_i)^2 = (S_i S_j)^15 = I."
+  },
+  {
+   "size": 36,
+   "first": "A167849",
+   "last": "A170724",
+   "first_name": "Number of reduced words of length n in Coxeter group on 43 generators S_i with relations (S_i)^2 = (S_i S_j)^15 = I."
+  },
+  {
+   "size": 36,
+   "first": "A167854",
+   "last": "A170725",
+   "first_name": "Number of reduced words of length n in Coxeter group on 44 generators S_i with relations (S_i)^2 = (S_i S_j)^15 = I."
+  },
+  {
+   "size": 36,
+   "first": "A167855",
+   "last": "A170726",
+   "first_name": "Number of reduced words of length n in Coxeter group on 45 generators S_i with relations (S_i)^2 = (S_i S_j)^15 = I."
+  }
+ ],
+ "names_without_terms": 449,
+ "names_without_terms_examples": [
+  "A396363",
+  "A397123",
+  "A397143",
+  "A397581",
+  "A397692"
+ ]
+}

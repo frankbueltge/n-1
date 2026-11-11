@@ -1,0 +1,145 @@
+{
+ "seed": 20261111,
+ "held": 18,
+ "of": 18,
+ "rows": [
+  {
+   "a": "A237712",
+   "kind": "finite",
+   "L": 9,
+   "grep_L": 1,
+   "grep_L_minus_1": 3,
+   "holds": true
+  },
+  {
+   "a": "A143006",
+   "kind": "finite",
+   "L": 4,
+   "grep_L": 1,
+   "grep_L_minus_1": 4,
+   "holds": true
+  },
+  {
+   "a": "A185583",
+   "kind": "finite",
+   "L": 5,
+   "grep_L": 1,
+   "grep_L_minus_1": 8,
+   "holds": true
+  },
+  {
+   "a": "A083799",
+   "kind": "finite",
+   "L": 10,
+   "grep_L": 1,
+   "grep_L_minus_1": 2,
+   "holds": true
+  },
+  {
+   "a": "A245007",
+   "kind": "finite",
+   "L": 2,
+   "grep_L": 1,
+   "grep_L_minus_1": 3,
+   "holds": true
+  },
+  {
+   "a": "A167319",
+   "kind": "finite",
+   "L": 3,
+   "grep_L": 1,
+   "grep_L_minus_1": 61,
+   "holds": true
+  },
+  {
+   "a": "A346781",
+   "kind": "finite",
+   "L": 5,
+   "grep_L": 1,
+   "grep_L_minus_1": 4,
+   "holds": true
+  },
+  {
+   "a": "A310662",
+   "kind": "finite",
+   "L": 6,
+   "grep_L": 1,
+   "grep_L_minus_1": 30,
+   "holds": true
+  },
+  {
+   "a": "A059113",
+   "kind": "finite",
+   "L": 2,
+   "grep_L": 1,
+   "grep_L_minus_1": 594,
+   "holds": true
+  },
+  {
+   "a": "A097249",
+   "kind": "finite",
+   "L": 16,
+   "grep_L": 1,
+   "grep_L_minus_1": 9,
+   "holds": true
+  },
+  {
+   "a": "A401223",
+   "kind": "finite",
+   "L": 4,
+   "grep_L": 1,
+   "grep_L_minus_1": 2,
+   "holds": true
+  },
+  {
+   "a": "A039495",
+   "kind": "finite",
+   "L": 2,
+   "grep_L": 1,
+   "grep_L_minus_1": 513,
+   "holds": true
+  },
+  {
+   "a": "A018187",
+   "kind": "beginning",
+   "n": 18,
+   "grep_full": 3,
+   "holds": true
+  },
+  {
+   "a": "A170243",
+   "kind": "twin",
+   "n": 15,
+   "grep_full": 37,
+   "holds": true
+  },
+  {
+   "a": "A170270",
+   "kind": "twin",
+   "n": 16,
+   "grep_full": 36,
+   "holds": true
+  },
+  {
+   "a": "A096350",
+   "kind": "twin",
+   "n": 7,
+   "grep_full": 2,
+   "holds": true
+  },
+  {
+   "a": "A059230",
+   "kind": "beginning",
+   "n": 38,
+   "grep_full": 2,
+   "holds": true
+  },
+  {
+   "a": "A123032",
+   "kind": "twin",
+   "n": 34,
+   "grep_full": 2,
+   "holds": true
+  }
+ ]
+}
