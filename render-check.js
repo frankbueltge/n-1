@@ -660,6 +660,26 @@ const PAGES = [
     ok: (r) => r.svgs === 3 && r.years === 274 && r.lines === 2 && r.decades3 === 28 && r.lines3 === 2 && r.trs === 46 && r.preds === 33 && r.sections === 9 && r.fits && r.min_font >= 11,
   },
   {
+    // project 24, session 1 (2026-11-11 Berlin): the study page "First Terms", built by projects/first-terms/build.py from
+    // session1.json, check1.json and explore1.json; one SVG (42 titled bars: identifying lengths 1-40, 41+, and one red bar for the
+    // never parted), two tables (six six-term beginnings; eleven predictions), six sections.
+    path: 'projects/first-terms/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        bars: s[0] ? s[0].querySelectorAll('rect').length : 0,
+        never: s[0] ? s[0].querySelectorAll('rect.np').length : 0,
+        tables: document.querySelectorAll('main table').length,
+        trs: document.querySelectorAll('main table tr').length,
+        sections: document.querySelectorAll('main h2').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 1 && r.bars === 42 && r.never === 1 && r.tables === 2 && r.trs === 19 && r.sections === 6 && r.fits && r.min_font >= 11,
+  },
+  {
     // project 23, session 1 (2026-11-07 Berlin): the study page "Notice", built by projects/notice/build.py from session1.json,
     // explore1.json, explore1b.json, explore1c.json and check1.json; one SVG (581 titled dots: changes of offset 1997-2026 known less
     // than a year ahead or late by less than a year), one table (30 years), eleven predictions, six sections.
