@@ -1,0 +1,137 @@
+[
+ {
+  "a": "A000004",
+  "name": "The zero sequence.",
+  "shown": 102,
+  "held_by": 24,
+  "twins": 0,
+  "first_holders": [
+   [
+    "A000007",
+    "The characteristic function of {0}: a(n) = 0^n."
+   ],
+   [
+    "A000038",
+    "Twice A000007."
+   ],
+   [
+    "A016176",
+    "Inverse of 2167th cyclotomic polynomial."
+   ]
+  ]
+ },
+ {
+  "a": "A000012",
+  "name": "The simplest sequence of positive numbers: the all 1's sequence.",
+  "shown": 90,
+  "held_by": 34,
+  "twins": 0,
+  "first_holders": [
+   [
+    "A004216",
+    "a(n) = floor(log_10(n))."
+   ],
+   [
+    "A021580",
+    "Decimal expansion of 1/576."
+   ],
+   [
+    "A054977",
+    "a(0)=2, a(n)=1 for n >= 1."
+   ]
+  ]
+ },
+ {
+  "a": "A000027",
+  "name": "The positive integers. Also called the natural numbers, the whole numbers or the counting numbers, but these terms are ambiguous.",
+  "shown": 77,
+  "held_by": 12,
+  "twins": 0,
+  "first_holders": [
+   [
+    "A001477",
+    "The nonnegative integers."
+   ],
+   [
+    "A033619",
+    "Undulating numbers (of form abababab... in base 10)."
+   ],
+   [
+    "A069782",
+    "Numbers k such that gcd(d(k^3), d(k)) is a power of 2."
+   ]
+  ]
+ },
+ {
+  "a": "A000040",
+  "name": "The prime numbers.",
+  "shown": 58,
+  "held_by": 11,
+  "twins": 4,
+  "first_holders": [
+   [
+    "A008578",
+    "Prime numbers at the beginning of the 20th century (today 1 is no longer regarded as a prime)."
+   ],
+   [
+    "A015919",
+    "Positive integers k such that 2^k == 2 (mod k)."
+   ],
+   [
+    "A064555",
+    "a(n) = max { k | A064553(k) = n }."
+   ]
+  ]
+ },
+ {
+  "a": "A000045",
+  "name": "Fibonacci numbers: F(n) = F(n-1) + F(n-2) with F(0) = 0 and F(1) = 1.",
+  "shown": 41,
+  "held_by": 1,
+  "twins": 0,
+  "first_holders": [
+   [
+    "A212804",
+    "Expansion of (1 - x)/(1 - x - x^2)."
+   ]
+  ]
+ },
+ {
+  "a": "A000108",
+  "name": "Catalan numbers: C(n) = binomial(2n,n)/(n+1) = (2n)!/(n!(n+1)!).",
+  "shown": 31,
+  "held_by": 0,
+  "twins": 0,
+  "first_holders": []
+ },
+ {
+  "a": "A000142",
+  "name": "Factorial numbers: n! = 1*2*3*4*...*n (order of symmetric group S_n, number of permutations of n letters).",
+  "shown": 23,
+  "held_by": 2,
+  "twins": 0,
+  "first_holders": [
+   [
+    "A104150",
+    "Shifted factorial numbers: a(0)=0, a(n) = (n-1)!."
+   ],
+   [
+    "A358185",
+    "Coefficients of x^n/n! in the expansion of (1 - x)*log(1 - x)."
+   ]
+  ]
+ },
+ {
+  "a": "A000290",
+  "name": "The squares: a(n) = n^2.",
+  "shown": 51,
+  "held_by": 1,
+  "twins": 0,
+  "first_holders": [
+   [
+    "A305559",
+    "[0, -1, -1] together with A000290."
+   ]
+  ]
+ }
+]

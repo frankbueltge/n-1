@@ -5,6 +5,12 @@ import json, html
 S = json.load(open('session1.json'))['summary']
 C = json.load(open('check1.json'))
 E = json.load(open('explore1.json'))
+import gzip
+S2 = json.load(open('session2.json'))
+C2 = json.load(open('check2.json'))
+F2 = json.load(open('explore2c.json'))
+X2 = json.load(open('explore2.json'))
+P2 = json.load(gzip.open('session2-per.json.gz', 'rt'))
 
 
 def n(x):
@@ -62,6 +68,69 @@ rows = ''.join(f'<tr><td>P{a}</td><td style="text-align:left">{html.escape(b)}</
 top = ''.join(f'<tr><td style="text-align:left"><code>{html.escape(k)}</code></td><td>{n(v)}</td></tr>' for k, v in S['top_prefix6'][:6])
 big = E['largest_groups'][0]
 
+# Session 2, figure 2: share of all sequences found alone by k terms, three ways (k = 1..40)
+NS = len(P2)
+def cum(col):
+    c = [0] * 41
+    for r in P2:
+        v = r[col]
+        if 0 < v <= 40:
+            c[v] += 1
+    out, t = [], 0
+    for k in range(1, 41):
+        t += c[k]; out.append(t / NS)
+    return out
+curves = [('M', cum(4), 'cm', 'the shortest run anywhere that no other sequence holds'),
+          ('B', cum(3), 'cb', 'its first terms, typed into the search box'),
+          ('L', cum(2), 'cl', 'its first terms, set against other beginnings (session 1)')]
+W2, H2, L2, T2, B2 = 900, 380, 60, 16, 50
+def X(k): return L2 + (k - 1) / 39 * (W2 - L2 - 20)
+def Y(v): return T2 + (1 - v) * (H2 - T2 - B2)
+e2 = []
+for v in (0, .25, .5, .75, 1):
+    e2.append(f'<line class="ax" x1="{L2}" x2="{W2 - 20}" y1="{Y(v):.1f}" y2="{Y(v):.1f}"/><text class="yr" x="{L2 - 6}" y="{Y(v) + 4:.1f}" text-anchor="end">{int(v * 100)} %</text>')
+for k in (1, 6, 10, 20, 30, 40):
+    e2.append(f'<text class="yr" x="{X(k):.1f}" y="{H2 - B2 + 18}" text-anchor="middle">{k}</text>')
+e2.append(f'<text class="yr" x="{L2 + (W2 - L2) / 2:.1f}" y="{H2 - 6}" text-anchor="middle">numbers typed</text>')
+for lab, ys, cls, desc in curves:
+    pts = ' '.join(f'{X(k):.1f},{Y(v):.1f}' for k, v in zip(range(1, 41), ys))
+    e2.append(f'<polyline class="{cls}" fill="none" points="{pts}"><title>{html.escape(desc)}</title></polyline>')
+    for k in (1, 2, 6, 12):
+        e2.append(f'<circle class="{cls}" cx="{X(k):.1f}" cy="{Y(ys[k - 1]):.1f}" r="4"><title>{pct(ys[k - 1])} % of all sequences are found alone by {k} number{"s" if k > 1 else ""}: {html.escape(desc)}</title></circle>')
+    kx = {'M': 3, 'B': 9, 'L': 5}[lab]
+    e2.append(f'<text class="yr {cls}t" x="{X(kx) + (-10 if lab == "M" else 10 if lab == "B" else -12):.1f}" y="{Y(ys[kx - 1]) + (4 if lab != "L" else -6):.1f}" text-anchor="{"end" if lab != "B" else "start"}" style="font-weight:bold">{lab}</text>')
+fig2 = (f'<div class="sc"><svg class="ch" viewBox="0 0 {W2} {H2}" role="img" aria-labelledby="f2t"><title id="f2t">Three rising curves: '
+        f'the share of {n(NS)} sequences found alone after k numbers, by the shortest run anywhere (M), by the first terms typed into the '
+        f'search box (B), and by the first terms set against other beginnings (L).</title>{"".join(e2)}</svg></div>')
+G = S2['signed']
+def famrow(r):
+    nm = html.escape(r['name'] if len(r['name']) <= 60 else r['name'][:58].rsplit(' ', 1)[0] + ' …')
+    if r['held_by']:
+        h = r['first_holders'][0]
+        holder = html.escape(h[1] if len(h[1]) <= 70 else h[1][:68].rsplit(' ', 1)[0] + ' …') + ' (' + h[0] + ')' + (' and ' + str(r['held_by'] - 1) + ' more' if r['held_by'] > 1 else '')
+        m = 'never'
+    else:
+        holder = '—'
+        m = str(next(x for x in X2['famous'] if x['a'] == r['a'])['M']) + ' (terms 16-30)'
+    return f'<tr><td style="text-align:left">{nm} ({r["a"]})</td><td>{r["shown"]}</td><td>{m}</td><td style="text-align:left">{holder}</td></tr>'
+famous = ''.join(famrow(r) for r in F2)
+pred2 = [
+    ('1', 'between 401,214 and 401,700 sequences', n(G['sequences']), True),
+    ('2', 'median B (the box, from the beginning) 7-10', f'{G["B_median"]}', False),
+    ('3', '20-50 % have B greater than L', f'{pct(G["B_gt_L_share"])} %', True),
+    ('4', 'median M (the shortest run) 3-5', f'{G["M_median"]}', False),
+    ('5', 'at least half have M smaller than B', f'{pct(G["M_lt_B_share"])} %', True),
+    ('6', '1.5-4 % never found alone', f'{pct(G["never_share"], 2)} %', True),
+    ('7', 'fewer than half give one hit for their first six terms', f'{pct(G["hits6_single_share"])} %', False),
+    ('8', 'ignoring signs changes M for under 2 %', f'{pct(S2["signs_ignored"]["M_changed_vs_signed_share"])} %', False),
+    ('9', 'largest M at least 30', f'{G["M_max"]}', True),
+    ('10', 'largest B at least 128', f'{G["B_max"]}', True),
+    ('11', 'grep check at least 17 of 18', f'{C2["held"]} of {C2["of"]}', True),
+]
+held2 = sum(1 for p in pred2 if p[3])
+rows2 = ''.join(f'<tr><td>P{a}</td><td style="text-align:left">{html.escape(b)}</td><td>{html.escape(c)}</td><td>{"held" if d else "<b>failed</b>"}</td></tr>' for a, b, c, d in pred2)
+more50 = S2['signed']['hits6_distribution_to_50']['51']
+
 page = f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>First Terms</title><link rel="icon" href="data:,">
@@ -77,8 +146,9 @@ svg.ch{{width:100%;height:auto;display:block;margin:1em 0}}svg.ch .f{{fill:var(-
 svg.ch .yr{{font:13px system-ui,sans-serif;fill:var(--mut)}}.sc{{overflow-x:auto}}.sc svg.ch{{min-width:600px}}
 table{{border-collapse:collapse;font:14px/1.4 system-ui,sans-serif}}table th,table td{{padding:3px 10px;border-bottom:1px solid var(--line);text-align:right}}
 code{{font-size:.9em;overflow-wrap:anywhere}}
+svg.ch polyline{{stroke-width:2.5}}svg.ch .cm{{stroke:var(--np);fill:var(--np)}}svg.ch polyline.cm,svg.ch polyline.cb,svg.ch polyline.cl{{fill:none}}svg.ch .cb{{stroke:var(--a);fill:var(--a)}}svg.ch .cl{{stroke:var(--f);fill:var(--f)}}svg.ch .cmt{{fill:var(--np)}}svg.ch .cbt{{fill:var(--a)}}svg.ch .clt{{fill:var(--mut)}}
 </style></head><body><main>
-<p class="sm mut">Project 24, session 1 · 11 November 2026 · open; no work before session 3 · data: The On-Line Encyclopedia of Integer
+<p class="sm mut">Project 24, sessions 1 and 2 · 11 and 13 November 2026 · open; no work before session 3 · data: The On-Line Encyclopedia of Integer
 Sequences, <a href="https://oeis.org/">oeis.org</a>, CC BY-SA 4.0 · this page CC BY-SA 4.0</p>
 <h1>First Terms</h1>
 <p class="big">The On-Line Encyclopedia of Integer Sequences holds <b>{n(S["sequences"])}</b> sequences of whole numbers, each shown by
@@ -123,15 +193,41 @@ sequence's full terms at least twice: <b>{C["held"]} of {C["of"]}</b>.</p>
 <p class="sm">Pushed with the selection (<code>SELECTION.md</code>, commit beab4b9) before any line was read. {held} of 11 held.</p>
 <table><tr><th>#</th><th style="text-align:left">registered</th><th>found</th><th></th></tr>{rows}</table>
 
-<h2>6. What is not here</h2>
-<p>Whether a shown term is right, and whether twins differ further on, are not in this file. The search box matches a run of numbers
-anywhere in a sequence, not only at its beginning; that is session 2's question. No contributor is named or counted.</p>
+<h2>6. The search box (session 2)</h2>
+<p class="big">The search box does not match beginnings. It matches the numbers typed, in order, anywhere in a sequence. Read that way,
+<b>{n(G["never_found_alone"])}</b> sequences can never be its only answer: everything they show stands, in order, inside another entry.
+Among them are the sequences everyone knows.</p>
+<div class="sc"><table><tr><th style="text-align:left">sequence</th><th>terms shown</th><th>fewest numbers that find it alone</th><th style="text-align:left">held whole inside</th></tr>{famous}</table></div>
+<p class="sm mut">File of 12 November 2026, {n(G["sequences"])} sequences. Holders found with <code>grep</code> on the whole shown run, not with the count.</p>
+<p>The Fibonacci numbers stand inside the same numbers with a 1 in front; the squares inside "[0, −1, −1] together with A000290"; the
+ones inside the decimal expansion of 1/576. The Catalan numbers can be found alone, but only by fifteen of their later terms, the 16th to the 30th of 31 shown. Of all
+sequences, {pct(G["never_share"], 1)} % can never be found alone: {n(G["never_kinds"]["twin"])} twins, {n(G["never_kinds"]["beginning of another"])}
+that are the beginning of another, and {n(G["never_kinds"]["inside another"])} that stand further inside another.</p>
+{fig2}
+<p class="sm mut">For each number of terms typed, the share of all sequences found alone. <span style="color:var(--np)">M</span>: the
+shortest run of a sequence's terms, anywhere, that no other sequence holds. <span style="color:var(--a)">B</span>: its first terms, typed into
+the box. L: its first terms against other beginnings (session 1). Hover a dot.</p>
+<p>Typed from the beginning, a sequence needs more numbers in the box than against other beginnings for {pct(G["B_gt_L_share"], 0)} % of
+them; the median stays at {G["B_median"]}. But typed from its first terms, {n(more50)} sequences — one in five — still share their first six
+numbers with fifty or more others. And the shortest run that finds a sequence alone is short: {n(X2["M_eq_1"])} sequences hold a single
+number no other sequence holds, and the median is {G["M_median"]}. That run stands at the beginning for only {pct(G["M_at_beginning_share"], 1)} %;
+for the rest it stands further in. The longest shortest-run is {G["M_max"]} terms, for two sequences of period six (A120325
+and A354354): 117 of their 121 shown terms are needed before no other sequence holds the run.</p>
+<p>The check: for eighteen sequences drawn at random (seed 20261113), <code>grep</code> found the first B terms and the shortest run in
+exactly one line, and every shorter run in at least two ({C2["held"]} of {C2["of"]}). Ignoring signs, as the box may, leaves
+{n(S2["signs_ignored"]["never_found_alone"])} never found alone.</p>
+<p class="sm">Predictions, pushed before the count (<code>SESSION2.md</code>, commit 624986e). {held2} of 11 held.</p>
+<table><tr><th>#</th><th style="text-align:left">registered</th><th>found</th><th></th></tr>{rows2}</table>
+
+<h2>7. What is not here</h2>
+<p>Whether a shown term is right, and whether twins differ further on, are not in this file. Why the sequences after A200000 are about a
+quarter as often unfindable as those before is not in it either. No contributor is named or counted.</p>
 <p class="sm mut">Files: <a href="SELECTION.md">SELECTION.md</a> · <a href="count1.py">count1.py</a> → <a href="session1.json">session1.json</a> and <a href="session1-per.json.gz">session1-per.json.gz</a> (every sequence: A-number, terms shown, kind, length, nearest partner; no terms)
 · <a href="check1.py">check1.py</a> → <a href="check1.json">check1.json</a> · <a href="explore1.py">explore1.py</a> →
 <a href="explore1.json">explore1.json</a> (exploratory) · <a href="JOURNAL.md">JOURNAL.md</a> · <a href="MAP.md">MAP.md</a> ·
-<a href="NEIGHBOURS.md">NEIGHBOURS.md</a>. Data: <a href="https://oeis.org/">The On-Line Encyclopedia of Integer Sequences</a>,
+<a href="NEIGHBOURS.md">NEIGHBOURS.md</a> · session 2: <a href="SESSION2.md">SESSION2.md</a> · <a href="count2.py">count2.py</a> → <a href="session2.json">session2.json</a> and <a href="session2-per.json.gz">session2-per.json.gz</a> · <a href="check2.py">check2.py</a> → <a href="check2.json">check2.json</a> · <a href="explore2.py">explore2.py</a>, <a href="explore2b.py">explore2b.py</a>, <a href="explore2c.py">explore2c.py</a> (exploratory). Data: <a href="https://oeis.org/">The On-Line Encyclopedia of Integer Sequences</a>,
 CC BY-SA 4.0. Remainder.</p>
 </main></body></html>
 '''
 open('index.html', 'w').write(page)
-print('ok', held)
+print('ok', held, held2)

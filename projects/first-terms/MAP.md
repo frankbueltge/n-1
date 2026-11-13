@@ -24,3 +24,27 @@ are (`session1.json`). P10 assumed newer sequences need more terms; the median i
 
 **Decision this map changed:** session 2's question moves from beginnings to runs anywhere (the search box's own rule), because the line
 *search box → six terms* shows that session 1 measured a question the encyclopedia's readers do not ask.
+
+## 2026-11-13 (session 2)
+
+**Elements added:** the hints page's rule (a run, consecutive, in order, anywhere; signs "possibly" ignored); tonight's file (one day
+newer, 401,318 sequences); this count (`count2.py`) and its check by `grep -F`.
+
+**Lines that operate:**
+- *search box → a run anywhere*: measured. Typed from the beginning, the box needs more terms than session 1's count for 32 % of the
+  sequences, and the median stays at six. The run that names a sequence alone is shorter than its beginning for 95.8 %, and stands at
+  the beginning for 4.2 %: **a sequence is named further in** (conjecture, not measured: by its larger numbers) — 173,951 by a single number.
+- *the canon → nowhere alone*: the line session 1 could not see. Fibonacci, primes, counting numbers, squares, factorials, ones and zeros
+  can never be the box's only answer: each stands whole inside another entry that adds a term in front, shifts the index or prepends a
+  remark (`explore2.json`, checked by `grep`). The more a sequence is used, the more other entries carry it whole. *Conjecture*, not
+  measured: the relation runs through the editors' habit of entering variants; the material shows the containment, not the habit.
+- *A-number → findability*: a step at A200000 (3.2-3.6 % never found alone below, 0.8-0.9 % above; `explore2b.json`). Unexplained here.
+- *the advice of six → a fifth failed*: 84,847 sequences give fifty-one or more hits for their first six terms.
+
+**Dead ends, entered as dead ends:** P4 believed a name needs three to five numbers; one or two do for two in three sequences. P8 believed
+signs barely matter; they decide for 2.8 %.
+
+**Decision this map changed:** session 3's question. Planned (session 1): the shortest names as a gallery. Moved by the line *the canon →
+nowhere alone*: session 3 asks of the whole encyclopedia **what holds what** — the graph in which an edge runs from a sequence to every
+other that shows its whole run inside its own — and whether the work is that containment drawn: the encyclopedia as the box sees it,
+where the most famous entries are the ones it can never return alone.

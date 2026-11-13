@@ -54,3 +54,22 @@
   Nothing had been printed or written; no number of tonight's was seen. Fixed that line and its twin for M only (the maximum computed
   once), the synthetic run re-run with byte-identical output, the fix pushed before the second launch. The registration's "run once" is
   kept in this sense only: one run produced numbers. Logged as a deviation.
+- **02:27** The entry above was headed 02:28 without a clock read; `date -u` at its commit said 02:27:01. Second launch of the count at
+  02:27 (clock in the run's own output).
+- **02:30** Second run finished in about three minutes (clocks 02:27 and 02:30:27 in its output). File form as believed; no definition
+  changed. 401,318 sequences. Signed: **median B 6, median M 2, 8,045 never found alone (2.00 %)**, of them 3,394 twins, 2,466 beginnings
+  of another, 2,185 inside another. Predictions: P2 failed (median B 6, not 7-10: the box costs a third of the sequences more terms, but
+  not the median one), P4 failed (median M 2, not 3-5: 173,951 sequences are found by one number alone), P7 failed (52.3 % give a single
+  hit at six terms, not under half), P8 failed (signs ignored change M for 2.8 %, not under 2 %). Held: P1, P3 (32.0 %), P5 (95.8 %), P6,
+  P9 (117), P10 (132).
+- **02:31** Check by `grep -c -F`: 18 of 18 (P11 held). Every run of length M−1 of the twelve found-alone sequences grepped, 325 runs (the number first written here, 449, was not counted; recounted from `check2.json` before commit).
+- **02:31** Not registered: `explore2.py`, the extremes and eight sequences everyone knows, by name. **Seven of the eight can never be
+  found alone**: the Fibonacci numbers stand whole inside A212804 (the same numbers with a 1 in front), the squares inside A305559
+  ("[0, -1, -1] together with A000290"), the factorials inside two shifted copies, the primes inside or beside eleven others, four of them twins (`explore2c.json`; one holder is "prime numbers at
+  the beginning of the 20th century"), the counting numbers, the ones and the zeros inside dozens. Checked with `grep -F` on the whole
+  shown run, not with the count. The Catalan numbers are found alone, by fifteen later terms (the 16th to the 30th of 31 shown). Detour: I had planned to read the
+  shortest names as the next question; the canon's being unfindable is the larger line.
+- **02:32** Not registered: `explore2b.py`, by A-number band. Never found alone: 3.2-3.6 % of sequences up to A200000, then 0.8-0.9 %
+  above. Why the step: not in this material; not guessed at on the page.
+- **02:32** Signed hits at six: 206,892 sequences give one hit for their first six terms; **84,847 give fifty-one or more** (the zeros
+  9,536). The advice of six terms works for half and fails badly for a fifth.

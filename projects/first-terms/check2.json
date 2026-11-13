@@ -1,0 +1,205 @@
+{
+ "seed": 20261113,
+ "held": 18,
+ "of": 18,
+ "rows": [
+  {
+   "a": "A096844",
+   "n": 54,
+   "B": 7,
+   "grep_B": 1,
+   "grep_B_minus_1": 2,
+   "M": 2,
+   "M_pos": 49,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 54,
+   "min_grep_M_minus_1": 600,
+   "holds": true
+  },
+  {
+   "a": "A009922",
+   "n": 48,
+   "B": 6,
+   "grep_B": 1,
+   "grep_B_minus_1": 2,
+   "M": 2,
+   "M_pos": 20,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 48,
+   "min_grep_M_minus_1": 61,
+   "holds": true
+  },
+  {
+   "a": "A070751",
+   "n": 58,
+   "B": 13,
+   "grep_B": 1,
+   "grep_B_minus_1": 2,
+   "M": 5,
+   "M_pos": 18,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 55,
+   "min_grep_M_minus_1": 20,
+   "holds": true
+  },
+  {
+   "a": "A197186",
+   "n": 45,
+   "B": 4,
+   "grep_B": 1,
+   "grep_B_minus_1": 9,
+   "M": 2,
+   "M_pos": 16,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 45,
+   "min_grep_M_minus_1": 18,
+   "holds": true
+  },
+  {
+   "a": "A341693",
+   "n": 57,
+   "B": 7,
+   "grep_B": 1,
+   "grep_B_minus_1": 9,
+   "M": 3,
+   "M_pos": 23,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 56,
+   "min_grep_M_minus_1": 12,
+   "holds": true
+  },
+  {
+   "a": "A005275",
+   "n": 5,
+   "B": 5,
+   "grep_B": 1,
+   "grep_B_minus_1": 2,
+   "M": 2,
+   "M_pos": 3,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 5,
+   "min_grep_M_minus_1": 2,
+   "holds": true
+  },
+  {
+   "a": "A246738",
+   "n": 30,
+   "B": 4,
+   "grep_B": 1,
+   "grep_B_minus_1": 9,
+   "M": 1,
+   "M_pos": 11,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 0,
+   "min_grep_M_minus_1": null,
+   "holds": true
+  },
+  {
+   "a": "A035714",
+   "n": 20,
+   "B": 4,
+   "grep_B": 1,
+   "grep_B_minus_1": 2,
+   "M": 1,
+   "M_pos": 13,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 0,
+   "min_grep_M_minus_1": null,
+   "holds": true
+  },
+  {
+   "a": "A277072",
+   "n": 16,
+   "B": 5,
+   "grep_B": 1,
+   "grep_B_minus_1": 526,
+   "M": 1,
+   "M_pos": 8,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 0,
+   "min_grep_M_minus_1": null,
+   "holds": true
+  },
+  {
+   "a": "A071765",
+   "n": 19,
+   "B": 3,
+   "grep_B": 1,
+   "grep_B_minus_1": 246,
+   "M": 1,
+   "M_pos": 6,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 0,
+   "min_grep_M_minus_1": null,
+   "holds": true
+  },
+  {
+   "a": "A051589",
+   "n": 17,
+   "B": 4,
+   "grep_B": 1,
+   "grep_B_minus_1": 45,
+   "M": 1,
+   "M_pos": 6,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 0,
+   "min_grep_M_minus_1": null,
+   "holds": true
+  },
+  {
+   "a": "A026427",
+   "n": 66,
+   "B": 60,
+   "grep_B": 1,
+   "grep_B_minus_1": 2,
+   "M": 6,
+   "M_pos": 54,
+   "grep_M": 1,
+   "runs_of_M_minus_1": 62,
+   "min_grep_M_minus_1": 2,
+   "holds": true
+  },
+  {
+   "a": "A097969",
+   "n": 15,
+   "kind": "beginning of another",
+   "grep_full": 2,
+   "holds": true
+  },
+  {
+   "a": "A010861",
+   "n": 66,
+   "kind": "inside another",
+   "grep_full": 2,
+   "holds": true
+  },
+  {
+   "a": "A168840",
+   "n": 16,
+   "kind": "twin",
+   "grep_full": 36,
+   "holds": true
+  },
+  {
+   "a": "A024341",
+   "n": 6,
+   "kind": "beginning of another",
+   "grep_full": 2,
+   "holds": true
+  },
+  {
+   "a": "A169249",
+   "n": 15,
+   "kind": "twin",
+   "grep_full": 38,
+   "holds": true
+  },
+  {
+   "a": "A077800",
+   "n": 56,
+   "kind": "inside another",
+   "grep_full": 2,
+   "holds": true
+  }
+ ]
+}
