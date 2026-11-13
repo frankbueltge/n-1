@@ -1,0 +1,56 @@
+[
+ {
+  "from": "A000001",
+  "to": "A001000",
+  "sequences": 1000,
+  "never_found_alone": 36,
+  "never_share": 0.036,
+  "M_eq_1_share_of_alone": 0.6462655601659751,
+  "B_median": 6
+ },
+ {
+  "from": "A001001",
+  "to": "A010000",
+  "sequences": 9000,
+  "never_found_alone": 320,
+  "never_share": 0.035555555555555556,
+  "M_eq_1_share_of_alone": 0.5172811059907834,
+  "B_median": 6
+ },
+ {
+  "from": "A010001",
+  "to": "A100000",
+  "sequences": 90000,
+  "never_found_alone": 2909,
+  "never_share": 0.032322222222222224,
+  "M_eq_1_share_of_alone": 0.3877438541295886,
+  "B_median": 6
+ },
+ {
+  "from": "A100001",
+  "to": "A200000",
+  "sequences": 100000,
+  "never_found_alone": 3055,
+  "never_share": 0.03055,
+  "M_eq_1_share_of_alone": 0.4470885553664449,
+  "B_median": 6
+ },
+ {
+  "from": "A200001",
+  "to": "A300000",
+  "sequences": 100000,
+  "never_found_alone": 800,
+  "never_share": 0.008,
+  "M_eq_1_share_of_alone": 0.5279637096774193,
+  "B_median": 5
+ },
+ {
+  "from": "A300001",
+  "to": "A500000",
+  "sequences": 101318,
+  "never_found_alone": 925,
+  "never_share": 0.009129670937049686,
+  "M_eq_1_share_of_alone": 0.3919795204844959,
+  "B_median": 7
+ }
+]
