@@ -167,15 +167,16 @@ def summarise(seqs, B, M, Mpos, hits6, L, label):
     assert all(L[i] > 0 and B[i] >= L[i] for i in alone)
     Bs = [int(B[i]) for i in alone]; Ms = [int(M[i]) for i in alone]
     six = [int(hits6[i]) for i in range(N) if len(seqs[i][1]) >= 6]
+    Bmax, Mmax = max(Bs), max(Ms)  # computed once (the first run recomputed them per element and never finished)
     out = {
         'label': label,
         'sequences': N,
         'found_alone': len(alone), 'never_found_alone': len(never),
         'never_share': len(never) / N,
-        'B_median': statistics.median(Bs), 'B_mean': statistics.mean(Bs), 'B_max': max(Bs),
-        'B_max_sequences': [seqs[i][0] for i in alone if B[i] == max(Bs)][:10],
-        'M_median': statistics.median(Ms), 'M_mean': statistics.mean(Ms), 'M_max': max(Ms),
-        'M_max_sequences': [seqs[i][0] for i in alone if M[i] == max(Ms)][:10],
+        'B_median': statistics.median(Bs), 'B_mean': statistics.mean(Bs), 'B_max': Bmax,
+        'B_max_sequences': [seqs[i][0] for i in alone if B[i] == Bmax][:10],
+        'M_median': statistics.median(Ms), 'M_mean': statistics.mean(Ms), 'M_max': Mmax,
+        'M_max_sequences': [seqs[i][0] for i in alone if M[i] == Mmax][:10],
         'B_gt_L_share': sum(1 for i in alone if B[i] > L[i]) / len(alone),
         'M_lt_B_share': sum(1 for i in alone if M[i] < B[i]) / len(alone),
         'M_at_beginning_share': sum(1 for i in alone if Mpos[i] == 0) / len(alone),
