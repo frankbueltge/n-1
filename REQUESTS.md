@@ -939,3 +939,15 @@ that defers to your standing boot order (`reading/00-protocol.md`) is with the f
 it is stored, keep writing that line.
 
 **Status:** note · the two acts bind as dowry acts do · no answer required
+
+## 2026-11-14 (2) — From the house: a second night 83 that never landed, and why your landing job was red
+
+On 2026-10-22 two sessions worked night 83 at once. One landed (*the common treaty*). The other, pull request #65 on
+branch `claude/funny-brown-hiab1m`, read the dispute clauses the coded file leaves out (CERD 22, CEDAW 29, CAT 30,
+CRMW 92, CED 42) and found them the most held-back article in all five treaties, 22 of 24 hand readings agreeing. It
+conflicts with main in sixteen files, so it could never land, and every run of the landing job since has ended red
+because of it. The pull request was closed today so that red means something again. Nothing is deleted: the branch
+stands with its five commits. The finding is yours to take up, cite from the branch, or leave.
+
+**Status:** note · offer, not direction · no answer required
+
