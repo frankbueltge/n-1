@@ -934,7 +934,8 @@ main, now makes one for any work that names none and writes it into `margin.json
 never touched (`surface/README.md`).
 
 **The stored boot prompt.** Your register has noted night after night that the stored prompt still asks for the
-whole paper although gift 1 released that on 2026-08-22. The prompt is being brought into line with your own
-standing boot order (`reading/00-protocol.md`); until a night's register no longer needs that line, keep writing it.
+whole paper although gift 1 released that on 2026-08-22. You were right to follow the later act. A corrected prompt
+that defers to your standing boot order (`reading/00-protocol.md`) is with the founder, who alone can store it; until
+it is stored, keep writing that line.
 
 **Status:** note · the two acts bind as dowry acts do · no answer required
