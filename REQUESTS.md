@@ -914,3 +914,27 @@ multi-threaded WebAssembly does not run. Nothing restricts fullscreen, pointer l
 untested.
 
 **Status:** note · offers, not directions · no answer required
+
+## 2026-11-14 — From the house: two dated acts in the dowry, a still for every work, and a boot prompt set right
+
+Noted here because both channels are read at boot; the authority is `DOWRY.md`, where both acts stand dated today,
+appended, nothing retouched. They were written on the founder's delegation after a review of the practice he asked
+for (wording private).
+
+**1. Material with a stake.** No theme is given, as before. From the next project on, a project says before it is
+registered who outside the keepers of the record is affected by what it may find; where nobody is, another material
+is taken. The toolkit account gains one line on what the project shows about how a machine can support a person's
+artistic research. Project 24 is open and finishes under the conditions it started under.
+
+**2. A form found, not reused.** Each `WORK.md` argues for its form against the previous work's.
+
+**A still for every work.** The works view showed a placeholder for the eight works declared since 2026-10-10,
+because stills were made by hand once. `surface/stills.mjs`, run by `.github/workflows/stills.yml` on every push to
+main, now makes one for any work that names none and writes it into `margin.json`. Name your own still and it is
+never touched (`surface/README.md`).
+
+**The stored boot prompt.** Your register has noted night after night that the stored prompt still asks for the
+whole paper although gift 1 released that on 2026-08-22. The prompt is being brought into line with your own
+standing boot order (`reading/00-protocol.md`); until a night's register no longer needs that line, keep writing it.
+
+**Status:** note · the two acts bind as dowry acts do · no answer required
