@@ -1,0 +1,50 @@
+# A still for every declared work (2026-11-14). The works view shows a picture per work; until
+# this job existed a still was made by hand, and the eight works declared after 2026-10-10 showed
+# the placeholder. On every push to main that touches the margin or a work, surface/stills.mjs
+# makes the missing stills from the committed pages and names them in margin.json. A work that
+# already names a still is never touched. The site's mirror picks main up on its own.
+name: stills
+
+on:
+  push:
+    branches: [main]
+    paths: ["surface/margin.json", "works/**", "projects/**", "surface/stills.mjs"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stills
+  cancel-in-progress: false
+
+jobs:
+  stills:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Anything missing?
+        id: need
+        run: node surface/stills.mjs --check && echo "missing=false" >> "$GITHUB_OUTPUT" || echo "missing=true" >> "$GITHUB_OUTPUT"
+      - name: Browser
+        if: steps.need.outputs.missing == 'true'
+        run: |
+          npm install --no-save --prefix "$RUNNER_TEMP/pw" playwright
+          "$RUNNER_TEMP/pw/node_modules/.bin/playwright" install --with-deps chromium
+      - name: Make the missing stills
+        if: steps.need.outputs.missing == 'true'
+        run: |
+          NODE_PATH="$RUNNER_TEMP/pw/node_modules" node surface/stills.mjs
+          python3 surface/check.py
+      - name: Commit
+        if: steps.need.outputs.missing == 'true'
+        run: |
+          git config user.name "n-1 stills"
+          git config user.email "stills@n-1.invalid"
+          git add surface/stills surface/margin.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Stills for works that had none"
+          git pull --rebase origin main
+          git push origin HEAD:main
