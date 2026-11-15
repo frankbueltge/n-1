@@ -131,6 +131,52 @@ held2 = sum(1 for p in pred2 if p[3])
 rows2 = ''.join(f'<tr><td>P{a}</td><td style="text-align:left">{html.escape(b)}</td><td>{html.escape(c)}</td><td>{"held" if d else "<b>failed</b>"}</td></tr>' for a, b, c, d in pred2)
 more50 = S2['signed']['hits6_distribution_to_50']['51']
 
+# Session 3: what holds what
+S3 = json.load(open('session3.json'))
+C3 = json.load(open('check3.json'))
+X3 = json.load(open('explore3.json'))
+bands3 = [('named by none', '0-0'), ('by 1', '1-1'), ('by 2-4', '2-4'), ('by 5-9', '5-9'), ('by 10-49', '10-49'), ('by 50-199', '50-199'), ('by 200 or more', '200-max')]
+W3, H3, L3, T3, B3 = 900, 330, 60, 16, 56
+bw3 = (W3 - L3 - 20) / len(bands3)
+mx3 = 0.35
+e3 = []
+for v in (0, .1, .2, .3):
+    y = T3 + (1 - v / mx3) * (H3 - T3 - B3)
+    e3.append(f'<line class="ax" x1="{L3}" x2="{W3 - 20}" y1="{y:.1f}" y2="{y:.1f}"/><text class="yr" x="{L3 - 6}" y="{y + 4:.1f}" text-anchor="end">{int(v * 100)} %</text>')
+for i, (lab, key) in enumerate(bands3):
+    b = S3['never_share_by_named'][key]
+    h = b['share'] / mx3 * (H3 - T3 - B3); x = L3 + i * bw3
+    e3.append(f'<rect class="np" x="{x + 8:.1f}" y="{H3 - B3 - h:.1f}" width="{bw3 - 16:.1f}" height="{h:.1f}"><title>{n(b["never"])} of {n(b["sequences"])} sequences '
+              f'{lab} other entries can never be found alone ({pct(b["share"])} %)</title></rect>')
+    e3.append(f'<text class="yr" x="{x + bw3 / 2:.1f}" y="{H3 - B3 - h - 6:.1f}" text-anchor="middle">{pct(b["share"])} %</text>')
+    e3.append(f'<text class="yr" x="{x + bw3 / 2:.1f}" y="{H3 - B3 + 18}" text-anchor="middle">{lab}</text>')
+    e3.append(f'<text class="yr" x="{x + bw3 / 2:.1f}" y="{H3 - B3 + 34}" text-anchor="middle">{n(b["sequences"])}</text>')
+fig3 = (f'<div class="sc"><svg class="ch" viewBox="0 0 {W3} {H3}" role="img" aria-labelledby="f3t"><title id="f3t">Bar chart: the share of '
+        f'sequences that can never be found alone, by how many other entries name them. It rises from '
+        f'{pct(S3["never_share_by_named"]["0-0"]["share"])} % for sequences named by none to {pct(S3["never_share_by_named"]["200-max"]["share"])} % '
+        f'for those named by 200 or more.</title>{"".join(e3)}</svg></div>')
+def short(t, k=64):
+    return html.escape(t if len(t) <= k else t[:k - 2].rsplit(' ', 1)[0] + ' …')
+heavy = ''.join(f'<tr><td style="text-align:left">{short(r["name"])} ({r["a"]})</td><td style="text-align:left"><code>{html.escape(r["terms"].replace(",", ", "))}</code></td><td>{n(r["holders"])}</td></tr>'
+                for r in X3['heaviest_30'][:8])
+ch = S3['deepest_chains'][0]
+chain3 = ' ⊂ '.join(f'<span title="{html.escape(c["name"])}">{c["a"]} ({c["n"]})</span>' for c in reversed(ch))
+pred3 = [
+    ('1', 'between 401,318 and 401,900 sequences', n(S3['sequences']), S3['predictions']['P1']),
+    ('2', '1.8-2.2 % never found alone', f'{pct(S3["never_share"], 2)} %', S3['predictions']['P2']),
+    ('3', 'median holders 1-3', f'{S3["holders_median"]:.0f}', S3['predictions']['P3']),
+    ('4', 'at least half have a holder that is itself found alone', f'{pct(S3["with_alone_holder_share"])} %', S3['predictions']['P4']),
+    ('5', 'deepest chain at least 6', f'{S3["depth_max"]}', S3['predictions']['P5']),
+    ('6', 'the most held shows at most three terms', f'{S3["most_held"][0]["n"]} ({S3["most_held"][0]["a"]})', S3['predictions']['P6']),
+    ('7', 'the greatest holder holds at least 20', f'{S3["most_holding"][0]["holds"]}', S3['predictions']['P7']),
+    ('8', 'at least 30 of the 100 most named never found alone', f'{S3["top100_never"]}', S3['predictions']['P8']),
+    ('9', 'median times named higher for the never found alone', f'{S3["named_median_never"]:.0f} and {S3["named_median_alone"]:.0f}', S3['predictions']['P9']),
+    ('10', 'among the 1,000 most named, at least five times the overall share', f'{S3["top1000_ratio"]:.1f} times', S3['predictions']['P10']),
+    ('11', 'grep check at least 17 of 18', f'{C3["held"]} of {C3["of"]}', C3['held'] >= 17),
+]
+held3 = sum(1 for p in pred3 if p[3])
+rows3 = ''.join(f'<tr><td>P{a}</td><td style="text-align:left">{html.escape(b)}</td><td>{html.escape(c)}</td><td>{"held" if d else "<b>failed</b>"}</td></tr>' for a, b, c, d in pred3)
+
 page = f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>First Terms</title><link rel="icon" href="data:,">
@@ -148,7 +194,7 @@ table{{border-collapse:collapse;font:14px/1.4 system-ui,sans-serif}}table th,tab
 code{{font-size:.9em;overflow-wrap:anywhere}}
 svg.ch polyline{{stroke-width:2.5}}svg.ch .cm{{stroke:var(--np);fill:var(--np)}}svg.ch polyline.cm,svg.ch polyline.cb,svg.ch polyline.cl{{fill:none}}svg.ch .cb{{stroke:var(--a);fill:var(--a)}}svg.ch .cl{{stroke:var(--f);fill:var(--f)}}svg.ch .cmt{{fill:var(--np)}}svg.ch .cbt{{fill:var(--a)}}svg.ch .clt{{fill:var(--mut)}}
 </style></head><body><main>
-<p class="sm mut">Project 24, sessions 1 and 2 · 11 and 13 November 2026 · open; no work before session 3 · data: The On-Line Encyclopedia of Integer
+<p class="sm mut">Project 24, sessions 1 to 3 · 11, 13 and 15 November 2026 · open; whether a work is made is decided in session 4 · data: The On-Line Encyclopedia of Integer
 Sequences, <a href="https://oeis.org/">oeis.org</a>, CC BY-SA 4.0 · this page CC BY-SA 4.0</p>
 <h1>First Terms</h1>
 <p class="big">The On-Line Encyclopedia of Integer Sequences holds <b>{n(S["sequences"])}</b> sequences of whole numbers, each shown by
@@ -219,15 +265,41 @@ exactly one line, and every shorter run in at least two ({C2["held"]} of {C2["of
 <p class="sm">Predictions, pushed before the count (<code>SESSION2.md</code>, commit 624986e). {held2} of 11 held.</p>
 <table><tr><th>#</th><th style="text-align:left">registered</th><th>found</th><th></th></tr>{rows2}</table>
 
-<h2>7. What is not here</h2>
+<h2>7. What holds what (session 3)</h2>
+<p class="big">An entry the box can never return alone is held: its whole shown run stands inside another. Drawn as a graph, every
+sequence against every window of every other, there are <b>{n(S3["edges"])}</b> such holdings, confirmed term by term. The entries held by
+the most others are not the famous ones. They are short entries whose whole content is a few small numbers: Brocard's problem asks for the k with k! + 1 a square, and its
+entry shows three numbers, <code>4, 5, 7</code>, which stand in order inside <b>{n(S3["most_held"][0]["holders"])}</b> other sequences.</p>
+<div class="sc"><table><tr><th style="text-align:left">held entry</th><th style="text-align:left">all it shows</th><th>held by</th></tr>{heavy}</table></div>
+<p class="sm mut">File of 14 November 2026, {n(S3["sequences"])} sequences; {n(S3["never_found_alone"])} never found alone. The most
+held, by name. Every holding confirmed by comparing the terms, not only their hashes.</p>
+<p>The famous ones are held too, but by few: the Fibonacci numbers by one entry, the positive integers by {S3["top100"][[e["a"] for e in S3["top100"]].index("A000027")]["holders"]}, the
+primes by {S3["top100"][[e["a"] for e in S3["top100"]].index("A000040")]["holders"]}. What sets them apart is how often other entries name them. The more other entries
+name a sequence, the likelier the box cannot return it alone:</p>
+{fig3}
+<p class="sm mut">Each bar: the share never found alone among the sequences named by that many other entries (in the encyclopedia's
+names file, as an A-number). The count of sequences in each band below it. Hover a bar.</p>
+<p>Holdings nest. The deepest chain holds {S3["depth_max"]} sequences, each inside the next, running through the positive integers and
+two entries named "Duplicate of A020725": {chain3}. Of the {n(S3["never_found_alone"])} held entries, {n(X3["never_named_duplicate_or_erroneous"])}
+call themselves, at the start of their names, duplicates, erroneous, incorrect or variant versions; {pct(S3["with_alone_holder_share"], 0)} % are held by at least one entry that
+the box can return alone. The greatest holders are two of the 32 sequences illustrating that A093382(2) = 199; each shows
+{S3["most_holding"][0]["n"]} terms and holds {S3["most_holding"][0]["holds"]} held entries.</p>
+<p>The check: for twelve held entries drawn at random (seed 20261115), <code>grep</code> found the whole run in exactly one more line than
+the count's holders; for six of the thousand most named, <code>grep</code> found the A-number in exactly as many other names
+({C3["held"]} of {C3["of"]}). Every link of the deepest chain found by <code>grep</code>
+({sum(1 for l in C3["chain_links"] if l["ok"])} of {len(C3["chain_links"])}).</p>
+<p class="sm">Predictions, pushed before the count (<code>SESSION3.md</code>). {held3} of 11 held.</p>
+<table><tr><th>#</th><th style="text-align:left">registered</th><th>found</th><th></th></tr>{rows3}</table>
+
+<h2>8. What is not here</h2>
 <p>Whether a shown term is right, and whether twins differ further on, are not in this file. Why the sequences after A200000 are about a
 quarter as often unfindable as those before is not in it either. No contributor is named or counted.</p>
 <p class="sm mut">Files: <a href="SELECTION.md">SELECTION.md</a> · <a href="count1.py">count1.py</a> → <a href="session1.json">session1.json</a> and <a href="session1-per.json.gz">session1-per.json.gz</a> (every sequence: A-number, terms shown, kind, length, nearest partner; no terms)
 · <a href="check1.py">check1.py</a> → <a href="check1.json">check1.json</a> · <a href="explore1.py">explore1.py</a> →
 <a href="explore1.json">explore1.json</a> (exploratory) · <a href="JOURNAL.md">JOURNAL.md</a> · <a href="MAP.md">MAP.md</a> ·
-<a href="NEIGHBOURS.md">NEIGHBOURS.md</a> · session 2: <a href="SESSION2.md">SESSION2.md</a> · <a href="count2.py">count2.py</a> → <a href="session2.json">session2.json</a> and <a href="session2-per.json.gz">session2-per.json.gz</a> · <a href="check2.py">check2.py</a> → <a href="check2.json">check2.json</a> · <a href="explore2.py">explore2.py</a>, <a href="explore2b.py">explore2b.py</a>, <a href="explore2c.py">explore2c.py</a> (exploratory). Data: <a href="https://oeis.org/">The On-Line Encyclopedia of Integer Sequences</a>,
+<a href="NEIGHBOURS.md">NEIGHBOURS.md</a> · session 2: <a href="SESSION2.md">SESSION2.md</a> · <a href="count2.py">count2.py</a> → <a href="session2.json">session2.json</a> and <a href="session2-per.json.gz">session2-per.json.gz</a> · <a href="check2.py">check2.py</a> → <a href="check2.json">check2.json</a> · <a href="explore2.py">explore2.py</a>, <a href="explore2b.py">explore2b.py</a>, <a href="explore2c.py">explore2c.py</a> (exploratory) · session 3: <a href="SESSION3.md">SESSION3.md</a> · <a href="count3.py">count3.py</a> → <a href="session3.json">session3.json</a> and <a href="session3-per.json.gz">session3-per.json.gz</a> · <a href="check3.py">check3.py</a> → <a href="check3.json">check3.json</a> · <a href="explore3.py">explore3.py</a> → <a href="explore3.json">explore3.json</a> (exploratory). Data: <a href="https://oeis.org/">The On-Line Encyclopedia of Integer Sequences</a>,
 CC BY-SA 4.0. Remainder.</p>
 </main></body></html>
 '''
 open('index.html', 'w').write(page)
-print('ok', held, held2)
+print('ok', held, held2, held3)

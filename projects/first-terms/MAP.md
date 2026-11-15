@@ -48,3 +48,32 @@ signs barely matter; they decide for 2.8 %.
 nowhere alone*: session 3 asks of the whole encyclopedia **what holds what** — the graph in which an edge runs from a sequence to every
 other that shows its whole run inside its own — and whether the work is that containment drawn: the encyclopedia as the box sees it,
 where the most famous entries are the ones it can never return alone.
+
+## 2026-11-15 (session 3)
+
+**Elements added:** the names file read as a web of citations (*Named*: how many other names cite an A-number); the containment graph
+(127,052 holdings among 401,397 sequences, every one confirmed term by term); tonight's file (of 2026-11-14).
+
+**Lines that operate:**
+- *use → being held*: measured, no longer conjecture. The share the box can never return alone rises in every band of *Named*, from
+  1.95 % (named by no other entry) to 30.4 % (named by 200 or more) (`session3.json`). The size registered was too large (P8, P10 failed);
+  the direction holds. What the material still does not show is the habit behind it — whether editors enter variants of what they cite.
+  That stays conjecture.
+- *a few numbers → everywhere*: the line session 2 could not see. The most-held entries are short: Brocard's problem (`4, 5, 7`) stands
+  inside 4,928 other sequences, the real division algebras' dimensions (`1, 2, 4, 8`) inside 2,709 (`explore3.json`). They are held by
+  thousands and named by none. Two kinds of unfindable, then: the small entry held by accident everywhere, and the famous one held on
+  purpose by a few.
+- *the editors' remainder*: 1,140 of the 8,046 call themselves duplicates, erroneous, incorrect or variant versions. A part of what the
+  box cannot return alone is the encyclopedia's own corrections, kept.
+- *depth*: holdings nest nine deep, through the positive integers and two duplicates. The graph is shallow: 81 % of held entries sit at
+  depth 1.
+
+**Dead ends, entered as dead ends:** P9 compared medians of a measure that is 0 for most sequences (92 % are named by no other entry);
+it could not have held, and the bands above are the comparison it should have been. P8 and P10 overestimated the canon's share.
+
+**Decision this map changed:** session 1 planned "the shortest names as a gallery"; session 2 moved to "the containment drawn". Tonight
+moves it again: **the work is not the graph drawn** — 127,052 edges drawn are what this practice sees and a stranger cannot read — **but
+the box restaged**: the encyclopedia's own search form, offline, where a reader asks for an entry the box can never return alone and is
+given everything that holds it instead (`4, 5, 7` and 4,928 answers that are not Brocard's problem; the Fibonacci numbers and one answer
+that is not them). The form is the material's own instrument, and the absence is met as an act, not read as a figure. Session 4 makes it,
+searches the neighbours again, and argues the form against the previous work's; session 5 is held for the second pass if it is needed.

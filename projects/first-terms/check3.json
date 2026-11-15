@@ -1,0 +1,180 @@
+{
+ "checks": [
+  {
+   "a": "A077134",
+   "kind": "holders",
+   "counted": 1,
+   "grep_lines": 2,
+   "ok": true
+  },
+  {
+   "a": "A004950",
+   "kind": "holders",
+   "counted": 1,
+   "grep_lines": 2,
+   "ok": true
+  },
+  {
+   "a": "A135839",
+   "kind": "holders",
+   "counted": 1,
+   "grep_lines": 2,
+   "ok": true
+  },
+  {
+   "a": "A170490",
+   "kind": "holders",
+   "counted": 36,
+   "grep_lines": 37,
+   "ok": true
+  },
+  {
+   "a": "A194911",
+   "kind": "holders",
+   "counted": 1,
+   "grep_lines": 2,
+   "ok": true
+  },
+  {
+   "a": "A170620",
+   "kind": "holders",
+   "counted": 35,
+   "grep_lines": 36,
+   "ok": true
+  },
+  {
+   "a": "A170151",
+   "kind": "holders",
+   "counted": 2,
+   "grep_lines": 3,
+   "ok": true
+  },
+  {
+   "a": "A266769",
+   "kind": "holders",
+   "counted": 1,
+   "grep_lines": 2,
+   "ok": true
+  },
+  {
+   "a": "A169290",
+   "kind": "holders",
+   "counted": 36,
+   "grep_lines": 37,
+   "ok": true
+  },
+  {
+   "a": "A037434",
+   "kind": "holders",
+   "counted": 1,
+   "grep_lines": 2,
+   "ok": true
+  },
+  {
+   "a": "A087787",
+   "kind": "holders",
+   "counted": 1,
+   "grep_lines": 2,
+   "ok": true
+  },
+  {
+   "a": "A043575",
+   "kind": "holders",
+   "counted": 3,
+   "grep_lines": 4,
+   "ok": true
+  },
+  {
+   "a": "A080764",
+   "kind": "named",
+   "counted": 11,
+   "grep_lines_minus_own": 11,
+   "own_line_names_itself": false,
+   "ok": true
+  },
+  {
+   "a": "A083221",
+   "kind": "named",
+   "counted": 30,
+   "grep_lines_minus_own": 30,
+   "own_line_names_itself": false,
+   "ok": true
+  },
+  {
+   "a": "A125005",
+   "kind": "named",
+   "counted": 12,
+   "grep_lines_minus_own": 12,
+   "own_line_names_itself": false,
+   "ok": true
+  },
+  {
+   "a": "A131821",
+   "kind": "named",
+   "counted": 11,
+   "grep_lines_minus_own": 11,
+   "own_line_names_itself": false,
+   "ok": true
+  },
+  {
+   "a": "A026794",
+   "kind": "named",
+   "counted": 10,
+   "grep_lines_minus_own": 10,
+   "own_line_names_itself": false,
+   "ok": true
+  },
+  {
+   "a": "A057889",
+   "kind": "named",
+   "counted": 28,
+   "grep_lines_minus_own": 28,
+   "own_line_names_itself": false,
+   "ok": true
+  }
+ ],
+ "held": 18,
+ "of": 18,
+ "chain_links": [
+  {
+   "lower": "A069782",
+   "upper": "A262530",
+   "ok": true
+  },
+  {
+   "lower": "A317945",
+   "upper": "A069782",
+   "ok": true
+  },
+  {
+   "lower": "A000027",
+   "upper": "A317945",
+   "ok": true
+  },
+  {
+   "lower": "A303502",
+   "upper": "A000027",
+   "ok": true
+  },
+  {
+   "lower": "A020725",
+   "upper": "A303502",
+   "ok": true
+  },
+  {
+   "lower": "A114142",
+   "upper": "A020725",
+   "ok": true
+  },
+  {
+   "lower": "A104661",
+   "upper": "A114142",
+   "ok": true
+  },
+  {
+   "lower": "A114143",
+   "upper": "A104661",
+   "ok": true
+  }
+ ]
+}
