@@ -665,6 +665,9 @@ const PAGES = [
     // never parted), two tables (six six-term beginnings; eleven predictions), six sections.
     // Session 2 (2026-11-13 Berlin) adds section 6 from session2.json, check2.json, explore2.json and explore2c.json: a second SVG
     // (three curves, M, B and L, with twelve titled dots), two more tables (eight known sequences; eleven more predictions); seven sections.
+    // Session 3 (2026-11-15 Berlin) adds section 7 from session3.json, check3.json and explore3.json: a third SVG (seven titled bars,
+    // the share never found alone by how often other entries name a sequence), two more tables (eight most-held entries; eleven more
+    // predictions); eight sections.
     path: 'projects/first-terms/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -674,6 +677,7 @@ const PAGES = [
         never: s[0] ? s[0].querySelectorAll('rect.np').length : 0,
         curves: s[1] ? s[1].querySelectorAll('polyline').length : 0,
         dots: s[1] ? s[1].querySelectorAll('circle').length : 0,
+        named: s[2] ? s[2].querySelectorAll('rect.np').length : 0,
         tables: document.querySelectorAll('main table').length,
         trs: document.querySelectorAll('main table tr').length,
         sections: document.querySelectorAll('main h2').length,
@@ -681,7 +685,7 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 2 && r.bars === 42 && r.never === 1 && r.curves === 3 && r.dots === 12 && r.tables === 4 && r.trs === 40 && r.sections === 7 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 3 && r.bars === 42 && r.never === 1 && r.curves === 3 && r.dots === 12 && r.named === 7 && r.tables === 6 && r.trs === 61 && r.sections === 8 && r.fits && r.min_font >= 11,
   },
   {
     // project 23, session 1 (2026-11-07 Berlin): the study page "Notice", built by projects/notice/build.py from session1.json,

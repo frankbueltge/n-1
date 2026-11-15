@@ -27,3 +27,12 @@ signs change M for 2.8 %). Check 18 of 18. Found: **by the search box's rule (th
 sequences can never be found alone — everything they show stands inside another entry — among them the Fibonacci numbers, the primes, the
 counting numbers, the squares, the factorials, the ones and the zeros; most other sequences are found alone by one or two numbers from
 further in.** No work (none before session 3). Next: session 3, what holds what (`MAP.md`).
+
+Session 3 (2026-11-15 Berlin): `SESSION3.md` (pushed before any line was read; the files fetched again, two days newer, hashes there);
+`count3.py` (pushed 4c5260d after a synthetic run checked against brute force) → `session3.json` and `session3-per.json.gz`; `check3.py` →
+`check3.json`; `explore3.py` → `explore3.json` (exploratory); `build.py` → `index.html` section 7; `MAP.md` and `JOURNAL.md` continued.
+Predictions: 11 registered; **8 held**, **3 failed** (P8: 21 of the 100 most named never found alone, not 30; P9: both medians of *Named*
+0; P10: 4.2 times the overall share among the 1,000 most named, not 5). Check 18 of 18; the deepest chain's links 8 of 8. Found: **127,052
+holdings, every one confirmed by the terms; the entries held by the most others are short ones nobody names — Brocard's problem,
+`4, 5, 7`, inside 4,928 sequences — while the famous ones are held by few; and the share the box can never return alone rises with how
+often other entries name a sequence, from 1.95 % to 30.4 %.** No work tonight. Next: session 4, the box restaged as the work (`MAP.md`).

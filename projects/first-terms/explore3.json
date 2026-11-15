@@ -1,0 +1,255 @@
+{
+ "never_by_length_capped_11": {
+  "1": 5,
+  "2": 18,
+  "3": 71,
+  "4": 228,
+  "5": 235,
+  "6": 263,
+  "7": 192,
+  "8": 157,
+  "9": 141,
+  "10": 134,
+  "11": 6602
+ },
+ "held_by_over_100": 90,
+ "held_by_over_100_by_length": {
+  "1": 2,
+  "2": 2,
+  "3": 12,
+  "4": 30,
+  "5": 16,
+  "6": 13,
+  "7": 5,
+  "8": 1,
+  "9": 3,
+  "10": 2,
+  "11": 4
+ },
+ "held_by_over_100_name_words": {
+  "prime": 23,
+  "all": 11,
+  "square": 11,
+  "complete": 3,
+  "known": 2,
+  "only": 2,
+  "problem": 2,
+  "factorial": 1,
+  "conjecture": 1,
+  "Fibonacci": 1,
+  "finite": 1
+ },
+ "never_named_duplicate_or_erroneous": 1140,
+ "heaviest_30": [
+  {
+   "a": "A146968",
+   "n": 3,
+   "holders": 4928,
+   "name": "Brocard's problem: positive integers k such that k!+1 is a square.",
+   "terms": "4,5,7"
+  },
+  {
+   "a": "A154660",
+   "n": 6,
+   "holders": 4685,
+   "name": "Numbers k such that k! + 37 and abs(k! - 37) are primes.",
+   "terms": "3,4,5,6,7,8"
+  },
+  {
+   "a": "A231407",
+   "n": 3,
+   "holders": 3809,
+   "name": "Positive integers that are not the sum of distinct primes.",
+   "terms": "1,4,6"
+  },
+  {
+   "a": "A177876",
+   "n": 4,
+   "holders": 3235,
+   "name": "a(n) is the number of distinct prime factors in Lucas-Lehmer numbers A003010(k-2)/(2^k-1), where k = A000043(n+1).",
+   "terms": "2,3,3,4"
+  },
+  {
+   "a": "A222011",
+   "n": 4,
+   "holders": 2709,
+   "name": "Dimensions of finite-dimensional real division algebras.",
+   "terms": "1,2,4,8"
+  },
+  {
+   "a": "A103303",
+   "n": 10,
+   "holders": 1384,
+   "name": "Complete list of digits used in the counting numbers (in base 10). Also known as the \"Arabic numerals\".",
+   "terms": "0,1,2,3,4,5,6,7,8,9"
+  },
+  {
+   "a": "A245206",
+   "n": 1,
+   "holders": 1329,
+   "name": "Odd primes p with E_{p-3}(1/4) == 0 (mod p), where E_n(x) denotes the Euler polynomial of degree n.",
+   "terms": "1019"
+  },
+  {
+   "a": "A188545",
+   "n": 3,
+   "holders": 1246,
+   "name": "Fusible numbers.",
+   "terms": "1,3,10"
+  },
+  {
+   "a": "A397192",
+   "n": 1,
+   "holders": 1121,
+   "name": "Least m such that n = 1/s_1 + 1/s_2 + ... + 1/s_k with 1 < s_1 < s_2 < ... < s_k = m and s_1, ..., s_k are all semiprime.",
+   "terms": "589"
+  },
+  {
+   "a": "A192225",
+   "n": 4,
+   "holders": 1075,
+   "name": "Numbers that are both Fibonacci and Pell.",
+   "terms": "0,1,2,5"
+  },
+  {
+   "a": "A364863",
+   "n": 2,
+   "holders": 1071,
+   "name": "Number of iterations of x -> x + min { k in A036301 | k > x } until an element of A036301 is reached, or -1 if this never happens, starting with n.",
+   "terms": "0,21"
+  },
+  {
+   "a": "A295750",
+   "n": 2,
+   "holders": 1056,
+   "name": "Numbers that have exactly nine representations of a sum of seven nonnegative squares.",
+   "terms": "34,39"
+  },
+  {
+   "a": "A160540",
+   "n": 4,
+   "holders": 1019,
+   "name": "The number of distinct n X n panmagic = pandiagonal = diabolic = Nasik squares, not counting rotations, reflections, or row/column cyclings of others, with the additional property that each i X j rectangle, including each \"wrap-around\" i X j rectangle, where i and j are positive integers whose product is n, also sums to the magic constant A006003(n) = n(n^2+1)/2.",
+   "terms": "1,0,0,3"
+  },
+  {
+   "a": "A318165",
+   "n": 3,
+   "holders": 913,
+   "name": "The n^n dots problem: minimal number of straight lines (connected at their endpoints) required to pass through n^n dots arranged in an n X n X ... X n grid.",
+   "terms": "1,3,13"
+  },
+  {
+   "a": "A131959",
+   "n": 4,
+   "holders": 901,
+   "name": "Numbers k such that 1 + Product_{j=1..k} prime(j)^prime(k-j+1) is prime.",
+   "terms": "1,2,3,8"
+  },
+  {
+   "a": "A295745",
+   "n": 3,
+   "holders": 848,
+   "name": "Numbers that have exactly five representations of a sum of seven nonnegative squares.",
+   "terms": "18,20,24"
+  },
+  {
+   "a": "A112871",
+   "n": 4,
+   "holders": 741,
+   "name": "Triangle T(h, q) = number of rotes of height h and quench q.",
+   "terms": "1,1,5,2"
+  },
+  {
+   "a": "A121377",
+   "n": 10,
+   "holders": 715,
+   "name": "ASCII codes for decimal digits.",
+   "terms": "48,49,50,51,52,53,54,55,56,57"
+  },
+  {
+   "a": "A222010",
+   "n": 4,
+   "holders": 614,
+   "name": "Dimensions of spheres that admit continuous multiplications with unit element.",
+   "terms": "0,1,3,7"
+  },
+  {
+   "a": "A058759",
+   "n": 4,
+   "holders": 613,
+   "name": "Shannon switching function: a(n) is the least number k such that any switching (or Boolean) function of n variables can be realized as a two-terminal network of AND's and OR's in which the total number of occurrences of the variables X_1, X_1', ..., X_n, X_n' is no more than k (where the primes indicate complements).",
+   "terms": "1,4,8,13"
+  },
+  {
+   "a": "A210491",
+   "n": 4,
+   "holders": 603,
+   "name": "Planck temperature T_P.",
+   "terms": "1,4,1,6"
+  },
+  {
+   "a": "A165132",
+   "n": 6,
+   "holders": 594,
+   "name": "Primes whose logarithms are known to possess ternary BBP formulas.",
+   "terms": "2,3,5,7,11,13"
+  },
+  {
+   "a": "A193063",
+   "n": 6,
+   "holders": 594,
+   "name": "Primes p for which there is no prime q == 1 (mod 3) that is smaller than p and is a quadratic residue modulo p.",
+   "terms": "2,3,5,7,11,13"
+  },
+  {
+   "a": "A002393",
+   "n": 3,
+   "holders": 565,
+   "name": "Weight distribution of [8,4,4] Hamming code omitting 0 terms.",
+   "terms": "1,14,1"
+  },
+  {
+   "a": "A172411",
+   "n": 4,
+   "holders": 519,
+   "name": "Numbers k such that 2^k+9 and 2^k+27 are prime.",
+   "terms": "1,2,5,10"
+  },
+  {
+   "a": "A122916",
+   "n": 5,
+   "holders": 468,
+   "name": "Minimum number of n-candidate full-rank-order ballots required to instantiate any tournament on n nodes (where A beats B in the tournament if and only if it does so in a majority of the ballots and we forbid pairwise ties).",
+   "terms": "1,3,3,3,3"
+  },
+  {
+   "a": "A216149",
+   "n": 3,
+   "holders": 467,
+   "name": "Numbers k such that Sum_{j=1..k-1} (3*j)!/5^j is an integer.",
+   "terms": "1,3,16"
+  },
+  {
+   "a": "A121603",
+   "n": 9,
+   "holders": 444,
+   "name": "Numbers n such that the radius of the smallest circle into which n unit circles can be packed is 1 + csc(Pi/k), where k >= 2 is an integer.",
+   "terms": "2,3,4,5,6,7,8,9,11"
+  },
+  {
+   "a": "A228817",
+   "n": 5,
+   "holders": 444,
+   "name": "Decimal expansion of Planck force: F_P = c^4/G, in SI units.",
+   "terms": "1,2,1,0,2"
+  },
+  {
+   "a": "A088110",
+   "n": 4,
+   "holders": 433,
+   "name": "Numbers n such that 2^n + n and 2^n - n are noncomposite.",
+   "terms": "0,1,3,9"
+  }
+ ]
+}

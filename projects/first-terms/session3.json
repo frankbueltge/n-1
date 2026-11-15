@@ -1,0 +1,1573 @@
+{
+ "sequences": 401397,
+ "edges": 127052,
+ "twin_edges": 56442,
+ "never_found_alone": 8046,
+ "never_share": 0.02004499286242797,
+ "holders_median": 1.0,
+ "holders_mean": 15.790703455132986,
+ "holders_max": 4928,
+ "holders_distribution": {
+  "1": 4646,
+  "2": 610,
+  "3": 246,
+  "4": 147,
+  "5": 98,
+  "6": 80,
+  "7": 54,
+  "8": 48,
+  "9": 18,
+  "10": 31,
+  "11": 25,
+  "12": 17,
+  "13": 19,
+  "14": 15,
+  "15": 20,
+  "16": 10,
+  "17": 16,
+  "18": 8,
+  "19": 9,
+  "20": 33,
+  "21": 9,
+  "22": 9,
+  "23": 21,
+  "24": 5,
+  "25": 2,
+  "26": 31,
+  "27": 33,
+  "28": 9,
+  "29": 31,
+  "30": 36,
+  "31": 69,
+  "32": 69,
+  "33": 39,
+  "34": 229,
+  "35": 553,
+  "36": 466,
+  "37": 110,
+  "38": 3,
+  "39": 5,
+  "40": 3,
+  "41": 1,
+  "42": 10,
+  "43": 2,
+  "44": 1,
+  "45": 1,
+  "46": 1,
+  "49": 1,
+  "50": 3,
+  "51": 2,
+  "52": 3,
+  "53": 1,
+  "54": 2,
+  "55": 1,
+  "57": 1,
+  "58": 1,
+  "59": 2,
+  "60": 1,
+  "61": 1,
+  "63": 2,
+  "64": 1,
+  "66": 1,
+  "67": 2,
+  "70": 2,
+  "73": 2,
+  "76": 3,
+  "77": 2,
+  "78": 1,
+  "80": 1,
+  "81": 1,
+  "84": 2,
+  "86": 2,
+  "87": 1,
+  "88": 1,
+  "90": 2,
+  "91": 1,
+  "92": 1,
+  "93": 2,
+  "95": 2,
+  "96": 2,
+  "97": 2,
+  "99": 2,
+  "100": 1,
+  "101": 90
+ },
+ "with_alone_holder": 6047,
+ "with_alone_holder_share": 0.7515535669898086,
+ "only_twins": 1551,
+ "holding_sequences": 56857,
+ "holding_and_alone": 52509,
+ "depth_max": 9,
+ "depth_distribution_never": {
+  "1": 6538,
+  "2": 1153,
+  "3": 279,
+  "4": 55,
+  "5": 13,
+  "6": 4,
+  "7": 3,
+  "8": 1
+ },
+ "deepest_chains": [
+  [
+   {
+    "a": "A262530",
+    "n": 120,
+    "name": "Numbers such that digits occur at most twice in decimal representation."
+   },
+   {
+    "a": "A069782",
+    "n": 107,
+    "name": "Numbers k such that gcd(d(k^3), d(k)) is a power of 2."
+   },
+   {
+    "a": "A317945",
+    "n": 81,
+    "name": "Filter sequence constructed from the coefficients of the Stern polynomials B(d,t) collected for each divisor d of n. Restricted growth sequence transform of A317944."
+   },
+   {
+    "a": "A000027",
+    "n": 77,
+    "name": "The positive integers. Also called the natural numbers, the whole numbers or the counting numbers, but these terms are ambiguous."
+   },
+   {
+    "a": "A303502",
+    "n": 75,
+    "name": "Integers k such that the digits of k together with a single supplementary digit can be reordered to form a base-10 palindrome."
+   },
+   {
+    "a": "A020725",
+    "n": 74,
+    "name": "Integers >= 2. a(n) = n+1."
+   },
+   {
+    "a": "A114142",
+    "n": 72,
+    "name": "Duplicate of A020725."
+   },
+   {
+    "a": "A104661",
+    "n": 67,
+    "name": "Duplicate of A020725."
+   },
+   {
+    "a": "A114143",
+    "n": 37,
+    "name": "Possible sums of the final scores of completed American football games where both teams score."
+   }
+  ]
+ ],
+ "deepest_count": 1,
+ "most_held": [
+  {
+   "a": "A146968",
+   "n": 3,
+   "name": "Brocard's problem: positive integers k such that k!+1 is a square.",
+   "holders": 4928,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A154660",
+   "n": 6,
+   "name": "Numbers k such that k! + 37 and abs(k! - 37) are primes.",
+   "holders": 4685,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A231407",
+   "n": 3,
+   "name": "Positive integers that are not the sum of distinct primes.",
+   "holders": 3809,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A177876",
+   "n": 4,
+   "name": "a(n) is the number of distinct prime factors in Lucas-Lehmer numbers A003010(k-2)/(2^k-1), where k = A000043(n+1).",
+   "holders": 3235,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A222011",
+   "n": 4,
+   "name": "Dimensions of finite-dimensional real division algebras.",
+   "holders": 2709,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A103303",
+   "n": 10,
+   "name": "Complete list of digits used in the counting numbers (in base 10). Also known as the \"Arabic numerals\".",
+   "holders": 1384,
+   "holds": 1,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A245206",
+   "n": 1,
+   "name": "Odd primes p with E_{p-3}(1/4) == 0 (mod p), where E_n(x) denotes the Euler polynomial of degree n.",
+   "holders": 1329,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A188545",
+   "n": 3,
+   "name": "Fusible numbers.",
+   "holders": 1246,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A397192",
+   "n": 1,
+   "name": "Least m such that n = 1/s_1 + 1/s_2 + ... + 1/s_k with 1 < s_1 < s_2 < ... < s_k = m and s_1, ..., s_k are all semiprime.",
+   "holders": 1121,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A192225",
+   "n": 4,
+   "name": "Numbers that are both Fibonacci and Pell.",
+   "holders": 1075,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A364863",
+   "n": 2,
+   "name": "Number of iterations of x -> x + min { k in A036301 | k > x } until an element of A036301 is reached, or -1 if this never happens, starting with n.",
+   "holders": 1071,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A295750",
+   "n": 2,
+   "name": "Numbers that have exactly nine representations of a sum of seven nonnegative squares.",
+   "holders": 1056,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A160540",
+   "n": 4,
+   "name": "The number of distinct n X n panmagic = pandiagonal = diabolic = Nasik squares, not counting rotations, reflections, or row/column cyclings of others, with the additional property that each i X j rectangle, including each \"wrap-around\" i X j rectangle, where i and j are positive integers whose product is n, also sums to the magic constant A006003(n) = n(n^2+1)/2.",
+   "holders": 1019,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A318165",
+   "n": 3,
+   "name": "The n^n dots problem: minimal number of straight lines (connected at their endpoints) required to pass through n^n dots arranged in an n X n X ... X n grid.",
+   "holders": 913,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A131959",
+   "n": 4,
+   "name": "Numbers k such that 1 + Product_{j=1..k} prime(j)^prime(k-j+1) is prime.",
+   "holders": 901,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A295745",
+   "n": 3,
+   "name": "Numbers that have exactly five representations of a sum of seven nonnegative squares.",
+   "holders": 848,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A112871",
+   "n": 4,
+   "name": "Triangle T(h, q) = number of rotes of height h and quench q.",
+   "holders": 741,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A121377",
+   "n": 10,
+   "name": "ASCII codes for decimal digits.",
+   "holders": 715,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A222010",
+   "n": 4,
+   "name": "Dimensions of spheres that admit continuous multiplications with unit element.",
+   "holders": 614,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A058759",
+   "n": 4,
+   "name": "Shannon switching function: a(n) is the least number k such that any switching (or Boolean) function of n variables can be realized as a two-terminal network of AND's and OR's in which the total number of occurrences of the variables X_1, X_1', ..., X_n, X_n' is no more than k (where the primes indicate complements).",
+   "holders": 613,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A210491",
+   "n": 4,
+   "name": "Planck temperature T_P.",
+   "holders": 603,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A165132",
+   "n": 6,
+   "name": "Primes whose logarithms are known to possess ternary BBP formulas.",
+   "holders": 594,
+   "holds": 1,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A193063",
+   "n": 6,
+   "name": "Primes p for which there is no prime q == 1 (mod 3) that is smaller than p and is a quadratic residue modulo p.",
+   "holders": 594,
+   "holds": 1,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A002393",
+   "n": 3,
+   "name": "Weight distribution of [8,4,4] Hamming code omitting 0 terms.",
+   "holders": 565,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A172411",
+   "n": 4,
+   "name": "Numbers k such that 2^k+9 and 2^k+27 are prime.",
+   "holders": 519,
+   "holds": 0,
+   "named": 0,
+   "never_found_alone": true
+  }
+ ],
+ "most_holding": [
+  {
+   "a": "A093385",
+   "n": 199,
+   "name": "One of the 32 sequences illustrating the fact that A093382(2) = 199.",
+   "holders": 0,
+   "holds": 62,
+   "named": 0,
+   "never_found_alone": false
+  },
+  {
+   "a": "A093386",
+   "n": 199,
+   "name": "Another of the 32 sequences illustrating the fact that A093382(2) = 199.",
+   "holders": 0,
+   "holds": 62,
+   "named": 0,
+   "never_found_alone": false
+  },
+  {
+   "a": "A265333",
+   "n": 121,
+   "name": "Characteristic function for A265334: a(n) = 1 if n >= k! but < 2*k! for some k, 0 otherwise.",
+   "holders": 0,
+   "holds": 49,
+   "named": 0,
+   "never_found_alone": false
+  },
+  {
+   "a": "A015862",
+   "n": 90,
+   "name": "Inverse of 1853rd cyclotomic polynomial.",
+   "holders": 4,
+   "holds": 41,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A016168",
+   "n": 90,
+   "name": "Inverse of 2159th cyclotomic polynomial.",
+   "holders": 4,
+   "holds": 41,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A016236",
+   "n": 90,
+   "name": "Inverse of 2227th cyclotomic polynomial.",
+   "holders": 4,
+   "holds": 41,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A033619",
+   "n": 106,
+   "name": "Undulating numbers (of form abababab... in base 10).",
+   "holders": 0,
+   "holds": 40,
+   "named": 0,
+   "never_found_alone": false
+  },
+  {
+   "a": "A118759",
+   "n": 101,
+   "name": "A118757(A118757(n)).",
+   "holders": 0,
+   "holds": 40,
+   "named": 1,
+   "never_found_alone": false
+  },
+  {
+   "a": "A118760",
+   "n": 104,
+   "name": "A118758(A118758(n)).",
+   "holders": 0,
+   "holds": 40,
+   "named": 1,
+   "never_found_alone": false
+  },
+  {
+   "a": "A130734",
+   "n": 110,
+   "name": "List of numbers of cents you can have in US coins without having change for a dollar.",
+   "holders": 0,
+   "holds": 40,
+   "named": 0,
+   "never_found_alone": false
+  },
+  {
+   "a": "A258069",
+   "n": 92,
+   "name": "Nonnegative integers that can be computed using exactly eight 8's and the four basic arithmetic operations {+, -, *, /}.",
+   "holders": 0,
+   "holds": 40,
+   "named": 1,
+   "never_found_alone": false
+  },
+  {
+   "a": "A291179",
+   "n": 110,
+   "name": "Numbers in at least one Fibonacci sequence starting with two 1-digit numbers.",
+   "holders": 0,
+   "holds": 40,
+   "named": 0,
+   "never_found_alone": false
+  },
+  {
+   "a": "A292579",
+   "n": 110,
+   "name": "Inverse to A055643: Consider n as a number written in base 60, using 2 decimal digits for each base-60 digit (which we allow to be in the range 0 .. 99), and write n in base 10.",
+   "holders": 0,
+   "holds": 40,
+   "named": 0,
+   "never_found_alone": false
+  },
+  {
+   "a": "A015790",
+   "n": 90,
+   "name": "Inverse of 1781st cyclotomic polynomial.",
+   "holders": 5,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A015816",
+   "n": 90,
+   "name": "Inverse of 1807th cyclotomic polynomial.",
+   "holders": 5,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A016128",
+   "n": 90,
+   "name": "Inverse of 2119th cyclotomic polynomial.",
+   "holders": 5,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A016258",
+   "n": 90,
+   "name": "Inverse of 2249th cyclotomic polynomial.",
+   "holders": 5,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A063820",
+   "n": 16,
+   "name": "Growth series for fundamental group of orientable closed surface of genus 10.",
+   "holders": 1,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A063821",
+   "n": 16,
+   "name": "Growth series for fundamental group of orientable closed surface of genus 11.",
+   "holders": 1,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A063822",
+   "n": 16,
+   "name": "Growth series for fundamental group of orientable closed surface of genus 12.",
+   "holders": 1,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A170759",
+   "n": 16,
+   "name": "Expansion of g.f.: (1+x)/(1-39*x).",
+   "holders": 1,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A170763",
+   "n": 16,
+   "name": "Expansion of g.f.: (1+x)/(1-43*x).",
+   "holders": 1,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A170767",
+   "n": 16,
+   "name": "Expansion of g.f.: (1+x)/(1-47*x).",
+   "holders": 1,
+   "holds": 37,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A063819",
+   "n": 16,
+   "name": "Growth series for fundamental group of orientable closed surface of genus 9.",
+   "holders": 36,
+   "holds": 36,
+   "named": 0,
+   "never_found_alone": true
+  },
+  {
+   "a": "A167952",
+   "n": 16,
+   "name": "Number of reduced words of length n in Coxeter group on 36 generators S_i with relations (S_i)^2 = (S_i S_j)^16 = I.",
+   "holders": 36,
+   "holds": 36,
+   "named": 0,
+   "never_found_alone": true
+  }
+ ],
+ "named_median_never": 0.0,
+ "named_median_alone": 0,
+ "named_mean_never": 0.8846631866766095,
+ "named_mean_alone": 0.2090601015378123,
+ "top100_never": 21,
+ "top1000_never_share": 0.085,
+ "top1000_ratio": 4.2404604772557795,
+ "top100": [
+  {
+   "a": "A000005",
+   "n": 104,
+   "name": "d(n) (also called tau(n) or sigma_0(n)), the number of divisors of n.",
+   "holders": 0,
+   "holds": 2,
+   "named": 941,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000010",
+   "n": 69,
+   "name": "Euler totient function phi(n): count numbers <= n and prime to n.",
+   "holders": 0,
+   "holds": 0,
+   "named": 685,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000108",
+   "n": 31,
+   "name": "Catalan numbers: C(n) = binomial(2n,n)/(n+1) = (2n)!/(n!(n+1)!).",
+   "holders": 0,
+   "holds": 0,
+   "named": 667,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000045",
+   "n": 41,
+   "name": "Fibonacci numbers: F(n) = F(n-1) + F(n-2) with F(0) = 0 and F(1) = 1.",
+   "holders": 1,
+   "holds": 1,
+   "named": 652,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000203",
+   "n": 70,
+   "name": "a(n) = sigma(n), the sum of the divisors of n. Also called sigma_1(n).",
+   "holders": 0,
+   "holds": 1,
+   "named": 651,
+   "never_found_alone": false
+  },
+  {
+   "a": "A003415",
+   "n": 79,
+   "name": "a(n) = n' = arithmetic derivative of n: a(0) = a(1) = 0, a(prime) = 1, a(m*n) = m*a(n) + n*a(m).",
+   "holders": 0,
+   "holds": 0,
+   "named": 498,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000217",
+   "n": 54,
+   "name": "Triangular numbers: a(n) = binomial(n+1,2) = n*(n+1)/2 = 0 + 1 + 2 + ... + n.",
+   "holders": 1,
+   "holds": 0,
+   "named": 485,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000041",
+   "n": 50,
+   "name": "a(n) is the number of partitions of n (the partition numbers).",
+   "holders": 0,
+   "holds": 0,
+   "named": 449,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002275",
+   "n": 22,
+   "name": "Repunits: (10^n - 1)/9. Often denoted by R_n.",
+   "holders": 0,
+   "holds": 1,
+   "named": 418,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002110",
+   "n": 20,
+   "name": "Primorial numbers (first definition): product of first n primes. Sometimes written prime(n)#.",
+   "holders": 0,
+   "holds": 0,
+   "named": 385,
+   "never_found_alone": false
+  },
+  {
+   "a": "A003961",
+   "n": 65,
+   "name": "Completely multiplicative with a(prime(k)) = prime(k+1).",
+   "holders": 0,
+   "holds": 0,
+   "named": 382,
+   "never_found_alone": false
+  },
+  {
+   "a": "A276086",
+   "n": 74,
+   "name": "Primorial base exp-function: digits in primorial base representation of n become the exponents of successive prime factors whose product a(n) is.",
+   "holders": 0,
+   "holds": 1,
+   "named": 380,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000040",
+   "n": 58,
+   "name": "The prime numbers.",
+   "holders": 11,
+   "holds": 10,
+   "named": 346,
+   "never_found_alone": true
+  },
+  {
+   "a": "A007318",
+   "n": 78,
+   "name": "Pascal's triangle read by rows: C(n,k) = binomial(n,k) = n!/(k!*(n-k)!), 0 <= k <= n.",
+   "holders": 0,
+   "holds": 4,
+   "named": 339,
+   "never_found_alone": false
+  },
+  {
+   "a": "A007947",
+   "n": 78,
+   "name": "Largest squarefree number dividing n: the squarefree kernel of n, rad(n), radical of n.",
+   "holders": 1,
+   "holds": 1,
+   "named": 327,
+   "never_found_alone": true
+  },
+  {
+   "a": "A001222",
+   "n": 111,
+   "name": "Number of prime divisors of n counted with multiplicity (also called big omega of n, bigomega(n) or Omega(n)).",
+   "holders": 0,
+   "holds": 0,
+   "named": 324,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000032",
+   "n": 39,
+   "name": "Lucas numbers beginning at 2: L(n) = L(n-1) + L(n-2), L(0) = 2, L(1) = 1.",
+   "holders": 1,
+   "holds": 0,
+   "named": 316,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000120",
+   "n": 105,
+   "name": "Ones-counting sequence: number of 1's in binary expansion of n (or the binary weight of n).",
+   "holders": 0,
+   "holds": 1,
+   "named": 297,
+   "never_found_alone": false
+  },
+  {
+   "a": "A014486",
+   "n": 54,
+   "name": "List of totally balanced sequences of 2n binary digits written in base 10. Binary expansion of each term contains n 0's and n 1's and reading from left to right (the most significant to the least significant bit), the number of 0's never exceeds the number of 1's.",
+   "holders": 0,
+   "holds": 0,
+   "named": 272,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001221",
+   "n": 111,
+   "name": "Number of distinct primes dividing n (also called omega(n)).",
+   "holders": 0,
+   "holds": 1,
+   "named": 261,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000720",
+   "n": 78,
+   "name": "pi(n), the number of primes <= n. Sometimes called PrimePi(n) to distinguish it from the number 3.14159...",
+   "holders": 1,
+   "holds": 1,
+   "named": 230,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000012",
+   "n": 90,
+   "name": "The simplest sequence of positive numbers: the all 1's sequence.",
+   "holders": 34,
+   "holds": 0,
+   "named": 222,
+   "never_found_alone": true
+  },
+  {
+   "a": "A006530",
+   "n": 86,
+   "name": "Gpf(n): greatest prime dividing n, for n >= 2; a(1)=1.",
+   "holders": 0,
+   "holds": 0,
+   "named": 214,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000027",
+   "n": 77,
+   "name": "The positive integers. Also called the natural numbers, the whole numbers or the counting numbers, but these terms are ambiguous.",
+   "holders": 12,
+   "holds": 23,
+   "named": 199,
+   "never_found_alone": true
+  },
+  {
+   "a": "A001414",
+   "n": 78,
+   "name": "Integer log of n: sum of primes dividing n (with repetition). Also called sopfr(n).",
+   "holders": 0,
+   "holds": 0,
+   "named": 193,
+   "never_found_alone": false
+  },
+  {
+   "a": "A008683",
+   "n": 78,
+   "name": "M\u00f6bius (or Moebius) function mu(n). mu(1) = 1; mu(n) = (-1)^k if n is the product of k different primes; otherwise mu(n) = 0.",
+   "holders": 0,
+   "holds": 0,
+   "named": 187,
+   "never_found_alone": false
+  },
+  {
+   "a": "A046523",
+   "n": 89,
+   "name": "Smallest number with same prime signature as n.",
+   "holders": 0,
+   "holds": 0,
+   "named": 187,
+   "never_found_alone": false
+  },
+  {
+   "a": "A010060",
+   "n": 105,
+   "name": "Thue-Morse sequence: let A_k denote the first 2^k terms; then A_0 = 0 and for k >= 0, A_{k+1} = A_k B_k, where B_k is obtained from A_k by interchanging 0's and 1's.",
+   "holders": 0,
+   "holds": 0,
+   "named": 182,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001008",
+   "n": 29,
+   "name": "a(n) = numerator of harmonic number H(n) = Sum_{i=1..n} 1/i.",
+   "holders": 0,
+   "holds": 0,
+   "named": 181,
+   "never_found_alone": false
+  },
+  {
+   "a": "A156552",
+   "n": 67,
+   "name": "Unary-encoded compressed factorization of natural numbers.",
+   "holders": 0,
+   "holds": 0,
+   "named": 168,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000009",
+   "n": 56,
+   "name": "Expansion of Product_{m >= 1} (1 + x^m); number of partitions of n into distinct parts; number of partitions of n into odd parts.",
+   "holders": 0,
+   "holds": 1,
+   "named": 167,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002805",
+   "n": 31,
+   "name": "a(n) = denominator of harmonic number H(n) = Sum_{i=1..n} 1/i.",
+   "holders": 0,
+   "holds": 0,
+   "named": 166,
+   "never_found_alone": false
+  },
+  {
+   "a": "A020639",
+   "n": 97,
+   "name": "Lpf(n): least prime dividing n (when n > 1); a(1) = 1. Or, smallest prime factor of n, or smallest prime divisor of n.",
+   "holders": 0,
+   "holds": 2,
+   "named": 157,
+   "never_found_alone": false
+  },
+  {
+   "a": "A025487",
+   "n": 54,
+   "name": "Least integer of each prime signature A124832; also products of primorial numbers A002110.",
+   "holders": 0,
+   "holds": 0,
+   "named": 156,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001622",
+   "n": 105,
+   "name": "Decimal expansion of golden ratio phi (or tau) = (1 + sqrt(5))/2.",
+   "holders": 0,
+   "holds": 2,
+   "named": 154,
+   "never_found_alone": false
+  },
+  {
+   "a": "A005940",
+   "n": 67,
+   "name": "The Doudna sequence: write n-1 in binary; power of prime(k) in a(n) is # of 1's that are followed by k-1 0's.",
+   "holders": 0,
+   "holds": 1,
+   "named": 153,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001764",
+   "n": 25,
+   "name": "a(n) = binomial(3*n,n)/(2*n+1) (enumerates ternary trees and also noncrossing trees).",
+   "holders": 0,
+   "holds": 0,
+   "named": 150,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002808",
+   "n": 64,
+   "name": "The composite numbers: numbers n of the form x*y for x > 1 and y > 1.",
+   "holders": 6,
+   "holds": 1,
+   "named": 147,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000290",
+   "n": 51,
+   "name": "The squares: a(n) = n^2.",
+   "holders": 1,
+   "holds": 0,
+   "named": 146,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000002",
+   "n": 108,
+   "name": "Kolakoski sequence: a(n) is length of n-th run; a(1) = 1; sequence consists just of 1's and 2's.",
+   "holders": 0,
+   "holds": 3,
+   "named": 145,
+   "never_found_alone": false
+  },
+  {
+   "a": "A276085",
+   "n": 60,
+   "name": "Primorial base log-function: fully additive with a(p) = p#/p, where p# = A034386(p).",
+   "holders": 0,
+   "holds": 0,
+   "named": 144,
+   "never_found_alone": false
+  },
+  {
+   "a": "A084938",
+   "n": 66,
+   "name": "Triangle read by rows: T(n,k) = Sum_{j>=0} j!*T(n-j-1, k-1) for n >= 0, k >= 0.",
+   "holders": 0,
+   "holds": 0,
+   "named": 139,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000668",
+   "n": 12,
+   "name": "Mersenne primes (primes of the form 2^n - 1).",
+   "holders": 1,
+   "holds": 3,
+   "named": 138,
+   "never_found_alone": true
+  },
+  {
+   "a": "A005117",
+   "n": 71,
+   "name": "Squarefree numbers: numbers that are not divisible by a square greater than 1.",
+   "holders": 0,
+   "holds": 3,
+   "named": 138,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000110",
+   "n": 27,
+   "name": "Bell or exponential numbers: number of ways to partition a set of n labeled elements.",
+   "holders": 0,
+   "holds": 0,
+   "named": 136,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002487",
+   "n": 92,
+   "name": "Stern's diatomic series (or Stern-Brocot sequence): a(0) = 0, a(1) = 1; for n > 0: a(2*n) = a(n), a(2*n+1) = a(n) + a(n+1).",
+   "holders": 0,
+   "holds": 0,
+   "named": 136,
+   "never_found_alone": false
+  },
+  {
+   "a": "A014137",
+   "n": 29,
+   "name": "Partial sums of Catalan numbers (A000108).",
+   "holders": 0,
+   "holds": 0,
+   "named": 133,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000129",
+   "n": 32,
+   "name": "Pell numbers: a(0) = 0, a(1) = 1; for n > 1, a(n) = 2*a(n-1) + a(n-2).",
+   "holders": 0,
+   "holds": 2,
+   "named": 132,
+   "never_found_alone": false
+  },
+  {
+   "a": "A014138",
+   "n": 25,
+   "name": "Partial sums of (Catalan numbers starting 1, 2, 5, ...).",
+   "holders": 0,
+   "holds": 0,
+   "named": 130,
+   "never_found_alone": false
+  },
+  {
+   "a": "A064989",
+   "n": 81,
+   "name": "Multiplicative with a(2^e) = 1 and a(p^e) = prevprime(p)^e for odd primes p.",
+   "holders": 0,
+   "holds": 0,
+   "named": 128,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002293",
+   "n": 24,
+   "name": "Number of dissections of a polygon: binomial(4*n, n)/(3*n + 1).",
+   "holders": 0,
+   "holds": 0,
+   "named": 120,
+   "never_found_alone": false
+  },
+  {
+   "a": "A003557",
+   "n": 98,
+   "name": "n divided by largest squarefree divisor of n; if n = Product p(k)^e(k) then a(n) = Product p(k)^(e(k)-1), with a(1) = 1.",
+   "holders": 0,
+   "holds": 1,
+   "named": 120,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002322",
+   "n": 81,
+   "name": "Reduced totient function psi(n): least k such that x^k == 1 (mod n) for all x prime to n; also known as the Carmichael lambda function (exponent of unit group mod n); also called the universal exponent of n.",
+   "holders": 0,
+   "holds": 0,
+   "named": 118,
+   "never_found_alone": false
+  },
+  {
+   "a": "A019565",
+   "n": 56,
+   "name": "The squarefree numbers ordered lexicographically by their prime factorization (with factors written in decreasing order). a(n) = Product_{k in I} prime(k+1), where I is the set of indices of nonzero binary digits in n = Sum_{k in I} 2^k.",
+   "holders": 0,
+   "holds": 0,
+   "named": 117,
+   "never_found_alone": false
+  },
+  {
+   "a": "A064413",
+   "n": 73,
+   "name": "EKG sequence (or ECG sequence): a(1) = 1; a(2) = 2; for n > 2, a(n) = smallest number not already used which shares a factor with a(n-1).",
+   "holders": 0,
+   "holds": 0,
+   "named": 114,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001045",
+   "n": 36,
+   "name": "Jacobsthal sequence (or Jacobsthal numbers): a(n) = a(n-1) + 2*a(n-2), with a(0) = 0, a(1) = 1; also a(n) = nearest integer to 2^n/3.",
+   "holders": 0,
+   "holds": 2,
+   "named": 113,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001358",
+   "n": 61,
+   "name": "Semiprimes (or biprimes): products of two primes.",
+   "holders": 1,
+   "holds": 0,
+   "named": 110,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000326",
+   "n": 47,
+   "name": "Pentagonal numbers: a(n) = n*(3*n-1)/2.",
+   "holders": 0,
+   "holds": 0,
+   "named": 109,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001065",
+   "n": 80,
+   "name": "Sum of proper divisors (or aliquot parts) of n: sum of divisors of n that are less than n.",
+   "holders": 0,
+   "holds": 0,
+   "named": 109,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000961",
+   "n": 64,
+   "name": "Powers of primes. Alternatively, 1 and the prime powers (p^k, p prime, k >= 1).",
+   "holders": 0,
+   "holds": 3,
+   "named": 108,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002182",
+   "n": 41,
+   "name": "Highly composite numbers: numbers n where d(n), the number of divisors of n (A000005), increases to a record.",
+   "holders": 1,
+   "holds": 0,
+   "named": 107,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000594",
+   "n": 30,
+   "name": "Ramanujan's tau function (or Ramanujan numbers, or tau numbers).",
+   "holders": 0,
+   "holds": 0,
+   "named": 106,
+   "never_found_alone": false
+  },
+  {
+   "a": "A004086",
+   "n": 75,
+   "name": "Read n backwards (referred to as R(n) in many sequences).",
+   "holders": 0,
+   "holds": 3,
+   "named": 105,
+   "never_found_alone": false
+  },
+  {
+   "a": "A005132",
+   "n": 71,
+   "name": "Recam\u00e1n's sequence (or Recaman's sequence): a(0) = 0; for n > 0, a(n) = a(n-1) - n if nonnegative and not already in the sequence, otherwise a(n) = a(n-1) + n.",
+   "holders": 0,
+   "holds": 1,
+   "named": 105,
+   "never_found_alone": false
+  },
+  {
+   "a": "A007814",
+   "n": 111,
+   "name": "Exponent of highest power of 2 dividing n, a.k.a. the binary carry sequence, the ruler sequence, or the 2-adic valuation of n.",
+   "holders": 0,
+   "holds": 0,
+   "named": 105,
+   "never_found_alone": false
+  },
+  {
+   "a": "A034448",
+   "n": 70,
+   "name": "usigma(n) = sum of unitary divisors of n (divisors d such that gcd(d, n/d)=1); also called UnitarySigma(n).",
+   "holders": 0,
+   "holds": 1,
+   "named": 105,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000265",
+   "n": 77,
+   "name": "Remove all factors of 2 from n; or largest odd divisor of n; or odd part of n.",
+   "holders": 0,
+   "holds": 1,
+   "named": 104,
+   "never_found_alone": false
+  },
+  {
+   "a": "A048720",
+   "n": 91,
+   "name": "Multiplication table {0..i} X {0..j} of binary polynomials (polynomials over GF(2)) interpreted as binary vectors, then written in base 10; or, binary multiplication without carries.",
+   "holders": 0,
+   "holds": 1,
+   "named": 103,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001615",
+   "n": 69,
+   "name": "Dedekind psi function: n * Product_{p|n, p prime} (1 + 1/p).",
+   "holders": 0,
+   "holds": 0,
+   "named": 100,
+   "never_found_alone": false
+  },
+  {
+   "a": "A051731",
+   "n": 105,
+   "name": "Triangle read by rows: T(n, k) = 1 if k divides n, T(n, k) = 0 otherwise, for 1 <= k <= n.",
+   "holders": 0,
+   "holds": 0,
+   "named": 98,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000204",
+   "n": 39,
+   "name": "Lucas numbers (beginning with 1): L(n) = L(n-1) + L(n-2) with L(1) = 1, L(2) = 3.",
+   "holders": 1,
+   "holds": 0,
+   "named": 97,
+   "never_found_alone": true
+  },
+  {
+   "a": "A001694",
+   "n": 54,
+   "name": "Powerful numbers, definition (1): if a prime p divides n then p^2 must also divide n (also called squareful, square full, square-full or 2-powerful numbers).",
+   "holders": 0,
+   "holds": 0,
+   "named": 97,
+   "never_found_alone": false
+  },
+  {
+   "a": "A066099",
+   "n": 104,
+   "name": "Triangle read by rows, in which row n lists the compositions of n in reverse lexicographic order.",
+   "holders": 0,
+   "holds": 0,
+   "named": 97,
+   "never_found_alone": false
+  },
+  {
+   "a": "A063171",
+   "n": 28,
+   "name": "Dyck language interpreted as binary numbers in ascending order.",
+   "holders": 0,
+   "holds": 0,
+   "named": 95,
+   "never_found_alone": false
+  },
+  {
+   "a": "A163511",
+   "n": 65,
+   "name": "a(0)=1. a(n) = p(A000120(n)) * Product_{m=1..A000120(n)} p(m)^A163510(n,m), where p(m) is the m-th prime.",
+   "holders": 0,
+   "holds": 0,
+   "named": 95,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001223",
+   "n": 97,
+   "name": "Prime gaps: differences between consecutive primes.",
+   "holders": 0,
+   "holds": 1,
+   "named": 94,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001597",
+   "n": 54,
+   "name": "Perfect powers: m^k where m > 0 and k >= 2.",
+   "holders": 0,
+   "holds": 0,
+   "named": 93,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000201",
+   "n": 68,
+   "name": "Lower Wythoff sequence (a Beatty sequence): a(n) = floor(n*phi), where phi = (1+sqrt(5))/2 = A001622.",
+   "holders": 1,
+   "holds": 0,
+   "named": 89,
+   "never_found_alone": true
+  },
+  {
+   "a": "A004001",
+   "n": 75,
+   "name": "Hofstadter-Conway $10000 sequence: a(n) = a(a(n-1)) + a(n-a(n-1)) with a(1) = a(2) = 1.",
+   "holders": 0,
+   "holds": 0,
+   "named": 89,
+   "never_found_alone": false
+  },
+  {
+   "a": "A008472",
+   "n": 73,
+   "name": "Sum of the distinct primes dividing n.",
+   "holders": 0,
+   "holds": 0,
+   "named": 89,
+   "never_found_alone": false
+  },
+  {
+   "a": "A007953",
+   "n": 88,
+   "name": "Digital sum (i.e., sum of digits) of n; also called digsum(n).",
+   "holders": 2,
+   "holds": 3,
+   "named": 87,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000043",
+   "n": 51,
+   "name": "Mersenne exponents: primes p such that 2^p - 1 is prime. Then 2^p - 1 is called a Mersenne prime.",
+   "holders": 0,
+   "holds": 1,
+   "named": 86,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000069",
+   "n": 65,
+   "name": "Odious numbers: numbers with an odd number of 1's in their binary expansion.",
+   "holders": 0,
+   "holds": 0,
+   "named": 82,
+   "never_found_alone": false
+  },
+  {
+   "a": "A047994",
+   "n": 71,
+   "name": "Unitary totient (or unitary phi) function uphi(n).",
+   "holders": 0,
+   "holds": 0,
+   "named": 82,
+   "never_found_alone": false
+  },
+  {
+   "a": "A005187",
+   "n": 66,
+   "name": "a(n) = a(floor(n/2)) + n; also denominators in expansion of 1/sqrt(1-x) are 2^a(n); also 2n - number of 1's in binary expansion of 2n.",
+   "holders": 0,
+   "holds": 0,
+   "named": 81,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002144",
+   "n": 54,
+   "name": "Pythagorean primes: primes of the form 4*k + 1.",
+   "holders": 2,
+   "holds": 0,
+   "named": 80,
+   "never_found_alone": true
+  },
+  {
+   "a": "A122111",
+   "n": 60,
+   "name": "Self-inverse permutation of the positive integers induced by partition enumeration in A112798 and partition conjugation.",
+   "holders": 0,
+   "holds": 0,
+   "named": 78,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001950",
+   "n": 60,
+   "name": "Upper Wythoff sequence (a Beatty sequence): a(n) = floor(n*phi^2), where phi = (1+sqrt(5))/2.",
+   "holders": 1,
+   "holds": 0,
+   "named": 77,
+   "never_found_alone": true
+  },
+  {
+   "a": "A001969",
+   "n": 65,
+   "name": "Evil numbers: nonnegative integers with an even number of 1's in their binary expansion.",
+   "holders": 0,
+   "holds": 1,
+   "named": 76,
+   "never_found_alone": false
+  },
+  {
+   "a": "A007955",
+   "n": 49,
+   "name": "Product of divisors of n.",
+   "holders": 1,
+   "holds": 2,
+   "named": 76,
+   "never_found_alone": true
+  },
+  {
+   "a": "A278222",
+   "n": 99,
+   "name": "The least number with the same prime signature as A005940(n+1).",
+   "holders": 0,
+   "holds": 0,
+   "named": 76,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001511",
+   "n": 105,
+   "name": "The ruler function: exponent of the highest power of 2 dividing 2n. Equivalently, the 2-adic valuation of 2n.",
+   "holders": 0,
+   "holds": 0,
+   "named": 75,
+   "never_found_alone": false
+  },
+  {
+   "a": "A002034",
+   "n": 84,
+   "name": "Kempner numbers: smallest positive integer m such that n divides m!.",
+   "holders": 0,
+   "holds": 1,
+   "named": 74,
+   "never_found_alone": false
+  },
+  {
+   "a": "A048673",
+   "n": 69,
+   "name": "Permutation of natural numbers: a(n) = (A003961(n)+1) / 2 [where A003961(n) shifts the prime factorization of n one step towards larger primes].",
+   "holders": 0,
+   "holds": 0,
+   "named": 74,
+   "never_found_alone": false
+  },
+  {
+   "a": "A000073",
+   "n": 38,
+   "name": "Tribonacci numbers: a(n) = a(n-1) + a(n-2) + a(n-3) for n >= 3 with a(0) = a(1) = 0 and a(2) = 1.",
+   "holders": 0,
+   "holds": 0,
+   "named": 73,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001620",
+   "n": 99,
+   "name": "Decimal expansion of Euler's constant (or the Euler-Mascheroni constant), gamma.",
+   "holders": 0,
+   "holds": 0,
+   "named": 73,
+   "never_found_alone": false
+  },
+  {
+   "a": "A098550",
+   "n": 71,
+   "name": "The Yellowstone permutation: a(n) = n if n <= 3, otherwise the smallest number not occurring earlier having at least one common factor with a(n-2), but none with a(n-1).",
+   "holders": 0,
+   "holds": 0,
+   "named": 72,
+   "never_found_alone": false
+  },
+  {
+   "a": "A001359",
+   "n": 51,
+   "name": "Lesser of twin primes.",
+   "holders": 3,
+   "holds": 3,
+   "named": 71,
+   "never_found_alone": true
+  },
+  {
+   "a": "A000984",
+   "n": 28,
+   "name": "Central binomial coefficients: binomial(2*n,n) = (2*n)!/(n!)^2.",
+   "holders": 0,
+   "holds": 0,
+   "named": 68,
+   "never_found_alone": false
+  },
+  {
+   "a": "A003849",
+   "n": 99,
+   "name": "The infinite Fibonacci word (start with 0, apply 0->01, 1->0, take limit).",
+   "holders": 2,
+   "holds": 1,
+   "named": 68,
+   "never_found_alone": true
+  }
+ ],
+ "never_share_by_named": {
+  "0-0": {
+   "sequences": 369527,
+   "never": 7206,
+   "share": 0.019500604827252136
+  },
+  "1-1": {
+   "sequences": 20979,
+   "never": 479,
+   "share": 0.0228323561656895
+  },
+  "2-4": {
+   "sequences": 8323,
+   "never": 207,
+   "share": 0.02487083984140334
+  },
+  "5-9": {
+   "sequences": 1549,
+   "never": 68,
+   "share": 0.04389928986442866
+  },
+  "10-49": {
+   "sequences": 873,
+   "never": 59,
+   "share": 0.06758304696449026
+  },
+  "50-199": {
+   "sequences": 123,
+   "never": 20,
+   "share": 0.16260162601626016
+  },
+  "200-max": {
+   "sequences": 23,
+   "never": 7,
+   "share": 0.30434782608695654
+  }
+ },
+ "predictions": {
+  "P1": true,
+  "P2": true,
+  "P3": true,
+  "P4": true,
+  "P5": true,
+  "P6": true,
+  "P7": true,
+  "P8": false,
+  "P9": false,
+  "P10": false
+ }
+}

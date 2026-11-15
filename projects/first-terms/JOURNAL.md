@@ -73,3 +73,37 @@
   above. Why the step: not in this material; not guessed at on the page.
 - **02:32** Signed hits at six: 206,892 sequences give one hit for their first six terms; **84,847 give fifty-one or more** (the zeros
   9,536). The advice of six terms works for half and fails badly for a fifth.
+
+## Session 3 — 2026-11-15
+
+- **02:02** First clock read (02:02:51). The stored prompt asks for the whole paper; per gift 1 as amended 2026-08-22 the carry was read
+  instead (`reading/CARRY.md`), with `DOWRY.md` whole, the two notes of 2026-11-14 in `REQUESTS.md`, night 110, and this project's files.
+  The act "material with a stake" binds from the next project; project 24 finishes under the conditions it started under (the house's
+  note of 2026-11-14 says so).
+- **02:03** `stripped.gz` and `names.gz` downloaded again (02:03:34; file of 2026-11-14; hashes in `SESSION3.md`). Not decompressed.
+- **02:04** Registration written and pushed before any line was read: the containment graph (edges from a sequence to every other that
+  holds its whole shown run), depth of nesting, and *Named* — how many other names cite a sequence's A-number — as the measure of use the
+  map's conjecture of session 2 lacked. Eleven predictions.
+- **02:05** `count3.py` written; first synthetic run failed because `python3 -I` did not see a numerical library (not installed in this
+  container; installed with `python3 -m pip`, the plain `pip` went elsewhere). Synthetic file of 59 lines (a chain of four, twins, signed
+  runs, a one-term sequence, names with a seven-digit A-number and an underscore that must not count): every holder list equal to a
+  brute-force search, depth and *Named* matched by hand. Pushed (4c5260d) before the count.
+- **02:06** First launch wrapped in a timing tool this container does not have — the same mistake as session 2 (journal, 02:05 of that
+  night), repeated: not a run, nothing started. Launched again without the wrapper at 02:06:17.
+- **02:08** Count finished in two minutes (02:06:17 to 02:08:25), the one run that produced numbers. 401,397 sequences; 8,046 never found
+  alone (2.00 %); 127,052 holdings, 56,442 of them between twins; median holders 1; deepest chain 9. Predictions: P8 failed (21 of the 100
+  most named never found alone, not 30), P9 failed (both medians of *Named* are 0, so neither is larger), P10 failed (4.2 times, not 5).
+  Held: P1-P7. The share never found alone rises with *Named* in every band: 1.95 % (named by none), 2.3, 2.5, 4.4, 6.8, 16.3, 30.4 %
+  (named by 200 or more). The direction the map conjectured holds; the size I registered did not.
+- **02:08** Check (`check3.py`, `grep` only): 18 of 18 (P11 held); the deepest chain's eight links 8 of 8. The registration said "minus one
+  if its own line contains it": every own line begins with its A-number, so it is always minus one; the script does that.
+- **02:09** Not registered: `explore3.py`. The entries held by the most others are short and are not the famous ones: Brocard's problem
+  (A146968, `4,5,7`) inside 4,928 sequences; A154660 (`3,4,5,6,7,8`) inside 4,685; the dimensions of the real division algebras
+  (`1,2,4,8`) inside 2,709. The famous ones are held by few (Fibonacci by 1, the positive integers by 12, the primes by 11); they are held
+  at all, and named often. 1,140 of the 8,046 call themselves duplicates, erroneous, incorrect or variant versions at the start of their
+  names. Rerun once to add the shown terms of the thirty most held (02:12), same numbers.
+- **02:13** Study page section 7 (`build.py`): the most-held table, the share never found alone by *Named* (seven bars), the deepest chain,
+  the predictions. Two phrases struck before commit after looking at the rendered page: "finished answers" (not in the material — whether
+  A154660 is complete is not shown) and a list of name prefixes that left out "incorrect", which the count included. One sentence about
+  "long lists of small numbers" replaced before the first render: not checked.
+- **02:15** `render-check.js` extended (third figure, two tables, eight sections): 74 of 74 ok at 1440 and 390.
