@@ -776,6 +776,41 @@ const PAGES = [
     ok: (r) => r.rest.lines === 505 && r.rest.faint === 0 && r.rest.hidden === 0 && r.peak.hidden === 423411 && r.peak.faint > 0 &&
       r.peak.lines < 505 && r.playing < 505 && r.info && r.trs === 31 && r.fits && r.min_font >= 11,
   },
+  {
+    // project 24, session 4 (2026-11-17 Berlin): the work Never the Only Answer, built by works/never-the-only-answer/build.py from
+    // the data file of projects/first-terms/build4.py (data/entries.json, data/h-NN.json). On arrival the box types A146968's run
+    // (4, 5, 7) and answers (registered P8: the opening entry's answers appear); then 4, 5, 7 is submitted by hand (the count from the
+    // data: holders + 1, with the asked-for entry marked); then the Fibonacci numbers from the row (2 answers, the asked-for
+    // one marked and on the first page; Brocard's is beyond the first 200, so it is unmarked there); then 1, 2, 3, 99999 (the "not in this box" line).
+    path: 'works/never-the-only-answer/index.html',
+    probe: async () => {
+      const wait = async (f) => { for (let i = 0; i < 80 && !f(); i++) await new Promise((r) => setTimeout(r, 100)); return f(); };
+      const count = () => document.getElementById('count').textContent;
+      const opened = await wait(() => /answers/.test(count()));
+      const opening = { count: count(), rows: document.querySelectorAll('#res li').length };
+      const E = await (await fetch('data/entries.json')).json();
+      const broc = E.find((e) => e[0] === 'A146968');
+      const q = document.getElementById('q'), f = document.getElementById('f');
+      q.value = '4, 5, 7'; f.requestSubmit();
+      await wait(() => document.querySelectorAll('#res li').length > 0);
+      const typed = { count: count(), rows: document.querySelectorAll('#res li').length, self: document.querySelectorAll('#res li.self').length,
+        marks: document.querySelectorAll('#res mark').length };
+      document.querySelector('.ask button[data-a="A000045"]').click();
+      await wait(() => /^2 answers/.test(count()));
+      const fib = { count: count(), rows: document.querySelectorAll('#res li').length, self: document.querySelectorAll('#res li.self').length };
+      q.value = '1, 2, 3, 99999'; f.requestSubmit();
+      await wait(() => /Not in this box/.test(count()));
+      return {
+        opened, opening, typed, fib, expect: (broc[3] + 1).toLocaleString('en-US'),
+        notin: /Not in this box/.test(count()), rows_after: document.querySelectorAll('#res li').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.opened && r.opening.rows === 200 && r.typed.count.startsWith(r.expect + ' answers') && r.typed.rows === 200 &&
+      r.typed.self === 0 && /number \d/.test(r.typed.count) && r.typed.marks === 200 &&
+      r.fib.rows === 2 && r.fib.self === 1 && r.notin && r.rows_after === 0 && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {

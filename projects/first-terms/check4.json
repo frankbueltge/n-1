@@ -1,0 +1,90 @@
+{
+ "drawn": 12,
+ "agree": 12,
+ "rows": [
+  {
+   "a": "A296358",
+   "terms": 30,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  },
+  {
+   "a": "A031963",
+   "terms": 7,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  },
+  {
+   "a": "A004928",
+   "terms": 32,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  },
+  {
+   "a": "A387326",
+   "terms": 11,
+   "answers_listed": 3,
+   "grep_lines": 3,
+   "agree": true
+  },
+  {
+   "a": "A059267",
+   "terms": 66,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  },
+  {
+   "a": "A047241",
+   "terms": 62,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  },
+  {
+   "a": "A051568",
+   "terms": 15,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  },
+  {
+   "a": "A085924",
+   "terms": 72,
+   "answers_listed": 4,
+   "grep_lines": 4,
+   "agree": true
+  },
+  {
+   "a": "A077109",
+   "terms": 42,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  },
+  {
+   "a": "A051863",
+   "terms": 11,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  },
+  {
+   "a": "A086160",
+   "terms": 27,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  },
+  {
+   "a": "A131169",
+   "terms": 72,
+   "answers_listed": 2,
+   "grep_lines": 2,
+   "agree": true
+  }
+ ]
+}
