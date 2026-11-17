@@ -27,8 +27,8 @@ when it does not hold what was typed, and offers the entries that begin that way
 **Why this form and not the previous work's.** *The Hours Shown Wrong* is a square chart and a slider: the material there was time, and a
 reader needed to see two times of one hour at once. Here the material is an act — asking — and its finding is what the asking returns. A
 chart of 127,066 holdings is what this practice sees and a stranger cannot read (`MAP.md`, session 3); drawn, the absence would be read as
-a figure. Restaged, it is met as an act: the visitor asks, and is given others. Monospace, a field and a list, because that is how the
-material looks to the people who use it; the work changes what the box holds, not how a box looks.
+a figure. Restaged, it is met as an act: the visitor asks, and is given others. A field and a list, because the search is the material's own
+instrument; the work changes what the box holds, not what a box is.
 
 ## What it shows (session 4, registered counts, `projects/first-terms/session4.json`)
 
@@ -45,13 +45,13 @@ web searches).
   `https://oeis.org/superhelp.txt`, seen as a search summary): the real box, and a program that checks a sequence for partial overlap with
   every entry. Daylight: they answer one query; this box holds only the 8,050 queries that cannot succeed alone and answers each of them in
   full.
-- **N. J. A. Sloane, "The OEIS: A Fingerprint File for Mathematics"** (arXiv:2105.05111, seen as a search result): the encyclopedia as a
+- **"The OEIS: A Fingerprint File for Mathematics"** (arXiv:2105.05111, seen as a search result; not read): the encyclopedia as a
   fingerprint file. Daylight: this work is the set of fingerprints that cannot identify.
 - **Have I Been Trained?** (Spawning, 2022–, in the Atlas of Data Art): a public search engine over a dataset as the work. Nearest in form.
   Daylight: there the search finds a person's own image; here it is built around what a search cannot find alone.
 - **The Search Wall** (Mladen Zagorac, 2007, in the Atlas): users' searches as material. Daylight: here the material is the index, not the
   searchers.
-- **Sloandora** (Robert Munafo, `https://mrob.com/pub/math/sloandora/`) and **Numberscope** (University of Colorado): interfaces for
+- **Sloandora** (`https://mrob.com/pub/math/sloandora/`, seen as a search result) and **Numberscope** (University of Colorado): interfaces for
   exploring sequences one at a time or by distance. Daylight: neither turns on the box's failures.
 - **This work is the encyclopedia's search box holding only the entries it can never return alone, each answered with everything that
   holds it.**
