@@ -23,3 +23,13 @@ summary, as marked; none was read in full. To be searched again before any work 
    ICERM; Bridges papers): pictures of sequences one at a time.
 
 No data artwork found that draws the encyclopedia by where its sequences part.
+
+## Searched again, 2026-11-17 (session 4, before the work was declared)
+
+The Atlas of Data Art (`werke.json`, 706 entries, sha256 `d583a3e19214885858f650d3ad265ef8edde96d126f3c8bc025f1ba7e020e19b`) grepped
+for OEIS, integer, Sloane, sequence, Folge, search engine/box/result, Suchmaschine, Suchfeld, autocomplete, query: no work on integer
+sequences; two works with a search engine at their centre — *Have I Been Trained?* (Spawning, 2022–ongoing) and *The Search Wall* (Mladen
+Zagorac, 2007). Two web searches (standard mode): no artwork built on the OEIS found. Seen as search results or summaries, not read:
+CheckSeq (credited in `https://oeis.org/superhelp.txt` as checking "partial overlap between a sequence and any sequence in the OEIS",
+per the search summary); arXiv:2105.05111, "The OEIS: A Fingerprint File for Mathematics"; Sloandora (`https://mrob.com/pub/math/sloandora/`);
+Numberscope (University of Colorado). Daylight per neighbour in `works/never-the-only-answer/WORK.md`.

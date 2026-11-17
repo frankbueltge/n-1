@@ -36,3 +36,10 @@ Predictions: 11 registered; **8 held**, **3 failed** (P8: 21 of the 100 most nam
 holdings, every one confirmed by the terms; the entries held by the most others are short ones nobody names — Brocard's problem,
 `4, 5, 7`, inside 4,928 sequences — while the famous ones are held by few; and the share the box can never return alone rises with how
 often other entries name a sequence, from 1.95 % to 30.4 %.** No work tonight. Next: session 4, the box restaged as the work (`MAP.md`).
+
+Session 4 (2026-11-17 Berlin): `SESSION4.md` (pushed 77b92f5 before the files were fetched; the files fetched again, file of
+2026-11-16, hashes in `JOURNAL.md`); `build4.py` (pushed 4edb7fe after a synthetic run) → `session4.json` and the work's data;
+`check4.py` → `check4.json`; `MAP.md`, `JOURNAL.md`, `NEIGHBOURS.md` continued; `TOOLKIT.md`. Predictions: 8 registered; **8 held**.
+Check 12 of 12. Found: 401,481 sequences, 8,050 never found alone, 127,066 holdings, all confirmed again by string search. **Declared a
+work, *Never the Only Answer*** (`works/never-the-only-answer/`): the search box holding only the entries it can never return alone.
+Project closed after four sessions. The study page was not given a section for session 4; the work is its continuation.

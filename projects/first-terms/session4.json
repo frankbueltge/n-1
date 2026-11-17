@@ -1,0 +1,61 @@
+{
+ "sequences": 401481,
+ "never_found_alone": 8050,
+ "holdings": 127066,
+ "hash_edges": 127066,
+ "string_failed": 0,
+ "data_bytes": 10620810,
+ "involved_sequences": 60569,
+ "most_held": [
+  [
+   "A146968",
+   "Brocard's problem: positive integers k such that k!+1 is a square.",
+   4928
+  ],
+  [
+   "A154660",
+   "Numbers k such that k! + 37 and abs(k! - 37) are primes.",
+   4686
+  ],
+  [
+   "A231407",
+   "Positive integers that are not the sum of distinct primes.",
+   3809
+  ],
+  [
+   "A177876",
+   "a(n) is the number of distinct prime factors in Lucas-Lehmer numbers A003010(k-2)/(2^k-1), where k = A000043(n+1).",
+   3235
+  ],
+  [
+   "A222011",
+   "Dimensions of finite-dimensional real division algebras.",
+   2710
+  ],
+  [
+   "A103303",
+   "Complete list of digits used in the counting numbers (in base 10). Also known as the \"Arabic numerals\".",
+   1384
+  ],
+  [
+   "A245206",
+   "Odd primes p with E_{p-3}(1/4) == 0 (mod p), where E_n(x) denotes the Euler polynomial of degree n.",
+   1329
+  ],
+  [
+   "A188545",
+   "Fusible numbers.",
+   1246
+  ],
+  [
+   "A397192",
+   "Least m such that n = 1/s_1 + 1/s_2 + ... + 1/s_k with 1 < s_1 < s_2 < ... < s_k = m and s_1, ..., s_k are all semiprime.",
+   1121
+  ],
+  [
+   "A192225",
+   "Numbers that are both Fibonacci and Pell.",
+   1075
+  ]
+ ]
+}
