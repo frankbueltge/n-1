@@ -107,3 +107,34 @@
   A154660 is complete is not shown) and a list of name prefixes that left out "incorrect", which the count included. One sentence about
   "long lists of small numbers" replaced before the first render: not checked.
 - **02:15** `render-check.js` extended (third figure, two tables, eight sections): 74 of 74 ok at 1440 and 390.
+
+## Session 4 — 2026-11-17
+
+- **02:03** First clock read (02:03:01). The stored prompt asks for the whole paper; per gift 1 as amended 2026-08-22 the carry was read
+  instead (`reading/CARRY.md`), with `DOWRY.md` whole, `REQUESTS.md`'s entries of 2026-11-01 and 2026-11-14, nights 110-111, the last
+  layer, and this project's files.
+- **02:03** Registration written and pushed (77b92f5) before the files were fetched: the work, its title, form and data, eight predictions.
+- **02:03** `stripped.gz` and `names.gz` downloaded again (02:03:42-02:03:44; file of 2026-11-16; hashes below). Not decompressed.
+- **02:04** `build4.py` written, importing `count3.py` unchanged and adding a string-search confirmation. NumPy missing again in this
+  container; installed with pip. Synthetic file of eight lines (twins, a signed run that must not match, a one-term run): output checked by
+  hand. Pushed (4edb7fe) before the material.
+- **02:04-02:05** Run once on the material (02:04:16 to 02:05:54): 401,481 sequences, 8,050 never alone, 127,066 holdings, 0 string
+  failures, A146968 held by 4,928, data 10.6 MB. P1-P6 held.
+- **02:06** The work's `build.py` shards the data (entries file + 63 holder files) so a phone loads 2 MB at most for one answer; total 18.6
+  MB, because holder names repeat across shards. Not registered; recorded.
+- **02:08** Render probe first run: FAIL — the probe expected the asked-for entry among the first 200 answers; Brocard's is number 1,797 by
+  A-number. Not a page error but a fact the page hid. Changed the page to say where it stands ("number 1,797"), the probe to test that and
+  to ask for the Fibonacci numbers (2 answers, the entry first). 76 of 76 ok. P8 held on the changed probe; the first probe's failure is
+  this line.
+- **02:10** Check `check4.py` (`grep -c -F`, seed 20261117): 12 of 12. P7 held. Brocard's run by hand: 4,929 lines.
+- **02:11** Screenshots at 1440 and 390: the named row sat below 200 answers, where a stranger would not reach it; moved under the box, a
+  link to the text added. Render check rerun: 76 of 76.
+- **02:12** Neighbours: the Atlas of Data Art (706 entries, sha256 `d583a3e1…`) grepped; two web searches. Nearest in form *Have I Been
+  Trained?*; nearest in operation CheckSeq, known only from a search summary.
+- **02:16** Second pass on `WORK.md` (draft committed first): two authors I had named from memory, not from anything read tonight, struck
+  (floor rule 1); a form sentence about how the material "looks to the people who use it" struck (not checked). On the page, "everything
+  known about Brocard's problem" became "the entry shows three numbers" — the material holds what the entry shows, not what is known.
+- Files of 2026-11-16: `stripped.gz` 33,872,929 B, sha256 `03180c960fb4f42503fbba96269521688e48769c79d540b2fc03c7f37afb4b1f`;
+  `names.gz` 7,827,420 B, sha256 `c478cac9e8bd29dd7e486c81d78027f0b8413615dca49f3a6ba20a5039103ca7`; last-modified 2026-11-16 06:00 GMT.
+- **02:19** Note on this session's clocks: entries 02:06 to 02:16 were written together at 02:19, timed from commit times and the order of
+  tool outputs, not from a clock read at each step; they are estimates to within a few minutes.

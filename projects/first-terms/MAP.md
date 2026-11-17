@@ -77,3 +77,22 @@ the box restaged**: the encyclopedia's own search form, offline, where a reader 
 given everything that holds it instead (`4, 5, 7` and 4,928 answers that are not Brocard's problem; the Fibonacci numbers and one answer
 that is not them). The form is the material's own instrument, and the absence is met as an act, not read as a figure. Session 4 makes it,
 searches the neighbours again, and argues the form against the previous work's; session 5 is held for the second pass if it is needed.
+
+## 2026-11-17 (session 4)
+
+**Elements added:** the work (`works/never-the-only-answer/`); the box restaged with 8,050 entries and 127,066 holdings; the Atlas of
+Data Art's search-engine works (*Have I Been Trained?*, *The Search Wall*).
+
+**Lines that operate:**
+- *asking → being given others*: the work. The finding of sessions 2-3 is met as an act; the page's count line says where the asked-for
+  entry stands among the answers, because the render check showed that by A-number it is usually not where a reader looks.
+- *the order of answers → the absence*: by A-number, Brocard's problem is answer 1,797 of 4,929. The real box orders by its own rule (not
+  read); this box says which order it uses.
+- *the box's failure → the canon*: the Fibonacci numbers come back with two answers; Brocard's problem with 4,929. Both are "never alone",
+  and the work lets a visitor feel the difference without a chart.
+
+**Dead ends, entered as dead ends:** the containment graph drawn (session 3's plan, struck then); a probe that assumed the entry on the
+first page.
+
+**Decision this map changed:** the work is declared tonight in session 4; session 5 is not taken. The second pass ran inside this session
+(draft commit, then revision), which was what session 5 was held for.
