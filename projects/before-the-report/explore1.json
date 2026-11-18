@@ -1,0 +1,598 @@
+{
+ "note": "exploratory; event = records sharing event_id within a centre; W and C of an event = min over its records",
+ "event_median_W": {
+  "food": {
+   "Class I": {
+    "events": 3278,
+    "median_W": 37.0,
+    "median_C": 29.0,
+    "median_W_minus_C": 8.0
+   },
+   "Class II": {
+    "events": 4029,
+    "median_W": 35,
+    "median_C": 28,
+    "median_W_minus_C": 8
+   },
+   "Class III": {
+    "events": 648,
+    "median_W": 40.0,
+    "median_C": 32.0,
+    "median_W_minus_C": 8.0
+   }
+  },
+  "drug": {
+   "Class I": {
+    "events": 659,
+    "median_W": 57,
+    "median_C": 53,
+    "median_W_minus_C": 7
+   },
+   "Class II": {
+    "events": 2941,
+    "median_W": 28,
+    "median_C": 21,
+    "median_W_minus_C": 8
+   },
+   "Class III": {
+    "events": 1146,
+    "median_W": 29.0,
+    "median_C": 22.0,
+    "median_W_minus_C": 7.0
+   }
+  },
+  "device": {
+   "Class I": {
+    "events": 1001,
+    "median_W": 48,
+    "median_C": 41,
+    "median_W_minus_C": 8
+   },
+   "Class II": {
+    "events": 13601,
+    "median_W": 54,
+    "median_C": 45,
+    "median_W_minus_C": 8
+   },
+   "Class III": {
+    "events": 589,
+    "median_W": 61,
+    "median_C": 52,
+    "median_W_minus_C": 8
+   }
+  }
+ },
+ "event_median_W_by_year": {
+  "food": {
+   "2012": {
+    "Class I": [
+     223,
+     34
+    ],
+    "Class II": [
+     181,
+     47
+    ]
+   },
+   "2013": {
+    "Class I": [
+     228,
+     40.0
+    ],
+    "Class II": [
+     260,
+     41.0
+    ]
+   },
+   "2014": {
+    "Class I": [
+     247,
+     40
+    ],
+    "Class II": [
+     268,
+     46.5
+    ]
+   },
+   "2015": {
+    "Class I": [
+     303,
+     50
+    ],
+    "Class II": [
+     246,
+     48.0
+    ]
+   },
+   "2016": {
+    "Class I": [
+     380,
+     61.0
+    ],
+    "Class II": [
+     343,
+     57
+    ]
+   },
+   "2017": {
+    "Class I": [
+     315,
+     40
+    ],
+    "Class II": [
+     348,
+     36.0
+    ]
+   },
+   "2018": {
+    "Class I": [
+     194,
+     26.5
+    ],
+    "Class II": [
+     326,
+     28.0
+    ]
+   },
+   "2019": {
+    "Class I": [
+     175,
+     35
+    ],
+    "Class II": [
+     285,
+     30
+    ]
+   },
+   "2020": {
+    "Class I": [
+     153,
+     28
+    ],
+    "Class II": [
+     234,
+     26.0
+    ]
+   },
+   "2021": {
+    "Class I": [
+     156,
+     27.0
+    ],
+    "Class II": [
+     253,
+     27
+    ]
+   },
+   "2022": {
+    "Class I": [
+     170,
+     33.0
+    ],
+    "Class II": [
+     241,
+     34
+    ]
+   },
+   "2023": {
+    "Class I": [
+     162,
+     34.0
+    ],
+    "Class II": [
+     260,
+     34.0
+    ]
+   },
+   "2024": {
+    "Class I": [
+     169,
+     35
+    ],
+    "Class II": [
+     254,
+     36.0
+    ]
+   },
+   "2025": {
+    "Class I": [
+     233,
+     33
+    ],
+    "Class II": [
+     298,
+     33.0
+    ]
+   },
+   "2026": {
+    "Class I": [
+     170,
+     32.0
+    ],
+    "Class II": [
+     232,
+     35.0
+    ]
+   }
+  },
+  "drug": {
+   "2012": {
+    "Class I": [
+     15,
+     99
+    ],
+    "Class II": [
+     95,
+     83
+    ]
+   },
+   "2013": {
+    "Class I": [
+     48,
+     138.5
+    ],
+    "Class II": [
+     194,
+     52.0
+    ]
+   },
+   "2014": {
+    "Class I": [
+     75,
+     135
+    ],
+    "Class II": [
+     214,
+     50.5
+    ]
+   },
+   "2015": {
+    "Class I": [
+     35,
+     118
+    ],
+    "Class II": [
+     143,
+     37
+    ]
+   },
+   "2016": {
+    "Class I": [
+     53,
+     149
+    ],
+    "Class II": [
+     137,
+     47
+    ]
+   },
+   "2017": {
+    "Class I": [
+     39,
+     85
+    ],
+    "Class II": [
+     185,
+     33
+    ]
+   },
+   "2018": {
+    "Class I": [
+     48,
+     32.0
+    ],
+    "Class II": [
+     232,
+     26.0
+    ]
+   },
+   "2019": {
+    "Class I": [
+     34,
+     26.0
+    ],
+    "Class II": [
+     239,
+     23
+    ]
+   },
+   "2020": {
+    "Class I": [
+     48,
+     36.0
+    ],
+    "Class II": [
+     226,
+     23.0
+    ]
+   },
+   "2021": {
+    "Class I": [
+     54,
+     45.5
+    ],
+    "Class II": [
+     172,
+     27.5
+    ]
+   },
+   "2022": {
+    "Class I": [
+     62,
+     29.5
+    ],
+    "Class II": [
+     211,
+     23
+    ]
+   },
+   "2023": {
+    "Class I": [
+     39,
+     35
+    ],
+    "Class II": [
+     178,
+     22.0
+    ]
+   },
+   "2024": {
+    "Class I": [
+     46,
+     40.0
+    ],
+    "Class II": [
+     217,
+     26
+    ]
+   },
+   "2025": {
+    "Class I": [
+     29,
+     34
+    ],
+    "Class II": [
+     262,
+     26.0
+    ]
+   },
+   "2026": {
+    "Class I": [
+     34,
+     33.0
+    ],
+    "Class II": [
+     236,
+     23.0
+    ]
+   }
+  },
+  "device": {
+   "2012": {
+    "Class I": [
+     42,
+     80.0
+    ],
+    "Class II": [
+     558,
+     61.0
+    ]
+   },
+   "2013": {
+    "Class I": [
+     72,
+     50.5
+    ],
+    "Class II": [
+     1065,
+     62
+    ]
+   },
+   "2014": {
+    "Class I": [
+     63,
+     49
+    ],
+    "Class II": [
+     1155,
+     50
+    ]
+   },
+   "2015": {
+    "Class I": [
+     47,
+     47
+    ],
+    "Class II": [
+     1050,
+     49.0
+    ]
+   },
+   "2016": {
+    "Class I": [
+     46,
+     55.5
+    ],
+    "Class II": [
+     1121,
+     54
+    ]
+   },
+   "2017": {
+    "Class I": [
+     34,
+     55.0
+    ],
+    "Class II": [
+     845,
+     55
+    ]
+   },
+   "2018": {
+    "Class I": [
+     39,
+     72
+    ],
+    "Class II": [
+     1193,
+     82
+    ]
+   },
+   "2019": {
+    "Class I": [
+     56,
+     61.0
+    ],
+    "Class II": [
+     804,
+     63.0
+    ]
+   },
+   "2020": {
+    "Class I": [
+     43,
+     55
+    ],
+    "Class II": [
+     1001,
+     54
+    ]
+   },
+   "2021": {
+    "Class I": [
+     74,
+     48.0
+    ],
+    "Class II": [
+     799,
+     51
+    ]
+   },
+   "2022": {
+    "Class I": [
+     66,
+     53.5
+    ],
+    "Class II": [
+     777,
+     54
+    ]
+   },
+   "2023": {
+    "Class I": [
+     80,
+     43.5
+    ],
+    "Class II": [
+     736,
+     54.0
+    ]
+   },
+   "2024": {
+    "Class I": [
+     114,
+     48.5
+    ],
+    "Class II": [
+     899,
+     51
+    ]
+   },
+   "2025": {
+    "Class I": [
+     135,
+     41
+    ],
+    "Class II": [
+     820,
+     46.0
+    ]
+   },
+   "2026": {
+    "Class I": [
+     90,
+     47.5
+    ],
+    "Class II": [
+     778,
+     49.0
+    ]
+   }
+  }
+ },
+ "largest_drug_class1_event": {
+  "centre": "drug",
+  "event_id": "80601",
+  "g": "Class I",
+  "W": 243,
+  "C": 231,
+  "year": "2019",
+  "records": 465
+ },
+ "implausible_init_before_1990": [
+  {
+   "centre": "food",
+   "recall_number": "F-0880-2013",
+   "init": "02121207",
+   "report": "20130123",
+   "W": 657484
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-0139-2014",
+   "init": "19301211",
+   "report": "20131113",
+   "W": 30288
+  }
+ ],
+ "negative_W": [
+  {
+   "centre": "device",
+   "recall_number": "Z-1571-2014",
+   "class": "Class II",
+   "init": "20151110",
+   "report": "20140521",
+   "W": -538
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-0002-2014",
+   "class": "Class II",
+   "init": "20131212",
+   "report": "20131009",
+   "W": -64
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-1572-2014",
+   "class": "Class II",
+   "init": "20151110",
+   "report": "20140521",
+   "W": -538
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-0378-2019",
+   "class": "Class II",
+   "init": "20181127",
+   "report": "20181114",
+   "W": -13
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-0377-2019",
+   "class": "Class II",
+   "init": "20181127",
+   "report": "20181114",
+   "W": -13
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-0379-2019",
+   "class": "Class II",
+   "init": "20181127",
+   "report": "20181114",
+   "W": -13
+  }
+ ]
+}
