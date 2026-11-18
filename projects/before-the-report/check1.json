@@ -1,0 +1,179 @@
+{
+ "held": 15,
+ "of": 15,
+ "rows": [
+  {
+   "centre": "food",
+   "recall_number": "H-1230-2026",
+   "jq_lines": 1,
+   "init": "20260722",
+   "report": "20260819",
+   "date_W": 28,
+   "count_W": 28,
+   "holds": true
+  },
+  {
+   "centre": "food",
+   "recall_number": "F-2119-2019",
+   "jq_lines": 1,
+   "init": "20190812",
+   "report": "20190904",
+   "date_W": 23,
+   "count_W": 23,
+   "holds": true
+  },
+  {
+   "centre": "food",
+   "recall_number": "F-0471-2024",
+   "jq_lines": 1,
+   "init": "20231103",
+   "report": "20231206",
+   "date_W": 33,
+   "count_W": 33,
+   "holds": true
+  },
+  {
+   "centre": "food",
+   "recall_number": "F-2140-2015",
+   "jq_lines": 1,
+   "init": "20150108",
+   "report": "20150506",
+   "date_W": 118,
+   "count_W": 118,
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "recall_number": "D-1034-2019",
+   "jq_lines": 1,
+   "init": "20190313",
+   "report": "20190327",
+   "date_W": 14,
+   "count_W": 14,
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "recall_number": "D-1772-2015",
+   "jq_lines": 1,
+   "init": "20150602",
+   "report": "20150923",
+   "date_W": 113,
+   "count_W": 113,
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "recall_number": "D-709-2014",
+   "jq_lines": 1,
+   "init": "20130702",
+   "report": "20140122",
+   "date_W": 204,
+   "count_W": 204,
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "recall_number": "D-0362-2026",
+   "jq_lines": 1,
+   "init": "20260120",
+   "report": "20260311",
+   "date_W": 50,
+   "count_W": 50,
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-2196-2013",
+   "jq_lines": 1,
+   "init": "20130716",
+   "report": "20130925",
+   "date_W": 71,
+   "count_W": 71,
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-0249-2015",
+   "jq_lines": 1,
+   "init": "20141008",
+   "report": "20141210",
+   "date_W": 63,
+   "count_W": 63,
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-0080-2018",
+   "jq_lines": 1,
+   "init": "20171004",
+   "report": "20171115",
+   "date_W": 42,
+   "count_W": 42,
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-0454-2021",
+   "jq_lines": 1,
+   "init": "20200916",
+   "report": "20201125",
+   "date_W": 70,
+   "count_W": 70,
+   "holds": true
+  },
+  {
+   "centre": "food",
+   "recall_number": "F-0880-2013",
+   "jq_lines": 1,
+   "init": "02121207",
+   "report": "20130123",
+   "date_W": 657484,
+   "count_W": 657484,
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-0139-2014",
+   "jq_lines": 1,
+   "init": "19301211",
+   "report": "20131113",
+   "date_W": 30288,
+   "count_W": 30288,
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "recall_number": "Z-2238-2026",
+   "jq_lines": 1,
+   "init": "20110117",
+   "report": "20260603",
+   "date_W": 5616,
+   "count_W": 5616,
+   "holds": true
+  }
+ ],
+ "second_count": {
+  "food": {
+   "jq_records": 29609,
+   "count_records": 29609,
+   "jq_neg": 0,
+   "count_neg": 0,
+   "holds": true
+  },
+  "drug": {
+   "jq_records": 18166,
+   "count_records": 18166,
+   "jq_neg": 0,
+   "count_neg": 0,
+   "holds": true
+  },
+  "device": {
+   "jq_records": 40535,
+   "count_records": 40535,
+   "jq_neg": 6,
+   "count_neg": 6,
+   "holds": true
+  }
+ }
+}
