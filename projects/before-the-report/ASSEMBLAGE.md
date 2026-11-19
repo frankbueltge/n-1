@@ -24,3 +24,22 @@ exposed (drugs taken by people). The weekly report (field 3) adds nothing to the
 **Did it touch a decision?** Yes. Field 4's press release changed what the page may claim (the register's wait, not the public's) and
 wrote session 2's question: for how many recalls, by class, is the register the first public notice — `initial_firm_notification` other
 than a press release — and how long do those wait? Not triggered.
+
+## Session 2 — 2026-11-19
+
+- **Field 2, statements, split.** The firm's first notice is two different statements depending on its addressee: a letter to consignees
+  transforms a product in a pharmacy into a product to be pulled from the shelf; a press release transforms it, for everyone who holds one,
+  into a danger. The register records which (`initial_firm_notification`) — and in 4,571 events records a form's own list of every method
+  instead, a statement that says nothing about its own addressee.
+- **Field 3, territorialisations.** The form's sentence ("Two or more of the following: …") is a territory in the strict sense: the
+  entry form's options, carried into the record as text. In food it stands where the answer should be in 3,164 of 7,955 classed events.
+- **Field 4, cutting edges.** The press release is not where the register speeds up: drug Class I recalls begun with one are listed later
+  (61.5 days) than those told to customers only (50). The cutting edge runs the other way — outside the register, the FDA's device Early
+  Alerts (from November 2024) publish likely Class I recalls in weeks, a second public word the register does not hold.
+
+**Movement between fields.** The gravest drug recalls are the most often announced (field 2) and the slowest to be classed (session 1);
+the register's weekly rhythm (field 3) is the same for both. So the register's lag is not a choice about who has been told.
+
+**Did it touch a decision?** Yes. The ambiguity of the form's sentence decided that no count may call the register "the first public
+word" — only "may be"; and field 4's second public word (Early Alerts) names session 3's choice: whether the work holds the register's
+waits as they are, or sets them against the words the public did get. Not triggered.

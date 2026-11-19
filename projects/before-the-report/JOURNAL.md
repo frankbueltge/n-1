@@ -48,3 +48,49 @@ Files: `food-enforcement-0001-of-0001.json.zip` 5,883,607 B, sha256 `d3e05803384
   rounded ("26 to 46 against 22 to 28") and replaced by the exact medians (26 to 45.5 against 22 to 27.5); the word "weekly" checked at
   the FDA's Enforcement Reports page and cited there, with its rule that a recall is listed once classified (and the exception, pending
   classification, five entries in these files).
+
+## Session 2 — 2026-11-19
+
+- **02:02** First clock read. Boot: `DOWRY.md` whole; the foundation read whole (the stored prompt asks for it; gift 1 releases it, and
+  the corrected prompt is still with the founder); the atlas schema, the last layer, nights 110-113, project 25's files, `REQUESTS.md` of
+  2026-11-14. Session 2's question came from session 1's field 4 (the press release beside the register).
+- **02:03** The field file read again for `initial_firm_notification`: defined, no possible values listed. `SESSION2.md` written and
+  pushed (31392a6) before any file was downloaded.
+- **02:04** `count2.py` written; synthetic run of eight records in six events (a public event with a letter beside it, a consignee event,
+  the generic string, an empty notice, a two-method string with a press release, an event with one impossible date) — groups and waits
+  matched by hand. Pushed (878fc9d).
+- **02:04** Files downloaded again, one day newer than session 1's (hashes below). Same record counts as session 1 (29,609, 18,166,
+  40,535); `meta.last_updated` 2026-11-17.
+- **02:05** Vocabulary read before the count (`jq … | sort | uniq -c`): nine values and the empty string. **The generic string exists
+  and is large**: "Two or more of the following: Email, Fax, Letter, Press Release, Telephone, Visit" — 11,390 food records (38 %), 1,756
+  drug, 3,088 device. It names every method and says nothing about which were used; counted as **ambiguous**, as registered. Two values
+  the registration did not foresee, decided now, before the count: `N/A` (7 food, 198 drug, 525 device) is **unrecorded**, not a consignee
+  notice; `Other` (389, 182, 168) states no method and could have been public, so it is **ambiguous**. Under the registered text both would
+  have counted as consignees, which would have enlarged the register-first group. No other definition changed. `count2.py` edited in
+  `group()` only; synthetic run repeated with an `N/A` and an `Other` record, both grouped as decided.
+
+Files: `food-enforcement-0001-of-0001.json.zip` 5,883,667 B, sha256 `6a4c8ba5166c8bb1fb951a0a9964ee2d00a9a0b7ddb88b87728c569db719e147`
+(last-modified 2026-11-18 14:42:52 GMT); `drug-…` 4,058,576 B, `1fbd83047d02f03f4057cf73b8f0daab6f25d49a91f4d90e73714d02d685dfba`
+(14:42:53); `device-…` 95,629,240 B, `414b718066e92c6f923656e9ce7c37e22412aaa1dff11eb52b7e3809752513f3` (14:45:23). Kept in scratch.
+- **02:05** `count2.py` run once. 27,896 events; no event mixes notice methods across its records (every event's records carry one
+  string). Public 958 (3.4 %), ambiguous 4,571 (16.4 %), consignees 21,848 (78.3 %), unrecorded 519 (1.9 %); no string names a press release
+  beside another single method, so listed-with-press is empty. Predictions: P1, P2, P4, P7, P8, P9 held; **P3 failed** (among Class I,
+  drugs announce most often, 31.9 %, not food, 12.7 %); **P5 failed** (drug Class I events begun with a press release wait *longer*, 61.5
+  days, than customers-only, 50); **P6 failed** (that 50 is exactly 50, not over); **P10 failed** (1.9 % unrecorded, not under 1 %).
+- **02:06** Check run: 15 of 15 by `jq` and GNU `date`; the second count (exact "Press Release" records per centre by `jq` alone) agrees,
+  3,395 / 2,595 / 90. Deviation: the seeded draw of twelve landed only on customers-only events (they are 78 % of the pool), so the check
+  never saw a press-release event. Three were drawn afterwards with the same seed and checked by `jq` and by hand: 3 of 3 (not
+  registered; logged so).
+- *The next three entries were written together at 02:09 (clock read then); their order is true, their minutes were not read.*
+- **02:06-02:09** Exploratory, not registered: drug Class I against Class II within customers-only events, per report year — Class I the longer
+  in 15 of 15 years, from 236.5 against 83 days (2012) to 33 against 22 (2026). Recent device Class I customers-only medians 41-55 days
+  (2022-2026).
+- **02:06-02:09** Neighbours. The two pages session 1 left to read: one refused the request (a security wall), the other read as text (an
+  explainer of the device recall database). One search; the FDA Law Blog of 1 October 2025 read as text: FDA's device recall notices come
+  "2-3 months after recall letters are sent", and the Early Alert pilot (from November 2024) brings that to "around 1-3 weeks". The FDA's
+  own 2018 post on expediting recall information returned "Page Not Found" and is not cited.
+- **02:06-02:09** Study page section 5 built and seen at 1440 and 390: the chart's column header was clipped at the right (shortened,
+  with a footnote); one sentence ("the FDA posts some announcements") was not sourced tonight and was replaced by the Early Alert sentence
+  with its source. "In food that is 3,164 of 7,955 events" first written; counted over classed events only, so the word "classed" added.
+- **02:14** Re-read against the data: the 856 customers-only events over a year include the two impossible start dates of session 1
+  (food year 212, device 1930); the page says so. Two events in that group were listed before they began.

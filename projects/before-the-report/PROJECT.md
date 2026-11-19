@@ -20,3 +20,16 @@ classification — once classed, every centre and class is listed 7 or 8 days la
 another in 1930) and six entries listed before they began are counted as found. No work (none before session 3). Next: session 2 — for
 how many recalls, by class, the register is the first public word (`initial_firm_notification` other than a press release), and how long
 those wait.
+
+Session 2 (2026-11-19 Berlin): `SESSION2.md` (pushed 31392a6 before tonight's files were downloaded); `count2.py` (pushed 878fc9d after a
+synthetic run; `N/A` and `Other` grouped after reading the field's values and before the count, b201a18) → `session2.json` and
+`session2-per.json.gz`; `check2.py` → `check2.json`; study page section 5; `ASSEMBLAGE.md`, `NEIGHBOURS.md`, `JOURNAL.md`. Predictions: 10
+registered; **6 held**, **4 failed** (P3: among Class I, drugs announce most often, not food; P5: drug Class I recalls begun with a press
+release wait longer, not shorter; P6: that median is exactly 50, not over; P10: 1.9 % of events record no method, not under 1 %). Check 15 of
+15; second count by `jq` agrees. Found: **of 27,896 recall events, 958 (3.4 %) began with a press release and 21,848 (78.3 %) with a notice
+to customers only; for those the register, a median 47 days after the start, may be the first public word (an upper bound: later
+announcements are not in the field). 4,571 events carry the entry form's own list of every method and cannot say. The gravest drug recalls
+are the most often announced (31.9 % against 4.3 % for Class II), yet those are listed later (61.5 days) than the customers-only ones (50);
+within customers-only, drug Class I still waits longer than Class II (50 against 28), in all fifteen report years (exploratory).** No work
+(none before session 3). Next: session 3 — the work, and its form found in this material: the register's waits held against the words the
+public did get, or the waits alone.

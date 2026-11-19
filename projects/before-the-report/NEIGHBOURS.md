@@ -16,5 +16,16 @@ work is declared.*
    The agency's visualisation of the same register. Not read; whether it shows waits is unknown.
 3. **"Looking back at FDA product recall data from 2012 to 2024"** (`https://fldata.com/?p=16983`) and **"FDA device recalls"**
    (`https://ai-analytics.org/writing/fda-device-recalls/`); seen as search result titles only, not read. Named so that session 2 reads them.
+   *Session 2 (2026-11-19):* the first refused the request (a security wall; not read). The second read as text: an explainer of the CDRH
+   recall database's fields (dated 24 May 2026), which notes that the classification date comes "usually weeks after initiation"; it
+   counts nothing about first notices. Not a neighbour in question.
 4. **No art neighbour found.** The Atlas holds works on pharmaceutical residues in water (*aqua_forensic*, Šebjanič/Šutić, 2020) and on
    contamination turned to material (*Instruments of the Afterlife*, Burton Nitta, 2016): neighbours in subject only.
+5. **FDA Law Blog (Hyman, Phelps & McNamara), "How Early is Too Early? CDRH Expands Early Alert Communications for Potentially High-Risk
+   Device Recalls", S. J. Gonzalez and A. K. Walsh, 1 October 2025**
+   (`https://www.thefdalawblog.com/2025/10/how-early-is-too-early-cdrh-expands-early-alert-communications-for-potentially-high-risk-device-recalls/`;
+   read as text, 2026-11-19). **Nearest in question for devices.** It states that FDA's notifications of high-risk device recalls come
+   "2-3 months after recall letters are sent to customers", and that Early Alerts (pilot from 21 November 2024, expanded 29 September
+   2025) bring this to "around 1-3 weeks". An estimate from a review of recent alerts, not a count. Daylight: this project counts every
+   enforcement entry since 2012 in three centres, by the firm's first addressee, and finds the register-first device Class I median 49
+   days (about seven weeks) — and that for drugs the press release does not shorten the register's wait.
