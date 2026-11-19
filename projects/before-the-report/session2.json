@@ -1,0 +1,1074 @@
+{
+ "meta": {
+  "food": {
+   "meta_last_updated": "2026-11-17",
+   "records": 29609
+  },
+  "drug": {
+   "meta_last_updated": "2026-11-17",
+   "records": 18166
+  },
+  "device": {
+   "meta_last_updated": "2026-11-17",
+   "records": 40535
+  }
+ },
+ "records": 88310,
+ "events": 27896,
+ "top_strings": [
+  [
+   "Letter",
+   45347
+  ],
+  [
+   "Two or more of the following: Email, Fax, Letter, Press Release, Telephone, Visit",
+   16234
+  ],
+  [
+   "E-Mail",
+   10688
+  ],
+  [
+   "Telephone",
+   7203
+  ],
+  [
+   "Press Release",
+   6080
+  ],
+  [
+   "Other",
+   739
+  ],
+  [
+   "N/A",
+   730
+  ],
+  [
+   "Visit",
+   617
+  ],
+  [
+   "",
+   569
+  ],
+  [
+   "FAX",
+   103
+  ]
+ ],
+ "distinct_strings": 10,
+ "record_groups": {
+  "food": {
+   "public": 3395,
+   "listed-with-press": 0,
+   "ambiguous": 11779,
+   "consignees": 14425,
+   "unrecorded": 10
+  },
+  "drug": {
+   "public": 2595,
+   "listed-with-press": 0,
+   "ambiguous": 1938,
+   "consignees": 13319,
+   "unrecorded": 314
+  },
+  "device": {
+   "public": 90,
+   "listed-with-press": 0,
+   "ambiguous": 3256,
+   "consignees": 36214,
+   "unrecorded": 975
+  }
+ },
+ "record_exact_press_release": {
+  "food": 3395,
+  "drug": 2595,
+  "device": 90
+ },
+ "event_groups": {
+  "public": 958,
+  "listed-with-press": 0,
+  "ambiguous": 4571,
+  "consignees": 21848,
+  "unrecorded": 519
+ },
+ "event_group_share": {
+  "public": 0.0343,
+  "listed-with-press": 0.0,
+  "ambiguous": 0.1639,
+  "consignees": 0.7832,
+  "unrecorded": 0.0186
+ },
+ "events_mixed_notice": 0,
+ "by_centre_class": {
+  "food": {
+   "Class I": {
+    "events": 3278,
+    "groups": {
+     "public": 417,
+     "listed-with-press": 0,
+     "ambiguous": 1428,
+     "consignees": 1432,
+     "unrecorded": 1
+    },
+    "share_public": 0.1272,
+    "W": {
+     "public": {
+      "n": 417,
+      "median": 37,
+      "p25": 28,
+      "p75": 55,
+      "p90": 99,
+      "max": 1177,
+      "over90": 46,
+      "over365": 7
+     },
+     "listed-with-press": {
+      "n": 0
+     },
+     "ambiguous": {
+      "n": 1428,
+      "median": 35.0,
+      "p25": 26,
+      "p75": 50,
+      "p90": 97,
+      "max": 1986,
+      "over90": 157,
+      "over365": 17
+     },
+     "consignees": {
+      "n": 1432,
+      "median": 39.0,
+      "p25": 28,
+      "p75": 55,
+      "p90": 96,
+      "max": 1853,
+      "over90": 157,
+      "over365": 12
+     },
+     "unrecorded": {
+      "n": 1,
+      "median": 16,
+      "p25": 16,
+      "p75": 16,
+      "p90": 16,
+      "max": 16,
+      "over90": 0,
+      "over365": 0
+     }
+    }
+   },
+   "Class II": {
+    "events": 4029,
+    "groups": {
+     "public": 166,
+     "listed-with-press": 0,
+     "ambiguous": 1511,
+     "consignees": 2348,
+     "unrecorded": 4
+    },
+    "share_public": 0.0412,
+    "W": {
+     "public": {
+      "n": 166,
+      "median": 36.0,
+      "p25": 29,
+      "p75": 49,
+      "p90": 80,
+      "max": 329,
+      "over90": 13,
+      "over365": 0
+     },
+     "listed-with-press": {
+      "n": 0
+     },
+     "ambiguous": {
+      "n": 1511,
+      "median": 34,
+      "p25": 23,
+      "p75": 48,
+      "p90": 79,
+      "max": 1481,
+      "over90": 118,
+      "over365": 12
+     },
+     "consignees": {
+      "n": 2348,
+      "median": 36.0,
+      "p25": 27,
+      "p75": 54,
+      "p90": 93,
+      "max": 657484,
+      "over90": 243,
+      "over365": 27
+     },
+     "unrecorded": {
+      "n": 4,
+      "median": 45.5,
+      "p25": 37,
+      "p75": 90,
+      "p90": 90,
+      "max": 90,
+      "over90": 0,
+      "over365": 0
+     }
+    }
+   },
+   "Class III": {
+    "events": 648,
+    "groups": {
+     "public": 9,
+     "listed-with-press": 0,
+     "ambiguous": 225,
+     "consignees": 413,
+     "unrecorded": 1
+    },
+    "share_public": 0.0139,
+    "W": {
+     "public": {
+      "n": 9,
+      "median": 55,
+      "p25": 44,
+      "p75": 194,
+      "p90": 243,
+      "max": 243,
+      "over90": 4,
+      "over365": 0
+     },
+     "listed-with-press": {
+      "n": 0
+     },
+     "ambiguous": {
+      "n": 225,
+      "median": 40,
+      "p25": 27,
+      "p75": 56,
+      "p90": 105,
+      "max": 747,
+      "over90": 29,
+      "over365": 1
+     },
+     "consignees": {
+      "n": 413,
+      "median": 40,
+      "p25": 29,
+      "p75": 61,
+      "p90": 105,
+      "max": 903,
+      "over90": 60,
+      "over365": 7
+     },
+     "unrecorded": {
+      "n": 1,
+      "median": 19,
+      "p25": 19,
+      "p75": 19,
+      "p90": 19,
+      "max": 19,
+      "over90": 0,
+      "over365": 0
+     }
+    }
+   }
+  },
+  "drug": {
+   "Class I": {
+    "events": 659,
+    "groups": {
+     "public": 210,
+     "listed-with-press": 0,
+     "ambiguous": 72,
+     "consignees": 369,
+     "unrecorded": 8
+    },
+    "share_public": 0.3187,
+    "W": {
+     "public": {
+      "n": 210,
+      "median": 61.5,
+      "p25": 30,
+      "p75": 132,
+      "p90": 211,
+      "max": 792,
+      "over90": 78,
+      "over365": 5
+     },
+     "listed-with-press": {
+      "n": 0
+     },
+     "ambiguous": {
+      "n": 72,
+      "median": 81.0,
+      "p25": 36,
+      "p75": 148,
+      "p90": 233,
+      "max": 770,
+      "over90": 30,
+      "over365": 4
+     },
+     "consignees": {
+      "n": 369,
+      "median": 50,
+      "p25": 29,
+      "p75": 119,
+      "p90": 198,
+      "max": 2455,
+      "over90": 121,
+      "over365": 16
+     },
+     "unrecorded": {
+      "n": 8,
+      "median": 38.0,
+      "p25": 30,
+      "p75": 71,
+      "p90": 89,
+      "max": 89,
+      "over90": 0,
+      "over365": 0
+     }
+    }
+   },
+   "Class II": {
+    "events": 2941,
+    "groups": {
+     "public": 126,
+     "listed-with-press": 0,
+     "ambiguous": 157,
+     "consignees": 2556,
+     "unrecorded": 102
+    },
+    "share_public": 0.0428,
+    "W": {
+     "public": {
+      "n": 126,
+      "median": 29.0,
+      "p25": 23,
+      "p75": 47,
+      "p90": 91,
+      "max": 463,
+      "over90": 13,
+      "over365": 1
+     },
+     "listed-with-press": {
+      "n": 0
+     },
+     "ambiguous": {
+      "n": 157,
+      "median": 34,
+      "p25": 22,
+      "p75": 64,
+      "p90": 149,
+      "max": 896,
+      "over90": 29,
+      "over365": 5
+     },
+     "consignees": {
+      "n": 2556,
+      "median": 28.0,
+      "p25": 20,
+      "p75": 44,
+      "p90": 84,
+      "max": 1910,
+      "over90": 222,
+      "over365": 27
+     },
+     "unrecorded": {
+      "n": 102,
+      "median": 29.0,
+      "p25": 19,
+      "p75": 40,
+      "p90": 76,
+      "max": 988,
+      "over90": 7,
+      "over365": 1
+     }
+    }
+   },
+   "Class III": {
+    "events": 1146,
+    "groups": {
+     "public": 0,
+     "listed-with-press": 0,
+     "ambiguous": 48,
+     "consignees": 1071,
+     "unrecorded": 27
+    },
+    "share_public": 0.0,
+    "W": {
+     "public": {
+      "n": 0
+     },
+     "listed-with-press": {
+      "n": 0
+     },
+     "ambiguous": {
+      "n": 48,
+      "median": 43.5,
+      "p25": 28,
+      "p75": 75,
+      "p90": 118,
+      "max": 629,
+      "over90": 7,
+      "over365": 1
+     },
+     "consignees": {
+      "n": 1071,
+      "median": 28,
+      "p25": 20,
+      "p75": 48,
+      "p90": 90,
+      "max": 1248,
+      "over90": 107,
+      "over365": 13
+     },
+     "unrecorded": {
+      "n": 27,
+      "median": 27,
+      "p25": 21,
+      "p75": 36,
+      "p90": 44,
+      "max": 54,
+      "over90": 0,
+      "over365": 0
+     }
+    }
+   }
+  },
+  "device": {
+   "Class I": {
+    "events": 1001,
+    "groups": {
+     "public": 15,
+     "listed-with-press": 0,
+     "ambiguous": 65,
+     "consignees": 891,
+     "unrecorded": 30
+    },
+    "share_public": 0.015,
+    "W": {
+     "public": {
+      "n": 15,
+      "median": 48,
+      "p25": 37,
+      "p75": 51,
+      "p90": 55,
+      "max": 56,
+      "over90": 0,
+      "over365": 0
+     },
+     "listed-with-press": {
+      "n": 0
+     },
+     "ambiguous": {
+      "n": 65,
+      "median": 49,
+      "p25": 41,
+      "p75": 64,
+      "p90": 128,
+      "max": 5616,
+      "over90": 11,
+      "over365": 2
+     },
+     "consignees": {
+      "n": 891,
+      "median": 49,
+      "p25": 40,
+      "p75": 64,
+      "p90": 113,
+      "max": 2133,
+      "over90": 124,
+      "over365": 24
+     },
+     "unrecorded": {
+      "n": 30,
+      "median": 43.5,
+      "p25": 40,
+      "p75": 49,
+      "p90": 70,
+      "max": 84,
+      "over90": 0,
+      "over365": 0
+     }
+    }
+   },
+   "Class II": {
+    "events": 13601,
+    "groups": {
+     "public": 15,
+     "listed-with-press": 0,
+     "ambiguous": 1017,
+     "consignees": 12235,
+     "unrecorded": 334
+    },
+    "share_public": 0.0011,
+    "W": {
+     "public": {
+      "n": 15,
+      "median": 43,
+      "p25": 40,
+      "p75": 100,
+      "p90": 152,
+      "max": 161,
+      "over90": 4,
+      "over365": 0
+     },
+     "listed-with-press": {
+      "n": 0
+     },
+     "ambiguous": {
+      "n": 1017,
+      "median": 57,
+      "p25": 43,
+      "p75": 96,
+      "p90": 315,
+      "max": 2843,
+      "over90": 269,
+      "over365": 79
+     },
+     "consignees": {
+      "n": 12235,
+      "median": 54,
+      "p25": 41,
+      "p75": 84,
+      "p90": 208,
+      "max": 30288,
+      "over90": 2856,
+      "over365": 684
+     },
+     "unrecorded": {
+      "n": 334,
+      "median": 49.0,
+      "p25": 37,
+      "p75": 68,
+      "p90": 99,
+      "max": 751,
+      "over90": 42,
+      "over365": 8
+     }
+    }
+   },
+   "Class III": {
+    "events": 589,
+    "groups": {
+     "public": 0,
+     "listed-with-press": 0,
+     "ambiguous": 47,
+     "consignees": 530,
+     "unrecorded": 12
+    },
+    "share_public": 0.0,
+    "W": {
+     "public": {
+      "n": 0
+     },
+     "listed-with-press": {
+      "n": 0
+     },
+     "ambiguous": {
+      "n": 47,
+      "median": 57,
+      "p25": 42,
+      "p75": 107,
+      "p90": 482,
+      "max": 2906,
+      "over90": 13,
+      "over365": 5
+     },
+     "consignees": {
+      "n": 530,
+      "median": 61.0,
+      "p25": 42,
+      "p75": 117,
+      "p90": 342,
+      "max": 3260,
+      "over90": 164,
+      "over365": 46
+     },
+     "unrecorded": {
+      "n": 12,
+      "median": 86.5,
+      "p25": 58,
+      "p75": 167,
+      "p90": 973,
+      "max": 1125,
+      "over90": 6,
+      "over365": 2
+     }
+    }
+   }
+  }
+ },
+ "by_year_centre_class1": {
+  "food": {
+   "2012": {
+    "public": [
+     49
+    ],
+    "consignees": [
+     92
+    ]
+   },
+   "2013": {
+    "public": [
+     26
+    ],
+    "consignees": [
+     114
+    ]
+   },
+   "2014": {
+    "public": [
+     41
+    ],
+    "consignees": [
+     103
+    ]
+   },
+   "2015": {
+    "public": [
+     68
+    ],
+    "consignees": [
+     129
+    ]
+   },
+   "2016": {
+    "public": [
+     60
+    ],
+    "consignees": [
+     182
+    ]
+   },
+   "2017": {
+    "public": [
+     43
+    ],
+    "consignees": [
+     139
+    ]
+   },
+   "2018": {
+    "public": [
+     18
+    ],
+    "consignees": [
+     84
+    ]
+   },
+   "2019": {
+    "public": [
+     20
+    ],
+    "consignees": [
+     70
+    ]
+   },
+   "2020": {
+    "public": [
+     13
+    ],
+    "consignees": [
+     55
+    ]
+   },
+   "2021": {
+    "public": [
+     14
+    ],
+    "consignees": [
+     64
+    ]
+   },
+   "2022": {
+    "public": [
+     15
+    ],
+    "consignees": [
+     71
+    ]
+   },
+   "2023": {
+    "public": [
+     9
+    ],
+    "consignees": [
+     76
+    ]
+   },
+   "2024": {
+    "public": [
+     7
+    ],
+    "consignees": [
+     69
+    ]
+   },
+   "2025": {
+    "public": [
+     17
+    ],
+    "consignees": [
+     103
+    ]
+   },
+   "2026": {
+    "public": [
+     17
+    ],
+    "consignees": [
+     81
+    ]
+   }
+  },
+  "drug": {
+   "2012": {
+    "public": [
+     7
+    ],
+    "consignees": [
+     6
+    ]
+   },
+   "2013": {
+    "public": [
+     14
+    ],
+    "consignees": [
+     27
+    ]
+   },
+   "2014": {
+    "public": [
+     26
+    ],
+    "consignees": [
+     38
+    ]
+   },
+   "2015": {
+    "public": [
+     9
+    ],
+    "consignees": [
+     21
+    ]
+   },
+   "2016": {
+    "public": [
+     14
+    ],
+    "consignees": [
+     28
+    ]
+   },
+   "2017": {
+    "public": [
+     14
+    ],
+    "consignees": [
+     21
+    ]
+   },
+   "2018": {
+    "public": [
+     14
+    ],
+    "consignees": [
+     31
+    ]
+   },
+   "2019": {
+    "public": [
+     10
+    ],
+    "consignees": [
+     21
+    ]
+   },
+   "2020": {
+    "public": [
+     17
+    ],
+    "consignees": [
+     27
+    ]
+   },
+   "2021": {
+    "public": [
+     21
+    ],
+    "consignees": [
+     26
+    ]
+   },
+   "2022": {
+    "public": [
+     23
+    ],
+    "consignees": [
+     28
+    ]
+   },
+   "2023": {
+    "public": [
+     7
+    ],
+    "consignees": [
+     30
+    ]
+   },
+   "2024": {
+    "public": [
+     14
+    ],
+    "consignees": [
+     29
+    ]
+   },
+   "2025": {
+    "public": [
+     11
+    ],
+    "consignees": [
+     16
+    ]
+   },
+   "2026": {
+    "public": [
+     9
+    ],
+    "consignees": [
+     20
+    ]
+   }
+  },
+  "device": {
+   "2012": {
+    "public": [
+     1
+    ],
+    "consignees": [
+     41
+    ]
+   },
+   "2013": {
+    "public": [
+     2
+    ],
+    "consignees": [
+     66
+    ]
+   },
+   "2014": {
+    "public": [
+     2
+    ],
+    "consignees": [
+     58
+    ]
+   },
+   "2015": {
+    "public": [
+     0
+    ],
+    "consignees": [
+     40
+    ]
+   },
+   "2016": {
+    "public": [
+     1
+    ],
+    "consignees": [
+     43
+    ]
+   },
+   "2017": {
+    "public": [
+     2
+    ],
+    "consignees": [
+     30
+    ]
+   },
+   "2018": {
+    "public": [
+     1
+    ],
+    "consignees": [
+     34
+    ]
+   },
+   "2019": {
+    "public": [
+     2
+    ],
+    "consignees": [
+     50
+    ]
+   },
+   "2020": {
+    "public": [
+     0
+    ],
+    "consignees": [
+     42
+    ]
+   },
+   "2021": {
+    "public": [
+     0
+    ],
+    "consignees": [
+     66
+    ]
+   },
+   "2022": {
+    "public": [
+     0
+    ],
+    "consignees": [
+     57
+    ]
+   },
+   "2023": {
+    "public": [
+     2
+    ],
+    "consignees": [
+     74
+    ]
+   },
+   "2024": {
+    "public": [
+     0
+    ],
+    "consignees": [
+     105
+    ]
+   },
+   "2025": {
+    "public": [
+     1
+    ],
+    "consignees": [
+     122
+    ]
+   },
+   "2026": {
+    "public": [
+     1
+    ],
+    "consignees": [
+     63
+    ]
+   }
+  }
+ },
+ "by_year_drug_consignees": {
+  "2012": {
+   "Class I": 236.5,
+   "Class II": 83
+  },
+  "2013": {
+   "Class I": 139,
+   "Class II": 54.0
+  },
+  "2014": {
+   "Class I": 135.0,
+   "Class II": 49.5
+  },
+  "2015": {
+   "Class I": 132,
+   "Class II": 35
+  },
+  "2016": {
+   "Class I": 146.5,
+   "Class II": 44.0
+  },
+  "2017": {
+   "Class I": 85,
+   "Class II": 33.0
+  },
+  "2018": {
+   "Class I": 29,
+   "Class II": 26
+  },
+  "2019": {
+   "Class I": 26,
+   "Class II": 23.0
+  },
+  "2020": {
+   "Class I": 36,
+   "Class II": 22
+  },
+  "2021": {
+   "Class I": 42.0,
+   "Class II": 27
+  },
+  "2022": {
+   "Class I": 33.5,
+   "Class II": 22.0
+  },
+  "2023": {
+   "Class I": 38.5,
+   "Class II": 22.0
+  },
+  "2024": {
+   "Class I": 37,
+   "Class II": 26
+  },
+  "2025": {
+   "Class I": 34.0,
+   "Class II": 26.0
+  },
+  "2026": {
+   "Class I": 33.0,
+   "Class II": 22.0
+  }
+ },
+ "register_first_all": {
+  "n": 21848,
+  "median": 47.0,
+  "p25": 34,
+  "p75": 71,
+  "p90": 160,
+  "max": 657484,
+  "over90": 4055,
+  "over365": 856
+ },
+ "longest_register_first_drug_class1": [
+  {
+   "centre": "drug",
+   "event_id": "35255",
+   "notice": "consignees",
+   "class": "Class I",
+   "W": 2455,
+   "year": "2012",
+   "records": 1,
+   "mixed_notice": false
+  },
+  {
+   "centre": "drug",
+   "event_id": "64611",
+   "notice": "consignees",
+   "class": "Class I",
+   "W": 1037,
+   "year": "2014",
+   "records": 6,
+   "mixed_notice": false
+  },
+  {
+   "centre": "drug",
+   "event_id": "61233",
+   "notice": "consignees",
+   "class": "Class I",
+   "W": 595,
+   "year": "2012",
+   "records": 2,
+   "mixed_notice": false
+  }
+ ]
+}

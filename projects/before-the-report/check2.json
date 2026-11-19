@@ -1,0 +1,293 @@
+{
+ "held": 15,
+ "of": 15,
+ "rows": [
+  {
+   "centre": "food",
+   "event_id": "90713",
+   "jq_records": 1,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class I",
+   "date_W": 57,
+   "count": [
+    1,
+    "consignees",
+    "Class I",
+    57
+   ],
+   "holds": true
+  },
+  {
+   "centre": "food",
+   "event_id": "90706",
+   "jq_records": 1,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class II",
+   "date_W": 34,
+   "count": [
+    1,
+    "consignees",
+    "Class II",
+    34
+   ],
+   "holds": true
+  },
+  {
+   "centre": "food",
+   "event_id": "62831",
+   "jq_records": 2,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class II",
+   "date_W": 78,
+   "count": [
+    2,
+    "consignees",
+    "Class II",
+    78
+   ],
+   "holds": true
+  },
+  {
+   "centre": "food",
+   "event_id": "98005",
+   "jq_records": 1,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class III",
+   "date_W": 37,
+   "count": [
+    1,
+    "consignees",
+    "Class III",
+    37
+   ],
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "80830",
+   "jq_records": 1,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class II",
+   "date_W": 29,
+   "count": [
+    1,
+    "consignees",
+    "Class II",
+    29
+   ],
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "66880",
+   "jq_records": 1,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class I",
+   "date_W": 86,
+   "count": [
+    1,
+    "consignees",
+    "Class I",
+    86
+   ],
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "77105",
+   "jq_records": 1,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class III",
+   "date_W": 134,
+   "count": [
+    1,
+    "consignees",
+    "Class III",
+    134
+   ],
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "94447",
+   "jq_records": 3,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class II",
+   "date_W": 8,
+   "count": [
+    3,
+    "consignees",
+    "Class II",
+    8
+   ],
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "event_id": "66610",
+   "jq_records": 1,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class II",
+   "date_W": 30,
+   "count": [
+    1,
+    "consignees",
+    "Class II",
+    30
+   ],
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "event_id": "80101",
+   "jq_records": 1,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class II",
+   "date_W": 42,
+   "count": [
+    1,
+    "consignees",
+    "Class II",
+    42
+   ],
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "event_id": "97287",
+   "jq_records": 4,
+   "jq_strings": [
+    "E-Mail"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class II",
+   "date_W": 44,
+   "count": [
+    4,
+    "consignees",
+    "Class II",
+    44
+   ],
+   "holds": true
+  },
+  {
+   "centre": "device",
+   "event_id": "85565",
+   "jq_records": 1,
+   "jq_strings": [
+    "Letter"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class II",
+   "date_W": 70,
+   "count": [
+    1,
+    "consignees",
+    "Class II",
+    70
+   ],
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "35255",
+   "jq_records": 1,
+   "jq_strings": [
+    "Telephone"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class I",
+   "date_W": 2455,
+   "count": [
+    1,
+    "consignees",
+    "Class I",
+    2455
+   ],
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "64611",
+   "jq_records": 6,
+   "jq_strings": [
+    "Telephone"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class I",
+   "date_W": 1037,
+   "count": [
+    6,
+    "consignees",
+    "Class I",
+    1037
+   ],
+   "holds": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "61233",
+   "jq_records": 2,
+   "jq_strings": [
+    "FAX"
+   ],
+   "jq_group": "consignees",
+   "jq_class": "Class I",
+   "date_W": 595,
+   "count": [
+    2,
+    "consignees",
+    "Class I",
+    595
+   ],
+   "holds": true
+  }
+ ],
+ "second_count": {
+  "food": {
+   "jq": 3395,
+   "count": 3395,
+   "holds": true
+  },
+  "drug": {
+   "jq": 2595,
+   "count": 2595,
+   "holds": true
+  },
+  "device": {
+   "jq": 90,
+   "count": 90,
+   "holds": true
+  }
+ }
+}

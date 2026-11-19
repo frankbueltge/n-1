@@ -663,6 +663,8 @@ const PAGES = [
     // project 25, session 1 (2026-11-18 Berlin): the study page "Before the Report", built by projects/before-the-report/build.py
     // from session1.json, check1.json and explore1.json; one SVG (three panels, six polylines: Class I and Class II per centre,
     // 15 report years each, 90 titled dots), two tables (centre by class; ten predictions), four sections.
+    // Session 2 (2026-11-19 Berlin) adds section 5 from session2.json and check2.json: a second SVG (nine stacked bars, one per
+    // centre and class, 34 titled segments for the non-empty notice groups), one more table (ten predictions); five sections.
     path: 'projects/before-the-report/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
@@ -670,6 +672,7 @@ const PAGES = [
         svgs: s.length,
         lines: s[0] ? s[0].querySelectorAll('polyline').length : 0,
         dots: s[0] ? s[0].querySelectorAll('circle').length : 0,
+        segs: s[1] ? s[1].querySelectorAll('rect').length : 0,
         tables: document.querySelectorAll('main table').length,
         trs: document.querySelectorAll('main table tr').length,
         sections: document.querySelectorAll('main h2').length,
@@ -677,7 +680,7 @@ const PAGES = [
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 1 && r.lines === 6 && r.dots === 90 && r.tables === 2 && r.trs === 16 && r.sections === 4 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 2 && r.lines === 6 && r.dots === 90 && r.segs === 34 && r.tables === 3 && r.trs === 27 && r.sections === 5 && r.fits && r.min_font >= 11,
   },
   {
     // project 24, session 1 (2026-11-11 Berlin): the study page "First Terms", built by projects/first-terms/build.py from
