@@ -23,9 +23,11 @@ def d(s):
 
 
 def group(s):
-    if not isinstance(s, str) or not s.strip():
+    if not isinstance(s, str) or not s.strip() or s.strip().lower() == "n/a":
         return "unrecorded"
     t = s.strip().lower()
+    if t == "other":
+        return "ambiguous"  # method not stated: may or may not have been public (JOURNAL.md, session 2, 02:05)
     if t == "press release":
         return "public"
     if t.startswith(AMBIG_PREFIX):

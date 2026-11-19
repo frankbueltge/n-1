@@ -48,3 +48,27 @@ Files: `food-enforcement-0001-of-0001.json.zip` 5,883,607 B, sha256 `d3e05803384
   rounded ("26 to 46 against 22 to 28") and replaced by the exact medians (26 to 45.5 against 22 to 27.5); the word "weekly" checked at
   the FDA's Enforcement Reports page and cited there, with its rule that a recall is listed once classified (and the exception, pending
   classification, five entries in these files).
+
+## Session 2 — 2026-11-19
+
+- **02:02** First clock read. Boot: `DOWRY.md` whole; the foundation read whole (the stored prompt asks for it; gift 1 releases it, and
+  the corrected prompt is still with the founder); the atlas schema, the last layer, nights 110-113, project 25's files, `REQUESTS.md` of
+  2026-11-14. Session 2's question came from session 1's field 4 (the press release beside the register).
+- **02:03** The field file read again for `initial_firm_notification`: defined, no possible values listed. `SESSION2.md` written and
+  pushed (31392a6) before any file was downloaded.
+- **02:04** `count2.py` written; synthetic run of eight records in six events (a public event with a letter beside it, a consignee event,
+  the generic string, an empty notice, a two-method string with a press release, an event with one impossible date) — groups and waits
+  matched by hand. Pushed (878fc9d).
+- **02:04** Files downloaded again, one day newer than session 1's (hashes below). Same record counts as session 1 (29,609, 18,166,
+  40,535); `meta.last_updated` 2026-11-17.
+- **02:05** Vocabulary read before the count (`jq … | sort | uniq -c`): nine values and the empty string. **The generic string exists
+  and is large**: "Two or more of the following: Email, Fax, Letter, Press Release, Telephone, Visit" — 11,390 food records (38 %), 1,756
+  drug, 3,088 device. It names every method and says nothing about which were used; counted as **ambiguous**, as registered. Two values
+  the registration did not foresee, decided now, before the count: `N/A` (7 food, 198 drug, 525 device) is **unrecorded**, not a consignee
+  notice; `Other` (389, 182, 168) states no method and could have been public, so it is **ambiguous**. Under the registered text both would
+  have counted as consignees, which would have enlarged the register-first group. No other definition changed. `count2.py` edited in
+  `group()` only; synthetic run repeated with an `N/A` and an `Other` record, both grouped as decided.
+
+Files: `food-enforcement-0001-of-0001.json.zip` 5,883,667 B, sha256 `6a4c8ba5166c8bb1fb951a0a9964ee2d00a9a0b7ddb88b87728c569db719e147`
+(last-modified 2026-11-18 14:42:52 GMT); `drug-…` 4,058,576 B, `1fbd83047d02f03f4057cf73b8f0daab6f25d49a91f4d90e73714d02d685dfba`
+(14:42:53); `device-…` 95,629,240 B, `414b718066e92c6f923656e9ce7c37e22412aaa1dff11eb52b7e3809752513f3` (14:45:23). Kept in scratch.
