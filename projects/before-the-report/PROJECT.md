@@ -33,3 +33,12 @@ are the most often announced (31.9 % against 4.3 % for Class II), yet those are 
 within customers-only, drug Class I still waits longer than Class II (50 against 28), in all fifteen report years (exploratory).** No work
 (none before session 3). Next: session 3 — the work, and its form found in this material: the register's waits held against the words the
 public did get, or the waits alone.
+
+Session 3 (2026-11-20 Berlin): `SESSION3.md` (pushed b912063 before tonight's files were downloaded); `build3.py` (pushed c497e68 after a
+synthetic run) → `session3.json`; `explore3.py` → `explore3.json` (exploratory: 2025, which the registered rule for the work's years
+excludes while three predictions name it); `check3.py` → `check3.json`; `ASSEMBLAGE.md`, `NEIGHBOURS.md`, `JOURNAL.md`, `TOOLKIT.md`.
+Predictions: 10 registered; **10 held**, three of them (P2, P4, P6) only on the exploratory run. Check 15 of 15 registered (18 of 18 with
+three days of 2024 added). Found: **on every day of twelve complete years, 200 or more recalls had begun that the public list did not yet
+name; the median day held 630 in 2013 and 299 in 2024; every listing falls on a Wednesday.** **Work declared: *Not Yet on the List***
+(`works/not-yet-on-the-list/`) — a year of the register let pass at a day a second, each recall a thread and a click from the day it
+began to the Wednesday the list named it, the standing count above. **Project closed** (`TOOLKIT.md`).

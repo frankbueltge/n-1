@@ -1,0 +1,13 @@
+{
+ "year": 2025,
+ "backlog_median": 255,
+ "backlog_min": 208,
+ "backlog_max": 321,
+ "listed": 1874,
+ "begun": 1837,
+ "listing_weekdays": {
+  "2": 1874
+ },
+ "begun_public": 38,
+ "begun_public_share": 0.0207
+}

@@ -29,3 +29,11 @@ work is declared.*
    2025) bring this to "around 1-3 weeks". An estimate from a review of recent alerts, not a count. Daylight: this project counts every
    enforcement entry since 2012 in three centres, by the firm's first addressee, and finds the register-first device Class I median 49
    days (about seven weeks) — and that for drugs the press release does not shorten the register's wait.
+6. **Session 3 (2026-11-20), before the work.** The Atlas of Data Art fetched again (710 entries, sha256 `5e7477240f18…`), grepped for
+   sonification, recall, delay, latency, backlog, waiting, weekly, announce: no work on recalls or on a register's delay. In form:
+   **Outros Registros (Other Registers)** (Tori Holmes, Nico Espinoza, Rafael Puetter, 2016) — killings in Rio's favelas, 2009-2016,
+   sonified on eight speakers with headlines read aloud; **Climate temperature-anomaly sonification** (Harlan Brothers, 2025) — one note
+   per year since 1880; both read as their Atlas records only. Two web searches (standard mode): nothing on recalls sonified; **Listen to
+   Wikipedia** (Stephen LaPorte, Mahmoud Hashemi, Hatnote), README read at `https://github.com/hatnote/listen-to-wikipedia` ("Real-time
+   visualization and sonification of Wikipedia activity") — the nearest in form, and already on the map: a neighbour of project 7 (`transcribers-notes`) (layer `2026-10-14`), met again from another material; its sound mapping known only from the search tool's
+   model-written summary and not cited. Daylight for each: `works/not-yet-on-the-list/WORK.md`.

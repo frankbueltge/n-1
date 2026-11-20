@@ -834,6 +834,35 @@ const PAGES = [
       r.typed.self === 0 && /number \d/.test(r.typed.count) && r.typed.marks === 200 &&
       r.fib.rows === 2 && r.fib.self === 1 && r.notin && r.rows_after === 0 && r.fits && r.min_font >= 11,
   },
+  {
+    // project 25, session 3 (2026-11-20 Berlin): the work Not Yet on the List, built by works/not-yet-on-the-list/build.py from the
+    // data file of projects/before-the-report/build3.py. On arrival the large number is the last year's first day from data.json;
+    // played silently for about two seconds it advances and still equals the data's count for the day shown; the year 2013 then opens
+    // at its own first day's count (registered P10).
+    path: 'works/not-yet-on-the-list/index.html',
+    probe: async () => {
+      const wait = async (f) => { for (let i = 0; i < 80 && !f(); i++) await new Promise((r) => setTimeout(r, 100)); return f(); };
+      const n = () => parseInt(document.getElementById('n').textContent.replace(/,/g, ''), 10);
+      await wait(() => !isNaN(n()));
+      const D = await (await fetch('data.json')).json();
+      const last = String(D.years[D.years.length - 1]);
+      const first = n();
+      document.getElementById('quiet').click();
+      await new Promise((r) => setTimeout(r, 2200));
+      document.getElementById('quiet').click();
+      const m = document.getElementById('day').textContent.match(/(\d+) (\w+) (\d{4})/);
+      const shown = new Date(`${m[1]} ${m[2]} ${m[3]} UTC`);
+      const di = Math.round((shown - Date.UTC(+m[3], 0, 1)) / 86400000);
+      const played = { di, n: n(), expect: D.backlog[last][di] };
+      const sel = document.getElementById('year'); sel.value = '2013'; sel.dispatchEvent(new Event('change'));
+      const y13 = n();
+      return { first, expect_first: D.backlog[last][0], played, y13, expect13: D.backlog['2013'][0], rows: D.rows.length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p')].map((e) => parseFloat(getComputedStyle(e).fontSize))) };
+    },
+    ok: (r) => r.first === r.expect_first && r.played.di >= 1 && r.played.n === r.played.expect && r.y13 === r.expect13 &&
+      r.rows === 27891 && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {

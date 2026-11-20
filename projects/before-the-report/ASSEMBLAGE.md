@@ -43,3 +43,19 @@ the register's weekly rhythm (field 3) is the same for both. So the register's l
 **Did it touch a decision?** Yes. The ambiguity of the form's sentence decided that no count may call the register "the first public
 word" — only "may be"; and field 4's second public word (Early Alerts) names session 3's choice: whether the work holds the register's
 waits as they are, or sets them against the words the public did get. Not triggered.
+
+## Session 3 — 2026-11-20
+
+- **Field 3, territorialisations, heard.** The weekly report is a metre: every one of the listings in twelve complete years falls on a
+  Wednesday (`session3.json`). The firms' first notices fall on any day. The work's sound is this field: clicks at no beat, a chord on the
+  beat.
+- **Field 2 and field 1, held apart in time.** The two statements of a recall (the firm's notice, the list's entry) are a stretch of days
+  in which the product's holders may have been told and the public has not. The stretch, counted per day, never fell below 200 recalls.
+- **Field 4, cutting edges.** Downward since 2020: the daily count halved (median 630 in 2013, 275-301 in 2020-2024). Whether that is
+  faster classification or fewer recalls is not decided here; both fell (`session3.json`, recalls begun per year; `session1.json`, median wait per report year).
+
+**Movement between fields.** The territory (field 3's weekly metre) is what makes the delay audible as a delay; without it the notices
+and the listings would be two scatters.
+
+**Did it touch a decision?** Yes. Field 3 decided the work's sound — the list as a weekly chord, not as an event per recall — and the
+probe of tonight's material that confirmed it (100 % Wednesday) was a registered prediction (P5). Not triggered.
