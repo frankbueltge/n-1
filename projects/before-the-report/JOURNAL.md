@@ -94,3 +94,36 @@ Files: `food-enforcement-0001-of-0001.json.zip` 5,883,667 B, sha256 `6a4c8ba5166
   with its source. "In food that is 3,164 of 7,955 events" first written; counted over classed events only, so the word "classed" added.
 - **02:14** Re-read against the data: the 856 customers-only events over a year include the two impossible start dates of session 1
   (food year 212, device 1930); the page says so. Two events in that group were listed before they began.
+
+## Session 3 — 2026-11-20
+
+- **02:03** First clock read. Boot: `DOWRY.md` whole; the foundation read whole (as the stored prompt asks); the atlas schema, the last
+  layer, night 114, project 25's files, `REQUESTS.md` of 2026-11-14. `SESSION3.md` written and pushed (b912063) before any file was
+  downloaded: the form (a year let pass at a day a second, with sound) chosen before the material, from sessions 1 and 2's findings.
+- **02:04** `build3.py` written; synthetic run of seven records in six events (an event with two report dates, a press-release event begun
+  the year before, the year-212 date, an event listed before it began, an ambiguous notice, an event listed a year later) — the day counts
+  for the first ten days and the exclusions matched by hand. Pushed (c497e68).
+- **02:04-02:05** Files downloaded again (hashes below); same record counts as sessions 1 and 2 (29,609, 18,166, 40,535); `meta.last_updated`
+  2026-11-19. `build3.py` run once. 27,896 events, 27,891 kept, five excluded (the two impossible start dates of session 1 and three events
+  listed before they began). Every listing in every complete year falls on a Wednesday.
+- **02:05 Deviation: the registration contradicted itself.** The registered rule for the work's years (complete calendar years ending at
+  least 365 days before the latest listing, 2026-11-11) gives 2013-2024, and excludes 2025 — but P2, P4 and P6 name 2025. Not caught by
+  the adversarial read before the push. Decided: the work keeps the registered rule (it shows 2013-2024; 2025 would be a floor with its
+  last weeks thin); the three predictions are evaluated on `explore3.py`, which computes 2025 with `build3.py`'s definitions unchanged,
+  marked exploratory. All three held there (median 255, maximum 321, press releases 2.1 %). Had they been evaluated on 2024 instead,
+  they would also have held (299; 351; 1.7 %) — noted, not substituted.
+- **02:06** Check `check3.py`: twelve events and three days of 2025 as registered, by `jq` (extraction), `awk` (event minimums and the
+  day count) and GNU `date` (day numbers to dates): 15 of 15. Three days of 2024 added, where the work's own stored count can be
+  compared: 3 of 3.
+- **02:07-02:09** Neighbours: the Atlas of Data Art fetched again (710 entries, sha256 `5e7477240f18…`) and grepped — three sonification
+  works read in their Atlas records; no work on recalls or on a register's delay. Two web searches: none on recalls sonified;
+  *Listen to Wikipedia* found, its README read at the source (GitHub) — the nearest in form.
+- **02:09-02:12** The work built and seen at 1440, 390 and in the dark scheme. Threads already named were too present and the Wednesday
+  lines too heavy: both lightened. Month labels crowded at 390: narrowed there. A render probe added; all pages ok at both widths.
+- **02:12-02:13** Claims re-read against the data before commit: the press-release share first printed 1.8 % (rounded from an already
+  rounded share), recomputed from the counts as 1.7 %; "656" for 2016 corrected to 655.5; "half the days more than" a median replaced by
+  "on the median day".
+
+Files: `food-enforcement-0001-of-0001.json.zip` 5,883,666 B, sha256 `eeba50c4ef67db50008189dc5942a82107a2a04896b5179b4545fffba6b2c2c3`
+(last-modified 2026-11-19 09:25:09 GMT); `drug-…` 4,058,576 B, `2723fb7ed8467afabff02782d75619013f40a8a401ee75e081b0e456c9c92a36`
+(09:25:10); `device-…` 95,629,240 B, `7aef3d29c13214a0df889108282e3e08034bb9ff74270f7648dc9032ea0dfd2f` (09:27:41). Kept in scratch.

@@ -1,0 +1,212 @@
+{
+ "events": [
+  {
+   "centre": "food",
+   "event_id": "78717",
+   "work": [
+    "20171207",
+    "20180110"
+   ],
+   "jq_awk": [
+    "20171207",
+    "20180110"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "food",
+   "event_id": "84939",
+   "work": [
+    "20200128",
+    "20200318"
+   ],
+   "jq_awk": [
+    "20200128",
+    "20200318"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "food",
+   "event_id": "81901",
+   "work": [
+    "20190104",
+    "20190227"
+   ],
+   "jq_awk": [
+    "20190104",
+    "20190227"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "food",
+   "event_id": "76605",
+   "work": [
+    "20170225",
+    "20170405"
+   ],
+   "jq_awk": [
+    "20170225",
+    "20170405"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "83327",
+   "work": [
+    "20190716",
+    "20190731"
+   ],
+   "jq_awk": [
+    "20190716",
+    "20190731"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "78170",
+   "work": [
+    "20170911",
+    "20171129"
+   ],
+   "jq_awk": [
+    "20170911",
+    "20171129"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "72269",
+   "work": [
+    "20150923",
+    "20160601"
+   ],
+   "jq_awk": [
+    "20150923",
+    "20160601"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "drug",
+   "event_id": "90637",
+   "work": [
+    "20220720",
+    "20220817"
+   ],
+   "jq_awk": [
+    "20220720",
+    "20220817"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "device",
+   "event_id": "66417",
+   "work": [
+    "20130730",
+    "20131211"
+   ],
+   "jq_awk": [
+    "20130730",
+    "20131211"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "device",
+   "event_id": "99754",
+   "work": [
+    "20260908",
+    "20261021"
+   ],
+   "jq_awk": [
+    "20260908",
+    "20261021"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "device",
+   "event_id": "79226",
+   "work": [
+    "20180112",
+    "20180307"
+   ],
+   "jq_awk": [
+    "20180112",
+    "20180307"
+   ],
+   "ok": true
+  },
+  {
+   "centre": "device",
+   "event_id": "67678",
+   "work": [
+    "20131204",
+    "20140430"
+   ],
+   "jq_awk": [
+    "20131204",
+    "20140430"
+   ],
+   "ok": true
+  }
+ ],
+ "days": [
+  {
+   "day": "20250306",
+   "awk": 239,
+   "from_work_rows": 239,
+   "work_backlog": null,
+   "ok": true,
+   "registered": true
+  },
+  {
+   "day": "20250422",
+   "awk": 253,
+   "from_work_rows": 253,
+   "work_backlog": null,
+   "ok": true,
+   "registered": true
+  },
+  {
+   "day": "20250608",
+   "awk": 273,
+   "from_work_rows": 273,
+   "work_backlog": null,
+   "ok": true,
+   "registered": true
+  },
+  {
+   "day": "20240618",
+   "awk": 330,
+   "from_work_rows": 330,
+   "work_backlog": 330,
+   "ok": true,
+   "registered": false
+  },
+  {
+   "day": "20240707",
+   "awk": 316,
+   "from_work_rows": 316,
+   "work_backlog": 316,
+   "ok": true,
+   "registered": false
+  },
+  {
+   "day": "20240827",
+   "awk": 307,
+   "from_work_rows": 307,
+   "work_backlog": 307,
+   "ok": true,
+   "registered": false
+  }
+ ],
+ "registered_ok": "15 of 15",
+ "all_ok": "18 of 18"
+}
