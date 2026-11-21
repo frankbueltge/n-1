@@ -660,6 +660,27 @@ const PAGES = [
     ok: (r) => r.svgs === 3 && r.years === 274 && r.lines === 2 && r.decades3 === 28 && r.lines3 === 2 && r.trs === 46 && r.preds === 33 && r.sections === 9 && r.fits && r.min_font >= 11,
   },
   {
+    // project 26, session 1 (2026-11-21 Berlin): the study page "Counted as One", built by projects/counted-as-one/build.py from
+    // session1.json, session1-per.json.gz, check1.json, explore1.json and explore1b.json; one SVG (770 titled squares binning
+    // 12,007 overflows by hours and counted spills, one dashed trigger line, three marked overflows), one table (ten predictions),
+    // four sections.
+    path: 'projects/counted-as-one/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        bins: s[0] ? s[0].querySelectorAll('rect.bn').length : 0,
+        marks: s[0] ? s[0].querySelectorAll('circle.mk').length : 0,
+        trigger: s[0] ? s[0].querySelectorAll('line.tg').length : 0,
+        trs: document.querySelectorAll('main table tr').length,
+        sections: document.querySelectorAll('main h2').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 1 && r.bins === 770 && r.marks === 3 && r.trigger === 1 && r.trs === 11 && r.sections === 4 && r.fits && r.min_font >= 11,
+  },
+  {
     // project 25, session 1 (2026-11-18 Berlin): the study page "Before the Report", built by projects/before-the-report/build.py
     // from session1.json, check1.json and explore1.json; one SVG (three panels, six polylines: Class I and Class II per centre,
     // 15 report years each, 90 titled dots), two tables (centre by class; ten predictions), four sections.

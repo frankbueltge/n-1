@@ -50,3 +50,7 @@
 - **02:13-02:14** Check: 13 of 13 by `check1.awk` (the rule written again in awk, sharing no code); rows per file by `wc -l` agree for
   all ten; the five CSVs also by `wc -l` on the raw files. SBB01164 and SBB01318 redone from the raw CSV with `grep`, GNU `date` and the
   awk rule: 44 / 1.2644 h and 27 / 567.3056 h.
+- **02:22** Correction: the entries stamped 02:11-02:13 and 02:13-02:14 were appended at 02:12 by `date -u`, which printed
+  as they were written; their clocks were estimated forward, not read. The work they describe was done by 02:12. Left as written, marked here.
+- **02:22** Surface (margin entry, noscript line, window 4.80.0, render probe ok at 1440 and 390), atlas layer
+  `2026-11-21` (validate ok), night record 142 and register entry written. Session 1 ends here.
