@@ -1,0 +1,8 @@
+{
+ "counted_spills": 293036,
+ "min_hours": 0.0,
+ "max_hours": 24.00000000000091,
+ "zero_hours": 1,
+ "under_one_minute": 674,
+ "exactly_24h_or_more": 25837
+}
