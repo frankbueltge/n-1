@@ -1,0 +1,190 @@
+{
+ "seed": 20261121,
+ "pool": 6903,
+ "overflows": [
+  {
+   "uid": "TWL00784",
+   "acts": 5,
+   "awk_count": 3,
+   "count": 3,
+   "awk_hours": 0.7,
+   "hours": 0.7,
+   "ar_count": 3.0,
+   "held": true
+  },
+  {
+   "uid": "NWL01294",
+   "acts": 37,
+   "awk_count": 32,
+   "count": 32,
+   "awk_hours": 179.2497,
+   "hours": 179.2497,
+   "ar_count": 32.0,
+   "held": true
+  },
+  {
+   "uid": "SVT00352",
+   "acts": 5,
+   "awk_count": 4,
+   "count": 4,
+   "awk_hours": 3.8744,
+   "hours": 3.8744,
+   "ar_count": 4.0,
+   "held": true
+  },
+  {
+   "uid": "SVT01506",
+   "acts": 6,
+   "awk_count": 5,
+   "count": 5,
+   "awk_hours": 26.4692,
+   "hours": 26.4692,
+   "ar_count": 5.0,
+   "held": true
+  },
+  {
+   "uid": "YWS01303",
+   "acts": 4,
+   "awk_count": 7,
+   "count": 7,
+   "awk_hours": 94.9,
+   "hours": 94.9,
+   "ar_count": 7.0,
+   "held": true
+  },
+  {
+   "uid": "UUP01596",
+   "acts": 22,
+   "awk_count": 16,
+   "count": 16,
+   "awk_hours": 12.9794,
+   "hours": 12.9794,
+   "ar_count": 15.0,
+   "held": true
+  },
+  {
+   "uid": "AWS01418",
+   "acts": 14,
+   "awk_count": 11,
+   "count": 11,
+   "awk_hours": 24.5667,
+   "hours": 24.5667,
+   "ar_count": 11.0,
+   "held": true
+  },
+  {
+   "uid": "SVT01311",
+   "acts": 18,
+   "awk_count": 5,
+   "count": 5,
+   "awk_hours": 19.7669,
+   "hours": 19.7669,
+   "ar_count": 5.0,
+   "held": true
+  },
+  {
+   "uid": "AWS01262",
+   "acts": 6,
+   "awk_count": 5,
+   "count": 5,
+   "awk_hours": 1.75,
+   "hours": 1.75,
+   "ar_count": 5.0,
+   "held": true
+  },
+  {
+   "uid": "AWS00080",
+   "acts": 2,
+   "awk_count": 3,
+   "count": 3,
+   "awk_hours": 13.25,
+   "hours": 13.25,
+   "ar_count": 3.0,
+   "held": true
+  },
+  {
+   "uid": "NWL01414",
+   "acts": 8,
+   "awk_count": 8,
+   "count": 8,
+   "awk_hours": 2.6333,
+   "hours": 2.6333,
+   "ar_count": 8.0,
+   "held": true
+  },
+  {
+   "uid": "NWL01053",
+   "acts": 8,
+   "awk_count": 9,
+   "count": 9,
+   "awk_hours": 42.7383,
+   "hours": 42.7383,
+   "ar_count": 9.0,
+   "held": true
+  },
+  {
+   "uid": "SBB01043",
+   "acts": 21,
+   "awk_count": 235,
+   "count": 235,
+   "awk_hours": 5446.0861,
+   "hours": 5446.0861,
+   "ar_count": 235.0,
+   "held": true
+  }
+ ],
+ "held": 13,
+ "of": 13,
+ "rows_per_file": {
+  "Anglian Water Detailed Data 2025.csv": {
+   "wc": 96034,
+   "count1_rows_nonblank": 96034,
+   "held": true
+  },
+  "Northumbrian 2025 Detailed EDM Data.csv": {
+   "wc": 94698,
+   "count1_rows_nonblank": 94698,
+   "held": true
+  },
+  "Severn Trent 2025 Detailed EDM Data.csv": {
+   "wc": 91791,
+   "count1_rows_nonblank": 91791,
+   "held": true
+  },
+  "South West Water 2025 Detailed EDM Data.csv": {
+   "wc": 209711,
+   "count1_rows_nonblank": 209711,
+   "held": true
+  },
+  "Southern Water 2025 EDM Detailed Data.xlsx": {
+   "wc": 52683,
+   "count1_rows_nonblank": 52683,
+   "held": true
+  },
+  "Thames Water 2025 EDM Detailed Data.xlsx": {
+   "wc": 12177,
+   "count1_rows_nonblank": 12177,
+   "held": true
+  },
+  "United Utilities 2025 Detailed EDM Data.csv": {
+   "wc": 175358,
+   "count1_rows_nonblank": 175358,
+   "held": true
+  },
+  "Welsh Water 2025 Detailed EDM Data.xlsx": {
+   "wc": 6356,
+   "count1_rows_nonblank": 6356,
+   "held": true
+  },
+  "Wessex 2025 Detailed EDM Data.xlsx": {
+   "wc": 230487,
+   "count1_rows_nonblank": 230487,
+   "held": true
+  },
+  "Yorkshire 2025 Detailed EDM Data (1).xlsx": {
+   "wc": 151220,
+   "count1_rows_nonblank": 151220,
+   "held": true
+  }
+ }
+}

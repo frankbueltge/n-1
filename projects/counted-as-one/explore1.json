@@ -1,0 +1,57 @@
+{
+ "rows_nonblank": 1120515,
+ "malformed_nonblank": 174,
+ "malformed_nonblank_share": 0.00015528573914673163,
+ "count_diff_quantiles": {
+  "0.01": -1.0,
+  "0.05": 0.0,
+  "0.5": 0.0,
+  "0.95": 1.0,
+  "0.99": 1.0
+ },
+ "count_diff_max": 5.0,
+ "count_diff_min": -84.0,
+ "hours_within_0.1h": 11962,
+ "hours_compared": 12007,
+ "hours_total_recount": 1876993.6685000022,
+ "hours_total_annual_matched": 1877871.4659000025,
+ "count_total_annual_matched": 292039.0,
+ "over30_recount": 3631,
+ "over30_annual": 3622,
+ "cross_trigger_recount_only": 12,
+ "cross_trigger_annual_only": 3,
+ "band_28_32_n": 687,
+ "band_28_32_hours_min_med_max": [
+  5.1103,
+  105.3669,
+  564.5
+ ],
+ "median_hours_over_trigger": 241.9229,
+ "under_trigger_with_more_hours_than_that": 206,
+ "fewest_hours_over_trigger": {
+  "uid": "SBB01164",
+  "acts": 226,
+  "hours": 1.2644,
+  "count": 44,
+  "ar_count": 44.0,
+  "ar_hours": 1.26
+ },
+ "most_hours_under_trigger": {
+  "uid": "SBB01318",
+  "acts": 14,
+  "hours": 567.3056,
+  "count": 27,
+  "ar_count": 27.0,
+  "ar_hours": 567.31
+ },
+ "longest_sequence_overflow": {
+  "uid": "SBB01043",
+  "file": "South West Water 2025 Detailed EDM Data.csv",
+  "acts": 21,
+  "hours": 5446.0861,
+  "count": 235,
+  "ar_count": 235.0,
+  "ar_hours": 5446.09,
+  "edm_pct": 100.0
+ }
+}

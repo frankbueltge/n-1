@@ -1,0 +1,163 @@
+{
+ "files": {
+  "Anglian Water Detailed Data 2025.csv": {
+   "rows": 96034,
+   "malformed": 0,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 96034
+  },
+  "Northumbrian 2025 Detailed EDM Data.csv": {
+   "rows": 94698,
+   "malformed": 0,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 94698
+  },
+  "Severn Trent 2025 Detailed EDM Data.csv": {
+   "rows": 91791,
+   "malformed": 0,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 91791
+  },
+  "South West Water 2025 Detailed EDM Data.csv": {
+   "rows": 209711,
+   "malformed": 0,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 209711
+  },
+  "Southern Water 2025 EDM Detailed Data.xlsx": {
+   "rows": 1048042,
+   "malformed": 995359,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 52683
+  },
+  "Thames Water 2025 EDM Detailed Data.xlsx": {
+   "rows": 12177,
+   "malformed": 0,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 12177
+  },
+  "United Utilities 2025 Detailed EDM Data.csv": {
+   "rows": 175358,
+   "malformed": 1,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 175357
+  },
+  "Welsh Water 2025 Detailed EDM Data.xlsx": {
+   "rows": 6356,
+   "malformed": 173,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 6183
+  },
+  "Wessex 2025 Detailed EDM Data.xlsx": {
+   "rows": 230487,
+   "malformed": 0,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 230487
+  },
+  "Yorkshire 2025 Detailed EDM Data (1).xlsx": {
+   "rows": 151220,
+   "malformed": 0,
+   "outside_2025": 0,
+   "clipped": 0,
+   "used": 151220
+  }
+ },
+ "rows": 2115874,
+ "malformed": 995533,
+ "overflows_with_activations": 12007,
+ "ids_in_two_files": [],
+ "activations_used": 1120341,
+ "hours_total": 1876993.6685000025,
+ "counted_spills": 293036,
+ "annual_return_ids": 14302,
+ "annual_return_duplicate_rows": 0,
+ "matched": 12007,
+ "matched_equal": 10731,
+ "matched_recount_higher": 1127,
+ "matched_recount_lower": 149,
+ "spill_hours_quantiles": {
+  "0.1": 0.24694444444439823,
+  "0.25": 0.599999999999909,
+  "0.5": 2.4666666664998047,
+  "0.75": 10.508125000000064,
+  "0.9": 23.28555555555522,
+  "0.99": 24.0
+ },
+ "spill_acts_quantiles": {
+  "0.5": 1.0,
+  "0.9": 6.0,
+  "0.99": 50.0
+ },
+ "spill_acts_max": 1077,
+ "spills_lt_1h": 99094,
+ "spills_ge_12h": 65003,
+ "hours_per_count_quantiles": {
+  "0.1": 0.27897750000000004,
+  "0.25": 0.8795031055900622,
+  "0.5": 2.5833333333333335,
+  "0.75": 6.265477380952381,
+  "0.9": 10.928335999999996
+ },
+ "longest_sequence": {
+  "uid": "SBB01043",
+  "days": 223.5,
+  "blocks": 224,
+  "start_h": 0.0,
+  "end_h": 5364.0
+ },
+ "predictions": {
+  "P1": {
+   "value": 2.5833333333333335,
+   "held": true
+  },
+  "P2": {
+   "value": 0.3381632290913062,
+   "held": true
+  },
+  "P3": {
+   "value": 0.22182598725071323,
+   "held": false
+  },
+  "P4": {
+   "value": 3.8232196726682046,
+   "held": true
+  },
+  "P5": {
+   "value": 0.8119310649580204,
+   "held": true
+  },
+  "P6": {
+   "value": 0.8937286582826685,
+   "held": true
+  },
+  "P7": {
+   "value": 0.5999191474097395,
+   "held": true
+  },
+  "P8": {
+   "value": 223.5,
+   "held": true
+  },
+  "P9": {
+   "value": 0.47050675040196155,
+   "held": false
+  },
+  "P10": {
+   "value": [
+    1.1285714285714286,
+    7.8556766917293235
+   ],
+   "held": true
+  }
+ },
+ "attribution": "\u00a9 Environment Agency copyright and/or database right 2026. All rights reserved. (Open Government Licence per the data.gov.uk catalogue)"
+}
