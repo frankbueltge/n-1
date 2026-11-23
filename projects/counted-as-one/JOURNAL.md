@@ -75,3 +75,8 @@
 - **02:05** Bathing season confirmed at the source: The Bathing Water Regulations 2013, reg. 4(1)(a), "the period beginning with 15th May
   and ending at the end of 30th September" (legislation.gov.uk, fetched, sha256 `c55e70d0…`); reg. 4(1)(b) lets the Minister set other
   periods for particular waters, which this count does not see — the registered dates are used for all.
+- **02:07** `count2.py` written; synthetic run (one CSV of 41 activations at seven overflows, a hand-built annual-return XLSX with a
+  trailing non-breaking space and both "none" spellings, a per-overflow file): every V0-V3 count, the season hours (420 h of an
+  overflow wholly in season, 5 h of one straddling 14-15 May at the season's start), O, U, the median of O and the differing set as
+  worked by hand. An activation ending exactly at a block boundary (V1 counts one more) appeared in two overflows and came out right.
+  The generic grid function equals `rule.py` on every synthetic overflow; the real run checks the same and reports any disagreement.
