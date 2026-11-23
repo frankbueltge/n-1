@@ -1,0 +1,196 @@
+{
+ "hsf_reason_U": [
+  [
+   "High spill threshold not met",
+   206
+  ]
+ ],
+ "hsf_reason_O": [
+  [
+   "Not asset maintenance - Hydraulic capacity",
+   1445
+  ],
+  [
+   "Not asset maintenance - hydraulic capacity",
+   798
+  ],
+  [
+   "Not Applicable - Ongoing investigation",
+   520
+  ],
+  [
+   "Performance - SW Infiltration",
+   389
+  ],
+  [
+   "High spill threshold not met",
+   138
+  ],
+  [
+   "Performance - GW inundation",
+   128
+  ],
+  [
+   "Performance - Asset configuration (e.g. PS/rising main/storm tanks)",
+   90
+  ],
+  [
+   "Data collection - Confirmed exceptional weather",
+   41
+  ]
+ ],
+ "U_season_zero": 83,
+ "U_bathing_named": [
+  [
+   "SBB00220",
+   "Cawsand",
+   355,
+   29,
+   10.5
+  ],
+  [
+   "SBB00374",
+   "Downderry",
+   305,
+   27,
+   5.6
+  ],
+  [
+   "SBB00484",
+   "Hope Cove",
+   288,
+   16,
+   0.0
+  ],
+  [
+   "SBB00897",
+   "Combe Martin",
+   344,
+   19,
+   0.0
+  ],
+  [
+   "SBB00911",
+   "Mothecombe; Coastguards Beach, Erme Estuary",
+   297,
+   27,
+   4.0
+  ],
+  [
+   "SBB00962",
+   "Porthcurno",
+   394,
+   24,
+   1.3
+  ],
+  [
+   "SBB01166",
+   "Steamer Quay, Dart Estuary",
+   295,
+   24,
+   3.7
+  ],
+  [
+   "SBB01178",
+   "Stoke Gabriel, Dart Estuary",
+   334,
+   20,
+   0.6
+  ],
+  [
+   "SBB01280",
+   "Trebarwith Strand",
+   296,
+   17,
+   0.0
+  ],
+  [
+   "SBB01284",
+   "Trevone Bay",
+   441,
+   23,
+   0.0
+  ],
+  [
+   "SBB01318",
+   "Watergate Bay",
+   567,
+   27,
+   0.0
+  ],
+  [
+   "SWS00640",
+   "Pagham",
+   358,
+   22,
+   0.0
+  ],
+  [
+   "TWL00034",
+   "Wallingford Beach, River Thames",
+   361,
+   18,
+   0.0
+  ],
+  [
+   "UUP00104",
+   "Allonby",
+   296,
+   20,
+   34.0
+  ],
+  [
+   "UUP01409",
+   "Meols",
+   406,
+   27,
+   42.8
+  ],
+  [
+   "WXW00370",
+   "Blue Anchor West",
+   351,
+   24,
+   0.0
+  ],
+  [
+   "WXW00615",
+   "River Tone at French Weir Park",
+   318,
+   23,
+   0.0
+  ],
+  [
+   "WXW00872",
+   "Porlock Weir",
+   349,
+   29,
+   2.4
+  ],
+  [
+   "YWS00503",
+   "Scarborough North Bay",
+   246,
+   19,
+   10.0
+  ]
+ ],
+ "year_edge_by_difference": {
+  "equal": {
+   "n": 10731,
+   "with_activation_within_36h_of_year_edge": 4277
+  },
+  "other": {
+   "n": 118,
+   "with_activation_within_36h_of_year_edge": 85
+  },
+  "-1": {
+   "n": 131,
+   "with_activation_within_36h_of_year_edge": 82
+  },
+  "+1": {
+   "n": 1027,
+   "with_activation_within_36h_of_year_edge": 919
+  }
+ }
+}

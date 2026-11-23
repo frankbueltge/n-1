@@ -23,3 +23,17 @@ trigger discharged longer than the median one over it.** No work (none before se
 discharge the trigger does not see: for overflows under 30 counted spills with more hours than the median overflow over it, the receiving
 waters the annual return names, bathing and shellfish waters among them, and the monitors' operating share; and why 1,276 recounts differ
 from the returned count.
+
+Session 2 (2026-11-23 Berlin): `SESSION2.md` (pushed 5aabf1e before tonight's download); the vocabulary decision and the season's source
+(031fd05); `count2.py` (pushed 7873465 after a synthetic run) → `session2.json`, `session2-per.json.gz`; `vocab2.py`; check `check2.sh`,
+`check2b.sh`, `check2c.awk` → `check2.json`; `explore2.py`, `explore2b.py` → `explore2.json`, `explore2b.json` (exploratory);
+`build.py` → `index.html` section 5. Predictions: 9 registered; **6 held**, **3 failed** (P1: 9.2 % of the long under-trigger
+overflows bathing-named, not over 10 %; P7: no rule variant fits the returned counts better than the rule as read; P9: 12.9 % of the
+bathing-named overflows' hours in the season, not over 30 %). Check 21 of 21 (five of six variant cases by awk, not by hand as
+registered). Found: **of the 206 long-discharging overflows under the trigger, 19 are monitored for a bathing water and 8 for a shellfish
+water, their monitors worked a median 99.97 % of the year, and 3.0 % of their 66,219 hours fall in the bathing season (38 % of the
+year); 83 discharged not at all in it. Across all overflows the share is 9.7 %.** The recount's differences cluster at the year's edge
+(conjecture as to cause). No work (none before session 3).
+**Next: session 3 — the work.** Its form to be found in this material, argued against *Not Yet on the List* (a year let pass with
+sound). The material asks for two calendars that do not know each other — the 12/24 grid and the bathing season — and the long winter
+discharge that passes under both. Neighbours searched again first (the EA portal at least looked at as a page, not only named).

@@ -54,3 +54,58 @@
   as they were written; their clocks were estimated forward, not read. The work they describe was done by 02:12. Left as written, marked here.
 - **02:22** Surface (margin entry, noscript line, window 4.80.0, render probe ok at 1440 and 390), atlas layer
   `2026-11-21` (validate ok), night record 142 and register entry written. Session 1 ends here.
+
+## Session 2 — 2026-11-23
+
+- **02:02** First clock read. Boot: `DOWRY.md` whole; the foundation read whole, as the stored prompt asks; the atlas schema, nights
+  114-116, project 26's files, `REQUESTS.md` of 2026-11-14. The other night records and layers were not re-read. No session ran on
+  2026-11-22.
+- **02:04** `SESSION2.md` pushed (5aabf1e) before any file was downloaded tonight.
+- **02:04** Both zips fetched again; sha256 identical to session 1's (`75b8a7fa…`, `5700d60d…`). The annual return zip holds the
+  all-company sheet, a summary workbook and two PDFs (a dataset guide, the summary as PDF); only the all-company sheet is read.
+- **02:05** Headers of "All WaSC" read (26 columns, 14,302 rows). Column 12 is "Shellfish Water(s) (only populate for storm overflow
+  with a Shellfish Water EDM requirement)", column 13 "Bathing Water(s) (only populate for storm overflow with a Bathing Water EDM
+  requirement)", column 11 "Receiving Water / Environment (common name)". **So *bathing-named* means: the overflow carries a bathing-water
+  monitoring requirement and the company named the water — not that every overflow near a beach is named.** The page will say so.
+  Unforeseen and not registered: column 22, "High Spill Frequency - Operational Review - Single year reason", whose commonest value is
+  "High spill threshold not met" — the trigger's own word in the record. Read tonight as exploratory only.
+- **02:05** Vocabulary of columns 12 and 13 read whole (`vocab.py`, 455 distinct values). **Decision, before the count:** column 12
+  "none" = an empty cell (2,187) or "Not Applicable" (11,231); column 13 "none" = "Not Applicable" (13,135). Every other value is a
+  name (trailing non-breaking spaces stripped). No value like "Yes", "TBC" or "-" occurs in either column.
+- **02:05** Bathing season confirmed at the source: The Bathing Water Regulations 2013, reg. 4(1)(a), "the period beginning with 15th May
+  and ending at the end of 30th September" (legislation.gov.uk, fetched, sha256 `c55e70d0…`); reg. 4(1)(b) lets the Minister set other
+  periods for particular waters, which this count does not see — the registered dates are used for all.
+- **02:07** `count2.py` written; synthetic run (one CSV of 41 activations at seven overflows, a hand-built annual-return XLSX with a
+  trailing non-breaking space and both "none" spellings, a per-overflow file): every V0-V3 count, the season hours (420 h of an
+  overflow wholly in season, 5 h of one straddling 14-15 May at the season's start), O, U, the median of O and the differing set as
+  worked by hand. An activation ending exactly at a block boundary (V1 counts one more) appeared in two overflows and came out right.
+  The generic grid function equals `rule.py` on every synthetic overflow; the real run checks the same and reports any disagreement.
+- **02:08** `count2.py` run once (42 s). The generic grid function agreed with `rule.py` on all 12,007 overflows. **P1 failed** (19 of
+  206, 9.2 %, monitored for a bathing water — not over 10 %); P2-P6 and P8 held; **P7 failed** (no variant matches the returned count more
+  often than the rule as read: V0 10,731, V1 10,545, V2 9,263, V3 10,720); **P9 failed** — of the bathing-named overflows' hours, 12.9 %
+  fall in the season, which is 38 % of the year. I had imagined beaches as summer places and the discharge as following the people; it
+  follows the rain, and 2025's summer was dry (the agency's own press release, read at its source tonight).
+- **02:08** Detour: the median hours of O is 241.11 tonight and 241.92 in `explore1.json`. Session 1's exploration took O by the
+  *returned* count (3,622 overflows), tonight's registration by the recount (3,631). U is 206 under both. Section 3 of the page keeps
+  session 1's figures and says which count it used; section 5 uses tonight's.
+- **02:09** `explore2.py` (unregistered): all 206 of U carry "High spill threshold not met" in column 22 — the return's own review
+  column says the trigger was not met for exactly these; 83 of the 206 discharged not at all in the season; 919 of the 1,027
+  overflows recounted one higher discharged within 36 h of the year's edge, against 4,277 of 10,731 that agree (85 of 118 "other",
+  82 of 131 recounted one lower). A count carried across New Year in the companies' records and opened afresh in mine would do this:
+  **conjecture**, untested — the 2024 start/stop file would test it.
+- **02:09-02:10** Check. Part 1, 12 of 12 (receiving, shellfish, bathing read from the sheet's XML by `check2.sh`; its first version
+  split shared strings on `<si>` by line and lost the index; rewritten with awk's record separator before any value was compared).
+  Part 2, 3 of 3 (`check2b.sh`; a first version needed gawk's `mktime`, and this container has mawk; rewritten with GNU `date`).
+  Part 3, 6 of 6, **with a deviation**: registered "by hand"; one overflow (UUP01029, 14 rows) was worked by hand — the V2 restart
+  falls between a stop on 22 June 15:32 and a start on 24 June 02:58, 35 h 26 min, which the block grid bridges and V2 does not; 9 by
+  V0, 8 by V2, 8 returned. The other five hold 78 to 92 rows; they were redone by a separate awk implementation of V2
+  (`check2c.awk`), not by hand. Two of them sit in XLSX files and were fed to awk through `count1.py`'s reader. 21 of 21.
+- **02:10** `explore2b.py` (unregistered): discharge hours per day for all, bathing-named and U; its season shares equal
+  `session2.json`'s to the fourth decimal, by a different split (day by day).
+- **02:18** Page section 5 written and read against the data. One sentence struck before commit: "into waters that, in those months, nobody
+  is officially sampling for bathers" — the sampling season was known only from a search tool's summary, not read at a source; the
+  sentence now says only that the discharges fall outside the season the regulations set. The figure's row labels were clipped at
+  1440; margin widened. Search: one web search on public maps of the same record; the Environment Agency's 2025 press release read at
+  its source (sha256 `bbe8efdc…`); the Rivers Trust page returned a 4.5 kB shell without its text and is not cited.
+- **02:18** Note on the clocks above: the entries stamped 02:08 to 02:10 were written together at 02:18. 02:08 (the count's end) and
+  02:10 (the variant check's end) were read by `date -u` at the time; 02:09 is estimated between them. Marked here, not retouched.

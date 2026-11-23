@@ -1,0 +1,245 @@
+{
+ "note": "XML values from check2.sh (unzip, sed, grep, awk), 'Not Applicable' mapped to none per the vocabulary decision; season hours from check2b.sh (grep, cut, GNU date, awk); V2 from check2c.awk. The two XLSX overflows (WXW01042, YWS02151) were fed to awk through count1.py's reader.",
+ "part1_receiving_shellfish_bathing": [
+  {
+   "uid": "AWS01502",
+   "xml": [
+    "TRIB GRUNTY FEN CATCHWATER",
+    null,
+    null
+   ],
+   "count2": [
+    "TRIB GRUNTY FEN CATCHWATER",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "SVT00886",
+   "xml": [
+    "RIVER DEVON",
+    null,
+    null
+   ],
+   "count2": [
+    "RIVER DEVON",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "SVT01314",
+   "xml": [
+    "LANGHAM BROOK",
+    null,
+    null
+   ],
+   "count2": [
+    "LANGHAM BROOK",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "SWS00838",
+   "xml": [
+    "TRIBUTARY OF RIVER BREDE",
+    null,
+    null
+   ],
+   "count2": [
+    "TRIBUTARY OF RIVER BREDE",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "SWS00958",
+   "xml": [
+    "RIVER  KIRD",
+    null,
+    null
+   ],
+   "count2": [
+    "RIVER  KIRD",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "TWL00366",
+   "xml": [
+    "Bow Brook",
+    null,
+    null
+   ],
+   "count2": [
+    "Bow Brook",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "UUP01008",
+   "xml": [
+    "DITTON BROOK",
+    null,
+    null
+   ],
+   "count2": [
+    "DITTON BROOK",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "UUP01409",
+   "xml": [
+    "Liverpool Bay",
+    null,
+    "Meols"
+   ],
+   "count2": [
+    "Liverpool Bay",
+    null,
+    "Meols"
+   ],
+   "holds": true
+  },
+  {
+   "uid": "UUP01770",
+   "xml": [
+    "RIVER HODDER",
+    null,
+    null
+   ],
+   "count2": [
+    "RIVER HODDER",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "WXW00704",
+   "xml": [
+    "TRIB OF SEDGEMOOR OLD RHYNE",
+    null,
+    null
+   ],
+   "count2": [
+    "TRIB OF SEDGEMOOR OLD RHYNE",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "WXW01293",
+   "xml": [
+    "RIVER YEO",
+    null,
+    null
+   ],
+   "count2": [
+    "RIVER YEO",
+    null,
+    null
+   ],
+   "holds": true
+  },
+  {
+   "uid": "YWS00785",
+   "xml": [
+    "GREAT COMMON DRAIN",
+    null,
+    null
+   ],
+   "count2": [
+    "GREAT COMMON DRAIN",
+    null,
+    null
+   ],
+   "holds": true
+  }
+ ],
+ "part2_season_hours": [
+  {
+   "uid": "AWS00787",
+   "shell": 4.6667,
+   "count2": 4.6667,
+   "holds": true
+  },
+  {
+   "uid": "SBB00179",
+   "shell": 38.2378,
+   "count2": 38.2378,
+   "holds": true
+  },
+  {
+   "uid": "UUP00798",
+   "shell": 45.8667,
+   "count2": 45.8667,
+   "holds": true
+  }
+ ],
+ "part3_variant_v2": [
+  {
+   "uid": "UUP00173",
+   "by": "awk (check2c.awk; deviation: registered by hand)",
+   "value": 56,
+   "v2": 56,
+   "returned": 56.0,
+   "holds": true
+  },
+  {
+   "uid": "UUP00289",
+   "by": "awk (check2c.awk; deviation: registered by hand)",
+   "value": 59,
+   "v2": 59,
+   "returned": 59.0,
+   "holds": true
+  },
+  {
+   "uid": "UUP01029",
+   "by": "hand and awk",
+   "value": 8,
+   "v2": 8,
+   "returned": 8.0,
+   "holds": true
+  },
+  {
+   "uid": "UUP01687",
+   "by": "awk (check2c.awk; deviation: registered by hand)",
+   "value": 65,
+   "v2": 65,
+   "returned": 65.0,
+   "holds": true
+  },
+  {
+   "uid": "WXW01042",
+   "by": "awk (check2c.awk; deviation: registered by hand)",
+   "value": 35,
+   "v2": 35,
+   "returned": 35.0,
+   "holds": true
+  },
+  {
+   "uid": "YWS02151",
+   "by": "awk (check2c.awk; deviation: registered by hand)",
+   "value": 79,
+   "v2": 79,
+   "returned": 79.0,
+   "holds": true
+  }
+ ],
+ "held": 21,
+ "of": 21
+}

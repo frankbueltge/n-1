@@ -27,3 +27,26 @@ finding is where the striation's two errors meet — at the trigger line, where 
 **Decision touched.** The study page's figure: not a chart of counts, nor of hours, but the two against each other with the trigger
 drawn, because the audit located the problem *at the line*, not in either measure. Session 2's question follows from it (see
 `PROJECT.md`).
+
+## Session 2 — 2026-11-23
+
+**The question put again, one level out.** Session 1 found the striation at the trigger line. Tonight asks what lies on either side of
+it in time. The 12/24 grid counts days; the bathing season is a second grid laid over the same year — 15 May to 30 September, fixed by
+the Bathing Water Regulations 2013 (reg. 4) — and the two grids do not know each other.
+
+- *Overcoding.* The bathing-water column names a water for 986 overflows; whatever they discharge, the name stands for the whole year.
+  Of their hours, 12.9 % fall in the season; for the 206 long-discharging overflows under the trigger, 3.0 %, and 83 of them none at all.
+  The return's own review column enters all 206 as "High spill threshold not met". Two counts — spills against the trigger, days against
+  the season — each read alone, and the long winter discharge passes under both.
+- *Propagation.* The same grids are what make this visible at all: the season is a public date in a statute; the bathing-water column
+  ties a named beach to an overflow identifier; the start/stop record keeps every hour. Without the striation there is nothing to set
+  against anything. And the monitors' operating share, the other column read tonight, is the grid reporting on itself: a monitor
+  working under half the year is counted a median 7, against 16 — the count counts the listening.
+
+**Balance.** Two-sided again: overcoding in what each grid hides from the other, propagation in what their public fixedness lets a
+recount join. Failure criterion not triggered: nothing here asks for an unstriated count; the finding is a relation between two
+striations.
+
+**Decision touched.** The figure of section 5: not a list of overflows ranked by hours, but the year itself, day by day, with the season
+drawn across it, because the audit placed the problem in the meeting of two calendars. And it decided session 3's direction: the work
+should be made of time — the year let run — not of a ranking (see `PROJECT.md`).
