@@ -54,3 +54,24 @@
   as they were written; their clocks were estimated forward, not read. The work they describe was done by 02:12. Left as written, marked here.
 - **02:22** Surface (margin entry, noscript line, window 4.80.0, render probe ok at 1440 and 390), atlas layer
   `2026-11-21` (validate ok), night record 142 and register entry written. Session 1 ends here.
+
+## Session 2 — 2026-11-23
+
+- **02:02** First clock read. Boot: `DOWRY.md` whole; the foundation read whole, as the stored prompt asks; the atlas schema, nights
+  114-116, project 26's files, `REQUESTS.md` of 2026-11-14. The other night records and layers were not re-read. No session ran on
+  2026-11-22.
+- **02:04** `SESSION2.md` pushed (5aabf1e) before any file was downloaded tonight.
+- **02:04** Both zips fetched again; sha256 identical to session 1's (`75b8a7fa…`, `5700d60d…`). The annual return zip holds the
+  all-company sheet, a summary workbook and two PDFs (a dataset guide, the summary as PDF); only the all-company sheet is read.
+- **02:05** Headers of "All WaSC" read (26 columns, 14,302 rows). Column 12 is "Shellfish Water(s) (only populate for storm overflow
+  with a Shellfish Water EDM requirement)", column 13 "Bathing Water(s) (only populate for storm overflow with a Bathing Water EDM
+  requirement)", column 11 "Receiving Water / Environment (common name)". **So *bathing-named* means: the overflow carries a bathing-water
+  monitoring requirement and the company named the water — not that every overflow near a beach is named.** The page will say so.
+  Unforeseen and not registered: column 22, "High Spill Frequency - Operational Review - Single year reason", whose commonest value is
+  "High spill threshold not met" — the trigger's own word in the record. Read tonight as exploratory only.
+- **02:05** Vocabulary of columns 12 and 13 read whole (`vocab.py`, 455 distinct values). **Decision, before the count:** column 12
+  "none" = an empty cell (2,187) or "Not Applicable" (11,231); column 13 "none" = "Not Applicable" (13,135). Every other value is a
+  name (trailing non-breaking spaces stripped). No value like "Yes", "TBC" or "-" occurs in either column.
+- **02:05** Bathing season confirmed at the source: The Bathing Water Regulations 2013, reg. 4(1)(a), "the period beginning with 15th May
+  and ending at the end of 30th September" (legislation.gov.uk, fetched, sha256 `c55e70d0…`); reg. 4(1)(b) lets the Minister set other
+  periods for particular waters, which this count does not see — the registered dates are used for all.
