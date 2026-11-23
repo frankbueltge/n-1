@@ -1,0 +1,118 @@
+{
+ "season_hours_window": [
+  3216.0,
+  6552.0
+ ],
+ "overflows": 12007,
+ "annual_rows": 14302,
+ "annual_duplicate_ids": [],
+ "selfcheck_generic_equals_v0_bad": 0,
+ "O": 3631,
+ "median_hours_O": 241.11,
+ "U": 206,
+ "U_bathing": 19,
+ "U_shellfish": 8,
+ "O_bathing": 301,
+ "O_shellfish": 203,
+ "all_bathing": 986,
+ "all_shellfish": 754,
+ "U_hours": 66219.3497,
+ "U_season_hours": 1982.006499999999,
+ "bathing_hours": 145600.2436999999,
+ "bathing_season_hours": 18808.857799999972,
+ "season_share_of_year": 0.38082191780821917,
+ "all_hours": 1876993.6685000025,
+ "all_season_hours": 181431.70690000014,
+ "matched": 12007,
+ "with_pct": 12007,
+ "lowop_lt50": 92,
+ "hiop_ge90": 11217,
+ "differing": 1276,
+ "recon_by_variant": {
+  "v1": 11,
+  "v2": 185,
+  "v3": 1
+ },
+ "recon_any": 197,
+ "predictions": {
+  "P1": {
+   "value": 0.09223300970873786,
+   "held": false
+  },
+  "P2": {
+   "value": [
+    0.1262135922330097,
+    0.11567061415587993
+   ],
+   "held": true
+  },
+  "P3": {
+   "value": 99.97,
+   "held": true
+  },
+  "P4": {
+   "value": 0.06579495294411593,
+   "held": true
+  },
+  "P5": {
+   "value": [
+    7.0,
+    16
+   ],
+   "held": true
+  },
+  "P6": {
+   "value": 0.9075235109717869,
+   "held": true
+  },
+  "P7": {
+   "value": {
+    "v0": 10731,
+    "v1": 10545,
+    "v2": 9263,
+    "v3": 10720
+   },
+   "held": false
+  },
+  "P8": {
+   "value": {
+    "v0": 0.8937286582826685,
+    "v1": 0.8782376946781044,
+    "v2": 0.7714666444573999,
+    "v3": 0.8928125260264845
+   },
+   "held": true
+  },
+  "P9": {
+   "value": 0.1291814994400314,
+   "held": false
+  }
+ },
+ "check_draw_U": [
+  "AWS01502",
+  "SVT00886",
+  "SVT01314",
+  "SWS00838",
+  "SWS00958",
+  "TWL00366",
+  "UUP01008",
+  "UUP01409",
+  "UUP01770",
+  "WXW00704",
+  "WXW01293",
+  "YWS00785"
+ ],
+ "check_draw_bathing": [
+  "AWS00787",
+  "SBB00179",
+  "UUP00798"
+ ],
+ "check_draw_variant": [
+  "UUP00173",
+  "UUP00289",
+  "UUP01029",
+  "UUP01687",
+  "WXW01042",
+  "YWS02151"
+ ]
+}
