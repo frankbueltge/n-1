@@ -109,3 +109,43 @@
   its source (sha256 `bbe8efdc…`); the Rivers Trust page returned a 4.5 kB shell without its text and is not cited.
 - **02:18** Note on the clocks above: the entries stamped 02:08 to 02:10 were written together at 02:18. 02:08 (the count's end) and
   02:10 (the variant check's end) were read by `date -u` at the time; 02:09 is estimated between them. Marked here, not retouched.
+
+## Session 3 — 2026-11-24
+
+*Clocks: 02:03, 02:04, 02:05, 02:07 and 02:14 were read by `date -u` at the time; the others are estimated between them and marked ~.*
+
+- **02:03** First clock read. Boot: `DOWRY.md` whole; the foundation read whole, as the stored prompt asks; the atlas schema, the last
+  layer, nights 116-117, project 26's files, project 25's `SESSION3.md`, `TOOLKIT.md` and the work *Not Yet on the List*. The other
+  night records and layers were not re-read.
+- **~02:04** `SESSION3.md` pushed (a6f3332) before any file was downloaded tonight. The form was decided in it, before the material:
+  the year planner, from session 2's audit (the problem lies in two calendars over one year) and against the previous work's played year.
+- **02:04** Both zips fetched again; sha256 identical to sessions 1 and 2 (`75b8a7fa…`, `5700d60d…`).
+- **~02:05** `build4.py` written. Synthetic run: eleven hand cases (rule.py's nine and two more), each block enumeration and its
+  first-touch times as worked by hand; 20,000 random activation sets, the own enumeration against `rule.count_spills`, 0 mismatches; the
+  daily union on a hand case (14, 7, 1 h; union 22 h); `main` end to end on a synthetic CSV of 60 overflows with the annual-return reader
+  stubbed. Pushed (ba4e32b).
+- **02:05** `build4.py` run once (29 s). P1-P7 held; **P8 failed** — the data file is 349 KB, not under 300 (I had not reckoned that 365
+  numbers for each of 206 overflows, at a tenth of an hour, would take that much). U is session 2's 206; the union of each overflow's
+  activations equals its summed durations (no overlapping rows in U). The heaviest day of the 206 together is 6 January; December and
+  January hold 73 % of their hours.
+- **~02:06** Detour: the check's first overflow (SBB00547) was looked for in Southern Water's file and is in South West Water's. The prefix
+  is not the file; found by `grep`.
+- **02:07** Check, registered: 15 of 15 (12 day values by `check3.sh`, union by sort and `awk`, GNU `date` for the CSV times, Excel serial
+  days for the XLSX; 3 start counts against session 2's recount). **The draw was weak**: 11 of its 12 days held no discharge, so a zero
+  matched a zero. Unregistered extra, same script: the three heaviest days of each drawn overflow, 9 of 9. Both in `check3.json`.
+- **~02:08** Neighbours: the Atlas fetched fresh (712 entries); CLIMAVORE read at its source; Darboven known only from a search summary —
+  the Dia page refused (403), the Stedelijk page held no text. Named as conjecture, not dropped.
+- **~02:09** `build.py` and the page. **Deviation from the registration:** `data.json` gains one field per overflow, its exact season hours
+  from `session2-per.json.gz`, because the page's rounded days would have said 86 overflows discharged not at all in the season, where 83
+  did (three discharged in it for under five minutes each in total, rounded away). The page's sentence uses 83; the planner still shows
+  the rounded days. 352 KB after this.
+- **~02:10** A local static server for the render check was refused by this container's permission layer, twice (once with a screenshot
+  script, once alone). Not retried. The page was rendered instead by Playwright answering requests from disk (`page.route`); looked at
+  at 1440 and 390, opened and closed. Two sentences changed after looking: the lead said the 206 had "not been sent" for investigation —
+  the record says only that their review column reads "High spill threshold not met", and the trigger has a second, two-year arm (20 a
+  year on average) that 2025's data alone cannot test; now said so. The Agency's "significantly drier" is quoted in full.
+- **~02:12** `render-check.js`: the work's probe added, and a server-free mode (environment variable `ROOT`: every request under the base
+  answered from the file it names). 84 of 84 ok. The mode is new and changes how the standing procedure runs, not what it checks.
+- **~02:13** `data.json` licence: the earlier works' "data.json CC0" line was copied into the draft and struck — this data is derived from
+  OGL material, and the attribution travels with it.
+- **02:14** `WORK.md`, `NEIGHBOURS.md`, `AUDIT.md` written.
