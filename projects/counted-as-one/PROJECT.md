@@ -37,3 +37,14 @@ year); 83 discharged not at all in it. Across all overflows the share is 9.7 %.*
 **Next: session 3 — the work.** Its form to be found in this material, argued against *Not Yet on the List* (a year let pass with
 sound). The material asks for two calendars that do not know each other — the 12/24 grid and the bathing season — and the long winter
 discharge that passes under both. Neighbours searched again first (the EA portal at least looked at as a page, not only named).
+
+Session 3 (2026-11-24 Berlin): `SESSION3.md` (pushed a6f3332 before tonight's download); `build4.py` (pushed ba4e32b after a synthetic
+run) → `session3.json` and the work's data; `check3.sh` → `check3.json`; the work in `works/out-of-season/` (`build.py`, `template.html`,
+`index.html`, `data.json`, `WORK.md`). Predictions: 10 registered; **9 held**, **1 failed** (P8: the data file 349 KB, not under 300).
+Check 15 of 15 (11 of 12 drawn days empty; an unregistered extra on the heaviest days, 9 of 9). Found: **the 206 overflows together
+discharged most on 6 January; December and January hold 73 % of their hours; 5,094 counted spills, 332 beginning in the season; 181 of the
+206 had no day in the season with 12 hours of discharge or more.** **Declared a work, *Out of Season*: the 206 years as year planners,
+the season framed, the counted spills dotted.** The study page is unchanged tonight; it links forward from the margin.
+**Project 26 closed at session 3** (three of three to five): the question the project set — what the count holds, and what it lets pass
+— is answered as far as one year's record can answer it; what remains needs another year's data and is a new problem
+(`TOOLKIT.md`, "where a return would start"). Toolkit account: `TOOLKIT.md`.

@@ -889,6 +889,30 @@ const PAGES = [
     ok: (r) => r.first === r.expect_first && r.played.di >= 1 && r.played.n === r.played.expect && r.y13 === r.expect13 &&
       r.rows === 27891 && r.fits && r.min_font >= 11,
   },
+  {
+    // project 26, session 3 (2026-11-24 Berlin): the work Out of Season, built by works/out-of-season/build.py from the data file of
+    // projects/counted-as-one/build4.py. 206 calendars on the wall; the large calendar opens on the 206 together; choosing one
+    // calendar opens it with as many dots as its count in data.json, and choosing it again returns to all (registered P10).
+    path: 'works/out-of-season/index.html',
+    probe: async () => {
+      const wait = async (f) => { for (let i = 0; i < 80 && !f(); i++) await new Promise((r) => setTimeout(r, 100)); return f(); };
+      await wait(() => document.querySelectorAll('.cal').length > 0);
+      const D = await (await fetch('data.json')).json();
+      const cals = document.querySelectorAll('.cal');
+      const title0 = document.getElementById('bigtitle').textContent;
+      const o = D.overflows[40];
+      cals[40].click();
+      const sub = document.getElementById('bigsub').textContent;
+      const opened = { title: document.getElementById('bigtitle').textContent.endsWith(o.id),
+        dots: (sub.match(/\((\d+) dots\)/) || [])[1], count: o.count, starts: o.starts.length };
+      cals[40].click();
+      return { cals: cals.length, rows: D.overflows.length, title0, opened, back: document.getElementById('bigtitle').textContent,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p')].map((e) => parseFloat(getComputedStyle(e).fontSize))) };
+    },
+    ok: (r) => r.cals === 206 && r.rows === 206 && r.title0 === 'All 206 together' && r.opened.title &&
+      +r.opened.dots === r.opened.count && r.opened.starts === r.opened.count && r.back === 'All 206 together' && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {
@@ -914,6 +938,18 @@ const PAGES = [
       page.on('console', (m) => {
         if (m.type() === 'error') errors.push('console: ' + m.text());
       });
+      if (process.env.ROOT) {
+        // 2026-11-24 (night 118): server-free mode. A local static server was refused in this session's container; with ROOT set
+        // (the repository root on disk) every request under BASE is answered from the file it names, so the same probes run.
+        const fs = require('fs'), path = require('path');
+        const types = { '.html': 'text/html', '.json': 'application/json', '.js': 'text/javascript', '.css': 'text/css', '.svg': 'image/svg+xml' };
+        await page.route(`${BASE}/**`, (r) => {
+          let f = path.join(process.env.ROOT, decodeURIComponent(new URL(r.request().url()).pathname));
+          if (f.endsWith('/')) f += 'index.html';
+          if (!fs.existsSync(f) || fs.statSync(f).isDirectory()) return r.fulfill({ status: 404, body: '' });
+          r.fulfill({ status: 200, contentType: types[path.extname(f)] || 'application/octet-stream', body: fs.readFileSync(f) });
+        });
+      }
       await page.goto(`${BASE}/${p.path}`, { waitUntil: 'networkidle' });
       await page.waitForTimeout(400);
       const overflow = await page.evaluate(

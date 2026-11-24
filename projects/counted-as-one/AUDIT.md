@@ -50,3 +50,24 @@ striations.
 **Decision touched.** The figure of section 5: not a list of overflows ranked by hours, but the year itself, day by day, with the season
 drawn across it, because the audit placed the problem in the meeting of two calendars. And it decided session 3's direction: the work
 should be made of time — the year let run — not of a ranking (see `PROJECT.md`).
+
+## Session 3 — 2026-11-24
+
+**The question, put to the form.** Sessions 1 and 2 found two striations over one year that do not know each other. The work had to
+choose how to show the year, and every way of showing a year is itself a striation. The question asked of each candidate form: does it
+count in order to occupy, or does it let the two grids be seen occupying?
+
+- *Overcoding.* A ranked list or a chart of totals would have been a third count laid over the first two — it would have judged the 206
+  against each other, which is what the trigger does to each alone. A played year (the previous work's form) counts the days out one by
+  one and so hides the all-at-once in which the misalignment lies.
+- *Propagation.* The year planner is the most striated of all — twelve rows, thirty-one columns, empty squares where months are short — and
+  it is exactly that striation which lets the season be drawn as a frame and the count as dots in the same squares as the hours. Translated
+  onto the planner, the record gains "a milieu of propagation" (ATP 486–487, via KsK §4.6): a visitor reads it as they read their own year.
+
+**Balance.** Two-sided: the form overcodes (it rounds each day to a tenth of an hour and cuts the year at the day line, so a discharge
+that runs across midnight is split), and it propagates. Failure criterion not triggered: nothing here asks for a smoother year; the work
+is made of a grid chosen because it is one.
+
+**Decision touched.** The form (`SESSION3.md`, registered before the material): a wall of planners rather than a played year or a chart,
+and the order of the wall by identifier, not by hours, count or company — any ordering by a measure would have been a ranking, and the
+audit had located the problem in ranking each overflow alone.
