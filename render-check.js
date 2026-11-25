@@ -660,6 +660,24 @@ const PAGES = [
     ok: (r) => r.svgs === 3 && r.years === 274 && r.lines === 2 && r.decades3 === 28 && r.lines3 === 2 && r.trs === 46 && r.preds === 33 && r.sections === 9 && r.fits && r.min_font >= 11,
   },
   {
+    // project 27, session 1 (2026-11-25 Berlin): the study page "The Lowest Code", built by projects/the-lowest-code/build.py from
+    // session1.json, session1-per.json.gz, explore1.json, explore1b.json, explore2.json and check1.json; one SVG (545 rows, one per
+    // bridge Poor in the 2025 file, drawn as 2063 rects including a seven-swatch legend), one table (ten predictions), four sections.
+    path: 'projects/the-lowest-code/index.html',
+    probe: () => {
+      const s = document.querySelectorAll('svg.ch');
+      return {
+        svgs: s.length,
+        rects: s[0] ? s[0].querySelectorAll('rect').length : 0,
+        trs: document.querySelectorAll('main table tr').length,
+        sections: document.querySelectorAll('main h2').length,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
+      };
+    },
+    ok: (r) => r.svgs === 1 && r.rects === 2063 && r.trs === 11 && r.sections === 4 && r.fits && r.min_font >= 11,
+  },
+  {
     // project 26, session 1 (2026-11-21 Berlin): the study page "Counted as One", built by projects/counted-as-one/build.py from
     // session1.json, session1-per.json.gz, check1.json, explore1.json and explore1b.json; one SVG (770 titled squares binning
     // 12,007 overflows by hours and counted spills, one dashed trigger line, three marked overflows), one table (ten predictions),

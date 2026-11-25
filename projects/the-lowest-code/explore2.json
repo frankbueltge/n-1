@@ -1,0 +1,23 @@
+{
+ "poor_open_2025": 410,
+ "poor_closed_2025": 135,
+ "poor_open_2025_item41": {
+  "P": 327,
+  "A": 72,
+  "D": 10,
+  "E": 1
+ },
+ "poor_open_2025_lowest_code": {
+  "4": 345,
+  "3": 63,
+  "0": 1,
+  "2": 1
+ },
+ "poor_open_2025_adt_sum": 921410,
+ "current_spell_years_median": 13.0,
+ "current_spell_years_ge10": 238,
+ "current_spell_years_ge20": 126,
+ "current_spell_years_33": 46,
+ "bridges_with_norecon_rise_and_a_fall": 4620,
+ "note": "exploratory; a current spell is counted back through consecutive file years from 2025, 1992 included where numbers carry (they do not from 1992 to 1993)"
+}

@@ -1,0 +1,305 @@
+{
+ "P10_min_file_share_fips_ok": 1.0,
+ "P10_share_fips_ok": 1.0,
+ "P1_share_last_ever_poor": 0.08324578209010568,
+ "P2_median_years_spells_rose": 3.0,
+ "P3_share_rose_norecon": 0.915028901734104,
+ "P4_share_rises_norecon": 0.9606219122348154,
+ "P5_share_falls_2plus": 0.10669712048291051,
+ "P6_longest_spell_bridge": "008418",
+ "P6_longest_spell_open_last": 33,
+ "P7_share_poor_open_A": 0.1577133856200571,
+ "P8_crossings_while_poor_estimate": 20415482220,
+ "P8_note": "estimate: sum of item 29 (ADT) x 365 over open Poor bridge-years; ADT is the record's own figure",
+ "P9_share_malformed": 0.00017135317603111773,
+ "bridges_ever": 20990,
+ "bridges_last": 16181,
+ "bridges_last_ever_poor": 1347,
+ "falls": 24518,
+ "falls_2plus": 2616,
+ "files": {
+  "1993": {
+   "dup": 0,
+   "fips_ok": 16312,
+   "lines": 16312,
+   "malformed": 0,
+   "short": 0,
+   "type1": 15465
+  },
+  "1994": {
+   "dup": 0,
+   "fips_ok": 16453,
+   "lines": 16453,
+   "malformed": 0,
+   "short": 0,
+   "type1": 15444
+  },
+  "1995": {
+   "dup": 0,
+   "fips_ok": 16576,
+   "lines": 16576,
+   "malformed": 0,
+   "short": 0,
+   "type1": 15465
+  },
+  "1996": {
+   "dup": 0,
+   "fips_ok": 16771,
+   "lines": 16771,
+   "malformed": 44,
+   "short": 0,
+   "type1": 15521
+  },
+  "1997": {
+   "dup": 0,
+   "fips_ok": 16921,
+   "lines": 16921,
+   "malformed": 6,
+   "short": 0,
+   "type1": 15579
+  },
+  "1998": {
+   "dup": 0,
+   "fips_ok": 16948,
+   "lines": 16948,
+   "malformed": 10,
+   "short": 0,
+   "type1": 15662
+  },
+  "1999": {
+   "dup": 0,
+   "fips_ok": 16991,
+   "lines": 16991,
+   "malformed": 10,
+   "short": 0,
+   "type1": 15707
+  },
+  "2000": {
+   "dup": 0,
+   "fips_ok": 16993,
+   "lines": 16993,
+   "malformed": 10,
+   "short": 0,
+   "type1": 15707
+  },
+  "2001": {
+   "dup": 0,
+   "fips_ok": 17006,
+   "lines": 17006,
+   "malformed": 4,
+   "short": 0,
+   "type1": 15717
+  },
+  "2002": {
+   "dup": 0,
+   "fips_ok": 17098,
+   "lines": 17098,
+   "malformed": 4,
+   "short": 0,
+   "type1": 15776
+  },
+  "2003": {
+   "dup": 0,
+   "fips_ok": 17135,
+   "lines": 17135,
+   "malformed": 2,
+   "short": 0,
+   "type1": 15793
+  },
+  "2004": {
+   "dup": 0,
+   "fips_ok": 17072,
+   "lines": 17072,
+   "malformed": 0,
+   "short": 0,
+   "type1": 15726
+  },
+  "2005": {
+   "dup": 0,
+   "fips_ok": 17149,
+   "lines": 17149,
+   "malformed": 0,
+   "short": 0,
+   "type1": 15782
+  },
+  "2006": {
+   "dup": 3,
+   "fips_ok": 17334,
+   "lines": 17334,
+   "malformed": 0,
+   "short": 0,
+   "type1": 15951
+  },
+  "2007": {
+   "dup": 3,
+   "fips_ok": 17352,
+   "lines": 17352,
+   "malformed": 0,
+   "short": 0,
+   "type1": 15956
+  },
+  "2008": {
+   "dup": 3,
+   "fips_ok": 17384,
+   "lines": 17384,
+   "malformed": 0,
+   "short": 0,
+   "type1": 15984
+  },
+  "2009": {
+   "dup": 3,
+   "fips_ok": 17385,
+   "lines": 17385,
+   "malformed": 0,
+   "short": 0,
+   "type1": 15991
+  },
+  "2010": {
+   "dup": 1,
+   "fips_ok": 17444,
+   "lines": 17444,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16038
+  },
+  "2011": {
+   "dup": 1,
+   "fips_ok": 17498,
+   "lines": 17498,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16080
+  },
+  "2012": {
+   "dup": 1,
+   "fips_ok": 16069,
+   "lines": 16069,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16069
+  },
+  "2013": {
+   "dup": 0,
+   "fips_ok": 16078,
+   "lines": 16078,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16078
+  },
+  "2014": {
+   "dup": 0,
+   "fips_ok": 16087,
+   "lines": 16087,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16087
+  },
+  "2015": {
+   "dup": 0,
+   "fips_ok": 16094,
+   "lines": 16094,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16094
+  },
+  "2016": {
+   "dup": 0,
+   "fips_ok": 16097,
+   "lines": 16097,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16097
+  },
+  "2017": {
+   "dup": 0,
+   "fips_ok": 16128,
+   "lines": 16128,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16128
+  },
+  "2018": {
+   "dup": 0,
+   "fips_ok": 16129,
+   "lines": 16129,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16129
+  },
+  "2019": {
+   "dup": 0,
+   "fips_ok": 16162,
+   "lines": 16162,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16162
+  },
+  "2020": {
+   "dup": 0,
+   "fips_ok": 16155,
+   "lines": 16155,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16155
+  },
+  "2021": {
+   "dup": 0,
+   "fips_ok": 16164,
+   "lines": 16164,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16164
+  },
+  "2022": {
+   "dup": 0,
+   "fips_ok": 16162,
+   "lines": 16162,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16162
+  },
+  "2023": {
+   "dup": 0,
+   "fips_ok": 16176,
+   "lines": 16176,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16176
+  },
+  "2024": {
+   "dup": 0,
+   "fips_ok": 16205,
+   "lines": 16205,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16205
+  },
+  "2025": {
+   "dup": 0,
+   "fips_ok": 16181,
+   "lines": 16181,
+   "malformed": 0,
+   "short": 0,
+   "type1": 16181
+  }
+ },
+ "lines_total": 549709,
+ "malformed_total": 90,
+ "poor_open_bridge_years": 30473,
+ "poor_open_bridge_years_adt_missing": 0,
+ "rises": 6882,
+ "rises_norecon": 6611,
+ "spells": 4745,
+ "spells_by_outcome": {
+  "censored": 545,
+  "left": 2458,
+  "rose": 1730,
+  "unrated": 12
+ },
+ "state": "AL",
+ "type1_total": 525231,
+ "years": [
+  1993,
+  2025
+ ]
+}
