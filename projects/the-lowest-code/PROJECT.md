@@ -21,5 +21,5 @@ Poor for 13 years or more, 46 in every file since 1993. No 1992 structure number
 the rest.** Crossings while Poor sum to about 21 billion (estimate, on traffic figures that may not be recounted: bridge 006850 carries 35
 a day in every file). No work (none before session 3).
 **Next: session 2** — the cutting edge T2 found: what stands before and after a rise with nothing recorded. Whether such rises come back
-down (a sawtooth: 4,620 bridges have a silent rise and a fall, exploratory), whether they cluster in years or inspection intervals, and
+down (4,620 bridges have at least one silent rise and at least one fall, their order not yet checked; exploratory), whether they cluster in years or inspection intervals, and
 what the other items (posting, inspection frequency, item 41) do at the rise. Neighbours searched again first.
