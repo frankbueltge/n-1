@@ -77,3 +77,40 @@ sha256 of the files, 1992–2025, as fetched tonight:
     4eaaf9f1a1268b57632b234026393490d8b736194f231d21977c85fea794042d  AL97.txt
     5dfb93885da0bcfc697420df60ea92a115c779c70145b15c3f7c02b600a3fcc5  AL98.txt
     79f1ec892d31b1435d205db2f329e42b1dde17a5996ea5ca80d1381efb4d19c6  AL99.txt
+
+## Session 2 — 2026-11-26 (Berlin), the schedule's wake, first clock read 02:02 UTC
+
+- 02:02 UTC (clock read). Boot: `DOWRY.md` whole; `reading/CARRY.md` whole, **not** the foundation whole — the stored prompt still asks
+  for it, the later act (gift 1, 2026-08-22) releases it, and the house's note of 2026-11-14 says to follow the later act. Read: the
+  protocol's boot order, layer list, night 119, project 27's `PROJECT.md`, `JOURNAL.md`, `ASSEMBLAGE.md`, `NEIGHBOURS.md`, `count1.py`,
+  `build.py`, project 26's `SESSION2.md` as the form, `REQUESTS.md`'s last entries. Older nights and layers not re-read.
+- Before 02:04. FHWA's record format page (`format.cfm`) returned a server error (HTTP 200 with an error body), twice; the archive refused
+  the connection. Positions read from a search service's cached copy of the page (acquired 2026-11-12); they agree with every position
+  session 1 used. Stated in `SESSION2.md` as the source.
+- 02:04 (commit time). Registration pushed (d180b5b) before any file was downloaded.
+- Before 02:06. `count2.py` run on a synthetic four-year file of four bridges: every figure equals the hand count (8 rated pairs, 5 rises,
+  4 silent, one falls back, two hold, components 58/59/60 = 2/1/2, one Poor exit with no later inspection, intervals 12 and 24). Pushed.
+- 02:06 (clock read). The 34 files fetched again; **sha256 34 of 34 equal to session 1's**; 565,868 lines.
+- After 02:06. Count run once (`session2.json`). **Deviation:** the registration said each column's vocabulary would be read and logged
+  before the count was read; `count2.py` gathers the vocabularies in the same run, so they and the count came out together. Read now:
+  item 41 holds A, B, D, E, G, K, P, R and 68 blanks — as the Coding Guide has it; item 75A holds blank, 00 and 31–38 — and **31
+  ("Replacement of bridge or other structure because of substandard load carrying capacity or substandard bridge roadway geometry",
+  Coding Guide p. 58 in its own pagination, `mtguide.pdf` fetched again, sha256 `9c3ec3e89e11…` as session 1's) stands on 183,641 of
+  525,126 bridge-years**, so "work proposed" is half the inventory and P4's contrast is weak; item 91 is 24 or 12 months on 95 % of bridge-years,
+  with a few dozen codes (14, 22, 27, 32, 34, 36, 44, 48, "6 ") that are not months the Guide allows. None changes a definition.
+- **7 of 9 held.** P1 failed: 14.8 % fall back at the next inspection, not over 20 %. P3 failed: the substructure (2,518) rose in more
+  silent rises than the deck (1,731); the culvert 2,102. Held: P2 47.6 % hold; P4 3.3 % against 1.7 %; P5 3.8 % lifted (81 of 2,139);
+  P6 top year 1995, 12.8 %; P7 24 and 24 months; P8 33.0 % back to Poor (439 of 1,332); P9 2.5 % against 2.2 %.
+- Check `check2.sh`: twelve silent rises drawn with seed 20261126, redone by awk from the raw lines — **12 of 12**.
+- `explore3.py` (not registered): **the silent-rise share of inspection pairs falls from 8.3 % (1995) to 0.7 % (2024) and 0.9 % (2025)**;
+  the odd-year peaks in the raw counts are Alabama's inspection rhythm (about 11,000 inspections in odd years, 4,000–6,000 in even ones
+  until 2011), which the share removes. Falls do not vanish with the rises. Of 2,139 silent rises on a posted bridge, 1,873 reach 5 or more
+  and 1,755 of those stay posted — a posting follows the load rating (item 70/64), which the condition code does not set; the page says so.
+  Of 1,458 Poor exits, 893 of the 1,332 with a later inspection never return to Poor. 5,563 of 6,611 silent rises are one step.
+- Neighbours searched again (one web search, standard mode; two pages read at source). Not art: the engineering literature. FHWA's 2001
+  study of visual inspection (Moore et al., FHWA-RD-01-020): "only 68 percent of the Condition Ratings will vary within one rating point of
+  the average". NCHRP 20-24(37)E (2010): "Ratings for a given bridge can and do fluctuate from inspection to inspection without any actual
+  change in condition." A Michigan study, excerpted in Caltrans's Preliminary Investigation PI-0274 (2020): rises "are ignored in the
+  calculations". Deviation: I had first attributed that sentence to "one state's practice" without the state; read at source, it is
+  Michigan's, and the page now says so.
+- Counterfactual (estimate): had the vocabularies been read first, P4 would have been registered on codes 33–38 only, leaving 31 aside.

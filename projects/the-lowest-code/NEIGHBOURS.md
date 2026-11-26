@@ -26,3 +26,25 @@ only what was read at its source is cited):
 **Daylight claimed tonight (study, not work):** every public instrument found counts bridges in a condition **in a year**. None follows
 **one bridge's code through the years** — how long it has been Poor, whether its code rose with nothing recorded, what the 1992 renumbering
 cut off. That is the study's daylight; a work's must be argued again in session 3.
+
+## Session 2 — searched again (2026-11-26)
+
+One web search, standard mode, for studies of condition ratings that rise between inspections; pages read at their source where quoted.
+Not art — the engineering literature the record feeds, which is where tonight's neighbours stand:
+
+- **Moore et al., *Reliability of Visual Inspection for Highway Bridges*, FHWA-RD-01-020, June 2001**
+  (`https://www.fhwa.dot.gov/publications/research/nde/01020.cfm`): 49 inspectors from 25 states at the same bridges; "It is predicted
+  that only 68 percent of the Condition Ratings will vary within one rating point of the average". Nearest in finding: the code is a
+  judgement that moves. It measures many inspectors at one moment; this study follows one state's judgements through 33 years.
+- **NCHRP 20-24(37)E, *Comparative Analysis of Bridge Condition*, final report, 2010**
+  (`https://onlinepubs.trb.org/onlinepubs/nchrp/docs/NCHRP20-24(37)E_FR.pdf`): "Ratings for a given bridge can and do fluctuate from
+  inspection to inspection without any actual change in condition", and "NBI data is used for funding decisions and therefore may be
+  subject to bias." States it; does not count it.
+- **Caltrans, *Bridge Deterioration Models and Rates*, Preliminary Investigation PI-0274, CTC & Associates, 2020**
+  (`https://dot.ca.gov/-/media/dot-media/programs/research-innovation-system-information/documents/preliminary-investigations/pi-0274-a11y.pdf`),
+  excerpting a Michigan study: "Those with a rating increase are assumed to have received rehabilitation or replacement actions", and
+  "those with rating increases are ignored in the calculations". Nearest by opposition: the rises are the residue the models discard.
+
+**Daylight, for session 3 to argue:** the neighbours either measure the judgement's spread at one moment or discard its rises; none keeps
+the rises of one inventory through three decades and shows that they grew rare. Still no art neighbour found; the Atlas search of session 1
+stands.

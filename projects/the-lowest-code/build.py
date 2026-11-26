@@ -9,6 +9,9 @@ E1B = json.load(open("explore1b.json"))
 E2 = json.load(open("explore2.json"))
 C = json.load(open("check1.json"))
 PER = json.load(gzip.open("session1-per.json.gz"))
+S2 = json.load(open("session2.json"))
+E3 = json.load(open("explore3.json"))
+C2 = json.load(open("check2.json"))
 
 YEARS = list(range(1992, 2026))
 # every bridge whose lowest code in the 2025 file is 4 or less, open or closed (explore2.json splits the two)
@@ -70,6 +73,39 @@ ptab = "".join(f'<tr><td style="text-align:left">{k}</td><td style="text-align:l
                for k, t, v, h in pred)
 held = sum(h for *_, h in pred)
 
+# session 2: the silent rise, per year (share of rated inspection pairs ending that year)
+by = E3["by_year"]
+yrs = sorted(int(y) for y in by)
+mx = max(by[str(y)]["silent_rate"] for y in yrs)
+bw, bh, bl, bt = 26, 150, 52, 16
+bars = "".join(
+    f'<rect x="{bl + (y - yrs[0]) * bw + 3}" y="{bt + bh - bh * by[str(y)]["silent_rate"] / mx:.1f}" width="{bw - 6}" '
+    f'height="{bh * by[str(y)]["silent_rate"] / mx:.1f}" fill="var(--a)"><title>{y}: {by[str(y)]["silent_rises"]} silent rises in '
+    f'{by[str(y)]["rated_pairs_ending"]:,} inspection pairs, {100 * by[str(y)]["silent_rate"]:.1f} %</title></rect>' for y in yrs)
+bticks = "".join(f'<text class="yr" x="{bl + (y - yrs[0]) * bw + bw / 2:.0f}" y="{bt + bh + 16}" text-anchor="middle">{y}</text>'
+                 for y in (1994, 2000, 2005, 2010, 2015, 2020, 2025))
+gl = "".join(f'<line x1="{bl}" x2="{bl + bw * len(yrs)}" y1="{bt + bh - bh * v / mx:.1f}" y2="{bt + bh - bh * v / mx:.1f}" stroke="var(--line)"/>'
+             f'<text class="yr" x="{bl - 6}" y="{bt + bh - bh * v / mx + 4:.1f}" text-anchor="end">{100 * v:.0f} %</text>' for v in (0, 0.02, 0.04, 0.06, 0.08))
+svg2 = (f'<svg class="ch" viewBox="0 0 {bl + bw * len(yrs) + 10} {bt + bh + 26}" role="img" aria-labelledby="f2"><title id="f2">For each year from '
+        f'1994 to 2025, the share of inspection pairs ending that year in which the lowest code rose with no reconstruction recorded: '
+        f'{100 * by["1995"]["silent_rate"]:.1f} % in 1995, falling to {100 * by["2024"]["silent_rate"]:.1f} % in 2024 and {100 * by["2025"]["silent_rate"]:.1f} % in 2025.</title>'
+        f'{gl}{bars}{bticks}</svg>')
+pred2 = [
+    ("P1", "of silent rises with a next inspection, more than 20 % fall back at it", pct(S2["P1_share_falls_back_next"]), False),
+    ("P2", "of silent rises with a later inspection, more than 40 % hold above the earlier code in all of them", pct(S2["P2_share_holds"]), True),
+    ("P3", "the deck rose in more silent rises than any other part", "substructure " + n(S2["P3_component_counts"]["60"]) + ", deck " + n(S2["P3_component_counts"]["58"]), False),
+    ("P4", "silent rises more frequent after an inspection that proposed work", f'{pct(S2["P4_rate_after_work_proposed"])} against {pct(S2["P4_rate_after_no_work_proposed"])}', True),
+    ("P5", "of silent rises on a posted bridge, under 30 % lift the posting", pct(S2["P5_share_lifted"]), True),
+    ("P6", "no single year holds more than 15 % of silent rises", f'{S2["P6_top_year"]}: {pct(S2["P6_top_share"])}', True),
+    ("P7", "median interval at a silent rise 24 months, as over all pairs", f'{S2["P7_median_interval_silent"]:.0f} and {S2["P7_median_interval_all"]:.0f} months', True),
+    ("P8", "of bridges that left Poor by a silent rise, more than 30 % are Poor again later", pct(S2["P8_share_back_poor"]), True),
+    ("P9", "silent rises more frequent after 12 months or less than after 23–25", f'{pct(S2["P9_rate_le12"])} against {pct(S2["P9_rate_23to25"])}', True),
+]
+ptab2 = "".join(f'<tr><td style="text-align:left">{k}</td><td style="text-align:left">{t}</td><td>{v}</td><td>{"held" if h else "failed"}</td></tr>'
+                for k, t, v, h in pred2)
+held2 = sum(h for *_, h in pred2)
+one_step = E3["silent_rise_steps"]["1"]
+
 html = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>The Lowest Code</title><link rel="icon" href="data:,">
@@ -86,7 +122,7 @@ svg.ch{{width:100%;height:auto;display:block;margin:1em 0}}svg.ch .yr{{font:12px
 table{{border-collapse:collapse;font:14px/1.4 system-ui,sans-serif}}table th,table td{{padding:3px 10px;border-bottom:1px solid var(--line);text-align:right}}
 blockquote{{margin:1em 0;padding-left:14px;border-left:3px solid var(--line)}}
 </style></head><body><main>
-<p class="sm mut">Project 27, session 1 · 25 November 2026 · open; no work before session 3 · data: Federal Highway Administration, National
+<p class="sm mut">Project 27, sessions 1–2 · 25–26 November 2026 · open; no work before session 3 · data: Federal Highway Administration, National
 Bridge Inventory, Alabama, yearly files 1992–2025 (read as a US government work, a reading marked conjecture in
 <a href="https://github.com/frankbueltge/n-1/blob/main/projects/the-lowest-code/SELECTION.md">SELECTION.md</a>) · this page CC BY 4.0 · Remainder</p>
 <h1>The Lowest Code</h1>
@@ -141,8 +177,36 @@ line.</p>
 one, who cannot bring this record into a damages action: the disclaimer before every file quotes 23 U.S.C. §409, under which such data
 "shall not be subject to discovery or admitted into evidence in a federal or state court proceeding". Nothing on this page judges a bridge
 safe or unsafe.</p>
+
+<h2>5. What stands around a silent rise</h2>
+<p>Session 2 (26 November) took the {n(S2["silent_rises"])} rises with nothing recorded and looked at the inspections on either side. Most
+are one step ({n(one_step)}). They are not, mostly, a judgement that wobbles and returns: only <b>{pct(S2["P1_share_falls_back_next"])}</b> fall
+back at the next inspection, and <b>{pct(S2["P2_share_holds"])}</b> stay above the earlier code at every inspection the record still holds. The part
+that rose was most often the substructure ({n(S2["P3_component_counts"]["60"])}), then the culvert ({n(S2["P3_component_counts"]["62"])}), the deck
+({n(S2["P3_component_counts"]["58"])}) and the superstructure ({n(S2["P3_component_counts"]["59"])}).</p>
+<p><b>{n(S2["P8_poor_exits"])}</b> times a bridge left Poor this way — out of the count the federal rule keeps — with nothing recorded; of those
+the record follows further, {pct(S2["P8_share_back_poor"])} were Poor again later. On a posted bridge the code rose {n(S2["P5_silent_from_posted"])}
+times with nothing recorded, and the posting was lifted in {pct(S2["P5_share_lifted"])} of them; {n(E3["posted_before_L1_ge5_still_posted"])} times
+the code rose to 5 or more and the sign stayed. A posting follows a load rating, which the condition code does not set, so a sign that
+stays is not shown to be wrong.</p>
+<div class="sc">{svg2}</div>
+<p class="sm mut">Silent rises as a share of the inspection pairs (two consecutive inspections of one bridge, both rated) ending each year.
+Alabama inspects more bridges in odd years than in even ones until about 2012; the share removes that rhythm.</p>
+<p>And they have grown rare. In 1995, <b>{100 * by["1995"]["silent_rate"]:.1f} %</b> of inspection pairs ended in a rise with nothing
+recorded; in 2024, <b>{100 * by["2024"]["silent_rate"]:.1f} %</b>. Falls did not vanish with them ({n(by["1995"]["falls"])} in 1995,
+{n(by["2025"]["falls"])} in 2025). Why, the record does not say: stricter inspection, more work recorded as reconstruction, or fewer old
+judgements left to correct are all possible, and none is shown here.</p>
+<p>Engineers who model how bridges decay often set such rises aside. A Michigan study, as Caltrans's 2020 survey of deterioration models
+excerpts it: "Those with a rating increase are assumed to have received rehabilitation or replacement actions", and so "those with rating
+increases are ignored in the calculations".
+FHWA's 2001 study of visual inspection found that inspectors given the same bridge differ, with "only 68 percent of the Condition Ratings"
+predicted to fall within one point of the average. This page keeps the rises, as the record keeps them.</p>
+<div class="tw"><table><tr><th style="text-align:left"></th><th style="text-align:left">session 2 prediction</th><th>found</th><th></th></tr>{ptab2}</table></div>
+<p class="sm">{held2} of 9 held. Check: twelve silent rises drawn at random, redone from the raw lines by awk — {C2["held"]} of {C2["checked"]}
+agree in every field. The yearly shares and the posting figures are exploratory (explore3.py), not registered.</p>
 <p class="sm mut">Files: <a href="https://github.com/frankbueltge/n-1/tree/main/projects/the-lowest-code">projects/the-lowest-code</a>
-(count1.py, session1.json, check1.sh, check1.json, explore1.py, explore2.py, JOURNAL.md, ASSEMBLAGE.md, NEIGHBOURS.md). Section 1's
+(count1.py, session1.json, check1.sh, check1.json, explore1.py, explore2.py; count2.py, session2.json, check2.sh, check2.json,
+explore3.py, SESSION2.md; JOURNAL.md, ASSEMBLAGE.md, NEIGHBOURS.md). Section 1's
 entry and exit figures and section 2's spell figures are from the 1993–2025 run (explore1.json, explore1b.json), the rest from the
 registered count.</p>
 </main></body></html>
