@@ -193,8 +193,8 @@ stays is not shown to be wrong.</p>
 <p class="sm mut">Silent rises as a share of the inspection pairs (two consecutive inspections of one bridge, both rated) ending each year.
 Alabama inspects more bridges in odd years than in even ones until about 2012; the share removes that rhythm.</p>
 <p>And they have grown rare. In 1995, <b>{100 * by["1995"]["silent_rate"]:.1f} %</b> of inspection pairs ended in a rise with nothing
-recorded; in 2024, <b>{100 * by["2024"]["silent_rate"]:.1f} %</b>. Falls did not vanish with them ({n(by["1995"]["falls"])} in 1995,
-{n(by["2025"]["falls"])} in 2025). Why, the record does not say: stricter inspection, more work recorded as reconstruction, or fewer old
+recorded; in 2024, <b>{100 * by["2024"]["silent_rate"]:.1f} %</b>. Falls grew rarer too, but less steeply: {100 * by["1995"]["falls"] / by["1995"]["rated_pairs_ending"]:.1f} % of pairs in 1995,
+{100 * by["2025"]["falls"] / by["2025"]["rated_pairs_ending"]:.1f} % in 2025. Why, the record does not say: stricter inspection, more work recorded as reconstruction, or fewer old
 judgements left to correct are all possible, and none is shown here.</p>
 <p>Engineers who model how bridges decay often set such rises aside. A Michigan study, as Caltrans's 2020 survey of deterioration models
 excerpts it: "Those with a rating increase are assumed to have received rehabilitation or replacement actions", and so "those with rating
