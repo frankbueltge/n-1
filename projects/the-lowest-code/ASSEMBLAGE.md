@@ -31,3 +31,17 @@ rise (1,730).
 (4c). The analysis's consequence for session 2: follow the cutting edge (a) — what comes before and after a rise with nothing recorded.
 
 **Failure criterion (KsK T2).** Field 4 is not empty, and it changed the plan: session 2 is set on (a). Not triggered tonight.
+
+## Session 2 — the movement re-read (2026-11-26)
+
+Cutting edge (a) has a shape now (`session2.json`, `explore3.json`). **It is not mostly a wobble:** 14.8 % of silent rises fall back at the
+next inspection, 47.6 % hold above the earlier code at every later one. **It sits under the bridge:** the substructure and the culvert rose
+more often than the deck. **It does not reach the sign:** 1,755 times the code rose to 5 or more on a posted bridge and the posting stayed
+— field 2 moved, field 1's traffic was told nothing new (the sign follows the load rating, a different statement). **And it is a
+history:** the share of inspection pairs ending in a silent rise fell from 8.3 % in 1995 to under 1 % in 2024–25. Field 3 moved under
+field 2 — the territory that decides what counts as reconstruction, or how inspectors judge, changed over the three decades — and the
+record names no cause. The engineering neighbours (`NEIGHBOURS.md`, session 2) mostly cut the edge off: deterioration models set the rises
+aside as repair or noise. A work can keep them.
+
+**Failure criterion (KsK T2).** Not triggered: field 4 changed again — from "what is a silent rise" to "a silent rise is an era". Session 3
+is set on a work: the rise kept where the models drop it, and the era it belongs to.

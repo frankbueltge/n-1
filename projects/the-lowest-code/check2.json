@@ -1,0 +1,20 @@
+{
+ "checked": 12,
+ "held": 12,
+ "seed": 20261126,
+ "method": "awk from the raw lines (check2.sh); the draw from session2-rises.json.gz",
+ "rows": [
+  "000860 2009 2011 awk: 4 5 P P 31 5 recon_unchanged=1 count2: 4 5 P P 31 5 PASS",
+  "001999 2020 2022 awk: 6 7 A A 33 7 recon_unchanged=1 count2: 6 7 A A 33 7 PASS",
+  "005035 2001 2003 awk: 7 8 P P 31 6 recon_unchanged=1 count2: 7 8 P P 31 6 PASS",
+  "006429 2008 2009 awk: 6 7 A A __ 7 recon_unchanged=1 count2: 6 7 A A __ 7 PASS",
+  "007086 2005 2007 awk: 4 5 P P 31 5 recon_unchanged=1 count2: 4 5 P P 31 5 PASS",
+  "009366 2019 2021 awk: 3 4 P P 31 4 recon_unchanged=1 count2: 3 4 P P 31 4 PASS",
+  "009949 2021 2023 awk: 4 5 P P 31 5 recon_unchanged=1 count2: 4 5 P P 31 5 PASS",
+  "013052 2005 2007 awk: 5 6 A A 31 6 recon_unchanged=1 count2: 5 6 A A 31 6 PASS",
+  "013123 2015 2017 awk: 2 3 P P 31 NA recon_unchanged=1 count2: 2 3 P P 31 NA PASS",
+  "013230 2021 2023 awk: 5 6 A A __ 6 recon_unchanged=1 count2: 5 6 A A __ 6 PASS",
+  "013459 1993 1995 awk: 7 8 A A 31 8 recon_unchanged=1 count2: 7 8 A A 31 8 PASS",
+  "014170 2001 2003 awk: 6 7 A A 35 7 recon_unchanged=1 count2: 6 7 A A 35 7 PASS"
+ ]
+}

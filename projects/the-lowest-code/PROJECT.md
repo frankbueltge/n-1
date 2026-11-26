@@ -20,6 +20,14 @@ ended in a rise (median 3 years), 91.5 % ended with nothing recorded. In 2025, 4
 Poor for 13 years or more, 46 in every file since 1993. No 1992 structure number recurs in 1993: the record's first year is cut off from
 the rest.** Crossings while Poor sum to about 21 billion (estimate, on traffic figures that may not be recounted: bridge 006850 carries 35
 a day in every file). No work (none before session 3).
-**Next: session 2** — the cutting edge T2 found: what stands before and after a rise with nothing recorded. Whether such rises come back
-down (4,620 bridges have at least one silent rise and at least one fall, their order not yet checked; exploratory), whether they cluster in years or inspection intervals, and
-what the other items (posting, inspection frequency, item 41) do at the rise. Neighbours searched again first.
+Session 2 (2026-11-26 Berlin): `SESSION2.md` (pushed d180b5b before any file was downloaded); `count2.py` (pushed after a synthetic run)
+→ `session2.json`, `session2-rises.json.gz`; `check2.sh` → `check2.json`; `explore3.py` → `explore3.json` (exploratory); section 5 of
+`index.html`; `JOURNAL.md`, `ASSEMBLAGE.md` and `NEIGHBOURS.md` continued. Files sha256-equal to session 1's, 34 of 34. Predictions: 9
+registered; **7 held**, **2 failed** (P1: 14.8 % of silent rises fall back at the next inspection, not over 20 %; P3: the substructure rose
+most often, not the deck). Check 12 of 12 by awk. Found: **of the 6,611 silent rises, 14.8 % fall back at the next inspection and 47.6 %
+hold above the earlier code at every later one; the substructure (2,518) and the culvert (2,102) rose more often than the deck (1,731);
+1,458 times a bridge left Poor this way, and 33.0 % of those followed further were Poor again; on a posted bridge the posting was lifted
+at 3.8 % of silent rises. Exploratory: the silent-rise share of inspection pairs fell from 8.3 % in 1995 to 0.7 % in 2024.** No work (none
+before session 3).
+**Next: session 3** — a work: the rises kept where the deterioration models set them aside, and the era they belong to; neighbours argued
+again, the form argued against the previous work's (Out of Season's year planners).

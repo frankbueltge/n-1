@@ -1,0 +1,261 @@
+{
+ "by_year": {
+  "1994": {
+   "inspections_beginning": 4272,
+   "rated_pairs_ending": 4082,
+   "silent_rises": 219,
+   "falls": 786,
+   "silent_rate": 0.0537
+  },
+  "1995": {
+   "inspections_beginning": 10452,
+   "rated_pairs_ending": 10153,
+   "silent_rises": 844,
+   "falls": 1942,
+   "silent_rate": 0.0831
+  },
+  "1996": {
+   "inspections_beginning": 4866,
+   "rated_pairs_ending": 4662,
+   "silent_rises": 312,
+   "falls": 881,
+   "silent_rate": 0.0669
+  },
+  "1997": {
+   "inspections_beginning": 11646,
+   "rated_pairs_ending": 11261,
+   "silent_rises": 477,
+   "falls": 1528,
+   "silent_rate": 0.0424
+  },
+  "1998": {
+   "inspections_beginning": 4022,
+   "rated_pairs_ending": 3833,
+   "silent_rises": 127,
+   "falls": 553,
+   "silent_rate": 0.0331
+  },
+  "1999": {
+   "inspections_beginning": 11478,
+   "rated_pairs_ending": 11232,
+   "silent_rises": 454,
+   "falls": 1370,
+   "silent_rate": 0.0404
+  },
+  "2000": {
+   "inspections_beginning": 4353,
+   "rated_pairs_ending": 4132,
+   "silent_rises": 111,
+   "falls": 471,
+   "silent_rate": 0.0269
+  },
+  "2001": {
+   "inspections_beginning": 11063,
+   "rated_pairs_ending": 10802,
+   "silent_rises": 341,
+   "falls": 1107,
+   "silent_rate": 0.0316
+  },
+  "2002": {
+   "inspections_beginning": 4963,
+   "rated_pairs_ending": 4728,
+   "silent_rises": 95,
+   "falls": 518,
+   "silent_rate": 0.0201
+  },
+  "2003": {
+   "inspections_beginning": 10965,
+   "rated_pairs_ending": 10675,
+   "silent_rises": 301,
+   "falls": 975,
+   "silent_rate": 0.0282
+  },
+  "2004": {
+   "inspections_beginning": 5039,
+   "rated_pairs_ending": 4829,
+   "silent_rises": 101,
+   "falls": 434,
+   "silent_rate": 0.0209
+  },
+  "2005": {
+   "inspections_beginning": 10410,
+   "rated_pairs_ending": 10141,
+   "silent_rises": 199,
+   "falls": 1150,
+   "silent_rate": 0.0196
+  },
+  "2006": {
+   "inspections_beginning": 5700,
+   "rated_pairs_ending": 5353,
+   "silent_rises": 145,
+   "falls": 502,
+   "silent_rate": 0.0271
+  },
+  "2007": {
+   "inspections_beginning": 10696,
+   "rated_pairs_ending": 10483,
+   "silent_rises": 339,
+   "falls": 997,
+   "silent_rate": 0.0323
+  },
+  "2008": {
+   "inspections_beginning": 5685,
+   "rated_pairs_ending": 5490,
+   "silent_rises": 147,
+   "falls": 501,
+   "silent_rate": 0.0268
+  },
+  "2009": {
+   "inspections_beginning": 10087,
+   "rated_pairs_ending": 9937,
+   "silent_rises": 266,
+   "falls": 1043,
+   "silent_rate": 0.0268
+  },
+  "2010": {
+   "inspections_beginning": 6081,
+   "rated_pairs_ending": 5935,
+   "silent_rises": 125,
+   "falls": 545,
+   "silent_rate": 0.0211
+  },
+  "2011": {
+   "inspections_beginning": 10721,
+   "rated_pairs_ending": 10591,
+   "silent_rises": 257,
+   "falls": 872,
+   "silent_rate": 0.0243
+  },
+  "2012": {
+   "inspections_beginning": 8630,
+   "rated_pairs_ending": 8517,
+   "silent_rises": 170,
+   "falls": 650,
+   "silent_rate": 0.02
+  },
+  "2013": {
+   "inspections_beginning": 10782,
+   "rated_pairs_ending": 10667,
+   "silent_rises": 215,
+   "falls": 650,
+   "silent_rate": 0.0202
+  },
+  "2014": {
+   "inspections_beginning": 8248,
+   "rated_pairs_ending": 8151,
+   "silent_rises": 140,
+   "falls": 486,
+   "silent_rate": 0.0172
+  },
+  "2015": {
+   "inspections_beginning": 7704,
+   "rated_pairs_ending": 7622,
+   "silent_rises": 121,
+   "falls": 443,
+   "silent_rate": 0.0159
+  },
+  "2016": {
+   "inspections_beginning": 9306,
+   "rated_pairs_ending": 9193,
+   "silent_rises": 189,
+   "falls": 693,
+   "silent_rate": 0.0206
+  },
+  "2017": {
+   "inspections_beginning": 9405,
+   "rated_pairs_ending": 9275,
+   "silent_rises": 207,
+   "falls": 839,
+   "silent_rate": 0.0223
+  },
+  "2018": {
+   "inspections_beginning": 6517,
+   "rated_pairs_ending": 6407,
+   "silent_rises": 71,
+   "falls": 474,
+   "silent_rate": 0.0111
+  },
+  "2019": {
+   "inspections_beginning": 9583,
+   "rated_pairs_ending": 9464,
+   "silent_rises": 137,
+   "falls": 586,
+   "silent_rate": 0.0145
+  },
+  "2020": {
+   "inspections_beginning": 6988,
+   "rated_pairs_ending": 6877,
+   "silent_rises": 57,
+   "falls": 447,
+   "silent_rate": 0.0083
+  },
+  "2021": {
+   "inspections_beginning": 9418,
+   "rated_pairs_ending": 9336,
+   "silent_rises": 131,
+   "falls": 603,
+   "silent_rate": 0.014
+  },
+  "2022": {
+   "inspections_beginning": 7024,
+   "rated_pairs_ending": 6955,
+   "silent_rises": 85,
+   "falls": 476,
+   "silent_rate": 0.0122
+  },
+  "2023": {
+   "inspections_beginning": 9490,
+   "rated_pairs_ending": 9404,
+   "silent_rises": 94,
+   "falls": 746,
+   "silent_rate": 0.01
+  },
+  "2024": {
+   "inspections_beginning": 6980,
+   "rated_pairs_ending": 6876,
+   "silent_rises": 50,
+   "falls": 614,
+   "silent_rate": 0.0073
+  },
+  "2025": {
+   "inspections_beginning": 9243,
+   "rated_pairs_ending": 9192,
+   "silent_rises": 84,
+   "falls": 636,
+   "silent_rate": 0.0091
+  }
+ },
+ "odd_years": {
+  "pairs": 160235,
+  "silent": 4467
+ },
+ "even_years": {
+  "pairs": 96020,
+  "silent": 2144
+ },
+ "posted_before_open_after": {
+  "P": 2013,
+  "K": 26,
+  "R": 2,
+  "A": 81,
+  "D": 8,
+  "B": 8,
+  "E": 1
+ },
+ "posted_before_L1_ge5": 1873,
+ "posted_before_L1_ge5_still_posted": 1755,
+ "poor_exits": 1458,
+ "poor_exits_with_later": 1332,
+ "poor_exits_holds_out_of_poor": 893,
+ "silent_rise_steps": {
+  "1": 5563,
+  "3": 186,
+  "2": 736,
+  "4": 74,
+  "5": 32,
+  "6": 15,
+  "7": 4,
+  "8": 1
+ },
+ "bridges_with_silent_rise": 5466
+}

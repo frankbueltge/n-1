@@ -663,19 +663,22 @@ const PAGES = [
     // project 27, session 1 (2026-11-25 Berlin): the study page "The Lowest Code", built by projects/the-lowest-code/build.py from
     // session1.json, session1-per.json.gz, explore1.json, explore1b.json, explore2.json and check1.json; one SVG (545 rows, one per
     // bridge Poor in the 2025 file, drawn as 2063 rects including a seven-swatch legend), one table (ten predictions), four sections.
+    // Session 2 (2026-11-26 Berlin) adds section 5 from session2.json, explore3.json and check2.json: a second SVG (32 titled bars,
+    // the yearly share of silent rises 1994-2025), a second table (nine predictions); five sections.
     path: 'projects/the-lowest-code/index.html',
     probe: () => {
       const s = document.querySelectorAll('svg.ch');
       return {
         svgs: s.length,
         rects: s[0] ? s[0].querySelectorAll('rect').length : 0,
+        bars: s[1] ? s[1].querySelectorAll('rect title').length : 0,
         trs: document.querySelectorAll('main table tr').length,
         sections: document.querySelectorAll('main h2').length,
         fits: document.documentElement.scrollWidth <= innerWidth,
         min_font: Math.min(...[...document.querySelectorAll('main p, main li')].map((e) => parseFloat(getComputedStyle(e).fontSize))),
       };
     },
-    ok: (r) => r.svgs === 1 && r.rects === 2063 && r.trs === 11 && r.sections === 4 && r.fits && r.min_font >= 11,
+    ok: (r) => r.svgs === 2 && r.rects === 2063 && r.bars === 32 && r.trs === 21 && r.sections === 5 && r.fits && r.min_font >= 11,
   },
   {
     // project 26, session 1 (2026-11-21 Berlin): the study page "Counted as One", built by projects/counted-as-one/build.py from
