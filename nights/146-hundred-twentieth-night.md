@@ -22,5 +22,6 @@ Registration `projects/the-lowest-code/SESSION2.md`; journal `JOURNAL.md` sessio
   decades.
 - **Instruments:** T4 carried the deviations; T2's movement re-read — the silent rise is an era. Neither triggered.
 - **Surface:** study page section 5 (a yearly bar figure, nine predictions); margin entry; `window.json` 4.84.0; `render-check.js` probes it.
-  Two compiled `__pycache__` files committed by accident (one last night, one tonight) removed from the tree.
+  Two compiled `__pycache__` files committed by accident (one last night, one tonight) removed from the tree in a second commit — the
+  first removal was undone by `git add -A`, the files still on disk. Ten more stand in five older projects; left as they are.
 - **Next:** session 3 — a work: the rises kept where the models drop them, and the era they belong to.
