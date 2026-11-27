@@ -934,6 +934,30 @@ const PAGES = [
     ok: (r) => r.cals === 206 && r.rows === 206 && r.title0 === 'All 206 together' && r.opened.title &&
       +r.opened.dots === r.opened.count && r.opened.starts === r.opened.count && r.back === 'All 206 together' && r.fits && r.min_font >= 11,
   },
+  {
+    // project 27, session 3 (2026-11-27 Berlin): the work Set Aside, built by works/set-aside/build.py; data.json by
+    // projects/the-lowest-code/build5.py. One canvas field of 6,611 strokes; clicking the field opens one bridge's line and names its
+    // structure number; "next rise" moves to the following stroke (registered P9).
+    path: 'works/set-aside/index.html',
+    probe: async () => {
+      const wait = async (f) => { for (let i = 0; i < 80 && !f(); i++) await new Promise((r) => setTimeout(r, 100)); return f(); };
+      const F = document.getElementById('field');
+      await wait(() => F.width !== 1200 || F.height !== 560);
+      const D = await (await fetch('data.json')).json();
+      const r = F.getBoundingClientRect();
+      F.dispatchEvent(new MouseEvent('click', { clientX: r.left + r.width * 0.3, clientY: r.top + r.height * 0.45, bubbles: true }));
+      const t1 = document.getElementById('btitle').textContent;
+      document.getElementById('next').click();
+      const t2 = document.getElementById('btitle').textContent;
+      const bridges = new Set(D.bridges);
+      const id1 = (t1.match(/^Structure (\S+),/) || [])[1], id2 = (t2.match(/^Structure (\S+),/) || [])[1];
+      return { strokes: D.strokes.length, bridges: D.bridges.length, lines33: D.lines.every((l) => l.length === 33),
+        ok1: bridges.has(id1), ok2: bridges.has(id2), moved: t1 !== t2,
+        fits: document.documentElement.scrollWidth <= innerWidth,
+        min_font: Math.min(...[...document.querySelectorAll('.notes p, .lead, .bridge p')].map((e) => parseFloat(getComputedStyle(e).fontSize))) };
+    },
+    ok: (r) => r.strokes === 6611 && r.bridges === 5466 && r.lines33 && r.ok1 && r.ok2 && r.moved && r.fits && r.min_font >= 11,
+  },
 ];
 
 (async () => {

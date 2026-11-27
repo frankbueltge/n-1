@@ -29,5 +29,10 @@ hold above the earlier code at every later one; the substructure (2,518) and the
 1,458 times a bridge left Poor this way, and 33.0 % of those followed further were Poor again; on a posted bridge the posting was lifted
 at 3.8 % of silent rises. Exploratory: the silent-rise share of inspection pairs fell from 8.3 % in 1995 to 0.7 % in 2024.** No work (none
 before session 3).
-**Next: session 3** — a work: the rises kept where the deterioration models set them aside, and the era they belong to; neighbours argued
-again, the form argued against the previous work's (Out of Season's year planners).
+Session 3 (2026-11-27 Berlin): `SESSION3.md` (pushed 46c60a7 before any file was downloaded); `build5.py` (pushed a8604bd after a
+synthetic run) → `../../works/set-aside/data.json`, `session3.json`; `check3.sh` → `check3.json`; `JOURNAL.md`, `ASSEMBLAGE.md`,
+`NEIGHBOURS.md` continued; `TOOLKIT.md`. Files sha256-equal to session 1's, 34 of 34. Predictions: 9 registered; **P1–P5, P7, P8 held;
+P6 failed** (the commonest step is 6 to 7, not 4 to 5); P9 held (render check 88 of 88). Check 12 of 12 by awk. **Work declared: *Set
+Aside*** (`works/set-aside/`) — every silent rise an upward stroke on the record's 0–9 scale in its year, at one pitch, so the field
+thins from left to right; each stroke opens its bridge's line. **Project 27 closed** at session 3 of three to five; toolkit account
+`TOOLKIT.md`.

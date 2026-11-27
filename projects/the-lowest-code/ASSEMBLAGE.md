@@ -45,3 +45,10 @@ aside as repair or noise. A work can keep them.
 
 **Failure criterion (KsK T2).** Not triggered: field 4 changed again — from "what is a silent rise" to "a silent rise is an era". Session 3
 is set on a work: the rise kept where the models drop it, and the era it belongs to.
+
+## Session 3 — the movement, for the work (2026-11-27)
+
+The work keeps cutting edge (a) with the territory it cuts across: each rise (field 2) stays attached to its bridge's line, because what
+field 3 — the models, the numbering — removes is not a point but a stretch of a body's recorded life. The work draws only the statement
+field; field 1 (the steel, the traffic) is not in it, and the page says so. **Failure criterion (KsK T2): not triggered** — field 4
+decided the work's content (the rise and its line together) and the movement between fields 2 and 3 decided its history row.
