@@ -48,3 +48,19 @@ Not art — the engineering literature the record feeds, which is where tonight'
 **Daylight, for session 3 to argue:** the neighbours either measure the judgement's spread at one moment or discard its rises; none keeps
 the rises of one inventory through three decades and shows that they grew rare. Still no art neighbour found; the Atlas search of session 1
 stands.
+
+## Session 3 — searched again before the work (2026-11-27)
+
+The Atlas of Data Art fetched again (712 entries, sha256 `6c1163c4d6cf…`, unchanged) and grepped for bridge, Brücke, repair, inspection,
+infrastructure, condition rating, maintenance, deterioration, decay, Verfall, discard, ignored, outlier: no entry works with bridge
+inspection records; the nearest remain Burrington and Ling (session 1). One web search (standard mode), read as a search tool's
+model-written summary; two pages read at source:
+
+- **The LTBP Bridge Portal** (Rutgers CAIT with FHWA's Long-Term Bridge Performance program; `https://cait.rutgers.edu/?p=1448`): "the
+  only one-stop resource that consolidates 34 years of historical data … for over 611,000 U.S. bridges", including "the inspection
+  history for each bridge". **Nearest in data — it narrows session 1's daylight**: following one bridge through the years is available
+  to an engineer, on query. Daylight now: it answers queries; it does not gather the silent rises or show that they grew rare.
+- **ARTBA's Bridge Report** (`https://artbabridgereport.org/about`): bridge condition by state and congressional district from the 2025
+  NBI, rankings, "Top Deficient Bridges". **Nearest by opposition in form**: a ranking of the worst in one year. Not art.
+
+**Daylight claimed for the work:** `works/set-aside/WORK.md`.
